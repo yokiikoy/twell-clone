@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.typewell-jr-clone/word-list.schema.json",
+  "title": "Typewell-style word list (private clone)",
+  "type": "object",
+  "required": ["version", "words"],
+  "properties": {
+    "version": { "type": "integer", "minimum": 1 },
+    "source": {
+      "type": "string",
+      "description": "e.g. detail-log-parse, hand-authored"
+    },
+    "words": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["surface", "reading", "mode"],
+        "properties": {
+          "surface": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Displayed Japanese (or kana) phrase"
+          },
+          "reading": {
+            "type": "string",
+            "pattern": "^[a-zA-Z\\-]+$",
+            "description": "Expected romaji input for MVP (ASCII only)"
+          },
+          "mode": {
+            "type": "string",
+            "enum": ["kihon", "katakana", "kanji", "kanyoku"]
+          },
+          "tags": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

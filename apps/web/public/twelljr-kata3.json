@@ -1,0 +1,5888 @@
+[
+  {
+    "surface": "ベンチャー",
+    "reading": "benncha-",
+    "code": "01n1gi11",
+    "index": 0
+  },
+  {
+    "surface": "ペンディング",
+    "reading": "penndhinngu",
+    "code": "01n1011n101",
+    "index": 1
+  },
+  {
+    "surface": "ボイコット",
+    "reading": "boikotto",
+    "code": "011x1101",
+    "index": 2
+  },
+  {
+    "surface": "ボイスレコーダー",
+    "reading": "boisureko-da-",
+    "code": "0110101x11011",
+    "index": 3
+  },
+  {
+    "surface": "ホイッスル",
+    "reading": "hoissuru",
+    "code": "01110101",
+    "index": 4
+  },
+  {
+    "surface": "ボーイフレンド",
+    "reading": "bo-ihurenndo",
+    "code": "0111f101n101",
+    "index": 5
+  },
+  {
+    "surface": "ポーカー",
+    "reading": "po-ka-",
+    "code": "011x11",
+    "index": 6
+  },
+  {
+    "surface": "ポーカーフェイス",
+    "reading": "po-ka-fweisu",
+    "code": "011x11pq1101",
+    "index": 7
+  },
+  {
+    "surface": "ボーカリスト",
+    "reading": "bo-karisuto",
+    "code": "011x1010101",
+    "index": 8
+  },
+  {
+    "surface": "ボーカル",
+    "reading": "bo-karu",
+    "code": "011x101",
+    "index": 9
+  },
+  {
+    "surface": "ポークソテー",
+    "reading": "po-kusote-",
+    "code": "011x101011",
+    "index": 10
+  },
+  {
+    "surface": "ポーター",
+    "reading": "po-ta-",
+    "code": "011011",
+    "index": 11
+  },
+  {
+    "surface": "ボーダーライン",
+    "reading": "bo-da-rainn",
+    "code": "011011011u1",
+    "index": 12
+  },
+  {
+    "surface": "ボーダーレス",
+    "reading": "bo-da-resu",
+    "code": "0110110101",
+    "index": 13
+  },
+  {
+    "surface": "ポータブル",
+    "reading": "po-taburu",
+    "code": "011010101",
+    "index": 14
+  },
+  {
+    "surface": "ボート",
+    "reading": "bo-to",
+    "code": "01101",
+    "index": 15
+  },
+  {
+    "surface": "ポートフォリオ",
+    "reading": "po-tofworio",
+    "code": "01101o11011",
+    "index": 16
+  },
+  {
+    "surface": "ポートレート",
+    "reading": "po-tore-to",
+    "code": "0110101101",
+    "index": 17
+  },
+  {
+    "surface": "ホームグラウンド",
+    "reading": "ho-muguraunndo",
+    "code": "0110101011n101",
+    "index": 18
+  },
+  {
+    "surface": "ホームゲーム",
+    "reading": "ho-muge-mu",
+    "code": "0110101101",
+    "index": 19
+  },
+  {
+    "surface": "ホームシック",
+    "reading": "ho-mushikku",
+    "code": "01101s01zV1",
+    "index": 20
+  },
+  {
+    "surface": "ホームステイ",
+    "reading": "ho-musutei",
+    "code": "0110101011",
+    "index": 21
+  },
+  {
+    "surface": "ホームセンター",
+    "reading": "ho-musennta-",
+    "code": "0110101n1011",
+    "index": 22
+  },
+  {
+    "surface": "ホームドクター",
+    "reading": "ho-mudokuta-",
+    "code": "0110101x1011",
+    "index": 23
+  },
+  {
+    "surface": "ホームパーティー",
+    "reading": "ho-mupa-thi-",
+    "code": "011010110111",
+    "index": 24
+  },
+  {
+    "surface": "ホームページ",
+    "reading": "ho-mupe-zi",
+    "code": "01101011j1",
+    "index": 25
+  },
+  {
+    "surface": "ホームポジション",
+    "reading": "ho-mupozishonn",
+    "code": "0110101j10a1u1",
+    "index": 26
+  },
+  {
+    "surface": "ホームラン",
+    "reading": "ho-murann",
+    "code": "0110101u1",
+    "index": 27
+  },
+  {
+    "surface": "ホームルーム",
+    "reading": "ho-muru-mu",
+    "code": "0110101101",
+    "index": 28
+  },
+  {
+    "surface": "ホームレス",
+    "reading": "ho-muresu",
+    "code": "011010101",
+    "index": 29
+  },
+  {
+    "surface": "ボーリング",
+    "reading": "bo-rinngu",
+    "code": "01101n101",
+    "index": 30
+  },
+  {
+    "surface": "ボール",
+    "reading": "bo-ru",
+    "code": "01101",
+    "index": 31
+  },
+  {
+    "surface": "ホールアウト",
+    "reading": "ho-ruauto",
+    "code": "011011101",
+    "index": 32
+  },
+  {
+    "surface": "ホールインワン",
+    "reading": "ho-ruinnwann",
+    "code": "011011n101u1",
+    "index": 33
+  },
+  {
+    "surface": "ホールディング",
+    "reading": "ho-rudhinngu",
+    "code": "01101011n101",
+    "index": 34
+  },
+  {
+    "surface": "ポールポジション",
+    "reading": "po-rupozishonn",
+    "code": "0110101j10a1u1",
+    "index": 35
+  },
+  {
+    "surface": "ボクサー",
+    "reading": "bokusa-",
+    "code": "01x1011",
+    "index": 36
+  },
+  {
+    "surface": "ボサノバ",
+    "reading": "bosanoba",
+    "code": "01010101",
+    "index": 37
+  },
+  {
+    "surface": "ポシェット",
+    "reading": "poshetto",
+    "code": "010a1101",
+    "index": 38
+  },
+  {
+    "surface": "ポジション",
+    "reading": "pozishonn",
+    "code": "01j10a1u1",
+    "index": 39
+  },
+  {
+    "surface": "ポスターカラー",
+    "reading": "posuta-kara-",
+    "code": "0101011x1011",
+    "index": 40
+  },
+  {
+    "surface": "ホスト",
+    "reading": "hosuto",
+    "code": "010101",
+    "index": 41
+  },
+  {
+    "surface": "ポスト",
+    "reading": "posuto",
+    "code": "010101",
+    "index": 42
+  },
+  {
+    "surface": "ポストカード",
+    "reading": "posutoka-do",
+    "code": "010101x1101",
+    "index": 43
+  },
+  {
+    "surface": "ホストクラブ",
+    "reading": "hosutokurabu",
+    "code": "010101x10101",
+    "index": 44
+  },
+  {
+    "surface": "ホストコンピューター",
+    "reading": "hosutokonnpyu-ta-",
+    "code": "010101x1n10111011",
+    "index": 45
+  },
+  {
+    "surface": "ボストンバッグ",
+    "reading": "bosutonnbaggu",
+    "code": "010101n101101",
+    "index": 46
+  },
+  {
+    "surface": "ボストンマラソン",
+    "reading": "bosutonnmarasonn",
+    "code": "010101n1010101u1",
+    "index": 47
+  },
+  {
+    "surface": "ホスピス",
+    "reading": "hosupisu",
+    "code": "01010101",
+    "index": 48
+  },
+  {
+    "surface": "ポタージュ",
+    "reading": "pota-zyu",
+    "code": "01011e11",
+    "index": 49
+  },
+  {
+    "surface": "ボタンダウン",
+    "reading": "botanndaunn",
+    "code": "0101n1011u1",
+    "index": 50
+  },
+  {
+    "surface": "ボックス",
+    "reading": "bokkusu",
+    "code": "01zV101",
+    "index": 51
+  },
+  {
+    "surface": "ホットキー",
+    "reading": "hottoki-",
+    "code": "01101011",
+    "index": 52
+  },
+  {
+    "surface": "ホットケーキ",
+    "reading": "hottoke-ki",
+    "code": "0110101101",
+    "index": 53
+  },
+  {
+    "surface": "ホットコーヒー",
+    "reading": "hottoko-hi-",
+    "code": "01101x11011",
+    "index": 54
+  },
+  {
+    "surface": "ホットドッグ",
+    "reading": "hottodoggu",
+    "code": "0110101101",
+    "index": 55
+  },
+  {
+    "surface": "ホットプレート",
+    "reading": "hottopure-to",
+    "code": "011010101101",
+    "index": 56
+  },
+  {
+    "surface": "ホットライン",
+    "reading": "hottorainn",
+    "code": "01101011u1",
+    "index": 57
+  },
+  {
+    "surface": "ポップアップメニュー",
+    "reading": "poppuappumenyu-",
+    "code": "011011101010111",
+    "index": 58
+  },
+  {
+    "surface": "ポップコーン",
+    "reading": "poppuko-nn",
+    "code": "01101x11u1",
+    "index": 59
+  },
+  {
+    "surface": "ポップス",
+    "reading": "poppusu",
+    "code": "0110101",
+    "index": 60
+  },
+  {
+    "surface": "ボディー",
+    "reading": "bodhi-",
+    "code": "010111",
+    "index": 61
+  },
+  {
+    "surface": "ボディーブロー",
+    "reading": "bodhi-buro-",
+    "code": "01011101011",
+    "index": 62
+  },
+  {
+    "surface": "ボディーライン",
+    "reading": "bodhi-rainn",
+    "code": "010111011u1",
+    "index": 63
+  },
+  {
+    "surface": "ボディコン",
+    "reading": "bodhikonn",
+    "code": "01011x1u1",
+    "index": 64
+  },
+  {
+    "surface": "ボトムライン",
+    "reading": "botomurainn",
+    "code": "010101011u1",
+    "index": 65
+  },
+  {
+    "surface": "ボトルキープ",
+    "reading": "botoruki-pu",
+    "code": "01010101101",
+    "index": 66
+  },
+  {
+    "surface": "ボトルネック",
+    "reading": "botorunekku",
+    "code": "01010101zV1",
+    "index": 67
+  },
+  {
+    "surface": "ホビー",
+    "reading": "hobi-",
+    "code": "01011",
+    "index": 68
+  },
+  {
+    "surface": "ポピュラー",
+    "reading": "popyura-",
+    "code": "01011011",
+    "index": 69
+  },
+  {
+    "surface": "ボブスレー",
+    "reading": "bobusure-",
+    "code": "010101011",
+    "index": 70
+  },
+  {
+    "surface": "ポプラ",
+    "reading": "popura",
+    "code": "010101",
+    "index": 71
+  },
+  {
+    "surface": "ポプリ",
+    "reading": "popuri",
+    "code": "010101",
+    "index": 72
+  },
+  {
+    "surface": "ポマード",
+    "reading": "poma-do",
+    "code": "0101101",
+    "index": 73
+  },
+  {
+    "surface": "ポメラニアン",
+    "reading": "pomeraniann",
+    "code": "010101011u1",
+    "index": 74
+  },
+  {
+    "surface": "ホモサピエンス",
+    "reading": "homosapiennsu",
+    "code": "010101011n101",
+    "index": 75
+  },
+  {
+    "surface": "ホモセクシュアル",
+    "reading": "homosekushuaru",
+    "code": "010101x10a1101",
+    "index": 76
+  },
+  {
+    "surface": "ホラー",
+    "reading": "hora-",
+    "code": "01011",
+    "index": 77
+  },
+  {
+    "surface": "ポラロイド",
+    "reading": "poraroido",
+    "code": "010101101",
+    "index": 78
+  },
+  {
+    "surface": "ポリープ",
+    "reading": "pori-pu",
+    "code": "0101101",
+    "index": 79
+  },
+  {
+    "surface": "ポリウレタン",
+    "reading": "poriuretann",
+    "code": "010110101u1",
+    "index": 80
+  },
+  {
+    "surface": "ポリエステル",
+    "reading": "poriesuteru",
+    "code": "01011010101",
+    "index": 81
+  },
+  {
+    "surface": "ポリエチレン",
+    "reading": "poriechirenn",
+    "code": "01011c0101u1",
+    "index": 82
+  },
+  {
+    "surface": "ポリゴン",
+    "reading": "porigonn",
+    "code": "010101u1",
+    "index": 83
+  },
+  {
+    "surface": "ポリシー",
+    "reading": "porishi-",
+    "code": "0101s011",
+    "index": 84
+  },
+  {
+    "surface": "ボリューム",
+    "reading": "boryu-mu",
+    "code": "01011101",
+    "index": 85
+  },
+  {
+    "surface": "ホルスタイン",
+    "reading": "horusutainn",
+    "code": "010101011u1",
+    "index": 86
+  },
+  {
+    "surface": "ホログラム",
+    "reading": "horoguramu",
+    "code": "0101010101",
+    "index": 87
+  },
+  {
+    "surface": "ホロスコープ",
+    "reading": "horosuko-pu",
+    "code": "010101x1101",
+    "index": 88
+  },
+  {
+    "surface": "ホワイトソース",
+    "reading": "howaitoso-su",
+    "code": "010110101101",
+    "index": 89
+  },
+  {
+    "surface": "ホワイトデー",
+    "reading": "howaitode-",
+    "code": "0101101011",
+    "index": 90
+  },
+  {
+    "surface": "ホワイトボード",
+    "reading": "howaitobo-do",
+    "code": "010110101101",
+    "index": 91
+  },
+  {
+    "surface": "ボンゴレ",
+    "reading": "bonngore",
+    "code": "01n10101",
+    "index": 92
+  },
+  {
+    "surface": "ボンド",
+    "reading": "bonndo",
+    "code": "01n101",
+    "index": 93
+  },
+  {
+    "surface": "ポンド",
+    "reading": "ponndo",
+    "code": "01n101",
+    "index": 94
+  },
+  {
+    "surface": "ボンネット",
+    "reading": "bonnnetto",
+    "code": "01N1v1101",
+    "index": 95
+  },
+  {
+    "surface": "ポンプ",
+    "reading": "ponnpu",
+    "code": "01n101",
+    "index": 96
+  },
+  {
+    "surface": "ボンレスハム",
+    "reading": "bonnresuhamu",
+    "code": "01n101010101",
+    "index": 97
+  },
+  {
+    "surface": "マーキュリー",
+    "reading": "ma-kyuri-",
+    "code": "011011011",
+    "index": 98
+  },
+  {
+    "surface": "マークシート",
+    "reading": "ma-kushi-to",
+    "code": "011x1s01101",
+    "index": 99
+  },
+  {
+    "surface": "マーケット",
+    "reading": "ma-ketto",
+    "code": "01101101",
+    "index": 100
+  },
+  {
+    "surface": "マーケティング",
+    "reading": "ma-kethinngu",
+    "code": "01101011n101",
+    "index": 101
+  },
+  {
+    "surface": "マージン",
+    "reading": "ma-zinn",
+    "code": "011j1u1",
+    "index": 102
+  },
+  {
+    "surface": "マーブル",
+    "reading": "ma-buru",
+    "code": "0110101",
+    "index": 103
+  },
+  {
+    "surface": "マーマレード",
+    "reading": "ma-mare-do",
+    "code": "0110101101",
+    "index": 104
+  },
+  {
+    "surface": "マーモセット",
+    "reading": "ma-mosetto",
+    "code": "0110101101",
+    "index": 105
+  },
+  {
+    "surface": "マイナーチェンジ",
+    "reading": "maina-chennzi",
+    "code": "011011gi1n1j1",
+    "index": 106
+  },
+  {
+    "surface": "マイペース",
+    "reading": "maipe-su",
+    "code": "01101101",
+    "index": 107
+  },
+  {
+    "surface": "マイホーム",
+    "reading": "maiho-mu",
+    "code": "01101101",
+    "index": 108
+  },
+  {
+    "surface": "マインドコントロール",
+    "reading": "mainndokonntoro-ru",
+    "code": "011n101x1n10101101",
+    "index": 109
+  },
+  {
+    "surface": "マウスピース",
+    "reading": "mausupi-su",
+    "code": "0110101101",
+    "index": 110
+  },
+  {
+    "surface": "マウンテンゴリラ",
+    "reading": "maunntenngorira",
+    "code": "011n101n1010101",
+    "index": 111
+  },
+  {
+    "surface": "マウンテンバイク",
+    "reading": "maunntennbaiku",
+    "code": "011n101n1011x1",
+    "index": 112
+  },
+  {
+    "surface": "マウント",
+    "reading": "maunnto",
+    "code": "011n101",
+    "index": 113
+  },
+  {
+    "surface": "マガジン",
+    "reading": "magazinn",
+    "code": "0101j1u1",
+    "index": 114
+  },
+  {
+    "surface": "マカデミアナッツ",
+    "reading": "makademianattsu",
+    "code": "01x101011011t01",
+    "index": 115
+  },
+  {
+    "surface": "マグカップ",
+    "reading": "magukappu",
+    "code": "0101x1101",
+    "index": 116
+  },
+  {
+    "surface": "マグニチュード",
+    "reading": "magunichu-do",
+    "code": "010101gi1101",
+    "index": 117
+  },
+  {
+    "surface": "マグネシウム",
+    "reading": "maguneshiumu",
+    "code": "010101s01101",
+    "index": 118
+  },
+  {
+    "surface": "マグネット",
+    "reading": "magunetto",
+    "code": "010101101",
+    "index": 119
+  },
+  {
+    "surface": "マグマ",
+    "reading": "maguma",
+    "code": "010101",
+    "index": 120
+  },
+  {
+    "surface": "マクロ",
+    "reading": "makuro",
+    "code": "01x101",
+    "index": 121
+  },
+  {
+    "surface": "マザーボード",
+    "reading": "maza-bo-do",
+    "code": "0101101101",
+    "index": 122
+  },
+  {
+    "surface": "マザコン",
+    "reading": "mazakonn",
+    "code": "0101x1u1",
+    "index": 123
+  },
+  {
+    "surface": "マジシャン",
+    "reading": "mazishann",
+    "code": "01j10a1u1",
+    "index": 124
+  },
+  {
+    "surface": "マジックテープ",
+    "reading": "mazikkute-pu",
+    "code": "01j1zV101101",
+    "index": 125
+  },
+  {
+    "surface": "マジックミラー",
+    "reading": "mazikkumira-",
+    "code": "01j1zV101011",
+    "index": 126
+  },
+  {
+    "surface": "マシュマロ",
+    "reading": "mashumaro",
+    "code": "010a10101",
+    "index": 127
+  },
+  {
+    "surface": "マスカラ",
+    "reading": "masukara",
+    "code": "0101x101",
+    "index": 128
+  },
+  {
+    "surface": "マスカルポーネ",
+    "reading": "masukarupo-ne",
+    "code": "0101x10101101",
+    "index": 129
+  },
+  {
+    "surface": "マスカレード",
+    "reading": "masukare-do",
+    "code": "0101x101101",
+    "index": 130
+  },
+  {
+    "surface": "マスキング",
+    "reading": "masukinngu",
+    "code": "010101n101",
+    "index": 131
+  },
+  {
+    "surface": "マスコット",
+    "reading": "masukotto",
+    "code": "0101x1101",
+    "index": 132
+  },
+  {
+    "surface": "マスターキー",
+    "reading": "masuta-ki-",
+    "code": "0101011011",
+    "index": 133
+  },
+  {
+    "surface": "マスターズ",
+    "reading": "masuta-zu",
+    "code": "010101101",
+    "index": 134
+  },
+  {
+    "surface": "マスタード",
+    "reading": "masuta-do",
+    "code": "010101101",
+    "index": 135
+  },
+  {
+    "surface": "ワンピース",
+    "reading": "wannpi-su",
+    "code": "01n101101",
+    "index": 136
+  },
+  {
+    "surface": "マスメディア",
+    "reading": "masumedhia",
+    "code": "0101010111",
+    "index": 137
+  },
+  {
+    "surface": "マゾ",
+    "reading": "mazo",
+    "code": "0101",
+    "index": 138
+  },
+  {
+    "surface": "マタニティードレス",
+    "reading": "matanithi-doresu",
+    "code": "0101010111010101",
+    "index": 139
+  },
+  {
+    "surface": "マッシュポテト",
+    "reading": "masshupoteto",
+    "code": "0110a1010101",
+    "index": 140
+  },
+  {
+    "surface": "マッシュルーム",
+    "reading": "masshuru-mu",
+    "code": "0110a101101",
+    "index": 141
+  },
+  {
+    "surface": "マッチポイント",
+    "reading": "macchipoinnto",
+    "code": "01kc01011n101",
+    "index": 142
+  },
+  {
+    "surface": "マットレス",
+    "reading": "mattoresu",
+    "code": "011010101",
+    "index": 143
+  },
+  {
+    "surface": "マッピング",
+    "reading": "mappinngu",
+    "code": "01101n101",
+    "index": 144
+  },
+  {
+    "surface": "マドレーヌ",
+    "reading": "madore-nu",
+    "code": "010101101",
+    "index": 145
+  },
+  {
+    "surface": "マトン",
+    "reading": "matonn",
+    "code": "0101u1",
+    "index": 146
+  },
+  {
+    "surface": "マドンナ",
+    "reading": "madonnna",
+    "code": "0101N1v1",
+    "index": 147
+  },
+  {
+    "surface": "マナティー",
+    "reading": "manathi-",
+    "code": "01010111",
+    "index": 148
+  },
+  {
+    "surface": "マニアック",
+    "reading": "maniakku",
+    "code": "01011zV1",
+    "index": 149
+  },
+  {
+    "surface": "マニュアル",
+    "reading": "manyuaru",
+    "code": "01011101",
+    "index": 150
+  },
+  {
+    "surface": "マネーゲーム",
+    "reading": "mane-ge-mu",
+    "code": "0101101101",
+    "index": 151
+  },
+  {
+    "surface": "マネージメント",
+    "reading": "mane-zimennto",
+    "code": "01011j101n101",
+    "index": 152
+  },
+  {
+    "surface": "マネキン",
+    "reading": "manekinn",
+    "code": "010101u1",
+    "index": 153
+  },
+  {
+    "surface": "マフィア",
+    "reading": "mafwia",
+    "code": "01pq11",
+    "index": 154
+  },
+  {
+    "surface": "マフィン",
+    "reading": "mafwinn",
+    "code": "01pq1u1",
+    "index": 155
+  },
+  {
+    "surface": "マホガニー",
+    "reading": "mahogani-",
+    "code": "010101011",
+    "index": 156
+  },
+  {
+    "surface": "マラソン",
+    "reading": "marasonn",
+    "code": "010101u1",
+    "index": 157
+  },
+  {
+    "surface": "マラリア",
+    "reading": "mararia",
+    "code": "0101011",
+    "index": 158
+  },
+  {
+    "surface": "マリオネット",
+    "reading": "marionetto",
+    "code": "0101101101",
+    "index": 159
+  },
+  {
+    "surface": "マリネ",
+    "reading": "marine",
+    "code": "010101",
+    "index": 160
+  },
+  {
+    "surface": "マリファナ",
+    "reading": "marifwana",
+    "code": "0101o1101",
+    "index": 161
+  },
+  {
+    "surface": "マリンスポーツ",
+    "reading": "marinnsupo-tsu",
+    "code": "0101n101011t01",
+    "index": 162
+  },
+  {
+    "surface": "マリンブルー",
+    "reading": "marinnburu-",
+    "code": "0101n101011",
+    "index": 163
+  },
+  {
+    "surface": "マルガリータ",
+    "reading": "marugari-ta",
+    "code": "01010101101",
+    "index": 164
+  },
+  {
+    "surface": "マルチーズ",
+    "reading": "maruchi-zu",
+    "code": "0101c01101",
+    "index": 165
+  },
+  {
+    "surface": "マルチタスク",
+    "reading": "maruchitasuku",
+    "code": "0101c010101x1",
+    "index": 166
+  },
+  {
+    "surface": "マルチタレント",
+    "reading": "maruchitarennto",
+    "code": "0101c010101n101",
+    "index": 167
+  },
+  {
+    "surface": "マルチメディア",
+    "reading": "maruchimedhia",
+    "code": "0101c01010111",
+    "index": 168
+  },
+  {
+    "surface": "マロングラッセ",
+    "reading": "maronngurasse",
+    "code": "0101n10101101",
+    "index": 169
+  },
+  {
+    "surface": "マンガン",
+    "reading": "manngann",
+    "code": "01n101u1",
+    "index": 170
+  },
+  {
+    "surface": "マングース",
+    "reading": "manngu-su",
+    "code": "01n101101",
+    "index": 171
+  },
+  {
+    "surface": "マングローブ",
+    "reading": "mannguro-bu",
+    "code": "01n10101101",
+    "index": 172
+  },
+  {
+    "surface": "マンゴー",
+    "reading": "manngo-",
+    "code": "01n1011",
+    "index": 173
+  },
+  {
+    "surface": "マンタ",
+    "reading": "mannta",
+    "code": "01n101",
+    "index": 174
+  },
+  {
+    "surface": "マンツーマン",
+    "reading": "manntsu-mann",
+    "code": "01n1t01101u1",
+    "index": 175
+  },
+  {
+    "surface": "マンデリン",
+    "reading": "mannderinn",
+    "code": "01n10101u1",
+    "index": 176
+  },
+  {
+    "surface": "マンドリル",
+    "reading": "manndoriru",
+    "code": "01n1010101",
+    "index": 177
+  },
+  {
+    "surface": "マンドリン",
+    "reading": "manndorinn",
+    "code": "01n10101u1",
+    "index": 178
+  },
+  {
+    "surface": "マントルピース",
+    "reading": "manntorupi-su",
+    "code": "01n1010101101",
+    "index": 179
+  },
+  {
+    "surface": "マンホール",
+    "reading": "mannho-ru",
+    "code": "01n101101",
+    "index": 180
+  },
+  {
+    "surface": "マンモス",
+    "reading": "mannmosu",
+    "code": "01n10101",
+    "index": 181
+  },
+  {
+    "surface": "ミーアキャット",
+    "reading": "mi-akyatto",
+    "code": "0111011101",
+    "index": 182
+  },
+  {
+    "surface": "ミーティング",
+    "reading": "mi-thinngu",
+    "code": "011011n101",
+    "index": 183
+  },
+  {
+    "surface": "ミートソース",
+    "reading": "mi-toso-su",
+    "code": "0110101101",
+    "index": 184
+  },
+  {
+    "surface": "ミートボール",
+    "reading": "mi-tobo-ru",
+    "code": "0110101101",
+    "index": 185
+  },
+  {
+    "surface": "ミイラ",
+    "reading": "miira",
+    "code": "01101",
+    "index": 186
+  },
+  {
+    "surface": "ミキサー",
+    "reading": "mikisa-",
+    "code": "0101011",
+    "index": 187
+  },
+  {
+    "surface": "ミクロン",
+    "reading": "mikuronn",
+    "code": "01x101u1",
+    "index": 188
+  },
+  {
+    "surface": "ミサイル",
+    "reading": "misairu",
+    "code": "0101101",
+    "index": 189
+  },
+  {
+    "surface": "ミステリアス",
+    "reading": "misuteriasu",
+    "code": "01010101101",
+    "index": 190
+  },
+  {
+    "surface": "ミステリー",
+    "reading": "misuteri-",
+    "code": "010101011",
+    "index": 191
+  },
+  {
+    "surface": "ミスプリント",
+    "reading": "misupurinnto",
+    "code": "01010101n101",
+    "index": 192
+  },
+  {
+    "surface": "ミスマッチ",
+    "reading": "misumacchi",
+    "code": "010101kc01",
+    "index": 193
+  },
+  {
+    "surface": "ミスリード",
+    "reading": "misuri-do",
+    "code": "010101101",
+    "index": 194
+  },
+  {
+    "surface": "ミセス",
+    "reading": "misesu",
+    "code": "010101",
+    "index": 195
+  },
+  {
+    "surface": "ミックスグリル",
+    "reading": "mikkusuguriru",
+    "code": "01zV101010101",
+    "index": 196
+  },
+  {
+    "surface": "ミックスダブルス",
+    "reading": "mikkusudaburusu",
+    "code": "01zV10101010101",
+    "index": 197
+  },
+  {
+    "surface": "ミッション",
+    "reading": "misshonn",
+    "code": "0110a1u1",
+    "index": 198
+  },
+  {
+    "surface": "ミッドナイト",
+    "reading": "middonaito",
+    "code": "0110101101",
+    "index": 199
+  },
+  {
+    "surface": "ミディアム",
+    "reading": "midhiamu",
+    "code": "01011101",
+    "index": 200
+  },
+  {
+    "surface": "ミディアムレア",
+    "reading": "midhiamurea",
+    "code": "01011101011",
+    "index": 201
+  },
+  {
+    "surface": "ミトコンドリア",
+    "reading": "mitokonndoria",
+    "code": "0101x1n101011",
+    "index": 202
+  },
+  {
+    "surface": "ミニマム",
+    "reading": "minimamu",
+    "code": "01010101",
+    "index": 203
+  },
+  {
+    "surface": "ミネストローネ",
+    "reading": "minesutoro-ne",
+    "code": "0101010101101",
+    "index": 204
+  },
+  {
+    "surface": "ミュージシャン",
+    "reading": "myu-zishann",
+    "code": "0111j10a1u1",
+    "index": 205
+  },
+  {
+    "surface": "ミュータント",
+    "reading": "myu-tannto",
+    "code": "011101n101",
+    "index": 206
+  },
+  {
+    "surface": "ミラクル",
+    "reading": "mirakuru",
+    "code": "0101x101",
+    "index": 207
+  },
+  {
+    "surface": "ミリオンセラー",
+    "reading": "mirionnsera-",
+    "code": "01011n101011",
+    "index": 208
+  },
+  {
+    "surface": "ミルクコーヒー",
+    "reading": "mirukuko-hi-",
+    "code": "0101x1x11011",
+    "index": 209
+  },
+  {
+    "surface": "ミルクセーキ",
+    "reading": "mirukuse-ki",
+    "code": "0101x101101",
+    "index": 210
+  },
+  {
+    "surface": "ミルクティー",
+    "reading": "mirukuthi-",
+    "code": "0101x10111",
+    "index": 211
+  },
+  {
+    "surface": "ミルクパン",
+    "reading": "mirukupann",
+    "code": "0101x101u1",
+    "index": 212
+  },
+  {
+    "surface": "ミルフィーユ",
+    "reading": "mirufwi-yu",
+    "code": "0101pq1101",
+    "index": 213
+  },
+  {
+    "surface": "ミレニアム",
+    "reading": "mireniamu",
+    "code": "010101101",
+    "index": 214
+  },
+  {
+    "surface": "ミンク",
+    "reading": "minnku",
+    "code": "01n1x1",
+    "index": 215
+  },
+  {
+    "surface": "ミンチ",
+    "reading": "minnchi",
+    "code": "01n1c01",
+    "index": 216
+  },
+  {
+    "surface": "ミント",
+    "reading": "minnto",
+    "code": "01n101",
+    "index": 217
+  },
+  {
+    "surface": "ムース",
+    "reading": "mu-su",
+    "code": "01101",
+    "index": 218
+  },
+  {
+    "surface": "ムード",
+    "reading": "mu-do",
+    "code": "01101",
+    "index": 219
+  },
+  {
+    "surface": "ムードメーカー",
+    "reading": "mu-dome-ka-",
+    "code": "01101011x11",
+    "index": 220
+  },
+  {
+    "surface": "ムービー",
+    "reading": "mu-bi-",
+    "code": "011011",
+    "index": 221
+  },
+  {
+    "surface": "メインバンク",
+    "reading": "meinnbannku",
+    "code": "011n101n1x1",
+    "index": 222
+  },
+  {
+    "surface": "ムーンサルト",
+    "reading": "mu-nnsaruto",
+    "code": "011n1010101",
+    "index": 223
+  },
+  {
+    "surface": "ムスリム",
+    "reading": "musurimu",
+    "code": "01010101",
+    "index": 224
+  },
+  {
+    "surface": "ムニエル",
+    "reading": "munieru",
+    "code": "0101101",
+    "index": 225
+  },
+  {
+    "surface": "メインイベント",
+    "reading": "meinnibennto",
+    "code": "011N1901n101",
+    "index": 226
+  },
+  {
+    "surface": "メインコース",
+    "reading": "meinnko-su",
+    "code": "011n1x1101",
+    "index": 227
+  },
+  {
+    "surface": "メインディッシュ",
+    "reading": "meinndhisshu",
+    "code": "011n101110a1",
+    "index": 228
+  },
+  {
+    "surface": "メインテーマ",
+    "reading": "meinnte-ma",
+    "code": "011n101101",
+    "index": 229
+  },
+  {
+    "surface": "メインメモリ",
+    "reading": "meinnmemori",
+    "code": "011n1010101",
+    "index": 230
+  },
+  {
+    "surface": "メーター",
+    "reading": "me-ta-",
+    "code": "011011",
+    "index": 231
+  },
+  {
+    "surface": "メートル",
+    "reading": "me-toru",
+    "code": "0110101",
+    "index": 232
+  },
+  {
+    "surface": "メーラー",
+    "reading": "me-ra-",
+    "code": "011011",
+    "index": 233
+  },
+  {
+    "surface": "メーリングリスト",
+    "reading": "me-rinngurisuto",
+    "code": "01101n101010101",
+    "index": 234
+  },
+  {
+    "surface": "メールアドレス",
+    "reading": "me-ruadoresu",
+    "code": "011011010101",
+    "index": 235
+  },
+  {
+    "surface": "メールサーバー",
+    "reading": "me-rusa-ba-",
+    "code": "01101011011",
+    "index": 236
+  },
+  {
+    "surface": "メカニズム",
+    "reading": "mekanizumu",
+    "code": "01x1010101",
+    "index": 237
+  },
+  {
+    "surface": "メガバイト",
+    "reading": "megabaito",
+    "code": "010101101",
+    "index": 238
+  },
+  {
+    "surface": "メガホン",
+    "reading": "megahonn",
+    "code": "010101u1",
+    "index": 239
+  },
+  {
+    "surface": "メジャーリーグ",
+    "reading": "mezya-ri-gu",
+    "code": "01e11101101",
+    "index": 240
+  },
+  {
+    "surface": "メスシリンダー",
+    "reading": "mesushirinnda-",
+    "code": "0101s0101n1011",
+    "index": 241
+  },
+  {
+    "surface": "メタセコイア",
+    "reading": "metasekoia",
+    "code": "010101x111",
+    "index": 242
+  },
+  {
+    "surface": "メタリック",
+    "reading": "metarikku",
+    "code": "010101zV1",
+    "index": 243
+  },
+  {
+    "surface": "メタル",
+    "reading": "metaru",
+    "code": "010101",
+    "index": 244
+  },
+  {
+    "surface": "メダル",
+    "reading": "medaru",
+    "code": "010101",
+    "index": 245
+  },
+  {
+    "surface": "メチルアルコール",
+    "reading": "mechiruaruko-ru",
+    "code": "01c0101101x1101",
+    "index": 246
+  },
+  {
+    "surface": "メッシュ",
+    "reading": "messhu",
+    "code": "0110a1",
+    "index": 247
+  },
+  {
+    "surface": "メドレー",
+    "reading": "medore-",
+    "code": "0101011",
+    "index": 248
+  },
+  {
+    "surface": "メトロノーム",
+    "reading": "metorono-mu",
+    "code": "01010101101",
+    "index": 249
+  },
+  {
+    "surface": "メトロポリス",
+    "reading": "metoroporisu",
+    "code": "010101010101",
+    "index": 250
+  },
+  {
+    "surface": "メモリ",
+    "reading": "memori",
+    "code": "010101",
+    "index": 251
+  },
+  {
+    "surface": "メモリアル",
+    "reading": "memoriaru",
+    "code": "010101101",
+    "index": 252
+  },
+  {
+    "surface": "メモリカード",
+    "reading": "memorika-do",
+    "code": "010101x1101",
+    "index": 253
+  },
+  {
+    "surface": "メラニン",
+    "reading": "meraninn",
+    "code": "010101u1",
+    "index": 254
+  },
+  {
+    "surface": "メリーゴーランド",
+    "reading": "meri-go-ranndo",
+    "code": "0101101101n101",
+    "index": 255
+  },
+  {
+    "surface": "メリット",
+    "reading": "meritto",
+    "code": "0101101",
+    "index": 256
+  },
+  {
+    "surface": "メリヤス",
+    "reading": "meriyasu",
+    "code": "01010101",
+    "index": 257
+  },
+  {
+    "surface": "メルヘン",
+    "reading": "meruhenn",
+    "code": "010101u1",
+    "index": 258
+  },
+  {
+    "surface": "メルルーサ",
+    "reading": "meruru-sa",
+    "code": "010101101",
+    "index": 259
+  },
+  {
+    "surface": "メンス",
+    "reading": "mennsu",
+    "code": "01n101",
+    "index": 260
+  },
+  {
+    "surface": "メンズ",
+    "reading": "mennzu",
+    "code": "01n101",
+    "index": 261
+  },
+  {
+    "surface": "メンタリティー",
+    "reading": "menntarithi-",
+    "code": "01n101010111",
+    "index": 262
+  },
+  {
+    "surface": "メンタル",
+    "reading": "menntaru",
+    "code": "01n10101",
+    "index": 263
+  },
+  {
+    "surface": "メンタルトレーニング",
+    "reading": "menntarutore-ninngu",
+    "code": "01n101010101101n101",
+    "index": 264
+  },
+  {
+    "surface": "メンチカツ",
+    "reading": "mennchikatsu",
+    "code": "01n1c01x1t01",
+    "index": 265
+  },
+  {
+    "surface": "メンテナンス",
+    "reading": "menntenannsu",
+    "code": "01n10101n101",
+    "index": 266
+  },
+  {
+    "surface": "メンバー",
+    "reading": "mennba-",
+    "code": "01n1011",
+    "index": 267
+  },
+  {
+    "surface": "メンマ",
+    "reading": "mennma",
+    "code": "01n101",
+    "index": 268
+  },
+  {
+    "surface": "モアイ",
+    "reading": "moai",
+    "code": "0111",
+    "index": 269
+  },
+  {
+    "surface": "モーグル",
+    "reading": "mo-guru",
+    "code": "0110101",
+    "index": 270
+  },
+  {
+    "surface": "モーションキャプチャー",
+    "reading": "mo-shonnkyapucha-",
+    "code": "0110a1n101101gi11",
+    "index": 271
+  },
+  {
+    "surface": "モータースポーツ",
+    "reading": "mo-ta-supo-tsu",
+    "code": "01101101011t01",
+    "index": 272
+  },
+  {
+    "surface": "モーターボート",
+    "reading": "mo-ta-bo-to",
+    "code": "01101101101",
+    "index": 273
+  },
+  {
+    "surface": "モーニングコール",
+    "reading": "mo-ninnguko-ru",
+    "code": "01101n101x1101",
+    "index": 274
+  },
+  {
+    "surface": "モーニングサービス",
+    "reading": "mo-ninngusa-bisu",
+    "code": "01101n1010110101",
+    "index": 275
+  },
+  {
+    "surface": "モーフィング",
+    "reading": "mo-fwinngu",
+    "code": "011pq1n101",
+    "index": 276
+  },
+  {
+    "surface": "モザイク",
+    "reading": "mozaiku",
+    "code": "01011x1",
+    "index": 277
+  },
+  {
+    "surface": "モジュール",
+    "reading": "mozyu-ru",
+    "code": "01e11101",
+    "index": 278
+  },
+  {
+    "surface": "モジュラージャック",
+    "reading": "mozyura-zyakku",
+    "code": "01e11011e11zV1",
+    "index": 279
+  },
+  {
+    "surface": "モスク",
+    "reading": "mosuku",
+    "code": "0101x1",
+    "index": 280
+  },
+  {
+    "surface": "モダン",
+    "reading": "modann",
+    "code": "0101u1",
+    "index": 281
+  },
+  {
+    "surface": "モチーフ",
+    "reading": "mochi-hu",
+    "code": "01c011f1",
+    "index": 282
+  },
+  {
+    "surface": "モチベーション",
+    "reading": "mochibe-shonn",
+    "code": "01c010110a1u1",
+    "index": 283
+  },
+  {
+    "surface": "モッツァレラ",
+    "reading": "mottsarera",
+    "code": "0110110101",
+    "index": 284
+  },
+  {
+    "surface": "モップ",
+    "reading": "moppu",
+    "code": "01101",
+    "index": 285
+  },
+  {
+    "surface": "モデム",
+    "reading": "modemu",
+    "code": "010101",
+    "index": 286
+  },
+  {
+    "surface": "モデリング",
+    "reading": "moderinngu",
+    "code": "010101n101",
+    "index": 287
+  },
+  {
+    "surface": "モデルケース",
+    "reading": "moderuke-su",
+    "code": "01010101101",
+    "index": 288
+  },
+  {
+    "surface": "モデルチェンジ",
+    "reading": "moderuchennzi",
+    "code": "010101gi1n1j1",
+    "index": 289
+  },
+  {
+    "surface": "モトクロス",
+    "reading": "motokurosu",
+    "code": "0101x10101",
+    "index": 290
+  },
+  {
+    "surface": "モナリザ",
+    "reading": "monariza",
+    "code": "01010101",
+    "index": 291
+  },
+  {
+    "surface": "モニター",
+    "reading": "monita-",
+    "code": "0101011",
+    "index": 292
+  },
+  {
+    "surface": "モニタリング",
+    "reading": "monitarinngu",
+    "code": "01010101n101",
+    "index": 293
+  },
+  {
+    "surface": "モニュメント",
+    "reading": "monyumennto",
+    "code": "0101101n101",
+    "index": 294
+  },
+  {
+    "surface": "モノクロ",
+    "reading": "monokuro",
+    "code": "0101x101",
+    "index": 295
+  },
+  {
+    "surface": "モノトーン",
+    "reading": "monoto-nn",
+    "code": "0101011u1",
+    "index": 296
+  },
+  {
+    "surface": "モノラル",
+    "reading": "monoraru",
+    "code": "01010101",
+    "index": 297
+  },
+  {
+    "surface": "モノレール",
+    "reading": "monore-ru",
+    "code": "010101101",
+    "index": 298
+  },
+  {
+    "surface": "モノローグ",
+    "reading": "monoro-gu",
+    "code": "010101101",
+    "index": 299
+  },
+  {
+    "surface": "モバイル",
+    "reading": "mobairu",
+    "code": "0101101",
+    "index": 300
+  },
+  {
+    "surface": "モラトリアム",
+    "reading": "moratoriamu",
+    "code": "01010101101",
+    "index": 301
+  },
+  {
+    "surface": "モラル",
+    "reading": "moraru",
+    "code": "010101",
+    "index": 302
+  },
+  {
+    "surface": "モルタル",
+    "reading": "morutaru",
+    "code": "01010101",
+    "index": 303
+  },
+  {
+    "surface": "モルヒネ",
+    "reading": "moruhine",
+    "code": "01010101",
+    "index": 304
+  },
+  {
+    "surface": "モルモット",
+    "reading": "morumotto",
+    "code": "010101101",
+    "index": 305
+  },
+  {
+    "surface": "モロヘイヤ",
+    "reading": "moroheiya",
+    "code": "010101101",
+    "index": 306
+  },
+  {
+    "surface": "モンゴロイド",
+    "reading": "monngoroido",
+    "code": "01n10101101",
+    "index": 307
+  },
+  {
+    "surface": "モンスーン",
+    "reading": "monnsu-nn",
+    "code": "01n1011u1",
+    "index": 308
+  },
+  {
+    "surface": "モンスター",
+    "reading": "monnsuta-",
+    "code": "01n101011",
+    "index": 309
+  },
+  {
+    "surface": "モンタージュ",
+    "reading": "monnta-zyu",
+    "code": "01n1011e11",
+    "index": 310
+  },
+  {
+    "surface": "ヤングコーン",
+    "reading": "yannguko-nn",
+    "code": "01n101x11u1",
+    "index": 311
+  },
+  {
+    "surface": "ユーカリ",
+    "reading": "yu-kari",
+    "code": "011x101",
+    "index": 312
+  },
+  {
+    "surface": "ユーザー",
+    "reading": "yu-za-",
+    "code": "011011",
+    "index": 313
+  },
+  {
+    "surface": "ユースホステル",
+    "reading": "yu-suhosuteru",
+    "code": "0110101010101",
+    "index": 314
+  },
+  {
+    "surface": "ユーティリティ",
+    "reading": "yu-thirithi",
+    "code": "01101101011",
+    "index": 315
+  },
+  {
+    "surface": "ユートピア",
+    "reading": "yu-topia",
+    "code": "01101011",
+    "index": 316
+  },
+  {
+    "surface": "ユーモラス",
+    "reading": "yu-morasu",
+    "code": "011010101",
+    "index": 317
+  },
+  {
+    "surface": "ユーロ",
+    "reading": "yu-ro",
+    "code": "01101",
+    "index": 318
+  },
+  {
+    "surface": "ユダヤ",
+    "reading": "yudaya",
+    "code": "010101",
+    "index": 319
+  },
+  {
+    "surface": "ユッケ",
+    "reading": "yukke",
+    "code": "01101",
+    "index": 320
+  },
+  {
+    "surface": "ユニーク",
+    "reading": "yuni-ku",
+    "code": "01011x1",
+    "index": 321
+  },
+  {
+    "surface": "ユニオン",
+    "reading": "yunionn",
+    "code": "01011u1",
+    "index": 322
+  },
+  {
+    "surface": "ユニコード",
+    "reading": "yuniko-do",
+    "code": "0101x1101",
+    "index": 323
+  },
+  {
+    "surface": "ユニコーン",
+    "reading": "yuniko-nn",
+    "code": "0101x11u1",
+    "index": 324
+  },
+  {
+    "surface": "ユニセックス",
+    "reading": "yunisekkusu",
+    "code": "010101zV101",
+    "index": 325
+  },
+  {
+    "surface": "ユニセフ",
+    "reading": "yunisehu",
+    "code": "010101f1",
+    "index": 326
+  },
+  {
+    "surface": "ユニット",
+    "reading": "yunitto",
+    "code": "0101101",
+    "index": 327
+  },
+  {
+    "surface": "ユニットバス",
+    "reading": "yunittobasu",
+    "code": "01011010101",
+    "index": 328
+  },
+  {
+    "surface": "ユニバーサル",
+    "reading": "yuniba-saru",
+    "code": "01010110101",
+    "index": 329
+  },
+  {
+    "surface": "ユニバーシアード",
+    "reading": "yuniba-shia-do",
+    "code": "0101011s011101",
+    "index": 330
+  },
+  {
+    "surface": "ユニホーム",
+    "reading": "yuniho-mu",
+    "code": "010101101",
+    "index": 331
+  },
+  {
+    "surface": "ユネスコ",
+    "reading": "yunesuko",
+    "code": "010101x1",
+    "index": 332
+  },
+  {
+    "surface": "ヨーヨー",
+    "reading": "yo-yo-",
+    "code": "011011",
+    "index": 333
+  },
+  {
+    "surface": "ヨットパーカ",
+    "reading": "yottopa-ka",
+    "code": "01101011x1",
+    "index": 334
+  },
+  {
+    "surface": "ラージヒル",
+    "reading": "ra-zihiru",
+    "code": "011j10101",
+    "index": 335
+  },
+  {
+    "surface": "ラード",
+    "reading": "ra-do",
+    "code": "01101",
+    "index": 336
+  },
+  {
+    "surface": "ライオン",
+    "reading": "raionn",
+    "code": "0111u1",
+    "index": 337
+  },
+  {
+    "surface": "ライスボウル",
+    "reading": "raisubouru",
+    "code": "0110101101",
+    "index": 338
+  },
+  {
+    "surface": "ライセンス",
+    "reading": "raisennsu",
+    "code": "01101n101",
+    "index": 339
+  },
+  {
+    "surface": "ライター",
+    "reading": "raita-",
+    "code": "011011",
+    "index": 340
+  },
+  {
+    "surface": "ライトアップ",
+    "reading": "raitoappu",
+    "code": "011011101",
+    "index": 341
+  },
+  {
+    "surface": "ライトキャッシュ",
+    "reading": "raitokyasshu",
+    "code": "0110101110a1",
+    "index": 342
+  },
+  {
+    "surface": "ライトブルー",
+    "reading": "raitoburu-",
+    "code": "0110101011",
+    "index": 343
+  },
+  {
+    "surface": "ライトプロテクト",
+    "reading": "raitopurotekuto",
+    "code": "01101010101x101",
+    "index": 344
+  },
+  {
+    "surface": "ライトペン",
+    "reading": "raitopenn",
+    "code": "0110101u1",
+    "index": 345
+  },
+  {
+    "surface": "ライフジャケット",
+    "reading": "raihuzyaketto",
+    "code": "011f1e1101101",
+    "index": 346
+  },
+  {
+    "surface": "ライフスタイル",
+    "reading": "raihusutairu",
+    "code": "011f10101101",
+    "index": 347
+  },
+  {
+    "surface": "ライブハウス",
+    "reading": "raibuhausu",
+    "code": "0110101101",
+    "index": 348
+  },
+  {
+    "surface": "ライフライン",
+    "reading": "raihurainn",
+    "code": "011f1011u1",
+    "index": 349
+  },
+  {
+    "surface": "ライフル",
+    "reading": "raihuru",
+    "code": "011f101",
+    "index": 350
+  },
+  {
+    "surface": "ライフワーク",
+    "reading": "raihuwa-ku",
+    "code": "011f1011x1",
+    "index": 351
+  },
+  {
+    "surface": "ライム",
+    "reading": "raimu",
+    "code": "01101",
+    "index": 352
+  },
+  {
+    "surface": "ライラック",
+    "reading": "rairakku",
+    "code": "01101zV1",
+    "index": 353
+  },
+  {
+    "surface": "ライン",
+    "reading": "rainn",
+    "code": "011u1",
+    "index": 354
+  },
+  {
+    "surface": "ラインナップ",
+    "reading": "rainnnappu",
+    "code": "011N1v1101",
+    "index": 355
+  },
+  {
+    "surface": "ラウンジ",
+    "reading": "raunnzi",
+    "code": "011n1j1",
+    "index": 356
+  },
+  {
+    "surface": "ラウンド",
+    "reading": "raunndo",
+    "code": "011n101",
+    "index": 357
+  },
+  {
+    "surface": "ラオチュー",
+    "reading": "raochu-",
+    "code": "011gi11",
+    "index": 358
+  },
+  {
+    "surface": "ラクトアイス",
+    "reading": "rakutoaisu",
+    "code": "01x1011101",
+    "index": 359
+  },
+  {
+    "surface": "ラジアルタイヤ",
+    "reading": "raziarutaiya",
+    "code": "01j110101101",
+    "index": 360
+  },
+  {
+    "surface": "ラジウム",
+    "reading": "raziumu",
+    "code": "01j1101",
+    "index": 361
+  },
+  {
+    "surface": "ラジエーター",
+    "reading": "razie-ta-",
+    "code": "01j111011",
+    "index": 362
+  },
+  {
+    "surface": "ラジオボタン",
+    "reading": "raziobotann",
+    "code": "01j110101u1",
+    "index": 363
+  },
+  {
+    "surface": "ラスク",
+    "reading": "rasuku",
+    "code": "0101x1",
+    "index": 364
+  },
+  {
+    "surface": "ラストシーン",
+    "reading": "rasutoshi-nn",
+    "code": "010101s011u1",
+    "index": 365
+  },
+  {
+    "surface": "ラストスパート",
+    "reading": "rasutosupa-to",
+    "code": "0101010101101",
+    "index": 366
+  },
+  {
+    "surface": "ラズベリー",
+    "reading": "razuberi-",
+    "code": "010101011",
+    "index": 367
+  },
+  {
+    "surface": "ラタン",
+    "reading": "ratann",
+    "code": "0101u1",
+    "index": 368
+  },
+  {
+    "surface": "ラッコ",
+    "reading": "rakko",
+    "code": "01zV1",
+    "index": 369
+  },
+  {
+    "surface": "ラッシュ",
+    "reading": "rasshu",
+    "code": "0110a1",
+    "index": 370
+  },
+  {
+    "surface": "ラッシュアワー",
+    "reading": "rasshuawa-",
+    "code": "0110a11011",
+    "index": 371
+  },
+  {
+    "surface": "ラッピング",
+    "reading": "rappinngu",
+    "code": "01101n101",
+    "index": 372
+  },
+  {
+    "surface": "ラップ",
+    "reading": "rappu",
+    "code": "01101",
+    "index": 373
+  },
+  {
+    "surface": "ラップタイム",
+    "reading": "rapputaimu",
+    "code": "0110101101",
+    "index": 374
+  },
+  {
+    "surface": "ラップトップ",
+    "reading": "rapputoppu",
+    "code": "0110101101",
+    "index": 375
+  },
+  {
+    "surface": "ラディッシュ",
+    "reading": "radhisshu",
+    "code": "0101110a1",
+    "index": 376
+  },
+  {
+    "surface": "ラピスラズリ",
+    "reading": "rapisurazuri",
+    "code": "010101010101",
+    "index": 377
+  },
+  {
+    "surface": "ラブシーン",
+    "reading": "rabushi-nn",
+    "code": "0101s011u1",
+    "index": 378
+  },
+  {
+    "surface": "ラプソディー",
+    "reading": "rapusodhi-",
+    "code": "0101010111",
+    "index": 379
+  },
+  {
+    "surface": "ラブソング",
+    "reading": "rabusonngu",
+    "code": "010101n101",
+    "index": 380
+  },
+  {
+    "surface": "ラフレシア",
+    "reading": "rahureshia",
+    "code": "01f101s011",
+    "index": 381
+  },
+  {
+    "surface": "ラブレター",
+    "reading": "rabureta-",
+    "code": "010101011",
+    "index": 382
+  },
+  {
+    "surface": "ラベル",
+    "reading": "raberu",
+    "code": "010101",
+    "index": 383
+  },
+  {
+    "surface": "ラベンダー",
+    "reading": "rabennda-",
+    "code": "0101n1011",
+    "index": 384
+  },
+  {
+    "surface": "ラミネート",
+    "reading": "ramine-to",
+    "code": "010101101",
+    "index": 385
+  },
+  {
+    "surface": "ラムチョップ",
+    "reading": "ramuchoppu",
+    "code": "0101gi1101",
+    "index": 386
+  },
+  {
+    "surface": "ラムネ",
+    "reading": "ramune",
+    "code": "010101",
+    "index": 387
+  },
+  {
+    "surface": "ラメ",
+    "reading": "rame",
+    "code": "0101",
+    "index": 388
+  },
+  {
+    "surface": "ラリー",
+    "reading": "rari-",
+    "code": "01011",
+    "index": 389
+  },
+  {
+    "surface": "ランジェリー",
+    "reading": "rannzyeri-",
+    "code": "01n1e11011",
+    "index": 390
+  },
+  {
+    "surface": "ランタイム",
+    "reading": "ranntaimu",
+    "code": "01n101101",
+    "index": 391
+  },
+  {
+    "surface": "ランダム",
+    "reading": "ranndamu",
+    "code": "01n10101",
+    "index": 392
+  },
+  {
+    "surface": "ランデブー",
+    "reading": "ranndebu-",
+    "code": "01n101011",
+    "index": 393
+  },
+  {
+    "surface": "ランドセル",
+    "reading": "ranndoseru",
+    "code": "01n1010101",
+    "index": 394
+  },
+  {
+    "surface": "ランドマーク",
+    "reading": "ranndoma-ku",
+    "code": "01n101011x1",
+    "index": 395
+  },
+  {
+    "surface": "ランナー",
+    "reading": "rannna-",
+    "code": "01N1v11",
+    "index": 396
+  },
+  {
+    "surface": "ランニングコスト",
+    "reading": "rannninngukosuto",
+    "code": "01N1v1n101x10101",
+    "index": 397
+  },
+  {
+    "surface": "ランニングシャツ",
+    "reading": "rannninngushatsu",
+    "code": "01N1v1n1010a1t01",
+    "index": 398
+  },
+  {
+    "surface": "リアクション",
+    "reading": "riakushonn",
+    "code": "011x10a1u1",
+    "index": 399
+  },
+  {
+    "surface": "リアリズム",
+    "reading": "riarizumu",
+    "code": "011010101",
+    "index": 400
+  },
+  {
+    "surface": "リアリティー",
+    "reading": "riarithi-",
+    "code": "011010111",
+    "index": 401
+  },
+  {
+    "surface": "リアル",
+    "reading": "riaru",
+    "code": "01101",
+    "index": 402
+  },
+  {
+    "surface": "リアルタイム",
+    "reading": "riarutaimu",
+    "code": "0110101101",
+    "index": 403
+  },
+  {
+    "surface": "リーク",
+    "reading": "ri-ku",
+    "code": "011x1",
+    "index": 404
+  },
+  {
+    "surface": "リース",
+    "reading": "ri-su",
+    "code": "01101",
+    "index": 405
+  },
+  {
+    "surface": "リーズナブル",
+    "reading": "ri-zunaburu",
+    "code": "01101010101",
+    "index": 406
+  },
+  {
+    "surface": "リーチ",
+    "reading": "ri-chi",
+    "code": "011c01",
+    "index": 407
+  },
+  {
+    "surface": "リーフレタス",
+    "reading": "ri-huretasu",
+    "code": "011f1010101",
+    "index": 408
+  },
+  {
+    "surface": "リーフレット",
+    "reading": "ri-huretto",
+    "code": "011f101101",
+    "index": 409
+  },
+  {
+    "surface": "リウマチ",
+    "reading": "riumachi",
+    "code": "01101c01",
+    "index": 410
+  },
+  {
+    "surface": "リキュール",
+    "reading": "rikyu-ru",
+    "code": "01011101",
+    "index": 411
+  },
+  {
+    "surface": "リクライニングシート",
+    "reading": "rikuraininngushi-to",
+    "code": "01x101101n101s01101",
+    "index": 412
+  },
+  {
+    "surface": "リクルート",
+    "reading": "rikuru-to",
+    "code": "01x101101",
+    "index": 413
+  },
+  {
+    "surface": "リコール",
+    "reading": "riko-ru",
+    "code": "01x1101",
+    "index": 414
+  },
+  {
+    "surface": "リコンファーム",
+    "reading": "rikonnfwa-mu",
+    "code": "01x1n1o11101",
+    "index": 415
+  },
+  {
+    "surface": "リサーチ",
+    "reading": "risa-chi",
+    "code": "01011c01",
+    "index": 416
+  },
+  {
+    "surface": "リサイズ",
+    "reading": "risaizu",
+    "code": "0101101",
+    "index": 417
+  },
+  {
+    "surface": "リサイタル",
+    "reading": "risaitaru",
+    "code": "010110101",
+    "index": 418
+  },
+  {
+    "surface": "リストアップ",
+    "reading": "risutoappu",
+    "code": "0101011101",
+    "index": 419
+  },
+  {
+    "surface": "リスナー",
+    "reading": "risuna-",
+    "code": "0101011",
+    "index": 420
+  },
+  {
+    "surface": "リズミカル",
+    "reading": "rizumikaru",
+    "code": "010101x101",
+    "index": 421
+  },
+  {
+    "surface": "リズムアンドブルース",
+    "reading": "rizumuanndoburu-su",
+    "code": "0101011n1010101101",
+    "index": 422
+  },
+  {
+    "surface": "リセット",
+    "reading": "risetto",
+    "code": "0101101",
+    "index": 423
+  },
+  {
+    "surface": "リソース",
+    "reading": "riso-su",
+    "code": "0101101",
+    "index": 424
+  },
+  {
+    "surface": "リゾートホテル",
+    "reading": "rizo-tohoteru",
+    "code": "0101101010101",
+    "index": 425
+  },
+  {
+    "surface": "リゾット",
+    "reading": "rizotto",
+    "code": "0101101",
+    "index": 426
+  },
+  {
+    "surface": "リターン",
+    "reading": "rita-nn",
+    "code": "01011u1",
+    "index": 427
+  },
+  {
+    "surface": "リタイア",
+    "reading": "ritaia",
+    "code": "010111",
+    "index": 428
+  },
+  {
+    "surface": "リチウム",
+    "reading": "richiumu",
+    "code": "01c01101",
+    "index": 429
+  },
+  {
+    "surface": "リッチ",
+    "reading": "ricchi",
+    "code": "01kc01",
+    "index": 430
+  },
+  {
+    "surface": "リップサービス",
+    "reading": "rippusa-bisu",
+    "code": "011010110101",
+    "index": 431
+  },
+  {
+    "surface": "リップスティック",
+    "reading": "rippusuthikku",
+    "code": "0110101011zV1",
+    "index": 432
+  },
+  {
+    "surface": "リトグラフ",
+    "reading": "ritogurahu",
+    "code": "01010101f1",
+    "index": 433
+  },
+  {
+    "surface": "リトマス",
+    "reading": "ritomasu",
+    "code": "01010101",
+    "index": 434
+  },
+  {
+    "surface": "リトライ",
+    "reading": "ritorai",
+    "code": "0101011",
+    "index": 435
+  },
+  {
+    "surface": "リナックス",
+    "reading": "rinakkusu",
+    "code": "0101zV101",
+    "index": 436
+  },
+  {
+    "surface": "リニューアル",
+    "reading": "rinyu-aru",
+    "code": "010111101",
+    "index": 437
+  },
+  {
+    "surface": "リネーム",
+    "reading": "rine-mu",
+    "code": "0101101",
+    "index": 438
+  },
+  {
+    "surface": "リハーサル",
+    "reading": "riha-saru",
+    "code": "010110101",
+    "index": 439
+  },
+  {
+    "surface": "リバーシブル",
+    "reading": "riba-shiburu",
+    "code": "01011s010101",
+    "index": 440
+  },
+  {
+    "surface": "リバース",
+    "reading": "riba-su",
+    "code": "0101101",
+    "index": 441
+  },
+  {
+    "surface": "リバイバル",
+    "reading": "ribaibaru",
+    "code": "010110101",
+    "index": 442
+  },
+  {
+    "surface": "リバウンド",
+    "reading": "ribaunndo",
+    "code": "01011n101",
+    "index": 443
+  },
+  {
+    "surface": "リピーター",
+    "reading": "ripi-ta-",
+    "code": "01011011",
+    "index": 444
+  },
+  {
+    "surface": "リピート",
+    "reading": "ripi-to",
+    "code": "0101101",
+    "index": 445
+  },
+  {
+    "surface": "リビング",
+    "reading": "ribinngu",
+    "code": "0101n101",
+    "index": 446
+  },
+  {
+    "surface": "リフォーム",
+    "reading": "rifwo-mu",
+    "code": "01o11101",
+    "index": 447
+  },
+  {
+    "surface": "リフレッシュ",
+    "reading": "rihuresshu",
+    "code": "01f10110a1",
+    "index": 448
+  },
+  {
+    "surface": "リベラル",
+    "reading": "riberaru",
+    "code": "01010101",
+    "index": 449
+  },
+  {
+    "surface": "リベロ",
+    "reading": "ribero",
+    "code": "010101",
+    "index": 450
+  },
+  {
+    "surface": "リベンジ",
+    "reading": "ribennzi",
+    "code": "0101n1j1",
+    "index": 451
+  },
+  {
+    "surface": "リミット",
+    "reading": "rimitto",
+    "code": "0101101",
+    "index": 452
+  },
+  {
+    "surface": "リムーバブルディスク",
+    "reading": "rimu-baburudhisuku",
+    "code": "0101101010101101x1",
+    "index": 453
+  },
+  {
+    "surface": "リムジン",
+    "reading": "rimuzinn",
+    "code": "0101j1u1",
+    "index": 454
+  },
+  {
+    "surface": "リモートアクセス",
+    "reading": "rimo-toakusesu",
+    "code": "01011011x10101",
+    "index": 455
+  },
+  {
+    "surface": "リモートコントロール",
+    "reading": "rimo-tokonntoro-ru",
+    "code": "0101101x1n10101101",
+    "index": 456
+  },
+  {
+    "surface": "リヤカー",
+    "reading": "riyaka-",
+    "code": "0101x11",
+    "index": 457
+  },
+  {
+    "surface": "リュージュ",
+    "reading": "ryu-zyu",
+    "code": "0111e11",
+    "index": 458
+  },
+  {
+    "surface": "リュックサック",
+    "reading": "ryukkusakku",
+    "code": "011zV101zV1",
+    "index": 459
+  },
+  {
+    "surface": "リリース",
+    "reading": "riri-su",
+    "code": "0101101",
+    "index": 460
+  },
+  {
+    "surface": "リレー",
+    "reading": "rire-",
+    "code": "01011",
+    "index": 461
+  },
+  {
+    "surface": "リンク",
+    "reading": "rinnku",
+    "code": "01n1x1",
+    "index": 462
+  },
+  {
+    "surface": "ルアー",
+    "reading": "rua-",
+    "code": "0111",
+    "index": 463
+  },
+  {
+    "surface": "ルーキー",
+    "reading": "ru-ki-",
+    "code": "011011",
+    "index": 464
+  },
+  {
+    "surface": "ルーズソックス",
+    "reading": "ru-zusokkusu",
+    "code": "0110101zV101",
+    "index": 465
+  },
+  {
+    "surface": "ルーズリーフ",
+    "reading": "ru-zuri-hu",
+    "code": "01101011f1",
+    "index": 466
+  },
+  {
+    "surface": "ルーツ",
+    "reading": "ru-tsu",
+    "code": "011t01",
+    "index": 467
+  },
+  {
+    "surface": "ルート",
+    "reading": "ru-to",
+    "code": "01101",
+    "index": 468
+  },
+  {
+    "surface": "ルートディレクトリー",
+    "reading": "ru-todhirekutori-",
+    "code": "0110101101x101011",
+    "index": 469
+  },
+  {
+    "surface": "ルーブル",
+    "reading": "ru-buru",
+    "code": "0110101",
+    "index": 470
+  },
+  {
+    "surface": "ルーペ",
+    "reading": "ru-pe",
+    "code": "01101",
+    "index": 471
+  },
+  {
+    "surface": "ルームサービス",
+    "reading": "ru-musa-bisu",
+    "code": "011010110101",
+    "index": 472
+  },
+  {
+    "surface": "ルームチャージ",
+    "reading": "ru-mucha-zi",
+    "code": "01101gi11j1",
+    "index": 473
+  },
+  {
+    "surface": "ルーレット",
+    "reading": "ru-retto",
+    "code": "01101101",
+    "index": 474
+  },
+  {
+    "surface": "ルックス",
+    "reading": "rukkusu",
+    "code": "01zV101",
+    "index": 475
+  },
+  {
+    "surface": "ルネサンス",
+    "reading": "runesannsu",
+    "code": "010101n101",
+    "index": 476
+  },
+  {
+    "surface": "ルビー",
+    "reading": "rubi-",
+    "code": "01011",
+    "index": 477
+  },
+  {
+    "surface": "ルポ",
+    "reading": "rupo",
+    "code": "0101",
+    "index": 478
+  },
+  {
+    "surface": "レアチーズケーキ",
+    "reading": "reachi-zuke-ki",
+    "code": "011c0110101101",
+    "index": 479
+  },
+  {
+    "surface": "レイプ",
+    "reading": "reipu",
+    "code": "01101",
+    "index": 480
+  },
+  {
+    "surface": "レイヤー",
+    "reading": "reiya-",
+    "code": "011011",
+    "index": 481
+  },
+  {
+    "surface": "レインコート",
+    "reading": "reinnko-to",
+    "code": "011n1x1101",
+    "index": 482
+  },
+  {
+    "surface": "レインボー",
+    "reading": "reinnbo-",
+    "code": "011n1011",
+    "index": 483
+  },
+  {
+    "surface": "レーサー",
+    "reading": "re-sa-",
+    "code": "011011",
+    "index": 484
+  },
+  {
+    "surface": "レーザーディスク",
+    "reading": "re-za-dhisuku",
+    "code": "01101101101x1",
+    "index": 485
+  },
+  {
+    "surface": "レーザープリンタ",
+    "reading": "re-za-purinnta",
+    "code": "0110110101n101",
+    "index": 486
+  },
+  {
+    "surface": "レーシングカー",
+    "reading": "re-shinnguka-",
+    "code": "011s01n101x11",
+    "index": 487
+  },
+  {
+    "surface": "レース",
+    "reading": "re-su",
+    "code": "01101",
+    "index": 488
+  },
+  {
+    "surface": "レースクイーン",
+    "reading": "re-sukui-nn",
+    "code": "01101x111u1",
+    "index": 489
+  },
+  {
+    "surface": "レーズン",
+    "reading": "re-zunn",
+    "code": "01101u1",
+    "index": 490
+  },
+  {
+    "surface": "レーダー",
+    "reading": "re-da-",
+    "code": "011011",
+    "index": 491
+  },
+  {
+    "surface": "レール",
+    "reading": "re-ru",
+    "code": "01101",
+    "index": 492
+  },
+  {
+    "surface": "レオタード",
+    "reading": "reota-do",
+    "code": "01101101",
+    "index": 493
+  },
+  {
+    "surface": "レクイエム",
+    "reading": "rekuiemu",
+    "code": "01x11101",
+    "index": 494
+  },
+  {
+    "surface": "レクチャー",
+    "reading": "rekucha-",
+    "code": "01x1gi11",
+    "index": 495
+  },
+  {
+    "surface": "レクリエーション",
+    "reading": "rekurie-shonn",
+    "code": "01x101110a1u1",
+    "index": 496
+  },
+  {
+    "surface": "レゲエ",
+    "reading": "regee",
+    "code": "01011",
+    "index": 497
+  },
+  {
+    "surface": "レコーディング",
+    "reading": "reko-dhinngu",
+    "code": "01x11011n101",
+    "index": 498
+  },
+  {
+    "surface": "レコード",
+    "reading": "reko-do",
+    "code": "01x1101",
+    "index": 499
+  },
+  {
+    "surface": "レザー",
+    "reading": "reza-",
+    "code": "01011",
+    "index": 500
+  },
+  {
+    "surface": "レシーバー",
+    "reading": "reshi-ba-",
+    "code": "01s011011",
+    "index": 501
+  },
+  {
+    "surface": "レシーブ",
+    "reading": "reshi-bu",
+    "code": "01s01101",
+    "index": 502
+  },
+  {
+    "surface": "レジスター",
+    "reading": "rezisuta-",
+    "code": "01j101011",
+    "index": 503
+  },
+  {
+    "surface": "レジスタンス",
+    "reading": "rezisutannsu",
+    "code": "01j10101n101",
+    "index": 504
+  },
+  {
+    "surface": "レジストリー",
+    "reading": "rezisutori-",
+    "code": "01j10101011",
+    "index": 505
+  },
+  {
+    "surface": "レシピ",
+    "reading": "reshipi",
+    "code": "01s0101",
+    "index": 506
+  },
+  {
+    "surface": "レスキュー",
+    "reading": "resukyu-",
+    "code": "01010111",
+    "index": 507
+  },
+  {
+    "surface": "レストルーム",
+    "reading": "resutoru-mu",
+    "code": "01010101101",
+    "index": 508
+  },
+  {
+    "surface": "レスポンス",
+    "reading": "resuponnsu",
+    "code": "010101n101",
+    "index": 509
+  },
+  {
+    "surface": "レセプション",
+    "reading": "resepushonn",
+    "code": "0101010a1u1",
+    "index": 510
+  },
+  {
+    "surface": "レターヘッド",
+    "reading": "reta-heddo",
+    "code": "0101101101",
+    "index": 511
+  },
+  {
+    "surface": "レタックス",
+    "reading": "retakkusu",
+    "code": "0101zV101",
+    "index": 512
+  },
+  {
+    "surface": "レタッチ",
+    "reading": "retacchi",
+    "code": "0101kc01",
+    "index": 513
+  },
+  {
+    "surface": "レタリング",
+    "reading": "retarinngu",
+    "code": "010101n101",
+    "index": 514
+  },
+  {
+    "surface": "レッカー",
+    "reading": "rekka-",
+    "code": "01zV11",
+    "index": 515
+  },
+  {
+    "surface": "レッテル",
+    "reading": "retteru",
+    "code": "0110101",
+    "index": 516
+  },
+  {
+    "surface": "レッドカード",
+    "reading": "reddoka-do",
+    "code": "01101x1101",
+    "index": 517
+  },
+  {
+    "surface": "レッドキャベツ",
+    "reading": "reddokyabetsu",
+    "code": "0110101101t01",
+    "index": 518
+  },
+  {
+    "surface": "レディーメード",
+    "reading": "redhi-me-do",
+    "code": "01011101101",
+    "index": 519
+  },
+  {
+    "surface": "レトリック",
+    "reading": "retorikku",
+    "code": "010101zV1",
+    "index": 520
+  },
+  {
+    "surface": "レトロ",
+    "reading": "retoro",
+    "code": "010101",
+    "index": 521
+  },
+  {
+    "surface": "レパートリー",
+    "reading": "repa-tori-",
+    "code": "0101101011",
+    "index": 522
+  },
+  {
+    "surface": "レファレンス",
+    "reading": "refwarennsu",
+    "code": "01o1101n101",
+    "index": 523
+  },
+  {
+    "surface": "レフト",
+    "reading": "rehuto",
+    "code": "01f101",
+    "index": 524
+  },
+  {
+    "surface": "レプリカ",
+    "reading": "repurika",
+    "code": "010101x1",
+    "index": 525
+  },
+  {
+    "surface": "レベルアップ",
+    "reading": "reberuappu",
+    "code": "0101011101",
+    "index": 526
+  },
+  {
+    "surface": "レポーター",
+    "reading": "repo-ta-",
+    "code": "01011011",
+    "index": 527
+  },
+  {
+    "surface": "レモネード",
+    "reading": "remone-do",
+    "code": "010101101",
+    "index": 528
+  },
+  {
+    "surface": "レモンスカッシュ",
+    "reading": "remonnsukasshu",
+    "code": "0101n101x110a1",
+    "index": 529
+  },
+  {
+    "surface": "レモンティー",
+    "reading": "remonnthi-",
+    "code": "0101n10111",
+    "index": 530
+  },
+  {
+    "surface": "レンタカー",
+    "reading": "renntaka-",
+    "code": "01n101x11",
+    "index": 531
+  },
+  {
+    "surface": "レンダリング",
+    "reading": "renndarinngu",
+    "code": "01n10101n101",
+    "index": 532
+  },
+  {
+    "surface": "レントゲン",
+    "reading": "renntogenn",
+    "code": "01n10101u1",
+    "index": 533
+  },
+  {
+    "surface": "ロイヤルゼリー",
+    "reading": "roiyaruzeri-",
+    "code": "011010101011",
+    "index": 534
+  },
+  {
+    "surface": "ローアングル",
+    "reading": "ro-annguru",
+    "code": "0111n10101",
+    "index": 535
+  },
+  {
+    "surface": "ローカル",
+    "reading": "ro-karu",
+    "code": "011x101",
+    "index": 536
+  },
+  {
+    "surface": "ローション",
+    "reading": "ro-shonn",
+    "code": "0110a1u1",
+    "index": 537
+  },
+  {
+    "surface": "ロース",
+    "reading": "ro-su",
+    "code": "01101",
+    "index": 538
+  },
+  {
+    "surface": "ロースト",
+    "reading": "ro-suto",
+    "code": "0110101",
+    "index": 539
+  },
+  {
+    "surface": "ロースハム",
+    "reading": "ro-suhamu",
+    "code": "011010101",
+    "index": 540
+  },
+  {
+    "surface": "ローズマリー",
+    "reading": "ro-zumari-",
+    "code": "0110101011",
+    "index": 541
+  },
+  {
+    "surface": "ロータリー",
+    "reading": "ro-tari-",
+    "code": "01101011",
+    "index": 542
+  },
+  {
+    "surface": "ローテーション",
+    "reading": "ro-te-shonn",
+    "code": "0110110a1u1",
+    "index": 543
+  },
+  {
+    "surface": "ロードマップ",
+    "reading": "ro-domappu",
+    "code": "0110101101",
+    "index": 544
+  },
+  {
+    "surface": "ロードレース",
+    "reading": "ro-dore-su",
+    "code": "0110101101",
+    "index": 545
+  },
+  {
+    "surface": "ロードワーク",
+    "reading": "ro-dowa-ku",
+    "code": "01101011x1",
+    "index": 546
+  },
+  {
+    "surface": "ロープ",
+    "reading": "ro-pu",
+    "code": "01101",
+    "index": 547
+  },
+  {
+    "surface": "ローブロー",
+    "reading": "ro-buro-",
+    "code": "01101011",
+    "index": 548
+  },
+  {
+    "surface": "ローラースケート",
+    "reading": "ro-ra-suke-to",
+    "code": "0110110101101",
+    "index": 549
+  },
+  {
+    "surface": "ローランドゴリラ",
+    "reading": "ro-ranndogorira",
+    "code": "01101n101010101",
+    "index": 550
+  },
+  {
+    "surface": "ロールキャベツ",
+    "reading": "ro-rukyabetsu",
+    "code": "0110101101t01",
+    "index": 551
+  },
+  {
+    "surface": "ロールシャッハテスト",
+    "reading": "ro-rushahhatesuto",
+    "code": "011010a1101010101",
+    "index": 552
+  },
+  {
+    "surface": "ロールプレイング",
+    "reading": "ro-rupureinngu",
+    "code": "0110101011n101",
+    "index": 553
+  },
+  {
+    "surface": "ログアウト",
+    "reading": "roguauto",
+    "code": "01011101",
+    "index": 554
+  },
+  {
+    "surface": "ログイン",
+    "reading": "roguinn",
+    "code": "01011u1",
+    "index": 555
+  },
+  {
+    "surface": "ログオン",
+    "reading": "roguonn",
+    "code": "01011u1",
+    "index": 556
+  },
+  {
+    "surface": "ロケーション",
+    "reading": "roke-shonn",
+    "code": "010110a1u1",
+    "index": 557
+  },
+  {
+    "surface": "ロココ",
+    "reading": "rokoko",
+    "code": "01x1x1",
+    "index": 558
+  },
+  {
+    "surface": "ロゴマーク",
+    "reading": "rogoma-ku",
+    "code": "0101011x1",
+    "index": 559
+  },
+  {
+    "surface": "ロジック",
+    "reading": "rozikku",
+    "code": "01j1zV1",
+    "index": 560
+  },
+  {
+    "surface": "ロスタイム",
+    "reading": "rosutaimu",
+    "code": "010101101",
+    "index": 561
+  },
+  {
+    "surface": "ロゼッタストーン",
+    "reading": "rozettasuto-nn",
+    "code": "010110101011u1",
+    "index": 562
+  },
+  {
+    "surface": "ロッカー",
+    "reading": "rokka-",
+    "code": "01zV11",
+    "index": 563
+  },
+  {
+    "surface": "ロッククライミング",
+    "reading": "rokkukuraiminngu",
+    "code": "01zV1x101101n101",
+    "index": 564
+  },
+  {
+    "surface": "ロックンロール",
+    "reading": "rokkunnro-ru",
+    "code": "01zV1n101101",
+    "index": 565
+  },
+  {
+    "surface": "ロビー",
+    "reading": "robi-",
+    "code": "01011",
+    "index": 566
+  },
+  {
+    "surface": "ロブスター",
+    "reading": "robusuta-",
+    "code": "010101011",
+    "index": 567
+  },
+  {
+    "surface": "ロフト",
+    "reading": "rohuto",
+    "code": "01f101",
+    "index": 568
+  },
+  {
+    "surface": "ロマネスク",
+    "reading": "romanesuku",
+    "code": "01010101x1",
+    "index": 569
+  },
+  {
+    "surface": "ロマン",
+    "reading": "romann",
+    "code": "0101u1",
+    "index": 570
+  },
+  {
+    "surface": "ロマンス",
+    "reading": "romannsu",
+    "code": "0101n101",
+    "index": 571
+  },
+  {
+    "surface": "ロマンチック",
+    "reading": "romannchikku",
+    "code": "0101n1c01zV1",
+    "index": 572
+  },
+  {
+    "surface": "ロマンポルノ",
+    "reading": "romannporuno",
+    "code": "0101n1010101",
+    "index": 573
+  },
+  {
+    "surface": "ワンタン",
+    "reading": "wanntann",
+    "code": "01n101u1",
+    "index": 574
+  },
+  {
+    "surface": "ロリコン",
+    "reading": "rorikonn",
+    "code": "0101x1u1",
+    "index": 575
+  },
+  {
+    "surface": "ロングセラー",
+    "reading": "ronngusera-",
+    "code": "01n10101011",
+    "index": 576
+  },
+  {
+    "surface": "ロングヘア",
+    "reading": "ronnguhea",
+    "code": "01n101011",
+    "index": 577
+  },
+  {
+    "surface": "ロングラン",
+    "reading": "ronngurann",
+    "code": "01n10101u1",
+    "index": 578
+  },
+  {
+    "surface": "ロンパース",
+    "reading": "ronnpa-su",
+    "code": "01n101101",
+    "index": 579
+  },
+  {
+    "surface": "ワークシート",
+    "reading": "wa-kushi-to",
+    "code": "011x1s01101",
+    "index": 580
+  },
+  {
+    "surface": "ワークステーション",
+    "reading": "wa-kusute-shonn",
+    "code": "011x1010110a1u1",
+    "index": 581
+  },
+  {
+    "surface": "ワークブック",
+    "reading": "wa-kubukku",
+    "code": "011x101zV1",
+    "index": 582
+  },
+  {
+    "surface": "ワイシャツ",
+    "reading": "waishatsu",
+    "code": "0110a1t01",
+    "index": 583
+  },
+  {
+    "surface": "ワイドショー",
+    "reading": "waidosho-",
+    "code": "011010a11",
+    "index": 584
+  },
+  {
+    "surface": "ワイドスクリーン",
+    "reading": "waidosukuri-nn",
+    "code": "0110101x1011u1",
+    "index": 585
+  },
+  {
+    "surface": "ワイパー",
+    "reading": "waipa-",
+    "code": "011011",
+    "index": 586
+  },
+  {
+    "surface": "ワイヤレス",
+    "reading": "waiyaresu",
+    "code": "011010101",
+    "index": 587
+  },
+  {
+    "surface": "ワイルド",
+    "reading": "wairudo",
+    "code": "0110101",
+    "index": 588
+  },
+  {
+    "surface": "ワイルドカード",
+    "reading": "wairudoka-do",
+    "code": "0110101x1101",
+    "index": 589
+  },
+  {
+    "surface": "ワインクーラー",
+    "reading": "wainnku-ra-",
+    "code": "011n1x11011",
+    "index": 590
+  },
+  {
+    "surface": "ワイングラス",
+    "reading": "wainngurasu",
+    "code": "011n1010101",
+    "index": 591
+  },
+  {
+    "surface": "ワインビネガー",
+    "reading": "wainnbinega-",
+    "code": "011n10101011",
+    "index": 592
+  },
+  {
+    "surface": "ワインレッド",
+    "reading": "wainnreddo",
+    "code": "011n101101",
+    "index": 593
+  },
+  {
+    "surface": "ワクチン",
+    "reading": "wakuchinn",
+    "code": "01x1c01u1",
+    "index": 594
+  },
+  {
+    "surface": "ワゴン",
+    "reading": "wagonn",
+    "code": "0101u1",
+    "index": 595
+  },
+  {
+    "surface": "ワゴンセール",
+    "reading": "wagonnse-ru",
+    "code": "0101n101101",
+    "index": 596
+  },
+  {
+    "surface": "ワックス",
+    "reading": "wakkusu",
+    "code": "01zV101",
+    "index": 597
+  },
+  {
+    "surface": "ワッフル",
+    "reading": "wahhuru",
+    "code": "01lf101",
+    "index": 598
+  },
+  {
+    "surface": "ワッペン",
+    "reading": "wappenn",
+    "code": "01101u1",
+    "index": 599
+  },
+  {
+    "surface": "ワラビー",
+    "reading": "warabi-",
+    "code": "0101011",
+    "index": 600
+  },
+  {
+    "surface": "ワラント",
+    "reading": "warannto",
+    "code": "0101n101",
+    "index": 601
+  },
+  {
+    "surface": "ワルツ",
+    "reading": "warutsu",
+    "code": "0101t01",
+    "index": 602
+  },
+  {
+    "surface": "ワンクッション",
+    "reading": "wannkusshonn",
+    "code": "01n1x110a1u1",
+    "index": 603
+  },
+  {
+    "surface": "ワンサイドゲーム",
+    "reading": "wannsaidoge-mu",
+    "code": "01n10110101101",
+    "index": 604
+  },
+  {
+    "surface": "ワンタッチ",
+    "reading": "wanntacchi",
+    "code": "01n101kc01",
+    "index": 605
+  },
+  {
+    "surface": "スリジャヤワルダナプラコッテ",
+    "reading": "surizyayawarudanapurakotte",
+    "code": "0101e1101010101010101x1101",
+    "index": 606
+  },
+  {
+    "surface": "セントビンセントグレナディーン",
+    "reading": "senntobinnsenntogurenadhi-nn",
+    "code": "01n10101n101n1010101010111u1",
+    "index": 607
+  },
+  {
+    "surface": "ソウル",
+    "reading": "souru",
+    "code": "01101",
+    "index": 608
+  },
+  {
+    "surface": "ピョンヤン",
+    "reading": "pyonnyann",
+    "code": "011N1v1u1",
+    "index": 609
+  },
+  {
+    "surface": "ペキン",
+    "reading": "pekinn",
+    "code": "0101u1",
+    "index": 610
+  },
+  {
+    "surface": "アクラ",
+    "reading": "akura",
+    "code": "1x101",
+    "index": 611
+  },
+  {
+    "surface": "ガーナ",
+    "reading": "ga-na",
+    "code": "01101",
+    "index": 612
+  },
+  {
+    "surface": "アシガバート",
+    "reading": "ashigaba-to",
+    "code": "1s010101101",
+    "index": 613
+  },
+  {
+    "surface": "トルクメニスタン",
+    "reading": "torukumenisutann",
+    "code": "0101x101010101u1",
+    "index": 614
+  },
+  {
+    "surface": "アスタナ",
+    "reading": "asutana",
+    "code": "1010101",
+    "index": 615
+  },
+  {
+    "surface": "カザフスタン",
+    "reading": "kazahusutann",
+    "code": "x101f10101u1",
+    "index": 616
+  },
+  {
+    "surface": "アスマラ",
+    "reading": "asumara",
+    "code": "1010101",
+    "index": 617
+  },
+  {
+    "surface": "エリトリア",
+    "reading": "eritoria",
+    "code": "10101011",
+    "index": 618
+  },
+  {
+    "surface": "アスンシオン",
+    "reading": "asunnshionn",
+    "code": "101n1s011u1",
+    "index": 619
+  },
+  {
+    "surface": "パラグアイ",
+    "reading": "paraguai",
+    "code": "01010111",
+    "index": 620
+  },
+  {
+    "surface": "アディスアベバ",
+    "reading": "adhisuabeba",
+    "code": "10110110101",
+    "index": 621
+  },
+  {
+    "surface": "エチオピア",
+    "reading": "echiopia",
+    "code": "1c011011",
+    "index": 622
+  },
+  {
+    "surface": "アテネ",
+    "reading": "atene",
+    "code": "10101",
+    "index": 623
+  },
+  {
+    "surface": "ギリシャ",
+    "reading": "girisha",
+    "code": "01010a1",
+    "index": 624
+  },
+  {
+    "surface": "アピア",
+    "reading": "apia",
+    "code": "1011",
+    "index": 625
+  },
+  {
+    "surface": "サモア",
+    "reading": "samoa",
+    "code": "01011",
+    "index": 626
+  },
+  {
+    "surface": "アブジャ",
+    "reading": "abuzya",
+    "code": "101e11",
+    "index": 627
+  },
+  {
+    "surface": "ナイジェリア",
+    "reading": "naizyeria",
+    "code": "011e11011",
+    "index": 628
+  },
+  {
+    "surface": "アブダビ",
+    "reading": "abudabi",
+    "code": "1010101",
+    "index": 629
+  },
+  {
+    "surface": "アラブ",
+    "reading": "arabu",
+    "code": "10101",
+    "index": 630
+  },
+  {
+    "surface": "アムステルダム",
+    "reading": "amusuterudamu",
+    "code": "1010101010101",
+    "index": 631
+  },
+  {
+    "surface": "オランダ",
+    "reading": "orannda",
+    "code": "101n101",
+    "index": 632
+  },
+  {
+    "surface": "アルジェ",
+    "reading": "aruzye",
+    "code": "101e11",
+    "index": 633
+  },
+  {
+    "surface": "アルジェリア",
+    "reading": "aruzyeria",
+    "code": "101e11011",
+    "index": 634
+  },
+  {
+    "surface": "アンカラ",
+    "reading": "annkara",
+    "code": "1n1x101",
+    "index": 635
+  },
+  {
+    "surface": "トルコ",
+    "reading": "toruko",
+    "code": "0101x1",
+    "index": 636
+  },
+  {
+    "surface": "アンタナナリボ",
+    "reading": "anntananaribo",
+    "code": "1n10101010101",
+    "index": 637
+  },
+  {
+    "surface": "マダガスカル",
+    "reading": "madagasukaru",
+    "code": "01010101x101",
+    "index": 638
+  },
+  {
+    "surface": "アンドララベリャ",
+    "reading": "anndoraraberya",
+    "code": "1n101010101011",
+    "index": 639
+  },
+  {
+    "surface": "アンドラ",
+    "reading": "anndora",
+    "code": "1n10101",
+    "index": 640
+  },
+  {
+    "surface": "アンマン",
+    "reading": "annmann",
+    "code": "1n101u1",
+    "index": 641
+  },
+  {
+    "surface": "ヨルダン",
+    "reading": "yorudann",
+    "code": "010101u1",
+    "index": 642
+  },
+  {
+    "surface": "イスラマバード",
+    "reading": "isuramaba-do",
+    "code": "101010101101",
+    "index": 643
+  },
+  {
+    "surface": "パキスタン",
+    "reading": "pakisutann",
+    "code": "01010101u1",
+    "index": 644
+  },
+  {
+    "surface": "ウィーン",
+    "reading": "whi-nn",
+    "code": "w111u1",
+    "index": 645
+  },
+  {
+    "surface": "オーストリア",
+    "reading": "o-sutoria",
+    "code": "110101011",
+    "index": 646
+  },
+  {
+    "surface": "ウィントフック",
+    "reading": "whinntohukku",
+    "code": "w11n101f1zV1",
+    "index": 647
+  },
+  {
+    "surface": "ナミビア",
+    "reading": "namibia",
+    "code": "0101011",
+    "index": 648
+  },
+  {
+    "surface": "ウェリントン",
+    "reading": "wherinntonn",
+    "code": "w1101n101u1",
+    "index": 649
+  },
+  {
+    "surface": "ニュージーランド",
+    "reading": "nyu-zi-ranndo",
+    "code": "0111j1101n101",
+    "index": 650
+  },
+  {
+    "surface": "ウランバートル",
+    "reading": "urannba-toru",
+    "code": "101n10110101",
+    "index": 651
+  },
+  {
+    "surface": "モンゴル",
+    "reading": "monngoru",
+    "code": "01n10101",
+    "index": 652
+  },
+  {
+    "surface": "エルサレム",
+    "reading": "erusaremu",
+    "code": "101010101",
+    "index": 653
+  },
+  {
+    "surface": "イスラエル",
+    "reading": "isuraeru",
+    "code": "10101101",
+    "index": 654
+  },
+  {
+    "surface": "エレバン",
+    "reading": "erebann",
+    "code": "10101u1",
+    "index": 655
+  },
+  {
+    "surface": "アルメニア",
+    "reading": "arumenia",
+    "code": "10101011",
+    "index": 656
+  },
+  {
+    "surface": "オスロ",
+    "reading": "osuro",
+    "code": "10101",
+    "index": 657
+  },
+  {
+    "surface": "ノルウェー",
+    "reading": "noruwhe-",
+    "code": "0101w111",
+    "index": 658
+  },
+  {
+    "surface": "オタワ",
+    "reading": "otawa",
+    "code": "10101",
+    "index": 659
+  },
+  {
+    "surface": "カナダ",
+    "reading": "kanada",
+    "code": "x10101",
+    "index": 660
+  },
+  {
+    "surface": "カイロ",
+    "reading": "kairo",
+    "code": "x1101",
+    "index": 661
+  },
+  {
+    "surface": "エジプト",
+    "reading": "eziputo",
+    "code": "1j10101",
+    "index": 662
+  },
+  {
+    "surface": "カストリーズ",
+    "reading": "kasutori-zu",
+    "code": "x1010101101",
+    "index": 663
+  },
+  {
+    "surface": "セントルシア",
+    "reading": "senntorushia",
+    "code": "01n10101s011",
+    "index": 664
+  },
+  {
+    "surface": "カトマンズ",
+    "reading": "katomannzu",
+    "code": "x10101n101",
+    "index": 665
+  },
+  {
+    "surface": "ネパール",
+    "reading": "nepa-ru",
+    "code": "0101101",
+    "index": 666
+  },
+  {
+    "surface": "カブール",
+    "reading": "kabu-ru",
+    "code": "x101101",
+    "index": 667
+  },
+  {
+    "surface": "アフガニスタン",
+    "reading": "ahuganisutann",
+    "code": "1f101010101u1",
+    "index": 668
+  },
+  {
+    "surface": "ハボローネ",
+    "reading": "haboro-ne",
+    "code": "010101101",
+    "index": 669
+  },
+  {
+    "surface": "ボツワナ",
+    "reading": "botsuwana",
+    "code": "01t010101",
+    "index": 670
+  },
+  {
+    "surface": "カラカス",
+    "reading": "karakasu",
+    "code": "x101x101",
+    "index": 671
+  },
+  {
+    "surface": "ベネズエラ",
+    "reading": "benezuera",
+    "code": "010101101",
+    "index": 672
+  },
+  {
+    "surface": "カンパラ",
+    "reading": "kannpara",
+    "code": "x1n10101",
+    "index": 673
+  },
+  {
+    "surface": "ウガンダ",
+    "reading": "ugannda",
+    "code": "101n101",
+    "index": 674
+  },
+  {
+    "surface": "キエフ",
+    "reading": "kiehu",
+    "code": "011f1",
+    "index": 675
+  },
+  {
+    "surface": "ウクライナ",
+    "reading": "ukuraina",
+    "code": "1x101101",
+    "index": 676
+  },
+  {
+    "surface": "キガリ",
+    "reading": "kigari",
+    "code": "010101",
+    "index": 677
+  },
+  {
+    "surface": "ルワンダ",
+    "reading": "ruwannda",
+    "code": "0101n101",
+    "index": 678
+  },
+  {
+    "surface": "キシニョフ",
+    "reading": "kishinyohu",
+    "code": "01s01011f1",
+    "index": 679
+  },
+  {
+    "surface": "モルドバ",
+    "reading": "morudoba",
+    "code": "01010101",
+    "index": 680
+  },
+  {
+    "surface": "キト",
+    "reading": "kito",
+    "code": "0101",
+    "index": 681
+  },
+  {
+    "surface": "エクアドル",
+    "reading": "ekuadoru",
+    "code": "1x110101",
+    "index": 682
+  },
+  {
+    "surface": "キャンベラ",
+    "reading": "kyannbera",
+    "code": "011n10101",
+    "index": 683
+  },
+  {
+    "surface": "オーストラリア",
+    "reading": "o-sutoraria",
+    "code": "11010101011",
+    "index": 684
+  },
+  {
+    "surface": "キングストン",
+    "reading": "kinngusutonn",
+    "code": "01n1010101u1",
+    "index": 685
+  },
+  {
+    "surface": "ジャマイカ",
+    "reading": "zyamaika",
+    "code": "e11011x1",
+    "index": 686
+  },
+  {
+    "surface": "キンシャサ",
+    "reading": "kinnshasa",
+    "code": "01n10a101",
+    "index": 687
+  },
+  {
+    "surface": "コンゴ",
+    "reading": "konngo",
+    "code": "x1n101",
+    "index": 688
+  },
+  {
+    "surface": "クアラルンプール",
+    "reading": "kuararunnpu-ru",
+    "code": "x110101n101101",
+    "index": 689
+  },
+  {
+    "surface": "マレーシア",
+    "reading": "mare-shia",
+    "code": "01011s011",
+    "index": 690
+  },
+  {
+    "surface": "コナクリ",
+    "reading": "konakuri",
+    "code": "x101x101",
+    "index": 691
+  },
+  {
+    "surface": "ギニア",
+    "reading": "ginia",
+    "code": "01011",
+    "index": 692
+  },
+  {
+    "surface": "コペンハーゲン",
+    "reading": "kopennha-genn",
+    "code": "x101n101101u1",
+    "index": 693
+  },
+  {
+    "surface": "デンマーク",
+    "reading": "dennma-ku",
+    "code": "01n1011x1",
+    "index": 694
+  },
+  {
+    "surface": "マルキョク",
+    "reading": "marukyoku",
+    "code": "0101011x1",
+    "index": 695
+  },
+  {
+    "surface": "パラオ",
+    "reading": "parao",
+    "code": "01011",
+    "index": 696
+  },
+  {
+    "surface": "ザグレブ",
+    "reading": "zagurebu",
+    "code": "01010101",
+    "index": 697
+  },
+  {
+    "surface": "クロアチア",
+    "reading": "kuroachia",
+    "code": "x1011c011",
+    "index": 698
+  },
+  {
+    "surface": "サヌア",
+    "reading": "sanua",
+    "code": "01011",
+    "index": 699
+  },
+  {
+    "surface": "イエメン",
+    "reading": "iemenn",
+    "code": "1101u1",
+    "index": 700
+  },
+  {
+    "surface": "サラエボ",
+    "reading": "saraebo",
+    "code": "0101101",
+    "index": 701
+  },
+  {
+    "surface": "ボスニアヘルツェゴビナ",
+    "reading": "bosuniaherutsegobina",
+    "code": "01010110101011010101",
+    "index": 702
+  },
+  {
+    "surface": "サンサルバドル",
+    "reading": "sannsarubadoru",
+    "code": "01n10101010101",
+    "index": 703
+  },
+  {
+    "surface": "エルサルバドル",
+    "reading": "erusarubadoru",
+    "code": "1010101010101",
+    "index": 704
+  },
+  {
+    "surface": "ボゴタ",
+    "reading": "bogota",
+    "code": "010101",
+    "index": 705
+  },
+  {
+    "surface": "コロンビア",
+    "reading": "koronnbia",
+    "code": "x101n1011",
+    "index": 706
+  },
+  {
+    "surface": "サンティアゴ",
+    "reading": "sannthiago",
+    "code": "01n1011101",
+    "index": 707
+  },
+  {
+    "surface": "チリ",
+    "reading": "chiri",
+    "code": "c0101",
+    "index": 708
+  },
+  {
+    "surface": "サントドミンゴ",
+    "reading": "sanntodominngo",
+    "code": "01n1010101n101",
+    "index": 709
+  },
+  {
+    "surface": "パナマ",
+    "reading": "panama",
+    "code": "010101",
+    "index": 710
+  },
+  {
+    "surface": "サントメ",
+    "reading": "sanntome",
+    "code": "01n10101",
+    "index": 711
+  },
+  {
+    "surface": "サントメプリンシペ",
+    "reading": "sanntomepurinnshipe",
+    "code": "01n101010101n1s0101",
+    "index": 712
+  },
+  {
+    "surface": "バハマ",
+    "reading": "bahama",
+    "code": "010101",
+    "index": 713
+  },
+  {
+    "surface": "ナッソー",
+    "reading": "nasso-",
+    "code": "011011",
+    "index": 714
+  },
+  {
+    "surface": "サンホセ",
+    "reading": "sannhose",
+    "code": "01n10101",
+    "index": 715
+  },
+  {
+    "surface": "コスタリカ",
+    "reading": "kosutarika",
+    "code": "x1010101x1",
+    "index": 716
+  },
+  {
+    "surface": "ジャカルタ",
+    "reading": "zyakaruta",
+    "code": "e11x10101",
+    "index": 717
+  },
+  {
+    "surface": "インドネシア",
+    "reading": "inndoneshia",
+    "code": "1n10101s011",
+    "index": 718
+  },
+  {
+    "surface": "ジョージタウン",
+    "reading": "zyo-zitaunn",
+    "code": "e111j1011u1",
+    "index": 719
+  },
+  {
+    "surface": "ガイアナ",
+    "reading": "gaiana",
+    "code": "011101",
+    "index": 720
+  },
+  {
+    "surface": "スクレ",
+    "reading": "sukure",
+    "code": "01x101",
+    "index": 721
+  },
+  {
+    "surface": "ボリビア",
+    "reading": "boribia",
+    "code": "0101011",
+    "index": 722
+  },
+  {
+    "surface": "スコピエ",
+    "reading": "sukopie",
+    "code": "01x1011",
+    "index": 723
+  },
+  {
+    "surface": "マケドニア",
+    "reading": "makedonia",
+    "code": "010101011",
+    "index": 724
+  },
+  {
+    "surface": "ストックホルム",
+    "reading": "sutokkuhorumu",
+    "code": "0101zV1010101",
+    "index": 725
+  },
+  {
+    "surface": "スウェーデン",
+    "reading": "suwhe-denn",
+    "code": "01w11101u1",
+    "index": 726
+  },
+  {
+    "surface": "スバ",
+    "reading": "suba",
+    "code": "0101",
+    "index": 727
+  },
+  {
+    "surface": "フィジー",
+    "reading": "fwizi-",
+    "code": "pq1j11",
+    "index": 728
+  },
+  {
+    "surface": "セントジョージズ",
+    "reading": "senntozyo-zizu",
+    "code": "01n101e111j101",
+    "index": 729
+  },
+  {
+    "surface": "グレナダ",
+    "reading": "gurenada",
+    "code": "01010101",
+    "index": 730
+  },
+  {
+    "surface": "セントジョンズ",
+    "reading": "senntozyonnzu",
+    "code": "01n101e11n101",
+    "index": 731
+  },
+  {
+    "surface": "アンティグアバーブーダ",
+    "reading": "annthiguaba-bu-da",
+    "code": "1n101101101101101",
+    "index": 732
+  },
+  {
+    "surface": "ソフィア",
+    "reading": "sofwia",
+    "code": "01pq11",
+    "index": 733
+  },
+  {
+    "surface": "ブルガリア",
+    "reading": "burugaria",
+    "code": "010101011",
+    "index": 734
+  },
+  {
+    "surface": "ダカール",
+    "reading": "daka-ru",
+    "code": "01x1101",
+    "index": 735
+  },
+  {
+    "surface": "セネガル",
+    "reading": "senegaru",
+    "code": "01010101",
+    "index": 736
+  },
+  {
+    "surface": "タシケント",
+    "reading": "tashikennto",
+    "code": "01s0101n101",
+    "index": 737
+  },
+  {
+    "surface": "ウズベキスタン",
+    "reading": "uzubekisutann",
+    "code": "10101010101u1",
+    "index": 738
+  },
+  {
+    "surface": "ダッカ",
+    "reading": "dakka",
+    "code": "01zV1",
+    "index": 739
+  },
+  {
+    "surface": "バングラデシュ",
+    "reading": "bannguradeshu",
+    "code": "01n10101010a1",
+    "index": 740
+  },
+  {
+    "surface": "ダブリン",
+    "reading": "daburinn",
+    "code": "010101u1",
+    "index": 741
+  },
+  {
+    "surface": "アイルランド",
+    "reading": "airuranndo",
+    "code": "110101n101",
+    "index": 742
+  },
+  {
+    "surface": "ダマスカス",
+    "reading": "damasukasu",
+    "code": "010101x101",
+    "index": 743
+  },
+  {
+    "surface": "シリア",
+    "reading": "shiria",
+    "code": "s01011",
+    "index": 744
+  },
+  {
+    "surface": "タラワ",
+    "reading": "tarawa",
+    "code": "010101",
+    "index": 745
+  },
+  {
+    "surface": "キリバス",
+    "reading": "kiribasu",
+    "code": "01010101",
+    "index": 746
+  },
+  {
+    "surface": "タリン",
+    "reading": "tarinn",
+    "code": "0101u1",
+    "index": 747
+  },
+  {
+    "surface": "エストニア",
+    "reading": "esutonia",
+    "code": "10101011",
+    "index": 748
+  },
+  {
+    "surface": "ドドマ",
+    "reading": "dodoma",
+    "code": "010101",
+    "index": 749
+  },
+  {
+    "surface": "タンザニア",
+    "reading": "tannzania",
+    "code": "01n101011",
+    "index": 750
+  },
+  {
+    "surface": "チュニス",
+    "reading": "chunisu",
+    "code": "gi10101",
+    "index": 751
+  },
+  {
+    "surface": "チュニジア",
+    "reading": "chunizia",
+    "code": "gi101j11",
+    "index": 752
+  },
+  {
+    "surface": "ティラナ",
+    "reading": "thirana",
+    "code": "0110101",
+    "index": 753
+  },
+  {
+    "surface": "アルバニア",
+    "reading": "arubania",
+    "code": "10101011",
+    "index": 754
+  },
+  {
+    "surface": "ティンプー",
+    "reading": "thinnpu-",
+    "code": "011n1011",
+    "index": 755
+  },
+  {
+    "surface": "ブータン",
+    "reading": "bu-tann",
+    "code": "01101u1",
+    "index": 756
+  },
+  {
+    "surface": "テグシガルパ",
+    "reading": "tegushigarupa",
+    "code": "0101s01010101",
+    "index": 757
+  },
+  {
+    "surface": "ホンジュラス",
+    "reading": "honnzyurasu",
+    "code": "01n1e110101",
+    "index": 758
+  },
+  {
+    "surface": "テヘラン",
+    "reading": "teherann",
+    "code": "010101u1",
+    "index": 759
+  },
+  {
+    "surface": "イラン",
+    "reading": "irann",
+    "code": "101u1",
+    "index": 760
+  },
+  {
+    "surface": "ドゥシャンベ",
+    "reading": "dwushannbe",
+    "code": "0110a1n101",
+    "index": 761
+  },
+  {
+    "surface": "タジキスタン",
+    "reading": "tazikisutann",
+    "code": "01j1010101u1",
+    "index": 762
+  },
+  {
+    "surface": "ドーハ",
+    "reading": "do-ha",
+    "code": "01101",
+    "index": 763
+  },
+  {
+    "surface": "カタール",
+    "reading": "kata-ru",
+    "code": "x101101",
+    "index": 764
+  },
+  {
+    "surface": "トビリシ",
+    "reading": "tobirishi",
+    "code": "010101s01",
+    "index": 765
+  },
+  {
+    "surface": "グルジア",
+    "reading": "guruzia",
+    "code": "0101j11",
+    "index": 766
+  },
+  {
+    "surface": "トリポリ",
+    "reading": "toripori",
+    "code": "01010101",
+    "index": 767
+  },
+  {
+    "surface": "リビア",
+    "reading": "ribia",
+    "code": "01011",
+    "index": 768
+  },
+  {
+    "surface": "バマコ",
+    "reading": "bamako",
+    "code": "0101x1",
+    "index": 769
+  },
+  {
+    "surface": "マリ",
+    "reading": "mari",
+    "code": "0101",
+    "index": 770
+  },
+  {
+    "surface": "パラマリボ",
+    "reading": "paramaribo",
+    "code": "0101010101",
+    "index": 771
+  },
+  {
+    "surface": "スリナム",
+    "reading": "surinamu",
+    "code": "01010101",
+    "index": 772
+  },
+  {
+    "surface": "ハラレ",
+    "reading": "harare",
+    "code": "010101",
+    "index": 773
+  },
+  {
+    "surface": "ジンバブエ",
+    "reading": "zinnbabue",
+    "code": "j1n101011",
+    "index": 774
+  },
+  {
+    "surface": "パリ",
+    "reading": "pari",
+    "code": "0101",
+    "index": 775
+  },
+  {
+    "surface": "フランス",
+    "reading": "hurannsu",
+    "code": "f101n101",
+    "index": 776
+  },
+  {
+    "surface": "パリキール",
+    "reading": "pariki-ru",
+    "code": "010101101",
+    "index": 777
+  },
+  {
+    "surface": "ミクロネシア",
+    "reading": "mikuroneshia",
+    "code": "01x10101s011",
+    "index": 778
+  },
+  {
+    "surface": "ハルツーム",
+    "reading": "harutsu-mu",
+    "code": "0101t01101",
+    "index": 779
+  },
+  {
+    "surface": "スーダン",
+    "reading": "su-dann",
+    "code": "01101u1",
+    "index": 780
+  },
+  {
+    "surface": "バレッタ",
+    "reading": "baretta",
+    "code": "0101101",
+    "index": 781
+  },
+  {
+    "surface": "マルタ",
+    "reading": "maruta",
+    "code": "010101",
+    "index": 782
+  },
+  {
+    "surface": "バンギ",
+    "reading": "banngi",
+    "code": "01n101",
+    "index": 783
+  },
+  {
+    "surface": "中央アフリカ",
+    "reading": "chuuouahurika",
+    "code": "gh01011f101x1",
+    "index": 784
+  },
+  {
+    "surface": "バンコク",
+    "reading": "bannkoku",
+    "code": "01n1x1x1",
+    "index": 785
+  },
+  {
+    "surface": "タイ",
+    "reading": "tai",
+    "code": "011",
+    "index": 786
+  },
+  {
+    "surface": "バンジュール",
+    "reading": "bannzyu-ru",
+    "code": "01n1e11101",
+    "index": 787
+  },
+  {
+    "surface": "ガンビア",
+    "reading": "gannbia",
+    "code": "01n1011",
+    "index": 788
+  },
+  {
+    "surface": "バンダルスリブガワン",
+    "reading": "banndarusuribugawann",
+    "code": "01n101010101010101u1",
+    "index": 789
+  },
+  {
+    "surface": "ブルネイ",
+    "reading": "burunei",
+    "code": "0101011",
+    "index": 790
+  },
+  {
+    "surface": "ビエンチャン",
+    "reading": "biennchann",
+    "code": "011n1gi1u1",
+    "index": 791
+  },
+  {
+    "surface": "ラオス",
+    "reading": "raosu",
+    "code": "01101",
+    "index": 792
+  },
+  {
+    "surface": "ビクトリア",
+    "reading": "bikutoria",
+    "code": "01x101011",
+    "index": 793
+  },
+  {
+    "surface": "セーシェル",
+    "reading": "se-sheru",
+    "code": "0110a101",
+    "index": 794
+  },
+  {
+    "surface": "ビサウ",
+    "reading": "bisau",
+    "code": "01011",
+    "index": 795
+  },
+  {
+    "surface": "ギニアビサウ",
+    "reading": "giniabisau",
+    "code": "0101101011",
+    "index": 796
+  },
+  {
+    "surface": "ビシュケク",
+    "reading": "bishukeku",
+    "code": "010a101x1",
+    "index": 797
+  },
+  {
+    "surface": "キルギス",
+    "reading": "kirugisu",
+    "code": "01010101",
+    "index": 798
+  },
+  {
+    "surface": "ビリニュス",
+    "reading": "birinyusu",
+    "code": "010101101",
+    "index": 799
+  },
+  {
+    "surface": "リトアニア",
+    "reading": "ritoania",
+    "code": "01011011",
+    "index": 800
+  },
+  {
+    "surface": "ファドーツ",
+    "reading": "fwado-tsu",
+    "code": "o11011t01",
+    "index": 801
+  },
+  {
+    "surface": "リヒテンシュタイン",
+    "reading": "rihitennshutainn",
+    "code": "010101n10a1011u1",
+    "index": 802
+  },
+  {
+    "surface": "ブエノスアイレス",
+    "reading": "buenosuairesu",
+    "code": "0110101110101",
+    "index": 803
+  },
+  {
+    "surface": "アルゼンチン",
+    "reading": "aruzennchinn",
+    "code": "10101n1c01u1",
+    "index": 804
+  },
+  {
+    "surface": "ブカレスト",
+    "reading": "bukaresuto",
+    "code": "01x1010101",
+    "index": 805
+  },
+  {
+    "surface": "ルーマニア",
+    "reading": "ru-mania",
+    "code": "01101011",
+    "index": 806
+  },
+  {
+    "surface": "ブジュンブラ",
+    "reading": "buzyunnbura",
+    "code": "01e11n10101",
+    "index": 807
+  },
+  {
+    "surface": "ブルンジ",
+    "reading": "burunnzi",
+    "code": "0101n1j1",
+    "index": 808
+  },
+  {
+    "surface": "ブダペスト",
+    "reading": "budapesuto",
+    "code": "0101010101",
+    "index": 809
+  },
+  {
+    "surface": "ハンガリー",
+    "reading": "hanngari-",
+    "code": "01n101011",
+    "index": 810
+  },
+  {
+    "surface": "フナフティ",
+    "reading": "hunahuthi",
+    "code": "f101f1011",
+    "index": 811
+  },
+  {
+    "surface": "ツバル",
+    "reading": "tsubaru",
+    "code": "t010101",
+    "index": 812
+  },
+  {
+    "surface": "プノンペン",
+    "reading": "punonnpenn",
+    "code": "0101n101u1",
+    "index": 813
+  },
+  {
+    "surface": "カンボジア",
+    "reading": "kannbozia",
+    "code": "x1n101j11",
+    "index": 814
+  },
+  {
+    "surface": "プライア",
+    "reading": "puraia",
+    "code": "010111",
+    "index": 815
+  },
+  {
+    "surface": "カーボベルデ",
+    "reading": "ka-boberude",
+    "code": "x1101010101",
+    "index": 816
+  },
+  {
+    "surface": "ブラチスラバ",
+    "reading": "burachisuraba",
+    "code": "0101c01010101",
+    "index": 817
+  },
+  {
+    "surface": "スロバキア",
+    "reading": "surobakia",
+    "code": "010101011",
+    "index": 818
+  },
+  {
+    "surface": "ブラジリア",
+    "reading": "buraziria",
+    "code": "0101j1011",
+    "index": 819
+  },
+  {
+    "surface": "ブラジル",
+    "reading": "buraziru",
+    "code": "0101j101",
+    "index": 820
+  },
+  {
+    "surface": "プラハ",
+    "reading": "puraha",
+    "code": "010101",
+    "index": 821
+  },
+  {
+    "surface": "チェコ",
+    "reading": "cheko",
+    "code": "gi1x1",
+    "index": 822
+  },
+  {
+    "surface": "フリータウン",
+    "reading": "huri-taunn",
+    "code": "f1011011u1",
+    "index": 823
+  },
+  {
+    "surface": "シエラレオネ",
+    "reading": "shierareone",
+    "code": "s0110101101",
+    "index": 824
+  },
+  {
+    "surface": "ブリッジタウン",
+    "reading": "burizzitaunn",
+    "code": "0101mj1011u1",
+    "index": 825
+  },
+  {
+    "surface": "バルバドス",
+    "reading": "barubadosu",
+    "code": "0101010101",
+    "index": 826
+  },
+  {
+    "surface": "ブリュッセル",
+    "reading": "buryusseru",
+    "code": "0101110101",
+    "index": 827
+  },
+  {
+    "surface": "ベルギー",
+    "reading": "berugi-",
+    "code": "0101011",
+    "index": 828
+  },
+  {
+    "surface": "プレトリア",
+    "reading": "puretoria",
+    "code": "010101011",
+    "index": 829
+  },
+  {
+    "surface": "南アフリカ",
+    "reading": "minamiahurika",
+    "code": "0000011f101x1",
+    "index": 830
+  },
+  {
+    "surface": "ベイルート",
+    "reading": "beiru-to",
+    "code": "01101101",
+    "index": 831
+  },
+  {
+    "surface": "レバノン",
+    "reading": "rebanonn",
+    "code": "010101u1",
+    "index": 832
+  },
+  {
+    "surface": "ベオグラード",
+    "reading": "beogura-do",
+    "code": "0110101101",
+    "index": 833
+  },
+  {
+    "surface": "セルビア",
+    "reading": "serubia",
+    "code": "0101011",
+    "index": 834
+  },
+  {
+    "surface": "ヘルシンキ",
+    "reading": "herushinnki",
+    "code": "0101s01n101",
+    "index": 835
+  },
+  {
+    "surface": "フィンランド",
+    "reading": "fwinnranndo",
+    "code": "pq1n101n101",
+    "index": 836
+  },
+  {
+    "surface": "ベルモパン",
+    "reading": "berumopann",
+    "code": "01010101u1",
+    "index": 837
+  },
+  {
+    "surface": "ベリーズ",
+    "reading": "beri-zu",
+    "code": "0101101",
+    "index": 838
+  },
+  {
+    "surface": "ベルリン",
+    "reading": "berurinn",
+    "code": "010101u1",
+    "index": 839
+  },
+  {
+    "surface": "ドイツ",
+    "reading": "doitsu",
+    "code": "011t01",
+    "index": 840
+  },
+  {
+    "surface": "ベルン",
+    "reading": "berunn",
+    "code": "0101u1",
+    "index": 841
+  },
+  {
+    "surface": "スイス",
+    "reading": "suisu",
+    "code": "01101",
+    "index": 842
+  },
+  {
+    "surface": "ポートオブスペイン",
+    "reading": "po-toobusupeinn",
+    "code": "0110110101011u1",
+    "index": 843
+  },
+  {
+    "surface": "トリニダードトバゴ",
+    "reading": "torinida-dotobago",
+    "code": "01010101101010101",
+    "index": 844
+  },
+  {
+    "surface": "ポートビラ",
+    "reading": "po-tobira",
+    "code": "011010101",
+    "index": 845
+  },
+  {
+    "surface": "バヌアツ",
+    "reading": "banuatsu",
+    "code": "01011t01",
+    "index": 846
+  },
+  {
+    "surface": "ポートモレスビー",
+    "reading": "po-tomoresubi-",
+    "code": "01101010101011",
+    "index": 847
+  },
+  {
+    "surface": "パプアニューギニア",
+    "reading": "papuanyu-ginia",
+    "code": "01011011101011",
+    "index": 848
+  },
+  {
+    "surface": "ポートルイス",
+    "reading": "po-toruisu",
+    "code": "0110101101",
+    "index": 849
+  },
+  {
+    "surface": "モーリシャス",
+    "reading": "mo-rishasu",
+    "code": "011010a101",
+    "index": 850
+  },
+  {
+    "surface": "ホニアラ",
+    "reading": "honiara",
+    "code": "0101101",
+    "index": 851
+  },
+  {
+    "surface": "ソロモン",
+    "reading": "soromonn",
+    "code": "010101u1",
+    "index": 852
+  },
+  {
+    "surface": "ポルトープランス",
+    "reading": "poruto-purannsu",
+    "code": "01010110101n101",
+    "index": 853
+  },
+  {
+    "surface": "ハイチ",
+    "reading": "haichi",
+    "code": "011c01",
+    "index": 854
+  },
+  {
+    "surface": "ポルトノボ",
+    "reading": "porutonobo",
+    "code": "0101010101",
+    "index": 855
+  },
+  {
+    "surface": "ベナン",
+    "reading": "benann",
+    "code": "0101u1",
+    "index": 856
+  },
+  {
+    "surface": "マジュロ",
+    "reading": "mazyuro",
+    "code": "01e1101",
+    "index": 857
+  },
+  {
+    "surface": "マーシャル",
+    "reading": "ma-sharu",
+    "code": "0110a101",
+    "index": 858
+  },
+  {
+    "surface": "マスカット",
+    "reading": "masukatto",
+    "code": "0101x1101",
+    "index": 859
+  },
+  {
+    "surface": "オマーン",
+    "reading": "oma-nn",
+    "code": "1011u1",
+    "index": 860
+  },
+  {
+    "surface": "マセル",
+    "reading": "maseru",
+    "code": "010101",
+    "index": 861
+  },
+  {
+    "surface": "レソト",
+    "reading": "resoto",
+    "code": "010101",
+    "index": 862
+  },
+  {
+    "surface": "マドリード",
+    "reading": "madori-do",
+    "code": "010101101",
+    "index": 863
+  },
+  {
+    "surface": "スペイン",
+    "reading": "supeinn",
+    "code": "01011u1",
+    "index": 864
+  },
+  {
+    "surface": "マナグア",
+    "reading": "managua",
+    "code": "0101011",
+    "index": 865
+  },
+  {
+    "surface": "ニカラグア",
+    "reading": "nikaragua",
+    "code": "01x101011",
+    "index": 866
+  },
+  {
+    "surface": "マナーマ",
+    "reading": "mana-ma",
+    "code": "0101101",
+    "index": 867
+  },
+  {
+    "surface": "バーレーン",
+    "reading": "ba-re-nn",
+    "code": "011011u1",
+    "index": 868
+  },
+  {
+    "surface": "マニラ",
+    "reading": "manira",
+    "code": "010101",
+    "index": 869
+  },
+  {
+    "surface": "フィリピン",
+    "reading": "fwiripinn",
+    "code": "pq10101u1",
+    "index": 870
+  },
+  {
+    "surface": "マレ",
+    "reading": "mare",
+    "code": "0101",
+    "index": 871
+  },
+  {
+    "surface": "モルディブ",
+    "reading": "morudhibu",
+    "code": "010101101",
+    "index": 872
+  },
+  {
+    "surface": "ミンスク",
+    "reading": "minnsuku",
+    "code": "01n101x1",
+    "index": 873
+  },
+  {
+    "surface": "ベラルーシ",
+    "reading": "beraru-shi",
+    "code": "0101011s01",
+    "index": 874
+  },
+  {
+    "surface": "ムババーネ",
+    "reading": "mubaba-ne",
+    "code": "010101101",
+    "index": 875
+  },
+  {
+    "surface": "スワジランド",
+    "reading": "suwaziranndo",
+    "code": "0101j101n101",
+    "index": 876
+  },
+  {
+    "surface": "モガディシュ",
+    "reading": "mogadhishu",
+    "code": "01010110a1",
+    "index": 877
+  },
+  {
+    "surface": "ソマリア",
+    "reading": "somaria",
+    "code": "0101011",
+    "index": 878
+  },
+  {
+    "surface": "モスクワ",
+    "reading": "mosukuwa",
+    "code": "0101x101",
+    "index": 879
+  },
+  {
+    "surface": "ロシア",
+    "reading": "roshia",
+    "code": "01s011",
+    "index": 880
+  },
+  {
+    "surface": "マプト",
+    "reading": "maputo",
+    "code": "010101",
+    "index": 881
+  },
+  {
+    "surface": "モザンビーク",
+    "reading": "mozannbi-ku",
+    "code": "0101n1011x1",
+    "index": 882
+  },
+  {
+    "surface": "モロニ",
+    "reading": "moroni",
+    "code": "010101",
+    "index": 883
+  },
+  {
+    "surface": "コモロ",
+    "reading": "komoro",
+    "code": "x10101",
+    "index": 884
+  },
+  {
+    "surface": "モンテビデオ",
+    "reading": "monntebideo",
+    "code": "01n10101011",
+    "index": 885
+  },
+  {
+    "surface": "ウルグアイ",
+    "reading": "uruguai",
+    "code": "1010111",
+    "index": 886
+  },
+  {
+    "surface": "モンロビア",
+    "reading": "monnrobia",
+    "code": "01n101011",
+    "index": 887
+  },
+  {
+    "surface": "リベリア",
+    "reading": "riberia",
+    "code": "0101011",
+    "index": 888
+  },
+  {
+    "surface": "ヤウンデ",
+    "reading": "yaunnde",
+    "code": "011n101",
+    "index": 889
+  },
+  {
+    "surface": "カメルーン",
+    "reading": "kameru-nn",
+    "code": "x101011u1",
+    "index": 890
+  },
+  {
+    "surface": "ヤムスクロ",
+    "reading": "yamusukuro",
+    "code": "010101x101",
+    "index": 891
+  },
+  {
+    "surface": "コートジボワール",
+    "reading": "ko-tozibowa-ru",
+    "code": "x1101j10101101",
+    "index": 892
+  },
+  {
+    "surface": "ネピドー",
+    "reading": "nepido-",
+    "code": "0101011",
+    "index": 893
+  },
+  {
+    "surface": "ミャンマー",
+    "reading": "myannma-",
+    "code": "011n1011",
+    "index": 894
+  },
+  {
+    "surface": "ラバト",
+    "reading": "rabato",
+    "code": "010101",
+    "index": 895
+  },
+  {
+    "surface": "モロッコ",
+    "reading": "morokko",
+    "code": "0101zV1",
+    "index": 896
+  },
+  {
+    "surface": "リーブルビル",
+    "reading": "ri-burubiru",
+    "code": "01101010101",
+    "index": 897
+  },
+  {
+    "surface": "ガボン",
+    "reading": "gabonn",
+    "code": "0101u1",
+    "index": 898
+  },
+  {
+    "surface": "リガ",
+    "reading": "riga",
+    "code": "0101",
+    "index": 899
+  },
+  {
+    "surface": "ラトビア",
+    "reading": "ratobia",
+    "code": "0101011",
+    "index": 900
+  },
+  {
+    "surface": "リスボン",
+    "reading": "risubonn",
+    "code": "010101u1",
+    "index": 901
+  },
+  {
+    "surface": "ポルトガル",
+    "reading": "porutogaru",
+    "code": "0101010101",
+    "index": 902
+  },
+  {
+    "surface": "リマ",
+    "reading": "rima",
+    "code": "0101",
+    "index": 903
+  },
+  {
+    "surface": "ペルー",
+    "reading": "peru-",
+    "code": "01011",
+    "index": 904
+  },
+  {
+    "surface": "リヤド",
+    "reading": "riyado",
+    "code": "010101",
+    "index": 905
+  },
+  {
+    "surface": "サウジアラビア",
+    "reading": "sauziarabia",
+    "code": "011j1101011",
+    "index": 906
+  },
+  {
+    "surface": "リュブリャナ",
+    "reading": "ryuburyana",
+    "code": "0110101101",
+    "index": 907
+  },
+  {
+    "surface": "スロベニア",
+    "reading": "surobenia",
+    "code": "010101011",
+    "index": 908
+  },
+  {
+    "surface": "リロングウェ",
+    "reading": "rironnguwhe",
+    "code": "0101n101w11",
+    "index": 909
+  },
+  {
+    "surface": "マラウイ",
+    "reading": "maraui",
+    "code": "010111",
+    "index": 910
+  },
+  {
+    "surface": "ルアンダ",
+    "reading": "ruannda",
+    "code": "011n101",
+    "index": 911
+  },
+  {
+    "surface": "アンゴラ",
+    "reading": "anngora",
+    "code": "1n10101",
+    "index": 912
+  },
+  {
+    "surface": "ルサカ",
+    "reading": "rusaka",
+    "code": "0101x1",
+    "index": 913
+  },
+  {
+    "surface": "ザンビア",
+    "reading": "zannbia",
+    "code": "01n1011",
+    "index": 914
+  },
+  {
+    "surface": "レイキャビク",
+    "reading": "reikyabiku",
+    "code": "01101101x1",
+    "index": 915
+  },
+  {
+    "surface": "アイスランド",
+    "reading": "aisuranndo",
+    "code": "110101n101",
+    "index": 916
+  },
+  {
+    "surface": "ローマ",
+    "reading": "ro-ma",
+    "code": "01101",
+    "index": 917
+  },
+  {
+    "surface": "イタリア",
+    "reading": "itaria",
+    "code": "101011",
+    "index": 918
+  },
+  {
+    "surface": "ロゾー",
+    "reading": "rozo-",
+    "code": "01011",
+    "index": 919
+  },
+  {
+    "surface": "ドミニカ",
+    "reading": "dominika",
+    "code": "010101x1",
+    "index": 920
+  },
+  {
+    "surface": "ロメ",
+    "reading": "rome",
+    "code": "0101",
+    "index": 921
+  },
+  {
+    "surface": "トーゴ",
+    "reading": "to-go",
+    "code": "01101",
+    "index": 922
+  },
+  {
+    "surface": "ロンドン",
+    "reading": "ronndonn",
+    "code": "01n101u1",
+    "index": 923
+  },
+  {
+    "surface": "イギリス",
+    "reading": "igirisu",
+    "code": "1010101",
+    "index": 924
+  },
+  {
+    "surface": "ワガドゥグー",
+    "reading": "wagadwugu-",
+    "code": "0101011011",
+    "index": 925
+  },
+  {
+    "surface": "ブルキナファソ",
+    "reading": "burukinafwaso",
+    "code": "01010101o1101",
+    "index": 926
+  },
+  {
+    "surface": "ワシントン",
+    "reading": "washinntonn",
+    "code": "01s01n101u1",
+    "index": 927
+  },
+  {
+    "surface": "アメリカ",
+    "reading": "amerika",
+    "code": "10101x1",
+    "index": 928
+  },
+  {
+    "surface": "ワルシャワ",
+    "reading": "warushawa",
+    "code": "01010a101",
+    "index": 929
+  },
+  {
+    "surface": "ポーランド",
+    "reading": "po-ranndo",
+    "code": "01101n101",
+    "index": 930
+  },
+  {
+    "surface": "キングスタウン",
+    "reading": "kinngusutaunn",
+    "code": "01n10101011u1",
+    "index": 931
+  },
+  {
+    "surface": "グアテマラ",
+    "reading": "guatemara",
+    "code": "011010101",
+    "index": 932
+  },
+  {
+    "surface": "赤道ギニア",
+    "reading": "sekidouginia",
+    "code": "000100101011",
+    "index": 933
+  },
+  {
+    "surface": "サンマリノ",
+    "reading": "sannmarino",
+    "code": "01n1010101",
+    "index": 934
+  },
+  {
+    "surface": "ジブチ",
+    "reading": "zibuchi",
+    "code": "j101c01",
+    "index": 935
+  },
+  {
+    "surface": "スリランカ",
+    "reading": "surirannka",
+    "code": "010101n1x1",
+    "index": 936
+  },
+  {
+    "surface": "ブラザビル",
+    "reading": "burazabiru",
+    "code": "0101010101",
+    "index": 937
+  },
+  {
+    "surface": "マラボ",
+    "reading": "marabo",
+    "code": "010101",
+    "index": 938
+  },
+  {
+    "surface": "メキシコ",
+    "reading": "mekishiko",
+    "code": "0101s01x1",
+    "index": 939
+  },
+  {
+    "surface": "モナコ",
+    "reading": "monako",
+    "code": "0101x1",
+    "index": 940
+  },
+  {
+    "surface": "ルクセンブルク",
+    "reading": "rukusennburuku",
+    "code": "01x101n10101x1",
+    "index": 941
+  },
+  {
+    "surface": "アゼルバイジャン",
+    "reading": "azerubaizyann",
+    "code": "10101011e11u1",
+    "index": 942
+  },
+  {
+    "surface": "バクー",
+    "reading": "baku-",
+    "code": "01x11",
+    "index": 943
+  },
+  {
+    "surface": "イラク",
+    "reading": "iraku",
+    "code": "101x1",
+    "index": 944
+  },
+  {
+    "surface": "バグダッド",
+    "reading": "bagudaddo",
+    "code": "010101101",
+    "index": 945
+  },
+  {
+    "surface": "シンガポール",
+    "reading": "shinngapo-ru",
+    "code": "s01n10101101",
+    "index": 946
+  },
+  {
+    "surface": "インド",
+    "reading": "inndo",
+    "code": "1n101",
+    "index": 947
+  },
+  {
+    "surface": "ニューデリー",
+    "reading": "nyu-deri-",
+    "code": "011101011",
+    "index": 948
+  },
+  {
+    "surface": "キプロス",
+    "reading": "kipurosu",
+    "code": "01010101",
+    "index": 949
+  },
+  {
+    "surface": "ニコシア",
+    "reading": "nikoshia",
+    "code": "01x1s011",
+    "index": 950
+  },
+  {
+    "surface": "モーリタニア",
+    "reading": "mo-ritania",
+    "code": "0110101011",
+    "index": 951
+  },
+  {
+    "surface": "ヌアクショット",
+    "reading": "nuakushotto",
+    "code": "011x10a1101",
+    "index": 952
+  },
+  {
+    "surface": "キューバ",
+    "reading": "kyu-ba",
+    "code": "011101",
+    "index": 953
+  },
+  {
+    "surface": "ハバナ",
+    "reading": "habana",
+    "code": "010101",
+    "index": 954
+  },
+  {
+    "surface": "セントクリストファーネイビス",
+    "reading": "senntokurisutofwa-neibisu",
+    "code": "01n101x1010101o1110110101",
+    "index": 955
+  },
+  {
+    "surface": "バセテール",
+    "reading": "basete-ru",
+    "code": "010101101",
+    "index": 956
+  },
+  {
+    "surface": "ベトナム",
+    "reading": "betonamu",
+    "code": "01010101",
+    "index": 957
+  },
+  {
+    "surface": "ハノイ",
+    "reading": "hanoi",
+    "code": "01011",
+    "index": 958
+  },
+  {
+    "surface": "クウェート",
+    "reading": "kuwhe-to",
+    "code": "x1w11101",
+    "index": 959
+  },
+  {
+    "surface": "チャド",
+    "reading": "chado",
+    "code": "gi101",
+    "index": 960
+  },
+  {
+    "surface": "ンジャメナ",
+    "reading": "nnzyamena",
+    "code": "n1e110101",
+    "index": 961
+  },
+  {
+    "surface": "ケニア",
+    "reading": "kenia",
+    "code": "01011",
+    "index": 962
+  },
+  {
+    "surface": "ナイロビ",
+    "reading": "nairobi",
+    "code": "0110101",
+    "index": 963
+  },
+  {
+    "surface": "トンガ",
+    "reading": "tonnga",
+    "code": "01n101",
+    "index": 964
+  },
+  {
+    "surface": "ヌクアロファ",
+    "reading": "nukuarofwa",
+    "code": "01x1101o11",
+    "index": 965
+  },
+  {
+    "surface": "ナウル",
+    "reading": "nauru",
+    "code": "01101",
+    "index": 966
+  },
+  {
+    "surface": "ヤレン",
+    "reading": "yarenn",
+    "code": "0101u1",
+    "index": 967
+  },
+  {
+    "surface": "ニジェール",
+    "reading": "nizye-ru",
+    "code": "01e11101",
+    "index": 968
+  },
+  {
+    "surface": "ニアメ",
+    "reading": "niame",
+    "code": "01101",
+    "index": 969
+  },
+  {
+    "surface": "バチカン",
+    "reading": "bachikann",
+    "code": "01c01x1u1",
+    "index": 970
+  },
+  {
+    "surface": "東ティモール",
+    "reading": "higashithimo-ru",
+    "code": "0000s0101101101",
+    "index": 971
+  },
+  {
+    "surface": "ディリ",
+    "reading": "dhiri",
+    "code": "01101",
+    "index": 972
+  },
+  {
+    "surface": "モンテネグロ",
+    "reading": "monnteneguro",
+    "code": "01n101010101",
+    "index": 973
+  },
+  {
+    "surface": "ポドゴリツァ",
+    "reading": "podogoritsa",
+    "code": "01010101011",
+    "index": 974
+  },
+  {
+    "surface": "コソボ",
+    "reading": "kosobo",
+    "code": "x10101",
+    "index": 975
+  },
+  {
+    "surface": "プリシュティナ",
+    "reading": "purishuthina",
+    "code": "01010a101101",
+    "index": 976
+  },
+  {
+    "surface": "南スーダン",
+    "reading": "minamisu-dann",
+    "code": "00000101101u1",
+    "index": 977
+  },
+  {
+    "surface": "ジュバ",
+    "reading": "zyuba",
+    "code": "e1101",
+    "index": 978
+  },
+  {
+    "surface": "クック",
+    "reading": "kukku",
+    "code": "x1zV1",
+    "index": 979
+  },
+  {
+    "surface": "アバルア",
+    "reading": "abarua",
+    "code": "101011",
+    "index": 980
+  }
+]

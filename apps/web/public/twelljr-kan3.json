@@ -1,0 +1,6788 @@
+[
+  {
+    "surface": "豊年満作",
+    "reading": "hounennmannsaku",
+    "code": "00100n100n100x1",
+    "index": 0
+  },
+  {
+    "surface": "防波堤",
+    "reading": "bouhatei",
+    "code": "00101001",
+    "index": 1
+  },
+  {
+    "surface": "褒美",
+    "reading": "houbi",
+    "code": "00101",
+    "index": 2
+  },
+  {
+    "surface": "抱負",
+    "reading": "houhu",
+    "code": "001f1",
+    "index": 3
+  },
+  {
+    "surface": "抱腹絶倒",
+    "reading": "houhukuzettou",
+    "code": "001f0x1001001",
+    "index": 4
+  },
+  {
+    "surface": "葬る",
+    "reading": "houmuru",
+    "code": "0000101",
+    "index": 5
+  },
+  {
+    "surface": "訪問",
+    "reading": "houmonn",
+    "code": "00100u1",
+    "index": 6
+  },
+  {
+    "surface": "抱擁",
+    "reading": "houyou",
+    "code": "001001",
+    "index": 7
+  },
+  {
+    "surface": "包容力",
+    "reading": "houyouryoku",
+    "code": "001001000x1",
+    "index": 8
+  },
+  {
+    "surface": "法令",
+    "reading": "hourei",
+    "code": "001001",
+    "index": 9
+  },
+  {
+    "surface": "放浪",
+    "reading": "hourou",
+    "code": "001001",
+    "index": 10
+  },
+  {
+    "surface": "飽和",
+    "reading": "houwa",
+    "code": "00101",
+    "index": 11
+  },
+  {
+    "surface": "朗らか",
+    "reading": "hogaraka",
+    "code": "000101x1",
+    "index": 12
+  },
+  {
+    "surface": "募金",
+    "reading": "bokinn",
+    "code": "0100u1",
+    "index": 13
+  },
+  {
+    "surface": "牧草",
+    "reading": "bokusou",
+    "code": "00x1001",
+    "index": 14
+  },
+  {
+    "surface": "北斗七星",
+    "reading": "hokutoshichisei",
+    "code": "00x101s00c01001",
+    "index": 15
+  },
+  {
+    "surface": "捕鯨",
+    "reading": "hogei",
+    "code": "01001",
+    "index": 16
+  },
+  {
+    "surface": "補欠",
+    "reading": "hoketsu",
+    "code": "0100t01",
+    "index": 17
+  },
+  {
+    "surface": "墓穴",
+    "reading": "boketsu",
+    "code": "0100t01",
+    "index": 18
+  },
+  {
+    "surface": "矛先",
+    "reading": "hokosaki",
+    "code": "00x10001",
+    "index": 19
+  },
+  {
+    "surface": "誇り",
+    "reading": "hokori",
+    "code": "00x101",
+    "index": 20
+  },
+  {
+    "surface": "補佐",
+    "reading": "hosa",
+    "code": "0101",
+    "index": 21
+  },
+  {
+    "surface": "補充",
+    "reading": "hozyuu",
+    "code": "01b001",
+    "index": 22
+  },
+  {
+    "surface": "慕情",
+    "reading": "bozyou",
+    "code": "01b001",
+    "index": 23
+  },
+  {
+    "surface": "母性",
+    "reading": "bosei",
+    "code": "01001",
+    "index": 24
+  },
+  {
+    "surface": "保存",
+    "reading": "hozonn",
+    "code": "0100u1",
+    "index": 25
+  },
+  {
+    "surface": "蛍",
+    "reading": "hotaru",
+    "code": "000001",
+    "index": 26
+  },
+  {
+    "surface": "没交渉",
+    "reading": "botsukoushou",
+    "code": "00t01x010d01",
+    "index": 27
+  },
+  {
+    "surface": "発作",
+    "reading": "hossa",
+    "code": "00101",
+    "index": 28
+  },
+  {
+    "surface": "歩道橋",
+    "reading": "hodoukyou",
+    "code": "010010001",
+    "index": 29
+  },
+  {
+    "surface": "施す",
+    "reading": "hodokosu",
+    "code": "0000x101",
+    "index": 30
+  },
+  {
+    "surface": "炎",
+    "reading": "honoo",
+    "code": "00001",
+    "index": 31
+  },
+  {
+    "surface": "帆柱",
+    "reading": "hobashira",
+    "code": "0100s0001",
+    "index": 32
+  },
+  {
+    "surface": "褒める",
+    "reading": "homeru",
+    "code": "010101",
+    "index": 33
+  },
+  {
+    "surface": "掘る",
+    "reading": "horu",
+    "code": "0101",
+    "index": 34
+  },
+  {
+    "surface": "彫る",
+    "reading": "horu",
+    "code": "0101",
+    "index": 35
+  },
+  {
+    "surface": "滅びる",
+    "reading": "horobiru",
+    "code": "00010101",
+    "index": 36
+  },
+  {
+    "surface": "盆栽",
+    "reading": "bonnsai",
+    "code": "00n1001",
+    "index": 37
+  },
+  {
+    "surface": "本質",
+    "reading": "honnshitsu",
+    "code": "00n1s00t01",
+    "index": 38
+  },
+  {
+    "surface": "凡人",
+    "reading": "bonnzinn",
+    "code": "00n1j0u1",
+    "index": 39
+  },
+  {
+    "surface": "奔走",
+    "reading": "honnsou",
+    "code": "00n1001",
+    "index": 40
+  },
+  {
+    "surface": "煩悩",
+    "reading": "bonnnou",
+    "code": "00N1v01",
+    "index": 41
+  },
+  {
+    "surface": "奔放",
+    "reading": "honnpou",
+    "code": "00n1001",
+    "index": 42
+  },
+  {
+    "surface": "本末転倒",
+    "reading": "honnmatsutenntou",
+    "code": "00n100t0100n1001",
+    "index": 43
+  },
+  {
+    "surface": "本名",
+    "reading": "honnmyou",
+    "code": "00n10001",
+    "index": 44
+  },
+  {
+    "surface": "本望",
+    "reading": "honnmou",
+    "code": "00n1001",
+    "index": 45
+  },
+  {
+    "surface": "翻訳",
+    "reading": "honnyaku",
+    "code": "00N1v0x1",
+    "index": 46
+  },
+  {
+    "surface": "枚挙",
+    "reading": "maikyo",
+    "code": "001001",
+    "index": 47
+  },
+  {
+    "surface": "埋没",
+    "reading": "maibotsu",
+    "code": "00100t01",
+    "index": 48
+  },
+  {
+    "surface": "舞う",
+    "reading": "mau",
+    "code": "011",
+    "index": 49
+  },
+  {
+    "surface": "賄う",
+    "reading": "makanau",
+    "code": "00x0011",
+    "index": 50
+  },
+  {
+    "surface": "紛れる",
+    "reading": "magireru",
+    "code": "00010101",
+    "index": 51
+  },
+  {
+    "surface": "摩擦",
+    "reading": "masatsu",
+    "code": "0100t01",
+    "index": 52
+  },
+  {
+    "surface": "正夢",
+    "reading": "masayume",
+    "code": "00010001",
+    "index": 53
+  },
+  {
+    "surface": "麻酔",
+    "reading": "masui",
+    "code": "01001",
+    "index": 54
+  },
+  {
+    "surface": "桝目",
+    "reading": "masume",
+    "code": "000101",
+    "index": 55
+  },
+  {
+    "surface": "瞬く間",
+    "reading": "matatakuma",
+    "code": "000001x101",
+    "index": 56
+  },
+  {
+    "surface": "街角",
+    "reading": "machikado",
+    "code": "00c01x001",
+    "index": 57
+  },
+  {
+    "surface": "抹殺",
+    "reading": "massatsu",
+    "code": "00100t01",
+    "index": 58
+  },
+  {
+    "surface": "摩天楼",
+    "reading": "matennrou",
+    "code": "0100n1001",
+    "index": 59
+  },
+  {
+    "surface": "惑う",
+    "reading": "madou",
+    "code": "00011",
+    "index": 60
+  },
+  {
+    "surface": "窓際",
+    "reading": "madogiwa",
+    "code": "00010001",
+    "index": 61
+  },
+  {
+    "surface": "窓枠",
+    "reading": "madowaku",
+    "code": "000100x1",
+    "index": 62
+  },
+  {
+    "surface": "魔法",
+    "reading": "mahou",
+    "code": "01001",
+    "index": 63
+  },
+  {
+    "surface": "幻",
+    "reading": "maboroshi",
+    "code": "000000s01",
+    "index": 64
+  },
+  {
+    "surface": "豆粒",
+    "reading": "mametsubu",
+    "code": "0001t0001",
+    "index": 65
+  },
+  {
+    "surface": "麻薬",
+    "reading": "mayaku",
+    "code": "0100x1",
+    "index": 66
+  },
+  {
+    "surface": "繭",
+    "reading": "mayu",
+    "code": "0001",
+    "index": 67
+  },
+  {
+    "surface": "丸太",
+    "reading": "maruta",
+    "code": "000101",
+    "index": 68
+  },
+  {
+    "surface": "丸裸",
+    "reading": "maruhadaka",
+    "code": "00010000x1",
+    "index": 69
+  },
+  {
+    "surface": "漫画",
+    "reading": "mannga",
+    "code": "00n101",
+    "index": 70
+  },
+  {
+    "surface": "満喫",
+    "reading": "mannkitsu",
+    "code": "00n100t01",
+    "index": 71
+  },
+  {
+    "surface": "満足",
+    "reading": "mannzoku",
+    "code": "00n100x1",
+    "index": 72
+  },
+  {
+    "surface": "万年筆",
+    "reading": "mannnennhitsu",
+    "code": "00N1v0n100t01",
+    "index": 73
+  },
+  {
+    "surface": "身内",
+    "reading": "miuchi",
+    "code": "010c01",
+    "index": 74
+  },
+  {
+    "surface": "味覚",
+    "reading": "mikaku",
+    "code": "01x0x1",
+    "index": 75
+  },
+  {
+    "surface": "磨く",
+    "reading": "migaku",
+    "code": "0001x1",
+    "index": 76
+  },
+  {
+    "surface": "三日月",
+    "reading": "mikaduki",
+    "code": "01x10001",
+    "index": 77
+  },
+  {
+    "surface": "身柄",
+    "reading": "migara",
+    "code": "010001",
+    "index": 78
+  },
+  {
+    "surface": "岬",
+    "reading": "misaki",
+    "code": "000001",
+    "index": 79
+  },
+  {
+    "surface": "惨め",
+    "reading": "mizime",
+    "code": "00j101",
+    "index": 80
+  },
+  {
+    "surface": "水色",
+    "reading": "mizuiro",
+    "code": "0001001",
+    "index": 81
+  },
+  {
+    "surface": "未成年",
+    "reading": "miseinenn",
+    "code": "0100100u1",
+    "index": 82
+  },
+  {
+    "surface": "道端",
+    "reading": "michibata",
+    "code": "00c010001",
+    "index": 83
+  },
+  {
+    "surface": "貢ぐ",
+    "reading": "mitsugu",
+    "code": "00t0101",
+    "index": 84
+  },
+  {
+    "surface": "密封",
+    "reading": "mippuu",
+    "code": "001001",
+    "index": 85
+  },
+  {
+    "surface": "醜い",
+    "reading": "minikui",
+    "code": "0000x11",
+    "index": 86
+  },
+  {
+    "surface": "峰",
+    "reading": "mine",
+    "code": "0001",
+    "index": 87
+  },
+  {
+    "surface": "脈絡",
+    "reading": "myakuraku",
+    "code": "000x100x1",
+    "index": 88
+  },
+  {
+    "surface": "土産",
+    "reading": "miyage",
+    "code": "010001",
+    "index": 89
+  },
+  {
+    "surface": "魅力",
+    "reading": "miryoku",
+    "code": "01000x1",
+    "index": 90
+  },
+  {
+    "surface": "診る",
+    "reading": "miru",
+    "code": "0101",
+    "index": 91
+  },
+  {
+    "surface": "民謡",
+    "reading": "minnyou",
+    "code": "00N1v01",
+    "index": 92
+  },
+  {
+    "surface": "無意識",
+    "reading": "muishiki",
+    "code": "011s0001",
+    "index": 93
+  },
+  {
+    "surface": "迎える",
+    "reading": "mukaeru",
+    "code": "00x1101",
+    "index": 94
+  },
+  {
+    "surface": "無我夢中",
+    "reading": "mugamuchuu",
+    "code": "010101gh01",
+    "index": 95
+  },
+  {
+    "surface": "無言",
+    "reading": "mugonn",
+    "code": "0100u1",
+    "index": 96
+  },
+  {
+    "surface": "矛盾",
+    "reading": "muzyunn",
+    "code": "01b00u1",
+    "index": 97
+  },
+  {
+    "surface": "息子",
+    "reading": "musuko",
+    "code": "0001x1",
+    "index": 98
+  },
+  {
+    "surface": "結ぶ",
+    "reading": "musubu",
+    "code": "000101",
+    "index": 99
+  },
+  {
+    "surface": "夢中",
+    "reading": "muchuu",
+    "code": "01gh01",
+    "index": 100
+  },
+  {
+    "surface": "胸毛",
+    "reading": "munage",
+    "code": "000101",
+    "index": 101
+  },
+  {
+    "surface": "無念無想",
+    "reading": "munennmusou",
+    "code": "0100n101001",
+    "index": 102
+  },
+  {
+    "surface": "無比",
+    "reading": "muhi",
+    "code": "0101",
+    "index": 103
+  },
+  {
+    "surface": "無風",
+    "reading": "muhuu",
+    "code": "01f01",
+    "index": 104
+  },
+  {
+    "surface": "謀反",
+    "reading": "muhonn",
+    "code": "0100u1",
+    "index": 105
+  },
+  {
+    "surface": "無味乾燥",
+    "reading": "mumikannsou",
+    "code": "0101x0n1001",
+    "index": 106
+  },
+  {
+    "surface": "無欲",
+    "reading": "muyoku",
+    "code": "0100x1",
+    "index": 107
+  },
+  {
+    "surface": "紫",
+    "reading": "murasaki",
+    "code": "00000001",
+    "index": 108
+  },
+  {
+    "surface": "蒸れる",
+    "reading": "mureru",
+    "code": "010101",
+    "index": 109
+  },
+  {
+    "surface": "明快",
+    "reading": "meikai",
+    "code": "001x01",
+    "index": 110
+  },
+  {
+    "surface": "銘柄",
+    "reading": "meigara",
+    "code": "0010001",
+    "index": 111
+  },
+  {
+    "surface": "明鏡止水",
+    "reading": "meikyoushisui",
+    "code": "0010001s01001",
+    "index": 112
+  },
+  {
+    "surface": "名簿",
+    "reading": "meibo",
+    "code": "00101",
+    "index": 113
+  },
+  {
+    "surface": "名誉",
+    "reading": "meiyo",
+    "code": "00101",
+    "index": 114
+  },
+  {
+    "surface": "迷惑",
+    "reading": "meiwaku",
+    "code": "00100x1",
+    "index": 115
+  },
+  {
+    "surface": "女神",
+    "reading": "megami",
+    "code": "010001",
+    "index": 116
+  },
+  {
+    "surface": "恵み",
+    "reading": "megumi",
+    "code": "000101",
+    "index": 117
+  },
+  {
+    "surface": "巡る",
+    "reading": "meguru",
+    "code": "000101",
+    "index": 118
+  },
+  {
+    "surface": "目印",
+    "reading": "mezirushi",
+    "code": "01j000s01",
+    "index": 119
+  },
+  {
+    "surface": "珍しい",
+    "reading": "mezurashii",
+    "code": "000001s011",
+    "index": 120
+  },
+  {
+    "surface": "滅亡",
+    "reading": "metsubou",
+    "code": "00t01001",
+    "index": 121
+  },
+  {
+    "surface": "面従腹背",
+    "reading": "mennzyuuhukuhai",
+    "code": "00n1b001f0x1001",
+    "index": 122
+  },
+  {
+    "surface": "免許証",
+    "reading": "mennkyoshou",
+    "code": "00n10010d01",
+    "index": 123
+  },
+  {
+    "surface": "免税",
+    "reading": "mennzei",
+    "code": "00n1001",
+    "index": 124
+  },
+  {
+    "surface": "猛獣",
+    "reading": "mouzyuu",
+    "code": "001b001",
+    "index": 125
+  },
+  {
+    "surface": "妄想",
+    "reading": "mousou",
+    "code": "001001",
+    "index": 126
+  },
+  {
+    "surface": "盲点",
+    "reading": "moutenn",
+    "code": "00100u1",
+    "index": 127
+  },
+  {
+    "surface": "毛筆",
+    "reading": "mouhitsu",
+    "code": "00100t01",
+    "index": 128
+  },
+  {
+    "surface": "網膜",
+    "reading": "moumaku",
+    "code": "00100x1",
+    "index": 129
+  },
+  {
+    "surface": "猛烈",
+    "reading": "mouretsu",
+    "code": "00100t01",
+    "index": 130
+  },
+  {
+    "surface": "模擬試験",
+    "reading": "mogishikenn",
+    "code": "0101s0100u1",
+    "index": 131
+  },
+  {
+    "surface": "目次",
+    "reading": "mokuzi",
+    "code": "00x1j1",
+    "index": 132
+  },
+  {
+    "surface": "黙秘権",
+    "reading": "mokuhikenn",
+    "code": "00x10100u1",
+    "index": 133
+  },
+  {
+    "surface": "木琴",
+    "reading": "mokkinn",
+    "code": "00100u1",
+    "index": 134
+  },
+  {
+    "surface": "戻る",
+    "reading": "modoru",
+    "code": "000101",
+    "index": 135
+  },
+  {
+    "surface": "物腰",
+    "reading": "monogoshi",
+    "code": "000100s01",
+    "index": 136
+  },
+  {
+    "surface": "模範",
+    "reading": "mohann",
+    "code": "0100u1",
+    "index": 137
+  },
+  {
+    "surface": "喪服",
+    "reading": "mohuku",
+    "code": "01f0x1",
+    "index": 138
+  },
+  {
+    "surface": "模倣",
+    "reading": "mohou",
+    "code": "01001",
+    "index": 139
+  },
+  {
+    "surface": "木綿",
+    "reading": "momenn",
+    "code": "0100u1",
+    "index": 140
+  },
+  {
+    "surface": "桃",
+    "reading": "momo",
+    "code": "0001",
+    "index": 141
+  },
+  {
+    "surface": "催す",
+    "reading": "moyoosu",
+    "code": "0000101",
+    "index": 142
+  },
+  {
+    "surface": "最寄り",
+    "reading": "moyori",
+    "code": "010101",
+    "index": 143
+  },
+  {
+    "surface": "漏れる",
+    "reading": "moreru",
+    "code": "010101",
+    "index": 144
+  },
+  {
+    "surface": "門外漢",
+    "reading": "monngaikann",
+    "code": "00n1001x0u1",
+    "index": 145
+  },
+  {
+    "surface": "門外不出",
+    "reading": "monngaihushutsu",
+    "code": "00n1001f10d0t01",
+    "index": 146
+  },
+  {
+    "surface": "文句",
+    "reading": "monnku",
+    "code": "00n1x1",
+    "index": 147
+  },
+  {
+    "surface": "門戸開放",
+    "reading": "monnkokaihou",
+    "code": "00n1x1x01001",
+    "index": 148
+  },
+  {
+    "surface": "八重桜",
+    "reading": "yaezakura",
+    "code": "01100x001",
+    "index": 149
+  },
+  {
+    "surface": "矢面",
+    "reading": "yaomote",
+    "code": "0100001",
+    "index": 150
+  },
+  {
+    "surface": "八百屋",
+    "reading": "yaoya",
+    "code": "01101",
+    "index": 151
+  },
+  {
+    "surface": "約束",
+    "reading": "yakusoku",
+    "code": "00x100x1",
+    "index": 152
+  },
+  {
+    "surface": "厄年",
+    "reading": "yakudoshi",
+    "code": "00x100s01",
+    "index": 153
+  },
+  {
+    "surface": "疫病神",
+    "reading": "yakubyougami",
+    "code": "00x100010001",
+    "index": 154
+  },
+  {
+    "surface": "屋敷",
+    "reading": "yashiki",
+    "code": "01s0001",
+    "index": 155
+  },
+  {
+    "surface": "野生",
+    "reading": "yasei",
+    "code": "01001",
+    "index": 156
+  },
+  {
+    "surface": "躍起",
+    "reading": "yakki",
+    "code": "00101",
+    "index": 157
+  },
+  {
+    "surface": "薬局",
+    "reading": "yakkyoku",
+    "code": "001000x1",
+    "index": 158
+  },
+  {
+    "surface": "雇う",
+    "reading": "yatou",
+    "code": "00011",
+    "index": 159
+  },
+  {
+    "surface": "野蛮",
+    "reading": "yabann",
+    "code": "0100u1",
+    "index": 160
+  },
+  {
+    "surface": "辞める",
+    "reading": "yameru",
+    "code": "010101",
+    "index": 161
+  },
+  {
+    "surface": "柔らかい",
+    "reading": "yawarakai",
+    "code": "000101x11",
+    "index": 162
+  },
+  {
+    "surface": "和らぐ",
+    "reading": "yawaragu",
+    "code": "00010101",
+    "index": 163
+  },
+  {
+    "surface": "唯一",
+    "reading": "yuiitsu",
+    "code": "0010t01",
+    "index": 164
+  },
+  {
+    "surface": "遺言",
+    "reading": "yuigonn",
+    "code": "00100u1",
+    "index": 165
+  },
+  {
+    "surface": "由緒",
+    "reading": "yuisho",
+    "code": "0010d1",
+    "index": 166
+  },
+  {
+    "surface": "優雅",
+    "reading": "yuuga",
+    "code": "00101",
+    "index": 167
+  },
+  {
+    "surface": "誘拐",
+    "reading": "yuukai",
+    "code": "001x01",
+    "index": 168
+  },
+  {
+    "surface": "融解",
+    "reading": "yuukai",
+    "code": "001x01",
+    "index": 169
+  },
+  {
+    "surface": "勇敢",
+    "reading": "yuukann",
+    "code": "001x0u1",
+    "index": 170
+  },
+  {
+    "surface": "遊戯",
+    "reading": "yuugi",
+    "code": "00101",
+    "index": 171
+  },
+  {
+    "surface": "友好",
+    "reading": "yuukou",
+    "code": "001x01",
+    "index": 172
+  },
+  {
+    "surface": "幽谷",
+    "reading": "yuukoku",
+    "code": "001x0x1",
+    "index": 173
+  },
+  {
+    "surface": "有志",
+    "reading": "yuushi",
+    "code": "001s01",
+    "index": 174
+  },
+  {
+    "surface": "優柔不断",
+    "reading": "yuuzyuuhudann",
+    "code": "001b001f100u1",
+    "index": 175
+  },
+  {
+    "surface": "優勝",
+    "reading": "yuushou",
+    "code": "0010d01",
+    "index": 176
+  },
+  {
+    "surface": "遊説",
+    "reading": "yuuzei",
+    "code": "001001",
+    "index": 177
+  },
+  {
+    "surface": "優先権",
+    "reading": "yuusennkenn",
+    "code": "00100n100u1",
+    "index": 178
+  },
+  {
+    "surface": "郵送",
+    "reading": "yuusou",
+    "code": "001001",
+    "index": 179
+  },
+  {
+    "surface": "有職故実",
+    "reading": "yuusokukozitsu",
+    "code": "00100x1x1j0t01",
+    "index": 180
+  },
+  {
+    "surface": "雄大",
+    "reading": "yuudai",
+    "code": "001001",
+    "index": 181
+  },
+  {
+    "surface": "夕立",
+    "reading": "yuudachi",
+    "code": "00100c01",
+    "index": 182
+  },
+  {
+    "surface": "悠久",
+    "reading": "yuukyuu",
+    "code": "0010001",
+    "index": 183
+  },
+  {
+    "surface": "遊牧",
+    "reading": "yuuboku",
+    "code": "00100x1",
+    "index": 184
+  },
+  {
+    "surface": "有名無実",
+    "reading": "yuumeimuzitsu",
+    "code": "00100101j0t01",
+    "index": 185
+  },
+  {
+    "surface": "勇猛果敢",
+    "reading": "yuumoukakann",
+    "code": "001001x1x0u1",
+    "index": 186
+  },
+  {
+    "surface": "猶予",
+    "reading": "yuuyo",
+    "code": "00101",
+    "index": 187
+  },
+  {
+    "surface": "幽霊",
+    "reading": "yuurei",
+    "code": "001001",
+    "index": 188
+  },
+  {
+    "surface": "誘惑",
+    "reading": "yuuwaku",
+    "code": "00100x1",
+    "index": 189
+  },
+  {
+    "surface": "故に",
+    "reading": "yueni",
+    "code": "00101",
+    "index": 190
+  },
+  {
+    "surface": "愉快",
+    "reading": "yukai",
+    "code": "01x01",
+    "index": 191
+  },
+  {
+    "surface": "床下",
+    "reading": "yukashita",
+    "code": "00x1s0001",
+    "index": 192
+  },
+  {
+    "surface": "浴衣",
+    "reading": "yukata",
+    "code": "01x001",
+    "index": 193
+  },
+  {
+    "surface": "冥王星",
+    "reading": "meiousei",
+    "code": "00101001",
+    "index": 194
+  },
+  {
+    "surface": "油脂",
+    "reading": "yushi",
+    "code": "01s01",
+    "index": 195
+  },
+  {
+    "surface": "諭旨",
+    "reading": "yushi",
+    "code": "01s01",
+    "index": 196
+  },
+  {
+    "surface": "譲る",
+    "reading": "yuzuru",
+    "code": "000101",
+    "index": 197
+  },
+  {
+    "surface": "輸送",
+    "reading": "yusou",
+    "code": "01001",
+    "index": 198
+  },
+  {
+    "surface": "油田",
+    "reading": "yudenn",
+    "code": "0100u1",
+    "index": 199
+  },
+  {
+    "surface": "湯水",
+    "reading": "yumizu",
+    "code": "010001",
+    "index": 200
+  },
+  {
+    "surface": "由来",
+    "reading": "yurai",
+    "code": "01001",
+    "index": 201
+  },
+  {
+    "surface": "緩い",
+    "reading": "yurui",
+    "code": "00011",
+    "index": 202
+  },
+  {
+    "surface": "揺れる",
+    "reading": "yureru",
+    "code": "010101",
+    "index": 203
+  },
+  {
+    "surface": "酔う",
+    "reading": "you",
+    "code": "011",
+    "index": 204
+  },
+  {
+    "surface": "養育",
+    "reading": "youiku",
+    "code": "0010x1",
+    "index": 205
+  },
+  {
+    "surface": "用意周到",
+    "reading": "youishuutou",
+    "code": "00110d01001",
+    "index": 206
+  },
+  {
+    "surface": "要因",
+    "reading": "youinn",
+    "code": "0010u1",
+    "index": 207
+  },
+  {
+    "surface": "溶解",
+    "reading": "youkai",
+    "code": "001x01",
+    "index": 208
+  },
+  {
+    "surface": "窯業",
+    "reading": "yougyou",
+    "code": "0010001",
+    "index": 209
+  },
+  {
+    "surface": "容姿",
+    "reading": "youshi",
+    "code": "001s01",
+    "index": 210
+  },
+  {
+    "surface": "養子",
+    "reading": "youshi",
+    "code": "001s01",
+    "index": 211
+  },
+  {
+    "surface": "様子",
+    "reading": "yousu",
+    "code": "00101",
+    "index": 212
+  },
+  {
+    "surface": "幼稚",
+    "reading": "youchi",
+    "code": "001c01",
+    "index": 213
+  },
+  {
+    "surface": "幼虫",
+    "reading": "youchuu",
+    "code": "001gh01",
+    "index": 214
+  },
+  {
+    "surface": "要注意",
+    "reading": "youchuui",
+    "code": "001gh011",
+    "index": 215
+  },
+  {
+    "surface": "腰痛",
+    "reading": "youtsuu",
+    "code": "001t001",
+    "index": 216
+  },
+  {
+    "surface": "養豚",
+    "reading": "youtonn",
+    "code": "00100u1",
+    "index": 217
+  },
+  {
+    "surface": "洋風",
+    "reading": "youhuu",
+    "code": "001f01",
+    "index": 218
+  },
+  {
+    "surface": "羊毛",
+    "reading": "youmou",
+    "code": "001001",
+    "index": 219
+  },
+  {
+    "surface": "葉緑素",
+    "reading": "youryokuso",
+    "code": "001000x101",
+    "index": 220
+  },
+  {
+    "surface": "用例",
+    "reading": "yourei",
+    "code": "001001",
+    "index": 221
+  },
+  {
+    "surface": "預金",
+    "reading": "yokinn",
+    "code": "0100u1",
+    "index": 222
+  },
+  {
+    "surface": "抑圧",
+    "reading": "yokuatsu",
+    "code": "00x10t01",
+    "index": 223
+  },
+  {
+    "surface": "翌春",
+    "reading": "yokushunn",
+    "code": "00x10d0u1",
+    "index": 224
+  },
+  {
+    "surface": "浴槽",
+    "reading": "yokusou",
+    "code": "00x1001",
+    "index": 225
+  },
+  {
+    "surface": "横綱",
+    "reading": "yokoduna",
+    "code": "00x10001",
+    "index": 226
+  },
+  {
+    "surface": "汚れる",
+    "reading": "yogoreru",
+    "code": "00010101",
+    "index": 227
+  },
+  {
+    "surface": "予算",
+    "reading": "yosann",
+    "code": "0100u1",
+    "index": 228
+  },
+  {
+    "surface": "装う",
+    "reading": "yosoou",
+    "code": "000011",
+    "index": 229
+  },
+  {
+    "surface": "余地",
+    "reading": "yochi",
+    "code": "01c01",
+    "index": 230
+  },
+  {
+    "surface": "夜露",
+    "reading": "yotsuyu",
+    "code": "01t0001",
+    "index": 231
+  },
+  {
+    "surface": "予備",
+    "reading": "yobi",
+    "code": "0101",
+    "index": 232
+  },
+  {
+    "surface": "夜更け",
+    "reading": "yohuke",
+    "code": "01f101",
+    "index": 233
+  },
+  {
+    "surface": "予防",
+    "reading": "yobou",
+    "code": "01001",
+    "index": 234
+  },
+  {
+    "surface": "詠む",
+    "reading": "yomu",
+    "code": "0101",
+    "index": 235
+  },
+  {
+    "surface": "余裕",
+    "reading": "yoyuu",
+    "code": "01001",
+    "index": 236
+  },
+  {
+    "surface": "雷雨",
+    "reading": "raiu",
+    "code": "0011",
+    "index": 237
+  },
+  {
+    "surface": "礼賛",
+    "reading": "raisann",
+    "code": "00100u1",
+    "index": 238
+  },
+  {
+    "surface": "来賓",
+    "reading": "raihinn",
+    "code": "00100u1",
+    "index": 239
+  },
+  {
+    "surface": "雷鳴",
+    "reading": "raimei",
+    "code": "001001",
+    "index": 240
+  },
+  {
+    "surface": "楽園",
+    "reading": "rakuenn",
+    "code": "00x10u1",
+    "index": 241
+  },
+  {
+    "surface": "落語",
+    "reading": "rakugo",
+    "code": "00x101",
+    "index": 242
+  },
+  {
+    "surface": "落胆",
+    "reading": "rakutann",
+    "code": "00x100u1",
+    "index": 243
+  },
+  {
+    "surface": "落丁",
+    "reading": "rakuchou",
+    "code": "00x1gh01",
+    "index": 244
+  },
+  {
+    "surface": "酪農",
+    "reading": "rakunou",
+    "code": "00x1001",
+    "index": 245
+  },
+  {
+    "surface": "羅針盤",
+    "reading": "rashinnbann",
+    "code": "01s00n100u1",
+    "index": 246
+  },
+  {
+    "surface": "落下",
+    "reading": "rakka",
+    "code": "00zV1",
+    "index": 247
+  },
+  {
+    "surface": "落花生",
+    "reading": "rakkasei",
+    "code": "00zV1001",
+    "index": 248
+  },
+  {
+    "surface": "卵黄",
+    "reading": "rannou",
+    "code": "00N1v1",
+    "index": 249
+  },
+  {
+    "surface": "欄外",
+    "reading": "ranngai",
+    "code": "00n1001",
+    "index": 250
+  },
+  {
+    "surface": "濫用",
+    "reading": "rannyou",
+    "code": "00N1v01",
+    "index": 251
+  },
+  {
+    "surface": "理科",
+    "reading": "rika",
+    "code": "01x1",
+    "index": 252
+  },
+  {
+    "surface": "理解",
+    "reading": "rikai",
+    "code": "01x01",
+    "index": 253
+  },
+  {
+    "surface": "力作",
+    "reading": "rikisaku",
+    "code": "000100x1",
+    "index": 254
+  },
+  {
+    "surface": "陸地",
+    "reading": "rikuchi",
+    "code": "00x1c01",
+    "index": 255
+  },
+  {
+    "surface": "利己",
+    "reading": "riko",
+    "code": "01x1",
+    "index": 256
+  },
+  {
+    "surface": "離合集散",
+    "reading": "rigoushuusann",
+    "code": "010010d0100u1",
+    "index": 257
+  },
+  {
+    "surface": "利殖",
+    "reading": "rishoku",
+    "code": "010d0x1",
+    "index": 258
+  },
+  {
+    "surface": "律儀",
+    "reading": "richigi",
+    "code": "00c0101",
+    "index": 259
+  },
+  {
+    "surface": "立案",
+    "reading": "ritsuann",
+    "code": "00t010u1",
+    "index": 260
+  },
+  {
+    "surface": "理非曲直",
+    "reading": "rihikyokuchoku",
+    "code": "0101000x1gh0x1",
+    "index": 261
+  },
+  {
+    "surface": "裏面",
+    "reading": "rimenn",
+    "code": "0100u1",
+    "index": 262
+  },
+  {
+    "surface": "隆起",
+    "reading": "ryuuki",
+    "code": "000101",
+    "index": 263
+  },
+  {
+    "surface": "硫酸",
+    "reading": "ryuusann",
+    "code": "000100u1",
+    "index": 264
+  },
+  {
+    "surface": "隆盛",
+    "reading": "ryuusei",
+    "code": "0001001",
+    "index": 265
+  },
+  {
+    "surface": "竜頭蛇尾",
+    "reading": "ryuutoudabi",
+    "code": "00010010101",
+    "index": 266
+  },
+  {
+    "surface": "良好",
+    "reading": "ryoukou",
+    "code": "0001x01",
+    "index": 267
+  },
+  {
+    "surface": "量産",
+    "reading": "ryousann",
+    "code": "000100u1",
+    "index": 268
+  },
+  {
+    "surface": "料亭",
+    "reading": "ryoutei",
+    "code": "0001001",
+    "index": 269
+  },
+  {
+    "surface": "領土",
+    "reading": "ryoudo",
+    "code": "000101",
+    "index": 270
+  },
+  {
+    "surface": "両隣",
+    "reading": "ryoudonari",
+    "code": "0001000001",
+    "index": 271
+  },
+  {
+    "surface": "療養",
+    "reading": "ryouyou",
+    "code": "0001001",
+    "index": 272
+  },
+  {
+    "surface": "料理",
+    "reading": "ryouri",
+    "code": "000101",
+    "index": 273
+  },
+  {
+    "surface": "両立",
+    "reading": "ryouritsu",
+    "code": "000100t01",
+    "index": 274
+  },
+  {
+    "surface": "旅客",
+    "reading": "ryokaku",
+    "code": "001x0x1",
+    "index": 275
+  },
+  {
+    "surface": "旅館",
+    "reading": "ryokann",
+    "code": "001x0u1",
+    "index": 276
+  },
+  {
+    "surface": "旅券",
+    "reading": "ryokenn",
+    "code": "00100u1",
+    "index": 277
+  },
+  {
+    "surface": "履歴",
+    "reading": "rireki",
+    "code": "010001",
+    "index": 278
+  },
+  {
+    "surface": "輪郭",
+    "reading": "rinnkaku",
+    "code": "00n1x0x1",
+    "index": 279
+  },
+  {
+    "surface": "臨場感",
+    "reading": "rinnzyoukann",
+    "code": "00n1b001x0u1",
+    "index": 280
+  },
+  {
+    "surface": "倫理",
+    "reading": "rinnri",
+    "code": "00n101",
+    "index": 281
+  },
+  {
+    "surface": "累計",
+    "reading": "ruikei",
+    "code": "001001",
+    "index": 282
+  },
+  {
+    "surface": "塁審",
+    "reading": "ruishinn",
+    "code": "001s00u1",
+    "index": 283
+  },
+  {
+    "surface": "類人猿",
+    "reading": "ruizinnenn",
+    "code": "001j0N1vu1",
+    "index": 284
+  },
+  {
+    "surface": "留守",
+    "reading": "rusu",
+    "code": "0101",
+    "index": 285
+  },
+  {
+    "surface": "流布",
+    "reading": "ruhu",
+    "code": "01f1",
+    "index": 286
+  },
+  {
+    "surface": "励行",
+    "reading": "reikou",
+    "code": "001x01",
+    "index": 287
+  },
+  {
+    "surface": "冷酷",
+    "reading": "reikoku",
+    "code": "001x0x1",
+    "index": 288
+  },
+  {
+    "surface": "零細",
+    "reading": "reisai",
+    "code": "001001",
+    "index": 289
+  },
+  {
+    "surface": "令嬢",
+    "reading": "reizyou",
+    "code": "001b001",
+    "index": 290
+  },
+  {
+    "surface": "冷淡",
+    "reading": "reitann",
+    "code": "00100u1",
+    "index": 291
+  },
+  {
+    "surface": "霊長類",
+    "reading": "reichourui",
+    "code": "001gh01001",
+    "index": 292
+  },
+  {
+    "surface": "冷凍",
+    "reading": "reitou",
+    "code": "001001",
+    "index": 293
+  },
+  {
+    "surface": "冷房",
+    "reading": "reibou",
+    "code": "001001",
+    "index": 294
+  },
+  {
+    "surface": "恋愛",
+    "reading": "rennai",
+    "code": "00N1v1",
+    "index": 295
+  },
+  {
+    "surface": "錬金術",
+    "reading": "rennkinnzyutsu",
+    "code": "00n100n1b00t01",
+    "index": 296
+  },
+  {
+    "surface": "連鎖",
+    "reading": "rennsa",
+    "code": "00n101",
+    "index": 297
+  },
+  {
+    "surface": "連邦",
+    "reading": "rennpou",
+    "code": "00n1001",
+    "index": 298
+  },
+  {
+    "surface": "連絡",
+    "reading": "rennraku",
+    "code": "00n100x1",
+    "index": 299
+  },
+  {
+    "surface": "老翁",
+    "reading": "rouou",
+    "code": "00101",
+    "index": 300
+  },
+  {
+    "surface": "老人",
+    "reading": "rouzinn",
+    "code": "001j0u1",
+    "index": 301
+  },
+  {
+    "surface": "漏電",
+    "reading": "roudenn",
+    "code": "00100u1",
+    "index": 302
+  },
+  {
+    "surface": "朗読",
+    "reading": "roudoku",
+    "code": "00100x1",
+    "index": 303
+  },
+  {
+    "surface": "老婆心",
+    "reading": "roubashinn",
+    "code": "00101s00u1",
+    "index": 304
+  },
+  {
+    "surface": "録音",
+    "reading": "rokuonn",
+    "code": "00x10u1",
+    "index": 305
+  },
+  {
+    "surface": "緑青",
+    "reading": "rokushou",
+    "code": "00x10d01",
+    "index": 306
+  },
+  {
+    "surface": "六法",
+    "reading": "roppou",
+    "code": "001001",
+    "index": 307
+  },
+  {
+    "surface": "露天",
+    "reading": "rotenn",
+    "code": "0100u1",
+    "index": 308
+  },
+  {
+    "surface": "路傍",
+    "reading": "robou",
+    "code": "01001",
+    "index": 309
+  },
+  {
+    "surface": "論功行賞",
+    "reading": "ronnkoukoushou",
+    "code": "00n1x01x010d01",
+    "index": 310
+  },
+  {
+    "surface": "論理",
+    "reading": "ronnri",
+    "code": "00n101",
+    "index": 311
+  },
+  {
+    "surface": "賄賂",
+    "reading": "wairo",
+    "code": "00101",
+    "index": 312
+  },
+  {
+    "surface": "和解",
+    "reading": "wakai",
+    "code": "01x01",
+    "index": 313
+  },
+  {
+    "surface": "沸く",
+    "reading": "waku",
+    "code": "01x1",
+    "index": 314
+  },
+  {
+    "surface": "惑星",
+    "reading": "wakusei",
+    "code": "00x1001",
+    "index": 315
+  },
+  {
+    "surface": "若人",
+    "reading": "wakoudo",
+    "code": "00x0101",
+    "index": 316
+  },
+  {
+    "surface": "災い",
+    "reading": "wazawai",
+    "code": "0000011",
+    "index": 317
+  },
+  {
+    "surface": "患う",
+    "reading": "wazurau",
+    "code": "0000011",
+    "index": 318
+  },
+  {
+    "surface": "煩わす",
+    "reading": "wazurawasu",
+    "code": "0000010101",
+    "index": 319
+  },
+  {
+    "surface": "渡る",
+    "reading": "wataru",
+    "code": "000101",
+    "index": 320
+  },
+  {
+    "surface": "豊見城",
+    "reading": "tomigusuku",
+    "code": "01010000x1",
+    "index": 321
+  },
+  {
+    "surface": "守谷",
+    "reading": "moriya",
+    "code": "000101",
+    "index": 322
+  },
+  {
+    "surface": "日本",
+    "reading": "nipponn",
+    "code": "00100u1",
+    "index": 323
+  },
+  {
+    "surface": "台湾",
+    "reading": "taiwann",
+    "code": "00100u1",
+    "index": 324
+  },
+  {
+    "surface": "中国",
+    "reading": "chuugoku",
+    "code": "gh0100x1",
+    "index": 325
+  },
+  {
+    "surface": "韓国",
+    "reading": "kannkoku",
+    "code": "x0n1x0x1",
+    "index": 326
+  },
+  {
+    "surface": "北朝鮮",
+    "reading": "kitachousenn",
+    "code": "0001gh0100u1",
+    "index": 327
+  },
+  {
+    "surface": "北海道",
+    "reading": "hokkaidou",
+    "code": "00zV01001",
+    "index": 328
+  },
+  {
+    "surface": "函館",
+    "reading": "hakodate",
+    "code": "00x10001",
+    "index": 329
+  },
+  {
+    "surface": "小樽",
+    "reading": "otaru",
+    "code": "10001",
+    "index": 330
+  },
+  {
+    "surface": "旭川",
+    "reading": "asahikawa",
+    "code": "00001x001",
+    "index": 331
+  },
+  {
+    "surface": "室蘭",
+    "reading": "murorann",
+    "code": "000100u1",
+    "index": 332
+  },
+  {
+    "surface": "札幌",
+    "reading": "sapporo",
+    "code": "0010001",
+    "index": 333
+  },
+  {
+    "surface": "釧路",
+    "reading": "kushiro",
+    "code": "x0s0101",
+    "index": 334
+  },
+  {
+    "surface": "帯広",
+    "reading": "obihiro",
+    "code": "0010001",
+    "index": 335
+  },
+  {
+    "surface": "北見",
+    "reading": "kitami",
+    "code": "000101",
+    "index": 336
+  },
+  {
+    "surface": "夕張",
+    "reading": "yuubari",
+    "code": "0010001",
+    "index": 337
+  },
+  {
+    "surface": "岩見沢",
+    "reading": "iwamizawa",
+    "code": "001010001",
+    "index": 338
+  },
+  {
+    "surface": "網走",
+    "reading": "abashiri",
+    "code": "100s0001",
+    "index": 339
+  },
+  {
+    "surface": "留萌",
+    "reading": "rumoi",
+    "code": "01001",
+    "index": 340
+  },
+  {
+    "surface": "苫小牧",
+    "reading": "tomakomai",
+    "code": "0001x1001",
+    "index": 341
+  },
+  {
+    "surface": "稚内",
+    "reading": "wakkanai",
+    "code": "00Qq1001",
+    "index": 342
+  },
+  {
+    "surface": "美唄",
+    "reading": "bibai",
+    "code": "01001",
+    "index": 343
+  },
+  {
+    "surface": "芦別",
+    "reading": "ashibetsu",
+    "code": "0s0100t01",
+    "index": 344
+  },
+  {
+    "surface": "江別",
+    "reading": "ebetsu",
+    "code": "100t01",
+    "index": 345
+  },
+  {
+    "surface": "赤平",
+    "reading": "akabira",
+    "code": "0x10001",
+    "index": 346
+  },
+  {
+    "surface": "紋別",
+    "reading": "monnbetsu",
+    "code": "00n100t01",
+    "index": 347
+  },
+  {
+    "surface": "士別",
+    "reading": "shibetsu",
+    "code": "s0100t01",
+    "index": 348
+  },
+  {
+    "surface": "名寄",
+    "reading": "nayoro",
+    "code": "010001",
+    "index": 349
+  },
+  {
+    "surface": "三笠",
+    "reading": "mikasa",
+    "code": "01x001",
+    "index": 350
+  },
+  {
+    "surface": "根室",
+    "reading": "nemuro",
+    "code": "010001",
+    "index": 351
+  },
+  {
+    "surface": "千歳",
+    "reading": "chitose",
+    "code": "c010001",
+    "index": 352
+  },
+  {
+    "surface": "滝川",
+    "reading": "takikawa",
+    "code": "0001x001",
+    "index": 353
+  },
+  {
+    "surface": "砂川",
+    "reading": "sunagawa",
+    "code": "00010001",
+    "index": 354
+  },
+  {
+    "surface": "歌志内",
+    "reading": "utashinai",
+    "code": "001s01001",
+    "index": 355
+  },
+  {
+    "surface": "深川",
+    "reading": "hukagawa",
+    "code": "f0x10001",
+    "index": 356
+  },
+  {
+    "surface": "富良野",
+    "reading": "hurano",
+    "code": "f10101",
+    "index": 357
+  },
+  {
+    "surface": "登別",
+    "reading": "noboribetsu",
+    "code": "00000100t01",
+    "index": 358
+  },
+  {
+    "surface": "恵庭",
+    "reading": "eniwa",
+    "code": "10001",
+    "index": 359
+  },
+  {
+    "surface": "伊達",
+    "reading": "date",
+    "code": "0101",
+    "index": 360
+  },
+  {
+    "surface": "北広島",
+    "reading": "kitahiroshima",
+    "code": "00010001s0001",
+    "index": 361
+  },
+  {
+    "surface": "石狩",
+    "reading": "ishikari",
+    "code": "0s01x001",
+    "index": 362
+  },
+  {
+    "surface": "青森",
+    "reading": "aomori",
+    "code": "010001",
+    "index": 363
+  },
+  {
+    "surface": "弘前",
+    "reading": "hirosaki",
+    "code": "00010001",
+    "index": 364
+  },
+  {
+    "surface": "八戸",
+    "reading": "hachinohe",
+    "code": "00c000101",
+    "index": 365
+  },
+  {
+    "surface": "黒石",
+    "reading": "kuroishi",
+    "code": "x0010s01",
+    "index": 366
+  },
+  {
+    "surface": "五所川原",
+    "reading": "goshogawara",
+    "code": "010d1010001",
+    "index": 367
+  },
+  {
+    "surface": "十和田",
+    "reading": "towada",
+    "code": "010101",
+    "index": 368
+  },
+  {
+    "surface": "三沢",
+    "reading": "misawa",
+    "code": "010001",
+    "index": 369
+  },
+  {
+    "surface": "むつ",
+    "reading": "mutsu",
+    "code": "01t01",
+    "index": 370
+  },
+  {
+    "surface": "岩手",
+    "reading": "iwate",
+    "code": "00101",
+    "index": 371
+  },
+  {
+    "surface": "盛岡",
+    "reading": "morioka",
+    "code": "00010x1",
+    "index": 372
+  },
+  {
+    "surface": "宮古",
+    "reading": "miyako",
+    "code": "0001x1",
+    "index": 373
+  },
+  {
+    "surface": "大船渡",
+    "reading": "oohunato",
+    "code": "01f00101",
+    "index": 374
+  },
+  {
+    "surface": "北斗",
+    "reading": "hokuto",
+    "code": "00x101",
+    "index": 375
+  },
+  {
+    "surface": "花巻",
+    "reading": "hanamaki",
+    "code": "00010001",
+    "index": 376
+  },
+  {
+    "surface": "北上",
+    "reading": "kitakami",
+    "code": "0001x001",
+    "index": 377
+  },
+  {
+    "surface": "久慈",
+    "reading": "kuzi",
+    "code": "x1j1",
+    "index": 378
+  },
+  {
+    "surface": "遠野",
+    "reading": "toono",
+    "code": "00101",
+    "index": 379
+  },
+  {
+    "surface": "一関",
+    "reading": "ichinoseki",
+    "code": "0c00010001",
+    "index": 380
+  },
+  {
+    "surface": "陸前高田",
+    "reading": "rikuzenntakata",
+    "code": "00x100n100x101",
+    "index": 381
+  },
+  {
+    "surface": "釜石",
+    "reading": "kamaishi",
+    "code": "x0010s01",
+    "index": 382
+  },
+  {
+    "surface": "奥州",
+    "reading": "oushuu",
+    "code": "010d01",
+    "index": 383
+  },
+  {
+    "surface": "二戸",
+    "reading": "ninohe",
+    "code": "000101",
+    "index": 384
+  },
+  {
+    "surface": "宮城",
+    "reading": "miyagi",
+    "code": "000101",
+    "index": 385
+  },
+  {
+    "surface": "仙台",
+    "reading": "senndai",
+    "code": "00n1001",
+    "index": 386
+  },
+  {
+    "surface": "石巻",
+    "reading": "ishinomaki",
+    "code": "0s00010001",
+    "index": 387
+  },
+  {
+    "surface": "塩竈",
+    "reading": "shiogama",
+    "code": "s0010001",
+    "index": 388
+  },
+  {
+    "surface": "大崎",
+    "reading": "oosaki",
+    "code": "010001",
+    "index": 389
+  },
+  {
+    "surface": "気仙沼",
+    "reading": "kesennnuma",
+    "code": "0100N1v001",
+    "index": 390
+  },
+  {
+    "surface": "白石",
+    "reading": "shiroishi",
+    "code": "s00010s01",
+    "index": 391
+  },
+  {
+    "surface": "名取",
+    "reading": "natori",
+    "code": "010001",
+    "index": 392
+  },
+  {
+    "surface": "角田",
+    "reading": "kakuda",
+    "code": "x0x101",
+    "index": 393
+  },
+  {
+    "surface": "多賀城",
+    "reading": "tagazyou",
+    "code": "0101b001",
+    "index": 394
+  },
+  {
+    "surface": "岩沼",
+    "reading": "iwanuma",
+    "code": "0010001",
+    "index": 395
+  },
+  {
+    "surface": "秋田",
+    "reading": "akita",
+    "code": "00101",
+    "index": 396
+  },
+  {
+    "surface": "能代",
+    "reading": "noshiro",
+    "code": "01s0001",
+    "index": 397
+  },
+  {
+    "surface": "横手",
+    "reading": "yokote",
+    "code": "00x101",
+    "index": 398
+  },
+  {
+    "surface": "大館",
+    "reading": "oodate",
+    "code": "010001",
+    "index": 399
+  },
+  {
+    "surface": "由利本荘",
+    "reading": "yurihonnzyou",
+    "code": "010100n1b001",
+    "index": 400
+  },
+  {
+    "surface": "男鹿",
+    "reading": "oga",
+    "code": "101",
+    "index": 401
+  },
+  {
+    "surface": "湯沢",
+    "reading": "yuzawa",
+    "code": "010001",
+    "index": 402
+  },
+  {
+    "surface": "大仙",
+    "reading": "daisenn",
+    "code": "00100u1",
+    "index": 403
+  },
+  {
+    "surface": "鹿角",
+    "reading": "kaduno",
+    "code": "x10001",
+    "index": 404
+  },
+  {
+    "surface": "山形",
+    "reading": "yamagata",
+    "code": "00010001",
+    "index": 405
+  },
+  {
+    "surface": "米沢",
+    "reading": "yonezawa",
+    "code": "00010001",
+    "index": 406
+  },
+  {
+    "surface": "鶴岡",
+    "reading": "tsuruoka",
+    "code": "t00010x1",
+    "index": 407
+  },
+  {
+    "surface": "酒田",
+    "reading": "sakata",
+    "code": "00x101",
+    "index": 408
+  },
+  {
+    "surface": "新庄",
+    "reading": "shinnzyou",
+    "code": "s00n1b001",
+    "index": 409
+  },
+  {
+    "surface": "寒河江",
+    "reading": "sagae",
+    "code": "01011",
+    "index": 410
+  },
+  {
+    "surface": "上山",
+    "reading": "kaminoyama",
+    "code": "x000010001",
+    "index": 411
+  },
+  {
+    "surface": "村山",
+    "reading": "murayama",
+    "code": "00010001",
+    "index": 412
+  },
+  {
+    "surface": "長井",
+    "reading": "nagai",
+    "code": "00011",
+    "index": 413
+  },
+  {
+    "surface": "天童",
+    "reading": "tenndou",
+    "code": "00n1001",
+    "index": 414
+  },
+  {
+    "surface": "東根",
+    "reading": "higashine",
+    "code": "0000s0101",
+    "index": 415
+  },
+  {
+    "surface": "尾花沢",
+    "reading": "obanazawa",
+    "code": "100010001",
+    "index": 416
+  },
+  {
+    "surface": "南陽",
+    "reading": "nannyou",
+    "code": "00N1v01",
+    "index": 417
+  },
+  {
+    "surface": "福島",
+    "reading": "hukushima",
+    "code": "f0x1s0001",
+    "index": 418
+  },
+  {
+    "surface": "会津若松",
+    "reading": "aiduwakamatsu",
+    "code": "010100x100t01",
+    "index": 419
+  },
+  {
+    "surface": "郡山",
+    "reading": "kooriyama",
+    "code": "x00010001",
+    "index": 420
+  },
+  {
+    "surface": "いわき",
+    "reading": "iwaki",
+    "code": "10101",
+    "index": 421
+  },
+  {
+    "surface": "白河",
+    "reading": "shirakawa",
+    "code": "s0001x001",
+    "index": 422
+  },
+  {
+    "surface": "南相馬",
+    "reading": "minamisouma",
+    "code": "00000100101",
+    "index": 423
+  },
+  {
+    "surface": "須賀川",
+    "reading": "sukagawa",
+    "code": "01x10001",
+    "index": 424
+  },
+  {
+    "surface": "喜多方",
+    "reading": "kitakata",
+    "code": "0101x001",
+    "index": 425
+  },
+  {
+    "surface": "相馬",
+    "reading": "souma",
+    "code": "00101",
+    "index": 426
+  },
+  {
+    "surface": "二本松",
+    "reading": "nihonnmatsu",
+    "code": "0100n100t01",
+    "index": 427
+  },
+  {
+    "surface": "茨城",
+    "reading": "ibaraki",
+    "code": "0000101",
+    "index": 428
+  },
+  {
+    "surface": "水戸",
+    "reading": "mito",
+    "code": "0101",
+    "index": 429
+  },
+  {
+    "surface": "日立",
+    "reading": "hitachi",
+    "code": "0100c01",
+    "index": 430
+  },
+  {
+    "surface": "土浦",
+    "reading": "tsuchiura",
+    "code": "t00c01001",
+    "index": 431
+  },
+  {
+    "surface": "古河",
+    "reading": "koga",
+    "code": "x101",
+    "index": 432
+  },
+  {
+    "surface": "石岡",
+    "reading": "ishioka",
+    "code": "0s010x1",
+    "index": 433
+  },
+  {
+    "surface": "筑西",
+    "reading": "chikusei",
+    "code": "c00x1001",
+    "index": 434
+  },
+  {
+    "surface": "結城",
+    "reading": "yuuki",
+    "code": "00101",
+    "index": 435
+  },
+  {
+    "surface": "龍ヶ崎",
+    "reading": "ryuugasaki",
+    "code": "0001010001",
+    "index": 436
+  },
+  {
+    "surface": "下妻",
+    "reading": "shimotsuma",
+    "code": "s0001t0001",
+    "index": 437
+  },
+  {
+    "surface": "常総",
+    "reading": "zyousou",
+    "code": "b001001",
+    "index": 438
+  },
+  {
+    "surface": "常陸太田",
+    "reading": "hitachioota",
+    "code": "0100c010101",
+    "index": 439
+  },
+  {
+    "surface": "高萩",
+    "reading": "takahagi",
+    "code": "00x10001",
+    "index": 440
+  },
+  {
+    "surface": "北茨城",
+    "reading": "kitaibaraki",
+    "code": "00010000101",
+    "index": 441
+  },
+  {
+    "surface": "笠間",
+    "reading": "kasama",
+    "code": "x00101",
+    "index": 442
+  },
+  {
+    "surface": "取手",
+    "reading": "toride",
+    "code": "000101",
+    "index": 443
+  },
+  {
+    "surface": "坂東",
+    "reading": "banndou",
+    "code": "00n1001",
+    "index": 444
+  },
+  {
+    "surface": "牛久",
+    "reading": "ushiku",
+    "code": "0s01x1",
+    "index": 445
+  },
+  {
+    "surface": "つくば",
+    "reading": "tsukuba",
+    "code": "t01x101",
+    "index": 446
+  },
+  {
+    "surface": "ひたちなか",
+    "reading": "hitachinaka",
+    "code": "0101c0101x1",
+    "index": 447
+  },
+  {
+    "surface": "鹿嶋",
+    "reading": "kashima",
+    "code": "x1s0001",
+    "index": 448
+  },
+  {
+    "surface": "宇都宮",
+    "reading": "utsunomiya",
+    "code": "1t00010001",
+    "index": 449
+  },
+  {
+    "surface": "足利",
+    "reading": "ashikaga",
+    "code": "0s01x001",
+    "index": 450
+  },
+  {
+    "surface": "栃木",
+    "reading": "tochigi",
+    "code": "00c0101",
+    "index": 451
+  },
+  {
+    "surface": "佐野",
+    "reading": "sano",
+    "code": "0101",
+    "index": 452
+  },
+  {
+    "surface": "鹿沼",
+    "reading": "kanuma",
+    "code": "x10001",
+    "index": 453
+  },
+  {
+    "surface": "日光",
+    "reading": "nikkou",
+    "code": "00zV01",
+    "index": 454
+  },
+  {
+    "surface": "下野",
+    "reading": "shimotsuke",
+    "code": "s0001t0001",
+    "index": 455
+  },
+  {
+    "surface": "小山",
+    "reading": "oyama",
+    "code": "10001",
+    "index": 456
+  },
+  {
+    "surface": "真岡",
+    "reading": "mooka",
+    "code": "010x1",
+    "index": 457
+  },
+  {
+    "surface": "大田原",
+    "reading": "ootawara",
+    "code": "01010001",
+    "index": 458
+  },
+  {
+    "surface": "矢板",
+    "reading": "yaita",
+    "code": "01001",
+    "index": 459
+  },
+  {
+    "surface": "那須塩原",
+    "reading": "nasushiobara",
+    "code": "0101s0010001",
+    "index": 460
+  },
+  {
+    "surface": "群馬",
+    "reading": "gunnma",
+    "code": "00n101",
+    "index": 461
+  },
+  {
+    "surface": "前橋",
+    "reading": "maebashi",
+    "code": "00100s01",
+    "index": 462
+  },
+  {
+    "surface": "高崎",
+    "reading": "takasaki",
+    "code": "00x10001",
+    "index": 463
+  },
+  {
+    "surface": "桐生",
+    "reading": "kiryuu",
+    "code": "000011",
+    "index": 464
+  },
+  {
+    "surface": "伊勢崎",
+    "reading": "isesaki",
+    "code": "1010001",
+    "index": 465
+  },
+  {
+    "surface": "太田",
+    "reading": "oota",
+    "code": "0101",
+    "index": 466
+  },
+  {
+    "surface": "沼田",
+    "reading": "numata",
+    "code": "000101",
+    "index": 467
+  },
+  {
+    "surface": "館林",
+    "reading": "tatebayashi",
+    "code": "00010000s01",
+    "index": 468
+  },
+  {
+    "surface": "渋川",
+    "reading": "shibukawa",
+    "code": "s0001x001",
+    "index": 469
+  },
+  {
+    "surface": "藤岡",
+    "reading": "huzioka",
+    "code": "f0j10x1",
+    "index": 470
+  },
+  {
+    "surface": "富岡",
+    "reading": "tomioka",
+    "code": "00010x1",
+    "index": 471
+  },
+  {
+    "surface": "安中",
+    "reading": "annnaka",
+    "code": "0N1v0x1",
+    "index": 472
+  },
+  {
+    "surface": "埼玉",
+    "reading": "saitama",
+    "code": "0010001",
+    "index": 473
+  },
+  {
+    "surface": "川越",
+    "reading": "kawagoe",
+    "code": "x001001",
+    "index": 474
+  },
+  {
+    "surface": "熊谷",
+    "reading": "kumagaya",
+    "code": "x0000101",
+    "index": 475
+  },
+  {
+    "surface": "川口",
+    "reading": "kawaguchi",
+    "code": "x00100c01",
+    "index": 476
+  },
+  {
+    "surface": "さいたま",
+    "reading": "saitama",
+    "code": "0110101",
+    "index": 477
+  },
+  {
+    "surface": "沖縄",
+    "reading": "okinawa",
+    "code": "0010001",
+    "index": 478
+  },
+  {
+    "surface": "行田",
+    "reading": "gyouda",
+    "code": "000101",
+    "index": 479
+  },
+  {
+    "surface": "秩父",
+    "reading": "chichibu",
+    "code": "c00c0101",
+    "index": 480
+  },
+  {
+    "surface": "所沢",
+    "reading": "tokorozawa",
+    "code": "00x0010001",
+    "index": 481
+  },
+  {
+    "surface": "飯能",
+    "reading": "hannnou",
+    "code": "00N1v01",
+    "index": 482
+  },
+  {
+    "surface": "加須",
+    "reading": "kazo",
+    "code": "x101",
+    "index": 483
+  },
+  {
+    "surface": "本庄",
+    "reading": "honnzyou",
+    "code": "00n1b001",
+    "index": 484
+  },
+  {
+    "surface": "東松山",
+    "reading": "higashimatsuyama",
+    "code": "0000s0100t010001",
+    "index": 485
+  },
+  {
+    "surface": "うきは",
+    "reading": "ukiha",
+    "code": "10101",
+    "index": 486
+  },
+  {
+    "surface": "春日部",
+    "reading": "kasukabe",
+    "code": "x001x101",
+    "index": 487
+  },
+  {
+    "surface": "狭山",
+    "reading": "sayama",
+    "code": "010001",
+    "index": 488
+  },
+  {
+    "surface": "羽生",
+    "reading": "hanyuu",
+    "code": "010001",
+    "index": 489
+  },
+  {
+    "surface": "鴻巣",
+    "reading": "kounosu",
+    "code": "x000101",
+    "index": 490
+  },
+  {
+    "surface": "深谷",
+    "reading": "hukaya",
+    "code": "f0x101",
+    "index": 491
+  },
+  {
+    "surface": "上尾",
+    "reading": "ageo",
+    "code": "0011",
+    "index": 492
+  },
+  {
+    "surface": "糸満",
+    "reading": "itomann",
+    "code": "00100u1",
+    "index": 493
+  },
+  {
+    "surface": "草加",
+    "reading": "souka",
+    "code": "001x1",
+    "index": 494
+  },
+  {
+    "surface": "越谷",
+    "reading": "koshigaya",
+    "code": "x0s000101",
+    "index": 495
+  },
+  {
+    "surface": "蕨",
+    "reading": "warabi",
+    "code": "000001",
+    "index": 496
+  },
+  {
+    "surface": "戸田",
+    "reading": "toda",
+    "code": "0101",
+    "index": 497
+  },
+  {
+    "surface": "入間",
+    "reading": "iruma",
+    "code": "00101",
+    "index": 498
+  },
+  {
+    "surface": "鳩ヶ谷",
+    "reading": "hatogaya",
+    "code": "00010101",
+    "index": 499
+  },
+  {
+    "surface": "朝霞",
+    "reading": "asaka",
+    "code": "001x1",
+    "index": 500
+  },
+  {
+    "surface": "志木",
+    "reading": "shiki",
+    "code": "s0101",
+    "index": 501
+  },
+  {
+    "surface": "和光",
+    "reading": "wakou",
+    "code": "01x01",
+    "index": 502
+  },
+  {
+    "surface": "新座",
+    "reading": "niiza",
+    "code": "00101",
+    "index": 503
+  },
+  {
+    "surface": "桶川",
+    "reading": "okegawa",
+    "code": "0010001",
+    "index": 504
+  },
+  {
+    "surface": "久喜",
+    "reading": "kuki",
+    "code": "x101",
+    "index": 505
+  },
+  {
+    "surface": "北本",
+    "reading": "kitamoto",
+    "code": "00010001",
+    "index": 506
+  },
+  {
+    "surface": "八潮",
+    "reading": "yashio",
+    "code": "01s001",
+    "index": 507
+  },
+  {
+    "surface": "富士見",
+    "reading": "huzimi",
+    "code": "f1j101",
+    "index": 508
+  },
+  {
+    "surface": "ふじみ野",
+    "reading": "huzimino",
+    "code": "f1j10101",
+    "index": 509
+  },
+  {
+    "surface": "三郷",
+    "reading": "misato",
+    "code": "010001",
+    "index": 510
+  },
+  {
+    "surface": "蓮田",
+    "reading": "hasuda",
+    "code": "000101",
+    "index": 511
+  },
+  {
+    "surface": "坂戸",
+    "reading": "sakado",
+    "code": "00x101",
+    "index": 512
+  },
+  {
+    "surface": "幸手",
+    "reading": "satte",
+    "code": "00101",
+    "index": 513
+  },
+  {
+    "surface": "鶴ヶ島",
+    "reading": "tsurugashima",
+    "code": "t000101s0001",
+    "index": 514
+  },
+  {
+    "surface": "日高",
+    "reading": "hidaka",
+    "code": "0100x1",
+    "index": 515
+  },
+  {
+    "surface": "吉川",
+    "reading": "yoshikawa",
+    "code": "00s01x001",
+    "index": 516
+  },
+  {
+    "surface": "千葉",
+    "reading": "chiba",
+    "code": "c0101",
+    "index": 517
+  },
+  {
+    "surface": "銚子",
+    "reading": "choushi",
+    "code": "gh01s01",
+    "index": 518
+  },
+  {
+    "surface": "市川",
+    "reading": "ichikawa",
+    "code": "0c01x001",
+    "index": 519
+  },
+  {
+    "surface": "船橋",
+    "reading": "hunabashi",
+    "code": "f00100s01",
+    "index": 520
+  },
+  {
+    "surface": "館山",
+    "reading": "tateyama",
+    "code": "00010001",
+    "index": 521
+  },
+  {
+    "surface": "木更津",
+    "reading": "kisaradu",
+    "code": "01000101",
+    "index": 522
+  },
+  {
+    "surface": "松戸",
+    "reading": "matsudo",
+    "code": "00t0101",
+    "index": 523
+  },
+  {
+    "surface": "野田",
+    "reading": "noda",
+    "code": "0101",
+    "index": 524
+  },
+  {
+    "surface": "匝瑳",
+    "reading": "sousa",
+    "code": "00101",
+    "index": 525
+  },
+  {
+    "surface": "茂原",
+    "reading": "mobara",
+    "code": "010001",
+    "index": 526
+  },
+  {
+    "surface": "成田",
+    "reading": "narita",
+    "code": "000101",
+    "index": 527
+  },
+  {
+    "surface": "佐倉",
+    "reading": "sakura",
+    "code": "01x001",
+    "index": 528
+  },
+  {
+    "surface": "東金",
+    "reading": "tougane",
+    "code": "0010001",
+    "index": 529
+  },
+  {
+    "surface": "南房総",
+    "reading": "minamibousou",
+    "code": "000001001001",
+    "index": 530
+  },
+  {
+    "surface": "旭",
+    "reading": "asahi",
+    "code": "00001",
+    "index": 531
+  },
+  {
+    "surface": "習志野",
+    "reading": "narashino",
+    "code": "0001s0101",
+    "index": 532
+  },
+  {
+    "surface": "柏",
+    "reading": "kashiwa",
+    "code": "x0s0001",
+    "index": 533
+  },
+  {
+    "surface": "勝浦",
+    "reading": "katsuura",
+    "code": "x0t01001",
+    "index": 534
+  },
+  {
+    "surface": "市原",
+    "reading": "ichihara",
+    "code": "0c010001",
+    "index": 535
+  },
+  {
+    "surface": "流山",
+    "reading": "nagareyama",
+    "code": "0000010001",
+    "index": 536
+  },
+  {
+    "surface": "八千代",
+    "reading": "yachiyo",
+    "code": "01c0101",
+    "index": 537
+  },
+  {
+    "surface": "我孫子",
+    "reading": "abiko",
+    "code": "101x1",
+    "index": 538
+  },
+  {
+    "surface": "鴨川",
+    "reading": "kamogawa",
+    "code": "x0010001",
+    "index": 539
+  },
+  {
+    "surface": "鎌ヶ谷",
+    "reading": "kamagaya",
+    "code": "x0010101",
+    "index": 540
+  },
+  {
+    "surface": "君津",
+    "reading": "kimitsu",
+    "code": "0001t01",
+    "index": 541
+  },
+  {
+    "surface": "富津",
+    "reading": "huttsu",
+    "code": "f01t01",
+    "index": 542
+  },
+  {
+    "surface": "浦安",
+    "reading": "urayasu",
+    "code": "0010001",
+    "index": 543
+  },
+  {
+    "surface": "四街道",
+    "reading": "yotsukaidou",
+    "code": "00t01x01001",
+    "index": 544
+  },
+  {
+    "surface": "袖ヶ浦",
+    "reading": "sodegaura",
+    "code": "000101001",
+    "index": 545
+  },
+  {
+    "surface": "八街",
+    "reading": "yachimata",
+    "code": "01c000001",
+    "index": 546
+  },
+  {
+    "surface": "印西",
+    "reading": "innzai",
+    "code": "0n1001",
+    "index": 547
+  },
+  {
+    "surface": "東京",
+    "reading": "toukyou",
+    "code": "0010001",
+    "index": 548
+  },
+  {
+    "surface": "八王子",
+    "reading": "hachiouzi",
+    "code": "00c0101j1",
+    "index": 549
+  },
+  {
+    "surface": "立川",
+    "reading": "tachikawa",
+    "code": "00c01x001",
+    "index": 550
+  },
+  {
+    "surface": "武蔵野",
+    "reading": "musashino",
+    "code": "0100s0101",
+    "index": 551
+  },
+  {
+    "surface": "三鷹",
+    "reading": "mitaka",
+    "code": "0100x1",
+    "index": 552
+  },
+  {
+    "surface": "青梅",
+    "reading": "oume",
+    "code": "1001",
+    "index": 553
+  },
+  {
+    "surface": "府中",
+    "reading": "huchuu",
+    "code": "f1gh01",
+    "index": 554
+  },
+  {
+    "surface": "昭島",
+    "reading": "akishima",
+    "code": "001s0001",
+    "index": 555
+  },
+  {
+    "surface": "調布",
+    "reading": "chouhu",
+    "code": "gh01f1",
+    "index": 556
+  },
+  {
+    "surface": "町田",
+    "reading": "machida",
+    "code": "00c0101",
+    "index": 557
+  },
+  {
+    "surface": "小金井",
+    "reading": "koganei",
+    "code": "x100011",
+    "index": 558
+  },
+  {
+    "surface": "小平",
+    "reading": "kodaira",
+    "code": "x100001",
+    "index": 559
+  },
+  {
+    "surface": "日野",
+    "reading": "hino",
+    "code": "0101",
+    "index": 560
+  },
+  {
+    "surface": "東村山",
+    "reading": "higashimurayama",
+    "code": "0000s0100010001",
+    "index": 561
+  },
+  {
+    "surface": "国分寺",
+    "reading": "kokubunnzi",
+    "code": "x0x100n1j1",
+    "index": 562
+  },
+  {
+    "surface": "国立",
+    "reading": "kunitachi",
+    "code": "x00100c01",
+    "index": 563
+  },
+  {
+    "surface": "西東京",
+    "reading": "nishitoukyou",
+    "code": "00s010010001",
+    "index": 564
+  },
+  {
+    "surface": "潮来",
+    "reading": "itako",
+    "code": "001x1",
+    "index": 565
+  },
+  {
+    "surface": "福生",
+    "reading": "hussa",
+    "code": "f0101",
+    "index": 566
+  },
+  {
+    "surface": "狛江",
+    "reading": "komae",
+    "code": "x0011",
+    "index": 567
+  },
+  {
+    "surface": "東大和",
+    "reading": "higashiyamato",
+    "code": "0000s01000101",
+    "index": 568
+  },
+  {
+    "surface": "清瀬",
+    "reading": "kiyose",
+    "code": "000101",
+    "index": 569
+  },
+  {
+    "surface": "東久留米",
+    "reading": "higashikurume",
+    "code": "0000s01x10101",
+    "index": 570
+  },
+  {
+    "surface": "武蔵村山",
+    "reading": "musashimurayama",
+    "code": "0100s0100010001",
+    "index": 571
+  },
+  {
+    "surface": "多摩",
+    "reading": "tama",
+    "code": "0101",
+    "index": 572
+  },
+  {
+    "surface": "稲城",
+    "reading": "inagi",
+    "code": "00101",
+    "index": 573
+  },
+  {
+    "surface": "羽村",
+    "reading": "hamura",
+    "code": "010001",
+    "index": 574
+  },
+  {
+    "surface": "神奈川",
+    "reading": "kanagawa",
+    "code": "x1010001",
+    "index": 575
+  },
+  {
+    "surface": "川崎",
+    "reading": "kawasaki",
+    "code": "x0010001",
+    "index": 576
+  },
+  {
+    "surface": "横浜",
+    "reading": "yokohama",
+    "code": "00x10001",
+    "index": 577
+  },
+  {
+    "surface": "横須賀",
+    "reading": "yokosuka",
+    "code": "00x101x1",
+    "index": 578
+  },
+  {
+    "surface": "平塚",
+    "reading": "hiratsuka",
+    "code": "0001t00x1",
+    "index": 579
+  },
+  {
+    "surface": "鎌倉",
+    "reading": "kamakura",
+    "code": "x001x001",
+    "index": 580
+  },
+  {
+    "surface": "あきる野",
+    "reading": "akiruno",
+    "code": "1010101",
+    "index": 581
+  },
+  {
+    "surface": "藤沢",
+    "reading": "huzisawa",
+    "code": "f0j10001",
+    "index": 582
+  },
+  {
+    "surface": "小田原",
+    "reading": "odawara",
+    "code": "1010001",
+    "index": 583
+  },
+  {
+    "surface": "茅ヶ崎",
+    "reading": "chigasaki",
+    "code": "c01010001",
+    "index": 584
+  },
+  {
+    "surface": "逗子",
+    "reading": "zushi",
+    "code": "01s01",
+    "index": 585
+  },
+  {
+    "surface": "相模原",
+    "reading": "sagamihara",
+    "code": "0100010001",
+    "index": 586
+  },
+  {
+    "surface": "三浦",
+    "reading": "miura",
+    "code": "01001",
+    "index": 587
+  },
+  {
+    "surface": "秦野",
+    "reading": "hadano",
+    "code": "000101",
+    "index": 588
+  },
+  {
+    "surface": "厚木",
+    "reading": "atsugi",
+    "code": "0t0101",
+    "index": 589
+  },
+  {
+    "surface": "大和",
+    "reading": "yamato",
+    "code": "000101",
+    "index": 590
+  },
+  {
+    "surface": "伊勢原",
+    "reading": "isehara",
+    "code": "1010001",
+    "index": 591
+  },
+  {
+    "surface": "海老名",
+    "reading": "ebina",
+    "code": "10101",
+    "index": 592
+  },
+  {
+    "surface": "座間",
+    "reading": "zama",
+    "code": "0101",
+    "index": 593
+  },
+  {
+    "surface": "南足柄",
+    "reading": "minamiashigara",
+    "code": "0000010s010001",
+    "index": 594
+  },
+  {
+    "surface": "綾瀬",
+    "reading": "ayase",
+    "code": "00101",
+    "index": 595
+  },
+  {
+    "surface": "新潟",
+    "reading": "niigata",
+    "code": "0010001",
+    "index": 596
+  },
+  {
+    "surface": "長岡",
+    "reading": "nagaoka",
+    "code": "00010x1",
+    "index": 597
+  },
+  {
+    "surface": "三条",
+    "reading": "sannzyou",
+    "code": "00n1b001",
+    "index": 598
+  },
+  {
+    "surface": "柏崎",
+    "reading": "kashiwazaki",
+    "code": "x0s00010001",
+    "index": 599
+  },
+  {
+    "surface": "新発田",
+    "reading": "shibata",
+    "code": "s010101",
+    "index": 600
+  },
+  {
+    "surface": "小城",
+    "reading": "ogi",
+    "code": "101",
+    "index": 601
+  },
+  {
+    "surface": "小千谷",
+    "reading": "odiya",
+    "code": "10101",
+    "index": 602
+  },
+  {
+    "surface": "加茂",
+    "reading": "kamo",
+    "code": "x101",
+    "index": 603
+  },
+  {
+    "surface": "十日町",
+    "reading": "tookamachi",
+    "code": "001x100c01",
+    "index": 604
+  },
+  {
+    "surface": "見附",
+    "reading": "mitsuke",
+    "code": "01t0001",
+    "index": 605
+  },
+  {
+    "surface": "村上",
+    "reading": "murakami",
+    "code": "0001x001",
+    "index": 606
+  },
+  {
+    "surface": "燕",
+    "reading": "tsubame",
+    "code": "t000001",
+    "index": 607
+  },
+  {
+    "surface": "いすみ",
+    "reading": "isumi",
+    "code": "10101",
+    "index": 608
+  },
+  {
+    "surface": "糸魚川",
+    "reading": "itoigawa",
+    "code": "00110001",
+    "index": 609
+  },
+  {
+    "surface": "妙高",
+    "reading": "myoukou",
+    "code": "0001x01",
+    "index": 610
+  },
+  {
+    "surface": "五泉",
+    "reading": "gosenn",
+    "code": "0100u1",
+    "index": 611
+  },
+  {
+    "surface": "佐渡",
+    "reading": "sado",
+    "code": "0101",
+    "index": 612
+  },
+  {
+    "surface": "阿蘇",
+    "reading": "aso",
+    "code": "101",
+    "index": 613
+  },
+  {
+    "surface": "西海",
+    "reading": "saikai",
+    "code": "001x01",
+    "index": 614
+  },
+  {
+    "surface": "上越",
+    "reading": "zyouetsu",
+    "code": "b0010t01",
+    "index": 615
+  },
+  {
+    "surface": "富山",
+    "reading": "toyama",
+    "code": "010001",
+    "index": 616
+  },
+  {
+    "surface": "高岡",
+    "reading": "takaoka",
+    "code": "00x10x1",
+    "index": 617
+  },
+  {
+    "surface": "射水",
+    "reading": "imizu",
+    "code": "10001",
+    "index": 618
+  },
+  {
+    "surface": "魚津",
+    "reading": "uodu",
+    "code": "0101",
+    "index": 619
+  },
+  {
+    "surface": "氷見",
+    "reading": "himi",
+    "code": "0101",
+    "index": 620
+  },
+  {
+    "surface": "滑川",
+    "reading": "namerikawa",
+    "code": "000001x001",
+    "index": 621
+  },
+  {
+    "surface": "黒部",
+    "reading": "kurobe",
+    "code": "x00101",
+    "index": 622
+  },
+  {
+    "surface": "砺波",
+    "reading": "tonami",
+    "code": "010001",
+    "index": 623
+  },
+  {
+    "surface": "小矢部",
+    "reading": "oyabe",
+    "code": "10101",
+    "index": 624
+  },
+  {
+    "surface": "石川",
+    "reading": "ishikawa",
+    "code": "0s01x001",
+    "index": 625
+  },
+  {
+    "surface": "金沢",
+    "reading": "kanazawa",
+    "code": "x0010001",
+    "index": 626
+  },
+  {
+    "surface": "七尾",
+    "reading": "nanao",
+    "code": "00011",
+    "index": 627
+  },
+  {
+    "surface": "小松",
+    "reading": "komatsu",
+    "code": "x100t01",
+    "index": 628
+  },
+  {
+    "surface": "輪島",
+    "reading": "wazima",
+    "code": "01j001",
+    "index": 629
+  },
+  {
+    "surface": "珠洲",
+    "reading": "suzu",
+    "code": "0101",
+    "index": 630
+  },
+  {
+    "surface": "加賀",
+    "reading": "kaga",
+    "code": "x101",
+    "index": 631
+  },
+  {
+    "surface": "羽咋",
+    "reading": "hakui",
+    "code": "01x01",
+    "index": 632
+  },
+  {
+    "surface": "菊川",
+    "reading": "kikugawa",
+    "code": "00x10001",
+    "index": 633
+  },
+  {
+    "surface": "福井",
+    "reading": "hukui",
+    "code": "f0x11",
+    "index": 634
+  },
+  {
+    "surface": "敦賀",
+    "reading": "tsuruga",
+    "code": "t000101",
+    "index": 635
+  },
+  {
+    "surface": "越前",
+    "reading": "echizenn",
+    "code": "0c0100u1",
+    "index": 636
+  },
+  {
+    "surface": "小浜",
+    "reading": "obama",
+    "code": "10001",
+    "index": 637
+  },
+  {
+    "surface": "大野",
+    "reading": "oono",
+    "code": "0101",
+    "index": 638
+  },
+  {
+    "surface": "勝山",
+    "reading": "katsuyama",
+    "code": "x0t010001",
+    "index": 639
+  },
+  {
+    "surface": "鯖江",
+    "reading": "sabae",
+    "code": "00011",
+    "index": 640
+  },
+  {
+    "surface": "甲府",
+    "reading": "kouhu",
+    "code": "x01f1",
+    "index": 641
+  },
+  {
+    "surface": "富士吉田",
+    "reading": "huziyoshida",
+    "code": "f1j100s0101",
+    "index": 642
+  },
+  {
+    "surface": "甲州",
+    "reading": "koushuu",
+    "code": "x010d01",
+    "index": 643
+  },
+  {
+    "surface": "都留",
+    "reading": "tsuru",
+    "code": "t0101",
+    "index": 644
+  },
+  {
+    "surface": "山梨",
+    "reading": "yamanashi",
+    "code": "000100s01",
+    "index": 645
+  },
+  {
+    "surface": "大月",
+    "reading": "ootsuki",
+    "code": "01t0001",
+    "index": 646
+  },
+  {
+    "surface": "韮崎",
+    "reading": "nirasaki",
+    "code": "00010001",
+    "index": 647
+  },
+  {
+    "surface": "長野",
+    "reading": "nagano",
+    "code": "000101",
+    "index": 648
+  },
+  {
+    "surface": "松本",
+    "reading": "matsumoto",
+    "code": "00t010001",
+    "index": 649
+  },
+  {
+    "surface": "上田",
+    "reading": "ueda",
+    "code": "0101",
+    "index": 650
+  },
+  {
+    "surface": "岡谷",
+    "reading": "okaya",
+    "code": "0x101",
+    "index": 651
+  },
+  {
+    "surface": "飯田",
+    "reading": "iida",
+    "code": "0101",
+    "index": 652
+  },
+  {
+    "surface": "諏訪",
+    "reading": "suwa",
+    "code": "0101",
+    "index": 653
+  },
+  {
+    "surface": "須坂",
+    "reading": "suzaka",
+    "code": "0100x1",
+    "index": 654
+  },
+  {
+    "surface": "小諸",
+    "reading": "komoro",
+    "code": "x10001",
+    "index": 655
+  },
+  {
+    "surface": "伊那",
+    "reading": "ina",
+    "code": "101",
+    "index": 656
+  },
+  {
+    "surface": "駒ヶ根",
+    "reading": "komagane",
+    "code": "x0010101",
+    "index": 657
+  },
+  {
+    "surface": "中野",
+    "reading": "nakano",
+    "code": "00x101",
+    "index": 658
+  },
+  {
+    "surface": "大町",
+    "reading": "oomachi",
+    "code": "0100c01",
+    "index": 659
+  },
+  {
+    "surface": "飯山",
+    "reading": "iiyama",
+    "code": "010001",
+    "index": 660
+  },
+  {
+    "surface": "茅野",
+    "reading": "chino",
+    "code": "c0101",
+    "index": 661
+  },
+  {
+    "surface": "塩尻",
+    "reading": "shioziri",
+    "code": "s001j001",
+    "index": 662
+  },
+  {
+    "surface": "千曲",
+    "reading": "chikuma",
+    "code": "c01x001",
+    "index": 663
+  },
+  {
+    "surface": "佐久",
+    "reading": "saku",
+    "code": "01x1",
+    "index": 664
+  },
+  {
+    "surface": "岐阜",
+    "reading": "gihu",
+    "code": "01f1",
+    "index": 665
+  },
+  {
+    "surface": "大垣",
+    "reading": "oogaki",
+    "code": "010001",
+    "index": 666
+  },
+  {
+    "surface": "高山",
+    "reading": "takayama",
+    "code": "00x10001",
+    "index": 667
+  },
+  {
+    "surface": "多治見",
+    "reading": "tazimi",
+    "code": "01j101",
+    "index": 668
+  },
+  {
+    "surface": "関",
+    "reading": "seki",
+    "code": "0001",
+    "index": 669
+  },
+  {
+    "surface": "中津川",
+    "reading": "nakatsugawa",
+    "code": "00x1t010001",
+    "index": 670
+  },
+  {
+    "surface": "美濃",
+    "reading": "mino",
+    "code": "0101",
+    "index": 671
+  },
+  {
+    "surface": "瑞浪",
+    "reading": "mizunami",
+    "code": "00010001",
+    "index": 672
+  },
+  {
+    "surface": "羽島",
+    "reading": "hashima",
+    "code": "01s0001",
+    "index": 673
+  },
+  {
+    "surface": "恵那",
+    "reading": "ena",
+    "code": "101",
+    "index": 674
+  },
+  {
+    "surface": "美濃加茂",
+    "reading": "minokamo",
+    "code": "0101x101",
+    "index": 675
+  },
+  {
+    "surface": "土岐",
+    "reading": "toki",
+    "code": "0101",
+    "index": 676
+  },
+  {
+    "surface": "各務原",
+    "reading": "kakamigahara",
+    "code": "x0x100010001",
+    "index": 677
+  },
+  {
+    "surface": "可児",
+    "reading": "kani",
+    "code": "x101",
+    "index": 678
+  },
+  {
+    "surface": "静岡",
+    "reading": "shizuoka",
+    "code": "s00010x1",
+    "index": 679
+  },
+  {
+    "surface": "浜松",
+    "reading": "hamamatsu",
+    "code": "000100t01",
+    "index": 680
+  },
+  {
+    "surface": "沼津",
+    "reading": "numadu",
+    "code": "000101",
+    "index": 681
+  },
+  {
+    "surface": "南アルプス",
+    "reading": "minamiarupusu",
+    "code": "0000011010101",
+    "index": 682
+  },
+  {
+    "surface": "熱海",
+    "reading": "atami",
+    "code": "00101",
+    "index": 683
+  },
+  {
+    "surface": "三島",
+    "reading": "mishima",
+    "code": "01s0001",
+    "index": 684
+  },
+  {
+    "surface": "富士宮",
+    "reading": "huzinomiya",
+    "code": "f1j0010001",
+    "index": 685
+  },
+  {
+    "surface": "伊東",
+    "reading": "itou",
+    "code": "1001",
+    "index": 686
+  },
+  {
+    "surface": "島田",
+    "reading": "shimada",
+    "code": "s000101",
+    "index": 687
+  },
+  {
+    "surface": "富士",
+    "reading": "huzi",
+    "code": "f1j1",
+    "index": 688
+  },
+  {
+    "surface": "磐田",
+    "reading": "iwata",
+    "code": "00101",
+    "index": 689
+  },
+  {
+    "surface": "焼津",
+    "reading": "yaidu",
+    "code": "00101",
+    "index": 690
+  },
+  {
+    "surface": "掛川",
+    "reading": "kakegawa",
+    "code": "x0010001",
+    "index": 691
+  },
+  {
+    "surface": "藤枝",
+    "reading": "huzieda",
+    "code": "f0j1001",
+    "index": 692
+  },
+  {
+    "surface": "御殿場",
+    "reading": "gotennba",
+    "code": "0100n101",
+    "index": 693
+  },
+  {
+    "surface": "袋井",
+    "reading": "hukuroi",
+    "code": "f0x0011",
+    "index": 694
+  },
+  {
+    "surface": "由布",
+    "reading": "yuhu",
+    "code": "01f1",
+    "index": 695
+  },
+  {
+    "surface": "曽於",
+    "reading": "soo",
+    "code": "011",
+    "index": 696
+  },
+  {
+    "surface": "下田",
+    "reading": "shimoda",
+    "code": "s000101",
+    "index": 697
+  },
+  {
+    "surface": "裾野",
+    "reading": "susono",
+    "code": "000101",
+    "index": 698
+  },
+  {
+    "surface": "湖西",
+    "reading": "kosai",
+    "code": "x1001",
+    "index": 699
+  },
+  {
+    "surface": "愛知",
+    "reading": "aichi",
+    "code": "01c01",
+    "index": 700
+  },
+  {
+    "surface": "名古屋",
+    "reading": "nagoya",
+    "code": "010101",
+    "index": 701
+  },
+  {
+    "surface": "豊橋",
+    "reading": "toyohashi",
+    "code": "000100s01",
+    "index": 702
+  },
+  {
+    "surface": "岡崎",
+    "reading": "okazaki",
+    "code": "0x10001",
+    "index": 703
+  },
+  {
+    "surface": "一宮",
+    "reading": "ichinomiya",
+    "code": "0c00010001",
+    "index": 704
+  },
+  {
+    "surface": "瀬戸",
+    "reading": "seto",
+    "code": "0101",
+    "index": 705
+  },
+  {
+    "surface": "半田",
+    "reading": "hannda",
+    "code": "00n101",
+    "index": 706
+  },
+  {
+    "surface": "春日井",
+    "reading": "kasugai",
+    "code": "x001011",
+    "index": 707
+  },
+  {
+    "surface": "豊川",
+    "reading": "toyokawa",
+    "code": "0001x001",
+    "index": 708
+  },
+  {
+    "surface": "津島",
+    "reading": "tsushima",
+    "code": "t01s0001",
+    "index": 709
+  },
+  {
+    "surface": "碧南",
+    "reading": "hekinann",
+    "code": "000100u1",
+    "index": 710
+  },
+  {
+    "surface": "刈谷",
+    "reading": "kariya",
+    "code": "x00101",
+    "index": 711
+  },
+  {
+    "surface": "豊田",
+    "reading": "toyota",
+    "code": "000101",
+    "index": 712
+  },
+  {
+    "surface": "安城",
+    "reading": "annzyou",
+    "code": "0n1b001",
+    "index": 713
+  },
+  {
+    "surface": "西尾",
+    "reading": "nishio",
+    "code": "00s011",
+    "index": 714
+  },
+  {
+    "surface": "蒲郡",
+    "reading": "gamagoori",
+    "code": "000100001",
+    "index": 715
+  },
+  {
+    "surface": "犬山",
+    "reading": "inuyama",
+    "code": "0010001",
+    "index": 716
+  },
+  {
+    "surface": "常滑",
+    "reading": "tokoname",
+    "code": "00x10001",
+    "index": 717
+  },
+  {
+    "surface": "江南",
+    "reading": "kounann",
+    "code": "x0100u1",
+    "index": 718
+  },
+  {
+    "surface": "豊後大野",
+    "reading": "bunngooono",
+    "code": "00n1010101",
+    "index": 719
+  },
+  {
+    "surface": "小牧",
+    "reading": "komaki",
+    "code": "x10001",
+    "index": 720
+  },
+  {
+    "surface": "稲沢",
+    "reading": "inazawa",
+    "code": "0010001",
+    "index": 721
+  },
+  {
+    "surface": "新城",
+    "reading": "shinnshiro",
+    "code": "s00n1s0001",
+    "index": 722
+  },
+  {
+    "surface": "東海",
+    "reading": "toukai",
+    "code": "001x01",
+    "index": 723
+  },
+  {
+    "surface": "大府",
+    "reading": "oobu",
+    "code": "0101",
+    "index": 724
+  },
+  {
+    "surface": "知多",
+    "reading": "chita",
+    "code": "c0101",
+    "index": 725
+  },
+  {
+    "surface": "知立",
+    "reading": "chiryuu",
+    "code": "c010001",
+    "index": 726
+  },
+  {
+    "surface": "尾張旭",
+    "reading": "owariasahi",
+    "code": "1000100001",
+    "index": 727
+  },
+  {
+    "surface": "高浜",
+    "reading": "takahama",
+    "code": "00x10001",
+    "index": 728
+  },
+  {
+    "surface": "岩倉",
+    "reading": "iwakura",
+    "code": "001x001",
+    "index": 729
+  },
+  {
+    "surface": "豊明",
+    "reading": "toyoake",
+    "code": "0001001",
+    "index": 730
+  },
+  {
+    "surface": "日進",
+    "reading": "nisshinn",
+    "code": "001s00u1",
+    "index": 731
+  },
+  {
+    "surface": "三重",
+    "reading": "mie",
+    "code": "011",
+    "index": 732
+  },
+  {
+    "surface": "津",
+    "reading": "tsu",
+    "code": "t01",
+    "index": 733
+  },
+  {
+    "surface": "四日市",
+    "reading": "yokkaichi",
+    "code": "00zV10c01",
+    "index": 734
+  },
+  {
+    "surface": "伊勢",
+    "reading": "ise",
+    "code": "101",
+    "index": 735
+  },
+  {
+    "surface": "松阪",
+    "reading": "matsusaka",
+    "code": "00t0100x1",
+    "index": 736
+  },
+  {
+    "surface": "桑名",
+    "reading": "kuwana",
+    "code": "x00101",
+    "index": 737
+  },
+  {
+    "surface": "伊賀",
+    "reading": "iga",
+    "code": "101",
+    "index": 738
+  },
+  {
+    "surface": "鈴鹿",
+    "reading": "suzuka",
+    "code": "0001x1",
+    "index": 739
+  },
+  {
+    "surface": "名張",
+    "reading": "nabari",
+    "code": "010001",
+    "index": 740
+  },
+  {
+    "surface": "尾鷲",
+    "reading": "owase",
+    "code": "10001",
+    "index": 741
+  },
+  {
+    "surface": "亀山",
+    "reading": "kameyama",
+    "code": "x0010001",
+    "index": 742
+  },
+  {
+    "surface": "鳥羽",
+    "reading": "toba",
+    "code": "0101",
+    "index": 743
+  },
+  {
+    "surface": "熊野",
+    "reading": "kumano",
+    "code": "x00101",
+    "index": 744
+  },
+  {
+    "surface": "牧之原",
+    "reading": "makinohara",
+    "code": "0001010001",
+    "index": 745
+  },
+  {
+    "surface": "滋賀",
+    "reading": "shiga",
+    "code": "s0101",
+    "index": 746
+  },
+  {
+    "surface": "大津",
+    "reading": "ootsu",
+    "code": "01t01",
+    "index": 747
+  },
+  {
+    "surface": "彦根",
+    "reading": "hikone",
+    "code": "00x101",
+    "index": 748
+  },
+  {
+    "surface": "長浜",
+    "reading": "nagahama",
+    "code": "00010001",
+    "index": 749
+  },
+  {
+    "surface": "近江八幡",
+    "reading": "oumihachimann",
+    "code": "010100c0100u1",
+    "index": 750
+  },
+  {
+    "surface": "東近江",
+    "reading": "higashioumi",
+    "code": "0000s010101",
+    "index": 751
+  },
+  {
+    "surface": "草津",
+    "reading": "kusatsu",
+    "code": "x001t01",
+    "index": 752
+  },
+  {
+    "surface": "守山",
+    "reading": "moriyama",
+    "code": "00010001",
+    "index": 753
+  },
+  {
+    "surface": "京都",
+    "reading": "kyouto",
+    "code": "000101",
+    "index": 754
+  },
+  {
+    "surface": "福知山",
+    "reading": "hukuchiyama",
+    "code": "f0x1c010001",
+    "index": 755
+  },
+  {
+    "surface": "舞鶴",
+    "reading": "maiduru",
+    "code": "0010001",
+    "index": 756
+  },
+  {
+    "surface": "綾部",
+    "reading": "ayabe",
+    "code": "00101",
+    "index": 757
+  },
+  {
+    "surface": "宇治",
+    "reading": "uzi",
+    "code": "1j1",
+    "index": 758
+  },
+  {
+    "surface": "宮津",
+    "reading": "miyadu",
+    "code": "000101",
+    "index": 759
+  },
+  {
+    "surface": "亀岡",
+    "reading": "kameoka",
+    "code": "x0010x1",
+    "index": 760
+  },
+  {
+    "surface": "城陽",
+    "reading": "zyouyou",
+    "code": "b001001",
+    "index": 761
+  },
+  {
+    "surface": "向日",
+    "reading": "mukou",
+    "code": "00x11",
+    "index": 762
+  },
+  {
+    "surface": "長岡京",
+    "reading": "nagaokakyou",
+    "code": "00010x10001",
+    "index": 763
+  },
+  {
+    "surface": "八幡",
+    "reading": "yawata",
+    "code": "010001",
+    "index": 764
+  },
+  {
+    "surface": "京田辺",
+    "reading": "kyoutanabe",
+    "code": "0001010001",
+    "index": 765
+  },
+  {
+    "surface": "大阪",
+    "reading": "oosaka",
+    "code": "0100x1",
+    "index": 766
+  },
+  {
+    "surface": "堺",
+    "reading": "sakai",
+    "code": "00x01",
+    "index": 767
+  },
+  {
+    "surface": "岸和田",
+    "reading": "kishiwada",
+    "code": "00s010101",
+    "index": 768
+  },
+  {
+    "surface": "豊中",
+    "reading": "toyonaka",
+    "code": "000100x1",
+    "index": 769
+  },
+  {
+    "surface": "池田",
+    "reading": "ikeda",
+    "code": "00101",
+    "index": 770
+  },
+  {
+    "surface": "吹田",
+    "reading": "suita",
+    "code": "00101",
+    "index": 771
+  },
+  {
+    "surface": "泉大津",
+    "reading": "izumiootsu",
+    "code": "0000101t01",
+    "index": 772
+  },
+  {
+    "surface": "高槻",
+    "reading": "takatsuki",
+    "code": "00x1t0001",
+    "index": 773
+  },
+  {
+    "surface": "貝塚",
+    "reading": "kaiduka",
+    "code": "x0100x1",
+    "index": 774
+  },
+  {
+    "surface": "守口",
+    "reading": "moriguchi",
+    "code": "000100c01",
+    "index": 775
+  },
+  {
+    "surface": "枚方",
+    "reading": "hirakata",
+    "code": "0001x001",
+    "index": 776
+  },
+  {
+    "surface": "茨木",
+    "reading": "ibaraki",
+    "code": "0000101",
+    "index": 777
+  },
+  {
+    "surface": "八尾",
+    "reading": "yao",
+    "code": "011",
+    "index": 778
+  },
+  {
+    "surface": "泉佐野",
+    "reading": "izumisano",
+    "code": "000010101",
+    "index": 779
+  },
+  {
+    "surface": "富田林",
+    "reading": "tonndabayashi",
+    "code": "00n1010000s01",
+    "index": 780
+  },
+  {
+    "surface": "寝屋川",
+    "reading": "neyagawa",
+    "code": "01010001",
+    "index": 781
+  },
+  {
+    "surface": "河内長野",
+    "reading": "kawachinagano",
+    "code": "x001c01000101",
+    "index": 782
+  },
+  {
+    "surface": "松原",
+    "reading": "matsubara",
+    "code": "00t010001",
+    "index": 783
+  },
+  {
+    "surface": "大東",
+    "reading": "daitou",
+    "code": "001001",
+    "index": 784
+  },
+  {
+    "surface": "和泉",
+    "reading": "izumi",
+    "code": "10001",
+    "index": 785
+  },
+  {
+    "surface": "箕面",
+    "reading": "minoo",
+    "code": "00011",
+    "index": 786
+  },
+  {
+    "surface": "柏原",
+    "reading": "kashiwara",
+    "code": "x0s010001",
+    "index": 787
+  },
+  {
+    "surface": "羽曳野",
+    "reading": "habikino",
+    "code": "01000101",
+    "index": 788
+  },
+  {
+    "surface": "門真",
+    "reading": "kadoma",
+    "code": "x00101",
+    "index": 789
+  },
+  {
+    "surface": "摂津",
+    "reading": "settsu",
+    "code": "001t01",
+    "index": 790
+  },
+  {
+    "surface": "高石",
+    "reading": "takaishi",
+    "code": "00x10s01",
+    "index": 791
+  },
+  {
+    "surface": "藤井寺",
+    "reading": "huziidera",
+    "code": "f0j110001",
+    "index": 792
+  },
+  {
+    "surface": "東大阪",
+    "reading": "higashioosaka",
+    "code": "0000s010100x1",
+    "index": 793
+  },
+  {
+    "surface": "泉南",
+    "reading": "sennnann",
+    "code": "00N1v0u1",
+    "index": 794
+  },
+  {
+    "surface": "四條畷",
+    "reading": "shizyounawate",
+    "code": "s01b001000001",
+    "index": 795
+  },
+  {
+    "surface": "交野",
+    "reading": "katano",
+    "code": "x00101",
+    "index": 796
+  },
+  {
+    "surface": "大阪狭山",
+    "reading": "oosakasayama",
+    "code": "0100x1010001",
+    "index": 797
+  },
+  {
+    "surface": "阪南",
+    "reading": "hannnann",
+    "code": "00N1v0u1",
+    "index": 798
+  },
+  {
+    "surface": "兵庫",
+    "reading": "hyougo",
+    "code": "000101",
+    "index": 799
+  },
+  {
+    "surface": "神戸",
+    "reading": "koube",
+    "code": "x0101",
+    "index": 800
+  },
+  {
+    "surface": "姫路",
+    "reading": "himezi",
+    "code": "0001j1",
+    "index": 801
+  },
+  {
+    "surface": "尼崎",
+    "reading": "amagasaki",
+    "code": "000010001",
+    "index": 802
+  },
+  {
+    "surface": "明石",
+    "reading": "akashi",
+    "code": "0x1s01",
+    "index": 803
+  },
+  {
+    "surface": "西宮",
+    "reading": "nishinomiya",
+    "code": "00s00010001",
+    "index": 804
+  },
+  {
+    "surface": "洲本",
+    "reading": "sumoto",
+    "code": "010001",
+    "index": 805
+  },
+  {
+    "surface": "芦屋",
+    "reading": "ashiya",
+    "code": "0s0101",
+    "index": 806
+  },
+  {
+    "surface": "伊丹",
+    "reading": "itami",
+    "code": "10001",
+    "index": 807
+  },
+  {
+    "surface": "相生",
+    "reading": "aioi",
+    "code": "0101",
+    "index": 808
+  },
+  {
+    "surface": "豊岡",
+    "reading": "toyooka",
+    "code": "00010x1",
+    "index": 809
+  },
+  {
+    "surface": "加古川",
+    "reading": "kakogawa",
+    "code": "x1x10001",
+    "index": 810
+  },
+  {
+    "surface": "たつの",
+    "reading": "tatsuno",
+    "code": "01t0101",
+    "index": 811
+  },
+  {
+    "surface": "赤穂",
+    "reading": "akou",
+    "code": "0x11",
+    "index": 812
+  },
+  {
+    "surface": "西脇",
+    "reading": "nishiwaki",
+    "code": "00s010001",
+    "index": 813
+  },
+  {
+    "surface": "宝塚",
+    "reading": "takaraduka",
+    "code": "00x00100x1",
+    "index": 814
+  },
+  {
+    "surface": "三木",
+    "reading": "miki",
+    "code": "0101",
+    "index": 815
+  },
+  {
+    "surface": "高砂",
+    "reading": "takasago",
+    "code": "00x10001",
+    "index": 816
+  },
+  {
+    "surface": "川西",
+    "reading": "kawanishi",
+    "code": "x00100s01",
+    "index": 817
+  },
+  {
+    "surface": "小野",
+    "reading": "ono",
+    "code": "101",
+    "index": 818
+  },
+  {
+    "surface": "三田",
+    "reading": "sannda",
+    "code": "00n101",
+    "index": 819
+  },
+  {
+    "surface": "加西",
+    "reading": "kasai",
+    "code": "x1001",
+    "index": 820
+  },
+  {
+    "surface": "篠山",
+    "reading": "sasayama",
+    "code": "00010001",
+    "index": 821
+  },
+  {
+    "surface": "奈良",
+    "reading": "nara",
+    "code": "0101",
+    "index": 822
+  },
+  {
+    "surface": "大和高田",
+    "reading": "yamatotakada",
+    "code": "00010100x101",
+    "index": 823
+  },
+  {
+    "surface": "大和郡山",
+    "reading": "yamatokooriyama",
+    "code": "000101x00010001",
+    "index": 824
+  },
+  {
+    "surface": "天理",
+    "reading": "tennri",
+    "code": "00n101",
+    "index": 825
+  },
+  {
+    "surface": "橿原",
+    "reading": "kashihara",
+    "code": "x0s010001",
+    "index": 826
+  },
+  {
+    "surface": "桜井",
+    "reading": "sakurai",
+    "code": "00x0011",
+    "index": 827
+  },
+  {
+    "surface": "五條",
+    "reading": "gozyou",
+    "code": "01b001",
+    "index": 828
+  },
+  {
+    "surface": "御所",
+    "reading": "gose",
+    "code": "0101",
+    "index": 829
+  },
+  {
+    "surface": "生駒",
+    "reading": "ikoma",
+    "code": "1x001",
+    "index": 830
+  },
+  {
+    "surface": "香芝",
+    "reading": "kashiba",
+    "code": "x1s0001",
+    "index": 831
+  },
+  {
+    "surface": "海南",
+    "reading": "kainann",
+    "code": "x0100u1",
+    "index": 832
+  },
+  {
+    "surface": "和歌山",
+    "reading": "wakayama",
+    "code": "01x10001",
+    "index": 833
+  },
+  {
+    "surface": "橋本",
+    "reading": "hashimoto",
+    "code": "00s010001",
+    "index": 834
+  },
+  {
+    "surface": "有田",
+    "reading": "arida",
+    "code": "00101",
+    "index": 835
+  },
+  {
+    "surface": "御坊",
+    "reading": "gobou",
+    "code": "01001",
+    "index": 836
+  },
+  {
+    "surface": "田辺",
+    "reading": "tanabe",
+    "code": "010001",
+    "index": 837
+  },
+  {
+    "surface": "新宮",
+    "reading": "shinnguu",
+    "code": "s00n1001",
+    "index": 838
+  },
+  {
+    "surface": "鳥取",
+    "reading": "tottori",
+    "code": "0010001",
+    "index": 839
+  },
+  {
+    "surface": "米子",
+    "reading": "yonago",
+    "code": "000101",
+    "index": 840
+  },
+  {
+    "surface": "倉吉",
+    "reading": "kurayoshi",
+    "code": "x00100s01",
+    "index": 841
+  },
+  {
+    "surface": "境港",
+    "reading": "sakaiminato",
+    "code": "00x01000001",
+    "index": 842
+  },
+  {
+    "surface": "島根",
+    "reading": "shimane",
+    "code": "s000101",
+    "index": 843
+  },
+  {
+    "surface": "松江",
+    "reading": "matsue",
+    "code": "00t011",
+    "index": 844
+  },
+  {
+    "surface": "浜田",
+    "reading": "hamada",
+    "code": "000101",
+    "index": 845
+  },
+  {
+    "surface": "出雲",
+    "reading": "izumo",
+    "code": "00101",
+    "index": 846
+  },
+  {
+    "surface": "益田",
+    "reading": "masuda",
+    "code": "000101",
+    "index": 847
+  },
+  {
+    "surface": "大田",
+    "reading": "ooda",
+    "code": "0101",
+    "index": 848
+  },
+  {
+    "surface": "安来",
+    "reading": "yasugi",
+    "code": "000101",
+    "index": 849
+  },
+  {
+    "surface": "江津",
+    "reading": "goutsu",
+    "code": "001t01",
+    "index": 850
+  },
+  {
+    "surface": "日置",
+    "reading": "hioki",
+    "code": "01001",
+    "index": 851
+  },
+  {
+    "surface": "岡山",
+    "reading": "okayama",
+    "code": "0x10001",
+    "index": 852
+  },
+  {
+    "surface": "倉敷",
+    "reading": "kurashiki",
+    "code": "x001s0001",
+    "index": 853
+  },
+  {
+    "surface": "津山",
+    "reading": "tsuyama",
+    "code": "t010001",
+    "index": 854
+  },
+  {
+    "surface": "玉野",
+    "reading": "tamano",
+    "code": "000101",
+    "index": 855
+  },
+  {
+    "surface": "笠岡",
+    "reading": "kasaoka",
+    "code": "x0010x1",
+    "index": 856
+  },
+  {
+    "surface": "井原",
+    "reading": "ibara",
+    "code": "10001",
+    "index": 857
+  },
+  {
+    "surface": "総社",
+    "reading": "souzya",
+    "code": "001b01",
+    "index": 858
+  },
+  {
+    "surface": "高梁",
+    "reading": "takahashi",
+    "code": "00x100s01",
+    "index": 859
+  },
+  {
+    "surface": "新見",
+    "reading": "niimi",
+    "code": "00101",
+    "index": 860
+  },
+  {
+    "surface": "備前",
+    "reading": "bizenn",
+    "code": "0100u1",
+    "index": 861
+  },
+  {
+    "surface": "広島",
+    "reading": "hiroshima",
+    "code": "0001s0001",
+    "index": 862
+  },
+  {
+    "surface": "竹原",
+    "reading": "takehara",
+    "code": "00010001",
+    "index": 863
+  },
+  {
+    "surface": "三原",
+    "reading": "mihara",
+    "code": "010001",
+    "index": 864
+  },
+  {
+    "surface": "尾道",
+    "reading": "onomichi",
+    "code": "00100c01",
+    "index": 865
+  },
+  {
+    "surface": "浅口",
+    "reading": "asakuchi",
+    "code": "001x0c01",
+    "index": 866
+  },
+  {
+    "surface": "福山",
+    "reading": "hukuyama",
+    "code": "f0x10001",
+    "index": 867
+  },
+  {
+    "surface": "三次",
+    "reading": "miyoshi",
+    "code": "0100s01",
+    "index": 868
+  },
+  {
+    "surface": "庄原",
+    "reading": "shoubara",
+    "code": "0d010001",
+    "index": 869
+  },
+  {
+    "surface": "大竹",
+    "reading": "ootake",
+    "code": "010001",
+    "index": 870
+  },
+  {
+    "surface": "東広島",
+    "reading": "higashihiroshima",
+    "code": "0000s010001s0001",
+    "index": 871
+  },
+  {
+    "surface": "廿日市",
+    "reading": "hatsukaichi",
+    "code": "00t01x10c01",
+    "index": 872
+  },
+  {
+    "surface": "呉",
+    "reading": "kure",
+    "code": "x001",
+    "index": 873
+  },
+  {
+    "surface": "下関",
+    "reading": "shimonoseki",
+    "code": "s0000010001",
+    "index": 874
+  },
+  {
+    "surface": "宇部",
+    "reading": "ube",
+    "code": "101",
+    "index": 875
+  },
+  {
+    "surface": "山口",
+    "reading": "yamaguchi",
+    "code": "000100c01",
+    "index": 876
+  },
+  {
+    "surface": "萩",
+    "reading": "hagi",
+    "code": "0001",
+    "index": 877
+  },
+  {
+    "surface": "周南",
+    "reading": "shuunann",
+    "code": "0d0100u1",
+    "index": 878
+  },
+  {
+    "surface": "防府",
+    "reading": "houhu",
+    "code": "001f1",
+    "index": 879
+  },
+  {
+    "surface": "下松",
+    "reading": "kudamatsu",
+    "code": "x00100t01",
+    "index": 880
+  },
+  {
+    "surface": "岩国",
+    "reading": "iwakuni",
+    "code": "001x001",
+    "index": 881
+  },
+  {
+    "surface": "山陽小野田",
+    "reading": "sannyouonoda",
+    "code": "00N1v0110101",
+    "index": 882
+  },
+  {
+    "surface": "光",
+    "reading": "hikari",
+    "code": "00x001",
+    "index": 883
+  },
+  {
+    "surface": "長門",
+    "reading": "nagato",
+    "code": "000101",
+    "index": 884
+  },
+  {
+    "surface": "柳井",
+    "reading": "yanai",
+    "code": "00011",
+    "index": 885
+  },
+  {
+    "surface": "美祢",
+    "reading": "mine",
+    "code": "0101",
+    "index": 886
+  },
+  {
+    "surface": "瑞穂",
+    "reading": "mizuho",
+    "code": "000101",
+    "index": 887
+  },
+  {
+    "surface": "徳島",
+    "reading": "tokushima",
+    "code": "00x1s0001",
+    "index": 888
+  },
+  {
+    "surface": "鳴門",
+    "reading": "naruto",
+    "code": "000101",
+    "index": 889
+  },
+  {
+    "surface": "小松島",
+    "reading": "komatsushima",
+    "code": "x100t01s0001",
+    "index": 890
+  },
+  {
+    "surface": "阿南",
+    "reading": "anann",
+    "code": "100u1",
+    "index": 891
+  },
+  {
+    "surface": "香川",
+    "reading": "kagawa",
+    "code": "x10001",
+    "index": 892
+  },
+  {
+    "surface": "高松",
+    "reading": "takamatsu",
+    "code": "00x100t01",
+    "index": 893
+  },
+  {
+    "surface": "丸亀",
+    "reading": "marugame",
+    "code": "00010001",
+    "index": 894
+  },
+  {
+    "surface": "坂出",
+    "reading": "sakaide",
+    "code": "00x1001",
+    "index": 895
+  },
+  {
+    "surface": "善通寺",
+    "reading": "zenntsuuzi",
+    "code": "00n1t001j1",
+    "index": 896
+  },
+  {
+    "surface": "観音寺",
+    "reading": "kannonnzi",
+    "code": "x0N1vn1j1",
+    "index": 897
+  },
+  {
+    "surface": "愛媛",
+    "reading": "ehime",
+    "code": "10001",
+    "index": 898
+  },
+  {
+    "surface": "松山",
+    "reading": "matsuyama",
+    "code": "00t010001",
+    "index": 899
+  },
+  {
+    "surface": "今治",
+    "reading": "imabari",
+    "code": "0010001",
+    "index": 900
+  },
+  {
+    "surface": "宇和島",
+    "reading": "uwazima",
+    "code": "101j001",
+    "index": 901
+  },
+  {
+    "surface": "八幡浜",
+    "reading": "yawatahama",
+    "code": "0100010001",
+    "index": 902
+  },
+  {
+    "surface": "新居浜",
+    "reading": "niihama",
+    "code": "0110001",
+    "index": 903
+  },
+  {
+    "surface": "西条",
+    "reading": "saizyou",
+    "code": "001b001",
+    "index": 904
+  },
+  {
+    "surface": "大洲",
+    "reading": "oozu",
+    "code": "0101",
+    "index": 905
+  },
+  {
+    "surface": "四国中央",
+    "reading": "shikokuchuuou",
+    "code": "s01x0x1gh0101",
+    "index": 906
+  },
+  {
+    "surface": "西予",
+    "reading": "seiyo",
+    "code": "00101",
+    "index": 907
+  },
+  {
+    "surface": "伊予",
+    "reading": "iyo",
+    "code": "101",
+    "index": 908
+  },
+  {
+    "surface": "南あわじ",
+    "reading": "minamiawazi",
+    "code": "000001101j1",
+    "index": 909
+  },
+  {
+    "surface": "江田島",
+    "reading": "etazima",
+    "code": "101j001",
+    "index": 910
+  },
+  {
+    "surface": "高知",
+    "reading": "kouchi",
+    "code": "x01c01",
+    "index": 911
+  },
+  {
+    "surface": "室戸",
+    "reading": "muroto",
+    "code": "000101",
+    "index": 912
+  },
+  {
+    "surface": "安芸",
+    "reading": "aki",
+    "code": "101",
+    "index": 913
+  },
+  {
+    "surface": "南国",
+    "reading": "nannkoku",
+    "code": "00n1x0x1",
+    "index": 914
+  },
+  {
+    "surface": "土佐",
+    "reading": "tosa",
+    "code": "0101",
+    "index": 915
+  },
+  {
+    "surface": "須崎",
+    "reading": "susaki",
+    "code": "010001",
+    "index": 916
+  },
+  {
+    "surface": "四万十",
+    "reading": "shimannto",
+    "code": "s0100n101",
+    "index": 917
+  },
+  {
+    "surface": "宿毛",
+    "reading": "sukumo",
+    "code": "00x101",
+    "index": 918
+  },
+  {
+    "surface": "土佐清水",
+    "reading": "tosashimizu",
+    "code": "0101s010001",
+    "index": 919
+  },
+  {
+    "surface": "北九州",
+    "reading": "kitakyuushuu",
+    "code": "000100010d01",
+    "index": 920
+  },
+  {
+    "surface": "福岡",
+    "reading": "hukuoka",
+    "code": "f0x10x1",
+    "index": 921
+  },
+  {
+    "surface": "大牟田",
+    "reading": "oomuta",
+    "code": "010101",
+    "index": 922
+  },
+  {
+    "surface": "久留米",
+    "reading": "kurume",
+    "code": "x10101",
+    "index": 923
+  },
+  {
+    "surface": "直方",
+    "reading": "noogata",
+    "code": "0010001",
+    "index": 924
+  },
+  {
+    "surface": "飯塚",
+    "reading": "iiduka",
+    "code": "0100x1",
+    "index": 925
+  },
+  {
+    "surface": "田川",
+    "reading": "tagawa",
+    "code": "010001",
+    "index": 926
+  },
+  {
+    "surface": "柳川",
+    "reading": "yanagawa",
+    "code": "00010001",
+    "index": 927
+  },
+  {
+    "surface": "香南",
+    "reading": "kounann",
+    "code": "x0100u1",
+    "index": 928
+  },
+  {
+    "surface": "香美",
+    "reading": "kami",
+    "code": "x101",
+    "index": 929
+  },
+  {
+    "surface": "八女",
+    "reading": "yame",
+    "code": "0101",
+    "index": 930
+  },
+  {
+    "surface": "筑後",
+    "reading": "chikugo",
+    "code": "c00x101",
+    "index": 931
+  },
+  {
+    "surface": "大川",
+    "reading": "ookawa",
+    "code": "01x001",
+    "index": 932
+  },
+  {
+    "surface": "行橋",
+    "reading": "yukuhashi",
+    "code": "00x100s01",
+    "index": 933
+  },
+  {
+    "surface": "豊前",
+    "reading": "buzenn",
+    "code": "0100u1",
+    "index": 934
+  },
+  {
+    "surface": "中間",
+    "reading": "nakama",
+    "code": "00x101",
+    "index": 935
+  },
+  {
+    "surface": "小郡",
+    "reading": "ogoori",
+    "code": "100001",
+    "index": 936
+  },
+  {
+    "surface": "筑紫野",
+    "reading": "chikushino",
+    "code": "c00x1s0101",
+    "index": 937
+  },
+  {
+    "surface": "春日",
+    "reading": "kasuga",
+    "code": "x00101",
+    "index": 938
+  },
+  {
+    "surface": "大野城",
+    "reading": "oonozyou",
+    "code": "0101b001",
+    "index": 939
+  },
+  {
+    "surface": "宗像",
+    "reading": "munakata",
+    "code": "0001x001",
+    "index": 940
+  },
+  {
+    "surface": "太宰府",
+    "reading": "dazaihu",
+    "code": "01001f1",
+    "index": 941
+  },
+  {
+    "surface": "糸島",
+    "reading": "itoshima",
+    "code": "001s0001",
+    "index": 942
+  },
+  {
+    "surface": "古賀",
+    "reading": "koga",
+    "code": "x101",
+    "index": 943
+  },
+  {
+    "surface": "佐賀",
+    "reading": "saga",
+    "code": "0101",
+    "index": 944
+  },
+  {
+    "surface": "唐津",
+    "reading": "karatsu",
+    "code": "x001t01",
+    "index": 945
+  },
+  {
+    "surface": "鳥栖",
+    "reading": "tosu",
+    "code": "0101",
+    "index": 946
+  },
+  {
+    "surface": "多久",
+    "reading": "taku",
+    "code": "01x1",
+    "index": 947
+  },
+  {
+    "surface": "伊万里",
+    "reading": "imari",
+    "code": "10101",
+    "index": 948
+  },
+  {
+    "surface": "武雄",
+    "reading": "takeo",
+    "code": "00011",
+    "index": 949
+  },
+  {
+    "surface": "鹿島",
+    "reading": "kashima",
+    "code": "x1s0001",
+    "index": 950
+  },
+  {
+    "surface": "長崎",
+    "reading": "nagasaki",
+    "code": "00010001",
+    "index": 951
+  },
+  {
+    "surface": "佐世保",
+    "reading": "sasebo",
+    "code": "010101",
+    "index": 952
+  },
+  {
+    "surface": "島原",
+    "reading": "shimabara",
+    "code": "s00010001",
+    "index": 953
+  },
+  {
+    "surface": "諫早",
+    "reading": "isahaya",
+    "code": "0010001",
+    "index": 954
+  },
+  {
+    "surface": "大村",
+    "reading": "oomura",
+    "code": "010001",
+    "index": 955
+  },
+  {
+    "surface": "五島",
+    "reading": "gotou",
+    "code": "01001",
+    "index": 956
+  },
+  {
+    "surface": "平戸",
+    "reading": "hirado",
+    "code": "000101",
+    "index": 957
+  },
+  {
+    "surface": "松浦",
+    "reading": "matsuura",
+    "code": "00t01001",
+    "index": 958
+  },
+  {
+    "surface": "熊本",
+    "reading": "kumamoto",
+    "code": "x0010001",
+    "index": 959
+  },
+  {
+    "surface": "八代",
+    "reading": "yatsushiro",
+    "code": "00t01s0001",
+    "index": 960
+  },
+  {
+    "surface": "人吉",
+    "reading": "hitoyoshi",
+    "code": "000100s01",
+    "index": 961
+  },
+  {
+    "surface": "荒尾",
+    "reading": "arao",
+    "code": "0011",
+    "index": 962
+  },
+  {
+    "surface": "水俣",
+    "reading": "minamata",
+    "code": "00010001",
+    "index": 963
+  },
+  {
+    "surface": "玉名",
+    "reading": "tamana",
+    "code": "000101",
+    "index": 964
+  },
+  {
+    "surface": "合志",
+    "reading": "koushi",
+    "code": "x01s01",
+    "index": 965
+  },
+  {
+    "surface": "山鹿",
+    "reading": "yamaga",
+    "code": "000101",
+    "index": 966
+  },
+  {
+    "surface": "天草",
+    "reading": "amakusa",
+    "code": "001x001",
+    "index": 967
+  },
+  {
+    "surface": "菊池",
+    "reading": "kikuchi",
+    "code": "00x1c01",
+    "index": 968
+  },
+  {
+    "surface": "宇土",
+    "reading": "uto",
+    "code": "101",
+    "index": 969
+  },
+  {
+    "surface": "大分",
+    "reading": "ooita",
+    "code": "01001",
+    "index": 970
+  },
+  {
+    "surface": "別府",
+    "reading": "beppu",
+    "code": "00101",
+    "index": 971
+  },
+  {
+    "surface": "中津",
+    "reading": "nakatsu",
+    "code": "00x1t01",
+    "index": 972
+  },
+  {
+    "surface": "日田",
+    "reading": "hita",
+    "code": "0101",
+    "index": 973
+  },
+  {
+    "surface": "佐伯",
+    "reading": "saiki",
+    "code": "01001",
+    "index": 974
+  },
+  {
+    "surface": "臼杵",
+    "reading": "usuki",
+    "code": "00101",
+    "index": 975
+  },
+  {
+    "surface": "津久見",
+    "reading": "tsukumi",
+    "code": "t01x101",
+    "index": 976
+  },
+  {
+    "surface": "竹田",
+    "reading": "taketa",
+    "code": "000101",
+    "index": 977
+  },
+  {
+    "surface": "豊後高田",
+    "reading": "bunngotakada",
+    "code": "00n10100x101",
+    "index": 978
+  },
+  {
+    "surface": "杵築",
+    "reading": "kitsuki",
+    "code": "01t0001",
+    "index": 979
+  },
+  {
+    "surface": "宇佐",
+    "reading": "usa",
+    "code": "101",
+    "index": 980
+  },
+  {
+    "surface": "宮崎",
+    "reading": "miyazaki",
+    "code": "00010001",
+    "index": 981
+  },
+  {
+    "surface": "都城",
+    "reading": "miyakonozyou",
+    "code": "0000x001b001",
+    "index": 982
+  },
+  {
+    "surface": "延岡",
+    "reading": "nobeoka",
+    "code": "00010x1",
+    "index": 983
+  },
+  {
+    "surface": "日南",
+    "reading": "nichinann",
+    "code": "00c0100u1",
+    "index": 984
+  },
+  {
+    "surface": "小林",
+    "reading": "kobayashi",
+    "code": "x10000s01",
+    "index": 985
+  },
+  {
+    "surface": "日向",
+    "reading": "hyuuga",
+    "code": "000101",
+    "index": 986
+  },
+  {
+    "surface": "串間",
+    "reading": "kushima",
+    "code": "x0s0101",
+    "index": 987
+  },
+  {
+    "surface": "西都",
+    "reading": "saito",
+    "code": "00101",
+    "index": 988
+  },
+  {
+    "surface": "えびの",
+    "reading": "ebino",
+    "code": "10101",
+    "index": 989
+  },
+  {
+    "surface": "鹿児島",
+    "reading": "kagoshima",
+    "code": "x101s0001",
+    "index": 990
+  },
+  {
+    "surface": "薩摩川内",
+    "reading": "satsumasenndai",
+    "code": "00t010100n1001",
+    "index": 991
+  },
+  {
+    "surface": "鹿屋",
+    "reading": "kanoya",
+    "code": "x00101",
+    "index": 992
+  },
+  {
+    "surface": "枕崎",
+    "reading": "makurazaki",
+    "code": "00x0010001",
+    "index": 993
+  },
+  {
+    "surface": "いちき串木野",
+    "reading": "ichikikushikino",
+    "code": "1c0101x0s010101",
+    "index": 994
+  },
+  {
+    "surface": "阿久根",
+    "reading": "akune",
+    "code": "1x101",
+    "index": 995
+  },
+  {
+    "surface": "国東",
+    "reading": "kunisaki",
+    "code": "x0010001",
+    "index": 996
+  },
+  {
+    "surface": "出水",
+    "reading": "izumi",
+    "code": "00101",
+    "index": 997
+  },
+  {
+    "surface": "伊佐",
+    "reading": "isa",
+    "code": "101",
+    "index": 998
+  },
+  {
+    "surface": "指宿",
+    "reading": "ibusuki",
+    "code": "0010001",
+    "index": 999
+  },
+  {
+    "surface": "南さつま",
+    "reading": "minamisatsuma",
+    "code": "00000101t0101",
+    "index": 1000
+  },
+  {
+    "surface": "霧島",
+    "reading": "kirishima",
+    "code": "0001s0001",
+    "index": 1001
+  },
+  {
+    "surface": "西之表",
+    "reading": "nishinoomote",
+    "code": "00s010100001",
+    "index": 1002
+  },
+  {
+    "surface": "垂水",
+    "reading": "tarumizu",
+    "code": "00010001",
+    "index": 1003
+  },
+  {
+    "surface": "那覇",
+    "reading": "naha",
+    "code": "0101",
+    "index": 1004
+  },
+  {
+    "surface": "うるま",
+    "reading": "uruma",
+    "code": "10101",
+    "index": 1005
+  },
+  {
+    "surface": "宜野湾",
+    "reading": "ginowann",
+    "code": "010100u1",
+    "index": 1006
+  },
+  {
+    "surface": "宮古島",
+    "reading": "miyakozima",
+    "code": "0001x1j001",
+    "index": 1007
+  },
+  {
+    "surface": "石垣",
+    "reading": "ishigaki",
+    "code": "0s010001",
+    "index": 1008
+  },
+  {
+    "surface": "浦添",
+    "reading": "urasoe",
+    "code": "001001",
+    "index": 1009
+  },
+  {
+    "surface": "名護",
+    "reading": "nago",
+    "code": "0101",
+    "index": 1010
+  },
+  {
+    "surface": "白井",
+    "reading": "shiroi",
+    "code": "s00011",
+    "index": 1011
+  },
+  {
+    "surface": "富里",
+    "reading": "tomisato",
+    "code": "00010001",
+    "index": 1012
+  },
+  {
+    "surface": "栗東",
+    "reading": "rittou",
+    "code": "001001",
+    "index": 1013
+  },
+  {
+    "surface": "さぬき",
+    "reading": "sanuki",
+    "code": "010101",
+    "index": 1014
+  },
+  {
+    "surface": "山県",
+    "reading": "yamagata",
+    "code": "00010001",
+    "index": 1015
+  },
+  {
+    "surface": "東かがわ",
+    "reading": "higashikagawa",
+    "code": "0000s01x10101",
+    "index": 1016
+  },
+  {
+    "surface": "田原",
+    "reading": "tahara",
+    "code": "010001",
+    "index": 1017
+  },
+  {
+    "surface": "いなべ",
+    "reading": "inabe",
+    "code": "10101",
+    "index": 1018
+  },
+  {
+    "surface": "飛騨",
+    "reading": "hida",
+    "code": "0101",
+    "index": 1019
+  },
+  {
+    "surface": "本巣",
+    "reading": "motosu",
+    "code": "000101",
+    "index": 1020
+  },
+  {
+    "surface": "かほく",
+    "reading": "kahoku",
+    "code": "x101x1",
+    "index": 1021
+  },
+  {
+    "surface": "あわら",
+    "reading": "awara",
+    "code": "10101",
+    "index": 1022
+  },
+  {
+    "surface": "郡上",
+    "reading": "guzyou",
+    "code": "01b001",
+    "index": 1023
+  },
+  {
+    "surface": "下呂",
+    "reading": "gero",
+    "code": "0101",
+    "index": 1024
+  },
+  {
+    "surface": "安芸高田",
+    "reading": "akitakata",
+    "code": "10100x101",
+    "index": 1025
+  },
+  {
+    "surface": "対馬",
+    "reading": "tsushima",
+    "code": "t00s0101",
+    "index": 1026
+  },
+  {
+    "surface": "壱岐",
+    "reading": "iki",
+    "code": "101",
+    "index": 1027
+  },
+  {
+    "surface": "上天草",
+    "reading": "kamiamakusa",
+    "code": "x001001x001",
+    "index": 1028
+  },
+  {
+    "surface": "阿賀野",
+    "reading": "agano",
+    "code": "10101",
+    "index": 1029
+  },
+  {
+    "surface": "東御",
+    "reading": "toumi",
+    "code": "00101",
+    "index": 1030
+  },
+  {
+    "surface": "伊豆",
+    "reading": "izu",
+    "code": "101",
+    "index": 1031
+  },
+  {
+    "surface": "御前崎",
+    "reading": "omaezaki",
+    "code": "10010001",
+    "index": 1032
+  },
+  {
+    "surface": "京丹後",
+    "reading": "kyoutanngo",
+    "code": "000100n101",
+    "index": 1033
+  },
+  {
+    "surface": "養父",
+    "reading": "yabu",
+    "code": "0101",
+    "index": 1034
+  },
+  {
+    "surface": "甲斐",
+    "reading": "kai",
+    "code": "x11",
+    "index": 1035
+  },
+  {
+    "surface": "東温",
+    "reading": "touonn",
+    "code": "0010u1",
+    "index": 1036
+  },
+  {
+    "surface": "志摩",
+    "reading": "shima",
+    "code": "s0101",
+    "index": 1037
+  },
+  {
+    "surface": "甲賀",
+    "reading": "kouka",
+    "code": "x01x1",
+    "index": 1038
+  },
+  {
+    "surface": "野洲",
+    "reading": "yasu",
+    "code": "0101",
+    "index": 1039
+  },
+  {
+    "surface": "湖南",
+    "reading": "konann",
+    "code": "x100u1",
+    "index": 1040
+  },
+  {
+    "surface": "葛城",
+    "reading": "katsuragi",
+    "code": "x0t000101",
+    "index": 1041
+  },
+  {
+    "surface": "吉野川",
+    "reading": "yoshinogawa",
+    "code": "00s01010001",
+    "index": 1042
+  },
+  {
+    "surface": "常陸大宮",
+    "reading": "hitachioomiya",
+    "code": "0100c01010001",
+    "index": 1043
+  },
+  {
+    "surface": "魚沼",
+    "reading": "uonuma",
+    "code": "010001",
+    "index": 1044
+  },
+  {
+    "surface": "南魚沼",
+    "reading": "minamiuonuma",
+    "code": "000001010001",
+    "index": 1045
+  },
+  {
+    "surface": "南砺",
+    "reading": "nannto",
+    "code": "00n101",
+    "index": 1046
+  },
+  {
+    "surface": "笛吹",
+    "reading": "huehuki",
+    "code": "f01f001",
+    "index": 1047
+  },
+  {
+    "surface": "北杜",
+    "reading": "hokuto",
+    "code": "00x101",
+    "index": 1048
+  },
+  {
+    "surface": "丹波",
+    "reading": "tannba",
+    "code": "00n101",
+    "index": 1049
+  },
+  {
+    "surface": "雲南",
+    "reading": "unnnann",
+    "code": "0N1v0u1",
+    "index": 1050
+  },
+  {
+    "surface": "瀬戸内",
+    "reading": "setouchi",
+    "code": "01010c01",
+    "index": 1051
+  },
+  {
+    "surface": "那珂",
+    "reading": "naka",
+    "code": "01x1",
+    "index": 1052
+  },
+  {
+    "surface": "福津",
+    "reading": "hukutsu",
+    "code": "f0x1t01",
+    "index": 1053
+  },
+  {
+    "surface": "白山",
+    "reading": "hakusann",
+    "code": "00x100u1",
+    "index": 1054
+  },
+  {
+    "surface": "能美",
+    "reading": "nomi",
+    "code": "0101",
+    "index": 1055
+  },
+  {
+    "surface": "宇城",
+    "reading": "uki",
+    "code": "101",
+    "index": 1056
+  },
+  {
+    "surface": "高島",
+    "reading": "takashima",
+    "code": "00x1s0001",
+    "index": 1057
+  },
+  {
+    "surface": "つがる",
+    "reading": "tsugaru",
+    "code": "t010101",
+    "index": 1058
+  },
+  {
+    "surface": "登米",
+    "reading": "tome",
+    "code": "0101",
+    "index": 1059
+  },
+  {
+    "surface": "栗原",
+    "reading": "kurihara",
+    "code": "x0010001",
+    "index": 1060
+  },
+  {
+    "surface": "東松島",
+    "reading": "higashimatsushima",
+    "code": "0000s0100t01s0001",
+    "index": 1061
+  },
+  {
+    "surface": "潟上",
+    "reading": "katagami",
+    "code": "x0010001",
+    "index": 1062
+  },
+  {
+    "surface": "北秋田",
+    "reading": "kitaakita",
+    "code": "000100101",
+    "index": 1063
+  },
+  {
+    "surface": "田村",
+    "reading": "tamura",
+    "code": "010001",
+    "index": 1064
+  },
+  {
+    "surface": "稲敷",
+    "reading": "inashiki",
+    "code": "001s0001",
+    "index": 1065
+  },
+  {
+    "surface": "かすみがうら",
+    "reading": "kasumigaura",
+    "code": "x1010101101",
+    "index": 1066
+  },
+  {
+    "surface": "さくら",
+    "reading": "sakura",
+    "code": "01x101",
+    "index": 1067
+  },
+  {
+    "surface": "上野原",
+    "reading": "uenohara",
+    "code": "01010001",
+    "index": 1068
+  },
+  {
+    "surface": "海津",
+    "reading": "kaidu",
+    "code": "x0101",
+    "index": 1069
+  },
+  {
+    "surface": "伊豆の国",
+    "reading": "izunokuni",
+    "code": "10101x001",
+    "index": 1070
+  },
+  {
+    "surface": "愛西",
+    "reading": "aisai",
+    "code": "01001",
+    "index": 1071
+  },
+  {
+    "surface": "米原",
+    "reading": "maibara",
+    "code": "0010001",
+    "index": 1072
+  },
+  {
+    "surface": "朝来",
+    "reading": "asago",
+    "code": "00101",
+    "index": 1073
+  },
+  {
+    "surface": "淡路",
+    "reading": "awazi",
+    "code": "001j1",
+    "index": 1074
+  },
+  {
+    "surface": "宍粟",
+    "reading": "shisou",
+    "code": "s01001",
+    "index": 1075
+  },
+  {
+    "surface": "赤磐",
+    "reading": "akaiwa",
+    "code": "0x1001",
+    "index": 1076
+  },
+  {
+    "surface": "真庭",
+    "reading": "maniwa",
+    "code": "010001",
+    "index": 1077
+  },
+  {
+    "surface": "美作",
+    "reading": "mimasaka",
+    "code": "000100x1",
+    "index": 1078
+  },
+  {
+    "surface": "美馬",
+    "reading": "mima",
+    "code": "0101",
+    "index": 1079
+  },
+  {
+    "surface": "阿波",
+    "reading": "awa",
+    "code": "101",
+    "index": 1080
+  },
+  {
+    "surface": "八幡平",
+    "reading": "hachimanntai",
+    "code": "00c0100n1001",
+    "index": 1081
+  },
+  {
+    "surface": "仙北",
+    "reading": "sennboku",
+    "code": "00n100x1",
+    "index": 1082
+  },
+  {
+    "surface": "にかほ",
+    "reading": "nikaho",
+    "code": "01x101",
+    "index": 1083
+  },
+  {
+    "surface": "神栖",
+    "reading": "kamisu",
+    "code": "x00101",
+    "index": 1084
+  },
+  {
+    "surface": "行方",
+    "reading": "namegata",
+    "code": "00010001",
+    "index": 1085
+  },
+  {
+    "surface": "桜川",
+    "reading": "sakuragawa",
+    "code": "00x0010001",
+    "index": 1086
+  },
+  {
+    "surface": "那須烏山",
+    "reading": "nasukarasuyama",
+    "code": "0101x000010001",
+    "index": 1087
+  },
+  {
+    "surface": "胎内",
+    "reading": "tainai",
+    "code": "001001",
+    "index": 1088
+  },
+  {
+    "surface": "安曇野",
+    "reading": "adumino",
+    "code": "1000101",
+    "index": 1089
+  },
+  {
+    "surface": "清須",
+    "reading": "kiyosu",
+    "code": "000101",
+    "index": 1090
+  },
+  {
+    "surface": "平川",
+    "reading": "hirakawa",
+    "code": "0001x001",
+    "index": 1091
+  },
+  {
+    "surface": "鉾田",
+    "reading": "hokota",
+    "code": "00x101",
+    "index": 1092
+  },
+  {
+    "surface": "南丹",
+    "reading": "nanntann",
+    "code": "00n100u1",
+    "index": 1093
+  },
+  {
+    "surface": "宇陀",
+    "reading": "uda",
+    "code": "101",
+    "index": 1094
+  },
+  {
+    "surface": "紀の川",
+    "reading": "kinokawa",
+    "code": "0101x001",
+    "index": 1095
+  },
+  {
+    "surface": "三豊",
+    "reading": "mitoyo",
+    "code": "010001",
+    "index": 1096
+  },
+  {
+    "surface": "嬉野",
+    "reading": "ureshino",
+    "code": "000s0101",
+    "index": 1097
+  },
+  {
+    "surface": "雲仙",
+    "reading": "unnzenn",
+    "code": "0n100u1",
+    "index": 1098
+  },
+  {
+    "surface": "志布志",
+    "reading": "shibushi",
+    "code": "s0101s01",
+    "index": 1099
+  },
+  {
+    "surface": "南城",
+    "reading": "nannzyou",
+    "code": "00n1b001",
+    "index": 1100
+  },
+  {
+    "surface": "つくばみらい",
+    "reading": "tsukubamirai",
+    "code": "t01x10101011",
+    "index": 1101
+  },
+  {
+    "surface": "小美玉",
+    "reading": "omitama",
+    "code": "1010001",
+    "index": 1102
+  },
+  {
+    "surface": "みどり",
+    "reading": "midori",
+    "code": "010101",
+    "index": 1103
+  },
+  {
+    "surface": "香取",
+    "reading": "katori",
+    "code": "x10001",
+    "index": 1104
+  },
+  {
+    "surface": "山武",
+    "reading": "sannmu",
+    "code": "00n101",
+    "index": 1105
+  },
+  {
+    "surface": "坂井",
+    "reading": "sakai",
+    "code": "00x11",
+    "index": 1106
+  },
+  {
+    "surface": "中央",
+    "reading": "chuuou",
+    "code": "gh0101",
+    "index": 1107
+  },
+  {
+    "surface": "北名古屋",
+    "reading": "kitanagoya",
+    "code": "0001010101",
+    "index": 1108
+  },
+  {
+    "surface": "弥富",
+    "reading": "yatomi",
+    "code": "010001",
+    "index": 1109
+  },
+  {
+    "surface": "加東",
+    "reading": "katou",
+    "code": "x1001",
+    "index": 1110
+  },
+  {
+    "surface": "岩出",
+    "reading": "iwade",
+    "code": "00101",
+    "index": 1111
+  },
+  {
+    "surface": "三好",
+    "reading": "miyoshi",
+    "code": "0100s01",
+    "index": 1112
+  },
+  {
+    "surface": "宮若",
+    "reading": "miyawaka",
+    "code": "000100x1",
+    "index": 1113
+  },
+  {
+    "surface": "朝倉",
+    "reading": "asakura",
+    "code": "001x001",
+    "index": 1114
+  },
+  {
+    "surface": "嘉麻",
+    "reading": "kama",
+    "code": "x101",
+    "index": 1115
+  },
+  {
+    "surface": "神埼",
+    "reading": "kannzaki",
+    "code": "x0n10001",
+    "index": 1116
+  },
+  {
+    "surface": "南島原",
+    "reading": "minamishimabara",
+    "code": "000001s00010001",
+    "index": 1117
+  },
+  {
+    "surface": "奄美",
+    "reading": "amami",
+    "code": "00101",
+    "index": 1118
+  },
+  {
+    "surface": "本宮",
+    "reading": "motomiya",
+    "code": "00010001",
+    "index": 1119
+  },
+  {
+    "surface": "みやま",
+    "reading": "miyama",
+    "code": "010101",
+    "index": 1120
+  },
+  {
+    "surface": "木津川",
+    "reading": "kidugawa",
+    "code": "01010001",
+    "index": 1121
+  },
+  {
+    "surface": "南九州",
+    "reading": "minamikyuushuu",
+    "code": "00000100010d01",
+    "index": 1122
+  },
+  {
+    "surface": "みよし",
+    "reading": "miyoshi",
+    "code": "0101s01",
+    "index": 1123
+  },
+  {
+    "surface": "あま",
+    "reading": "ama",
+    "code": "101",
+    "index": 1124
+  },
+  {
+    "surface": "姶良",
+    "reading": "aira",
+    "code": "0101",
+    "index": 1125
+  },
+  {
+    "surface": "野々市",
+    "reading": "nonoichi",
+    "code": "01010c01",
+    "index": 1126
+  },
+  {
+    "surface": "長久手",
+    "reading": "nagakute",
+    "code": "0001x101",
+    "index": 1127
+  },
+  {
+    "surface": "白岡",
+    "reading": "shiraoka",
+    "code": "s00010x1",
+    "index": 1128
+  },
+  {
+    "surface": "大網白里",
+    "reading": "ooamishirasato",
+    "code": "01001s00010001",
+    "index": 1129
+  },
+  {
+    "surface": "滝沢",
+    "reading": "takizawa",
+    "code": "00010001",
+    "index": 1130
+  }
+]

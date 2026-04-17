@@ -1,0 +1,41 @@
+{
+  "name": "@typewell-jr/engine",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.ts",
+      "import": "./src/index.ts"
+    }
+  },
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "vitest run",
+    "extract:bas": "tsx scripts/extract-bas-triples.ts",
+    "extract:wordlists:all": "tsx scripts/extract-all-decomp-wordlists.ts",
+    "extract:jou": "tsx scripts/extract-bas-triples.ts ../../twjrdecomp/Jou1.bas 500",
+    "extract:jou:web": "tsx scripts/extract-bas-triples.ts ../../twjrdecomp/Jou1.bas 0 --write-web ../../apps/web/public/twelljr-jou1.json && node scripts/enrich-jou1-with-kanji-surfaces.mjs",
+    "extract:kan1:web": "tsx scripts/extract-bas-triples.ts ../../twjrdecomp/Kan1.bas 0 --write-web ../../apps/web/public/twelljr-kan1.json",
+    "extract:jou2": "tsx scripts/extract-bas-triples.ts ../../twjrdecomp/Jou2.bas 500",
+    "extract:jou3": "tsx scripts/extract-bas-triples.ts ../../twjrdecomp/Jou3.bas 500",
+    "extract:kan2": "tsx scripts/extract-bas-triples.ts ../../twjrdecomp/Kan2.bas 500",
+    "extract:kan3": "tsx scripts/extract-bas-triples.ts ../../twjrdecomp/Kan3.bas 500",
+    "extract:kata1": "tsx scripts/extract-bas-triples.ts ../../twjrdecomp/Kata1.bas 500",
+    "extract:kata2": "tsx scripts/extract-bas-triples.ts ../../twjrdecomp/Kata2.bas 500",
+    "extract:kata3": "tsx scripts/extract-bas-triples.ts ../../twjrdecomp/Kata3.bas 500",
+    "extract:koto1": "tsx scripts/extract-bas-triples.ts ../../twjrdecomp/Koto1.bas 500",
+    "extract:koto2": "tsx scripts/extract-bas-triples.ts ../../twjrdecomp/Koto2.bas 500"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "vitest": "^3.2.4"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.7.2",
+    "wanakana": "^5.3.1"
+  }
+}

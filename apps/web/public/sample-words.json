@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "source": "hand-authored-sample",
+  "words": [
+    { "surface": "雨", "reading": "ame", "mode": "kihon" },
+    { "surface": "いろ", "reading": "iro", "mode": "kihon" },
+    { "surface": "うた", "reading": "uta", "mode": "kihon" },
+    { "surface": "からくり", "reading": "karakuri", "mode": "kihon" },
+    { "surface": "試す", "reading": "tamesu", "mode": "kihon" }
+  ]
+}

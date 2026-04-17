@@ -1,0 +1,20 @@
+[
+  {
+    "surface": "あいさつ",
+    "reading": "aisatsu",
+    "code": "1101t01",
+    "index": 0
+  },
+  {
+    "surface": "あいつ",
+    "reading": "aitsu",
+    "code": "11t01",
+    "index": 1
+  },
+  {
+    "surface": "あいにく",
+    "reading": "ainiku",
+    "code": "1101x1",
+    "index": 2
+  }
+]

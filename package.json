@@ -1,0 +1,20 @@
+{
+  "name": "typewell-jr-clone",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "test": "npm run test -w @typewell-jr/engine",
+    "dev:web": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/dev-web.ps1",
+    "fix:npm-ps": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/fix-powershell-npm.ps1",
+    "build:web": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/build-web.ps1",
+    "build:workspace": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/build-workspace.ps1",
+    "build": "npm run build -w @typewell-jr/engine && npm run build -w web",
+    "dictionary:parse": "tsx scripts/dictionary/parse-detail-log.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2"
+  }
+}

@@ -1,0 +1,5192 @@
+[
+  {
+    "surface": "あいさつ",
+    "reading": "aisatsu",
+    "code": "1101t01",
+    "index": 0
+  },
+  {
+    "surface": "あいつ",
+    "reading": "aitsu",
+    "code": "11t01",
+    "index": 1
+  },
+  {
+    "surface": "あいにく",
+    "reading": "ainiku",
+    "code": "1101x1",
+    "index": 2
+  },
+  {
+    "surface": "あえて",
+    "reading": "aete",
+    "code": "1101",
+    "index": 3
+  },
+  {
+    "surface": "あおむけ",
+    "reading": "aomuke",
+    "code": "110101",
+    "index": 4
+  },
+  {
+    "surface": "あがく",
+    "reading": "agaku",
+    "code": "101x1",
+    "index": 5
+  },
+  {
+    "surface": "あからさま",
+    "reading": "akarasama",
+    "code": "1x1010101",
+    "index": 6
+  },
+  {
+    "surface": "あきらめる",
+    "reading": "akirameru",
+    "code": "101010101",
+    "index": 7
+  },
+  {
+    "surface": "あきれる",
+    "reading": "akireru",
+    "code": "1010101",
+    "index": 8
+  },
+  {
+    "surface": "あくせく",
+    "reading": "akuseku",
+    "code": "1x101x1",
+    "index": 9
+  },
+  {
+    "surface": "あんな",
+    "reading": "annna",
+    "code": "1N1v1",
+    "index": 10
+  },
+  {
+    "surface": "あくどい",
+    "reading": "akudoi",
+    "code": "1x1011",
+    "index": 11
+  },
+  {
+    "surface": "あくび",
+    "reading": "akubi",
+    "code": "1x101",
+    "index": 12
+  },
+  {
+    "surface": "あくまで",
+    "reading": "akumade",
+    "code": "1x10101",
+    "index": 13
+  },
+  {
+    "surface": "あぐら",
+    "reading": "agura",
+    "code": "10101",
+    "index": 14
+  },
+  {
+    "surface": "あげく",
+    "reading": "ageku",
+    "code": "101x1",
+    "index": 15
+  },
+  {
+    "surface": "あご",
+    "reading": "ago",
+    "code": "101",
+    "index": 16
+  },
+  {
+    "surface": "あこがれ",
+    "reading": "akogare",
+    "code": "1x10101",
+    "index": 17
+  },
+  {
+    "surface": "あざ",
+    "reading": "aza",
+    "code": "101",
+    "index": 18
+  },
+  {
+    "surface": "あさって",
+    "reading": "asatte",
+    "code": "101101",
+    "index": 19
+  },
+  {
+    "surface": "あさり",
+    "reading": "asari",
+    "code": "10101",
+    "index": 20
+  },
+  {
+    "surface": "あそこ",
+    "reading": "asoko",
+    "code": "101x1",
+    "index": 21
+  },
+  {
+    "surface": "あたかも",
+    "reading": "atakamo",
+    "code": "101x101",
+    "index": 22
+  },
+  {
+    "surface": "あちら",
+    "reading": "achira",
+    "code": "1c0101",
+    "index": 23
+  },
+  {
+    "surface": "あっさり",
+    "reading": "assari",
+    "code": "110101",
+    "index": 24
+  },
+  {
+    "surface": "あっけない",
+    "reading": "akkenai",
+    "code": "1101011",
+    "index": 25
+  },
+  {
+    "surface": "あどけない",
+    "reading": "adokenai",
+    "code": "10101011",
+    "index": 26
+  },
+  {
+    "surface": "あなた",
+    "reading": "anata",
+    "code": "10101",
+    "index": 27
+  },
+  {
+    "surface": "あの",
+    "reading": "ano",
+    "code": "101",
+    "index": 28
+  },
+  {
+    "surface": "あひる",
+    "reading": "ahiru",
+    "code": "10101",
+    "index": 29
+  },
+  {
+    "surface": "あぶる",
+    "reading": "aburu",
+    "code": "10101",
+    "index": 30
+  },
+  {
+    "surface": "あふれる",
+    "reading": "ahureru",
+    "code": "1f10101",
+    "index": 31
+  },
+  {
+    "surface": "あべこべ",
+    "reading": "abekobe",
+    "code": "101x101",
+    "index": 32
+  },
+  {
+    "surface": "あやふや",
+    "reading": "ayahuya",
+    "code": "101f101",
+    "index": 33
+  },
+  {
+    "surface": "あらかじめ",
+    "reading": "arakazime",
+    "code": "101x1j101",
+    "index": 34
+  },
+  {
+    "surface": "あらかた",
+    "reading": "arakata",
+    "code": "101x101",
+    "index": 35
+  },
+  {
+    "surface": "あらゆる",
+    "reading": "arayuru",
+    "code": "1010101",
+    "index": 36
+  },
+  {
+    "surface": "ありがたい",
+    "reading": "arigatai",
+    "code": "10101011",
+    "index": 37
+  },
+  {
+    "surface": "ありがとう",
+    "reading": "arigatou",
+    "code": "10101011",
+    "index": 38
+  },
+  {
+    "surface": "ありきたり",
+    "reading": "arikitari",
+    "code": "101010101",
+    "index": 39
+  },
+  {
+    "surface": "ありったけ",
+    "reading": "arittake",
+    "code": "10110101",
+    "index": 40
+  },
+  {
+    "surface": "ありとあらゆる",
+    "reading": "aritoarayuru",
+    "code": "101011010101",
+    "index": 41
+  },
+  {
+    "surface": "ありのまま",
+    "reading": "arinomama",
+    "code": "101010101",
+    "index": 42
+  },
+  {
+    "surface": "ありふれた",
+    "reading": "arihureta",
+    "code": "101f10101",
+    "index": 43
+  },
+  {
+    "surface": "あるいは",
+    "reading": "aruiha",
+    "code": "101101",
+    "index": 44
+  },
+  {
+    "surface": "あれ",
+    "reading": "are",
+    "code": "101",
+    "index": 45
+  },
+  {
+    "surface": "あれほど",
+    "reading": "arehodo",
+    "code": "1010101",
+    "index": 46
+  },
+  {
+    "surface": "あわよくば",
+    "reading": "awayokuba",
+    "code": "10101x101",
+    "index": 47
+  },
+  {
+    "surface": "いいえ",
+    "reading": "iie",
+    "code": "111",
+    "index": 48
+  },
+  {
+    "surface": "いいかげん",
+    "reading": "iikagenn",
+    "code": "11x101u1",
+    "index": 49
+  },
+  {
+    "surface": "いか",
+    "reading": "ika",
+    "code": "1x1",
+    "index": 50
+  },
+  {
+    "surface": "いかがわしい",
+    "reading": "ikagawashii",
+    "code": "1x10101s011",
+    "index": 51
+  },
+  {
+    "surface": "いかさま",
+    "reading": "ikasama",
+    "code": "1x10101",
+    "index": 52
+  },
+  {
+    "surface": "いかつい",
+    "reading": "ikatsui",
+    "code": "1x1t011",
+    "index": 53
+  },
+  {
+    "surface": "いかなる",
+    "reading": "ikanaru",
+    "code": "1x10101",
+    "index": 54
+  },
+  {
+    "surface": "いかに",
+    "reading": "ikani",
+    "code": "1x101",
+    "index": 55
+  },
+  {
+    "surface": "いかにも",
+    "reading": "ikanimo",
+    "code": "1x10101",
+    "index": 56
+  },
+  {
+    "surface": "いがらっぽい",
+    "reading": "igarappoi",
+    "code": "101011011",
+    "index": 57
+  },
+  {
+    "surface": "いきさつ",
+    "reading": "ikisatsu",
+    "code": "10101t01",
+    "index": 58
+  },
+  {
+    "surface": "いきなり",
+    "reading": "ikinari",
+    "code": "1010101",
+    "index": 59
+  },
+  {
+    "surface": "いくらか",
+    "reading": "ikuraka",
+    "code": "1x101x1",
+    "index": 60
+  },
+  {
+    "surface": "いけない",
+    "reading": "ikenai",
+    "code": "101011",
+    "index": 61
+  },
+  {
+    "surface": "いざこざ",
+    "reading": "izakoza",
+    "code": "101x101",
+    "index": 62
+  },
+  {
+    "surface": "いささか",
+    "reading": "isasaka",
+    "code": "10101x1",
+    "index": 63
+  },
+  {
+    "surface": "いじける",
+    "reading": "izikeru",
+    "code": "1j10101",
+    "index": 64
+  },
+  {
+    "surface": "いじめる",
+    "reading": "izimeru",
+    "code": "1j10101",
+    "index": 65
+  },
+  {
+    "surface": "いす",
+    "reading": "isu",
+    "code": "101",
+    "index": 66
+  },
+  {
+    "surface": "いずれ",
+    "reading": "izure",
+    "code": "10101",
+    "index": 67
+  },
+  {
+    "surface": "いたいけ",
+    "reading": "itaike",
+    "code": "101101",
+    "index": 68
+  },
+  {
+    "surface": "いたずら",
+    "reading": "itazura",
+    "code": "1010101",
+    "index": 69
+  },
+  {
+    "surface": "いたわる",
+    "reading": "itawaru",
+    "code": "1010101",
+    "index": 70
+  },
+  {
+    "surface": "いちご",
+    "reading": "ichigo",
+    "code": "1c0101",
+    "index": 71
+  },
+  {
+    "surface": "いっそ",
+    "reading": "isso",
+    "code": "1101",
+    "index": 72
+  },
+  {
+    "surface": "いっぱい",
+    "reading": "ippai",
+    "code": "11011",
+    "index": 73
+  },
+  {
+    "surface": "いつまで",
+    "reading": "itsumade",
+    "code": "1t010101",
+    "index": 74
+  },
+  {
+    "surface": "いつも",
+    "reading": "itsumo",
+    "code": "1t0101",
+    "index": 75
+  },
+  {
+    "surface": "いつ",
+    "reading": "itsu",
+    "code": "1t01",
+    "index": 76
+  },
+  {
+    "surface": "いとおしい",
+    "reading": "itooshii",
+    "code": "1011s011",
+    "index": 77
+  },
+  {
+    "surface": "いとこ",
+    "reading": "itoko",
+    "code": "101x1",
+    "index": 78
+  },
+  {
+    "surface": "いびき",
+    "reading": "ibiki",
+    "code": "10101",
+    "index": 79
+  },
+  {
+    "surface": "いびつ",
+    "reading": "ibitsu",
+    "code": "101t01",
+    "index": 80
+  },
+  {
+    "surface": "いぶす",
+    "reading": "ibusu",
+    "code": "10101",
+    "index": 81
+  },
+  {
+    "surface": "いぼ",
+    "reading": "ibo",
+    "code": "101",
+    "index": 82
+  },
+  {
+    "surface": "いまだに",
+    "reading": "imadani",
+    "code": "1010101",
+    "index": 83
+  },
+  {
+    "surface": "いやおうなしに",
+    "reading": "iyaounashini",
+    "code": "1011101s0101",
+    "index": 84
+  },
+  {
+    "surface": "いよいよ",
+    "reading": "iyoiyo",
+    "code": "101101",
+    "index": 85
+  },
+  {
+    "surface": "いらいら",
+    "reading": "iraira",
+    "code": "101101",
+    "index": 86
+  },
+  {
+    "surface": "いるか",
+    "reading": "iruka",
+    "code": "101x1",
+    "index": 87
+  },
+  {
+    "surface": "いわば",
+    "reading": "iwaba",
+    "code": "10101",
+    "index": 88
+  },
+  {
+    "surface": "いわゆる",
+    "reading": "iwayuru",
+    "code": "1010101",
+    "index": 89
+  },
+  {
+    "surface": "うがい",
+    "reading": "ugai",
+    "code": "1011",
+    "index": 90
+  },
+  {
+    "surface": "うかつ",
+    "reading": "ukatsu",
+    "code": "1x1t01",
+    "index": 91
+  },
+  {
+    "surface": "うすうす",
+    "reading": "usuusu",
+    "code": "101101",
+    "index": 92
+  },
+  {
+    "surface": "うずく",
+    "reading": "uzuku",
+    "code": "101x1",
+    "index": 93
+  },
+  {
+    "surface": "うさんくさい",
+    "reading": "usannkusai",
+    "code": "101n1x1011",
+    "index": 94
+  },
+  {
+    "surface": "うずくまる",
+    "reading": "uzukumaru",
+    "code": "101x10101",
+    "index": 95
+  },
+  {
+    "surface": "うずら",
+    "reading": "uzura",
+    "code": "10101",
+    "index": 96
+  },
+  {
+    "surface": "うそ",
+    "reading": "uso",
+    "code": "101",
+    "index": 97
+  },
+  {
+    "surface": "うちわ",
+    "reading": "uchiwa",
+    "code": "1c0101",
+    "index": 98
+  },
+  {
+    "surface": "うっとうしい",
+    "reading": "uttoushii",
+    "code": "11011s011",
+    "index": 99
+  },
+  {
+    "surface": "うっとり",
+    "reading": "uttori",
+    "code": "110101",
+    "index": 100
+  },
+  {
+    "surface": "うつむく",
+    "reading": "utsumuku",
+    "code": "1t0101x1",
+    "index": 101
+  },
+  {
+    "surface": "うどん",
+    "reading": "udonn",
+    "code": "101u1",
+    "index": 102
+  },
+  {
+    "surface": "がたつく",
+    "reading": "gatatsuku",
+    "code": "0101t01x1",
+    "index": 103
+  },
+  {
+    "surface": "うなぎ",
+    "reading": "unagi",
+    "code": "10101",
+    "index": 104
+  },
+  {
+    "surface": "うなずく",
+    "reading": "unazuku",
+    "code": "10101x1",
+    "index": 105
+  },
+  {
+    "surface": "うなる",
+    "reading": "unaru",
+    "code": "10101",
+    "index": 106
+  },
+  {
+    "surface": "かたつむり",
+    "reading": "katatsumuri",
+    "code": "x101t010101",
+    "index": 107
+  },
+  {
+    "surface": "うぬぼれ",
+    "reading": "unubore",
+    "code": "1010101",
+    "index": 108
+  },
+  {
+    "surface": "うに",
+    "reading": "uni",
+    "code": "101",
+    "index": 109
+  },
+  {
+    "surface": "うなだれる",
+    "reading": "unadareru",
+    "code": "101010101",
+    "index": 110
+  },
+  {
+    "surface": "うやむや",
+    "reading": "uyamuya",
+    "code": "1010101",
+    "index": 111
+  },
+  {
+    "surface": "うらやましい",
+    "reading": "urayamashii",
+    "code": "1010101s011",
+    "index": 112
+  },
+  {
+    "surface": "うるさい",
+    "reading": "urusai",
+    "code": "101011",
+    "index": 113
+  },
+  {
+    "surface": "うれしい",
+    "reading": "ureshii",
+    "code": "101s011",
+    "index": 114
+  },
+  {
+    "surface": "うろこ",
+    "reading": "uroko",
+    "code": "101x1",
+    "index": 115
+  },
+  {
+    "surface": "うわさ",
+    "reading": "uwasa",
+    "code": "10101",
+    "index": 116
+  },
+  {
+    "surface": "うろたえる",
+    "reading": "urotaeru",
+    "code": "10101101",
+    "index": 117
+  },
+  {
+    "surface": "うろつく",
+    "reading": "urotsuku",
+    "code": "101t01x1",
+    "index": 118
+  },
+  {
+    "surface": "がっかり",
+    "reading": "gakkari",
+    "code": "01zV101",
+    "index": 119
+  },
+  {
+    "surface": "うんぬん",
+    "reading": "unnnunn",
+    "code": "1N1v1u1",
+    "index": 120
+  },
+  {
+    "surface": "えくぼ",
+    "reading": "ekubo",
+    "code": "1x101",
+    "index": 121
+  },
+  {
+    "surface": "えこひいき",
+    "reading": "ekohiiki",
+    "code": "1x101101",
+    "index": 122
+  },
+  {
+    "surface": "えてして",
+    "reading": "eteshite",
+    "code": "101s0101",
+    "index": 123
+  },
+  {
+    "surface": "えび",
+    "reading": "ebi",
+    "code": "101",
+    "index": 124
+  },
+  {
+    "surface": "えら",
+    "reading": "era",
+    "code": "101",
+    "index": 125
+  },
+  {
+    "surface": "おい",
+    "reading": "oi",
+    "code": "11",
+    "index": 126
+  },
+  {
+    "surface": "おいおい",
+    "reading": "oioi",
+    "code": "1111",
+    "index": 127
+  },
+  {
+    "surface": "おいしい",
+    "reading": "oishii",
+    "code": "11s011",
+    "index": 128
+  },
+  {
+    "surface": "おおっぴら",
+    "reading": "ooppira",
+    "code": "1110101",
+    "index": 129
+  },
+  {
+    "surface": "おおまか",
+    "reading": "oomaka",
+    "code": "1101x1",
+    "index": 130
+  },
+  {
+    "surface": "おおむね",
+    "reading": "oomune",
+    "code": "110101",
+    "index": 131
+  },
+  {
+    "surface": "おおよそ",
+    "reading": "ooyoso",
+    "code": "110101",
+    "index": 132
+  },
+  {
+    "surface": "おおらか",
+    "reading": "ooraka",
+    "code": "1101x1",
+    "index": 133
+  },
+  {
+    "surface": "おかしい",
+    "reading": "okashii",
+    "code": "1x1s011",
+    "index": 134
+  },
+  {
+    "surface": "おかず",
+    "reading": "okazu",
+    "code": "1x101",
+    "index": 135
+  },
+  {
+    "surface": "おかゆ",
+    "reading": "okayu",
+    "code": "1x101",
+    "index": 136
+  },
+  {
+    "surface": "おじけづく",
+    "reading": "ozikeduku",
+    "code": "1j10101x1",
+    "index": 137
+  },
+  {
+    "surface": "おこがましい",
+    "reading": "okogamashii",
+    "code": "1x10101s011",
+    "index": 138
+  },
+  {
+    "surface": "おごる",
+    "reading": "ogoru",
+    "code": "10101",
+    "index": 139
+  },
+  {
+    "surface": "おさらい",
+    "reading": "osarai",
+    "code": "101011",
+    "index": 140
+  },
+  {
+    "surface": "おじさん",
+    "reading": "ozisann",
+    "code": "1j101u1",
+    "index": 141
+  },
+  {
+    "surface": "おじいさん",
+    "reading": "oziisann",
+    "code": "1j1101u1",
+    "index": 142
+  },
+  {
+    "surface": "おじぎ",
+    "reading": "ozigi",
+    "code": "1j101",
+    "index": 143
+  },
+  {
+    "surface": "おしぼり",
+    "reading": "oshibori",
+    "code": "1s010101",
+    "index": 144
+  },
+  {
+    "surface": "おしまい",
+    "reading": "oshimai",
+    "code": "1s01011",
+    "index": 145
+  },
+  {
+    "surface": "おしゃべり",
+    "reading": "oshaberi",
+    "code": "10a10101",
+    "index": 146
+  },
+  {
+    "surface": "おしゃれ",
+    "reading": "oshare",
+    "code": "10a101",
+    "index": 147
+  },
+  {
+    "surface": "おだてる",
+    "reading": "odateru",
+    "code": "1010101",
+    "index": 148
+  },
+  {
+    "surface": "おせっかい",
+    "reading": "osekkai",
+    "code": "101zV11",
+    "index": 149
+  },
+  {
+    "surface": "おちおち",
+    "reading": "ochiochi",
+    "code": "1c011c01",
+    "index": 150
+  },
+  {
+    "surface": "おっしゃる",
+    "reading": "ossharu",
+    "code": "110a101",
+    "index": 151
+  },
+  {
+    "surface": "おつゆ",
+    "reading": "otsuyu",
+    "code": "1t0101",
+    "index": 152
+  },
+  {
+    "surface": "おでき",
+    "reading": "odeki",
+    "code": "10101",
+    "index": 153
+  },
+  {
+    "surface": "おでこ",
+    "reading": "odeko",
+    "code": "101x1",
+    "index": 154
+  },
+  {
+    "surface": "おでん",
+    "reading": "odenn",
+    "code": "101u1",
+    "index": 155
+  },
+  {
+    "surface": "おどける",
+    "reading": "odokeru",
+    "code": "1010101",
+    "index": 156
+  },
+  {
+    "surface": "おととい",
+    "reading": "ototoi",
+    "code": "101011",
+    "index": 157
+  },
+  {
+    "surface": "おととし",
+    "reading": "ototoshi",
+    "code": "10101s01",
+    "index": 158
+  },
+  {
+    "surface": "おとなしい",
+    "reading": "otonashii",
+    "code": "10101s011",
+    "index": 159
+  },
+  {
+    "surface": "おなか",
+    "reading": "onaka",
+    "code": "101x1",
+    "index": 160
+  },
+  {
+    "surface": "おのおの",
+    "reading": "onoono",
+    "code": "101101",
+    "index": 161
+  },
+  {
+    "surface": "おのずと",
+    "reading": "onozuto",
+    "code": "1010101",
+    "index": 162
+  },
+  {
+    "surface": "おばあさん",
+    "reading": "obaasann",
+    "code": "101101u1",
+    "index": 163
+  },
+  {
+    "surface": "おばさん",
+    "reading": "obasann",
+    "code": "10101u1",
+    "index": 164
+  },
+  {
+    "surface": "おはよう",
+    "reading": "ohayou",
+    "code": "101011",
+    "index": 165
+  },
+  {
+    "surface": "おびえる",
+    "reading": "obieru",
+    "code": "101101",
+    "index": 166
+  },
+  {
+    "surface": "おびただしい",
+    "reading": "obitadashii",
+    "code": "1010101s011",
+    "index": 167
+  },
+  {
+    "surface": "おふくろ",
+    "reading": "ohukuro",
+    "code": "1f1x101",
+    "index": 168
+  },
+  {
+    "surface": "おべっか",
+    "reading": "obekka",
+    "code": "101zV1",
+    "index": 169
+  },
+  {
+    "surface": "おぼつかない",
+    "reading": "obotsukanai",
+    "code": "101t01x1011",
+    "index": 170
+  },
+  {
+    "surface": "おぼれる",
+    "reading": "oboreru",
+    "code": "1010101",
+    "index": 171
+  },
+  {
+    "surface": "おぼろげ",
+    "reading": "oboroge",
+    "code": "1010101",
+    "index": 172
+  },
+  {
+    "surface": "おまけ",
+    "reading": "omake",
+    "code": "10101",
+    "index": 173
+  },
+  {
+    "surface": "おみくじ",
+    "reading": "omikuzi",
+    "code": "101x1j1",
+    "index": 174
+  },
+  {
+    "surface": "おむすび",
+    "reading": "omusubi",
+    "code": "1010101",
+    "index": 175
+  },
+  {
+    "surface": "おむつ",
+    "reading": "omutsu",
+    "code": "101t01",
+    "index": 176
+  },
+  {
+    "surface": "おめでた",
+    "reading": "omedeta",
+    "code": "1010101",
+    "index": 177
+  },
+  {
+    "surface": "おめでとう",
+    "reading": "omedetou",
+    "code": "10101011",
+    "index": 178
+  },
+  {
+    "surface": "おもむろに",
+    "reading": "omomuroni",
+    "code": "101010101",
+    "index": 179
+  },
+  {
+    "surface": "おやじ",
+    "reading": "oyazi",
+    "code": "101j1",
+    "index": 180
+  },
+  {
+    "surface": "おやつ",
+    "reading": "oyatsu",
+    "code": "101t01",
+    "index": 181
+  },
+  {
+    "surface": "おろそか",
+    "reading": "orosoka",
+    "code": "10101x1",
+    "index": 182
+  },
+  {
+    "surface": "かえって",
+    "reading": "kaette",
+    "code": "x11101",
+    "index": 183
+  },
+  {
+    "surface": "かえる",
+    "reading": "kaeru",
+    "code": "x1101",
+    "index": 184
+  },
+  {
+    "surface": "かかと",
+    "reading": "kakato",
+    "code": "x1x101",
+    "index": 185
+  },
+  {
+    "surface": "かがめる",
+    "reading": "kagameru",
+    "code": "x1010101",
+    "index": 186
+  },
+  {
+    "surface": "かかわらず",
+    "reading": "kakawarazu",
+    "code": "x1x1010101",
+    "index": 187
+  },
+  {
+    "surface": "かぎ",
+    "reading": "kagi",
+    "code": "x101",
+    "index": 188
+  },
+  {
+    "surface": "かさばる",
+    "reading": "kasabaru",
+    "code": "x1010101",
+    "index": 189
+  },
+  {
+    "surface": "かさぶた",
+    "reading": "kasabuta",
+    "code": "x1010101",
+    "index": 190
+  },
+  {
+    "surface": "かしこまる",
+    "reading": "kashikomaru",
+    "code": "x1s01x10101",
+    "index": 191
+  },
+  {
+    "surface": "かしげる",
+    "reading": "kashigeru",
+    "code": "x1s010101",
+    "index": 192
+  },
+  {
+    "surface": "かじる",
+    "reading": "kaziru",
+    "code": "x1j101",
+    "index": 193
+  },
+  {
+    "surface": "かすか",
+    "reading": "kasuka",
+    "code": "x101x1",
+    "index": 194
+  },
+  {
+    "surface": "かすむ",
+    "reading": "kasumu",
+    "code": "x10101",
+    "index": 195
+  },
+  {
+    "surface": "かすれる",
+    "reading": "kasureru",
+    "code": "x1010101",
+    "index": 196
+  },
+  {
+    "surface": "かたぎ",
+    "reading": "katagi",
+    "code": "x10101",
+    "index": 197
+  },
+  {
+    "surface": "かする",
+    "reading": "kasuru",
+    "code": "x10101",
+    "index": 198
+  },
+  {
+    "surface": "かたくな",
+    "reading": "katakuna",
+    "code": "x101x101",
+    "index": 199
+  },
+  {
+    "surface": "かたず",
+    "reading": "katazu",
+    "code": "x10101",
+    "index": 200
+  },
+  {
+    "surface": "がっくり",
+    "reading": "gakkuri",
+    "code": "01zV101",
+    "index": 201
+  },
+  {
+    "surface": "がっしり",
+    "reading": "gasshiri",
+    "code": "011s0101",
+    "index": 202
+  },
+  {
+    "surface": "かつて",
+    "reading": "katsute",
+    "code": "x1t0101",
+    "index": 203
+  },
+  {
+    "surface": "かつら",
+    "reading": "katsura",
+    "code": "x1t0101",
+    "index": 204
+  },
+  {
+    "surface": "かなえる",
+    "reading": "kanaeru",
+    "code": "x101101",
+    "index": 205
+  },
+  {
+    "surface": "かなた",
+    "reading": "kanata",
+    "code": "x10101",
+    "index": 206
+  },
+  {
+    "surface": "かなり",
+    "reading": "kanari",
+    "code": "x10101",
+    "index": 207
+  },
+  {
+    "surface": "かねがね",
+    "reading": "kanegane",
+    "code": "x1010101",
+    "index": 208
+  },
+  {
+    "surface": "かばう",
+    "reading": "kabau",
+    "code": "x1011",
+    "index": 209
+  },
+  {
+    "surface": "かばん",
+    "reading": "kabann",
+    "code": "x101u1",
+    "index": 210
+  },
+  {
+    "surface": "かび",
+    "reading": "kabi",
+    "code": "x101",
+    "index": 211
+  },
+  {
+    "surface": "かねて",
+    "reading": "kanete",
+    "code": "x10101",
+    "index": 212
+  },
+  {
+    "surface": "かぶせる",
+    "reading": "kabuseru",
+    "code": "x1010101",
+    "index": 213
+  },
+  {
+    "surface": "かぶる",
+    "reading": "kaburu",
+    "code": "x10101",
+    "index": 214
+  },
+  {
+    "surface": "かぶれる",
+    "reading": "kabureru",
+    "code": "x1010101",
+    "index": 215
+  },
+  {
+    "surface": "かぼちゃ",
+    "reading": "kabocha",
+    "code": "x101gi1",
+    "index": 216
+  },
+  {
+    "surface": "かまぼこ",
+    "reading": "kamaboko",
+    "code": "x10101x1",
+    "index": 217
+  },
+  {
+    "surface": "かみしめる",
+    "reading": "kamishimeru",
+    "code": "x101s010101",
+    "index": 218
+  },
+  {
+    "surface": "かみそり",
+    "reading": "kamisori",
+    "code": "x1010101",
+    "index": 219
+  },
+  {
+    "surface": "かみつく",
+    "reading": "kamitsuku",
+    "code": "x101t01x1",
+    "index": 220
+  },
+  {
+    "surface": "がむしゃら",
+    "reading": "gamushara",
+    "code": "01010a101",
+    "index": 221
+  },
+  {
+    "surface": "かもしれない",
+    "reading": "kamoshirenai",
+    "code": "x101s0101011",
+    "index": 222
+  },
+  {
+    "surface": "かゆい",
+    "reading": "kayui",
+    "code": "x1011",
+    "index": 223
+  },
+  {
+    "surface": "からかう",
+    "reading": "karakau",
+    "code": "x101x11",
+    "index": 224
+  },
+  {
+    "surface": "がらくた",
+    "reading": "garakuta",
+    "code": "0101x101",
+    "index": 225
+  },
+  {
+    "surface": "からくり",
+    "reading": "karakuri",
+    "code": "x101x101",
+    "index": 226
+  },
+  {
+    "surface": "からし",
+    "reading": "karashi",
+    "code": "x101s01",
+    "index": 227
+  },
+  {
+    "surface": "かれこれ",
+    "reading": "karekore",
+    "code": "x101x101",
+    "index": 228
+  },
+  {
+    "surface": "かろうじて",
+    "reading": "karouzite",
+    "code": "x1011j101",
+    "index": 229
+  },
+  {
+    "surface": "かわいい",
+    "reading": "kawaii",
+    "code": "x10111",
+    "index": 230
+  },
+  {
+    "surface": "かわいそう",
+    "reading": "kawaisou",
+    "code": "x1011011",
+    "index": 231
+  },
+  {
+    "surface": "がん",
+    "reading": "gann",
+    "code": "01u1",
+    "index": 232
+  },
+  {
+    "surface": "ぎこちない",
+    "reading": "gikochinai",
+    "code": "01x1c01011",
+    "index": 233
+  },
+  {
+    "surface": "きざ",
+    "reading": "kiza",
+    "code": "0101",
+    "index": 234
+  },
+  {
+    "surface": "きしむ",
+    "reading": "kishimu",
+    "code": "01s0101",
+    "index": 235
+  },
+  {
+    "surface": "きずな",
+    "reading": "kizuna",
+    "code": "010101",
+    "index": 236
+  },
+  {
+    "surface": "きつい",
+    "reading": "kitsui",
+    "code": "01t011",
+    "index": 237
+  },
+  {
+    "surface": "きっと",
+    "reading": "kitto",
+    "code": "01101",
+    "index": 238
+  },
+  {
+    "surface": "きっかけ",
+    "reading": "kikkake",
+    "code": "01zV101",
+    "index": 239
+  },
+  {
+    "surface": "きのこ",
+    "reading": "kinoko",
+    "code": "0101x1",
+    "index": 240
+  },
+  {
+    "surface": "きゃしゃ",
+    "reading": "kyasha",
+    "code": "0110a1",
+    "index": 241
+  },
+  {
+    "surface": "きゅうり",
+    "reading": "kyuuri",
+    "code": "011101",
+    "index": 242
+  },
+  {
+    "surface": "きらめく",
+    "reading": "kirameku",
+    "code": "010101x1",
+    "index": 243
+  },
+  {
+    "surface": "きりん",
+    "reading": "kirinn",
+    "code": "0101u1",
+    "index": 244
+  },
+  {
+    "surface": "きれい",
+    "reading": "kirei",
+    "code": "01011",
+    "index": 245
+  },
+  {
+    "surface": "ぎんなん",
+    "reading": "ginnnann",
+    "code": "01N1v1u1",
+    "index": 246
+  },
+  {
+    "surface": "くくる",
+    "reading": "kukuru",
+    "code": "x1x101",
+    "index": 247
+  },
+  {
+    "surface": "くぐる",
+    "reading": "kuguru",
+    "code": "x10101",
+    "index": 248
+  },
+  {
+    "surface": "くしくも",
+    "reading": "kushikumo",
+    "code": "x1s01x101",
+    "index": 249
+  },
+  {
+    "surface": "くじける",
+    "reading": "kuzikeru",
+    "code": "x1j10101",
+    "index": 250
+  },
+  {
+    "surface": "くしゃみ",
+    "reading": "kushami",
+    "code": "x10a101",
+    "index": 251
+  },
+  {
+    "surface": "ぐずぐず",
+    "reading": "guzuguzu",
+    "code": "01010101",
+    "index": 252
+  },
+  {
+    "surface": "くすぐったい",
+    "reading": "kusuguttai",
+    "code": "x101011011",
+    "index": 253
+  },
+  {
+    "surface": "くたばる",
+    "reading": "kutabaru",
+    "code": "x1010101",
+    "index": 254
+  },
+  {
+    "surface": "くたびれる",
+    "reading": "kutabireru",
+    "code": "x101010101",
+    "index": 255
+  },
+  {
+    "surface": "くだらない",
+    "reading": "kudaranai",
+    "code": "x10101011",
+    "index": 256
+  },
+  {
+    "surface": "くちばし",
+    "reading": "kuchibashi",
+    "code": "x1c0101s01",
+    "index": 257
+  },
+  {
+    "surface": "くっつく",
+    "reading": "kuttsuku",
+    "code": "x11t01x1",
+    "index": 258
+  },
+  {
+    "surface": "くつろぐ",
+    "reading": "kutsurogu",
+    "code": "x1t010101",
+    "index": 259
+  },
+  {
+    "surface": "くどい",
+    "reading": "kudoi",
+    "code": "x1011",
+    "index": 260
+  },
+  {
+    "surface": "くぼみ",
+    "reading": "kubomi",
+    "code": "x10101",
+    "index": 261
+  },
+  {
+    "surface": "くまなく",
+    "reading": "kumanaku",
+    "code": "x10101x1",
+    "index": 262
+  },
+  {
+    "surface": "くゆらせる",
+    "reading": "kuyuraseru",
+    "code": "x101010101",
+    "index": 263
+  },
+  {
+    "surface": "くらげ",
+    "reading": "kurage",
+    "code": "x10101",
+    "index": 264
+  },
+  {
+    "surface": "ぐらつく",
+    "reading": "guratsuku",
+    "code": "0101t01x1",
+    "index": 265
+  },
+  {
+    "surface": "くらます",
+    "reading": "kuramasu",
+    "code": "x1010101",
+    "index": 266
+  },
+  {
+    "surface": "くらむ",
+    "reading": "kuramu",
+    "code": "x10101",
+    "index": 267
+  },
+  {
+    "surface": "くるぶし",
+    "reading": "kurubushi",
+    "code": "x10101s01",
+    "index": 268
+  },
+  {
+    "surface": "くるむ",
+    "reading": "kurumu",
+    "code": "x10101",
+    "index": 269
+  },
+  {
+    "surface": "くれぐれも",
+    "reading": "kureguremo",
+    "code": "x101010101",
+    "index": 270
+  },
+  {
+    "surface": "けいこ",
+    "reading": "keiko",
+    "code": "011x1",
+    "index": 271
+  },
+  {
+    "surface": "けいれん",
+    "reading": "keirenn",
+    "code": "01101u1",
+    "index": 272
+  },
+  {
+    "surface": "げきりん",
+    "reading": "gekirinn",
+    "code": "010101u1",
+    "index": 273
+  },
+  {
+    "surface": "けげん",
+    "reading": "kegenn",
+    "code": "0101u1",
+    "index": 274
+  },
+  {
+    "surface": "けしからん",
+    "reading": "keshikarann",
+    "code": "01s01x101u1",
+    "index": 275
+  },
+  {
+    "surface": "けじめ",
+    "reading": "kezime",
+    "code": "01j101",
+    "index": 276
+  },
+  {
+    "surface": "けたたましい",
+    "reading": "ketatamashii",
+    "code": "01010101s011",
+    "index": 277
+  },
+  {
+    "surface": "けだもの",
+    "reading": "kedamono",
+    "code": "01010101",
+    "index": 278
+  },
+  {
+    "surface": "けち",
+    "reading": "kechi",
+    "code": "01c01",
+    "index": 279
+  },
+  {
+    "surface": "けとばす",
+    "reading": "ketobasu",
+    "code": "01010101",
+    "index": 280
+  },
+  {
+    "surface": "けなげ",
+    "reading": "kenage",
+    "code": "010101",
+    "index": 281
+  },
+  {
+    "surface": "けなす",
+    "reading": "kenasu",
+    "code": "010101",
+    "index": 282
+  },
+  {
+    "surface": "けばけばしい",
+    "reading": "kebakebashii",
+    "code": "01010101s011",
+    "index": 283
+  },
+  {
+    "surface": "けり",
+    "reading": "keri",
+    "code": "0101",
+    "index": 284
+  },
+  {
+    "surface": "けんか",
+    "reading": "kennka",
+    "code": "01n1x1",
+    "index": 285
+  },
+  {
+    "surface": "げんこつ",
+    "reading": "gennkotsu",
+    "code": "01n1x1t01",
+    "index": 286
+  },
+  {
+    "surface": "けんそん",
+    "reading": "kennsonn",
+    "code": "01n101u1",
+    "index": 287
+  },
+  {
+    "surface": "けんまく",
+    "reading": "kennmaku",
+    "code": "01n101x1",
+    "index": 288
+  },
+  {
+    "surface": "こうして",
+    "reading": "koushite",
+    "code": "x11s0101",
+    "index": 289
+  },
+  {
+    "surface": "ごきげんよう",
+    "reading": "gokigennyou",
+    "code": "010101N1v11",
+    "index": 290
+  },
+  {
+    "surface": "こざっぱり",
+    "reading": "kozappari",
+    "code": "x10110101",
+    "index": 291
+  },
+  {
+    "surface": "こじつける",
+    "reading": "kozitsukeru",
+    "code": "x1j1t010101",
+    "index": 292
+  },
+  {
+    "surface": "こじれる",
+    "reading": "kozireru",
+    "code": "x1j10101",
+    "index": 293
+  },
+  {
+    "surface": "こする",
+    "reading": "kosuru",
+    "code": "x10101",
+    "index": 294
+  },
+  {
+    "surface": "こそく",
+    "reading": "kosoku",
+    "code": "x101x1",
+    "index": 295
+  },
+  {
+    "surface": "こぞって",
+    "reading": "kozotte",
+    "code": "x101101",
+    "index": 296
+  },
+  {
+    "surface": "こたつ",
+    "reading": "kotatsu",
+    "code": "x101t01",
+    "index": 297
+  },
+  {
+    "surface": "ごたつく",
+    "reading": "gotatsuku",
+    "code": "0101t01x1",
+    "index": 298
+  },
+  {
+    "surface": "こだわる",
+    "reading": "kodawaru",
+    "code": "x1010101",
+    "index": 299
+  },
+  {
+    "surface": "ごちそう",
+    "reading": "gochisou",
+    "code": "01c01011",
+    "index": 300
+  },
+  {
+    "surface": "こちら",
+    "reading": "kochira",
+    "code": "x1c0101",
+    "index": 301
+  },
+  {
+    "surface": "こぢんまり",
+    "reading": "kodinnmari",
+    "code": "x101n10101",
+    "index": 302
+  },
+  {
+    "surface": "こっけい",
+    "reading": "kokkei",
+    "code": "x11011",
+    "index": 303
+  },
+  {
+    "surface": "こっち",
+    "reading": "kocchi",
+    "code": "x1kc01",
+    "index": 304
+  },
+  {
+    "surface": "こっとう",
+    "reading": "kottou",
+    "code": "x11011",
+    "index": 305
+  },
+  {
+    "surface": "ことごとく",
+    "reading": "kotogotoku",
+    "code": "x1010101x1",
+    "index": 306
+  },
+  {
+    "surface": "ことさら",
+    "reading": "kotosara",
+    "code": "x1010101",
+    "index": 307
+  },
+  {
+    "surface": "ことわざ",
+    "reading": "kotowaza",
+    "code": "x1010101",
+    "index": 308
+  },
+  {
+    "surface": "こなす",
+    "reading": "konasu",
+    "code": "x10101",
+    "index": 309
+  },
+  {
+    "surface": "このごろ",
+    "reading": "konogoro",
+    "code": "x1010101",
+    "index": 310
+  },
+  {
+    "surface": "このほど",
+    "reading": "konohodo",
+    "code": "x1010101",
+    "index": 311
+  },
+  {
+    "surface": "このまま",
+    "reading": "konomama",
+    "code": "x1010101",
+    "index": 312
+  },
+  {
+    "surface": "こび",
+    "reading": "kobi",
+    "code": "x101",
+    "index": 313
+  },
+  {
+    "surface": "こびりつく",
+    "reading": "kobiritsuku",
+    "code": "x10101t01x1",
+    "index": 314
+  },
+  {
+    "surface": "ごぶさた",
+    "reading": "gobusata",
+    "code": "01010101",
+    "index": 315
+  },
+  {
+    "surface": "こぶし",
+    "reading": "kobushi",
+    "code": "x101s01",
+    "index": 316
+  },
+  {
+    "surface": "ごぼう",
+    "reading": "gobou",
+    "code": "01011",
+    "index": 317
+  },
+  {
+    "surface": "こぼす",
+    "reading": "kobosu",
+    "code": "x10101",
+    "index": 318
+  },
+  {
+    "surface": "ごま",
+    "reading": "goma",
+    "code": "0101",
+    "index": 319
+  },
+  {
+    "surface": "ごまかす",
+    "reading": "gomakasu",
+    "code": "0101x101",
+    "index": 320
+  },
+  {
+    "surface": "ごみ",
+    "reading": "gomi",
+    "code": "0101",
+    "index": 321
+  },
+  {
+    "surface": "こめかみ",
+    "reading": "komekami",
+    "code": "x101x101",
+    "index": 322
+  },
+  {
+    "surface": "ごめん",
+    "reading": "gomenn",
+    "code": "0101u1",
+    "index": 323
+  },
+  {
+    "surface": "こもる",
+    "reading": "komoru",
+    "code": "x10101",
+    "index": 324
+  },
+  {
+    "surface": "こらえる",
+    "reading": "koraeru",
+    "code": "x101101",
+    "index": 325
+  },
+  {
+    "surface": "こりごり",
+    "reading": "korigori",
+    "code": "x1010101",
+    "index": 326
+  },
+  {
+    "surface": "これ",
+    "reading": "kore",
+    "code": "x101",
+    "index": 327
+  },
+  {
+    "surface": "これだけ",
+    "reading": "koredake",
+    "code": "x1010101",
+    "index": 328
+  },
+  {
+    "surface": "これほど",
+    "reading": "korehodo",
+    "code": "x1010101",
+    "index": 329
+  },
+  {
+    "surface": "これまで",
+    "reading": "koremade",
+    "code": "x1010101",
+    "index": 330
+  },
+  {
+    "surface": "こんな",
+    "reading": "konnna",
+    "code": "x1N1v1",
+    "index": 331
+  },
+  {
+    "surface": "こんにちは",
+    "reading": "konnnichiha",
+    "code": "x1N1v1c0101",
+    "index": 332
+  },
+  {
+    "surface": "こんにゃく",
+    "reading": "konnnyaku",
+    "code": "x1N1v11x1",
+    "index": 333
+  },
+  {
+    "surface": "こんばんは",
+    "reading": "konnbannha",
+    "code": "x1n101n101",
+    "index": 334
+  },
+  {
+    "surface": "さいころ",
+    "reading": "saikoro",
+    "code": "011x101",
+    "index": 335
+  },
+  {
+    "surface": "さえる",
+    "reading": "saeru",
+    "code": "01101",
+    "index": 336
+  },
+  {
+    "surface": "ささやか",
+    "reading": "sasayaka",
+    "code": "010101x1",
+    "index": 337
+  },
+  {
+    "surface": "ささやく",
+    "reading": "sasayaku",
+    "code": "010101x1",
+    "index": 338
+  },
+  {
+    "surface": "さしあたり",
+    "reading": "sashiatari",
+    "code": "01s0110101",
+    "index": 339
+  },
+  {
+    "surface": "さしずめ",
+    "reading": "sashizume",
+    "code": "01s010101",
+    "index": 340
+  },
+  {
+    "surface": "さすが",
+    "reading": "sasuga",
+    "code": "010101",
+    "index": 341
+  },
+  {
+    "surface": "さすらう",
+    "reading": "sasurau",
+    "code": "0101011",
+    "index": 342
+  },
+  {
+    "surface": "さぞ",
+    "reading": "sazo",
+    "code": "0101",
+    "index": 343
+  },
+  {
+    "surface": "さっそう",
+    "reading": "sassou",
+    "code": "011011",
+    "index": 344
+  },
+  {
+    "surface": "さて",
+    "reading": "sate",
+    "code": "0101",
+    "index": 345
+  },
+  {
+    "surface": "さながら",
+    "reading": "sanagara",
+    "code": "01010101",
+    "index": 346
+  },
+  {
+    "surface": "さなぎ",
+    "reading": "sanagi",
+    "code": "010101",
+    "index": 347
+  },
+  {
+    "surface": "さびる",
+    "reading": "sabiru",
+    "code": "010101",
+    "index": 348
+  },
+  {
+    "surface": "さほど",
+    "reading": "sahodo",
+    "code": "010101",
+    "index": 349
+  },
+  {
+    "surface": "さまよう",
+    "reading": "samayou",
+    "code": "0101011",
+    "index": 350
+  },
+  {
+    "surface": "さもないと",
+    "reading": "samonaito",
+    "code": "010101101",
+    "index": 351
+  },
+  {
+    "surface": "さようなら",
+    "reading": "sayounara",
+    "code": "010110101",
+    "index": 352
+  },
+  {
+    "surface": "さりげない",
+    "reading": "sarigenai",
+    "code": "010101011",
+    "index": 353
+  },
+  {
+    "surface": "ざるそば",
+    "reading": "zarusoba",
+    "code": "01010101",
+    "index": 354
+  },
+  {
+    "surface": "さわやか",
+    "reading": "sawayaka",
+    "code": "010101x1",
+    "index": 355
+  },
+  {
+    "surface": "さんご",
+    "reading": "sanngo",
+    "code": "01n101",
+    "index": 356
+  },
+  {
+    "surface": "さんま",
+    "reading": "sannma",
+    "code": "01n101",
+    "index": 357
+  },
+  {
+    "surface": "しあさって",
+    "reading": "shiasatte",
+    "code": "s01101101",
+    "index": 358
+  },
+  {
+    "surface": "じいさん",
+    "reading": "ziisann",
+    "code": "j1101u1",
+    "index": 359
+  },
+  {
+    "surface": "しいたけ",
+    "reading": "shiitake",
+    "code": "s0110101",
+    "index": 360
+  },
+  {
+    "surface": "しおり",
+    "reading": "shiori",
+    "code": "s01101",
+    "index": 361
+  },
+  {
+    "surface": "しかし",
+    "reading": "shikashi",
+    "code": "s01x1s01",
+    "index": 362
+  },
+  {
+    "surface": "しかたがない",
+    "reading": "shikataganai",
+    "code": "s01x10101011",
+    "index": 363
+  },
+  {
+    "surface": "じかに",
+    "reading": "zikani",
+    "code": "j1x101",
+    "index": 364
+  },
+  {
+    "surface": "しがみつく",
+    "reading": "shigamitsuku",
+    "code": "s010101t01x1",
+    "index": 365
+  },
+  {
+    "surface": "しかも",
+    "reading": "shikamo",
+    "code": "s01x101",
+    "index": 366
+  },
+  {
+    "surface": "しかるべき",
+    "reading": "shikarubeki",
+    "code": "s01x1010101",
+    "index": 367
+  },
+  {
+    "surface": "しきたり",
+    "reading": "shikitari",
+    "code": "s01010101",
+    "index": 368
+  },
+  {
+    "surface": "しきりに",
+    "reading": "shikirini",
+    "code": "s01010101",
+    "index": 369
+  },
+  {
+    "surface": "しぐさ",
+    "reading": "shigusa",
+    "code": "s010101",
+    "index": 370
+  },
+  {
+    "surface": "しくじる",
+    "reading": "shikuziru",
+    "code": "s01x1j101",
+    "index": 371
+  },
+  {
+    "surface": "しこり",
+    "reading": "shikori",
+    "code": "s01x101",
+    "index": 372
+  },
+  {
+    "surface": "しじみ",
+    "reading": "shizimi",
+    "code": "s01j101",
+    "index": 373
+  },
+  {
+    "surface": "したたか",
+    "reading": "shitataka",
+    "code": "s010101x1",
+    "index": 374
+  },
+  {
+    "surface": "しつけ",
+    "reading": "shitsuke",
+    "code": "s01t0101",
+    "index": 375
+  },
+  {
+    "surface": "しでかす",
+    "reading": "shidekasu",
+    "code": "s0101x101",
+    "index": 376
+  },
+  {
+    "surface": "しとめる",
+    "reading": "shitomeru",
+    "code": "s01010101",
+    "index": 377
+  },
+  {
+    "surface": "しなびる",
+    "reading": "shinabiru",
+    "code": "s01010101",
+    "index": 378
+  },
+  {
+    "surface": "しなやか",
+    "reading": "shinayaka",
+    "code": "s010101x1",
+    "index": 379
+  },
+  {
+    "surface": "しのぐ",
+    "reading": "shinogu",
+    "code": "s010101",
+    "index": 380
+  },
+  {
+    "surface": "しのぶ",
+    "reading": "shinobu",
+    "code": "s010101",
+    "index": 381
+  },
+  {
+    "surface": "しばしば",
+    "reading": "shibashiba",
+    "code": "s0101s0101",
+    "index": 382
+  },
+  {
+    "surface": "しばらく",
+    "reading": "shibaraku",
+    "code": "s010101x1",
+    "index": 383
+  },
+  {
+    "surface": "しびれる",
+    "reading": "shibireru",
+    "code": "s01010101",
+    "index": 384
+  },
+  {
+    "surface": "しぶしぶ",
+    "reading": "shibushibu",
+    "code": "s0101s0101",
+    "index": 385
+  },
+  {
+    "surface": "しぶとい",
+    "reading": "shibutoi",
+    "code": "s0101011",
+    "index": 386
+  },
+  {
+    "surface": "しぼむ",
+    "reading": "shibomu",
+    "code": "s010101",
+    "index": 387
+  },
+  {
+    "surface": "しまう",
+    "reading": "shimau",
+    "code": "s01011",
+    "index": 388
+  },
+  {
+    "surface": "しみじみ",
+    "reading": "shimizimi",
+    "code": "s0101j101",
+    "index": 389
+  },
+  {
+    "surface": "じゃがいも",
+    "reading": "zyagaimo",
+    "code": "e1101101",
+    "index": 390
+  },
+  {
+    "surface": "しゃがむ",
+    "reading": "shagamu",
+    "code": "0a10101",
+    "index": 391
+  },
+  {
+    "surface": "しゃっくり",
+    "reading": "shakkuri",
+    "code": "0a1zV101",
+    "index": 392
+  },
+  {
+    "surface": "しゃば",
+    "reading": "shaba",
+    "code": "0a101",
+    "index": 393
+  },
+  {
+    "surface": "しゃべる",
+    "reading": "shaberu",
+    "code": "0a10101",
+    "index": 394
+  },
+  {
+    "surface": "しゃもじ",
+    "reading": "shamozi",
+    "code": "0a101j1",
+    "index": 395
+  },
+  {
+    "surface": "しゃれ",
+    "reading": "share",
+    "code": "0a101",
+    "index": 396
+  },
+  {
+    "surface": "じゃれる",
+    "reading": "zyareru",
+    "code": "e110101",
+    "index": 397
+  },
+  {
+    "surface": "じゃんけん",
+    "reading": "zyannkenn",
+    "code": "e11n101u1",
+    "index": 398
+  },
+  {
+    "surface": "じゅうたん",
+    "reading": "zyuutann",
+    "code": "e11101u1",
+    "index": 399
+  },
+  {
+    "surface": "しゅうと",
+    "reading": "shuuto",
+    "code": "0a1101",
+    "index": 400
+  },
+  {
+    "surface": "しゅうとめ",
+    "reading": "shuutome",
+    "code": "0a110101",
+    "index": 401
+  },
+  {
+    "surface": "しょうが",
+    "reading": "shouga",
+    "code": "0a1101",
+    "index": 402
+  },
+  {
+    "surface": "しょうゆ",
+    "reading": "shouyu",
+    "code": "0a1101",
+    "index": 403
+  },
+  {
+    "surface": "しょげる",
+    "reading": "shogeru",
+    "code": "0a10101",
+    "index": 404
+  },
+  {
+    "surface": "しらふ",
+    "reading": "shirahu",
+    "code": "s0101f1",
+    "index": 405
+  },
+  {
+    "surface": "しりぬぐい",
+    "reading": "shirinugui",
+    "code": "s010101011",
+    "index": 406
+  },
+  {
+    "surface": "しりもち",
+    "reading": "shirimochi",
+    "code": "s010101c01",
+    "index": 407
+  },
+  {
+    "surface": "しわ",
+    "reading": "shiwa",
+    "code": "s0101",
+    "index": 408
+  },
+  {
+    "surface": "すいか",
+    "reading": "suika",
+    "code": "011x1",
+    "index": 409
+  },
+  {
+    "surface": "ずいぶん",
+    "reading": "zuibunn",
+    "code": "01101u1",
+    "index": 410
+  },
+  {
+    "surface": "ずうずうしい",
+    "reading": "zuuzuushii",
+    "code": "011011s011",
+    "index": 411
+  },
+  {
+    "surface": "ずうたい",
+    "reading": "zuutai",
+    "code": "011011",
+    "index": 412
+  },
+  {
+    "surface": "すかさず",
+    "reading": "sukasazu",
+    "code": "01x10101",
+    "index": 413
+  },
+  {
+    "surface": "すがる",
+    "reading": "sugaru",
+    "code": "010101",
+    "index": 414
+  },
+  {
+    "surface": "すきがない",
+    "reading": "sukiganai",
+    "code": "010101011",
+    "index": 415
+  },
+  {
+    "surface": "すぐ",
+    "reading": "sugu",
+    "code": "0101",
+    "index": 416
+  },
+  {
+    "surface": "すごい",
+    "reading": "sugoi",
+    "code": "01011",
+    "index": 417
+  },
+  {
+    "surface": "すごむ",
+    "reading": "sugomu",
+    "code": "010101",
+    "index": 418
+  },
+  {
+    "surface": "ずさん",
+    "reading": "zusann",
+    "code": "0101u1",
+    "index": 419
+  },
+  {
+    "surface": "すずめ",
+    "reading": "suzume",
+    "code": "010101",
+    "index": 420
+  },
+  {
+    "surface": "すっかり",
+    "reading": "sukkari",
+    "code": "01zV101",
+    "index": 421
+  },
+  {
+    "surface": "すっぽかす",
+    "reading": "suppokasu",
+    "code": "01101x101",
+    "index": 422
+  },
+  {
+    "surface": "すっぽん",
+    "reading": "supponn",
+    "code": "01101u1",
+    "index": 423
+  },
+  {
+    "surface": "すてき",
+    "reading": "suteki",
+    "code": "010101",
+    "index": 424
+  },
+  {
+    "surface": "もじもじ",
+    "reading": "mozimozi",
+    "code": "01j101j1",
+    "index": 425
+  },
+  {
+    "surface": "すなわち",
+    "reading": "sunawachi",
+    "code": "010101c01",
+    "index": 426
+  },
+  {
+    "surface": "すね",
+    "reading": "sune",
+    "code": "0101",
+    "index": 427
+  },
+  {
+    "surface": "すねる",
+    "reading": "suneru",
+    "code": "010101",
+    "index": 428
+  },
+  {
+    "surface": "ずばぬける",
+    "reading": "zubanukeru",
+    "code": "0101010101",
+    "index": 429
+  },
+  {
+    "surface": "すばらしい",
+    "reading": "subarashii",
+    "code": "010101s011",
+    "index": 430
+  },
+  {
+    "surface": "すべて",
+    "reading": "subete",
+    "code": "010101",
+    "index": 431
+  },
+  {
+    "surface": "ずぼら",
+    "reading": "zubora",
+    "code": "010101",
+    "index": 432
+  },
+  {
+    "surface": "すまない",
+    "reading": "sumanai",
+    "code": "0101011",
+    "index": 433
+  },
+  {
+    "surface": "すぼめる",
+    "reading": "subomeru",
+    "code": "01010101",
+    "index": 434
+  },
+  {
+    "surface": "ずらす",
+    "reading": "zurasu",
+    "code": "010101",
+    "index": 435
+  },
+  {
+    "surface": "ずるい",
+    "reading": "zurui",
+    "code": "01011",
+    "index": 436
+  },
+  {
+    "surface": "するめ",
+    "reading": "surume",
+    "code": "010101",
+    "index": 437
+  },
+  {
+    "surface": "ずれる",
+    "reading": "zureru",
+    "code": "010101",
+    "index": 438
+  },
+  {
+    "surface": "せいぜい",
+    "reading": "seizei",
+    "code": "011011",
+    "index": 439
+  },
+  {
+    "surface": "ぜいたく",
+    "reading": "zeitaku",
+    "code": "01101x1",
+    "index": 440
+  },
+  {
+    "surface": "せき",
+    "reading": "seki",
+    "code": "0101",
+    "index": 441
+  },
+  {
+    "surface": "せかす",
+    "reading": "sekasu",
+    "code": "01x101",
+    "index": 442
+  },
+  {
+    "surface": "せちがらい",
+    "reading": "sechigarai",
+    "code": "01c0101011",
+    "index": 443
+  },
+  {
+    "surface": "せっかく",
+    "reading": "sekkaku",
+    "code": "01zV1x1",
+    "index": 444
+  },
+  {
+    "surface": "せっかち",
+    "reading": "sekkachi",
+    "code": "01zV1c01",
+    "index": 445
+  },
+  {
+    "surface": "せっけん",
+    "reading": "sekkenn",
+    "code": "01101u1",
+    "index": 446
+  },
+  {
+    "surface": "ぜひ",
+    "reading": "zehi",
+    "code": "0101",
+    "index": 447
+  },
+  {
+    "surface": "せびる",
+    "reading": "sebiru",
+    "code": "010101",
+    "index": 448
+  },
+  {
+    "surface": "せみ",
+    "reading": "semi",
+    "code": "0101",
+    "index": 449
+  },
+  {
+    "surface": "せめて",
+    "reading": "semete",
+    "code": "010101",
+    "index": 450
+  },
+  {
+    "surface": "せんさく",
+    "reading": "sennsaku",
+    "code": "01n101x1",
+    "index": 451
+  },
+  {
+    "surface": "ぜんそく",
+    "reading": "zennsoku",
+    "code": "01n101x1",
+    "index": 452
+  },
+  {
+    "surface": "せんべい",
+    "reading": "sennbei",
+    "code": "01n1011",
+    "index": 453
+  },
+  {
+    "surface": "ぞうきん",
+    "reading": "zoukinn",
+    "code": "01101u1",
+    "index": 454
+  },
+  {
+    "surface": "そうそうたる",
+    "reading": "sousoutaru",
+    "code": "0110110101",
+    "index": 455
+  },
+  {
+    "surface": "そうめん",
+    "reading": "soumenn",
+    "code": "01101u1",
+    "index": 456
+  },
+  {
+    "surface": "そぐわない",
+    "reading": "soguwanai",
+    "code": "010101011",
+    "index": 457
+  },
+  {
+    "surface": "そこ",
+    "reading": "soko",
+    "code": "01x1",
+    "index": 458
+  },
+  {
+    "surface": "そこそこ",
+    "reading": "sokosoko",
+    "code": "01x101x1",
+    "index": 459
+  },
+  {
+    "surface": "そそっかしい",
+    "reading": "sosokkashii",
+    "code": "0101zV1s011",
+    "index": 460
+  },
+  {
+    "surface": "そそる",
+    "reading": "sosoru",
+    "code": "010101",
+    "index": 461
+  },
+  {
+    "surface": "その",
+    "reading": "sono",
+    "code": "0101",
+    "index": 462
+  },
+  {
+    "surface": "そのくせ",
+    "reading": "sonokuse",
+    "code": "0101x101",
+    "index": 463
+  },
+  {
+    "surface": "そのまま",
+    "reading": "sonomama",
+    "code": "01010101",
+    "index": 464
+  },
+  {
+    "surface": "そば",
+    "reading": "soba",
+    "code": "0101",
+    "index": 465
+  },
+  {
+    "surface": "そらす",
+    "reading": "sorasu",
+    "code": "010101",
+    "index": 466
+  },
+  {
+    "surface": "それきり",
+    "reading": "sorekiri",
+    "code": "01010101",
+    "index": 467
+  },
+  {
+    "surface": "それぞれ",
+    "reading": "sorezore",
+    "code": "01010101",
+    "index": 468
+  },
+  {
+    "surface": "それだけ",
+    "reading": "soredake",
+    "code": "01010101",
+    "index": 469
+  },
+  {
+    "surface": "それでは",
+    "reading": "soredeha",
+    "code": "01010101",
+    "index": 470
+  },
+  {
+    "surface": "それどころか",
+    "reading": "soredokoroka",
+    "code": "010101x101x1",
+    "index": 471
+  },
+  {
+    "surface": "それとも",
+    "reading": "soretomo",
+    "code": "01010101",
+    "index": 472
+  },
+  {
+    "surface": "それほど",
+    "reading": "sorehodo",
+    "code": "01010101",
+    "index": 473
+  },
+  {
+    "surface": "それゆえ",
+    "reading": "soreyue",
+    "code": "0101011",
+    "index": 474
+  },
+  {
+    "surface": "そろえる",
+    "reading": "soroeru",
+    "code": "0101101",
+    "index": 475
+  },
+  {
+    "surface": "そろばん",
+    "reading": "sorobann",
+    "code": "010101u1",
+    "index": 476
+  },
+  {
+    "surface": "そんな",
+    "reading": "sonnna",
+    "code": "01N1v1",
+    "index": 477
+  },
+  {
+    "surface": "たかだか",
+    "reading": "takadaka",
+    "code": "01x101x1",
+    "index": 478
+  },
+  {
+    "surface": "だから",
+    "reading": "dakara",
+    "code": "01x101",
+    "index": 479
+  },
+  {
+    "surface": "たかる",
+    "reading": "takaru",
+    "code": "01x101",
+    "index": 480
+  },
+  {
+    "surface": "たくあん",
+    "reading": "takuann",
+    "code": "01x11u1",
+    "index": 481
+  },
+  {
+    "surface": "たぐい",
+    "reading": "tagui",
+    "code": "01011",
+    "index": 482
+  },
+  {
+    "surface": "たくましい",
+    "reading": "takumashii",
+    "code": "01x101s011",
+    "index": 483
+  },
+  {
+    "surface": "たこ",
+    "reading": "tako",
+    "code": "01x1",
+    "index": 484
+  },
+  {
+    "surface": "たしなむ",
+    "reading": "tashinamu",
+    "code": "01s010101",
+    "index": 485
+  },
+  {
+    "surface": "だじゃれ",
+    "reading": "dazyare",
+    "code": "01e1101",
+    "index": 486
+  },
+  {
+    "surface": "たすき",
+    "reading": "tasuki",
+    "code": "010101",
+    "index": 487
+  },
+  {
+    "surface": "ただいま",
+    "reading": "tadaima",
+    "code": "0101101",
+    "index": 488
+  },
+  {
+    "surface": "メロメロ",
+    "reading": "meromero",
+    "code": "01010101",
+    "index": 489
+  },
+  {
+    "surface": "たたずむ",
+    "reading": "tatazumu",
+    "code": "01010101",
+    "index": 490
+  },
+  {
+    "surface": "たたり",
+    "reading": "tatari",
+    "code": "010101",
+    "index": 491
+  },
+  {
+    "surface": "たち",
+    "reading": "tachi",
+    "code": "01c01",
+    "index": 492
+  },
+  {
+    "surface": "たちまち",
+    "reading": "tachimachi",
+    "code": "01c0101c01",
+    "index": 493
+  },
+  {
+    "surface": "だっこ",
+    "reading": "dakko",
+    "code": "01zV1",
+    "index": 494
+  },
+  {
+    "surface": "たどたどしい",
+    "reading": "tadotadoshii",
+    "code": "01010101s011",
+    "index": 495
+  },
+  {
+    "surface": "たどる",
+    "reading": "tadoru",
+    "code": "010101",
+    "index": 496
+  },
+  {
+    "surface": "たぬき",
+    "reading": "tanuki",
+    "code": "010101",
+    "index": 497
+  },
+  {
+    "surface": "たばこ",
+    "reading": "tabako",
+    "code": "0101x1",
+    "index": 498
+  },
+  {
+    "surface": "たまげる",
+    "reading": "tamageru",
+    "code": "01010101",
+    "index": 499
+  },
+  {
+    "surface": "だます",
+    "reading": "damasu",
+    "code": "010101",
+    "index": 500
+  },
+  {
+    "surface": "たまたま",
+    "reading": "tamatama",
+    "code": "01010101",
+    "index": 501
+  },
+  {
+    "surface": "たまに",
+    "reading": "tamani",
+    "code": "010101",
+    "index": 502
+  },
+  {
+    "surface": "たまねぎ",
+    "reading": "tamanegi",
+    "code": "01010101",
+    "index": 503
+  },
+  {
+    "surface": "たまらない",
+    "reading": "tamaranai",
+    "code": "010101011",
+    "index": 504
+  },
+  {
+    "surface": "たまる",
+    "reading": "tamaru",
+    "code": "010101",
+    "index": 505
+  },
+  {
+    "surface": "ためらう",
+    "reading": "tamerau",
+    "code": "0101011",
+    "index": 506
+  },
+  {
+    "surface": "だらける",
+    "reading": "darakeru",
+    "code": "01010101",
+    "index": 507
+  },
+  {
+    "surface": "だらしない",
+    "reading": "darashinai",
+    "code": "0101s01011",
+    "index": 508
+  },
+  {
+    "surface": "たらふく",
+    "reading": "tarahuku",
+    "code": "0101f1x1",
+    "index": 509
+  },
+  {
+    "surface": "だるい",
+    "reading": "darui",
+    "code": "01011",
+    "index": 510
+  },
+  {
+    "surface": "だれる",
+    "reading": "dareru",
+    "code": "010101",
+    "index": 511
+  },
+  {
+    "surface": "だんご",
+    "reading": "danngo",
+    "code": "01n101",
+    "index": 512
+  },
+  {
+    "surface": "たんす",
+    "reading": "tannsu",
+    "code": "01n101",
+    "index": 513
+  },
+  {
+    "surface": "だんな",
+    "reading": "dannna",
+    "code": "01N1v1",
+    "index": 514
+  },
+  {
+    "surface": "たんぽぽ",
+    "reading": "tannpopo",
+    "code": "01n10101",
+    "index": 515
+  },
+  {
+    "surface": "ちぎれる",
+    "reading": "chigireru",
+    "code": "c01010101",
+    "index": 516
+  },
+  {
+    "surface": "ちくわ",
+    "reading": "chikuwa",
+    "code": "c01x101",
+    "index": 517
+  },
+  {
+    "surface": "ちなみに",
+    "reading": "chinamini",
+    "code": "c01010101",
+    "index": 518
+  },
+  {
+    "surface": "ちまた",
+    "reading": "chimata",
+    "code": "c010101",
+    "index": 519
+  },
+  {
+    "surface": "ちょうだい",
+    "reading": "choudai",
+    "code": "gi11011",
+    "index": 520
+  },
+  {
+    "surface": "ちょっと",
+    "reading": "chotto",
+    "code": "gi1101",
+    "index": 521
+  },
+  {
+    "surface": "ちらつく",
+    "reading": "chiratsuku",
+    "code": "c0101t01x1",
+    "index": 522
+  },
+  {
+    "surface": "ついて",
+    "reading": "tsuite",
+    "code": "t01101",
+    "index": 523
+  },
+  {
+    "surface": "ついでに",
+    "reading": "tsuideni",
+    "code": "t0110101",
+    "index": 524
+  },
+  {
+    "surface": "ついに",
+    "reading": "tsuini",
+    "code": "t01101",
+    "index": 525
+  },
+  {
+    "surface": "つがい",
+    "reading": "tsugai",
+    "code": "t01011",
+    "index": 526
+  },
+  {
+    "surface": "つかむ",
+    "reading": "tsukamu",
+    "code": "t01x101",
+    "index": 527
+  },
+  {
+    "surface": "つくづく",
+    "reading": "tsukuduku",
+    "code": "t01x101x1",
+    "index": 528
+  },
+  {
+    "surface": "つじつま",
+    "reading": "tsuzitsuma",
+    "code": "t01j1t0101",
+    "index": 529
+  },
+  {
+    "surface": "つたない",
+    "reading": "tsutanai",
+    "code": "t0101011",
+    "index": 530
+  },
+  {
+    "surface": "つづり",
+    "reading": "tsuduri",
+    "code": "t010101",
+    "index": 531
+  },
+  {
+    "surface": "つながり",
+    "reading": "tsunagari",
+    "code": "t01010101",
+    "index": 532
+  },
+  {
+    "surface": "つねる",
+    "reading": "tsuneru",
+    "code": "t010101",
+    "index": 533
+  },
+  {
+    "surface": "つばめ",
+    "reading": "tsubame",
+    "code": "t010101",
+    "index": 534
+  },
+  {
+    "surface": "つぶさに",
+    "reading": "tsubusani",
+    "code": "t01010101",
+    "index": 535
+  },
+  {
+    "surface": "つぶす",
+    "reading": "tsubusu",
+    "code": "t010101",
+    "index": 536
+  },
+  {
+    "surface": "つぶやく",
+    "reading": "tsubuyaku",
+    "code": "t010101x1",
+    "index": 537
+  },
+  {
+    "surface": "つぶら",
+    "reading": "tsubura",
+    "code": "t010101",
+    "index": 538
+  },
+  {
+    "surface": "つぼみ",
+    "reading": "tsubomi",
+    "code": "t010101",
+    "index": 539
+  },
+  {
+    "surface": "つまずく",
+    "reading": "tsumazuku",
+    "code": "t010101x1",
+    "index": 540
+  },
+  {
+    "surface": "つまはじき",
+    "reading": "tsumahaziki",
+    "code": "t010101j101",
+    "index": 541
+  },
+  {
+    "surface": "おつまみ",
+    "reading": "otsumami",
+    "code": "1t010101",
+    "index": 542
+  },
+  {
+    "surface": "つまらない",
+    "reading": "tsumaranai",
+    "code": "t010101011",
+    "index": 543
+  },
+  {
+    "surface": "つまり",
+    "reading": "tsumari",
+    "code": "t010101",
+    "index": 544
+  },
+  {
+    "surface": "つわり",
+    "reading": "tsuwari",
+    "code": "t010101",
+    "index": 545
+  },
+  {
+    "surface": "もたもた",
+    "reading": "motamota",
+    "code": "01010101",
+    "index": 546
+  },
+  {
+    "surface": "でかす",
+    "reading": "dekasu",
+    "code": "01x101",
+    "index": 547
+  },
+  {
+    "surface": "てきめん",
+    "reading": "tekimenn",
+    "code": "010101u1",
+    "index": 548
+  },
+  {
+    "surface": "てこずる",
+    "reading": "tekozuru",
+    "code": "01x10101",
+    "index": 549
+  },
+  {
+    "surface": "でたらめ",
+    "reading": "detarame",
+    "code": "01010101",
+    "index": 550
+  },
+  {
+    "surface": "てっきり",
+    "reading": "tekkiri",
+    "code": "0110101",
+    "index": 551
+  },
+  {
+    "surface": "でっちあげる",
+    "reading": "decchiageru",
+    "code": "01kc0110101",
+    "index": 552
+  },
+  {
+    "surface": "てっぺん",
+    "reading": "teppenn",
+    "code": "01101u1",
+    "index": 553
+  },
+  {
+    "surface": "てんてこまい",
+    "reading": "tenntekomai",
+    "code": "01n101x1011",
+    "index": 554
+  },
+  {
+    "surface": "でんぷん",
+    "reading": "dennpunn",
+    "code": "01n101u1",
+    "index": 555
+  },
+  {
+    "surface": "どうして",
+    "reading": "doushite",
+    "code": "011s0101",
+    "index": 556
+  },
+  {
+    "surface": "どうぞ",
+    "reading": "douzo",
+    "code": "01101",
+    "index": 557
+  },
+  {
+    "surface": "とうとう",
+    "reading": "toutou",
+    "code": "011011",
+    "index": 558
+  },
+  {
+    "surface": "とかげ",
+    "reading": "tokage",
+    "code": "01x101",
+    "index": 559
+  },
+  {
+    "surface": "とがめる",
+    "reading": "togameru",
+    "code": "01010101",
+    "index": 560
+  },
+  {
+    "surface": "とがる",
+    "reading": "togaru",
+    "code": "010101",
+    "index": 561
+  },
+  {
+    "surface": "ときめく",
+    "reading": "tokimeku",
+    "code": "010101x1",
+    "index": 562
+  },
+  {
+    "surface": "とげ",
+    "reading": "toge",
+    "code": "0101",
+    "index": 563
+  },
+  {
+    "surface": "とげとげしい",
+    "reading": "togetogeshii",
+    "code": "01010101s011",
+    "index": 564
+  },
+  {
+    "surface": "どける",
+    "reading": "dokeru",
+    "code": "010101",
+    "index": 565
+  },
+  {
+    "surface": "どこ",
+    "reading": "doko",
+    "code": "01x1",
+    "index": 566
+  },
+  {
+    "surface": "ところが",
+    "reading": "tokoroga",
+    "code": "01x10101",
+    "index": 567
+  },
+  {
+    "surface": "ところで",
+    "reading": "tokorode",
+    "code": "01x10101",
+    "index": 568
+  },
+  {
+    "surface": "どちら",
+    "reading": "dochira",
+    "code": "01c0101",
+    "index": 569
+  },
+  {
+    "surface": "とっさ",
+    "reading": "tossa",
+    "code": "01101",
+    "index": 570
+  },
+  {
+    "surface": "どっち",
+    "reading": "docchi",
+    "code": "01kc01",
+    "index": 571
+  },
+  {
+    "surface": "とてつもない",
+    "reading": "totetsumonai",
+    "code": "0101t0101011",
+    "index": 572
+  },
+  {
+    "surface": "とても",
+    "reading": "totemo",
+    "code": "010101",
+    "index": 573
+  },
+  {
+    "surface": "どなた",
+    "reading": "donata",
+    "code": "010101",
+    "index": 574
+  },
+  {
+    "surface": "とにかく",
+    "reading": "tonikaku",
+    "code": "0101x1x1",
+    "index": 575
+  },
+  {
+    "surface": "どの",
+    "reading": "dono",
+    "code": "0101",
+    "index": 576
+  },
+  {
+    "surface": "とばっちり",
+    "reading": "tobacchiri",
+    "code": "0101kc0101",
+    "index": 577
+  },
+  {
+    "surface": "とぼける",
+    "reading": "tobokeru",
+    "code": "01010101",
+    "index": 578
+  },
+  {
+    "surface": "とめどなく",
+    "reading": "tomedonaku",
+    "code": "01010101x1",
+    "index": 579
+  },
+  {
+    "surface": "ともあれ",
+    "reading": "tomoare",
+    "code": "0101101",
+    "index": 580
+  },
+  {
+    "surface": "ともかく",
+    "reading": "tomokaku",
+    "code": "0101x1x1",
+    "index": 581
+  },
+  {
+    "surface": "とやかく",
+    "reading": "toyakaku",
+    "code": "0101x1x1",
+    "index": 582
+  },
+  {
+    "surface": "とりあえず",
+    "reading": "toriaezu",
+    "code": "01011101",
+    "index": 583
+  },
+  {
+    "surface": "とりこ",
+    "reading": "toriko",
+    "code": "0101x1",
+    "index": 584
+  },
+  {
+    "surface": "とりもなおさず",
+    "reading": "torimonaosazu",
+    "code": "0101010110101",
+    "index": 585
+  },
+  {
+    "surface": "とりわけ",
+    "reading": "toriwake",
+    "code": "01010101",
+    "index": 586
+  },
+  {
+    "surface": "どれ",
+    "reading": "dore",
+    "code": "0101",
+    "index": 587
+  },
+  {
+    "surface": "とろろ",
+    "reading": "tororo",
+    "code": "010101",
+    "index": 588
+  },
+  {
+    "surface": "とんちんかん",
+    "reading": "tonnchinnkann",
+    "code": "01n1c01n1x1u1",
+    "index": 589
+  },
+  {
+    "surface": "とんでもない",
+    "reading": "tonndemonai",
+    "code": "01n10101011",
+    "index": 590
+  },
+  {
+    "surface": "とんぼ",
+    "reading": "tonnbo",
+    "code": "01n101",
+    "index": 591
+  },
+  {
+    "surface": "ないがしろ",
+    "reading": "naigashiro",
+    "code": "01101s0101",
+    "index": 592
+  },
+  {
+    "surface": "なえる",
+    "reading": "naeru",
+    "code": "01101",
+    "index": 593
+  },
+  {
+    "surface": "なおさら",
+    "reading": "naosara",
+    "code": "0110101",
+    "index": 594
+  },
+  {
+    "surface": "なげやり",
+    "reading": "nageyari",
+    "code": "01010101",
+    "index": 595
+  },
+  {
+    "surface": "なじむ",
+    "reading": "nazimu",
+    "code": "01j101",
+    "index": 596
+  },
+  {
+    "surface": "なす",
+    "reading": "nasu",
+    "code": "0101",
+    "index": 597
+  },
+  {
+    "surface": "なぜ",
+    "reading": "naze",
+    "code": "0101",
+    "index": 598
+  },
+  {
+    "surface": "なだめる",
+    "reading": "nadameru",
+    "code": "01010101",
+    "index": 599
+  },
+  {
+    "surface": "なでる",
+    "reading": "naderu",
+    "code": "010101",
+    "index": 600
+  },
+  {
+    "surface": "なびく",
+    "reading": "nabiku",
+    "code": "0101x1",
+    "index": 601
+  },
+  {
+    "surface": "なべ",
+    "reading": "nabe",
+    "code": "0101",
+    "index": 602
+  },
+  {
+    "surface": "なまこ",
+    "reading": "namako",
+    "code": "0101x1",
+    "index": 603
+  },
+  {
+    "surface": "なまぬるい",
+    "reading": "namanurui",
+    "code": "010101011",
+    "index": 604
+  },
+  {
+    "surface": "よぼよぼ",
+    "reading": "yoboyobo",
+    "code": "01010101",
+    "index": 605
+  },
+  {
+    "surface": "なまめかしい",
+    "reading": "namamekashii",
+    "code": "010101x1s011",
+    "index": 606
+  },
+  {
+    "surface": "なまやさしい",
+    "reading": "namayasashii",
+    "code": "01010101s011",
+    "index": 607
+  },
+  {
+    "surface": "なまり",
+    "reading": "namari",
+    "code": "010101",
+    "index": 608
+  },
+  {
+    "surface": "なめくじ",
+    "reading": "namekuzi",
+    "code": "0101x1j1",
+    "index": 609
+  },
+  {
+    "surface": "なめこ",
+    "reading": "nameko",
+    "code": "0101x1",
+    "index": 610
+  },
+  {
+    "surface": "なめる",
+    "reading": "nameru",
+    "code": "010101",
+    "index": 611
+  },
+  {
+    "surface": "なりふり",
+    "reading": "narihuri",
+    "code": "0101f101",
+    "index": 612
+  },
+  {
+    "surface": "なるべく",
+    "reading": "narubeku",
+    "code": "010101x1",
+    "index": 613
+  },
+  {
+    "surface": "なるほど",
+    "reading": "naruhodo",
+    "code": "01010101",
+    "index": 614
+  },
+  {
+    "surface": "におい",
+    "reading": "nioi",
+    "code": "0111",
+    "index": 615
+  },
+  {
+    "surface": "にきび",
+    "reading": "nikibi",
+    "code": "010101",
+    "index": 616
+  },
+  {
+    "surface": "にぎやか",
+    "reading": "nigiyaka",
+    "code": "010101x1",
+    "index": 617
+  },
+  {
+    "surface": "にこやか",
+    "reading": "nikoyaka",
+    "code": "01x101x1",
+    "index": 618
+  },
+  {
+    "surface": "にらむ",
+    "reading": "niramu",
+    "code": "010101",
+    "index": 619
+  },
+  {
+    "surface": "にわかに",
+    "reading": "niwakani",
+    "code": "0101x101",
+    "index": 620
+  },
+  {
+    "surface": "ぬぐう",
+    "reading": "nuguu",
+    "code": "01011",
+    "index": 621
+  },
+  {
+    "surface": "ぬめり",
+    "reading": "numeri",
+    "code": "010101",
+    "index": 622
+  },
+  {
+    "surface": "ぬらす",
+    "reading": "nurasu",
+    "code": "010101",
+    "index": 623
+  },
+  {
+    "surface": "ぬるい",
+    "reading": "nurui",
+    "code": "01011",
+    "index": 624
+  },
+  {
+    "surface": "ねえさん",
+    "reading": "neesann",
+    "code": "01101u1",
+    "index": 625
+  },
+  {
+    "surface": "ねぎ",
+    "reading": "negi",
+    "code": "0101",
+    "index": 626
+  },
+  {
+    "surface": "ねじる",
+    "reading": "neziru",
+    "code": "01j101",
+    "index": 627
+  },
+  {
+    "surface": "ねずみ",
+    "reading": "nezumi",
+    "code": "010101",
+    "index": 628
+  },
+  {
+    "surface": "ねたみ",
+    "reading": "netami",
+    "code": "010101",
+    "index": 629
+  },
+  {
+    "surface": "ねだる",
+    "reading": "nedaru",
+    "code": "010101",
+    "index": 630
+  },
+  {
+    "surface": "ねんざ",
+    "reading": "nennza",
+    "code": "01n101",
+    "index": 631
+  },
+  {
+    "surface": "のけぞる",
+    "reading": "nokezoru",
+    "code": "01010101",
+    "index": 632
+  },
+  {
+    "surface": "のこぎり",
+    "reading": "nokogiri",
+    "code": "01x10101",
+    "index": 633
+  },
+  {
+    "surface": "のしかかる",
+    "reading": "noshikakaru",
+    "code": "01s01x1x101",
+    "index": 634
+  },
+  {
+    "surface": "のど",
+    "reading": "nodo",
+    "code": "0101",
+    "index": 635
+  },
+  {
+    "surface": "のどか",
+    "reading": "nodoka",
+    "code": "0101x1",
+    "index": 636
+  },
+  {
+    "surface": "ののしる",
+    "reading": "nonoshiru",
+    "code": "0101s0101",
+    "index": 637
+  },
+  {
+    "surface": "のぼせる",
+    "reading": "noboseru",
+    "code": "01010101",
+    "index": 638
+  },
+  {
+    "surface": "のり",
+    "reading": "nori",
+    "code": "0101",
+    "index": 639
+  },
+  {
+    "surface": "のろけ",
+    "reading": "noroke",
+    "code": "010101",
+    "index": 640
+  },
+  {
+    "surface": "のろのろ",
+    "reading": "noronoro",
+    "code": "01010101",
+    "index": 641
+  },
+  {
+    "surface": "のんき",
+    "reading": "nonnki",
+    "code": "01n101",
+    "index": 642
+  },
+  {
+    "surface": "ばあさん",
+    "reading": "baasann",
+    "code": "01101u1",
+    "index": 643
+  },
+  {
+    "surface": "はえ",
+    "reading": "hae",
+    "code": "011",
+    "index": 644
+  },
+  {
+    "surface": "はかどる",
+    "reading": "hakadoru",
+    "code": "01x10101",
+    "index": 645
+  },
+  {
+    "surface": "はかない",
+    "reading": "hakanai",
+    "code": "01x1011",
+    "index": 646
+  },
+  {
+    "surface": "ばかばかしい",
+    "reading": "bakabakashii",
+    "code": "01x101x1s011",
+    "index": 647
+  },
+  {
+    "surface": "はがれる",
+    "reading": "hagareru",
+    "code": "01010101",
+    "index": 648
+  },
+  {
+    "surface": "はぐらかす",
+    "reading": "hagurakasu",
+    "code": "010101x101",
+    "index": 649
+  },
+  {
+    "surface": "はぐれる",
+    "reading": "hagureru",
+    "code": "01010101",
+    "index": 650
+  },
+  {
+    "surface": "はげ",
+    "reading": "hage",
+    "code": "0101",
+    "index": 651
+  },
+  {
+    "surface": "はさみ",
+    "reading": "hasami",
+    "code": "010101",
+    "index": 652
+  },
+  {
+    "surface": "はしご",
+    "reading": "hashigo",
+    "code": "01s0101",
+    "index": 653
+  },
+  {
+    "surface": "はしたない",
+    "reading": "hashitanai",
+    "code": "01s0101011",
+    "index": 654
+  },
+  {
+    "surface": "はしょる",
+    "reading": "hashoru",
+    "code": "010a101",
+    "index": 655
+  },
+  {
+    "surface": "はずみ",
+    "reading": "hazumi",
+    "code": "010101",
+    "index": 656
+  },
+  {
+    "surface": "はたく",
+    "reading": "hataku",
+    "code": "0101x1",
+    "index": 657
+  },
+  {
+    "surface": "はだける",
+    "reading": "hadakeru",
+    "code": "01010101",
+    "index": 658
+  },
+  {
+    "surface": "はちみつ",
+    "reading": "hachimitsu",
+    "code": "01c0101t01",
+    "index": 659
+  },
+  {
+    "surface": "ばった",
+    "reading": "batta",
+    "code": "01101",
+    "index": 660
+  },
+  {
+    "surface": "はと",
+    "reading": "hato",
+    "code": "0101",
+    "index": 661
+  },
+  {
+    "surface": "はなむけ",
+    "reading": "hanamuke",
+    "code": "01010101",
+    "index": 662
+  },
+  {
+    "surface": "はにかむ",
+    "reading": "hanikamu",
+    "code": "0101x101",
+    "index": 663
+  },
+  {
+    "surface": "はまぐり",
+    "reading": "hamaguri",
+    "code": "01010101",
+    "index": 664
+  },
+  {
+    "surface": "はまる",
+    "reading": "hamaru",
+    "code": "010101",
+    "index": 665
+  },
+  {
+    "surface": "はめる",
+    "reading": "hameru",
+    "code": "010101",
+    "index": 666
+  },
+  {
+    "surface": "はやり",
+    "reading": "hayari",
+    "code": "010101",
+    "index": 667
+  },
+  {
+    "surface": "おはらい",
+    "reading": "oharai",
+    "code": "101011",
+    "index": 668
+  },
+  {
+    "surface": "ばらまく",
+    "reading": "baramaku",
+    "code": "010101x1",
+    "index": 669
+  },
+  {
+    "surface": "はらわた",
+    "reading": "harawata",
+    "code": "01010101",
+    "index": 670
+  },
+  {
+    "surface": "はるか",
+    "reading": "haruka",
+    "code": "0101x1",
+    "index": 671
+  },
+  {
+    "surface": "はんこ",
+    "reading": "hannko",
+    "code": "01n1x1",
+    "index": 672
+  },
+  {
+    "surface": "ばんそうこう",
+    "reading": "bannsoukou",
+    "code": "01n1011x11",
+    "index": 673
+  },
+  {
+    "surface": "ひいき",
+    "reading": "hiiki",
+    "code": "01101",
+    "index": 674
+  },
+  {
+    "surface": "ひがむ",
+    "reading": "higamu",
+    "code": "010101",
+    "index": 675
+  },
+  {
+    "surface": "ひきつる",
+    "reading": "hikitsuru",
+    "code": "0101t0101",
+    "index": 676
+  },
+  {
+    "surface": "ひげそり",
+    "reading": "higesori",
+    "code": "01010101",
+    "index": 677
+  },
+  {
+    "surface": "ひざ",
+    "reading": "hiza",
+    "code": "0101",
+    "index": 678
+  },
+  {
+    "surface": "びしょぬれ",
+    "reading": "bishonure",
+    "code": "010a10101",
+    "index": 679
+  },
+  {
+    "surface": "ひじき",
+    "reading": "hiziki",
+    "code": "01j101",
+    "index": 680
+  },
+  {
+    "surface": "直径",
+    "reading": "chokkei",
+    "code": "gh01001",
+    "index": 681
+  },
+  {
+    "surface": "ひたすら",
+    "reading": "hitasura",
+    "code": "01010101",
+    "index": 682
+  },
+  {
+    "surface": "ひたむき",
+    "reading": "hitamuki",
+    "code": "01010101",
+    "index": 683
+  },
+  {
+    "surface": "ひっかく",
+    "reading": "hikkaku",
+    "code": "01zV1x1",
+    "index": 684
+  },
+  {
+    "surface": "ひっきりなしに",
+    "reading": "hikkirinashini",
+    "code": "011010101s0101",
+    "index": 685
+  },
+  {
+    "surface": "びっくり",
+    "reading": "bikkuri",
+    "code": "01zV101",
+    "index": 686
+  },
+  {
+    "surface": "ひったくり",
+    "reading": "hittakuri",
+    "code": "01101x101",
+    "index": 687
+  },
+  {
+    "surface": "ひとえに",
+    "reading": "hitoeni",
+    "code": "0101101",
+    "index": 688
+  },
+  {
+    "surface": "ひときわ",
+    "reading": "hitokiwa",
+    "code": "01010101",
+    "index": 689
+  },
+  {
+    "surface": "ひとしお",
+    "reading": "hitoshio",
+    "code": "0101s011",
+    "index": 690
+  },
+  {
+    "surface": "ひとたまりもない",
+    "reading": "hitotamarimonai",
+    "code": "010101010101011",
+    "index": 691
+  },
+  {
+    "surface": "ひとまず",
+    "reading": "hitomazu",
+    "code": "01010101",
+    "index": 692
+  },
+  {
+    "surface": "ひとりでに",
+    "reading": "hitorideni",
+    "code": "0101010101",
+    "index": 693
+  },
+  {
+    "surface": "ひねくれる",
+    "reading": "hinekureru",
+    "code": "0101x10101",
+    "index": 694
+  },
+  {
+    "surface": "ひねる",
+    "reading": "hineru",
+    "code": "010101",
+    "index": 695
+  },
+  {
+    "surface": "ひばり",
+    "reading": "hibari",
+    "code": "010101",
+    "index": 696
+  },
+  {
+    "surface": "ひまわり",
+    "reading": "himawari",
+    "code": "01010101",
+    "index": 697
+  },
+  {
+    "surface": "ひもじい",
+    "reading": "himozii",
+    "code": "0101j11",
+    "index": 698
+  },
+  {
+    "surface": "ひらめく",
+    "reading": "hirameku",
+    "code": "010101x1",
+    "index": 699
+  },
+  {
+    "surface": "ひるむ",
+    "reading": "hirumu",
+    "code": "010101",
+    "index": 700
+  },
+  {
+    "surface": "ふがいない",
+    "reading": "hugainai",
+    "code": "f1011011",
+    "index": 701
+  },
+  {
+    "surface": "ふくよか",
+    "reading": "hukuyoka",
+    "code": "f1x101x1",
+    "index": 702
+  },
+  {
+    "surface": "ふくらはぎ",
+    "reading": "hukurahagi",
+    "code": "f1x1010101",
+    "index": 703
+  },
+  {
+    "surface": "ふくろう",
+    "reading": "hukurou",
+    "code": "f1x1011",
+    "index": 704
+  },
+  {
+    "surface": "ふざける",
+    "reading": "huzakeru",
+    "code": "f1010101",
+    "index": 705
+  },
+  {
+    "surface": "ルンルン",
+    "reading": "runnrunn",
+    "code": "01n101u1",
+    "index": 706
+  },
+  {
+    "surface": "ぶざま",
+    "reading": "buzama",
+    "code": "010101",
+    "index": 707
+  },
+  {
+    "surface": "ふさわしい",
+    "reading": "husawashii",
+    "code": "f10101s011",
+    "index": 708
+  },
+  {
+    "surface": "ぶしつけ",
+    "reading": "bushitsuke",
+    "code": "01s01t0101",
+    "index": 709
+  },
+  {
+    "surface": "ふた",
+    "reading": "huta",
+    "code": "f101",
+    "index": 710
+  },
+  {
+    "surface": "ぶつかる",
+    "reading": "butsukaru",
+    "code": "01t01x101",
+    "index": 711
+  },
+  {
+    "surface": "ふつつか",
+    "reading": "hutsutsuka",
+    "code": "f1t01t01x1",
+    "index": 712
+  },
+  {
+    "surface": "ふてくされ",
+    "reading": "hutekusare",
+    "code": "f101x10101",
+    "index": 713
+  },
+  {
+    "surface": "ぶどう",
+    "reading": "budou",
+    "code": "01011",
+    "index": 714
+  },
+  {
+    "surface": "ふぬけ",
+    "reading": "hunuke",
+    "code": "f10101",
+    "index": 715
+  },
+  {
+    "surface": "ふびん",
+    "reading": "hubinn",
+    "code": "f101u1",
+    "index": 716
+  },
+  {
+    "surface": "ふやける",
+    "reading": "huyakeru",
+    "code": "f1010101",
+    "index": 717
+  },
+  {
+    "surface": "ふらつく",
+    "reading": "huratsuku",
+    "code": "f101t01x1",
+    "index": 718
+  },
+  {
+    "surface": "ぶらんこ",
+    "reading": "burannko",
+    "code": "0101n1x1",
+    "index": 719
+  },
+  {
+    "surface": "ふんぎり",
+    "reading": "hunngiri",
+    "code": "f1n10101",
+    "index": 720
+  },
+  {
+    "surface": "ふんどし",
+    "reading": "hunndoshi",
+    "code": "f1n101s01",
+    "index": 721
+  },
+  {
+    "surface": "ふんばる",
+    "reading": "hunnbaru",
+    "code": "f1n10101",
+    "index": 722
+  },
+  {
+    "surface": "へこむ",
+    "reading": "hekomu",
+    "code": "01x101",
+    "index": 723
+  },
+  {
+    "surface": "へそ",
+    "reading": "heso",
+    "code": "0101",
+    "index": 724
+  },
+  {
+    "surface": "へつらう",
+    "reading": "hetsurau",
+    "code": "01t01011",
+    "index": 725
+  },
+  {
+    "surface": "へんてこ",
+    "reading": "hennteko",
+    "code": "01n101x1",
+    "index": 726
+  },
+  {
+    "surface": "へんぴ",
+    "reading": "hennpi",
+    "code": "01n101",
+    "index": 727
+  },
+  {
+    "surface": "ほうき",
+    "reading": "houki",
+    "code": "01101",
+    "index": 728
+  },
+  {
+    "surface": "ほおずり",
+    "reading": "hoozuri",
+    "code": "0110101",
+    "index": 729
+  },
+  {
+    "surface": "ほおばる",
+    "reading": "hoobaru",
+    "code": "0110101",
+    "index": 730
+  },
+  {
+    "surface": "ぼかす",
+    "reading": "bokasu",
+    "code": "01x101",
+    "index": 731
+  },
+  {
+    "surface": "ほぐす",
+    "reading": "hogusu",
+    "code": "010101",
+    "index": 732
+  },
+  {
+    "surface": "ほくろ",
+    "reading": "hokuro",
+    "code": "01x101",
+    "index": 733
+  },
+  {
+    "surface": "ぼける",
+    "reading": "bokeru",
+    "code": "010101",
+    "index": 734
+  },
+  {
+    "surface": "ほこりっぽい",
+    "reading": "hokorippoi",
+    "code": "01x1011011",
+    "index": 735
+  },
+  {
+    "surface": "ほったらかす",
+    "reading": "hottarakasu",
+    "code": "0110101x101",
+    "index": 736
+  },
+  {
+    "surface": "ほっぺた",
+    "reading": "hoppeta",
+    "code": "0110101",
+    "index": 737
+  },
+  {
+    "surface": "ほつれる",
+    "reading": "hotsureru",
+    "code": "01t010101",
+    "index": 738
+  },
+  {
+    "surface": "ほどほど",
+    "reading": "hodohodo",
+    "code": "01010101",
+    "index": 739
+  },
+  {
+    "surface": "ほとぼり",
+    "reading": "hotobori",
+    "code": "01010101",
+    "index": 740
+  },
+  {
+    "surface": "ほとんど",
+    "reading": "hotonndo",
+    "code": "0101n101",
+    "index": 741
+  },
+  {
+    "surface": "ほのか",
+    "reading": "honoka",
+    "code": "0101x1",
+    "index": 742
+  },
+  {
+    "surface": "ほのめかす",
+    "reading": "honomekasu",
+    "code": "010101x101",
+    "index": 743
+  },
+  {
+    "surface": "ほぼ",
+    "reading": "hobo",
+    "code": "0101",
+    "index": 744
+  },
+  {
+    "surface": "ぼや",
+    "reading": "boya",
+    "code": "0101",
+    "index": 745
+  },
+  {
+    "surface": "ぼやく",
+    "reading": "boyaku",
+    "code": "0101x1",
+    "index": 746
+  },
+  {
+    "surface": "ほれる",
+    "reading": "horeru",
+    "code": "010101",
+    "index": 747
+  },
+  {
+    "surface": "まくしたてる",
+    "reading": "makushitateru",
+    "code": "01x1s01010101",
+    "index": 748
+  },
+  {
+    "surface": "まぐろ",
+    "reading": "maguro",
+    "code": "010101",
+    "index": 749
+  },
+  {
+    "surface": "まごつく",
+    "reading": "magotsuku",
+    "code": "0101t01x1",
+    "index": 750
+  },
+  {
+    "surface": "まさか",
+    "reading": "masaka",
+    "code": "0101x1",
+    "index": 751
+  },
+  {
+    "surface": "まして",
+    "reading": "mashite",
+    "code": "01s0101",
+    "index": 752
+  },
+  {
+    "surface": "まじめ",
+    "reading": "mazime",
+    "code": "01j101",
+    "index": 753
+  },
+  {
+    "surface": "まずい",
+    "reading": "mazui",
+    "code": "01011",
+    "index": 754
+  },
+  {
+    "surface": "ますます",
+    "reading": "masumasu",
+    "code": "01010101",
+    "index": 755
+  },
+  {
+    "surface": "まずまず",
+    "reading": "mazumazu",
+    "code": "01010101",
+    "index": 756
+  },
+  {
+    "surface": "またがる",
+    "reading": "matagaru",
+    "code": "01010101",
+    "index": 757
+  },
+  {
+    "surface": "まだしも",
+    "reading": "madashimo",
+    "code": "0101s0101",
+    "index": 758
+  },
+  {
+    "surface": "まだら",
+    "reading": "madara",
+    "code": "010101",
+    "index": 759
+  },
+  {
+    "surface": "まちまち",
+    "reading": "machimachi",
+    "code": "01c0101c01",
+    "index": 760
+  },
+  {
+    "surface": "まっしぐら",
+    "reading": "masshigura",
+    "code": "011s010101",
+    "index": 761
+  },
+  {
+    "surface": "まっすぐ",
+    "reading": "massugu",
+    "code": "0110101",
+    "index": 762
+  },
+  {
+    "surface": "まとめ",
+    "reading": "matome",
+    "code": "010101",
+    "index": 763
+  },
+  {
+    "surface": "まとも",
+    "reading": "matomo",
+    "code": "010101",
+    "index": 764
+  },
+  {
+    "surface": "まぶしい",
+    "reading": "mabushii",
+    "code": "0101s011",
+    "index": 765
+  },
+  {
+    "surface": "まぶた",
+    "reading": "mabuta",
+    "code": "010101",
+    "index": 766
+  },
+  {
+    "surface": "まばたく",
+    "reading": "mabataku",
+    "code": "010101x1",
+    "index": 767
+  },
+  {
+    "surface": "ままごと",
+    "reading": "mamagoto",
+    "code": "01010101",
+    "index": 768
+  },
+  {
+    "surface": "まるで",
+    "reading": "marude",
+    "code": "010101",
+    "index": 769
+  },
+  {
+    "surface": "まるまる",
+    "reading": "marumaru",
+    "code": "01010101",
+    "index": 770
+  },
+  {
+    "surface": "まんじゅう",
+    "reading": "mannzyuu",
+    "code": "01n1e111",
+    "index": 771
+  },
+  {
+    "surface": "まんまと",
+    "reading": "mannmato",
+    "code": "01n10101",
+    "index": 772
+  },
+  {
+    "surface": "みかん",
+    "reading": "mikann",
+    "code": "01x1u1",
+    "index": 773
+  },
+  {
+    "surface": "みじんも",
+    "reading": "mizinnmo",
+    "code": "01j1n101",
+    "index": 774
+  },
+  {
+    "surface": "みすぼらしい",
+    "reading": "misuborashii",
+    "code": "01010101s011",
+    "index": 775
+  },
+  {
+    "surface": "みずみずしい",
+    "reading": "mizumizushii",
+    "code": "01010101s011",
+    "index": 776
+  },
+  {
+    "surface": "みそ",
+    "reading": "miso",
+    "code": "0101",
+    "index": 777
+  },
+  {
+    "surface": "みぞおち",
+    "reading": "mizoochi",
+    "code": "01011c01",
+    "index": 778
+  },
+  {
+    "surface": "みだりに",
+    "reading": "midarini",
+    "code": "01010101",
+    "index": 779
+  },
+  {
+    "surface": "みっともない",
+    "reading": "mittomonai",
+    "code": "0110101011",
+    "index": 780
+  },
+  {
+    "surface": "みみず",
+    "reading": "mimizu",
+    "code": "010101",
+    "index": 781
+  },
+  {
+    "surface": "みるみる",
+    "reading": "mirumiru",
+    "code": "01010101",
+    "index": 782
+  },
+  {
+    "surface": "むき",
+    "reading": "muki",
+    "code": "0101",
+    "index": 783
+  },
+  {
+    "surface": "むげに",
+    "reading": "mugeni",
+    "code": "010101",
+    "index": 784
+  },
+  {
+    "surface": "むごい",
+    "reading": "mugoi",
+    "code": "01011",
+    "index": 785
+  },
+  {
+    "surface": "むさぼる",
+    "reading": "musaboru",
+    "code": "01010101",
+    "index": 786
+  },
+  {
+    "surface": "むしる",
+    "reading": "mushiru",
+    "code": "01s0101",
+    "index": 787
+  },
+  {
+    "surface": "むしろ",
+    "reading": "mushiro",
+    "code": "01s0101",
+    "index": 788
+  },
+  {
+    "surface": "むせる",
+    "reading": "museru",
+    "code": "010101",
+    "index": 789
+  },
+  {
+    "surface": "むなしい",
+    "reading": "munashii",
+    "code": "0101s011",
+    "index": 790
+  },
+  {
+    "surface": "むやみに",
+    "reading": "muyamini",
+    "code": "01010101",
+    "index": 791
+  },
+  {
+    "surface": "めいる",
+    "reading": "meiru",
+    "code": "01101",
+    "index": 792
+  },
+  {
+    "surface": "めくる",
+    "reading": "mekuru",
+    "code": "01x101",
+    "index": 793
+  },
+  {
+    "surface": "めげる",
+    "reading": "megeru",
+    "code": "010101",
+    "index": 794
+  },
+  {
+    "surface": "めちゃくちゃ",
+    "reading": "mechakucha",
+    "code": "01gi1x1gi1",
+    "index": 795
+  },
+  {
+    "surface": "めっきり",
+    "reading": "mekkiri",
+    "code": "0110101",
+    "index": 796
+  },
+  {
+    "surface": "めったに",
+    "reading": "mettani",
+    "code": "0110101",
+    "index": 797
+  },
+  {
+    "surface": "めっぽう",
+    "reading": "meppou",
+    "code": "011011",
+    "index": 798
+  },
+  {
+    "surface": "めでたい",
+    "reading": "medetai",
+    "code": "0101011",
+    "index": 799
+  },
+  {
+    "surface": "めまい",
+    "reading": "memai",
+    "code": "01011",
+    "index": 800
+  },
+  {
+    "surface": "もうける",
+    "reading": "moukeru",
+    "code": "0110101",
+    "index": 801
+  },
+  {
+    "surface": "もうろう",
+    "reading": "mourou",
+    "code": "011011",
+    "index": 802
+  },
+  {
+    "surface": "もうろく",
+    "reading": "mouroku",
+    "code": "01101x1",
+    "index": 803
+  },
+  {
+    "surface": "もがく",
+    "reading": "mogaku",
+    "code": "0101x1",
+    "index": 804
+  },
+  {
+    "surface": "もぐら",
+    "reading": "mogura",
+    "code": "010101",
+    "index": 805
+  },
+  {
+    "surface": "もし",
+    "reading": "moshi",
+    "code": "01s01",
+    "index": 806
+  },
+  {
+    "surface": "もだえる",
+    "reading": "modaeru",
+    "code": "0101101",
+    "index": 807
+  },
+  {
+    "surface": "もたらす",
+    "reading": "motarasu",
+    "code": "01010101",
+    "index": 808
+  },
+  {
+    "surface": "もたれる",
+    "reading": "motareru",
+    "code": "01010101",
+    "index": 809
+  },
+  {
+    "surface": "もちろん",
+    "reading": "mochironn",
+    "code": "01c0101u1",
+    "index": 810
+  },
+  {
+    "surface": "もってのほか",
+    "reading": "mottenohoka",
+    "code": "011010101x1",
+    "index": 811
+  },
+  {
+    "surface": "もっと",
+    "reading": "motto",
+    "code": "01101",
+    "index": 812
+  },
+  {
+    "surface": "もつれる",
+    "reading": "motsureru",
+    "code": "01t010101",
+    "index": 813
+  },
+  {
+    "surface": "もてあそぶ",
+    "reading": "moteasobu",
+    "code": "010110101",
+    "index": 814
+  },
+  {
+    "surface": "もてなす",
+    "reading": "motenasu",
+    "code": "01010101",
+    "index": 815
+  },
+  {
+    "surface": "もてはやす",
+    "reading": "motehayasu",
+    "code": "0101010101",
+    "index": 816
+  },
+  {
+    "surface": "もどかしい",
+    "reading": "modokashii",
+    "code": "0101x1s011",
+    "index": 817
+  },
+  {
+    "surface": "もともと",
+    "reading": "motomoto",
+    "code": "01010101",
+    "index": 818
+  },
+  {
+    "surface": "ものすごい",
+    "reading": "monosugoi",
+    "code": "010101011",
+    "index": 819
+  },
+  {
+    "surface": "ものものしい",
+    "reading": "monomonoshii",
+    "code": "01010101s011",
+    "index": 820
+  },
+  {
+    "surface": "もはや",
+    "reading": "mohaya",
+    "code": "010101",
+    "index": 821
+  },
+  {
+    "surface": "もむ",
+    "reading": "momu",
+    "code": "0101",
+    "index": 822
+  },
+  {
+    "surface": "もらう",
+    "reading": "morau",
+    "code": "01011",
+    "index": 823
+  },
+  {
+    "surface": "もやし",
+    "reading": "moyashi",
+    "code": "0101s01",
+    "index": 824
+  },
+  {
+    "surface": "やがて",
+    "reading": "yagate",
+    "code": "010101",
+    "index": 825
+  },
+  {
+    "surface": "やかましい",
+    "reading": "yakamashii",
+    "code": "01x101s011",
+    "index": 826
+  },
+  {
+    "surface": "やかん",
+    "reading": "yakann",
+    "code": "01x1u1",
+    "index": 827
+  },
+  {
+    "surface": "やくざ",
+    "reading": "yakuza",
+    "code": "01x101",
+    "index": 828
+  },
+  {
+    "surface": "やけくそ",
+    "reading": "yakekuso",
+    "code": "0101x101",
+    "index": 829
+  },
+  {
+    "surface": "やけど",
+    "reading": "yakedo",
+    "code": "010101",
+    "index": 830
+  },
+  {
+    "surface": "やじ",
+    "reading": "yazi",
+    "code": "01j1",
+    "index": 831
+  },
+  {
+    "surface": "やせる",
+    "reading": "yaseru",
+    "code": "010101",
+    "index": 832
+  },
+  {
+    "surface": "やたら",
+    "reading": "yatara",
+    "code": "010101",
+    "index": 833
+  },
+  {
+    "surface": "やっぱり",
+    "reading": "yappari",
+    "code": "0110101",
+    "index": 834
+  },
+  {
+    "surface": "やつれる",
+    "reading": "yatsureru",
+    "code": "01t010101",
+    "index": 835
+  },
+  {
+    "surface": "やはり",
+    "reading": "yahari",
+    "code": "010101",
+    "index": 836
+  },
+  {
+    "surface": "やましい",
+    "reading": "yamashii",
+    "code": "0101s011",
+    "index": 837
+  },
+  {
+    "surface": "やむをえず",
+    "reading": "yamuwoezu",
+    "code": "010101101",
+    "index": 838
+  },
+  {
+    "surface": "ややこしい",
+    "reading": "yayakoshii",
+    "code": "0101x1s011",
+    "index": 839
+  },
+  {
+    "surface": "やりくり",
+    "reading": "yarikuri",
+    "code": "0101x101",
+    "index": 840
+  },
+  {
+    "surface": "ゆがむ",
+    "reading": "yugamu",
+    "code": "010101",
+    "index": 841
+  },
+  {
+    "surface": "ゆでる",
+    "reading": "yuderu",
+    "code": "010101",
+    "index": 842
+  },
+  {
+    "surface": "ようやく",
+    "reading": "youyaku",
+    "code": "01101x1",
+    "index": 843
+  },
+  {
+    "surface": "よぎる",
+    "reading": "yogiru",
+    "code": "010101",
+    "index": 844
+  },
+  {
+    "surface": "よそよそしい",
+    "reading": "yosoyososhii",
+    "code": "01010101s011",
+    "index": 845
+  },
+  {
+    "surface": "よだれ",
+    "reading": "yodare",
+    "code": "010101",
+    "index": 846
+  },
+  {
+    "surface": "よちよち",
+    "reading": "yochiyochi",
+    "code": "01c0101c01",
+    "index": 847
+  },
+  {
+    "surface": "よどむ",
+    "reading": "yodomu",
+    "code": "010101",
+    "index": 848
+  },
+  {
+    "surface": "よろしい",
+    "reading": "yoroshii",
+    "code": "0101s011",
+    "index": 849
+  },
+  {
+    "surface": "りす",
+    "reading": "risu",
+    "code": "0101",
+    "index": 850
+  },
+  {
+    "surface": "りんご",
+    "reading": "rinngo",
+    "code": "01n101",
+    "index": 851
+  },
+  {
+    "surface": "れんが",
+    "reading": "rennga",
+    "code": "01n101",
+    "index": 852
+  },
+  {
+    "surface": "れんこん",
+    "reading": "rennkonn",
+    "code": "01n1x1u1",
+    "index": 853
+  },
+  {
+    "surface": "ろうそく",
+    "reading": "rousoku",
+    "code": "01101x1",
+    "index": 854
+  },
+  {
+    "surface": "わがまま",
+    "reading": "wagamama",
+    "code": "01010101",
+    "index": 855
+  },
+  {
+    "surface": "わかめ",
+    "reading": "wakame",
+    "code": "01x101",
+    "index": 856
+  },
+  {
+    "surface": "わきまえる",
+    "reading": "wakimaeru",
+    "code": "010101101",
+    "index": 857
+  },
+  {
+    "surface": "わざと",
+    "reading": "wazato",
+    "code": "010101",
+    "index": 858
+  },
+  {
+    "surface": "わさび",
+    "reading": "wasabi",
+    "code": "010101",
+    "index": 859
+  },
+  {
+    "surface": "わざわざ",
+    "reading": "wazawaza",
+    "code": "01010101",
+    "index": 860
+  },
+  {
+    "surface": "わずか",
+    "reading": "wazuka",
+    "code": "0101x1",
+    "index": 861
+  },
+  {
+    "surface": "わだかまり",
+    "reading": "wadakamari",
+    "code": "0101x10101",
+    "index": 862
+  },
+  {
+    "surface": "わびしい",
+    "reading": "wabishii",
+    "code": "0101s011",
+    "index": 863
+  },
+  {
+    "surface": "わめく",
+    "reading": "wameku",
+    "code": "0101x1",
+    "index": 864
+  }
+]

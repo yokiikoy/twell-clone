@@ -1,0 +1,6008 @@
+[
+  {
+    "surface": "開いた口が塞がらない",
+    "reading": "aitakuchigahusagaranai",
+    "code": "1101x0c0101f0010101011",
+    "index": 0
+  },
+  {
+    "surface": "赤子の手をひねる",
+    "reading": "akagonotewohineru",
+    "code": "0x101010101010101",
+    "index": 1
+  },
+  {
+    "surface": "悪銭身につかず",
+    "reading": "akusennminitsukazu",
+    "code": "0x100n10101t01x101",
+    "index": 2
+  },
+  {
+    "surface": "悪事千里を走る",
+    "reading": "akuzisennriwohashiru",
+    "code": "0x1j100n1010100s0101",
+    "index": 3
+  },
+  {
+    "surface": "明日は明日の風が吹く",
+    "reading": "ashitahaashitanokazegahuku",
+    "code": "0s0101010s010101x00101f1x1",
+    "index": 4
+  },
+  {
+    "surface": "後の祭り",
+    "reading": "atonomatsuri",
+    "code": "0010100t0101",
+    "index": 5
+  },
+  {
+    "surface": "中らずといえども遠からず",
+    "reading": "atarazutoiedomotookarazu",
+    "code": "001010101110101001x10101",
+    "index": 6
+  },
+  {
+    "surface": "頭隠して尻隠さず",
+    "reading": "atamakakushiteshirikakusazu",
+    "code": "00001x0x1s0101s0001x0x10101",
+    "index": 7
+  },
+  {
+    "surface": "暑さ寒さも彼岸まで",
+    "reading": "atsusasamusamohigannmade",
+    "code": "0t0101000101010100n10101",
+    "index": 8
+  },
+  {
+    "surface": "羹に懲りて膾を吹く",
+    "reading": "atsumononikoritenamasuwohuku",
+    "code": "0t00000101x1010100000101f1x1",
+    "index": 9
+  },
+  {
+    "surface": "後は野となれ山となれ",
+    "reading": "atohanotonareyamatonare",
+    "code": "00101010101010001010101",
+    "index": 10
+  },
+  {
+    "surface": "穴があったら入りたい",
+    "reading": "anagaattarahairitai",
+    "code": "0010111010100101011",
+    "index": 11
+  },
+  {
+    "surface": "危ない橋を渡る",
+    "reading": "abunaihashiwowataru",
+    "code": "00101100s0101000101",
+    "index": 12
+  },
+  {
+    "surface": "虻蜂取らず",
+    "reading": "abuhachitorazu",
+    "code": "00100c01010101",
+    "index": 13
+  },
+  {
+    "surface": "痘痕もえくぼ",
+    "reading": "abatamoekubo",
+    "code": "00101011x101",
+    "index": 14
+  },
+  {
+    "surface": "雨垂れ石を穿つ",
+    "reading": "amadareishiwougatsu",
+    "code": "00101010s0101001t01",
+    "index": 15
+  },
+  {
+    "surface": "余り物には福がある",
+    "reading": "amarimononihahukugaaru",
+    "code": "0010100010101f0x101101",
+    "index": 16
+  },
+  {
+    "surface": "飴と鞭",
+    "reading": "ametomuchi",
+    "code": "0010100c01",
+    "index": 17
+  },
+  {
+    "surface": "雨降って地固まる",
+    "reading": "amehuttezikatamaru",
+    "code": "001f1101j1x0010101",
+    "index": 18
+  },
+  {
+    "surface": "嵐の前の静けさ",
+    "reading": "arashinomaenoshizukesa",
+    "code": "000s010100101s00010101",
+    "index": 19
+  },
+  {
+    "surface": "慌てる乞食は貰いが少ない",
+    "reading": "awaterukozikihamoraigasukunai",
+    "code": "0010101x1j00101000110100x1011",
+    "index": 20
+  },
+  {
+    "surface": "案ずるより生むが易し",
+    "reading": "annzuruyoriumugayasushi",
+    "code": "0n101010101101010001s01",
+    "index": 21
+  },
+  {
+    "surface": "言うは易し行うは難し",
+    "reading": "iuhayasushiokonauhakatashi",
+    "code": "11010001s010x001101x001s01",
+    "index": 22
+  },
+  {
+    "surface": "石の上にも三年",
+    "reading": "ishinouenimosannnenn",
+    "code": "0s010101010100N1v0u1",
+    "index": 23
+  },
+  {
+    "surface": "石橋を叩いて渡る",
+    "reading": "ishibashiwotataitewataru",
+    "code": "0s0100s01010001101000101",
+    "index": 24
+  },
+  {
+    "surface": "一期一会",
+    "reading": "ichigoichie",
+    "code": "0c01010c011",
+    "index": 25
+  },
+  {
+    "surface": "一度あることは二度ある",
+    "reading": "ichidoarukotohanidoaru",
+    "code": "0c0101101x101010101101",
+    "index": 26
+  },
+  {
+    "surface": "急がば回れ",
+    "reading": "isogabamaware",
+    "code": "0010101000101",
+    "index": 27
+  },
+  {
+    "surface": "痛くない腹を探られる",
+    "reading": "itakunaiharawosagurareru",
+    "code": "001x10110001010001010101",
+    "index": 28
+  },
+  {
+    "surface": "一芸は道に通ずる",
+    "reading": "ichigeihamichinitsuuzuru",
+    "code": "0c010010100c0101t0010101",
+    "index": 29
+  },
+  {
+    "surface": "一難去ってまた一難",
+    "reading": "ichinannsattemataichinann",
+    "code": "0c0100n10110101010c0100u1",
+    "index": 30
+  },
+  {
+    "surface": "一刻千金",
+    "reading": "ikkokusennkinn",
+    "code": "0zV0x100n100u1",
+    "index": 31
+  },
+  {
+    "surface": "一寸先は闇",
+    "reading": "issunnsakihayami",
+    "code": "0100n10001010001",
+    "index": 32
+  },
+  {
+    "surface": "一寸の虫にも五分の魂",
+    "reading": "issunnnomushinimogobunotamashii",
+    "code": "0100N1v100s0101010101010000s001",
+    "index": 33
+  },
+  {
+    "surface": "一石二鳥",
+    "reading": "issekinichou",
+    "code": "01000101gh01",
+    "index": 34
+  },
+  {
+    "surface": "犬も歩けば棒に当たる",
+    "reading": "inumoarukebabouniataru",
+    "code": "0010100101010010110101",
+    "index": 35
+  },
+  {
+    "surface": "命あっての物種",
+    "reading": "inochiattenomonodane",
+    "code": "000c0111010100010001",
+    "index": 36
+  },
+  {
+    "surface": "鰯の頭も信心から",
+    "reading": "iwashinoatamamoshinnzinnkara",
+    "code": "000s01010000101s00n1j0n1x101",
+    "index": 37
+  },
+  {
+    "surface": "言わぬが花",
+    "reading": "iwanugahana",
+    "code": "10101010001",
+    "index": 38
+  },
+  {
+    "surface": "因果応報",
+    "reading": "inngaouhou",
+    "code": "0n10101001",
+    "index": 39
+  },
+  {
+    "surface": "烏合の衆",
+    "reading": "ugounoshuu",
+    "code": "1001010d01",
+    "index": 40
+  },
+  {
+    "surface": "雨後の筍",
+    "reading": "ugonotakenoko",
+    "code": "10101000000x1",
+    "index": 41
+  },
+  {
+    "surface": "後ろ髪を引かれる",
+    "reading": "ushirogamiwohikareru",
+    "code": "0s010100010101x10101",
+    "index": 42
+  },
+  {
+    "surface": "後ろ指を指される",
+    "reading": "ushiroyubiwosasareru",
+    "code": "0s010100010101010101",
+    "index": 43
+  },
+  {
+    "surface": "嘘つきは泥棒の始まり",
+    "reading": "usotsukihadorobounohazimari",
+    "code": "001t01010100010010100j10101",
+    "index": 44
+  },
+  {
+    "surface": "独活の大木",
+    "reading": "udonotaiboku",
+    "code": "1010100100x1",
+    "index": 45
+  },
+  {
+    "surface": "鰻の寝床",
+    "reading": "unaginonedoko",
+    "code": "00001010100x1",
+    "index": 46
+  },
+  {
+    "surface": "鵜の真似する烏",
+    "reading": "unomanesurukarasu",
+    "code": "10101010101x00001",
+    "index": 47
+  },
+  {
+    "surface": "馬の耳に念仏",
+    "reading": "umanomimininennbutsu",
+    "code": "0010100010100n100t01",
+    "index": 48
+  },
+  {
+    "surface": "売り言葉に買い言葉",
+    "reading": "urikotobanikaikotoba",
+    "code": "101x0010101x11x00101",
+    "index": 49
+  },
+  {
+    "surface": "瓜二つ",
+    "reading": "urihutatsu",
+    "code": "001f001t01",
+    "index": 50
+  },
+  {
+    "surface": "雲泥の差",
+    "reading": "unndeinosa",
+    "code": "0n10010101",
+    "index": 51
+  },
+  {
+    "surface": "運を天に任せる",
+    "reading": "unnwotennnimakaseru",
+    "code": "0n10100N1v100x10101",
+    "index": 52
+  },
+  {
+    "surface": "絵に描いた餅",
+    "reading": "enikaitamochi",
+    "code": "101x110100c01",
+    "index": 53
+  },
+  {
+    "surface": "えびで鯛を釣る",
+    "reading": "ebidetaiwotsuru",
+    "code": "1010100101t0101",
+    "index": 54
+  },
+  {
+    "surface": "縁の下の力持ち",
+    "reading": "ennnoshitanochikaramochi",
+    "code": "0N1v1s000101c00x00101c01",
+    "index": 55
+  },
+  {
+    "surface": "老いては子に従え",
+    "reading": "oitehakonishitagae",
+    "code": "110101x101s0000011",
+    "index": 56
+  },
+  {
+    "surface": "奥歯に物が挟まる",
+    "reading": "okubanimonogahasamaru",
+    "code": "0x1010100010100010101",
+    "index": 57
+  },
+  {
+    "surface": "同じ穴の狢",
+    "reading": "onaziananomuzina",
+    "code": "001j10010100j001",
+    "index": 58
+  },
+  {
+    "surface": "同じ釜の飯を食う",
+    "reading": "onazikamanomeshiwokuu",
+    "code": "001j1x0010100s0101x11",
+    "index": 59
+  },
+  {
+    "surface": "鬼に金棒",
+    "reading": "oninikanabou",
+    "code": "00101x001001",
+    "index": 60
+  },
+  {
+    "surface": "鬼の居ぬ間に洗濯",
+    "reading": "oninoinumanisenntaku",
+    "code": "00101101010100n100x1",
+    "index": 61
+  },
+  {
+    "surface": "鬼の目にも涙",
+    "reading": "oninomenimonamida",
+    "code": "00101010101000001",
+    "index": 62
+  },
+  {
+    "surface": "帯に短し襷に長し",
+    "reading": "obinimizikashitasukininagashi",
+    "code": "0010100j0x1s01000001010001s01",
+    "index": 63
+  },
+  {
+    "surface": "尾鰭をつける",
+    "reading": "ohirewotsukeru",
+    "code": "1000101t010101",
+    "index": 64
+  },
+  {
+    "surface": "溺れる者は藁をも掴む",
+    "reading": "oborerumonohawarawomotsukamu",
+    "code": "001010100010100010101t00x101",
+    "index": 65
+  },
+  {
+    "surface": "親の脛を齧る",
+    "reading": "oyanosunewokaziru",
+    "code": "00101000101x0j101",
+    "index": 66
+  },
+  {
+    "surface": "親の心子知らず",
+    "reading": "oyanokokorokoshirazu",
+    "code": "00101x0x001x1s010101",
+    "index": 67
+  },
+  {
+    "surface": "恩を仇で返す",
+    "reading": "onnwoadadekaesu",
+    "code": "0n10100101x0101",
+    "index": 68
+  },
+  {
+    "surface": "親はなくとも子は育つ",
+    "reading": "oyahanakutomokohasodatsu",
+    "code": "0010101x10101x1010001t01",
+    "index": 69
+  },
+  {
+    "surface": "飼い犬に手を噛まれる",
+    "reading": "kaiinunitewokamareru",
+    "code": "x11001010101x1010101",
+    "index": 70
+  },
+  {
+    "surface": "隗より始めよ",
+    "reading": "kaiyorihazimeyo",
+    "code": "x01010100j10101",
+    "index": 71
+  },
+  {
+    "surface": "蛙の子は蛙",
+    "reading": "kaerunokohakaeru",
+    "code": "x000101x101x0001",
+    "index": 72
+  },
+  {
+    "surface": "学問に王道なし",
+    "reading": "gakumonnnioudounashi",
+    "code": "00x100N1v10100101s01",
+    "index": 73
+  },
+  {
+    "surface": "臥薪嘗胆",
+    "reading": "gashinnshoutann",
+    "code": "01s00n10d0100u1",
+    "index": 74
+  },
+  {
+    "surface": "火中の栗を拾う",
+    "reading": "kachuunokuriwohirou",
+    "code": "x1gh0101x0010100011",
+    "index": 75
+  },
+  {
+    "surface": "勝って兜の緒を締めよ",
+    "reading": "kattekabutonoowoshimeyo",
+    "code": "x1101x0000101101s010101",
+    "index": 76
+  },
+  {
+    "surface": "我田引水",
+    "reading": "gadenninnsui",
+    "code": "0100N1vn1001",
+    "index": 77
+  },
+  {
+    "surface": "金が物を言う",
+    "reading": "kanegamonowoiu",
+    "code": "x0010100010111",
+    "index": 78
+  },
+  {
+    "surface": "金の切れ目が縁の切れ目",
+    "reading": "kanenokiremegaennnokireme",
+    "code": "x00101010101010N1v1010101",
+    "index": 79
+  },
+  {
+    "surface": "金は天下の回り物",
+    "reading": "kanehatennkanomawarimono",
+    "code": "x0010100n1x1010001010001",
+    "index": 80
+  },
+  {
+    "surface": "壁に耳あり障子に目あり",
+    "reading": "kabenimimiarishouzinimeari",
+    "code": "x0010100011010d01j10101101",
+    "index": 81
+  },
+  {
+    "surface": "果報は寝て待て",
+    "reading": "kahouhanetemate",
+    "code": "x10010101010101",
+    "index": 82
+  },
+  {
+    "surface": "亀の甲より年の功",
+    "reading": "kamenokouyoritoshinokou",
+    "code": "x00101x01010100s0101x01",
+    "index": 83
+  },
+  {
+    "surface": "痒い所に手が届く",
+    "reading": "kayuitokoronitegatodoku",
+    "code": "x001100x0010101010001x1",
+    "index": 84
+  },
+  {
+    "surface": "烏の行水",
+    "reading": "karasunogyouzui",
+    "code": "x00001010001001",
+    "index": 85
+  },
+  {
+    "surface": "閑古鳥が鳴く",
+    "reading": "kannkodoriganaku",
+    "code": "x0n1x100010101x1",
+    "index": 86
+  },
+  {
+    "surface": "堪忍袋の緒が切れる",
+    "reading": "kannninnbukuronoogakireru",
+    "code": "x0N1v0n100x00101101010101",
+    "index": 87
+  },
+  {
+    "surface": "雉も鳴かずば打たれまい",
+    "reading": "kizimonakazubautaremai",
+    "code": "00j10101x1010110101011",
+    "index": 88
+  },
+  {
+    "surface": "窮鼠猫を噛む",
+    "reading": "kyuusonekowokamu",
+    "code": "00010100x101x101",
+    "index": 89
+  },
+  {
+    "surface": "漁夫の利",
+    "reading": "gyohunori",
+    "code": "001f10101",
+    "index": 90
+  },
+  {
+    "surface": "清水の舞台から飛び降りる",
+    "reading": "kiyomizunobutaikaratobioriru",
+    "code": "000100010101001x101010110101",
+    "index": 91
+  },
+  {
+    "surface": "木を見て森を見ず",
+    "reading": "kiwomitemoriwomizu",
+    "code": "010101010001010101",
+    "index": 92
+  },
+  {
+    "surface": "金科玉条",
+    "reading": "kinnkagyokuzyou",
+    "code": "00n1x1000x1b001",
+    "index": 93
+  },
+  {
+    "surface": "苦あれば楽あり",
+    "reading": "kuarebarakuari",
+    "code": "x11010100x1101",
+    "index": 94
+  },
+  {
+    "surface": "釘を刺す",
+    "reading": "kugiwosasu",
+    "code": "x001010101",
+    "index": 95
+  },
+  {
+    "surface": "臭い物に蓋",
+    "reading": "kusaimononihuta",
+    "code": "x0011000101f001",
+    "index": 96
+  },
+  {
+    "surface": "腐っても鯛",
+    "reading": "kusattemotai",
+    "code": "x00110101001",
+    "index": 97
+  },
+  {
+    "surface": "国破れて山河あり",
+    "reading": "kuniyaburetesanngaari",
+    "code": "x0010001010100n101101",
+    "index": 98
+  },
+  {
+    "surface": "苦杯を嘗める",
+    "reading": "kuhaiwonameru",
+    "code": "x100101010101",
+    "index": 99
+  },
+  {
+    "surface": "雲を掴む",
+    "reading": "kumowotsukamu",
+    "code": "x00101t00x101",
+    "index": 100
+  },
+  {
+    "surface": "苦しいときの神頼み",
+    "reading": "kurushiitokinokamidanomi",
+    "code": "x001s011010101x001000101",
+    "index": 101
+  },
+  {
+    "surface": "君子危うきに近寄らず",
+    "reading": "kunnshiayaukinichikayorazu",
+    "code": "x0n1s0100110101c00x1010101",
+    "index": 102
+  },
+  {
+    "surface": "怪我の功名",
+    "reading": "keganokoumyou",
+    "code": "010101x010001",
+    "index": 103
+  },
+  {
+    "surface": "芸は身を助ける",
+    "reading": "geihamiwotasukeru",
+    "code": "00101010100010101",
+    "index": 104
+  },
+  {
+    "surface": "下駄を預ける",
+    "reading": "getawoazukeru",
+    "code": "0101010010101",
+    "index": 105
+  },
+  {
+    "surface": "犬猿の仲",
+    "reading": "kennennnonaka",
+    "code": "00N1vN1v100x1",
+    "index": 106
+  },
+  {
+    "surface": "喧嘩両成敗",
+    "reading": "kennkaryouseibai",
+    "code": "00n1x10001001001",
+    "index": 107
+  },
+  {
+    "surface": "乾坤一擲",
+    "reading": "kennkonnitteki",
+    "code": "00n1x0N1v10001",
+    "index": 108
+  },
+  {
+    "surface": "光陰矢の如し",
+    "reading": "kouinnyanogotoshi",
+    "code": "x010N1v1010001s01",
+    "index": 109
+  },
+  {
+    "surface": "後悔先に立たず",
+    "reading": "koukaisakinitatazu",
+    "code": "x01x01000101010101",
+    "index": 110
+  },
+  {
+    "surface": "郷に入っては郷に従え",
+    "reading": "gouniittehagounishitagae",
+    "code": "0010111010100101s0000011",
+    "index": 111
+  },
+  {
+    "surface": "弘法も筆の誤り",
+    "reading": "kouboumohudenoayamari",
+    "code": "x0100101f001010000101",
+    "index": 112
+  },
+  {
+    "surface": "弘法筆を選ばず",
+    "reading": "koubouhudewoerabazu",
+    "code": "x01001f001010010101",
+    "index": 113
+  },
+  {
+    "surface": "沽券にかかわる",
+    "reading": "kokennnikakawaru",
+    "code": "x100N1v1x1x10101",
+    "index": 114
+  },
+  {
+    "surface": "心を鬼にする",
+    "reading": "kokorowooninisuru",
+    "code": "x0x00101001010101",
+    "index": 115
+  },
+  {
+    "surface": "五十歩百歩",
+    "reading": "gozippohyappo",
+    "code": "01j1001001001",
+    "index": 116
+  },
+  {
+    "surface": "転ばぬ先の杖",
+    "reading": "korobanusakinotsue",
+    "code": "x0010101000101t001",
+    "index": 117
+  },
+  {
+    "surface": "歳月人を待たず",
+    "reading": "saigetsuhitowomatazu",
+    "code": "00100t01000101010101",
+    "index": 118
+  },
+  {
+    "surface": "先んずれば人を制す",
+    "reading": "sakinnzurebahitowoseisu",
+    "code": "0001n101010100010100101",
+    "index": 119
+  },
+  {
+    "surface": "猿も木から落ちる",
+    "reading": "sarumokikaraochiru",
+    "code": "00010101x1011c0101",
+    "index": 120
+  },
+  {
+    "surface": "去る者は日々に疎し",
+    "reading": "sarumonohahibiniutoshi",
+    "code": "0101000101010101001s01",
+    "index": 121
+  },
+  {
+    "surface": "触らぬ神に祟りなし",
+    "reading": "sawaranukaminitatarinashi",
+    "code": "00010101x0010100010101s01",
+    "index": 122
+  },
+  {
+    "surface": "三十六計逃げるに如かず",
+    "reading": "sannzyuurokkeinigerunishikazu",
+    "code": "00n1b00100100101010101s01x101",
+    "index": 123
+  },
+  {
+    "surface": "三度目の正直",
+    "reading": "sanndomenoshouziki",
+    "code": "00n10101010d01j001",
+    "index": 124
+  },
+  {
+    "surface": "三人寄れば文殊の知恵",
+    "reading": "sannninnyorebamonnzyunochie",
+    "code": "00N1v0N1v1010100n1b0101c011",
+    "index": 125
+  },
+  {
+    "surface": "敷居が高い",
+    "reading": "shikiigatakai",
+    "code": "s000110100x11",
+    "index": 126
+  },
+  {
+    "surface": "地獄の沙汰も金次第",
+    "reading": "zigokunosatamokaneshidai",
+    "code": "j100x101010101x001s01001",
+    "index": 127
+  },
+  {
+    "surface": "地獄耳",
+    "reading": "zigokumimi",
+    "code": "j100x10001",
+    "index": 128
+  },
+  {
+    "surface": "親しき仲にも礼儀あり",
+    "reading": "shitashikinakanimoreigiari",
+    "code": "s0001s010100x1010100101101",
+    "index": 129
+  },
+  {
+    "surface": "死人に口なし",
+    "reading": "shininnnikuchinashi",
+    "code": "s0100N1v1x0c0101s01",
+    "index": 130
+  },
+  {
+    "surface": "四面楚歌",
+    "reading": "shimennsoka",
+    "code": "s0100n101x1",
+    "index": 131
+  },
+  {
+    "surface": "十人十色",
+    "reading": "zyuuninntoiro",
+    "code": "b00100n101001",
+    "index": 132
+  },
+  {
+    "surface": "雌雄を決する",
+    "reading": "shiyuuwokessuru",
+    "code": "s01001010010101",
+    "index": 133
+  },
+  {
+    "surface": "酒池肉林",
+    "reading": "shuchinikurinn",
+    "code": "0d1c0100x100u1",
+    "index": 134
+  },
+  {
+    "surface": "朱に交われば赤くなる",
+    "reading": "shunimaziwarebaakakunaru",
+    "code": "0d10100j10101010x1x10101",
+    "index": 135
+  },
+  {
+    "surface": "順風満帆",
+    "reading": "zyunnpuumannpann",
+    "code": "b00n100100n100u1",
+    "index": 136
+  },
+  {
+    "surface": "春眠暁を覚えず",
+    "reading": "shunnminnakatsukiwooboezu",
+    "code": "0d0n100N1vx0t000101001101",
+    "index": 137
+  },
+  {
+    "surface": "小異を捨てて大同につく",
+    "reading": "shouiwosutetedaidounitsuku",
+    "code": "0d0110101010100100101t01x1",
+    "index": 138
+  },
+  {
+    "surface": "正直者が馬鹿を見る",
+    "reading": "shouzikimonogabakawomiru",
+    "code": "0d01j00100010101x1010101",
+    "index": 139
+  },
+  {
+    "surface": "初心忘るべからず",
+    "reading": "shoshinnwasurubekarazu",
+    "code": "0d1s00n100010101x10101",
+    "index": 140
+  },
+  {
+    "surface": "知らぬが仏",
+    "reading": "shiranugahotoke",
+    "code": "s01010101000001",
+    "index": 141
+  },
+  {
+    "surface": "白羽の矢が立つ",
+    "reading": "shirahanoyagatatsu",
+    "code": "s00010101010101t01",
+    "index": 142
+  },
+  {
+    "surface": "尻馬に乗る",
+    "reading": "shiriumaninoru",
+    "code": "s0001001010101",
+    "index": 143
+  },
+  {
+    "surface": "尻切れ蜻蛉",
+    "reading": "shirikiretonnbo",
+    "code": "s0001010100n101",
+    "index": 144
+  },
+  {
+    "surface": "住めば都",
+    "reading": "sumebamiyako",
+    "code": "0101010000x1",
+    "index": 145
+  },
+  {
+    "surface": "水泡に帰す",
+    "reading": "suihounikisu",
+    "code": "001001010101",
+    "index": 146
+  },
+  {
+    "surface": "好きこそ物の上手なれ",
+    "reading": "sukikosomononozyouzunare",
+    "code": "0101x101000101b001010101",
+    "index": 147
+  },
+  {
+    "surface": "雀の涙",
+    "reading": "suzumenonamida",
+    "code": "00000101000001",
+    "index": 148
+  },
+  {
+    "surface": "捨てる神あれば拾う神あり",
+    "reading": "suterukamiarebahiroukamiari",
+    "code": "010101x0011010100011x001101",
+    "index": 149
+  },
+  {
+    "surface": "急いては事を仕損じる",
+    "reading": "seitehakotowoshisonnziru",
+    "code": "0110101x00101s0100n1j101",
+    "index": 150
+  },
+  {
+    "surface": "青天の霹靂",
+    "reading": "seitennnohekireki",
+    "code": "00100N1v100010001",
+    "index": 151
+  },
+  {
+    "surface": "背に腹はかえられぬ",
+    "reading": "seniharahakaerarenu",
+    "code": "0101000101x11010101",
+    "index": 152
+  },
+  {
+    "surface": "千載一遇",
+    "reading": "sennzaiichiguu",
+    "code": "00n10010c01001",
+    "index": 153
+  },
+  {
+    "surface": "船頭多くして船山に上る",
+    "reading": "senndouookushitehuneyamaninoboru",
+    "code": "00n100101x1s0101f001000101000101",
+    "index": 154
+  },
+  {
+    "surface": "善は急げ",
+    "reading": "zennhaisoge",
+    "code": "00n10100101",
+    "index": 155
+  },
+  {
+    "surface": "備えあれば憂いなし",
+    "reading": "sonaearebaureinashi",
+    "code": "0001110101001101s01",
+    "index": 156
+  },
+  {
+    "surface": "対岸の火事",
+    "reading": "taigannnokazi",
+    "code": "00100N1v1x1j1",
+    "index": 157
+  },
+  {
+    "surface": "大は小を兼ねる",
+    "reading": "daihashouwokaneru",
+    "code": "001010d0101x10101",
+    "index": 158
+  },
+  {
+    "surface": "高嶺の花",
+    "reading": "takanenohana",
+    "code": "00x101010001",
+    "index": 159
+  },
+  {
+    "surface": "他山の石",
+    "reading": "tazannnoishi",
+    "code": "0100N1v10s01",
+    "index": 160
+  },
+  {
+    "surface": "蛇足",
+    "reading": "dasoku",
+    "code": "0100x1",
+    "index": 161
+  },
+  {
+    "surface": "叩けばほこりが出る",
+    "reading": "tatakebahokorigaderu",
+    "code": "0001010101x101010101",
+    "index": 162
+  },
+  {
+    "surface": "立つ鳥後を濁さず",
+    "reading": "tatsutoriatowonigosazu",
+    "code": "01t0100010010100010101",
+    "index": 163
+  },
+  {
+    "surface": "立て板に水",
+    "reading": "tateitanimizu",
+    "code": "0101001010001",
+    "index": 164
+  },
+  {
+    "surface": "蓼食う虫も好き好き",
+    "reading": "tadekuumushimosukizuki",
+    "code": "0001x1100s010101010101",
+    "index": 165
+  },
+  {
+    "surface": "棚からぼた餅",
+    "reading": "tanakarabotamochi",
+    "code": "0001x101010100c01",
+    "index": 166
+  },
+  {
+    "surface": "他人の飯を食う",
+    "reading": "taninnnomeshiwokuu",
+    "code": "0100N1v100s0101x11",
+    "index": 167
+  },
+  {
+    "surface": "狸寝入り",
+    "reading": "tanukineiri",
+    "code": "00000101101",
+    "index": 168
+  },
+  {
+    "surface": "宝の持ち腐れ",
+    "reading": "takaranomochigusare",
+    "code": "00x0010101c01000101",
+    "index": 169
+  },
+  {
+    "surface": "旅の恥はかき捨て",
+    "reading": "tabinohazihakakisute",
+    "code": "00010100j101x1010101",
+    "index": 170
+  },
+  {
+    "surface": "旅は道連れ世は情け",
+    "reading": "tabihamichidureyohanasake",
+    "code": "00010100c0101010101000101",
+    "index": 171
+  },
+  {
+    "surface": "玉に瑕",
+    "reading": "tamanikizu",
+    "code": "0001010001",
+    "index": 172
+  },
+  {
+    "surface": "短気は損気",
+    "reading": "tannkihasonnki",
+    "code": "00n1010100n101",
+    "index": 173
+  },
+  {
+    "surface": "断腸の思い",
+    "reading": "dannchounoomoi",
+    "code": "00n1gh01010011",
+    "index": 174
+  },
+  {
+    "surface": "月とすっぽん",
+    "reading": "tsukitosupponn",
+    "code": "t00010101101u1",
+    "index": 175
+  },
+  {
+    "surface": "爪の垢を煎じて飲む",
+    "reading": "tsumenoakawosennzitenomu",
+    "code": "t0001010x10100n1j1010101",
+    "index": 176
+  },
+  {
+    "surface": "鶴の一声",
+    "reading": "tsurunohitokoe",
+    "code": "t0001010001x01",
+    "index": 177
+  },
+  {
+    "surface": "鉄は熱い内に打て",
+    "reading": "tetsuhaatsuiuchiniute",
+    "code": "00t01010t0110c0101101",
+    "index": 178
+  },
+  {
+    "surface": "出る杭は打たれる",
+    "reading": "derukuihautareru",
+    "code": "0101x01011010101",
+    "index": 179
+  },
+  {
+    "surface": "頭角を現す",
+    "reading": "toukakuwoarawasu",
+    "code": "001x0x1010000101",
+    "index": 180
+  },
+  {
+    "surface": "灯台下暗し",
+    "reading": "toudaimotokurashi",
+    "code": "0010010001x001s01",
+    "index": 181
+  },
+  {
+    "surface": "登竜門",
+    "reading": "touryuumonn",
+    "code": "001000100u1",
+    "index": 182
+  },
+  {
+    "surface": "時は金なり",
+    "reading": "tokihakanenari",
+    "code": "000101x0010101",
+    "index": 183
+  },
+  {
+    "surface": "毒にも薬にもならない",
+    "reading": "dokunimokusurinimonaranai",
+    "code": "00x10101x0000101010101011",
+    "index": 184
+  },
+  {
+    "surface": "毒を食わば皿まで",
+    "reading": "dokuwokurawabasaramade",
+    "code": "00x101x001010100010101",
+    "index": 185
+  },
+  {
+    "surface": "毒を以て毒を制す",
+    "reading": "dokuwomottedokuwoseisu",
+    "code": "00x1010010100x10100101",
+    "index": 186
+  },
+  {
+    "surface": "所変われば品変わる",
+    "reading": "tokorokawarebashinakawaru",
+    "code": "00x001x1010101s0001x10101",
+    "index": 187
+  },
+  {
+    "surface": "とどのつまり",
+    "reading": "todonotsumari",
+    "code": "010101t010101",
+    "index": 188
+  },
+  {
+    "surface": "鳶が鷹を産む",
+    "reading": "tobigatakawoumu",
+    "code": "00010100x101101",
+    "index": 189
+  },
+  {
+    "surface": "虎の威を借る狐",
+    "reading": "toranoiwokarukitsune",
+    "code": "000101101x10100t0001",
+    "index": 190
+  },
+  {
+    "surface": "団栗の背くらべ",
+    "reading": "donngurinoseikurabe",
+    "code": "00n1000101001x10101",
+    "index": 191
+  },
+  {
+    "surface": "飛んで火に入る夏の虫",
+    "reading": "tonndehiniirunatsunomushi",
+    "code": "01n101010110100t010100s01",
+    "index": 192
+  },
+  {
+    "surface": "内助の功",
+    "reading": "naizyonokou",
+    "code": "001b0101x01",
+    "index": 193
+  },
+  {
+    "surface": "無い袖は振れぬ",
+    "reading": "naisodehahurenu",
+    "code": "011000101f10101",
+    "index": 194
+  },
+  {
+    "surface": "無い物ねだり",
+    "reading": "naimononedari",
+    "code": "0110001010101",
+    "index": 195
+  },
+  {
+    "surface": "長い物には巻かれろ",
+    "reading": "nagaimononihamakarero",
+    "code": "000110001010101x10101",
+    "index": 196
+  },
+  {
+    "surface": "泣く子は育つ",
+    "reading": "nakukohasodatsu",
+    "code": "01x1x1010001t01",
+    "index": 197
+  },
+  {
+    "surface": "情けは人の為ならず",
+    "reading": "nasakehahitonotamenarazu",
+    "code": "000101010001010001010101",
+    "index": 198
+  },
+  {
+    "surface": "なせば成る",
+    "reading": "nasebanaru",
+    "code": "0101010101",
+    "index": 199
+  },
+  {
+    "surface": "七転び八起き",
+    "reading": "nanakorobiyaoki",
+    "code": "0001x0010101101",
+    "index": 200
+  },
+  {
+    "surface": "習うより慣れろ",
+    "reading": "narauyorinarero",
+    "code": "000110101010101",
+    "index": 201
+  },
+  {
+    "surface": "逃がした魚は大きい",
+    "reading": "nigashitasakanahaookii",
+    "code": "0101s010100x0010101011",
+    "index": 202
+  },
+  {
+    "surface": "逃げるが勝ち",
+    "reading": "nigerugakachi",
+    "code": "01010101x1c01",
+    "index": 203
+  },
+  {
+    "surface": "二束三文",
+    "reading": "nisokusannmonn",
+    "code": "0100x100n100u1",
+    "index": 204
+  },
+  {
+    "surface": "二足のわらじを履く",
+    "reading": "nisokunowaraziwohaku",
+    "code": "0100x1010101j10101x1",
+    "index": 205
+  },
+  {
+    "surface": "似て非なる物",
+    "reading": "nitehinarumono",
+    "code": "01010101010001",
+    "index": 206
+  },
+  {
+    "surface": "煮ても焼いても食えぬ",
+    "reading": "nitemoyaitemokuenu",
+    "code": "0101010110101x1101",
+    "index": 207
+  },
+  {
+    "surface": "二度あることは三度ある",
+    "reading": "nidoarukotohasanndoaru",
+    "code": "0101101x1010100n101101",
+    "index": 208
+  },
+  {
+    "surface": "二番煎じ",
+    "reading": "nibannsennzi",
+    "code": "0100n100n1j1",
+    "index": 209
+  },
+  {
+    "surface": "糠に釘",
+    "reading": "nukanikugi",
+    "code": "00x101x001",
+    "index": 210
+  },
+  {
+    "surface": "濡れ衣を着る",
+    "reading": "nureginuwokiru",
+    "code": "01010001010101",
+    "index": 211
+  },
+  {
+    "surface": "濡れ鼠",
+    "reading": "nurenezumi",
+    "code": "0101000001",
+    "index": 212
+  },
+  {
+    "surface": "願ったり叶ったり",
+    "reading": "negattarikanattari",
+    "code": "000110101x00110101",
+    "index": 213
+  },
+  {
+    "surface": "猫にまたたび",
+    "reading": "nekonimatatabi",
+    "code": "00x10101010101",
+    "index": 214
+  },
+  {
+    "surface": "猫の手も借りたい",
+    "reading": "nekonotemokaritai",
+    "code": "00x1010101x101011",
+    "index": 215
+  },
+  {
+    "surface": "猫も杓子も",
+    "reading": "nekomoshakushimo",
+    "code": "00x1010d0x1s0101",
+    "index": 216
+  },
+  {
+    "surface": "猫をかぶる",
+    "reading": "nekowokaburu",
+    "code": "00x101x10101",
+    "index": 217
+  },
+  {
+    "surface": "寝た子を起こす",
+    "reading": "netakowookosu",
+    "code": "0101x1011x101",
+    "index": 218
+  },
+  {
+    "surface": "根掘り葉掘り",
+    "reading": "nehorihahori",
+    "code": "010101010101",
+    "index": 219
+  },
+  {
+    "surface": "寝耳に水",
+    "reading": "nemiminimizu",
+    "code": "010001010001",
+    "index": 220
+  },
+  {
+    "surface": "年貢の納めどき",
+    "reading": "nenngunoosamedoki",
+    "code": "00n10101001010101",
+    "index": 221
+  },
+  {
+    "surface": "能ある鷹は爪を隠す",
+    "reading": "nouarutakahatsumewokakusu",
+    "code": "00110100x101t000101x0x101",
+    "index": 222
+  },
+  {
+    "surface": "残り物には福がある",
+    "reading": "nokorimononihahukugaaru",
+    "code": "00x10100010101f0x101101",
+    "index": 223
+  },
+  {
+    "surface": "喉から手が出る",
+    "reading": "nodokarategaderu",
+    "code": "0001x10101010101",
+    "index": 224
+  },
+  {
+    "surface": "喉元過ぎれば熱さを忘れる",
+    "reading": "nodomotosugirebaatsusawowasureru",
+    "code": "00010001010101010t01010100010101",
+    "index": 225
+  },
+  {
+    "surface": "のべつ幕なし",
+    "reading": "nobetsumakunashi",
+    "code": "0101t0100x101s01",
+    "index": 226
+  },
+  {
+    "surface": "乗りかかった船",
+    "reading": "norikakattahune",
+    "code": "0101x1x1101f001",
+    "index": 227
+  },
+  {
+    "surface": "伸るか反るか",
+    "reading": "norukasoruka",
+    "code": "0101x10101x1",
+    "index": 228
+  },
+  {
+    "surface": "背水の陣",
+    "reading": "haisuinozinn",
+    "code": "00100101j0u1",
+    "index": 229
+  },
+  {
+    "surface": "馬鹿につける薬はない",
+    "reading": "bakanitsukerukusurihanai",
+    "code": "01x101t010101x0000101011",
+    "index": 230
+  },
+  {
+    "surface": "拍車がかかる",
+    "reading": "hakushagakakaru",
+    "code": "00x10d101x1x101",
+    "index": 231
+  },
+  {
+    "surface": "馬耳東風",
+    "reading": "bazitouhuu",
+    "code": "01j1001f01",
+    "index": 232
+  },
+  {
+    "surface": "箸にも棒にも掛からぬ",
+    "reading": "hashinimobounimokakaranu",
+    "code": "00s0101010010101x1x10101",
+    "index": 233
+  },
+  {
+    "surface": "恥の上塗り",
+    "reading": "hazinouwanuri",
+    "code": "00j1010010101",
+    "index": 234
+  },
+  {
+    "surface": "始めよければ終わりよし",
+    "reading": "hazimeyokerebaowariyoshi",
+    "code": "00j101010101011010101s01",
+    "index": 235
+  },
+  {
+    "surface": "裸一貫",
+    "reading": "hadakaikkann",
+    "code": "0000x10zV0u1",
+    "index": 236
+  },
+  {
+    "surface": "破竹の勢い",
+    "reading": "hachikunoikioi",
+    "code": "01c00x10100011",
+    "index": 237
+  },
+  {
+    "surface": "八方塞がり",
+    "reading": "happouhusagari",
+    "code": "001001f0010101",
+    "index": 238
+  },
+  {
+    "surface": "破天荒",
+    "reading": "hatennkou",
+    "code": "0100n1x01",
+    "index": 239
+  },
+  {
+    "surface": "八方美人",
+    "reading": "happoubizinn",
+    "code": "00100101j0u1",
+    "index": 240
+  },
+  {
+    "surface": "花より団子",
+    "reading": "hanayoridanngo",
+    "code": "0001010100n101",
+    "index": 241
+  },
+  {
+    "surface": "早起きは三文の得",
+    "reading": "hayaokihasannmonnnotoku",
+    "code": "00011010100n100N1v100x1",
+    "index": 242
+  },
+  {
+    "surface": "腹が減っては戦ができぬ",
+    "reading": "haragahettehaikusagadekinu",
+    "code": "00010101101010x00101010101",
+    "index": 243
+  },
+  {
+    "surface": "針のむしろ",
+    "reading": "harinomushiro",
+    "code": "00010101s0101",
+    "index": 244
+  },
+  {
+    "surface": "左団扇",
+    "reading": "hidariuchiwa",
+    "code": "0000010c0101",
+    "index": 245
+  },
+  {
+    "surface": "必要は発明の母",
+    "reading": "hitsuyouhahatsumeinohaha",
+    "code": "00t010010100t01001010001",
+    "index": 246
+  },
+  {
+    "surface": "一筋縄ではいかない",
+    "reading": "hitosuzinawadehaikanai",
+    "code": "000100j1000101011x1011",
+    "index": 247
+  },
+  {
+    "surface": "人は見かけによらぬもの",
+    "reading": "hitohamikakeniyoranumono",
+    "code": "00010101x101010101010101",
+    "index": 248
+  },
+  {
+    "surface": "火に油を注ぐ",
+    "reading": "hiniaburawososogu",
+    "code": "01010000101000101",
+    "index": 249
+  },
+  {
+    "surface": "火の車",
+    "reading": "hinokuruma",
+    "code": "0101x00001",
+    "index": 250
+  },
+  {
+    "surface": "火の無いところに煙は立たぬ",
+    "reading": "hinonaitokoronikemurihatatanu",
+    "code": "010101101x1010100000101010101",
+    "index": 251
+  },
+  {
+    "surface": "百聞は一見にしかず",
+    "reading": "hyakubunnhaikkennnishikazu",
+    "code": "000x100n1010100N1v1s01x101",
+    "index": 252
+  },
+  {
+    "surface": "氷山の一角",
+    "reading": "hyouzannnoikkaku",
+    "code": "000100N1v10zV0x1",
+    "index": 253
+  },
+  {
+    "surface": "瓢箪から駒が出る",
+    "reading": "hyoutannkarakomagaderu",
+    "code": "000100n1x101x001010101",
+    "index": 254
+  },
+  {
+    "surface": "貧乏暇なし",
+    "reading": "binnbouhimanashi",
+    "code": "00n1001000101s01",
+    "index": 255
+  },
+  {
+    "surface": "夫婦喧嘩は犬も食わぬ",
+    "reading": "huuhugennkahainumokuwanu",
+    "code": "f01f100n1x10100101x10101",
+    "index": 256
+  },
+  {
+    "surface": "豚に真珠",
+    "reading": "butanishinnzyu",
+    "code": "000101s00n1b01",
+    "index": 257
+  },
+  {
+    "surface": "踏んだり蹴ったり",
+    "reading": "hunndarikettari",
+    "code": "f1n101010110101",
+    "index": 258
+  },
+  {
+    "surface": "下手の横好き",
+    "reading": "hetanoyokozuki",
+    "code": "01010100x10101",
+    "index": 259
+  },
+  {
+    "surface": "骨折り損のくたびれ儲け",
+    "reading": "honeorizonnnokutabiremouke",
+    "code": "000110100N1v1x101010100101",
+    "index": 260
+  },
+  {
+    "surface": "蒔かぬ種は生えぬ",
+    "reading": "makanutanehahaenu",
+    "code": "01x10100010101101",
+    "index": 261
+  },
+  {
+    "surface": "馬子にも衣装",
+    "reading": "magonimoishou",
+    "code": "0101010110d01",
+    "index": 262
+  },
+  {
+    "surface": "まな板の鯉",
+    "reading": "manaitanokoi",
+    "code": "010100101x01",
+    "index": 263
+  },
+  {
+    "surface": "眉に唾をつける",
+    "reading": "mayunitsubawotsukeru",
+    "code": "000101t000101t010101",
+    "index": 264
+  },
+  {
+    "surface": "身から出た錆",
+    "reading": "mikaradetasabi",
+    "code": "01x10101010001",
+    "index": 265
+  },
+  {
+    "surface": "水と油",
+    "reading": "mizutoabura",
+    "code": "00010100001",
+    "index": 266
+  },
+  {
+    "surface": "三つ子の魂百まで",
+    "reading": "mitsugonotamashiihyakumade",
+    "code": "01t0101010000s001000x10101",
+    "index": 267
+  },
+  {
+    "surface": "身の程を知る",
+    "reading": "minohodowoshiru",
+    "code": "0101000101s0101",
+    "index": 268
+  },
+  {
+    "surface": "坊主丸儲け",
+    "reading": "bouzumarumouke",
+    "code": "00101000100101",
+    "index": 269
+  },
+  {
+    "surface": "和を以て尊しと為す",
+    "reading": "wawomottetoutoshitonasu",
+    "code": "01010010100001s01010101",
+    "index": 270
+  },
+  {
+    "surface": "耳にたこができる",
+    "reading": "miminitakogadekiru",
+    "code": "00010101x101010101",
+    "index": 271
+  },
+  {
+    "surface": "向かうところ敵なし",
+    "reading": "mukautokorotekinashi",
+    "code": "01x1101x101000101s01",
+    "index": 272
+  },
+  {
+    "surface": "目から鱗が落ちる",
+    "reading": "mekaraurokogaochiru",
+    "code": "01x101000x1011c0101",
+    "index": 273
+  },
+  {
+    "surface": "目の上のたんこぶ",
+    "reading": "menouenotannkobu",
+    "code": "0101010101n1x101",
+    "index": 274
+  },
+  {
+    "surface": "目は口ほどに物を言う",
+    "reading": "mehakuchihodonimonowoiu",
+    "code": "0101x0c0101010100010111",
+    "index": 275
+  },
+  {
+    "surface": "元の木阿弥",
+    "reading": "motonomokuami",
+    "code": "00010100x1101",
+    "index": 276
+  },
+  {
+    "surface": "元も子もなくなる",
+    "reading": "motomokomonakunaru",
+    "code": "000101x10101x10101",
+    "index": 277
+  },
+  {
+    "surface": "物は言いよう",
+    "reading": "monohaiiyou",
+    "code": "00010111011",
+    "index": 278
+  },
+  {
+    "surface": "物は試し",
+    "reading": "monohatameshi",
+    "code": "0001010001s01",
+    "index": 279
+  },
+  {
+    "surface": "八百長",
+    "reading": "yaochou",
+    "code": "011gh01",
+    "index": 280
+  },
+  {
+    "surface": "焼け石に水",
+    "reading": "yakeishinimizu",
+    "code": "01010s01010001",
+    "index": 281
+  },
+  {
+    "surface": "安かろう悪かろう",
+    "reading": "yasukarouwarukarou",
+    "code": "0001x10110001x1011",
+    "index": 282
+  },
+  {
+    "surface": "安物買いの銭失い",
+    "reading": "yasumonogainozeniushinai",
+    "code": "000100010110100010s00011",
+    "index": 283
+  },
+  {
+    "surface": "痩せの大食い",
+    "reading": "yasenooogui",
+    "code": "01010101011",
+    "index": 284
+  },
+  {
+    "surface": "藪から棒",
+    "reading": "yabukarabou",
+    "code": "0001x101001",
+    "index": 285
+  },
+  {
+    "surface": "病は気から",
+    "reading": "yamaihakikara",
+    "code": "000010101x101",
+    "index": 286
+  },
+  {
+    "surface": "油断大敵",
+    "reading": "yudanntaiteki",
+    "code": "0100n10010001",
+    "index": 287
+  },
+  {
+    "surface": "横槍を入れる",
+    "reading": "yokoyariwoireru",
+    "code": "00x100010110101",
+    "index": 288
+  },
+  {
+    "surface": "寄らば大樹の陰",
+    "reading": "yorabataizyunokage",
+    "code": "010101001b0101x001",
+    "index": 289
+  },
+  {
+    "surface": "よりを戻す",
+    "reading": "yoriwomodosu",
+    "code": "010101000101",
+    "index": 290
+  },
+  {
+    "surface": "弱り目に祟り目",
+    "reading": "yowarimenitatarime",
+    "code": "000101010100010101",
+    "index": 291
+  },
+  {
+    "surface": "両手に花",
+    "reading": "ryoutenihana",
+    "code": "000101010001",
+    "index": 292
+  },
+  {
+    "surface": "良薬口に苦し",
+    "reading": "ryouyakukuchininigashi",
+    "code": "000100x1x0c01010001s01",
+    "index": 293
+  },
+  {
+    "surface": "臨機応変",
+    "reading": "rinnkiouhenn",
+    "code": "00n1010100u1",
+    "index": 294
+  },
+  {
+    "surface": "類は友を呼ぶ",
+    "reading": "ruihatomowoyobu",
+    "code": "001010001010101",
+    "index": 295
+  },
+  {
+    "surface": "論より証拠",
+    "reading": "ronnyorishouko",
+    "code": "00N1v1010d01x1",
+    "index": 296
+  },
+  {
+    "surface": "禍を転じて福となす",
+    "reading": "wazawaiwotennzitehukutonasu",
+    "code": "00000010100n1j101f0x1010101",
+    "index": 297
+  },
+  {
+    "surface": "渡りに船",
+    "reading": "watarinihune",
+    "code": "00010101f001",
+    "index": 298
+  },
+  {
+    "surface": "渡る世間に鬼はない",
+    "reading": "watarusekennnionihanai",
+    "code": "0001010100N1v100101011",
+    "index": 299
+  },
+  {
+    "surface": "笑う門には福来たる",
+    "reading": "waraukadonihahukukitaru",
+    "code": "00011x0010101f0x1010101",
+    "index": 300
+  },
+  {
+    "surface": "愛敬を振りまく",
+    "reading": "aikyouwohurimaku",
+    "code": "01000101f10101x1",
+    "index": 301
+  },
+  {
+    "surface": "愛想を尽かす",
+    "reading": "aisowotsukasu",
+    "code": "010101t01x101",
+    "index": 302
+  },
+  {
+    "surface": "間に立つ",
+    "reading": "aidanitatsu",
+    "code": "00010101t01",
+    "index": 303
+  },
+  {
+    "surface": "相槌を打つ",
+    "reading": "aiduchiwoutsu",
+    "code": "0100c01011t01",
+    "index": 304
+  },
+  {
+    "surface": "愛の鞭",
+    "reading": "ainomuchi",
+    "code": "010100c01",
+    "index": 305
+  },
+  {
+    "surface": "合間を縫う",
+    "reading": "aimawonuu",
+    "code": "010101011",
+    "index": 306
+  },
+  {
+    "surface": "あうんの呼吸",
+    "reading": "aunnnokokyuu",
+    "code": "11N1v1x10001",
+    "index": 307
+  },
+  {
+    "surface": "青筋を立てる",
+    "reading": "aosuziwotateru",
+    "code": "0100j101010101",
+    "index": 308
+  },
+  {
+    "surface": "青菜に塩",
+    "reading": "aonanishio",
+    "code": "010101s001",
+    "index": 309
+  },
+  {
+    "surface": "煽りを食う",
+    "reading": "aoriwokuu",
+    "code": "010101x11",
+    "index": 310
+  },
+  {
+    "surface": "赤の他人",
+    "reading": "akanotaninn",
+    "code": "0x1010100u1",
+    "index": 311
+  },
+  {
+    "surface": "垢抜ける",
+    "reading": "akanukeru",
+    "code": "0x1010101",
+    "index": 312
+  },
+  {
+    "surface": "赤恥をかく",
+    "reading": "akahaziwokaku",
+    "code": "0x100j101x1x1",
+    "index": 313
+  },
+  {
+    "surface": "あがきが取れない",
+    "reading": "agakigatorenai",
+    "code": "10101010101011",
+    "index": 314
+  },
+  {
+    "surface": "飽きが来る",
+    "reading": "akigakuru",
+    "code": "10101x101",
+    "index": 315
+  },
+  {
+    "surface": "悪運が強い",
+    "reading": "akuunngatsuyoi",
+    "code": "0x10n101t00011",
+    "index": 316
+  },
+  {
+    "surface": "アクが強い",
+    "reading": "akugatsuyoi",
+    "code": "1x101t00011",
+    "index": 317
+  },
+  {
+    "surface": "アクが抜ける",
+    "reading": "akuganukeru",
+    "code": "1x101010101",
+    "index": 318
+  },
+  {
+    "surface": "悪態をつく",
+    "reading": "akutaiwotsuku",
+    "code": "0x100101t01x1",
+    "index": 319
+  },
+  {
+    "surface": "あくびを噛み殺す",
+    "reading": "akubiwokamikorosu",
+    "code": "1x10101x101x00101",
+    "index": 320
+  },
+  {
+    "surface": "あぐらをかく",
+    "reading": "agurawokaku",
+    "code": "1010101x1x1",
+    "index": 321
+  },
+  {
+    "surface": "明けても暮れても",
+    "reading": "aketemokuretemo",
+    "code": "1010101x1010101",
+    "index": 322
+  },
+  {
+    "surface": "揚げ足を取る",
+    "reading": "ageashiwotoru",
+    "code": "1010s01010101",
+    "index": 323
+  },
+  {
+    "surface": "挙げ句の果て",
+    "reading": "agekunohate",
+    "code": "101x1010101",
+    "index": 324
+  },
+  {
+    "surface": "上げ潮に乗る",
+    "reading": "ageshioninoru",
+    "code": "101s001010101",
+    "index": 325
+  },
+  {
+    "surface": "顎が外れる",
+    "reading": "agogahazureru",
+    "code": "0010100010101",
+    "index": 326
+  },
+  {
+    "surface": "顎でしゃくる",
+    "reading": "agodeshakuru",
+    "code": "001010a1x101",
+    "index": 327
+  },
+  {
+    "surface": "顎で使う",
+    "reading": "agodetsukau",
+    "code": "00101t00x11",
+    "index": 328
+  },
+  {
+    "surface": "朝飯前",
+    "reading": "asameshimae",
+    "code": "00100s01001",
+    "index": 329
+  },
+  {
+    "surface": "味なことをやる",
+    "reading": "azinakotowoyaru",
+    "code": "0j101x101010101",
+    "index": 330
+  },
+  {
+    "surface": "味も素っ気もない",
+    "reading": "azimosokkemonai",
+    "code": "0j1010110101011",
+    "index": 331
+  },
+  {
+    "surface": "味をしめる",
+    "reading": "aziwoshimeru",
+    "code": "0j101s010101",
+    "index": 332
+  },
+  {
+    "surface": "足かせになる",
+    "reading": "ashikaseninaru",
+    "code": "0s01x101010101",
+    "index": 333
+  },
+  {
+    "surface": "足が重い",
+    "reading": "ashigaomoi",
+    "code": "0s01010011",
+    "index": 334
+  },
+  {
+    "surface": "足がつく",
+    "reading": "ashigatsuku",
+    "code": "0s0101t01x1",
+    "index": 335
+  },
+  {
+    "surface": "足が出る",
+    "reading": "ashigaderu",
+    "code": "0s01010101",
+    "index": 336
+  },
+  {
+    "surface": "足が棒になる",
+    "reading": "ashigabouninaru",
+    "code": "0s0101001010101",
+    "index": 337
+  },
+  {
+    "surface": "足が向く",
+    "reading": "ashigamuku",
+    "code": "0s010101x1",
+    "index": 338
+  },
+  {
+    "surface": "足が遠のく",
+    "reading": "ashigatoonoku",
+    "code": "0s010100101x1",
+    "index": 339
+  },
+  {
+    "surface": "足蹴にする",
+    "reading": "ashigenisuru",
+    "code": "0s0101010101",
+    "index": 340
+  },
+  {
+    "surface": "足手まといになる",
+    "reading": "ashidematoininaru",
+    "code": "0s010101011010101",
+    "index": 341
+  },
+  {
+    "surface": "足留めを食う",
+    "reading": "ashidomewokuu",
+    "code": "0s01010101x11",
+    "index": 342
+  },
+  {
+    "surface": "足並みが揃う",
+    "reading": "ashinamigasorou",
+    "code": "0s0101010100011",
+    "index": 343
+  },
+  {
+    "surface": "足並みが乱れる",
+    "reading": "ashinamigamidareru",
+    "code": "0s0101010100010101",
+    "index": 344
+  },
+  {
+    "surface": "足に任せる",
+    "reading": "ashinimakaseru",
+    "code": "0s010100x10101",
+    "index": 345
+  },
+  {
+    "surface": "足の踏み場もない",
+    "reading": "ashinohumibamonai",
+    "code": "0s0101f1010101011",
+    "index": 346
+  },
+  {
+    "surface": "足場を失う",
+    "reading": "ashibawoushinau",
+    "code": "0s0101010s00011",
+    "index": 347
+  },
+  {
+    "surface": "足場を固める",
+    "reading": "ashibawokatameru",
+    "code": "0s010101x0010101",
+    "index": 348
+  },
+  {
+    "surface": "足踏みする",
+    "reading": "ashibumisuru",
+    "code": "0s0101010101",
+    "index": 349
+  },
+  {
+    "surface": "足下に火がつく",
+    "reading": "ashimotonihigatsuku",
+    "code": "0s010001010101t01x1",
+    "index": 350
+  },
+  {
+    "surface": "足下にも及ばない",
+    "reading": "ashimotonimooyobanai",
+    "code": "0s010001010100101011",
+    "index": 351
+  },
+  {
+    "surface": "足下を見る",
+    "reading": "ashimotowomiru",
+    "code": "0s010001010101",
+    "index": 352
+  },
+  {
+    "surface": "足を洗う",
+    "reading": "ashiwoarau",
+    "code": "0s01010011",
+    "index": 353
+  },
+  {
+    "surface": "足を踏み入れる",
+    "reading": "ashiwohumiireru",
+    "code": "0s0101f10110101",
+    "index": 354
+  },
+  {
+    "surface": "足をすくう",
+    "reading": "ashiwosukuu",
+    "code": "0s010101x11",
+    "index": 355
+  },
+  {
+    "surface": "足を取られる",
+    "reading": "ashiwotorareru",
+    "code": "0s010101010101",
+    "index": 356
+  },
+  {
+    "surface": "足を伸ばす",
+    "reading": "ashiwonobasu",
+    "code": "0s0101010101",
+    "index": 357
+  },
+  {
+    "surface": "足を運ぶ",
+    "reading": "ashiwohakobu",
+    "code": "0s010100x101",
+    "index": 358
+  },
+  {
+    "surface": "足を引っ張る",
+    "reading": "ashiwohipparu",
+    "code": "0s01010110101",
+    "index": 359
+  },
+  {
+    "surface": "足を棒にする",
+    "reading": "ashiwobounisuru",
+    "code": "0s0101001010101",
+    "index": 360
+  },
+  {
+    "surface": "足を休める",
+    "reading": "ashiwoyasumeru",
+    "code": "0s010100010101",
+    "index": 361
+  },
+  {
+    "surface": "明日に備える",
+    "reading": "asunisonaeru",
+    "code": "101010001101",
+    "index": 362
+  },
+  {
+    "surface": "明日は我が身",
+    "reading": "asuhawagami",
+    "code": "10101010101",
+    "index": 363
+  },
+  {
+    "surface": "汗をかく",
+    "reading": "asewokaku",
+    "code": "00101x1x1",
+    "index": 364
+  },
+  {
+    "surface": "汗を流す",
+    "reading": "asewonagasu",
+    "code": "00101000101",
+    "index": 365
+  },
+  {
+    "surface": "当たり障りがない",
+    "reading": "atarisawariganai",
+    "code": "1010100010101011",
+    "index": 366
+  },
+  {
+    "surface": "当たりをつける",
+    "reading": "atariwotsukeru",
+    "code": "1010101t010101",
+    "index": 367
+  },
+  {
+    "surface": "頭をもたげる",
+    "reading": "atamawomotageru",
+    "code": "000010101010101",
+    "index": 368
+  },
+  {
+    "surface": "頭を突っ込む",
+    "reading": "atamawotsukkomu",
+    "code": "0000101t01zV101",
+    "index": 369
+  },
+  {
+    "surface": "値千金",
+    "reading": "ataisennkinn",
+    "code": "000100n100u1",
+    "index": 370
+  },
+  {
+    "surface": "当たって砕けろ",
+    "reading": "atattekudakero",
+    "code": "101101x0010101",
+    "index": 371
+  },
+  {
+    "surface": "頭打ちになる",
+    "reading": "atamauchininaru",
+    "code": "000011c01010101",
+    "index": 372
+  },
+  {
+    "surface": "頭が上がらない",
+    "reading": "atamagaagaranai",
+    "code": "000010110101011",
+    "index": 373
+  },
+  {
+    "surface": "頭が痛い",
+    "reading": "atamagaitai",
+    "code": "00001010011",
+    "index": 374
+  },
+  {
+    "surface": "頭が重い",
+    "reading": "atamagaomoi",
+    "code": "00001010011",
+    "index": 375
+  },
+  {
+    "surface": "頭が固い",
+    "reading": "atamagakatai",
+    "code": "0000101x0011",
+    "index": 376
+  },
+  {
+    "surface": "頭が切れる",
+    "reading": "atamagakireru",
+    "code": "0000101010101",
+    "index": 377
+  },
+  {
+    "surface": "頭が下がる",
+    "reading": "atamagasagaru",
+    "code": "0000101010101",
+    "index": 378
+  },
+  {
+    "surface": "頭が低い",
+    "reading": "atamagahikui",
+    "code": "000010100x11",
+    "index": 379
+  },
+  {
+    "surface": "頭が古い",
+    "reading": "atamagahurui",
+    "code": "0000101f0011",
+    "index": 380
+  },
+  {
+    "surface": "頭が割れるよう",
+    "reading": "atamagawareruyou",
+    "code": "0000101010101011",
+    "index": 381
+  },
+  {
+    "surface": "頭でっかち",
+    "reading": "atamadekkachi",
+    "code": "0000101zV1c01",
+    "index": 382
+  },
+  {
+    "surface": "頭に入れる",
+    "reading": "atamaniireru",
+    "code": "000010110101",
+    "index": 383
+  },
+  {
+    "surface": "頭に来る",
+    "reading": "atamanikuru",
+    "code": "0000101x101",
+    "index": 384
+  },
+  {
+    "surface": "頭に血が上る",
+    "reading": "atamanichiganoboru",
+    "code": "0000101c0101000101",
+    "index": 385
+  },
+  {
+    "surface": "頭を痛める",
+    "reading": "atamawoitameru",
+    "code": "00001010010101",
+    "index": 386
+  },
+  {
+    "surface": "頭を抱える",
+    "reading": "atamawokakaeru",
+    "code": "0000101x0x1101",
+    "index": 387
+  },
+  {
+    "surface": "頭を掻く",
+    "reading": "atamawokaku",
+    "code": "0000101x1x1",
+    "index": 388
+  },
+  {
+    "surface": "頭を切り替える",
+    "reading": "atamawokirikaeru",
+    "code": "00001010101x1101",
+    "index": 389
+  },
+  {
+    "surface": "頭が真っ白になる",
+    "reading": "atamagamasshironinaru",
+    "code": "0000101011s0001010101",
+    "index": 390
+  },
+  {
+    "surface": "頭を下げる",
+    "reading": "atamawosageru",
+    "code": "0000101010101",
+    "index": 391
+  },
+  {
+    "surface": "頭を絞る",
+    "reading": "atamawoshiboru",
+    "code": "0000101s000101",
+    "index": 392
+  },
+  {
+    "surface": "頭をひねる",
+    "reading": "atamawohineru",
+    "code": "0000101010101",
+    "index": 393
+  },
+  {
+    "surface": "頭を冷やす",
+    "reading": "atamawohiyasu",
+    "code": "0000101010101",
+    "index": 394
+  },
+  {
+    "surface": "頭を丸める",
+    "reading": "atamawomarumeru",
+    "code": "000010100010101",
+    "index": 395
+  },
+  {
+    "surface": "辺り構わず",
+    "reading": "atarikamawazu",
+    "code": "00101x0010101",
+    "index": 396
+  },
+  {
+    "surface": "呆気に取られる",
+    "reading": "akkenitorareru",
+    "code": "01010101010101",
+    "index": 397
+  },
+  {
+    "surface": "あっと言わせる",
+    "reading": "attoiwaseru",
+    "code": "11011010101",
+    "index": 398
+  },
+  {
+    "surface": "圧力をかける",
+    "reading": "atsuryokuwokakeru",
+    "code": "0t01000x101x10101",
+    "index": 399
+  },
+  {
+    "surface": "当てが外れる",
+    "reading": "ategahazureru",
+    "code": "1010100010101",
+    "index": 400
+  },
+  {
+    "surface": "後味が悪い",
+    "reading": "atoazigawarui",
+    "code": "0010j10100011",
+    "index": 401
+  },
+  {
+    "surface": "後押しをする",
+    "reading": "atooshiwosuru",
+    "code": "0011s01010101",
+    "index": 402
+  },
+  {
+    "surface": "後がない",
+    "reading": "atoganai",
+    "code": "00101011",
+    "index": 403
+  },
+  {
+    "surface": "後釜に据える",
+    "reading": "atogamanisueru",
+    "code": "00100010101101",
+    "index": 404
+  },
+  {
+    "surface": "後腐れがない",
+    "reading": "atokusareganai",
+    "code": "001x0010101011",
+    "index": 405
+  },
+  {
+    "surface": "後口が悪い",
+    "reading": "atokuchigawarui",
+    "code": "001x0c010100011",
+    "index": 406
+  },
+  {
+    "surface": "後先になる",
+    "reading": "atosakininaru",
+    "code": "0010001010101",
+    "index": 407
+  },
+  {
+    "surface": "後に引けない",
+    "reading": "atonihikenai",
+    "code": "001010101011",
+    "index": 408
+  },
+  {
+    "surface": "後にも先にも",
+    "reading": "atonimosakinimo",
+    "code": "001010100010101",
+    "index": 409
+  },
+  {
+    "surface": "跡を絶たない",
+    "reading": "atowotatanai",
+    "code": "001010101011",
+    "index": 410
+  },
+  {
+    "surface": "後を引く",
+    "reading": "atowohiku",
+    "code": "0010101x1",
+    "index": 411
+  },
+  {
+    "surface": "穴があく",
+    "reading": "anagaaku",
+    "code": "001011x1",
+    "index": 412
+  },
+  {
+    "surface": "穴のあくほど",
+    "reading": "ananoakuhodo",
+    "code": "001011x10101",
+    "index": 413
+  },
+  {
+    "surface": "穴を埋める",
+    "reading": "anawoumeru",
+    "code": "0010110101",
+    "index": 414
+  },
+  {
+    "surface": "あぶく銭",
+    "reading": "abukuzeni",
+    "code": "101x10001",
+    "index": 415
+  },
+  {
+    "surface": "脂が乗る",
+    "reading": "aburaganoru",
+    "code": "00001010101",
+    "index": 416
+  },
+  {
+    "surface": "油を売る",
+    "reading": "aburawouru",
+    "code": "0000101101",
+    "index": 417
+  },
+  {
+    "surface": "油が切れる",
+    "reading": "aburagakireru",
+    "code": "0000101010101",
+    "index": 418
+  },
+  {
+    "surface": "油を絞る",
+    "reading": "aburawoshiboru",
+    "code": "0000101s000101",
+    "index": 419
+  },
+  {
+    "surface": "甘い汁を吸う",
+    "reading": "amaishiruwosuu",
+    "code": "0011s000101011",
+    "index": 420
+  },
+  {
+    "surface": "甘く見る",
+    "reading": "amakumiru",
+    "code": "001x10101",
+    "index": 421
+  },
+  {
+    "surface": "余す所なく",
+    "reading": "amasutokoronaku",
+    "code": "0010100x00101x1",
+    "index": 422
+  },
+  {
+    "surface": "網の目を潜る",
+    "reading": "aminomewokuguru",
+    "code": "001010101x00101",
+    "index": 423
+  },
+  {
+    "surface": "網を張る",
+    "reading": "amiwoharu",
+    "code": "001010101",
+    "index": 424
+  },
+  {
+    "surface": "荒波に揉まれる",
+    "reading": "aranaminimomareru",
+    "code": "00100010101010101",
+    "index": 425
+  },
+  {
+    "surface": "アラを探す",
+    "reading": "arawosagasu",
+    "code": "10101000101",
+    "index": 426
+  },
+  {
+    "surface": "有り金をはたく",
+    "reading": "ariganewohataku",
+    "code": "1010001010101x1",
+    "index": 427
+  },
+  {
+    "surface": "合わせる顔がない",
+    "reading": "awaserukaoganai",
+    "code": "1010101x0101011",
+    "index": 428
+  },
+  {
+    "surface": "泡を食う",
+    "reading": "awawokuu",
+    "code": "00101x11",
+    "index": 429
+  },
+  {
+    "surface": "泡を吹かせる",
+    "reading": "awawohukaseru",
+    "code": "00101f1x10101",
+    "index": 430
+  },
+  {
+    "surface": "暗雲が垂れ込める",
+    "reading": "annunngatarekomeru",
+    "code": "0N1vn1010101x10101",
+    "index": 431
+  },
+  {
+    "surface": "暗礁に乗り上げる",
+    "reading": "annshouninoriageru",
+    "code": "0n10d0101010110101",
+    "index": 432
+  },
+  {
+    "surface": "いい顔をしない",
+    "reading": "iikaowoshinai",
+    "code": "11x0101s01011",
+    "index": 433
+  },
+  {
+    "surface": "いい薬になる",
+    "reading": "iikusurininaru",
+    "code": "11x00001010101",
+    "index": 434
+  },
+  {
+    "surface": "いい子になる",
+    "reading": "iikoninaru",
+    "code": "11x1010101",
+    "index": 435
+  },
+  {
+    "surface": "いい迷惑だ",
+    "reading": "iimeiwakuda",
+    "code": "1100100x101",
+    "index": 436
+  },
+  {
+    "surface": "いい面の皮",
+    "reading": "iitsuranokawa",
+    "code": "11t000101x001",
+    "index": 437
+  },
+  {
+    "surface": "いい目を見る",
+    "reading": "iimewomiru",
+    "code": "1101010101",
+    "index": 438
+  },
+  {
+    "surface": "言いがかりをつける",
+    "reading": "iigakariwotsukeru",
+    "code": "1101x10101t010101",
+    "index": 439
+  },
+  {
+    "surface": "言うことなし",
+    "reading": "iukotonashi",
+    "code": "11x10101s01",
+    "index": 440
+  },
+  {
+    "surface": "言うだけ野暮",
+    "reading": "iudakeyabo",
+    "code": "1101010101",
+    "index": 441
+  },
+  {
+    "surface": "言うなれば",
+    "reading": "iunareba",
+    "code": "11010101",
+    "index": 442
+  },
+  {
+    "surface": "家を空ける",
+    "reading": "iewoakeru",
+    "code": "010110101",
+    "index": 443
+  },
+  {
+    "surface": "家を畳む",
+    "reading": "iewotatamu",
+    "code": "0101000101",
+    "index": 444
+  },
+  {
+    "surface": "怒りを買う",
+    "reading": "ikariwokau",
+    "code": "0x10101x11",
+    "index": 445
+  },
+  {
+    "surface": "如何せん",
+    "reading": "ikannsenn",
+    "code": "0x1n101u1",
+    "index": 446
+  },
+  {
+    "surface": "遺憾なく",
+    "reading": "ikannnaku",
+    "code": "1x0N1v1x1",
+    "index": 447
+  },
+  {
+    "surface": "行き当たりばったり",
+    "reading": "ikiataribattari",
+    "code": "101101010110101",
+    "index": 448
+  },
+  {
+    "surface": "息が合う",
+    "reading": "ikigaau",
+    "code": "0010111",
+    "index": 449
+  },
+  {
+    "surface": "意気が揚がる",
+    "reading": "ikigaagaru",
+    "code": "1010110101",
+    "index": 450
+  },
+  {
+    "surface": "息がかかる",
+    "reading": "ikigakakaru",
+    "code": "00101x1x101",
+    "index": 451
+  },
+  {
+    "surface": "息が切れる",
+    "reading": "ikigakireru",
+    "code": "00101010101",
+    "index": 452
+  },
+  {
+    "surface": "息が詰まる",
+    "reading": "ikigatsumaru",
+    "code": "00101t010101",
+    "index": 453
+  },
+  {
+    "surface": "息が長い",
+    "reading": "ikiganagai",
+    "code": "0010100011",
+    "index": 454
+  },
+  {
+    "surface": "意気投合する",
+    "reading": "ikitougousuru",
+    "code": "1010010010101",
+    "index": 455
+  },
+  {
+    "surface": "息の根を止める",
+    "reading": "ikinonewotomeru",
+    "code": "001010101010101",
+    "index": 456
+  },
+  {
+    "surface": "生ける屍",
+    "reading": "ikerushikabane",
+    "code": "10101s00x00001",
+    "index": 457
+  },
+  {
+    "surface": "息を殺す",
+    "reading": "ikiwokorosu",
+    "code": "00101x00101",
+    "index": 458
+  },
+  {
+    "surface": "息をつく",
+    "reading": "ikiwotsuku",
+    "code": "00101t01x1",
+    "index": 459
+  },
+  {
+    "surface": "息を抜く",
+    "reading": "ikiwonuku",
+    "code": "0010101x1",
+    "index": 460
+  },
+  {
+    "surface": "息を呑む",
+    "reading": "ikiwonomu",
+    "code": "001010101",
+    "index": 461
+  },
+  {
+    "surface": "息を引き取る",
+    "reading": "ikiwohikitoru",
+    "code": "0010101010101",
+    "index": 462
+  },
+  {
+    "surface": "息を潜める",
+    "reading": "ikiwohisomeru",
+    "code": "0010100010101",
+    "index": 463
+  },
+  {
+    "surface": "息を吹き返す",
+    "reading": "ikiwohukikaesu",
+    "code": "00101f101x0101",
+    "index": 464
+  },
+  {
+    "surface": "息が絶える",
+    "reading": "ikigataeru",
+    "code": "0010101101",
+    "index": 465
+  },
+  {
+    "surface": "息が通う",
+    "reading": "ikigakayou",
+    "code": "00101x0011",
+    "index": 466
+  },
+  {
+    "surface": "生きた心地もしない",
+    "reading": "ikitakokochimoshinai",
+    "code": "10101x0x1c0101s01011",
+    "index": 467
+  },
+  {
+    "surface": "息を凝らす",
+    "reading": "ikiwokorasu",
+    "code": "00101x10101",
+    "index": 468
+  },
+  {
+    "surface": "異彩を放つ",
+    "reading": "isaiwohanatsu",
+    "code": "1001010001t01",
+    "index": 469
+  },
+  {
+    "surface": "潔しとしない",
+    "reading": "isagiyoshitoshinai",
+    "code": "0000001s0101s01011",
+    "index": 470
+  },
+  {
+    "surface": "意地が汚い",
+    "reading": "izigakitanai",
+    "code": "1j1010000011",
+    "index": 471
+  },
+  {
+    "surface": "意地が悪い",
+    "reading": "izigawarui",
+    "code": "1j10100011",
+    "index": 472
+  },
+  {
+    "surface": "意地でも",
+    "reading": "izidemo",
+    "code": "1j10101",
+    "index": 473
+  },
+  {
+    "surface": "意地を張る",
+    "reading": "iziwoharu",
+    "code": "1j1010101",
+    "index": 474
+  },
+  {
+    "surface": "痛い所を衝く",
+    "reading": "itaitokorowotsuku",
+    "code": "001100x00101t01x1",
+    "index": 475
+  },
+  {
+    "surface": "痛い目を見る",
+    "reading": "itaimewomiru",
+    "code": "001101010101",
+    "index": 476
+  },
+  {
+    "surface": "痛くも痒くもない",
+    "reading": "itakumokayukumonai",
+    "code": "001x101x001x101011",
+    "index": 477
+  },
+  {
+    "surface": "いたちごっこ",
+    "reading": "itachigokko",
+    "code": "101c0101zV1",
+    "index": 478
+  },
+  {
+    "surface": "板につく",
+    "reading": "itanitsuku",
+    "code": "00101t01x1",
+    "index": 479
+  },
+  {
+    "surface": "板挟みになる",
+    "reading": "itabasamininaru",
+    "code": "001000101010101",
+    "index": 480
+  },
+  {
+    "surface": "至れり尽くせり",
+    "reading": "itareritsukuseri",
+    "code": "0010101t01x10101",
+    "index": 481
+  },
+  {
+    "surface": "一か八か",
+    "reading": "ichikabachika",
+    "code": "0c01x100c01x1",
+    "index": 482
+  },
+  {
+    "surface": "一から十まで",
+    "reading": "ichikarazyuumade",
+    "code": "0c01x101b0010101",
+    "index": 483
+  },
+  {
+    "surface": "一言もない",
+    "reading": "ichigonnmonai",
+    "code": "0c0100n101011",
+    "index": 484
+  },
+  {
+    "surface": "一段落つく",
+    "reading": "ichidannrakutsuku",
+    "code": "0c0100n100x1t01x1",
+    "index": 485
+  },
+  {
+    "surface": "一にも二にも",
+    "reading": "ichinimoninimo",
+    "code": "0c010101010101",
+    "index": 486
+  },
+  {
+    "surface": "一二を争う",
+    "reading": "ichiniwoarasou",
+    "code": "0c010101000011",
+    "index": 487
+  },
+  {
+    "surface": "一枚噛む",
+    "reading": "ichimaikamu",
+    "code": "0c01001x101",
+    "index": 488
+  },
+  {
+    "surface": "一目置く",
+    "reading": "ichimokuoku",
+    "code": "0c0100x11x1",
+    "index": 489
+  },
+  {
+    "surface": "一翼を担う",
+    "reading": "ichiyokuwoninau",
+    "code": "0c0100x10100011",
+    "index": 490
+  },
+  {
+    "surface": "一巻の終わり",
+    "reading": "ikkannnoowari",
+    "code": "0zV0N1v110101",
+    "index": 491
+  },
+  {
+    "surface": "一考を要する",
+    "reading": "ikkouwoyousuru",
+    "code": "0zV01010010101",
+    "index": 492
+  },
+  {
+    "surface": "一刻を争う",
+    "reading": "ikkokuwoarasou",
+    "code": "0zV0x101000011",
+    "index": 493
+  },
+  {
+    "surface": "一糸乱れず",
+    "reading": "isshimidarezu",
+    "code": "01s0100010101",
+    "index": 494
+  },
+  {
+    "surface": "一矢を報いる",
+    "reading": "isshiwomukuiru",
+    "code": "01s010100x1101",
+    "index": 495
+  },
+  {
+    "surface": "一糸まとわず",
+    "reading": "isshimatowazu",
+    "code": "01s0101010101",
+    "index": 496
+  },
+  {
+    "surface": "一笑に付す",
+    "reading": "isshounihusu",
+    "code": "010d0101f101",
+    "index": 497
+  },
+  {
+    "surface": "一世を風靡する",
+    "reading": "isseiwohuubisuru",
+    "code": "0100101f01010101",
+    "index": 498
+  },
+  {
+    "surface": "一石を投じる",
+    "reading": "issekiwotouziru",
+    "code": "01000101001j101",
+    "index": 499
+  },
+  {
+    "surface": "一席設ける",
+    "reading": "issekimoukeru",
+    "code": "0100010010101",
+    "index": 500
+  },
+  {
+    "surface": "一席ぶつ",
+    "reading": "issekibutsu",
+    "code": "01000101t01",
+    "index": 501
+  },
+  {
+    "surface": "一線を画す",
+    "reading": "issennwokakusu",
+    "code": "0100n101x0x101",
+    "index": 502
+  },
+  {
+    "surface": "一線を越える",
+    "reading": "issennwokoeru",
+    "code": "0100n101x1101",
+    "index": 503
+  },
+  {
+    "surface": "一点張り",
+    "reading": "ittennbari",
+    "code": "0100n10101",
+    "index": 504
+  },
+  {
+    "surface": "一途を辿る",
+    "reading": "ittowotadoru",
+    "code": "010101000101",
+    "index": 505
+  },
+  {
+    "surface": "一杯食う",
+    "reading": "ippaikuu",
+    "code": "01001x11",
+    "index": 506
+  },
+  {
+    "surface": "一服する",
+    "reading": "ippukusuru",
+    "code": "0100x10101",
+    "index": 507
+  },
+  {
+    "surface": "一歩譲る",
+    "reading": "ippoyuzuru",
+    "code": "0101000101",
+    "index": 508
+  },
+  {
+    "surface": "一本取られる",
+    "reading": "ipponntorareru",
+    "code": "0100n101010101",
+    "index": 509
+  },
+  {
+    "surface": "居ても立っても",
+    "reading": "itemotattemo",
+    "code": "101010110101",
+    "index": 510
+  },
+  {
+    "surface": "糸を引く",
+    "reading": "itowohiku",
+    "code": "0010101x1",
+    "index": 511
+  },
+  {
+    "surface": "意に介さない",
+    "reading": "inikaisanai",
+    "code": "101x0101011",
+    "index": 512
+  },
+  {
+    "surface": "意に適う",
+    "reading": "inikanau",
+    "code": "101x0011",
+    "index": 513
+  },
+  {
+    "surface": "いの一番",
+    "reading": "inoichibann",
+    "code": "1010c0100u1",
+    "index": 514
+  },
+  {
+    "surface": "命に替えても",
+    "reading": "inochinikaetemo",
+    "code": "000c0101x110101",
+    "index": 515
+  },
+  {
+    "surface": "命の洗濯",
+    "reading": "inochinosenntaku",
+    "code": "000c010100n100x1",
+    "index": 516
+  },
+  {
+    "surface": "命拾いをする",
+    "reading": "inochibiroiwosuru",
+    "code": "000c0100011010101",
+    "index": 517
+  },
+  {
+    "surface": "命を預ける",
+    "reading": "inochiwoazukeru",
+    "code": "000c01010010101",
+    "index": 518
+  },
+  {
+    "surface": "命を懸ける",
+    "reading": "inochiwokakeru",
+    "code": "000c0101x10101",
+    "index": 519
+  },
+  {
+    "surface": "命を削る",
+    "reading": "inochiwokezuru",
+    "code": "000c0101000101",
+    "index": 520
+  },
+  {
+    "surface": "命を投げ出す",
+    "reading": "inochiwonagedasu",
+    "code": "000c010101010101",
+    "index": 521
+  },
+  {
+    "surface": "茨の道",
+    "reading": "ibaranomichi",
+    "code": "000010100c01",
+    "index": 522
+  },
+  {
+    "surface": "意表を衝く",
+    "reading": "ihyouwotsuku",
+    "code": "1000101t01x1",
+    "index": 523
+  },
+  {
+    "surface": "今を時めく",
+    "reading": "imawotokimeku",
+    "code": "00101000101x1",
+    "index": 524
+  },
+  {
+    "surface": "芋蔓式",
+    "reading": "imodurushiki",
+    "code": "0010001s0001",
+    "index": 525
+  },
+  {
+    "surface": "嫌気が差す",
+    "reading": "iyakegasasu",
+    "code": "00101010101",
+    "index": 526
+  },
+  {
+    "surface": "嫌というほど",
+    "reading": "iyatoiuhodo",
+    "code": "00101110101",
+    "index": 527
+  },
+  {
+    "surface": "居留守を使う",
+    "reading": "irusuwotsukau",
+    "code": "1010101t00x11",
+    "index": 528
+  },
+  {
+    "surface": "色が褪せる",
+    "reading": "irogaaseru",
+    "code": "0010110101",
+    "index": 529
+  },
+  {
+    "surface": "色気を出す",
+    "reading": "irokewodasu",
+    "code": "00101010101",
+    "index": 530
+  },
+  {
+    "surface": "色目を使う",
+    "reading": "iromewotsukau",
+    "code": "0010101t00x11",
+    "index": 531
+  },
+  {
+    "surface": "色をつける",
+    "reading": "irowotsukeru",
+    "code": "00101t010101",
+    "index": 532
+  },
+  {
+    "surface": "色眼鏡で見る",
+    "reading": "iromeganedemiru",
+    "code": "001010001010101",
+    "index": 533
+  },
+  {
+    "surface": "言わずと知れた",
+    "reading": "iwazutoshireta",
+    "code": "1010101s010101",
+    "index": 534
+  },
+  {
+    "surface": "言わずもがな",
+    "reading": "iwazumogana",
+    "code": "10101010101",
+    "index": 535
+  },
+  {
+    "surface": "曰く付き",
+    "reading": "iwakutsuki",
+    "code": "001x1t0101",
+    "index": 536
+  },
+  {
+    "surface": "意をくむ",
+    "reading": "iwokumu",
+    "code": "101x101",
+    "index": 537
+  },
+  {
+    "surface": "意を決する",
+    "reading": "iwokessuru",
+    "code": "1010010101",
+    "index": 538
+  },
+  {
+    "surface": "意を尽くす",
+    "reading": "iwotsukusu",
+    "code": "101t01x101",
+    "index": 539
+  },
+  {
+    "surface": "異を唱える",
+    "reading": "iwotonaeru",
+    "code": "1010001101",
+    "index": 540
+  },
+  {
+    "surface": "引導を渡す",
+    "reading": "inndouwowatasu",
+    "code": "0n100101000101",
+    "index": 541
+  },
+  {
+    "surface": "因縁をつける",
+    "reading": "innnennwotsukeru",
+    "code": "0N1v0n101t010101",
+    "index": 542
+  },
+  {
+    "surface": "上を行く",
+    "reading": "uewoiku",
+    "code": "01011x1",
+    "index": 543
+  },
+  {
+    "surface": "浮かぬ顔",
+    "reading": "ukanukao",
+    "code": "1x101x01",
+    "index": 544
+  },
+  {
+    "surface": "浮足立つ",
+    "reading": "ukiashidatsu",
+    "code": "0010s0101t01",
+    "index": 545
+  },
+  {
+    "surface": "浮彫りにする",
+    "reading": "ukiborinisuru",
+    "code": "0010101010101",
+    "index": 546
+  },
+  {
+    "surface": "憂き目に遭う",
+    "reading": "ukimeniau",
+    "code": "101010111",
+    "index": 547
+  },
+  {
+    "surface": "受けがいい",
+    "reading": "ukegaii",
+    "code": "1010111",
+    "index": 548
+  },
+  {
+    "surface": "受けて立つ",
+    "reading": "uketetatsu",
+    "code": "1010101t01",
+    "index": 549
+  },
+  {
+    "surface": "受けに回る",
+    "reading": "ukenimawaru",
+    "code": "10101000101",
+    "index": 550
+  },
+  {
+    "surface": "動きが取れない",
+    "reading": "ugokigatorenai",
+    "code": "00101010101011",
+    "index": 551
+  },
+  {
+    "surface": "薄気味悪い",
+    "reading": "usukimiwarui",
+    "code": "001010100011",
+    "index": 552
+  },
+  {
+    "surface": "嘘で固める",
+    "reading": "usodekatameru",
+    "code": "00101x0010101",
+    "index": 553
+  },
+  {
+    "surface": "うだつが上がらない",
+    "reading": "udatsugaagaranai",
+    "code": "101t010110101011",
+    "index": 554
+  },
+  {
+    "surface": "うつつをぬかす",
+    "reading": "utsutsuwonukasu",
+    "code": "1t01t010101x101",
+    "index": 555
+  },
+  {
+    "surface": "打って変わって",
+    "reading": "uttekawatte",
+    "code": "1101x101101",
+    "index": 556
+  },
+  {
+    "surface": "打って出る",
+    "reading": "uttederu",
+    "code": "11010101",
+    "index": 557
+  },
+  {
+    "surface": "打てば響く",
+    "reading": "utebahibiku",
+    "code": "101010001x1",
+    "index": 558
+  },
+  {
+    "surface": "腕が上がる",
+    "reading": "udegaagaru",
+    "code": "0010110101",
+    "index": 559
+  },
+  {
+    "surface": "腕が利く",
+    "reading": "udegakiku",
+    "code": "0010101x1",
+    "index": 560
+  },
+  {
+    "surface": "腕が立つ",
+    "reading": "udegatatsu",
+    "code": "0010101t01",
+    "index": 561
+  },
+  {
+    "surface": "腕が鳴る",
+    "reading": "udeganaru",
+    "code": "001010101",
+    "index": 562
+  },
+  {
+    "surface": "腕によりをかける",
+    "reading": "udeniyoriwokakeru",
+    "code": "00101010101x10101",
+    "index": 563
+  },
+  {
+    "surface": "腕を振るう",
+    "reading": "udewohuruu",
+    "code": "00101f1011",
+    "index": 564
+  },
+  {
+    "surface": "腕を磨く",
+    "reading": "udewomigaku",
+    "code": "001010001x1",
+    "index": 565
+  },
+  {
+    "surface": "腕を鳴らす",
+    "reading": "udewonarasu",
+    "code": "00101010101",
+    "index": 566
+  },
+  {
+    "surface": "唸るほど",
+    "reading": "unaruhodo",
+    "code": "001010101",
+    "index": 567
+  },
+  {
+    "surface": "鵜呑みにする",
+    "reading": "unominisuru",
+    "code": "10101010101",
+    "index": 568
+  },
+  {
+    "surface": "産声を上げる",
+    "reading": "ubugoewoageru",
+    "code": "0010010110101",
+    "index": 569
+  },
+  {
+    "surface": "旨い汁を吸う",
+    "reading": "umaishiruwosuu",
+    "code": "0011s000101011",
+    "index": 570
+  },
+  {
+    "surface": "馬が合う",
+    "reading": "umagaau",
+    "code": "0010111",
+    "index": 571
+  },
+  {
+    "surface": "馬の骨",
+    "reading": "umanohone",
+    "code": "001010001",
+    "index": 572
+  },
+  {
+    "surface": "産みの苦しみ",
+    "reading": "uminokurushimi",
+    "code": "10101x001s0101",
+    "index": 573
+  },
+  {
+    "surface": "膿を出す",
+    "reading": "umiwodasu",
+    "code": "001010101",
+    "index": 574
+  },
+  {
+    "surface": "有無をいわさず",
+    "reading": "umuwoiwasazu",
+    "code": "101011010101",
+    "index": 575
+  },
+  {
+    "surface": "裏表がない",
+    "reading": "uraomoteganai",
+    "code": "0010000101011",
+    "index": 576
+  },
+  {
+    "surface": "裏がある",
+    "reading": "uragaaru",
+    "code": "00101101",
+    "index": 577
+  },
+  {
+    "surface": "裏で糸を引く",
+    "reading": "uradeitowohiku",
+    "code": "001010010101x1",
+    "index": 578
+  },
+  {
+    "surface": "恨みを買う",
+    "reading": "uramiwokau",
+    "code": "0010101x11",
+    "index": 579
+  },
+  {
+    "surface": "裏を返せば",
+    "reading": "urawokaeseba",
+    "code": "00101x010101",
+    "index": 580
+  },
+  {
+    "surface": "裏をかく",
+    "reading": "urawokaku",
+    "code": "00101x1x1",
+    "index": 581
+  },
+  {
+    "surface": "裏を取る",
+    "reading": "urawotoru",
+    "code": "001010101",
+    "index": 582
+  },
+  {
+    "surface": "裏目に出る",
+    "reading": "uramenideru",
+    "code": "00101010101",
+    "index": 583
+  },
+  {
+    "surface": "売れ筋",
+    "reading": "uresuzi",
+    "code": "10100j1",
+    "index": 584
+  },
+  {
+    "surface": "運が開ける",
+    "reading": "unngahirakeru",
+    "code": "0n10100010101",
+    "index": 585
+  },
+  {
+    "surface": "運が尽きる",
+    "reading": "unngatsukiru",
+    "code": "0n101t010101",
+    "index": 586
+  },
+  {
+    "surface": "英気を養う",
+    "reading": "eikiwoyashinau",
+    "code": "01010100s00011",
+    "index": 587
+  },
+  {
+    "surface": "得体が知れない",
+    "reading": "etaigashirenai",
+    "code": "100101s0101011",
+    "index": 588
+  },
+  {
+    "surface": "絵になる",
+    "reading": "eninaru",
+    "code": "1010101",
+    "index": 589
+  },
+  {
+    "surface": "襟を正す",
+    "reading": "eriwotadasu",
+    "code": "00101000101",
+    "index": 590
+  },
+  {
+    "surface": "縁起でもない",
+    "reading": "enngidemonai",
+    "code": "0n1010101011",
+    "index": 591
+  },
+  {
+    "surface": "縁起を担ぐ",
+    "reading": "enngiwokatsugu",
+    "code": "0n10101x0t0101",
+    "index": 592
+  },
+  {
+    "surface": "縁を切る",
+    "reading": "ennwokiru",
+    "code": "0n1010101",
+    "index": 593
+  },
+  {
+    "surface": "縁もゆかりもない",
+    "reading": "ennmoyukarimonai",
+    "code": "0n10101x10101011",
+    "index": 594
+  },
+  {
+    "surface": "追い討ちをかける",
+    "reading": "oiuchiwokakeru",
+    "code": "111c0101x10101",
+    "index": 595
+  },
+  {
+    "surface": "お家芸",
+    "reading": "oiegei",
+    "code": "101001",
+    "index": 596
+  },
+  {
+    "surface": "お伺いを立てる",
+    "reading": "oukagaiwotateru",
+    "code": "10x001101010101",
+    "index": 597
+  },
+  {
+    "surface": "往生際が悪い",
+    "reading": "ouzyougiwagawarui",
+    "code": "01b00100010100011",
+    "index": 598
+  },
+  {
+    "surface": "王手をかける",
+    "reading": "outewokakeru",
+    "code": "010101x10101",
+    "index": 599
+  },
+  {
+    "surface": "多かれ少なかれ",
+    "reading": "ookaresukunakare",
+    "code": "01x10100x101x101",
+    "index": 600
+  },
+  {
+    "surface": "大きなお世話",
+    "reading": "ookinaosewa",
+    "code": "01010110101",
+    "index": 601
+  },
+  {
+    "surface": "大きな顔をする",
+    "reading": "ookinakaowosuru",
+    "code": "010101x01010101",
+    "index": 602
+  },
+  {
+    "surface": "大口を叩く",
+    "reading": "ooguchiwotataku",
+    "code": "0100c01010001x1",
+    "index": 603
+  },
+  {
+    "surface": "大台に乗る",
+    "reading": "oodaininoru",
+    "code": "01001010101",
+    "index": 604
+  },
+  {
+    "surface": "大手を振る",
+    "reading": "oodewohuru",
+    "code": "010101f101",
+    "index": 605
+  },
+  {
+    "surface": "大なたを振るう",
+    "reading": "oonatawohuruu",
+    "code": "01010101f1011",
+    "index": 606
+  },
+  {
+    "surface": "大船に乗る",
+    "reading": "oobuneninoru",
+    "code": "010001010101",
+    "index": 607
+  },
+  {
+    "surface": "大見得を切る",
+    "reading": "oomiewokiru",
+    "code": "01011010101",
+    "index": 608
+  },
+  {
+    "surface": "大目玉を食う",
+    "reading": "oomedamawokuu",
+    "code": "0101000101x11",
+    "index": 609
+  },
+  {
+    "surface": "大目に見る",
+    "reading": "oomenimiru",
+    "code": "0101010101",
+    "index": 610
+  },
+  {
+    "surface": "お株を奪う",
+    "reading": "okabuwoubau",
+    "code": "1x001010011",
+    "index": 611
+  },
+  {
+    "surface": "お釜を掘る",
+    "reading": "okamawohoru",
+    "code": "1x001010101",
+    "index": 612
+  },
+  {
+    "surface": "お門が違う",
+    "reading": "okadogachigau",
+    "code": "1x00101c00011",
+    "index": 613
+  },
+  {
+    "surface": "お灸を据える",
+    "reading": "okyuuwosueru",
+    "code": "100010101101",
+    "index": 614
+  },
+  {
+    "surface": "奥が深い",
+    "reading": "okugahukai",
+    "code": "0x101f0x11",
+    "index": 615
+  },
+  {
+    "surface": "奥の手",
+    "reading": "okunote",
+    "code": "0x10101",
+    "index": 616
+  },
+  {
+    "surface": "おくびにも出さない",
+    "reading": "okubinimodasanai",
+    "code": "1x10101010101011",
+    "index": 617
+  },
+  {
+    "surface": "臆面もなく",
+    "reading": "okumennmonaku",
+    "code": "0x100n10101x1",
+    "index": 618
+  },
+  {
+    "surface": "お蔵入りになる",
+    "reading": "okurairininaru",
+    "code": "1x001101010101",
+    "index": 619
+  },
+  {
+    "surface": "後れを取る",
+    "reading": "okurewotoru",
+    "code": "0x101010101",
+    "index": 620
+  },
+  {
+    "surface": "臆病風に吹かれる",
+    "reading": "okubyoukazenihukareru",
+    "code": "0x10001x00101f1x10101",
+    "index": 621
+  },
+  {
+    "surface": "お言葉に甘えて",
+    "reading": "okotobaniamaete",
+    "code": "1x0010101001101",
+    "index": 622
+  },
+  {
+    "surface": "おこぼれにあずかる",
+    "reading": "okoboreniazukaru",
+    "code": "1x1010101101x101",
+    "index": 623
+  },
+  {
+    "surface": "押さえが利く",
+    "reading": "osaegakiku",
+    "code": "10110101x1",
+    "index": 624
+  },
+  {
+    "surface": "収まりがつかない",
+    "reading": "osamarigatsukanai",
+    "code": "001010101t01x1011",
+    "index": 625
+  },
+  {
+    "surface": "押しが利く",
+    "reading": "oshigakiku",
+    "code": "1s010101x1",
+    "index": 626
+  },
+  {
+    "surface": "押しが強い",
+    "reading": "oshigatsuyoi",
+    "code": "1s0101t00011",
+    "index": 627
+  },
+  {
+    "surface": "押しの一手",
+    "reading": "oshinoitte",
+    "code": "1s01010101",
+    "index": 628
+  },
+  {
+    "surface": "お釈迦になる",
+    "reading": "oshakaninaru",
+    "code": "10d1x1010101",
+    "index": 629
+  },
+  {
+    "surface": "お節介をやく",
+    "reading": "osekkaiwoyaku",
+    "code": "100zV010101x1",
+    "index": 630
+  },
+  {
+    "surface": "お膳立てが揃う",
+    "reading": "ozenndategasorou",
+    "code": "100n101010100011",
+    "index": 631
+  },
+  {
+    "surface": "遅かれ早かれ",
+    "reading": "osokarehayakare",
+    "code": "001x1010001x101",
+    "index": 632
+  },
+  {
+    "surface": "遅きに失する",
+    "reading": "osokinishissuru",
+    "code": "0010101s0010101",
+    "index": 633
+  },
+  {
+    "surface": "お高くとまる",
+    "reading": "otakakutomaru",
+    "code": "100x1x1010101",
+    "index": 634
+  },
+  {
+    "surface": "お陀仏になる",
+    "reading": "odabutsuninaru",
+    "code": "10100t01010101",
+    "index": 635
+  },
+  {
+    "surface": "お題目を唱える",
+    "reading": "odaimokuwotonaeru",
+    "code": "100100x1010001101",
+    "index": 636
+  },
+  {
+    "surface": "お茶を濁す",
+    "reading": "ochawonigosu",
+    "code": "1gh101000101",
+    "index": 637
+  },
+  {
+    "surface": "お茶の子さいさい",
+    "reading": "ochanokosaisai",
+    "code": "1gh101x1011011",
+    "index": 638
+  },
+  {
+    "surface": "お釣が来る",
+    "reading": "otsurigakuru",
+    "code": "1t000101x101",
+    "index": 639
+  },
+  {
+    "surface": "お手上げ",
+    "reading": "oteage",
+    "code": "101101",
+    "index": 640
+  },
+  {
+    "surface": "お手の物",
+    "reading": "otenomono",
+    "code": "101010001",
+    "index": 641
+  },
+  {
+    "surface": "汚点を残す",
+    "reading": "otennwonokosu",
+    "code": "100n10100x101",
+    "index": 642
+  },
+  {
+    "surface": "男が廃る",
+    "reading": "otokogasutaru",
+    "code": "000x101000101",
+    "index": 643
+  },
+  {
+    "surface": "音沙汰がない",
+    "reading": "otosataganai",
+    "code": "001010101011",
+    "index": 644
+  },
+  {
+    "surface": "男が下がる",
+    "reading": "otokogasagaru",
+    "code": "000x101010101",
+    "index": 645
+  },
+  {
+    "surface": "男を磨く",
+    "reading": "otokowomigaku",
+    "code": "000x1010001x1",
+    "index": 646
+  },
+  {
+    "surface": "落とし前をつける",
+    "reading": "otoshimaewotsukeru",
+    "code": "101s0100101t010101",
+    "index": 647
+  },
+  {
+    "surface": "鬼が笑う",
+    "reading": "onigawarau",
+    "code": "0010100011",
+    "index": 648
+  },
+  {
+    "surface": "お鉢が回る",
+    "reading": "ohachigamawaru",
+    "code": "100c0101000101",
+    "index": 649
+  },
+  {
+    "surface": "お払い箱にする",
+    "reading": "oharaibakonisuru",
+    "code": "10001100x1010101",
+    "index": 650
+  },
+  {
+    "surface": "お眼鏡に適う",
+    "reading": "omeganenikanau",
+    "code": "101000101x0011",
+    "index": 651
+  },
+  {
+    "surface": "おべっかを使う",
+    "reading": "obekkawotsukau",
+    "code": "101zV101t00x11",
+    "index": 652
+  },
+  {
+    "surface": "思いも寄らない",
+    "reading": "omoimoyoranai",
+    "code": "0011010101011",
+    "index": 653
+  },
+  {
+    "surface": "思いを焦がす",
+    "reading": "omoiwokogasu",
+    "code": "001101x10101",
+    "index": 654
+  },
+  {
+    "surface": "思いを馳せる",
+    "reading": "omoiwohaseru",
+    "code": "001101010101",
+    "index": 655
+  },
+  {
+    "surface": "思いを晴らす",
+    "reading": "omoiwoharasu",
+    "code": "001101010101",
+    "index": 656
+  },
+  {
+    "surface": "思いを寄せる",
+    "reading": "omoiwoyoseru",
+    "code": "001101010101",
+    "index": 657
+  },
+  {
+    "surface": "思うツボ",
+    "reading": "omoutsubo",
+    "code": "0011t0101",
+    "index": 658
+  },
+  {
+    "surface": "重きを置く",
+    "reading": "omokiwooku",
+    "code": "00101011x1",
+    "index": 659
+  },
+  {
+    "surface": "表に立つ",
+    "reading": "omotenitatsu",
+    "code": "000010101t01",
+    "index": 660
+  },
+  {
+    "surface": "表を繕う",
+    "reading": "omotewotsukurou",
+    "code": "0000101t00x0011",
+    "index": 661
+  },
+  {
+    "surface": "お安い御用",
+    "reading": "oyasuigoyou",
+    "code": "10001101001",
+    "index": 662
+  },
+  {
+    "surface": "及び腰になる",
+    "reading": "oyobigoshininaru",
+    "code": "0010100s01010101",
+    "index": 663
+  },
+  {
+    "surface": "折合いをつける",
+    "reading": "oriaiwotsukeru",
+    "code": "0011101t010101",
+    "index": 664
+  },
+  {
+    "surface": "折紙付き",
+    "reading": "origamitsuki",
+    "code": "0010001t0101",
+    "index": 665
+  },
+  {
+    "surface": "折に触れて",
+    "reading": "orinihurete",
+    "code": "00101f10101",
+    "index": 666
+  },
+  {
+    "surface": "尾を引く",
+    "reading": "owohiku",
+    "code": "10101x1",
+    "index": 667
+  },
+  {
+    "surface": "音頭を取る",
+    "reading": "onndowotoru",
+    "code": "0n101010101",
+    "index": 668
+  },
+  {
+    "surface": "恩に着せる",
+    "reading": "onnnikiseru",
+    "code": "0N1v1010101",
+    "index": 669
+  },
+  {
+    "surface": "恩に着る",
+    "reading": "onnnikiru",
+    "code": "0N1v10101",
+    "index": 670
+  },
+  {
+    "surface": "御の字",
+    "reading": "onnnozi",
+    "code": "0N1v1j1",
+    "index": 671
+  },
+  {
+    "surface": "おんぶに抱っこ",
+    "reading": "onnbunidakko",
+    "code": "1n1010101zV1",
+    "index": 672
+  },
+  {
+    "surface": "恩を売る",
+    "reading": "onnwouru",
+    "code": "0n101101",
+    "index": 673
+  },
+  {
+    "surface": "甲斐性がない",
+    "reading": "kaishouganai",
+    "code": "x110d0101011",
+    "index": 674
+  },
+  {
+    "surface": "返す言葉もない",
+    "reading": "kaesukotobamonai",
+    "code": "x0101x0010101011",
+    "index": 675
+  },
+  {
+    "surface": "帰らぬ人",
+    "reading": "kaeranuhito",
+    "code": "x0101010001",
+    "index": 676
+  },
+  {
+    "surface": "返り咲く",
+    "reading": "kaerizaku",
+    "code": "x010101x1",
+    "index": 677
+  },
+  {
+    "surface": "顔色を窺う",
+    "reading": "kaoirowoukagau",
+    "code": "x01001010x0011",
+    "index": 678
+  },
+  {
+    "surface": "顔から火が出る",
+    "reading": "kaokarahigaderu",
+    "code": "x01x10101010101",
+    "index": 679
+  },
+  {
+    "surface": "顔が売れる",
+    "reading": "kaogaureru",
+    "code": "x010110101",
+    "index": 680
+  },
+  {
+    "surface": "顔が利く",
+    "reading": "kaogakiku",
+    "code": "x010101x1",
+    "index": 681
+  },
+  {
+    "surface": "顔が曇る",
+    "reading": "kaogakumoru",
+    "code": "x0101x00101",
+    "index": 682
+  },
+  {
+    "surface": "顔が揃う",
+    "reading": "kaogasorou",
+    "code": "x010100011",
+    "index": 683
+  },
+  {
+    "surface": "顔が立つ",
+    "reading": "kaogatatsu",
+    "code": "x010101t01",
+    "index": 684
+  },
+  {
+    "surface": "顔がつぶれる",
+    "reading": "kaogatsubureru",
+    "code": "x0101t01010101",
+    "index": 685
+  },
+  {
+    "surface": "顔が広い",
+    "reading": "kaogahiroi",
+    "code": "x010100011",
+    "index": 686
+  },
+  {
+    "surface": "顔がほころぶ",
+    "reading": "kaogahokorobu",
+    "code": "x010101x10101",
+    "index": 687
+  },
+  {
+    "surface": "顔に出る",
+    "reading": "kaonideru",
+    "code": "x01010101",
+    "index": 688
+  },
+  {
+    "surface": "顔に泥を塗る",
+    "reading": "kaonidorowonuru",
+    "code": "x01010001010101",
+    "index": 689
+  },
+  {
+    "surface": "顔を合わせる",
+    "reading": "kaowoawaseru",
+    "code": "x01011010101",
+    "index": 690
+  },
+  {
+    "surface": "顔を貸す",
+    "reading": "kaowokasu",
+    "code": "x0101x101",
+    "index": 691
+  },
+  {
+    "surface": "顔をしかめる",
+    "reading": "kaowoshikameru",
+    "code": "x0101s01x10101",
+    "index": 692
+  },
+  {
+    "surface": "顔を出す",
+    "reading": "kaowodasu",
+    "code": "x01010101",
+    "index": 693
+  },
+  {
+    "surface": "顔を立てる",
+    "reading": "kaowotateru",
+    "code": "x0101010101",
+    "index": 694
+  },
+  {
+    "surface": "顔をつなぐ",
+    "reading": "kaowotsunagu",
+    "code": "x0101t010101",
+    "index": 695
+  },
+  {
+    "surface": "顔を見合わせる",
+    "reading": "kaowomiawaseru",
+    "code": "x0101011010101",
+    "index": 696
+  },
+  {
+    "surface": "顔を見せる",
+    "reading": "kaowomiseru",
+    "code": "x0101010101",
+    "index": 697
+  },
+  {
+    "surface": "我が強い",
+    "reading": "gagatsuyoi",
+    "code": "0101t00011",
+    "index": 698
+  },
+  {
+    "surface": "佳境に入る",
+    "reading": "kakyounihairu",
+    "code": "x100010100101",
+    "index": 699
+  },
+  {
+    "surface": "覚悟の上",
+    "reading": "kakugonoue",
+    "code": "x0x1010101",
+    "index": 700
+  },
+  {
+    "surface": "核心を衝く",
+    "reading": "kakushinnwotsuku",
+    "code": "x0x1s00n101t01x1",
+    "index": 701
+  },
+  {
+    "surface": "隠れ蓑にする",
+    "reading": "kakureminonisuru",
+    "code": "x0x1010001010101",
+    "index": 702
+  },
+  {
+    "surface": "駈け出し",
+    "reading": "kakedashi",
+    "code": "x10101s01",
+    "index": 703
+  },
+  {
+    "surface": "影が薄い",
+    "reading": "kagegausui",
+    "code": "x001010011",
+    "index": 704
+  },
+  {
+    "surface": "陰口を叩く",
+    "reading": "kageguchiwotataku",
+    "code": "x00100c01010001x1",
+    "index": 705
+  },
+  {
+    "surface": "影も形もない",
+    "reading": "kagemokatachimonai",
+    "code": "x00101x000c0101011",
+    "index": 706
+  },
+  {
+    "surface": "影を落とす",
+    "reading": "kagewootosu",
+    "code": "x0010110101",
+    "index": 707
+  },
+  {
+    "surface": "影を潜める",
+    "reading": "kagewohisomeru",
+    "code": "x0010100010101",
+    "index": 708
+  },
+  {
+    "surface": "陰で糸を引く",
+    "reading": "kagedeitowohiku",
+    "code": "x001010010101x1",
+    "index": 709
+  },
+  {
+    "surface": "気骨がある",
+    "reading": "kikotsugaaru",
+    "code": "01x0t0101101",
+    "index": 710
+  },
+  {
+    "surface": "笠に着る",
+    "reading": "kasanikiru",
+    "code": "x001010101",
+    "index": 711
+  },
+  {
+    "surface": "風穴をあける",
+    "reading": "kazaanawoakeru",
+    "code": "x0010010110101",
+    "index": 712
+  },
+  {
+    "surface": "風上に置けない",
+    "reading": "kazakaminiokenai",
+    "code": "x001x00101101011",
+    "index": 713
+  },
+  {
+    "surface": "風向きが悪い",
+    "reading": "kazamukigawarui",
+    "code": "x00101010100011",
+    "index": 714
+  },
+  {
+    "surface": "舵を取る",
+    "reading": "kaziwotoru",
+    "code": "x0j1010101",
+    "index": 715
+  },
+  {
+    "surface": "霞を食う",
+    "reading": "kasumiwokuu",
+    "code": "x0000101x11",
+    "index": 716
+  },
+  {
+    "surface": "数でこなす",
+    "reading": "kazudekonasu",
+    "code": "x00101x10101",
+    "index": 717
+  },
+  {
+    "surface": "風当たりが強い",
+    "reading": "kazeatarigatsuyoi",
+    "code": "x0011010101t00011",
+    "index": 718
+  },
+  {
+    "surface": "風の便り",
+    "reading": "kazenotayori",
+    "code": "x00101000101",
+    "index": 719
+  },
+  {
+    "surface": "風の吹き回し",
+    "reading": "kazenohukimawashi",
+    "code": "x00101f1010001s01",
+    "index": 720
+  },
+  {
+    "surface": "風通しがいい",
+    "reading": "kazetooshigaii",
+    "code": "x001001s010111",
+    "index": 721
+  },
+  {
+    "surface": "片意地を張る",
+    "reading": "kataiziwoharu",
+    "code": "x0011j1010101",
+    "index": 722
+  },
+  {
+    "surface": "肩入れをする",
+    "reading": "katairewosuru",
+    "code": "x001101010101",
+    "index": 723
+  },
+  {
+    "surface": "肩が凝る",
+    "reading": "katagakoru",
+    "code": "x00101x101",
+    "index": 724
+  },
+  {
+    "surface": "肩が張る",
+    "reading": "katagaharu",
+    "code": "x001010101",
+    "index": 725
+  },
+  {
+    "surface": "固唾を呑む",
+    "reading": "katazuwonomu",
+    "code": "x00101010101",
+    "index": 726
+  },
+  {
+    "surface": "肩で息をする",
+    "reading": "katadeikiwosuru",
+    "code": "x00101001010101",
+    "index": 727
+  },
+  {
+    "surface": "肩で風を切る",
+    "reading": "katadekazewokiru",
+    "code": "x00101x001010101",
+    "index": 728
+  },
+  {
+    "surface": "型にはまる",
+    "reading": "katanihamaru",
+    "code": "x00101010101",
+    "index": 729
+  },
+  {
+    "surface": "肩の力を抜く",
+    "reading": "katanochikarawonuku",
+    "code": "x00101c00x0010101x1",
+    "index": 730
+  },
+  {
+    "surface": "肩の荷が下りる",
+    "reading": "katanonigaoriru",
+    "code": "x00101010110101",
+    "index": 731
+  },
+  {
+    "surface": "肩肘張る",
+    "reading": "katahiziharu",
+    "code": "x00100j10101",
+    "index": 732
+  },
+  {
+    "surface": "片棒を担ぐ",
+    "reading": "katabouwokatsugu",
+    "code": "x00100101x0t0101",
+    "index": 733
+  },
+  {
+    "surface": "肩身が狭い",
+    "reading": "katamigasemai",
+    "code": "x001010100011",
+    "index": 734
+  },
+  {
+    "surface": "肩を落とす",
+    "reading": "katawootosu",
+    "code": "x0010110101",
+    "index": 735
+  },
+  {
+    "surface": "肩をすくめる",
+    "reading": "katawosukumeru",
+    "code": "x0010101x10101",
+    "index": 736
+  },
+  {
+    "surface": "肩を叩く",
+    "reading": "katawotataku",
+    "code": "x001010001x1",
+    "index": 737
+  },
+  {
+    "surface": "肩を並べる",
+    "reading": "katawonaraberu",
+    "code": "x0010100010101",
+    "index": 738
+  },
+  {
+    "surface": "肩を持つ",
+    "reading": "katawomotsu",
+    "code": "x0010101t01",
+    "index": 739
+  },
+  {
+    "surface": "勝ちを拾う",
+    "reading": "kachiwohirou",
+    "code": "x1c010100011",
+    "index": 740
+  },
+  {
+    "surface": "活を入れる",
+    "reading": "katsuwoireru",
+    "code": "x0t010110101",
+    "index": 741
+  },
+  {
+    "surface": "格好をつける",
+    "reading": "kakkouwotsukeru",
+    "code": "x0zV0101t010101",
+    "index": 742
+  },
+  {
+    "surface": "勝手が違う",
+    "reading": "kattegachigau",
+    "code": "x010101c00011",
+    "index": 743
+  },
+  {
+    "surface": "勝手が悪い",
+    "reading": "kattegawarui",
+    "code": "x01010100011",
+    "index": 744
+  },
+  {
+    "surface": "買って出る",
+    "reading": "kattederu",
+    "code": "x11010101",
+    "index": 745
+  },
+  {
+    "surface": "合点が行く",
+    "reading": "gatenngaiku",
+    "code": "0100n1011x1",
+    "index": 746
+  },
+  {
+    "surface": "角が立つ",
+    "reading": "kadogatatsu",
+    "code": "x0010101t01",
+    "index": 747
+  },
+  {
+    "surface": "角が取れる",
+    "reading": "kadogatoreru",
+    "code": "x00101010101",
+    "index": 748
+  },
+  {
+    "surface": "金がうなる",
+    "reading": "kanegaunaru",
+    "code": "x0010110101",
+    "index": 749
+  },
+  {
+    "surface": "金のなる木",
+    "reading": "kanenonaruki",
+    "code": "x00101010101",
+    "index": 750
+  },
+  {
+    "surface": "金回りがいい",
+    "reading": "kanemawarigaii",
+    "code": "x0010001010111",
+    "index": 751
+  },
+  {
+    "surface": "金に糸目を付けない",
+    "reading": "kaneniitomewotsukenai",
+    "code": "x001010010101t0101011",
+    "index": 752
+  },
+  {
+    "surface": "金を寝かす",
+    "reading": "kanewonekasu",
+    "code": "x0010101x101",
+    "index": 753
+  },
+  {
+    "surface": "蚊の鳴くような声",
+    "reading": "kanonakuyounakoe",
+    "code": "x10101x101101x01",
+    "index": 754
+  },
+  {
+    "surface": "兜を脱ぐ",
+    "reading": "kabutowonugu",
+    "code": "x00001010101",
+    "index": 755
+  },
+  {
+    "surface": "株を上げる",
+    "reading": "kabuwoageru",
+    "code": "x0010110101",
+    "index": 756
+  },
+  {
+    "surface": "株を下げる",
+    "reading": "kabuwosageru",
+    "code": "x00101010101",
+    "index": 757
+  },
+  {
+    "surface": "破れかぶれ",
+    "reading": "yaburekabure",
+    "code": "000101x10101",
+    "index": 758
+  },
+  {
+    "surface": "壁を破る",
+    "reading": "kabewoyaburu",
+    "code": "x00101000101",
+    "index": 759
+  },
+  {
+    "surface": "壁を作る",
+    "reading": "kabewotsukuru",
+    "code": "x00101t00x101",
+    "index": 760
+  },
+  {
+    "surface": "鎌をかける",
+    "reading": "kamawokakeru",
+    "code": "x00101x10101",
+    "index": 761
+  },
+  {
+    "surface": "雷を落とす",
+    "reading": "kaminariwootosu",
+    "code": "x00000010110101",
+    "index": 762
+  },
+  {
+    "surface": "紙一重の差",
+    "reading": "kamihitoenosa",
+    "code": "x001000110101",
+    "index": 763
+  },
+  {
+    "surface": "神も仏もない",
+    "reading": "kamimohotokemonai",
+    "code": "x0010100000101011",
+    "index": 764
+  },
+  {
+    "surface": "仮面をかぶる",
+    "reading": "kamennwokaburu",
+    "code": "x100n101x10101",
+    "index": 765
+  },
+  {
+    "surface": "カモにする",
+    "reading": "kamonisuru",
+    "code": "x101010101",
+    "index": 766
+  },
+  {
+    "surface": "蚊帳の外",
+    "reading": "kayanosoto",
+    "code": "x101010001",
+    "index": 767
+  },
+  {
+    "surface": "体が空く",
+    "reading": "karadagaaku",
+    "code": "x00001011x1",
+    "index": 768
+  },
+  {
+    "surface": "体が続く",
+    "reading": "karadagatsuduku",
+    "code": "x0000101t0001x1",
+    "index": 769
+  },
+  {
+    "surface": "体で覚える",
+    "reading": "karadadeoboeru",
+    "code": "x0000101001101",
+    "index": 770
+  },
+  {
+    "surface": "体を壊す",
+    "reading": "karadawokowasu",
+    "code": "x0000101x00101",
+    "index": 771
+  },
+  {
+    "surface": "体を張る",
+    "reading": "karadawoharu",
+    "code": "x00001010101",
+    "index": 772
+  },
+  {
+    "surface": "殻に閉じこもる",
+    "reading": "karanitozikomoru",
+    "code": "x0010101j1x10101",
+    "index": 773
+  },
+  {
+    "surface": "ガラス張り",
+    "reading": "garasubari",
+    "code": "0101010101",
+    "index": 774
+  },
+  {
+    "surface": "柄にもない",
+    "reading": "garanimonai",
+    "code": "00010101011",
+    "index": 775
+  },
+  {
+    "surface": "体に障る",
+    "reading": "karadanisawaru",
+    "code": "x0000101000101",
+    "index": 776
+  },
+  {
+    "surface": "体をかわす",
+    "reading": "taiwokawasu",
+    "code": "00101x10101",
+    "index": 777
+  },
+  {
+    "surface": "借りを返す",
+    "reading": "kariwokaesu",
+    "code": "x10101x0101",
+    "index": 778
+  },
+  {
+    "surface": "借りてきた猫",
+    "reading": "karitekitaneko",
+    "code": "x10101010100x1",
+    "index": 779
+  },
+  {
+    "surface": "皮をかぶる",
+    "reading": "kawawokaburu",
+    "code": "x00101x10101",
+    "index": 780
+  },
+  {
+    "surface": "我を張る",
+    "reading": "gawoharu",
+    "code": "01010101",
+    "index": 781
+  },
+  {
+    "surface": "我を通す",
+    "reading": "gawotoosu",
+    "code": "010100101",
+    "index": 782
+  },
+  {
+    "surface": "感極まる",
+    "reading": "kannkiwamaru",
+    "code": "x0n100010101",
+    "index": 783
+  },
+  {
+    "surface": "間隙を縫う",
+    "reading": "kanngekiwonuu",
+    "code": "x0n1000101011",
+    "index": 784
+  },
+  {
+    "surface": "勘定に入れる",
+    "reading": "kannzyouniireru",
+    "code": "x0n1b0010110101",
+    "index": 785
+  },
+  {
+    "surface": "歓心を買う",
+    "reading": "kannshinnwokau",
+    "code": "x0n1s00n101x11",
+    "index": 786
+  },
+  {
+    "surface": "缶詰になる",
+    "reading": "kanndumeninaru",
+    "code": "x0n10001010101",
+    "index": 787
+  },
+  {
+    "surface": "癇に障る",
+    "reading": "kannnisawaru",
+    "code": "x0N1v1000101",
+    "index": 788
+  },
+  {
+    "surface": "看板に傷がつく",
+    "reading": "kannbannnikizugatsuku",
+    "code": "x0n100N1v1000101t01x1",
+    "index": 789
+  },
+  {
+    "surface": "完膚無きまで",
+    "reading": "kannpunakimade",
+    "code": "x0n10101010101",
+    "index": 790
+  },
+  {
+    "surface": "看板を掲げる",
+    "reading": "kannbannwokakageru",
+    "code": "x0n100n101x0x10101",
+    "index": 791
+  },
+  {
+    "surface": "雁首を揃える",
+    "reading": "gannkubiwosoroeru",
+    "code": "00n1x001010001101",
+    "index": 792
+  },
+  {
+    "surface": "眼中にない",
+    "reading": "gannchuuninai",
+    "code": "00n1gh0101011",
+    "index": 793
+  },
+  {
+    "surface": "間髪を容れず",
+    "reading": "kannhatsuwoirezu",
+    "code": "x0n100t010110101",
+    "index": 794
+  },
+  {
+    "surface": "気合を入れる",
+    "reading": "kiaiwoireru",
+    "code": "01010110101",
+    "index": 795
+  },
+  {
+    "surface": "聞いて呆れる",
+    "reading": "kiiteakireru",
+    "code": "011010010101",
+    "index": 796
+  },
+  {
+    "surface": "気が合う",
+    "reading": "kigaau",
+    "code": "010111",
+    "index": 797
+  },
+  {
+    "surface": "気がある",
+    "reading": "kigaaru",
+    "code": "0101101",
+    "index": 798
+  },
+  {
+    "surface": "気が多い",
+    "reading": "kigaooi",
+    "code": "0101011",
+    "index": 799
+  },
+  {
+    "surface": "気が大きい",
+    "reading": "kigaookii",
+    "code": "010101011",
+    "index": 800
+  },
+  {
+    "surface": "気が置けない",
+    "reading": "kigaokenai",
+    "code": "0101101011",
+    "index": 801
+  },
+  {
+    "surface": "気が重い",
+    "reading": "kigaomoi",
+    "code": "01010011",
+    "index": 802
+  },
+  {
+    "surface": "気にかかる",
+    "reading": "kinikakaru",
+    "code": "0101x1x101",
+    "index": 803
+  },
+  {
+    "surface": "気が利く",
+    "reading": "kigakiku",
+    "code": "010101x1",
+    "index": 804
+  },
+  {
+    "surface": "気が気でない",
+    "reading": "kigakidenai",
+    "code": "01010101011",
+    "index": 805
+  },
+  {
+    "surface": "気が沈む",
+    "reading": "kigashizumu",
+    "code": "0101s000101",
+    "index": 806
+  },
+  {
+    "surface": "気が知れない",
+    "reading": "kigashirenai",
+    "code": "0101s0101011",
+    "index": 807
+  },
+  {
+    "surface": "機が熟する",
+    "reading": "kigazyukusuru",
+    "code": "0101b00x10101",
+    "index": 808
+  },
+  {
+    "surface": "気が進まない",
+    "reading": "kigasusumanai",
+    "code": "0101000101011",
+    "index": 809
+  },
+  {
+    "surface": "気が済む",
+    "reading": "kigasumu",
+    "code": "01010101",
+    "index": 810
+  },
+  {
+    "surface": "気が立つ",
+    "reading": "kigatatsu",
+    "code": "010101t01",
+    "index": 811
+  },
+  {
+    "surface": "気が散る",
+    "reading": "kigachiru",
+    "code": "0101c0101",
+    "index": 812
+  },
+  {
+    "surface": "気が付く",
+    "reading": "kigatsuku",
+    "code": "0101t01x1",
+    "index": 813
+  },
+  {
+    "surface": "気が強い",
+    "reading": "kigatsuyoi",
+    "code": "0101t00011",
+    "index": 814
+  },
+  {
+    "surface": "気が遠くなる",
+    "reading": "kigatookunaru",
+    "code": "0101001x10101",
+    "index": 815
+  },
+  {
+    "surface": "気が咎める",
+    "reading": "kigatogameru",
+    "code": "010100010101",
+    "index": 816
+  },
+  {
+    "surface": "気が長い",
+    "reading": "kiganagai",
+    "code": "010100011",
+    "index": 817
+  },
+  {
+    "surface": "気が抜ける",
+    "reading": "kiganukeru",
+    "code": "0101010101",
+    "index": 818
+  },
+  {
+    "surface": "気が乗らない",
+    "reading": "kiganoranai",
+    "code": "01010101011",
+    "index": 819
+  },
+  {
+    "surface": "気が早い",
+    "reading": "kigahayai",
+    "code": "010100011",
+    "index": 820
+  },
+  {
+    "surface": "気が引ける",
+    "reading": "kigahikeru",
+    "code": "0101010101",
+    "index": 821
+  },
+  {
+    "surface": "気が塞ぐ",
+    "reading": "kigahusagu",
+    "code": "0101f00101",
+    "index": 822
+  },
+  {
+    "surface": "気が紛れる",
+    "reading": "kigamagireru",
+    "code": "010100010101",
+    "index": 823
+  },
+  {
+    "surface": "気が回る",
+    "reading": "kigamawaru",
+    "code": "0101000101",
+    "index": 824
+  },
+  {
+    "surface": "気が短い",
+    "reading": "kigamizikai",
+    "code": "010100j0x11",
+    "index": 825
+  },
+  {
+    "surface": "気が向く",
+    "reading": "kigamuku",
+    "code": "010101x1",
+    "index": 826
+  },
+  {
+    "surface": "気が滅入る",
+    "reading": "kigameiru",
+    "code": "010101101",
+    "index": 827
+  },
+  {
+    "surface": "気がもめる",
+    "reading": "kigamomeru",
+    "code": "0101010101",
+    "index": 828
+  },
+  {
+    "surface": "気が休まる",
+    "reading": "kigayasumaru",
+    "code": "010100010101",
+    "index": 829
+  },
+  {
+    "surface": "気が緩む",
+    "reading": "kigayurumu",
+    "code": "0101000101",
+    "index": 830
+  },
+  {
+    "surface": "気が弱い",
+    "reading": "kigayowai",
+    "code": "010100011",
+    "index": 831
+  },
+  {
+    "surface": "気が若い",
+    "reading": "kigawakai",
+    "code": "010100x11",
+    "index": 832
+  },
+  {
+    "surface": "聞きしに勝る",
+    "reading": "kikishinimasaru",
+    "code": "0101s0101000101",
+    "index": 833
+  },
+  {
+    "surface": "聞き耳を立てる",
+    "reading": "kikimimiwotateru",
+    "code": "0101000101010101",
+    "index": 834
+  },
+  {
+    "surface": "聞き捨てならない",
+    "reading": "kikizutenaranai",
+    "code": "010101010101011",
+    "index": 835
+  },
+  {
+    "surface": "聞く耳を持たない",
+    "reading": "kikumimiwomotanai",
+    "code": "01x10001010101011",
+    "index": 836
+  },
+  {
+    "surface": "機嫌を損ねる",
+    "reading": "kigennwosokoneru",
+    "code": "0100n10100x10101",
+    "index": 837
+  },
+  {
+    "surface": "気心が知れる",
+    "reading": "kigokorogashireru",
+    "code": "0100x00101s010101",
+    "index": 838
+  },
+  {
+    "surface": "机上の空論",
+    "reading": "kizyounokuuronn",
+    "code": "01b00101x0100u1",
+    "index": 839
+  },
+  {
+    "surface": "傷がつく",
+    "reading": "kizugatsuku",
+    "code": "000101t01x1",
+    "index": 840
+  },
+  {
+    "surface": "気勢をそがれる",
+    "reading": "kiseiwosogareru",
+    "code": "010010101010101",
+    "index": 841
+  },
+  {
+    "surface": "犠牲を払う",
+    "reading": "giseiwoharau",
+    "code": "010010100011",
+    "index": 842
+  },
+  {
+    "surface": "着たきり雀",
+    "reading": "kitakirisuzume",
+    "code": "01010101000001",
+    "index": 843
+  },
+  {
+    "surface": "機知に富む",
+    "reading": "kichinitomu",
+    "code": "01c01010101",
+    "index": 844
+  },
+  {
+    "surface": "切っても切れない",
+    "reading": "kittemokirenai",
+    "code": "01101010101011",
+    "index": 845
+  },
+  {
+    "surface": "狐につままれる",
+    "reading": "kitsunenitsumamareru",
+    "code": "00t000101t0101010101",
+    "index": 846
+  },
+  {
+    "surface": "機転が利く",
+    "reading": "kitenngakiku",
+    "code": "0100n10101x1",
+    "index": 847
+  },
+  {
+    "surface": "軌道に乗る",
+    "reading": "kidouninoru",
+    "code": "01001010101",
+    "index": 848
+  },
+  {
+    "surface": "気勢を上げる",
+    "reading": "kiseiwoageru",
+    "code": "010010110101",
+    "index": 849
+  },
+  {
+    "surface": "気にかける",
+    "reading": "kinikakeru",
+    "code": "0101x10101",
+    "index": 850
+  },
+  {
+    "surface": "気に食わない",
+    "reading": "kinikuwanai",
+    "code": "0101x101011",
+    "index": 851
+  },
+  {
+    "surface": "気に障る",
+    "reading": "kinisawaru",
+    "code": "0101000101",
+    "index": 852
+  },
+  {
+    "surface": "機に乗ずる",
+    "reading": "kinizyouzuru",
+    "code": "0101b0010101",
+    "index": 853
+  },
+  {
+    "surface": "気にする",
+    "reading": "kinisuru",
+    "code": "01010101",
+    "index": 854
+  },
+  {
+    "surface": "気に病む",
+    "reading": "kiniyamu",
+    "code": "01010101",
+    "index": 855
+  },
+  {
+    "surface": "気の利いた",
+    "reading": "kinokiita",
+    "code": "010101101",
+    "index": 856
+  },
+  {
+    "surface": "気のせい",
+    "reading": "kinosei",
+    "code": "0101011",
+    "index": 857
+  },
+  {
+    "surface": "着の身着のまま",
+    "reading": "kinomikinomama",
+    "code": "01010101010101",
+    "index": 858
+  },
+  {
+    "surface": "起爆剤になる",
+    "reading": "kibakuzaininaru",
+    "code": "0100x1001010101",
+    "index": 859
+  },
+  {
+    "surface": "牙を研ぐ",
+    "reading": "kibawotogu",
+    "code": "0001010101",
+    "index": 860
+  },
+  {
+    "surface": "牙をむく",
+    "reading": "kibawomuku",
+    "code": "00010101x1",
+    "index": 861
+  },
+  {
+    "surface": "踵を返す",
+    "reading": "kibisuwokaesu",
+    "code": "00000101x0101",
+    "index": 862
+  },
+  {
+    "surface": "気前がいい",
+    "reading": "kimaegaii",
+    "code": "010010111",
+    "index": 863
+  },
+  {
+    "surface": "決まりが悪い",
+    "reading": "kimarigawarui",
+    "code": "0101010100011",
+    "index": 864
+  },
+  {
+    "surface": "気味がいい",
+    "reading": "kimigaii",
+    "code": "01010111",
+    "index": 865
+  },
+  {
+    "surface": "気味が悪い",
+    "reading": "kimigawarui",
+    "code": "01010100011",
+    "index": 866
+  },
+  {
+    "surface": "木目が細かい",
+    "reading": "kimegakomakai",
+    "code": "010101x001x11",
+    "index": 867
+  },
+  {
+    "surface": "肝っ玉が据わる",
+    "reading": "kimottamagasuwaru",
+    "code": "00011000101010101",
+    "index": 868
+  },
+  {
+    "surface": "肝に銘じる",
+    "reading": "kimonimeiziru",
+    "code": "000101001j101",
+    "index": 869
+  },
+  {
+    "surface": "肝をつぶす",
+    "reading": "kimowotsubusu",
+    "code": "000101t010101",
+    "index": 870
+  },
+  {
+    "surface": "肝を冷やす",
+    "reading": "kimowohiyasu",
+    "code": "000101010101",
+    "index": 871
+  },
+  {
+    "surface": "脚光を浴びる",
+    "reading": "kyakkouwoabiru",
+    "code": "000zV010110101",
+    "index": 872
+  },
+  {
+    "surface": "九死に一生を得る",
+    "reading": "kyuushiniisshouwoeru",
+    "code": "0001s0101010d0101101",
+    "index": 873
+  },
+  {
+    "surface": "急所を衝く",
+    "reading": "kyuushowotsuku",
+    "code": "00010d101t01x1",
+    "index": 874
+  },
+  {
+    "surface": "急場をしのぐ",
+    "reading": "kyuubawoshinogu",
+    "code": "00010101s010101",
+    "index": 875
+  },
+  {
+    "surface": "興に乗る",
+    "reading": "kyouninoru",
+    "code": "0001010101",
+    "index": 876
+  },
+  {
+    "surface": "行間を読む",
+    "reading": "gyoukannwoyomu",
+    "code": "0001x0n1010101",
+    "index": 877
+  },
+  {
+    "surface": "興に入る",
+    "reading": "kyouniiru",
+    "code": "000101101",
+    "index": 878
+  },
+  {
+    "surface": "虚勢を張る",
+    "reading": "kyoseiwoharu",
+    "code": "001001010101",
+    "index": 879
+  },
+  {
+    "surface": "教鞭を執る",
+    "reading": "kyoubennwotoru",
+    "code": "000100n1010101",
+    "index": 880
+  },
+  {
+    "surface": "切りがいい",
+    "reading": "kirigaii",
+    "code": "01010111",
+    "index": 881
+  },
+  {
+    "surface": "虚を衝く",
+    "reading": "kyowotsuku",
+    "code": "00101t01x1",
+    "index": 882
+  },
+  {
+    "surface": "切りがない",
+    "reading": "kiriganai",
+    "code": "010101011",
+    "index": 883
+  },
+  {
+    "surface": "切り札を出す",
+    "reading": "kirihudawodasu",
+    "code": "0101f001010101",
+    "index": 884
+  },
+  {
+    "surface": "義理が立つ",
+    "reading": "girigatatsu",
+    "code": "01010101t01",
+    "index": 885
+  },
+  {
+    "surface": "義理を欠く",
+    "reading": "giriwokaku",
+    "code": "010101x1x1",
+    "index": 886
+  },
+  {
+    "surface": "切りをつける",
+    "reading": "kiriwotsukeru",
+    "code": "010101t010101",
+    "index": 887
+  },
+  {
+    "surface": "岐路に立つ",
+    "reading": "kironitatsu",
+    "code": "01010101t01",
+    "index": 888
+  },
+  {
+    "surface": "機を逸する",
+    "reading": "kiwoissuru",
+    "code": "0101010101",
+    "index": 889
+  },
+  {
+    "surface": "機を窺う",
+    "reading": "kiwoukagau",
+    "code": "01010x0011",
+    "index": 890
+  },
+  {
+    "surface": "気を失う",
+    "reading": "kiwoushinau",
+    "code": "01010s00011",
+    "index": 891
+  },
+  {
+    "surface": "軌を一にする",
+    "reading": "kiwoitsunisuru",
+    "code": "01010t01010101",
+    "index": 892
+  },
+  {
+    "surface": "気を落とす",
+    "reading": "kiwootosu",
+    "code": "010110101",
+    "index": 893
+  },
+  {
+    "surface": "気を利かす",
+    "reading": "kiwokikasu",
+    "code": "010101x101",
+    "index": 894
+  },
+  {
+    "surface": "気を配る",
+    "reading": "kiwokubaru",
+    "code": "0101x00101",
+    "index": 895
+  },
+  {
+    "surface": "気を静める",
+    "reading": "kiwoshizumeru",
+    "code": "0101s00010101",
+    "index": 896
+  },
+  {
+    "surface": "気を遣う",
+    "reading": "kiwotsukau",
+    "code": "0101t00x11",
+    "index": 897
+  },
+  {
+    "surface": "気を付ける",
+    "reading": "kiwotsukeru",
+    "code": "0101t010101",
+    "index": 898
+  },
+  {
+    "surface": "奇をてらう",
+    "reading": "kiwoterau",
+    "code": "010101011",
+    "index": 899
+  },
+  {
+    "surface": "気を取り直す",
+    "reading": "kiwotorinaosu",
+    "code": "0101010100101",
+    "index": 900
+  },
+  {
+    "surface": "気を抜く",
+    "reading": "kiwonuku",
+    "code": "010101x1",
+    "index": 901
+  },
+  {
+    "surface": "気を吐く",
+    "reading": "kiwohaku",
+    "code": "010101x1",
+    "index": 902
+  },
+  {
+    "surface": "気を晴らす",
+    "reading": "kiwoharasu",
+    "code": "0101010101",
+    "index": 903
+  },
+  {
+    "surface": "気を引く",
+    "reading": "kiwohiku",
+    "code": "010101x1",
+    "index": 904
+  },
+  {
+    "surface": "気を回す",
+    "reading": "kiwomawasu",
+    "code": "0101000101",
+    "index": 905
+  },
+  {
+    "surface": "気を持たせる",
+    "reading": "kiwomotaseru",
+    "code": "010101010101",
+    "index": 906
+  },
+  {
+    "surface": "気を揉む",
+    "reading": "kiwomomu",
+    "code": "01010101",
+    "index": 907
+  },
+  {
+    "surface": "気を許す",
+    "reading": "kiwoyurusu",
+    "code": "0101000101",
+    "index": 908
+  },
+  {
+    "surface": "気を緩める",
+    "reading": "kiwoyurumeru",
+    "code": "010100010101",
+    "index": 909
+  },
+  {
+    "surface": "気を良くする",
+    "reading": "kiwoyokusuru",
+    "code": "010101x10101",
+    "index": 910
+  },
+  {
+    "surface": "気を悪くする",
+    "reading": "kiwowarukusuru",
+    "code": "01010001x10101",
+    "index": 911
+  },
+  {
+    "surface": "金魚のフン",
+    "reading": "kinngyonohunn",
+    "code": "00n100101f1u1",
+    "index": 912
+  },
+  {
+    "surface": "琴線に触れる",
+    "reading": "kinnsennnihureru",
+    "code": "00n100N1v1f10101",
+    "index": 913
+  },
+  {
+    "surface": "食いっぱぐれ",
+    "reading": "kuippagure",
+    "code": "x111010101",
+    "index": 914
+  },
+  {
+    "surface": "食い物にする",
+    "reading": "kuimononisuru",
+    "code": "x110001010101",
+    "index": 915
+  },
+  {
+    "surface": "ぐうの音も出ない",
+    "reading": "guunonemodenai",
+    "code": "01101010101011",
+    "index": 916
+  },
+  {
+    "surface": "釘付けになる",
+    "reading": "kugidukeninaru",
+    "code": "x0010101010101",
+    "index": 917
+  },
+  {
+    "surface": "苦言を呈する",
+    "reading": "kugennwoteisuru",
+    "code": "x100n1010010101",
+    "index": 918
+  },
+  {
+    "surface": "臭い飯を食う",
+    "reading": "kusaimeshiwokuu",
+    "code": "x001100s0101x11",
+    "index": 919
+  },
+  {
+    "surface": "輪を広げる",
+    "reading": "wawohirogeru",
+    "code": "010100010101",
+    "index": 920
+  },
+  {
+    "surface": "楔を打ち込む",
+    "reading": "kusabiwouchikomu",
+    "code": "x00001011c01x101",
+    "index": 921
+  },
+  {
+    "surface": "腐るほど",
+    "reading": "kusaruhodo",
+    "code": "x001010101",
+    "index": 922
+  },
+  {
+    "surface": "腐れ縁",
+    "reading": "kusareenn",
+    "code": "x001010u1",
+    "index": 923
+  },
+  {
+    "surface": "薬が効く",
+    "reading": "kusurigakiku",
+    "code": "x000010101x1",
+    "index": 924
+  },
+  {
+    "surface": "口裏を合わせる",
+    "reading": "kuchiurawoawaseru",
+    "code": "x0c01001011010101",
+    "index": 925
+  },
+  {
+    "surface": "口がうまい",
+    "reading": "kuchigaumai",
+    "code": "x0c01011011",
+    "index": 926
+  },
+  {
+    "surface": "口がうるさい",
+    "reading": "kuchigaurusai",
+    "code": "x0c0101101011",
+    "index": 927
+  },
+  {
+    "surface": "口が重い",
+    "reading": "kuchigaomoi",
+    "code": "x0c01010011",
+    "index": 928
+  },
+  {
+    "surface": "口が堅い",
+    "reading": "kuchigakatai",
+    "code": "x0c0101x0011",
+    "index": 929
+  },
+  {
+    "surface": "口が軽い",
+    "reading": "kuchigakarui",
+    "code": "x0c0101x0011",
+    "index": 930
+  },
+  {
+    "surface": "口が裂けても",
+    "reading": "kuchigasaketemo",
+    "code": "x0c010101010101",
+    "index": 931
+  },
+  {
+    "surface": "口がすべる",
+    "reading": "kuchigasuberu",
+    "code": "x0c0101010101",
+    "index": 932
+  },
+  {
+    "surface": "口が酸っぱくなる",
+    "reading": "kuchigasuppakunaru",
+    "code": "x0c010101101x10101",
+    "index": 933
+  },
+  {
+    "surface": "口が減らない",
+    "reading": "kuchigaheranai",
+    "code": "x0c01010101011",
+    "index": 934
+  },
+  {
+    "surface": "口が曲がる",
+    "reading": "kuchigamagaru",
+    "code": "x0c0101010101",
+    "index": 935
+  },
+  {
+    "surface": "口から出任せ",
+    "reading": "kuchikarademakase",
+    "code": "x0c01x1010100x101",
+    "index": 936
+  },
+  {
+    "surface": "口が悪い",
+    "reading": "kuchigawarui",
+    "code": "x0c010100011",
+    "index": 937
+  },
+  {
+    "surface": "口車に乗る",
+    "reading": "kuchigurumaninoru",
+    "code": "x0c01000001010101",
+    "index": 938
+  },
+  {
+    "surface": "口添えをする",
+    "reading": "kuchizoewosuru",
+    "code": "x0c01011010101",
+    "index": 939
+  },
+  {
+    "surface": "口に合う",
+    "reading": "kuchiniau",
+    "code": "x0c010111",
+    "index": 940
+  },
+  {
+    "surface": "口にする",
+    "reading": "kuchinisuru",
+    "code": "x0c01010101",
+    "index": 941
+  },
+  {
+    "surface": "口に出す",
+    "reading": "kuchinidasu",
+    "code": "x0c01010101",
+    "index": 942
+  },
+  {
+    "surface": "唇を噛む",
+    "reading": "kuchibiruwokamu",
+    "code": "x0c00000101x101",
+    "index": 943
+  },
+  {
+    "surface": "口火を切る",
+    "reading": "kuchibiwokiru",
+    "code": "x0c0101010101",
+    "index": 944
+  },
+  {
+    "surface": "口ほどにもない",
+    "reading": "kuchihodonimonai",
+    "code": "x0c0101010101011",
+    "index": 945
+  },
+  {
+    "surface": "口を利く",
+    "reading": "kuchiwokiku",
+    "code": "x0c010101x1",
+    "index": 946
+  },
+  {
+    "surface": "口を切る",
+    "reading": "kuchiwokiru",
+    "code": "x0c01010101",
+    "index": 947
+  },
+  {
+    "surface": "愚痴をこぼす",
+    "reading": "guchiwokobosu",
+    "code": "01c0101x10101",
+    "index": 948
+  },
+  {
+    "surface": "口を酸っぱくする",
+    "reading": "kuchiwosuppakusuru",
+    "code": "x0c010101101x10101",
+    "index": 949
+  },
+  {
+    "surface": "口を滑らす",
+    "reading": "kuchiwosuberasu",
+    "code": "x0c010100010101",
+    "index": 950
+  },
+  {
+    "surface": "口を添える",
+    "reading": "kuchiwosoeru",
+    "code": "x0c010101101",
+    "index": 951
+  },
+  {
+    "surface": "口を揃える",
+    "reading": "kuchiwosoroeru",
+    "code": "x0c01010001101",
+    "index": 952
+  },
+  {
+    "surface": "口を出す",
+    "reading": "kuchiwodasu",
+    "code": "x0c01010101",
+    "index": 953
+  },
+  {
+    "surface": "口をつぐむ",
+    "reading": "kuchiwotsugumu",
+    "code": "x0c0101t010101",
+    "index": 954
+  },
+  {
+    "surface": "口を慎む",
+    "reading": "kuchiwotsutsushimu",
+    "code": "x0c0101t00t00s0101",
+    "index": 955
+  },
+  {
+    "surface": "口を尖らす",
+    "reading": "kuchiwotogarasu",
+    "code": "x0c010100010101",
+    "index": 956
+  },
+  {
+    "surface": "口を閉ざす",
+    "reading": "kuchiwotozasu",
+    "code": "x0c0101010101",
+    "index": 957
+  },
+  {
+    "surface": "口を濁す",
+    "reading": "kuchiwonigosu",
+    "code": "x0c0101000101",
+    "index": 958
+  },
+  {
+    "surface": "口を拭う",
+    "reading": "kuchiwonuguu",
+    "code": "x0c010100011",
+    "index": 959
+  },
+  {
+    "surface": "口を挟む",
+    "reading": "kuchiwohasamu",
+    "code": "x0c0101000101",
+    "index": 960
+  },
+  {
+    "surface": "口を開く",
+    "reading": "kuchiwohiraku",
+    "code": "x0c01010001x1",
+    "index": 961
+  },
+  {
+    "surface": "口を封じる",
+    "reading": "kuchiwohuuziru",
+    "code": "x0c0101f01j101",
+    "index": 962
+  },
+  {
+    "surface": "口を塞ぐ",
+    "reading": "kuchiwohusagu",
+    "code": "x0c0101f00101",
+    "index": 963
+  },
+  {
+    "surface": "口を割る",
+    "reading": "kuchiwowaru",
+    "code": "x0c01010101",
+    "index": 964
+  },
+  {
+    "surface": "屈託が無い",
+    "reading": "kuttakuganai",
+    "code": "x0100x101011",
+    "index": 965
+  },
+  {
+    "surface": "食ってかかる",
+    "reading": "kuttekakaru",
+    "code": "x1101x1x101",
+    "index": 966
+  },
+  {
+    "surface": "苦肉の策",
+    "reading": "kunikunosaku",
+    "code": "x100x10100x1",
+    "index": 967
+  },
+  {
+    "surface": "苦にする",
+    "reading": "kunisuru",
+    "code": "x1010101",
+    "index": 968
+  },
+  {
+    "surface": "愚の骨頂",
+    "reading": "gunokottyou",
+    "code": "0101x060d01",
+    "index": 969
+  },
+  {
+    "surface": "首が危ない",
+    "reading": "kubigaabunai",
+    "code": "x00101001011",
+    "index": 970
+  },
+  {
+    "surface": "首がつながる",
+    "reading": "kubigatsunagaru",
+    "code": "x00101t01010101",
+    "index": 971
+  },
+  {
+    "surface": "首が飛ぶ",
+    "reading": "kubigatobu",
+    "code": "x001010101",
+    "index": 972
+  },
+  {
+    "surface": "首が回らない",
+    "reading": "kubigamawaranai",
+    "code": "x00101000101011",
+    "index": 973
+  },
+  {
+    "surface": "首にする",
+    "reading": "kubinisuru",
+    "code": "x001010101",
+    "index": 974
+  },
+  {
+    "surface": "首根っこを押さえる",
+    "reading": "kubinekkowoosaeru",
+    "code": "x00101zV101101101",
+    "index": 975
+  },
+  {
+    "surface": "首をかしげる",
+    "reading": "kubiwokashigeru",
+    "code": "x00101x1s010101",
+    "index": 976
+  },
+  {
+    "surface": "首を切る",
+    "reading": "kubiwokiru",
+    "code": "x001010101",
+    "index": 977
+  },
+  {
+    "surface": "首をくくる",
+    "reading": "kubiwokukuru",
+    "code": "x00101x1x101",
+    "index": 978
+  },
+  {
+    "surface": "首を絞める",
+    "reading": "kubiwoshimeru",
+    "code": "x00101s010101",
+    "index": 979
+  },
+  {
+    "surface": "首を揃える",
+    "reading": "kubiwosoroeru",
+    "code": "x001010001101",
+    "index": 980
+  },
+  {
+    "surface": "首を縦に振る",
+    "reading": "kubiwotatenihuru",
+    "code": "x00101000101f101",
+    "index": 981
+  },
+  {
+    "surface": "首を突っ込む",
+    "reading": "kubiwotsukkomu",
+    "code": "x00101t01zV101",
+    "index": 982
+  },
+  {
+    "surface": "首を長くする",
+    "reading": "kubiwonagakusuru",
+    "code": "x001010001x10101",
+    "index": 983
+  },
+  {
+    "surface": "首をひねる",
+    "reading": "kubiwohineru",
+    "code": "x00101010101",
+    "index": 984
+  },
+  {
+    "surface": "工夫を凝らす",
+    "reading": "kuhuuwokorasu",
+    "code": "x1f0101x10101",
+    "index": 985
+  },
+  {
+    "surface": "蜘蛛の子を散らす",
+    "reading": "kumonokowochirasu",
+    "code": "x10101x101c010101",
+    "index": 986
+  },
+  {
+    "surface": "雲行きが怪しい",
+    "reading": "kumoyukigaayashii",
+    "code": "x001010101001s011",
+    "index": 987
+  },
+  {
+    "surface": "暮らしを立てる",
+    "reading": "kurashiwotateru",
+    "code": "x101s0101010101",
+    "index": 988
+  },
+  {
+    "surface": "ぐるになる",
+    "reading": "guruninaru",
+    "code": "0101010101",
+    "index": 989
+  },
+  {
+    "surface": "黒子に徹する",
+    "reading": "kurokonitessuru",
+    "code": "x001x1010010101",
+    "index": 990
+  },
+  {
+    "surface": "軍配が上がる",
+    "reading": "gunnbaigaagaru",
+    "code": "00n10010110101",
+    "index": 991
+  },
+  {
+    "surface": "群を抜く",
+    "reading": "gunnwonuku",
+    "code": "00n10101x1",
+    "index": 992
+  },
+  {
+    "surface": "景気をつける",
+    "reading": "keikiwotsukeru",
+    "code": "0010101t010101",
+    "index": 993
+  },
+  {
+    "surface": "計算に入れる",
+    "reading": "keisannniireru",
+    "code": "00100N1v110101",
+    "index": 994
+  },
+  {
+    "surface": "毛色が違う",
+    "reading": "keirogachigau",
+    "code": "0100101c00011",
+    "index": 995
+  },
+  {
+    "surface": "芸が細かい",
+    "reading": "geigakomakai",
+    "code": "00101x001x11",
+    "index": 996
+  },
+  {
+    "surface": "芸がない",
+    "reading": "geiganai",
+    "code": "00101011",
+    "index": 997
+  },
+  {
+    "surface": "逆鱗に触れる",
+    "reading": "gekirinnnihureru",
+    "code": "000100N1v1f10101",
+    "index": 998
+  },
+  {
+    "surface": "檄を飛ばす",
+    "reading": "gekiwotobasu",
+    "code": "000101010101",
+    "index": 999
+  },
+  {
+    "surface": "けじめをつける",
+    "reading": "kezimewotsukeru",
+    "code": "01j10101t010101",
+    "index": 1000
+  }
+]

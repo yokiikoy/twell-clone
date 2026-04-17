@@ -1,0 +1,6607 @@
+{
+  "schemaVersion": 1,
+  "source": "twjrdecomp/Kan2.bas",
+  "count": 1100,
+  "triples": [
+    {
+      "surface": "終始一貫",
+      "reading": "shuushiikkann",
+      "code": "0d01s010zV0u1",
+      "index": 0
+    },
+    {
+      "surface": "終日",
+      "reading": "shuuzitsu",
+      "code": "0d01j0t01",
+      "index": 1
+    },
+    {
+      "surface": "充実",
+      "reading": "zyuuzitsu",
+      "code": "b001j0t01",
+      "index": 2
+    },
+    {
+      "surface": "終止符",
+      "reading": "shuushihu",
+      "code": "0d01s01f1",
+      "index": 3
+    },
+    {
+      "surface": "収拾",
+      "reading": "shuushuu",
+      "code": "0d010d01",
+      "index": 4
+    },
+    {
+      "surface": "従順",
+      "reading": "zyuuzyunn",
+      "code": "b001b00u1",
+      "index": 5
+    },
+    {
+      "surface": "修飾",
+      "reading": "shuushoku",
+      "code": "0d010d0x1",
+      "index": 6
+    },
+    {
+      "surface": "修繕",
+      "reading": "shuuzenn",
+      "code": "0d0100u1",
+      "index": 7
+    },
+    {
+      "surface": "秋霜烈日",
+      "reading": "shuusouretsuzitsu",
+      "code": "0d0100100t01j0t01",
+      "index": 8
+    },
+    {
+      "surface": "醜態",
+      "reading": "shuutai",
+      "code": "0d01001",
+      "index": 9
+    },
+    {
+      "surface": "集大成",
+      "reading": "shuutaisei",
+      "code": "0d01001001",
+      "index": 10
+    },
+    {
+      "surface": "銃弾",
+      "reading": "zyuudann",
+      "code": "b00100u1",
+      "index": 11
+    },
+    {
+      "surface": "周知",
+      "reading": "shuuchi",
+      "code": "0d01c01",
+      "index": 12
+    },
+    {
+      "surface": "周到",
+      "reading": "shuutou",
+      "code": "0d01001",
+      "index": 13
+    },
+    {
+      "surface": "収入",
+      "reading": "shuunyuu",
+      "code": "0d010001",
+      "index": 14
+    },
+    {
+      "surface": "執念",
+      "reading": "shuunenn",
+      "code": "0d0100u1",
+      "index": 15
+    },
+    {
+      "surface": "収納",
+      "reading": "shuunou",
+      "code": "0d01001",
+      "index": 16
+    },
+    {
+      "surface": "秋分",
+      "reading": "shuubunn",
+      "code": "0d0100u1",
+      "index": 17
+    },
+    {
+      "surface": "周辺",
+      "reading": "shuuhenn",
+      "code": "0d0100u1",
+      "index": 18
+    },
+    {
+      "surface": "週末",
+      "reading": "shuumatsu",
+      "code": "0d0100t01",
+      "index": 19
+    },
+    {
+      "surface": "十文字",
+      "reading": "zyuumonnzi",
+      "code": "b00100n1j1",
+      "index": 20
+    },
+    {
+      "surface": "樹海",
+      "reading": "zyukai",
+      "code": "b01x01",
+      "index": 21
+    },
+    {
+      "surface": "修行",
+      "reading": "shugyou",
+      "code": "0d10001",
+      "index": 22
+    },
+    {
+      "surface": "儒教",
+      "reading": "zyukyou",
+      "code": "b010001",
+      "index": 23
+    },
+    {
+      "surface": "塾",
+      "reading": "zyuku",
+      "code": "b00x1",
+      "index": 24
+    },
+    {
+      "surface": "祝日",
+      "reading": "shukuzitsu",
+      "code": "0d0x1j0t01",
+      "index": 25
+    },
+    {
+      "surface": "淑女",
+      "reading": "shukuzyo",
+      "code": "0d0x1b01",
+      "index": 26
+    },
+    {
+      "surface": "縮図",
+      "reading": "shukuzu",
+      "code": "0d0x101",
+      "index": 27
+    },
+    {
+      "surface": "熟睡",
+      "reading": "zyukusui",
+      "code": "b00x1001",
+      "index": 28
+    },
+    {
+      "surface": "祝杯",
+      "reading": "shukuhai",
+      "code": "0d0x1001",
+      "index": 29
+    },
+    {
+      "surface": "宿泊",
+      "reading": "shukuhaku",
+      "code": "0d0x100x1",
+      "index": 30
+    },
+    {
+      "surface": "趣向",
+      "reading": "shukou",
+      "code": "0d1x01",
+      "index": 31
+    },
+    {
+      "surface": "主宰",
+      "reading": "shusai",
+      "code": "0d1001",
+      "index": 32
+    },
+    {
+      "surface": "趣旨",
+      "reading": "shushi",
+      "code": "0d1s01",
+      "index": 33
+    },
+    {
+      "surface": "主治医",
+      "reading": "shuzii",
+      "code": "0d1j11",
+      "index": 34
+    },
+    {
+      "surface": "取捨選択",
+      "reading": "shushasenntaku",
+      "code": "0d10d100n100x1",
+      "index": 35
+    },
+    {
+      "surface": "首相",
+      "reading": "shushou",
+      "code": "0d10d01",
+      "index": 36
+    },
+    {
+      "surface": "数珠",
+      "reading": "zyuzu",
+      "code": "b0101",
+      "index": 37
+    },
+    {
+      "surface": "守銭奴",
+      "reading": "shusenndo",
+      "code": "0d100n101",
+      "index": 38
+    },
+    {
+      "surface": "手段",
+      "reading": "shudann",
+      "code": "0d100u1",
+      "index": 39
+    },
+    {
+      "surface": "出勤",
+      "reading": "shukkinn",
+      "code": "0d0100u1",
+      "index": 40
+    },
+    {
+      "surface": "出題",
+      "reading": "shutsudai",
+      "code": "0d0t01001",
+      "index": 41
+    },
+    {
+      "surface": "出没",
+      "reading": "shutsubotsu",
+      "code": "0d0t0100t01",
+      "index": 42
+    },
+    {
+      "surface": "朱肉",
+      "reading": "shuniku",
+      "code": "0d100x1",
+      "index": 43
+    },
+    {
+      "surface": "首脳",
+      "reading": "shunou",
+      "code": "0d1001",
+      "index": 44
+    },
+    {
+      "surface": "首尾一貫",
+      "reading": "shubiikkann",
+      "code": "0d1010zV0u1",
+      "index": 45
+    },
+    {
+      "surface": "首府",
+      "reading": "shuhu",
+      "code": "0d1f1",
+      "index": 46
+    },
+    {
+      "surface": "主婦",
+      "reading": "shuhu",
+      "code": "0d1f1",
+      "index": 47
+    },
+    {
+      "surface": "首謀者",
+      "reading": "shubousha",
+      "code": "0d10010d1",
+      "index": 48
+    },
+    {
+      "surface": "寿命",
+      "reading": "zyumyou",
+      "code": "b010001",
+      "index": 49
+    },
+    {
+      "surface": "狩猟",
+      "reading": "shuryou",
+      "code": "0d10001",
+      "index": 50
+    },
+    {
+      "surface": "手腕",
+      "reading": "shuwann",
+      "code": "0d100u1",
+      "index": 51
+    },
+    {
+      "surface": "巡回",
+      "reading": "zyunnkai",
+      "code": "b00n1x01",
+      "index": 52
+    },
+    {
+      "surface": "瞬間",
+      "reading": "shunnkann",
+      "code": "0d0n1x0u1",
+      "index": 53
+    },
+    {
+      "surface": "循環",
+      "reading": "zyunnkann",
+      "code": "b00n1x0u1",
+      "index": 54
+    },
+    {
+      "surface": "純潔",
+      "reading": "zyunnketsu",
+      "code": "b00n100t01",
+      "index": 55
+    },
+    {
+      "surface": "遵守",
+      "reading": "zyunnshu",
+      "code": "b00n10d1",
+      "index": 56
+    },
+    {
+      "surface": "殉職",
+      "reading": "zyunnshoku",
+      "code": "b00n10d0x1",
+      "index": 57
+    },
+    {
+      "surface": "純粋",
+      "reading": "zyunnsui",
+      "code": "b00n1001",
+      "index": 58
+    },
+    {
+      "surface": "潤沢",
+      "reading": "zyunntaku",
+      "code": "b00n100x1",
+      "index": 59
+    },
+    {
+      "surface": "順調",
+      "reading": "zyunnchou",
+      "code": "b00n1gh01",
+      "index": 60
+    },
+    {
+      "surface": "俊敏",
+      "reading": "shunnbinn",
+      "code": "0d0n100u1",
+      "index": 61
+    },
+    {
+      "surface": "仕様",
+      "reading": "shiyou",
+      "code": "s01001",
+      "index": 62
+    },
+    {
+      "surface": "滋養",
+      "reading": "ziyou",
+      "code": "j1001",
+      "index": 63
+    },
+    {
+      "surface": "浄化",
+      "reading": "zyouka",
+      "code": "b001x1",
+      "index": 64
+    },
+    {
+      "surface": "紹介",
+      "reading": "shoukai",
+      "code": "0d01x01",
+      "index": 65
+    },
+    {
+      "surface": "生涯",
+      "reading": "shougai",
+      "code": "0d01001",
+      "index": 66
+    },
+    {
+      "surface": "消火栓",
+      "reading": "shoukasenn",
+      "code": "0d01x100u1",
+      "index": 67
+    },
+    {
+      "surface": "城下町",
+      "reading": "zyoukamachi",
+      "code": "b001x100c01",
+      "index": 68
+    },
+    {
+      "surface": "召還",
+      "reading": "shoukann",
+      "code": "0d01x0u1",
+      "index": 69
+    },
+    {
+      "surface": "将棋",
+      "reading": "shougi",
+      "code": "0d0101",
+      "index": 70
+    },
+    {
+      "surface": "蒸気",
+      "reading": "zyouki",
+      "code": "b00101",
+      "index": 71
+    },
+    {
+      "surface": "定規",
+      "reading": "zyougi",
+      "code": "b00101",
+      "index": 72
+    },
+    {
+      "surface": "焼却",
+      "reading": "shoukyaku",
+      "code": "0d01000x1",
+      "index": 73
+    },
+    {
+      "surface": "状況",
+      "reading": "zyoukyou",
+      "code": "b0010001",
+      "index": 74
+    },
+    {
+      "surface": "条件",
+      "reading": "zyoukenn",
+      "code": "b00100u1",
+      "index": 75
+    },
+    {
+      "surface": "上弦",
+      "reading": "zyougenn",
+      "code": "b00100u1",
+      "index": 76
+    },
+    {
+      "surface": "証拠",
+      "reading": "shouko",
+      "code": "0d01x1",
+      "index": 77
+    },
+    {
+      "surface": "小康状態",
+      "reading": "shoukouzyoutai",
+      "code": "0d01x01b001001",
+      "index": 78
+    },
+    {
+      "surface": "錠剤",
+      "reading": "zyouzai",
+      "code": "b001001",
+      "index": 79
+    },
+    {
+      "surface": "称賛",
+      "reading": "shousann",
+      "code": "0d0100u1",
+      "index": 80
+    },
+    {
+      "surface": "硝酸",
+      "reading": "shousann",
+      "code": "0d0100u1",
+      "index": 81
+    },
+    {
+      "surface": "障子",
+      "reading": "shouzi",
+      "code": "0d01j1",
+      "index": 82
+    },
+    {
+      "surface": "上司",
+      "reading": "zyoushi",
+      "code": "b001s01",
+      "index": 83
+    },
+    {
+      "surface": "成就",
+      "reading": "zyouzyu",
+      "code": "b001b01",
+      "index": 84
+    },
+    {
+      "surface": "上旬",
+      "reading": "zyouzyunn",
+      "code": "b001b00u1",
+      "index": 85
+    },
+    {
+      "surface": "症状",
+      "reading": "shouzyou",
+      "code": "0d01b001",
+      "index": 86
+    },
+    {
+      "surface": "昇進",
+      "reading": "shoushinn",
+      "code": "0d01s00u1",
+      "index": 87
+    },
+    {
+      "surface": "精進",
+      "reading": "shouzinn",
+      "code": "0d01j0u1",
+      "index": 88
+    },
+    {
+      "surface": "正真正銘",
+      "reading": "shoushinnshoumei",
+      "code": "0d01s00n10d01001",
+      "index": 89
+    },
+    {
+      "surface": "情勢",
+      "reading": "zyousei",
+      "code": "b001001",
+      "index": 90
+    },
+    {
+      "surface": "定石",
+      "reading": "zyouseki",
+      "code": "b0010001",
+      "index": 91
+    },
+    {
+      "surface": "尚早",
+      "reading": "shousou",
+      "code": "0d01001",
+      "index": 92
+    },
+    {
+      "surface": "肖像",
+      "reading": "shouzou",
+      "code": "0d01001",
+      "index": 93
+    },
+    {
+      "surface": "醸造",
+      "reading": "zyouzou",
+      "code": "b001001",
+      "index": 94
+    },
+    {
+      "surface": "消息",
+      "reading": "shousoku",
+      "code": "0d0100x1",
+      "index": 95
+    },
+    {
+      "surface": "招待",
+      "reading": "shoutai",
+      "code": "0d01001",
+      "index": 96
+    },
+    {
+      "surface": "状態",
+      "reading": "zyoutai",
+      "code": "b001001",
+      "index": 97
+    },
+    {
+      "surface": "承諾",
+      "reading": "shoudaku",
+      "code": "0d0100x1",
+      "index": 98
+    },
+    {
+      "surface": "冗談",
+      "reading": "zyoudann",
+      "code": "b00100u1",
+      "index": 99
+    },
+    {
+      "surface": "松竹梅",
+      "reading": "shouchikubai",
+      "code": "0d01c00x1001",
+      "index": 100
+    },
+    {
+      "surface": "掌中",
+      "reading": "shouchuu",
+      "code": "0d01gh01",
+      "index": 101
+    },
+    {
+      "surface": "象徴",
+      "reading": "shouchou",
+      "code": "0d01gh01",
+      "index": 102
+    },
+    {
+      "surface": "焦土",
+      "reading": "shoudo",
+      "code": "0d0101",
+      "index": 103
+    },
+    {
+      "surface": "小児科",
+      "reading": "shounika",
+      "code": "0d0101x1",
+      "index": 104
+    },
+    {
+      "surface": "情熱",
+      "reading": "zyounetsu",
+      "code": "b00100t01",
+      "index": 105
+    },
+    {
+      "surface": "乗馬",
+      "reading": "zyouba",
+      "code": "b00101",
+      "index": 106
+    },
+    {
+      "surface": "笑納",
+      "reading": "shounou",
+      "code": "0d01001",
+      "index": 107
+    },
+    {
+      "surface": "商売敵",
+      "reading": "shoubaigataki",
+      "code": "0d01001000001",
+      "index": 108
+    },
+    {
+      "surface": "丈夫",
+      "reading": "zyoubu",
+      "code": "b00101",
+      "index": 109
+    },
+    {
+      "surface": "抄本",
+      "reading": "shouhonn",
+      "code": "0d0100u1",
+      "index": 110
+    },
+    {
+      "surface": "枝葉末節",
+      "reading": "shiyoumassetsu",
+      "code": "s0100100100t01",
+      "index": 111
+    },
+    {
+      "surface": "静脈",
+      "reading": "zyoumyaku",
+      "code": "b001000x1",
+      "index": 112
+    },
+    {
+      "surface": "消滅",
+      "reading": "shoumetsu",
+      "code": "0d0100t01",
+      "index": 113
+    },
+    {
+      "surface": "消耗",
+      "reading": "shoumou",
+      "code": "0d01001",
+      "index": 114
+    },
+    {
+      "surface": "奨励",
+      "reading": "shourei",
+      "code": "0d01001",
+      "index": 115
+    },
+    {
+      "surface": "鐘楼",
+      "reading": "shourou",
+      "code": "0d01001",
+      "index": 116
+    },
+    {
+      "surface": "初夏",
+      "reading": "shoka",
+      "code": "0d1x1",
+      "index": 117
+    },
+    {
+      "surface": "除外",
+      "reading": "zyogai",
+      "code": "b01001",
+      "index": 118
+    },
+    {
+      "surface": "助監督",
+      "reading": "zyokanntoku",
+      "code": "b01x0n100x1",
+      "index": 119
+    },
+    {
+      "surface": "食塩",
+      "reading": "shokuenn",
+      "code": "0d0x10u1",
+      "index": 120
+    },
+    {
+      "surface": "職業",
+      "reading": "shokugyou",
+      "code": "0d0x10001",
+      "index": 121
+    },
+    {
+      "surface": "植物",
+      "reading": "shokubutsu",
+      "code": "0d0x100t01",
+      "index": 122
+    },
+    {
+      "surface": "徐行",
+      "reading": "zyokou",
+      "code": "b01x01",
+      "index": 123
+    },
+    {
+      "surface": "書斎",
+      "reading": "shosai",
+      "code": "0d1001",
+      "index": 124
+    },
+    {
+      "surface": "叙述",
+      "reading": "zyozyutsu",
+      "code": "b01b00t01",
+      "index": 125
+    },
+    {
+      "surface": "処女作",
+      "reading": "shozyosaku",
+      "code": "0d1b0100x1",
+      "index": 126
+    },
+    {
+      "surface": "処世訓",
+      "reading": "shoseikunn",
+      "code": "0d1001x0u1",
+      "index": 127
+    },
+    {
+      "surface": "書籍",
+      "reading": "shoseki",
+      "code": "0d10001",
+      "index": 128
+    },
+    {
+      "surface": "処置",
+      "reading": "shochi",
+      "code": "0d1c01",
+      "index": 129
+    },
+    {
+      "surface": "所得",
+      "reading": "shotoku",
+      "code": "0d100x1",
+      "index": 130
+    },
+    {
+      "surface": "諸般",
+      "reading": "shohann",
+      "code": "0d100u1",
+      "index": 131
+    },
+    {
+      "surface": "庶民",
+      "reading": "shominn",
+      "code": "0d100u1",
+      "index": 132
+    },
+    {
+      "surface": "署名",
+      "reading": "shomei",
+      "code": "0d1001",
+      "index": 133
+    },
+    {
+      "surface": "白壁",
+      "reading": "shirakabe",
+      "code": "s0001x001",
+      "index": 134
+    },
+    {
+      "surface": "退ける",
+      "reading": "shirizokeru",
+      "code": "s0000010101",
+      "index": 135
+    },
+    {
+      "surface": "支離滅裂",
+      "reading": "shirimetsuretsu",
+      "code": "s010100t0100t01",
+      "index": 136
+    },
+    {
+      "surface": "試練",
+      "reading": "shirenn",
+      "code": "s0100u1",
+      "index": 137
+    },
+    {
+      "surface": "素人",
+      "reading": "shirouto",
+      "code": "s0000101",
+      "index": 138
+    },
+    {
+      "surface": "白星",
+      "reading": "shiroboshi",
+      "code": "s000100s01",
+      "index": 139
+    },
+    {
+      "surface": "仕業",
+      "reading": "shiwaza",
+      "code": "s010001",
+      "index": 140
+    },
+    {
+      "surface": "師走",
+      "reading": "shiwasu",
+      "code": "s010001",
+      "index": 141
+    },
+    {
+      "surface": "新案",
+      "reading": "shinnann",
+      "code": "s00N1vu1",
+      "index": 142
+    },
+    {
+      "surface": "侵害",
+      "reading": "shinngai",
+      "code": "s00n1001",
+      "index": 143
+    },
+    {
+      "surface": "真偽",
+      "reading": "shinngi",
+      "code": "s00n101",
+      "index": 144
+    },
+    {
+      "surface": "心機一転",
+      "reading": "shinnkiittenn",
+      "code": "s00n1010100u1",
+      "index": 145
+    },
+    {
+      "surface": "新機軸",
+      "reading": "shinnkiziku",
+      "code": "s00n101j0x1",
+      "index": 146
+    },
+    {
+      "surface": "新旧",
+      "reading": "shinnkyuu",
+      "code": "s00n10001",
+      "index": 147
+    },
+    {
+      "surface": "辛苦",
+      "reading": "shinnku",
+      "code": "s00n1x1",
+      "index": 148
+    },
+    {
+      "surface": "深紅",
+      "reading": "shinnku",
+      "code": "s00n1x1",
+      "index": 149
+    },
+    {
+      "surface": "神宮",
+      "reading": "zinnguu",
+      "code": "j0n1001",
+      "index": 150
+    },
+    {
+      "surface": "進言",
+      "reading": "shinngenn",
+      "code": "s00n100u1",
+      "index": 151
+    },
+    {
+      "surface": "信仰",
+      "reading": "shinnkou",
+      "code": "s00n1x01",
+      "index": 152
+    },
+    {
+      "surface": "人材",
+      "reading": "zinnzai",
+      "code": "j0n1001",
+      "index": 153
+    },
+    {
+      "surface": "診察",
+      "reading": "shinnsatsu",
+      "code": "s00n100t01",
+      "index": 154
+    },
+    {
+      "surface": "辛酸",
+      "reading": "shinnsann",
+      "code": "s00n100u1",
+      "index": 155
+    },
+    {
+      "surface": "紳士",
+      "reading": "shinnshi",
+      "code": "s00n1s01",
+      "index": 156
+    },
+    {
+      "surface": "寝室",
+      "reading": "shinnshitsu",
+      "code": "s00n1s00t01",
+      "index": 157
+    },
+    {
+      "surface": "神社",
+      "reading": "zinnzya",
+      "code": "j0n1b01",
+      "index": 158
+    },
+    {
+      "surface": "真珠",
+      "reading": "shinnzyu",
+      "code": "s00n1b01",
+      "index": 159
+    },
+    {
+      "surface": "神出鬼没",
+      "reading": "shinnshutsukibotsu",
+      "code": "s00n10d0t010100t01",
+      "index": 160
+    },
+    {
+      "surface": "信賞必罰",
+      "reading": "shinnshouhitsubatsu",
+      "code": "s00n10d0100t0100t01",
+      "index": 161
+    },
+    {
+      "surface": "針小棒大",
+      "reading": "shinnshouboudai",
+      "code": "s00n10d01001001",
+      "index": 162
+    },
+    {
+      "surface": "心身",
+      "reading": "shinnshinn",
+      "code": "s00n1s00u1",
+      "index": 163
+    },
+    {
+      "surface": "心神耗弱",
+      "reading": "shinnshinnkouzyaku",
+      "code": "s00n1s00n1x01b00x1",
+      "index": 164
+    },
+    {
+      "surface": "浸水",
+      "reading": "shinnsui",
+      "code": "s00n1001",
+      "index": 165
+    },
+    {
+      "surface": "申請",
+      "reading": "shinnsei",
+      "code": "s00n1001",
+      "index": 166
+    },
+    {
+      "surface": "人跡未踏",
+      "reading": "zinnsekimitou",
+      "code": "j0n1000101001",
+      "index": 167
+    },
+    {
+      "surface": "親切",
+      "reading": "shinnsetsu",
+      "code": "s00n100t01",
+      "index": 168
+    },
+    {
+      "surface": "新鮮",
+      "reading": "shinnsenn",
+      "code": "s00n100u1",
+      "index": 169
+    },
+    {
+      "surface": "迅速",
+      "reading": "zinnsoku",
+      "code": "j0n100x1",
+      "index": 170
+    },
+    {
+      "surface": "甚大",
+      "reading": "zinndai",
+      "code": "j0n1001",
+      "index": 171
+    },
+    {
+      "surface": "慎重",
+      "reading": "shinnchou",
+      "code": "s00n1gh01",
+      "index": 172
+    },
+    {
+      "surface": "新陳代謝",
+      "reading": "shinnchinntaisha",
+      "code": "s00n1c00n10010d1",
+      "index": 173
+    },
+    {
+      "surface": "陣痛",
+      "reading": "zinntsuu",
+      "code": "j0n1t001",
+      "index": 174
+    },
+    {
+      "surface": "神通力",
+      "reading": "zinntsuuriki",
+      "code": "j0n1t0010001",
+      "index": 175
+    },
+    {
+      "surface": "親展",
+      "reading": "shinntenn",
+      "code": "s00n100u1",
+      "index": 176
+    },
+    {
+      "surface": "信念",
+      "reading": "shinnnenn",
+      "code": "s00N1v0u1",
+      "index": 177
+    },
+    {
+      "surface": "審判",
+      "reading": "shinnpann",
+      "code": "s00n100u1",
+      "index": 178
+    },
+    {
+      "surface": "神秘",
+      "reading": "shinnpi",
+      "code": "s00n101",
+      "index": 179
+    },
+    {
+      "surface": "審美眼",
+      "reading": "shinnbigann",
+      "code": "s00n10100u1",
+      "index": 180
+    },
+    {
+      "surface": "尋問",
+      "reading": "zinnmonn",
+      "code": "j0n100u1",
+      "index": 181
+    },
+    {
+      "surface": "深夜",
+      "reading": "shinnya",
+      "code": "s00N1v1",
+      "index": 182
+    },
+    {
+      "surface": "親友",
+      "reading": "shinnyuu",
+      "code": "s00N1v01",
+      "index": 183
+    },
+    {
+      "surface": "森羅万象",
+      "reading": "shinnrabannshou",
+      "code": "s00n10100n10d01",
+      "index": 184
+    },
+    {
+      "surface": "侵略",
+      "reading": "shinnryaku",
+      "code": "s00n1000x1",
+      "index": 185
+    },
+    {
+      "surface": "森林",
+      "reading": "shinnrinn",
+      "code": "s00n100u1",
+      "index": 186
+    },
+    {
+      "surface": "新郎",
+      "reading": "shinnrou",
+      "code": "s00n1001",
+      "index": 187
+    },
+    {
+      "surface": "素足",
+      "reading": "suashi",
+      "code": "010s01",
+      "index": 188
+    },
+    {
+      "surface": "推移",
+      "reading": "suii",
+      "code": "0011",
+      "index": 189
+    },
+    {
+      "surface": "水泳",
+      "reading": "suiei",
+      "code": "00101",
+      "index": 190
+    },
+    {
+      "surface": "水銀",
+      "reading": "suiginn",
+      "code": "00100u1",
+      "index": 191
+    },
+    {
+      "surface": "遂行",
+      "reading": "suikou",
+      "code": "001x01",
+      "index": 192
+    },
+    {
+      "surface": "酔生夢死",
+      "reading": "suiseimushi",
+      "code": "00100101s01",
+      "index": 193
+    },
+    {
+      "surface": "推薦",
+      "reading": "suisenn",
+      "code": "00100u1",
+      "index": 194
+    },
+    {
+      "surface": "吹奏",
+      "reading": "suisou",
+      "code": "001001",
+      "index": 195
+    },
+    {
+      "surface": "推測",
+      "reading": "suisoku",
+      "code": "00100x1",
+      "index": 196
+    },
+    {
+      "surface": "水滴",
+      "reading": "suiteki",
+      "code": "0010001",
+      "index": 197
+    },
+    {
+      "surface": "出納",
+      "reading": "suitou",
+      "code": "001001",
+      "index": 198
+    },
+    {
+      "surface": "炊飯",
+      "reading": "suihann",
+      "code": "00100u1",
+      "index": 199
+    },
+    {
+      "surface": "水泡",
+      "reading": "suihou",
+      "code": "001001",
+      "index": 200
+    },
+    {
+      "surface": "数字",
+      "reading": "suuzi",
+      "code": "001j1",
+      "index": 201
+    },
+    {
+      "surface": "崇拝",
+      "reading": "suuhai",
+      "code": "001001",
+      "index": 202
+    },
+    {
+      "surface": "据える",
+      "reading": "sueru",
+      "code": "01101",
+      "index": 203
+    },
+    {
+      "surface": "素顔",
+      "reading": "sugao",
+      "code": "01001",
+      "index": 204
+    },
+    {
+      "surface": "杉並木",
+      "reading": "suginamiki",
+      "code": "0001000101",
+      "index": 205
+    },
+    {
+      "surface": "数奇屋",
+      "reading": "sukiya",
+      "code": "010101",
+      "index": 206
+    },
+    {
+      "surface": "透ける",
+      "reading": "sukeru",
+      "code": "010101",
+      "index": 207
+    },
+    {
+      "surface": "健やか",
+      "reading": "sukoyaka",
+      "code": "00x101x1",
+      "index": 208
+    },
+    {
+      "surface": "筋書",
+      "reading": "suzigaki",
+      "code": "00j10001",
+      "index": 209
+    },
+    {
+      "surface": "鈴",
+      "reading": "suzu",
+      "code": "0001",
+      "index": 210
+    },
+    {
+      "surface": "涼しい",
+      "reading": "suzushii",
+      "code": "0001s011",
+      "index": 211
+    },
+    {
+      "surface": "勧める",
+      "reading": "susumeru",
+      "code": "00010101",
+      "index": 212
+    },
+    {
+      "surface": "薦める",
+      "reading": "susumeru",
+      "code": "00010101",
+      "index": 213
+    },
+    {
+      "surface": "廃れる",
+      "reading": "sutareru",
+      "code": "00010101",
+      "index": 214
+    },
+    {
+      "surface": "頭痛",
+      "reading": "zutsuu",
+      "code": "01t001",
+      "index": 215
+    },
+    {
+      "surface": "既に",
+      "reading": "sudeni",
+      "code": "000101",
+      "index": 216
+    },
+    {
+      "surface": "砂場",
+      "reading": "sunaba",
+      "code": "000101",
+      "index": 217
+    },
+    {
+      "surface": "酢の物",
+      "reading": "sunomono",
+      "code": "01010001",
+      "index": 218
+    },
+    {
+      "surface": "滑る",
+      "reading": "suberu",
+      "code": "000101",
+      "index": 219
+    },
+    {
+      "surface": "墨",
+      "reading": "sumi",
+      "code": "0001",
+      "index": 220
+    },
+    {
+      "surface": "澄む",
+      "reading": "sumu",
+      "code": "0101",
+      "index": 221
+    },
+    {
+      "surface": "相撲",
+      "reading": "sumou",
+      "code": "01001",
+      "index": 222
+    },
+    {
+      "surface": "刷る",
+      "reading": "suru",
+      "code": "0101",
+      "index": 223
+    },
+    {
+      "surface": "擦る",
+      "reading": "suru",
+      "code": "0101",
+      "index": 224
+    },
+    {
+      "surface": "鋭い",
+      "reading": "surudoi",
+      "code": "0000011",
+      "index": 225
+    },
+    {
+      "surface": "寸暇",
+      "reading": "sunnka",
+      "code": "00n1x1",
+      "index": 226
+    },
+    {
+      "surface": "誠意",
+      "reading": "seii",
+      "code": "0011",
+      "index": 227
+    },
+    {
+      "surface": "精鋭",
+      "reading": "seiei",
+      "code": "00101",
+      "index": 228
+    },
+    {
+      "surface": "声援",
+      "reading": "seienn",
+      "code": "0010u1",
+      "index": 229
+    },
+    {
+      "surface": "正確",
+      "reading": "seikaku",
+      "code": "001x0x1",
+      "index": 230
+    },
+    {
+      "surface": "生還",
+      "reading": "seikann",
+      "code": "001x0u1",
+      "index": 231
+    },
+    {
+      "surface": "請求",
+      "reading": "seikyuu",
+      "code": "0010001",
+      "index": 232
+    },
+    {
+      "surface": "逝去",
+      "reading": "seikyo",
+      "code": "001001",
+      "index": 233
+    },
+    {
+      "surface": "制御",
+      "reading": "seigyo",
+      "code": "001001",
+      "index": 234
+    },
+    {
+      "surface": "晴耕雨読",
+      "reading": "seikouudoku",
+      "code": "001x01100x1",
+      "index": 235
+    },
+    {
+      "surface": "星座",
+      "reading": "seiza",
+      "code": "00101",
+      "index": 236
+    },
+    {
+      "surface": "清算",
+      "reading": "seisann",
+      "code": "00100u1",
+      "index": 237
+    },
+    {
+      "surface": "静止",
+      "reading": "seishi",
+      "code": "001s01",
+      "index": 238
+    },
+    {
+      "surface": "静寂",
+      "reading": "seizyaku",
+      "code": "001b00x1",
+      "index": 239
+    },
+    {
+      "surface": "成熟",
+      "reading": "seizyuku",
+      "code": "001b00x1",
+      "index": 240
+    },
+    {
+      "surface": "青春",
+      "reading": "seishunn",
+      "code": "0010d0u1",
+      "index": 241
+    },
+    {
+      "surface": "清掃",
+      "reading": "seisou",
+      "code": "001001",
+      "index": 242
+    },
+    {
+      "surface": "成長",
+      "reading": "seichou",
+      "code": "001gh01",
+      "index": 243
+    },
+    {
+      "surface": "清澄",
+      "reading": "seichou",
+      "code": "001gh01",
+      "index": 244
+    },
+    {
+      "surface": "製鉄",
+      "reading": "seitetsu",
+      "code": "00100t01",
+      "index": 245
+    },
+    {
+      "surface": "青天白日",
+      "reading": "seitennhakuzitsu",
+      "code": "00100n100x1j0t01",
+      "index": 246
+    },
+    {
+      "surface": "制度",
+      "reading": "seido",
+      "code": "00101",
+      "index": 247
+    },
+    {
+      "surface": "青銅",
+      "reading": "seidou",
+      "code": "001001",
+      "index": 248
+    },
+    {
+      "surface": "制覇",
+      "reading": "seiha",
+      "code": "00101",
+      "index": 249
+    },
+    {
+      "surface": "整髪",
+      "reading": "seihatsu",
+      "code": "00100t01",
+      "index": 250
+    },
+    {
+      "surface": "征服",
+      "reading": "seihuku",
+      "code": "001f0x1",
+      "index": 251
+    },
+    {
+      "surface": "童歌",
+      "reading": "warabeuta",
+      "code": "000001001",
+      "index": 252
+    },
+    {
+      "surface": "精米",
+      "reading": "seimai",
+      "code": "001001",
+      "index": 253
+    },
+    {
+      "surface": "生命",
+      "reading": "seimei",
+      "code": "001001",
+      "index": 254
+    },
+    {
+      "surface": "誓約",
+      "reading": "seiyaku",
+      "code": "00100x1",
+      "index": 255
+    },
+    {
+      "surface": "整理",
+      "reading": "seiri",
+      "code": "00101",
+      "index": 256
+    },
+    {
+      "surface": "清涼飲料",
+      "reading": "seiryouinnryou",
+      "code": "00100010n10001",
+      "index": 257
+    },
+    {
+      "surface": "西暦",
+      "reading": "seireki",
+      "code": "0010001",
+      "index": 258
+    },
+    {
+      "surface": "昔日",
+      "reading": "sekizitsu",
+      "code": "0001j0t01",
+      "index": 259
+    },
+    {
+      "surface": "石炭",
+      "reading": "sekitann",
+      "code": "000100u1",
+      "index": 260
+    },
+    {
+      "surface": "赤道",
+      "reading": "sekidou",
+      "code": "0001001",
+      "index": 261
+    },
+    {
+      "surface": "関取",
+      "reading": "sekitori",
+      "code": "00010001",
+      "index": 262
+    },
+    {
+      "surface": "惜敗",
+      "reading": "sekihai",
+      "code": "0001001",
+      "index": 263
+    },
+    {
+      "surface": "責務",
+      "reading": "sekimu",
+      "code": "000101",
+      "index": 264
+    },
+    {
+      "surface": "赤裸々",
+      "reading": "sekirara",
+      "code": "00010101",
+      "index": 265
+    },
+    {
+      "surface": "積乱雲",
+      "reading": "sekirannunn",
+      "code": "000100N1vu1",
+      "index": 266
+    },
+    {
+      "surface": "世間",
+      "reading": "sekenn",
+      "code": "0100u1",
+      "index": 267
+    },
+    {
+      "surface": "世襲",
+      "reading": "seshuu",
+      "code": "010d01",
+      "index": 268
+    },
+    {
+      "surface": "背丈",
+      "reading": "setake",
+      "code": "010001",
+      "index": 269
+    },
+    {
+      "surface": "石灰",
+      "reading": "sekkai",
+      "code": "00zV01",
+      "index": 270
+    },
+    {
+      "surface": "石棺",
+      "reading": "sekkann",
+      "code": "00zV0u1",
+      "index": 271
+    },
+    {
+      "surface": "絶叫",
+      "reading": "zekkyou",
+      "code": "0010001",
+      "index": 272
+    },
+    {
+      "surface": "接近",
+      "reading": "sekkinn",
+      "code": "00100u1",
+      "index": 273
+    },
+    {
+      "surface": "節句",
+      "reading": "sekku",
+      "code": "00zV1",
+      "index": 274
+    },
+    {
+      "surface": "摂取",
+      "reading": "sesshu",
+      "code": "0010d1",
+      "index": 275
+    },
+    {
+      "surface": "殺生",
+      "reading": "sesshou",
+      "code": "0010d01",
+      "index": 276
+    },
+    {
+      "surface": "摂政",
+      "reading": "sesshou",
+      "code": "0010d01",
+      "index": 277
+    },
+    {
+      "surface": "折衝",
+      "reading": "sesshou",
+      "code": "0010d01",
+      "index": 278
+    },
+    {
+      "surface": "接触",
+      "reading": "sesshoku",
+      "code": "0010d0x1",
+      "index": 279
+    },
+    {
+      "surface": "雪辱",
+      "reading": "setsuzyoku",
+      "code": "00t01b00x1",
+      "index": 280
+    },
+    {
+      "surface": "拙速",
+      "reading": "sessoku",
+      "code": "00100x1",
+      "index": 281
+    },
+    {
+      "surface": "絶対",
+      "reading": "zettai",
+      "code": "001001",
+      "index": 282
+    },
+    {
+      "surface": "絶体絶命",
+      "reading": "zettaizetsumei",
+      "code": "00100100t01001",
+      "index": 283
+    },
+    {
+      "surface": "折衷",
+      "reading": "settyuu",
+      "code": "0060d01",
+      "index": 284
+    },
+    {
+      "surface": "窃盗",
+      "reading": "settou",
+      "code": "001001",
+      "index": 285
+    },
+    {
+      "surface": "設備",
+      "reading": "setsubi",
+      "code": "00t0101",
+      "index": 286
+    },
+    {
+      "surface": "絶妙",
+      "reading": "zetsumyou",
+      "code": "00t010001",
+      "index": 287
+    },
+    {
+      "surface": "絶滅",
+      "reading": "zetsumetsu",
+      "code": "00t0100t01",
+      "index": 288
+    },
+    {
+      "surface": "節約",
+      "reading": "setsuyaku",
+      "code": "00t0100x1",
+      "index": 289
+    },
+    {
+      "surface": "是認",
+      "reading": "zeninn",
+      "code": "0100u1",
+      "index": 290
+    },
+    {
+      "surface": "背伸び",
+      "reading": "senobi",
+      "code": "010101",
+      "index": 291
+    },
+    {
+      "surface": "狭い",
+      "reading": "semai",
+      "code": "00011",
+      "index": 292
+    },
+    {
+      "surface": "攻める",
+      "reading": "semeru",
+      "code": "010101",
+      "index": 293
+    },
+    {
+      "surface": "千客万来",
+      "reading": "sennkyakubannrai",
+      "code": "00n1000x100n1001",
+      "index": 294
+    },
+    {
+      "surface": "選挙",
+      "reading": "sennkyo",
+      "code": "00n1001",
+      "index": 295
+    },
+    {
+      "surface": "鮮魚",
+      "reading": "senngyo",
+      "code": "00n1001",
+      "index": 296
+    },
+    {
+      "surface": "鮮血",
+      "reading": "sennketsu",
+      "code": "00n100t01",
+      "index": 297
+    },
+    {
+      "surface": "宣言",
+      "reading": "senngenn",
+      "code": "00n100u1",
+      "index": 298
+    },
+    {
+      "surface": "専攻",
+      "reading": "sennkou",
+      "code": "00n1x01",
+      "index": 299
+    },
+    {
+      "surface": "線香",
+      "reading": "sennkou",
+      "code": "00n1x01",
+      "index": 300
+    },
+    {
+      "surface": "善後策",
+      "reading": "zenngosaku",
+      "code": "00n10100x1",
+      "index": 301
+    },
+    {
+      "surface": "前後不覚",
+      "reading": "zenngohukaku",
+      "code": "00n101f1x0x1",
+      "index": 302
+    },
+    {
+      "surface": "繊細",
+      "reading": "sennsai",
+      "code": "00n1001",
+      "index": 303
+    },
+    {
+      "surface": "潜在的",
+      "reading": "sennzaiteki",
+      "code": "00n10010001",
+      "index": 304
+    },
+    {
+      "surface": "千差万別",
+      "reading": "sennsabannbetsu",
+      "code": "00n10100n100t01",
+      "index": 305
+    },
+    {
+      "surface": "染織",
+      "reading": "sennshoku",
+      "code": "00n10d0x1",
+      "index": 306
+    },
+    {
+      "surface": "漸進",
+      "reading": "zennshinn",
+      "code": "00n1s00u1",
+      "index": 307
+    },
+    {
+      "surface": "占星術",
+      "reading": "sennseizyutsu",
+      "code": "00n1001b00t01",
+      "index": 308
+    },
+    {
+      "surface": "前代未聞",
+      "reading": "zenndaimimonn",
+      "code": "00n10010100u1",
+      "index": 309
+    },
+    {
+      "surface": "洗濯",
+      "reading": "senntaku",
+      "code": "00n100x1",
+      "index": 310
+    },
+    {
+      "surface": "選択肢",
+      "reading": "senntakushi",
+      "code": "00n100x1s01",
+      "index": 311
+    },
+    {
+      "surface": "前提",
+      "reading": "zenntei",
+      "code": "00n1001",
+      "index": 312
+    },
+    {
+      "surface": "銑鉄",
+      "reading": "senntetsu",
+      "code": "00n100t01",
+      "index": 313
+    },
+    {
+      "surface": "先天的",
+      "reading": "senntennteki",
+      "code": "00n100n10001",
+      "index": 314
+    },
+    {
+      "surface": "前途",
+      "reading": "zennto",
+      "code": "00n101",
+      "index": 315
+    },
+    {
+      "surface": "先入観",
+      "reading": "sennnyuukann",
+      "code": "00N1v001x0u1",
+      "index": 316
+    },
+    {
+      "surface": "仙人",
+      "reading": "sennninn",
+      "code": "00N1v0u1",
+      "index": 317
+    },
+    {
+      "surface": "先輩",
+      "reading": "sennpai",
+      "code": "00n1001",
+      "index": 318
+    },
+    {
+      "surface": "全部",
+      "reading": "zennbu",
+      "code": "00n101",
+      "index": 319
+    },
+    {
+      "surface": "扇風機",
+      "reading": "sennpuuki",
+      "code": "00n100101",
+      "index": 320
+    },
+    {
+      "surface": "先憂後楽",
+      "reading": "sennyuukouraku",
+      "code": "00N1v01x0100x1",
+      "index": 321
+    },
+    {
+      "surface": "専用",
+      "reading": "sennyou",
+      "code": "00N1v01",
+      "index": 322
+    },
+    {
+      "surface": "千里眼",
+      "reading": "sennrigann",
+      "code": "00n10100u1",
+      "index": 323
+    },
+    {
+      "surface": "旋律",
+      "reading": "sennritsu",
+      "code": "00n100t01",
+      "index": 324
+    },
+    {
+      "surface": "川柳",
+      "reading": "sennryuu",
+      "code": "00n10001",
+      "index": 325
+    },
+    {
+      "surface": "洗練",
+      "reading": "sennrenn",
+      "code": "00n100u1",
+      "index": 326
+    },
+    {
+      "surface": "総意",
+      "reading": "soui",
+      "code": "0011",
+      "index": 327
+    },
+    {
+      "surface": "創意工夫",
+      "reading": "souikuhuu",
+      "code": "0011x1f01",
+      "index": 328
+    },
+    {
+      "surface": "憎悪",
+      "reading": "zouo",
+      "code": "0011",
+      "index": 329
+    },
+    {
+      "surface": "騒音",
+      "reading": "souonn",
+      "code": "0010u1",
+      "index": 330
+    },
+    {
+      "surface": "造花",
+      "reading": "zouka",
+      "code": "001x1",
+      "index": 331
+    },
+    {
+      "surface": "象眼",
+      "reading": "zougann",
+      "code": "00100u1",
+      "index": 332
+    },
+    {
+      "surface": "葬儀",
+      "reading": "sougi",
+      "code": "00101",
+      "index": 333
+    },
+    {
+      "surface": "雑木林",
+      "reading": "zoukibayashi",
+      "code": "001010000s01",
+      "index": 334
+    },
+    {
+      "surface": "双肩",
+      "reading": "soukenn",
+      "code": "00100u1",
+      "index": 335
+    },
+    {
+      "surface": "増減",
+      "reading": "zougenn",
+      "code": "00100u1",
+      "index": 336
+    },
+    {
+      "surface": "相互扶助",
+      "reading": "sougohuzyo",
+      "code": "00101f1b01",
+      "index": 337
+    },
+    {
+      "surface": "荘厳",
+      "reading": "sougonn",
+      "code": "00100u1",
+      "index": 338
+    },
+    {
+      "surface": "捜査",
+      "reading": "sousa",
+      "code": "00101",
+      "index": 339
+    },
+    {
+      "surface": "相殺",
+      "reading": "sousai",
+      "code": "001001",
+      "index": 340
+    },
+    {
+      "surface": "掃除",
+      "reading": "souzi",
+      "code": "001j1",
+      "index": 341
+    },
+    {
+      "surface": "喪失",
+      "reading": "soushitsu",
+      "code": "001s00t01",
+      "index": 342
+    },
+    {
+      "surface": "操縦",
+      "reading": "souzyuu",
+      "code": "001b001",
+      "index": 343
+    },
+    {
+      "surface": "蔵書",
+      "reading": "zousho",
+      "code": "0010d1",
+      "index": 344
+    },
+    {
+      "surface": "老衰",
+      "reading": "rousui",
+      "code": "001001",
+      "index": 345
+    },
+    {
+      "surface": "雑炊",
+      "reading": "zousui",
+      "code": "001001",
+      "index": 346
+    },
+    {
+      "surface": "贈呈",
+      "reading": "zoutei",
+      "code": "001001",
+      "index": 347
+    },
+    {
+      "surface": "遭難",
+      "reading": "sounann",
+      "code": "00100u1",
+      "index": 348
+    },
+    {
+      "surface": "雑煮",
+      "reading": "zouni",
+      "code": "00101",
+      "index": 349
+    },
+    {
+      "surface": "挿入",
+      "reading": "sounyuu",
+      "code": "0010001",
+      "index": 350
+    },
+    {
+      "surface": "贈与",
+      "reading": "zouyo",
+      "code": "00101",
+      "index": 351
+    },
+    {
+      "surface": "草履",
+      "reading": "zouri",
+      "code": "00101",
+      "index": 352
+    },
+    {
+      "surface": "添える",
+      "reading": "soeru",
+      "code": "01101",
+      "index": 353
+    },
+    {
+      "surface": "疎外",
+      "reading": "sogai",
+      "code": "01001",
+      "index": 354
+    },
+    {
+      "surface": "属性",
+      "reading": "zokusei",
+      "code": "00x1001",
+      "index": 355
+    },
+    {
+      "surface": "即席",
+      "reading": "sokuseki",
+      "code": "00x10001",
+      "index": 356
+    },
+    {
+      "surface": "速度",
+      "reading": "sokudo",
+      "code": "00x101",
+      "index": 357
+    },
+    {
+      "surface": "束縛",
+      "reading": "sokubaku",
+      "code": "00x100x1",
+      "index": 358
+    },
+    {
+      "surface": "損なう",
+      "reading": "sokonau",
+      "code": "00x1011",
+      "index": 359
+    },
+    {
+      "surface": "阻止",
+      "reading": "soshi",
+      "code": "01s01",
+      "index": 360
+    },
+    {
+      "surface": "訴訟",
+      "reading": "soshou",
+      "code": "010d01",
+      "index": 361
+    },
+    {
+      "surface": "組成",
+      "reading": "sosei",
+      "code": "01001",
+      "index": 362
+    },
+    {
+      "surface": "租税",
+      "reading": "sozei",
+      "code": "01001",
+      "index": 363
+    },
+    {
+      "surface": "唆す",
+      "reading": "sosonokasu",
+      "code": "000000x101",
+      "index": 364
+    },
+    {
+      "surface": "措置",
+      "reading": "sochi",
+      "code": "01c01",
+      "index": 365
+    },
+    {
+      "surface": "側近",
+      "reading": "sokkinn",
+      "code": "00100u1",
+      "index": 366
+    },
+    {
+      "surface": "率先",
+      "reading": "sossenn",
+      "code": "00100u1",
+      "index": 367
+    },
+    {
+      "surface": "卒中",
+      "reading": "sottyuu",
+      "code": "0060d01",
+      "index": 368
+    },
+    {
+      "surface": "外堀",
+      "reading": "sotobori",
+      "code": "00010001",
+      "index": 369
+    },
+    {
+      "surface": "供える",
+      "reading": "sonaeru",
+      "code": "0001101",
+      "index": 370
+    },
+    {
+      "surface": "祖父",
+      "reading": "sohu",
+      "code": "01f1",
+      "index": 371
+    },
+    {
+      "surface": "素朴",
+      "reading": "soboku",
+      "code": "0100x1",
+      "index": 372
+    },
+    {
+      "surface": "背く",
+      "reading": "somuku",
+      "code": "0001x1",
+      "index": 373
+    },
+    {
+      "surface": "粗野",
+      "reading": "soya",
+      "code": "0101",
+      "index": 374
+    },
+    {
+      "surface": "反らす",
+      "reading": "sorasu",
+      "code": "010101",
+      "index": 375
+    },
+    {
+      "surface": "存続",
+      "reading": "sonnzoku",
+      "code": "00n100x1",
+      "index": 376
+    },
+    {
+      "surface": "尊大",
+      "reading": "sonndai",
+      "code": "00n1001",
+      "index": 377
+    },
+    {
+      "surface": "存分",
+      "reading": "zonnbunn",
+      "code": "00n100u1",
+      "index": 378
+    },
+    {
+      "surface": "存亡",
+      "reading": "sonnbou",
+      "code": "00n1001",
+      "index": 379
+    },
+    {
+      "surface": "大尉",
+      "reading": "taii",
+      "code": "0011",
+      "index": 380
+    },
+    {
+      "surface": "体格",
+      "reading": "taikaku",
+      "code": "001x0x1",
+      "index": 381
+    },
+    {
+      "surface": "大器晩成",
+      "reading": "taikibannsei",
+      "code": "0010100n1001",
+      "index": 382
+    },
+    {
+      "surface": "大義名分",
+      "reading": "taigimeibunn",
+      "code": "0010100100u1",
+      "index": 383
+    },
+    {
+      "surface": "耐久",
+      "reading": "taikyuu",
+      "code": "0010001",
+      "index": 384
+    },
+    {
+      "surface": "待遇",
+      "reading": "taiguu",
+      "code": "001001",
+      "index": 385
+    },
+    {
+      "surface": "退屈",
+      "reading": "taikutsu",
+      "code": "001x0t01",
+      "index": 386
+    },
+    {
+      "surface": "大言壮語",
+      "reading": "taigennsougo",
+      "code": "00100n100101",
+      "index": 387
+    },
+    {
+      "surface": "太鼓",
+      "reading": "taiko",
+      "code": "001x1",
+      "index": 388
+    },
+    {
+      "surface": "大黒柱",
+      "reading": "daikokubashira",
+      "code": "001x0x100s0001",
+      "index": 389
+    },
+    {
+      "surface": "滞在",
+      "reading": "taizai",
+      "code": "001001",
+      "index": 390
+    },
+    {
+      "surface": "第三者",
+      "reading": "daisannsha",
+      "code": "00100n10d1",
+      "index": 391
+    },
+    {
+      "surface": "胎児",
+      "reading": "taizi",
+      "code": "001j1",
+      "index": 392
+    },
+    {
+      "surface": "代謝",
+      "reading": "taisha",
+      "code": "0010d1",
+      "index": 393
+    },
+    {
+      "surface": "大将",
+      "reading": "taishou",
+      "code": "0010d01",
+      "index": 394
+    },
+    {
+      "surface": "対照的",
+      "reading": "taishouteki",
+      "code": "0010d010001",
+      "index": 395
+    },
+    {
+      "surface": "大豆",
+      "reading": "daizu",
+      "code": "00101",
+      "index": 396
+    },
+    {
+      "surface": "泰然自若",
+      "reading": "taizennzizyaku",
+      "code": "00100n1j1b00x1",
+      "index": 397
+    },
+    {
+      "surface": "怠惰",
+      "reading": "taida",
+      "code": "00101",
+      "index": 398
+    },
+    {
+      "surface": "代替",
+      "reading": "daitai",
+      "code": "001001",
+      "index": 399
+    },
+    {
+      "surface": "大地",
+      "reading": "daichi",
+      "code": "001c01",
+      "index": 400
+    },
+    {
+      "surface": "大胆不敵",
+      "reading": "daitannhuteki",
+      "code": "00100n1f10001",
+      "index": 401
+    },
+    {
+      "surface": "大腸",
+      "reading": "daichou",
+      "code": "001gh01",
+      "index": 402
+    },
+    {
+      "surface": "大同小異",
+      "reading": "daidoushoui",
+      "code": "0010010d011",
+      "index": 403
+    },
+    {
+      "surface": "代表",
+      "reading": "daihyou",
+      "code": "0010001",
+      "index": 404
+    },
+    {
+      "surface": "逮捕",
+      "reading": "taiho",
+      "code": "00101",
+      "index": 405
+    },
+    {
+      "surface": "怠慢",
+      "reading": "taimann",
+      "code": "00100u1",
+      "index": 406
+    },
+    {
+      "surface": "太陽暦",
+      "reading": "taiyoureki",
+      "code": "0010010001",
+      "index": 407
+    },
+    {
+      "surface": "代理",
+      "reading": "dairi",
+      "code": "00101",
+      "index": 408
+    },
+    {
+      "surface": "大漁",
+      "reading": "tairyou",
+      "code": "0010001",
+      "index": 409
+    },
+    {
+      "surface": "隊列",
+      "reading": "tairetsu",
+      "code": "00100t01",
+      "index": 410
+    },
+    {
+      "surface": "堪える",
+      "reading": "taeru",
+      "code": "01101",
+      "index": 411
+    },
+    {
+      "surface": "耐える",
+      "reading": "taeru",
+      "code": "01101",
+      "index": 412
+    },
+    {
+      "surface": "倒す",
+      "reading": "taosu",
+      "code": "00101",
+      "index": 413
+    },
+    {
+      "surface": "滝",
+      "reading": "taki",
+      "code": "0001",
+      "index": 414
+    },
+    {
+      "surface": "薪",
+      "reading": "takigi",
+      "code": "000001",
+      "index": 415
+    },
+    {
+      "surface": "妥協",
+      "reading": "dakyou",
+      "code": "010001",
+      "index": 416
+    },
+    {
+      "surface": "卓越",
+      "reading": "takuetsu",
+      "code": "00x10t01",
+      "index": 417
+    },
+    {
+      "surface": "濁音",
+      "reading": "dakuonn",
+      "code": "00x10u1",
+      "index": 418
+    },
+    {
+      "surface": "宅地",
+      "reading": "takuchi",
+      "code": "00x1c01",
+      "index": 419
+    },
+    {
+      "surface": "巧み",
+      "reading": "takumi",
+      "code": "00x101",
+      "index": 420
+    },
+    {
+      "surface": "蓄える",
+      "reading": "takuwaeru",
+      "code": "00x001101",
+      "index": 421
+    },
+    {
+      "surface": "打撃",
+      "reading": "dageki",
+      "code": "010001",
+      "index": 422
+    },
+    {
+      "surface": "駄作",
+      "reading": "dasaku",
+      "code": "0100x1",
+      "index": 423
+    },
+    {
+      "surface": "山車",
+      "reading": "dashi",
+      "code": "01s01",
+      "index": 424
+    },
+    {
+      "surface": "打診",
+      "reading": "dashinn",
+      "code": "01s00u1",
+      "index": 425
+    },
+    {
+      "surface": "携える",
+      "reading": "tazusaeru",
+      "code": "000001101",
+      "index": 426
+    },
+    {
+      "surface": "尋ねる",
+      "reading": "tazuneru",
+      "code": "00010101",
+      "index": 427
+    },
+    {
+      "surface": "闘う",
+      "reading": "tatakau",
+      "code": "0000x11",
+      "index": 428
+    },
+    {
+      "surface": "但し",
+      "reading": "tadashi",
+      "code": "0001s01",
+      "index": 429
+    },
+    {
+      "surface": "畳",
+      "reading": "tatami",
+      "code": "000001",
+      "index": 430
+    },
+    {
+      "surface": "漂う",
+      "reading": "tadayou",
+      "code": "0000011",
+      "index": 431
+    },
+    {
+      "surface": "太刀",
+      "reading": "tachi",
+      "code": "01c01",
+      "index": 432
+    },
+    {
+      "surface": "断つ",
+      "reading": "tatsu",
+      "code": "01t01",
+      "index": 433
+    },
+    {
+      "surface": "脱衣",
+      "reading": "datsui",
+      "code": "00t011",
+      "index": 434
+    },
+    {
+      "surface": "奪回",
+      "reading": "dakkai",
+      "code": "00zV01",
+      "index": 435
+    },
+    {
+      "surface": "脱穀",
+      "reading": "dakkoku",
+      "code": "00zV0x1",
+      "index": 436
+    },
+    {
+      "surface": "達人",
+      "reading": "tatsuzinn",
+      "code": "00t01j0u1",
+      "index": 437
+    },
+    {
+      "surface": "手綱",
+      "reading": "taduna",
+      "code": "010001",
+      "index": 438
+    },
+    {
+      "surface": "竜巻",
+      "reading": "tatsumaki",
+      "code": "00t010001",
+      "index": 439
+    },
+    {
+      "surface": "建坪",
+      "reading": "tatetsubo",
+      "code": "0001t0001",
+      "index": 440
+    },
+    {
+      "surface": "奉る",
+      "reading": "tatematsuru",
+      "code": "000000t0101",
+      "index": 441
+    },
+    {
+      "surface": "七夕",
+      "reading": "tanabata",
+      "code": "00010001",
+      "index": 442
+    },
+    {
+      "surface": "足袋",
+      "reading": "tabi",
+      "code": "0101",
+      "index": 443
+    },
+    {
+      "surface": "旅路",
+      "reading": "tabizi",
+      "code": "0001j1",
+      "index": 444
+    },
+    {
+      "surface": "多忙",
+      "reading": "tabou",
+      "code": "01001",
+      "index": 445
+    },
+    {
+      "surface": "打撲",
+      "reading": "daboku",
+      "code": "0100x1",
+      "index": 446
+    },
+    {
+      "surface": "魂",
+      "reading": "tamashii",
+      "code": "0000s001",
+      "index": 447
+    },
+    {
+      "surface": "黙る",
+      "reading": "damaru",
+      "code": "000101",
+      "index": 448
+    },
+    {
+      "surface": "頼る",
+      "reading": "tayoru",
+      "code": "000101",
+      "index": 449
+    },
+    {
+      "surface": "堕落",
+      "reading": "daraku",
+      "code": "0100x1",
+      "index": 450
+    },
+    {
+      "surface": "戯れる",
+      "reading": "tawamureru",
+      "code": "0000010101",
+      "index": 451
+    },
+    {
+      "surface": "単位",
+      "reading": "tanni",
+      "code": "00N19",
+      "index": 452
+    },
+    {
+      "surface": "短歌",
+      "reading": "tannka",
+      "code": "00n1x1",
+      "index": 453
+    },
+    {
+      "surface": "弾劾",
+      "reading": "danngai",
+      "code": "00n1001",
+      "index": 454
+    },
+    {
+      "surface": "嘆願",
+      "reading": "tanngann",
+      "code": "00n100u1",
+      "index": 455
+    },
+    {
+      "surface": "探求",
+      "reading": "tannkyuu",
+      "code": "00n10001",
+      "index": 456
+    },
+    {
+      "surface": "断食",
+      "reading": "dannziki",
+      "code": "00n1j001",
+      "index": 457
+    },
+    {
+      "surface": "短所",
+      "reading": "tannsho",
+      "code": "00n10d1",
+      "index": 458
+    },
+    {
+      "surface": "男性",
+      "reading": "dannsei",
+      "code": "00n1001",
+      "index": 459
+    },
+    {
+      "surface": "探偵",
+      "reading": "tanntei",
+      "code": "00n1001",
+      "index": 460
+    },
+    {
+      "surface": "短刀",
+      "reading": "tanntou",
+      "code": "00n1001",
+      "index": 461
+    },
+    {
+      "surface": "単刀直入",
+      "reading": "tanntouchokunyuu",
+      "code": "00n1001gh0x10001",
+      "index": 462
+    },
+    {
+      "surface": "丹念",
+      "reading": "tannnenn",
+      "code": "00N1v0u1",
+      "index": 463
+    },
+    {
+      "surface": "短兵急",
+      "reading": "tannpeikyuu",
+      "code": "00n10010001",
+      "index": 464
+    },
+    {
+      "surface": "断片",
+      "reading": "dannpenn",
+      "code": "00n100u1",
+      "index": 465
+    },
+    {
+      "surface": "暖房",
+      "reading": "dannbou",
+      "code": "00n1001",
+      "index": 466
+    },
+    {
+      "surface": "断末魔",
+      "reading": "dannmatsuma",
+      "code": "00n100t0101",
+      "index": 467
+    },
+    {
+      "surface": "反物",
+      "reading": "tannmono",
+      "code": "00n10001",
+      "index": 468
+    },
+    {
+      "surface": "弾力",
+      "reading": "dannryoku",
+      "code": "00n1000x1",
+      "index": 469
+    },
+    {
+      "surface": "鍛錬",
+      "reading": "tannrenn",
+      "code": "00n100u1",
+      "index": 470
+    },
+    {
+      "surface": "談論風発",
+      "reading": "dannronnhuuhatsu",
+      "code": "00n100n1f0100t01",
+      "index": 471
+    },
+    {
+      "surface": "談話",
+      "reading": "dannwa",
+      "code": "00n101",
+      "index": 472
+    },
+    {
+      "surface": "知恵",
+      "reading": "chie",
+      "code": "c011",
+      "index": 473
+    },
+    {
+      "surface": "遅延",
+      "reading": "chienn",
+      "code": "c010u1",
+      "index": 474
+    },
+    {
+      "surface": "誓う",
+      "reading": "chikau",
+      "code": "c00x11",
+      "index": 475
+    },
+    {
+      "surface": "力仕事",
+      "reading": "chikarashigoto",
+      "code": "c00x001s010001",
+      "index": 476
+    },
+    {
+      "surface": "知己",
+      "reading": "chiki",
+      "code": "c0101",
+      "index": 477
+    },
+    {
+      "surface": "契り",
+      "reading": "chigiri",
+      "code": "c000101",
+      "index": 478
+    },
+    {
+      "surface": "地区",
+      "reading": "chiku",
+      "code": "c01x1",
+      "index": 479
+    },
+    {
+      "surface": "蓄積",
+      "reading": "chikuseki",
+      "code": "c00x10001",
+      "index": 480
+    },
+    {
+      "surface": "竹林",
+      "reading": "chikurinn",
+      "code": "c00x100u1",
+      "index": 481
+    },
+    {
+      "surface": "稚児",
+      "reading": "chigo",
+      "code": "c0101",
+      "index": 482
+    },
+    {
+      "surface": "遅刻",
+      "reading": "chikoku",
+      "code": "c01x0x1",
+      "index": 483
+    },
+    {
+      "surface": "知識",
+      "reading": "chishiki",
+      "code": "c01s0001",
+      "index": 484
+    },
+    {
+      "surface": "地図",
+      "reading": "chizu",
+      "code": "c0101",
+      "index": 485
+    },
+    {
+      "surface": "稚拙",
+      "reading": "chisetsu",
+      "code": "c0100t01",
+      "index": 486
+    },
+    {
+      "surface": "秩序",
+      "reading": "chitsuzyo",
+      "code": "c00t01b01",
+      "index": 487
+    },
+    {
+      "surface": "窒息",
+      "reading": "chissoku",
+      "code": "c00100x1",
+      "index": 488
+    },
+    {
+      "surface": "乳房",
+      "reading": "chibusa",
+      "code": "c010001",
+      "index": 489
+    },
+    {
+      "surface": "血眼",
+      "reading": "chimanako",
+      "code": "c010000x1",
+      "index": 490
+    },
+    {
+      "surface": "致命傷",
+      "reading": "chimeishou",
+      "code": "c010010d01",
+      "index": 491
+    },
+    {
+      "surface": "茶褐色",
+      "reading": "chakasshoku",
+      "code": "gh1x010d0x1",
+      "index": 492
+    },
+    {
+      "surface": "嫡子",
+      "reading": "chakushi",
+      "code": "gh0x1s01",
+      "index": 493
+    },
+    {
+      "surface": "着手",
+      "reading": "chakushu",
+      "code": "gh0x10d1",
+      "index": 494
+    },
+    {
+      "surface": "茶番劇",
+      "reading": "chabanngeki",
+      "code": "gh100n10001",
+      "index": 495
+    },
+    {
+      "surface": "仲裁",
+      "reading": "chuusai",
+      "code": "gh01001",
+      "index": 496
+    },
+    {
+      "surface": "注視",
+      "reading": "chuushi",
+      "code": "gh01s01",
+      "index": 497
+    },
+    {
+      "surface": "駐車",
+      "reading": "chuusha",
+      "code": "gh010d1",
+      "index": 498
+    },
+    {
+      "surface": "抽象",
+      "reading": "chuushou",
+      "code": "gh010d01",
+      "index": 499
+    },
+    {
+      "surface": "中枢",
+      "reading": "chuusuu",
+      "code": "gh01001",
+      "index": 500
+    },
+    {
+      "surface": "沖積層",
+      "reading": "chuusekisou",
+      "code": "gh010001001",
+      "index": 501
+    },
+    {
+      "surface": "鋳造",
+      "reading": "chuuzou",
+      "code": "gh01001",
+      "index": 502
+    },
+    {
+      "surface": "駐屯地",
+      "reading": "chuutonnchi",
+      "code": "gh0100n1c01",
+      "index": 503
+    },
+    {
+      "surface": "昼夜兼行",
+      "reading": "chuuyakennkou",
+      "code": "gh010100n1x01",
+      "index": 504
+    },
+    {
+      "surface": "中庸",
+      "reading": "chuuyou",
+      "code": "gh01001",
+      "index": 505
+    },
+    {
+      "surface": "超越",
+      "reading": "chouetsu",
+      "code": "gh010t01",
+      "index": 506
+    },
+    {
+      "surface": "兆候",
+      "reading": "choukou",
+      "code": "gh01x01",
+      "index": 507
+    },
+    {
+      "surface": "長広舌",
+      "reading": "choukouzetsu",
+      "code": "gh01x0100t01",
+      "index": 508
+    },
+    {
+      "surface": "彫刻",
+      "reading": "choukoku",
+      "code": "gh01x0x1",
+      "index": 509
+    },
+    {
+      "surface": "弔辞",
+      "reading": "chouzi",
+      "code": "gh01j1",
+      "index": 510
+    },
+    {
+      "surface": "庁舎",
+      "reading": "chousha",
+      "code": "gh010d1",
+      "index": 511
+    },
+    {
+      "surface": "聴取",
+      "reading": "choushu",
+      "code": "gh010d1",
+      "index": 512
+    },
+    {
+      "surface": "聴衆",
+      "reading": "choushuu",
+      "code": "gh010d01",
+      "index": 513
+    },
+    {
+      "surface": "鳥獣",
+      "reading": "chouzyuu",
+      "code": "gh01b001",
+      "index": 514
+    },
+    {
+      "surface": "朝食",
+      "reading": "choushoku",
+      "code": "gh010d0x1",
+      "index": 515
+    },
+    {
+      "surface": "長蛇",
+      "reading": "chouda",
+      "code": "gh0101",
+      "index": 516
+    },
+    {
+      "surface": "調停",
+      "reading": "choutei",
+      "code": "gh01001",
+      "index": 517
+    },
+    {
+      "surface": "長男",
+      "reading": "chounann",
+      "code": "gh0100u1",
+      "index": 518
+    },
+    {
+      "surface": "挑発",
+      "reading": "chouhatsu",
+      "code": "gh0100t01",
+      "index": 519
+    },
+    {
+      "surface": "懲罰",
+      "reading": "choubatsu",
+      "code": "gh0100t01",
+      "index": 520
+    },
+    {
+      "surface": "眺望",
+      "reading": "choubou",
+      "code": "gh01001",
+      "index": 521
+    },
+    {
+      "surface": "跳躍",
+      "reading": "chouyaku",
+      "code": "gh0100x1",
+      "index": 522
+    },
+    {
+      "surface": "朝令暮改",
+      "reading": "choureibokai",
+      "code": "gh0100101x01",
+      "index": 523
+    },
+    {
+      "surface": "調和",
+      "reading": "chouwa",
+      "code": "gh0101",
+      "index": 524
+    },
+    {
+      "surface": "貯金",
+      "reading": "chokinn",
+      "code": "gh100u1",
+      "index": 525
+    },
+    {
+      "surface": "直情径行",
+      "reading": "chokuzyoukeikou",
+      "code": "gh0x1b001001x01",
+      "index": 526
+    },
+    {
+      "surface": "著作",
+      "reading": "chosaku",
+      "code": "gh100x1",
+      "index": 527
+    },
+    {
+      "surface": "著述",
+      "reading": "chozyutsu",
+      "code": "gh1b00t01",
+      "index": 528
+    },
+    {
+      "surface": "貯水池",
+      "reading": "chosuichi",
+      "code": "gh1001c01",
+      "index": 529
+    },
+    {
+      "surface": "治療",
+      "reading": "chiryou",
+      "code": "c010001",
+      "index": 530
+    },
+    {
+      "surface": "賃金",
+      "reading": "chinnginn",
+      "code": "c00n100u1",
+      "index": 531
+    },
+    {
+      "surface": "沈思黙考",
+      "reading": "chinnshimokkou",
+      "code": "c00n1s0100zV01",
+      "index": 532
+    },
+    {
+      "surface": "鎮静",
+      "reading": "chinnsei",
+      "code": "c00n1001",
+      "index": 533
+    },
+    {
+      "surface": "賃貸",
+      "reading": "chinntai",
+      "code": "c00n1001",
+      "index": 534
+    },
+    {
+      "surface": "陳腐",
+      "reading": "chinnpu",
+      "code": "c00n101",
+      "index": 535
+    },
+    {
+      "surface": "珍妙",
+      "reading": "chinnmyou",
+      "code": "c00n10001",
+      "index": 536
+    },
+    {
+      "surface": "沈黙",
+      "reading": "chinnmoku",
+      "code": "c00n100x1",
+      "index": 537
+    },
+    {
+      "surface": "陳列",
+      "reading": "chinnretsu",
+      "code": "c00n100t01",
+      "index": 538
+    },
+    {
+      "surface": "追加",
+      "reading": "tsuika",
+      "code": "t001x1",
+      "index": 539
+    },
+    {
+      "surface": "追求",
+      "reading": "tsuikyuu",
+      "code": "t0010001",
+      "index": 540
+    },
+    {
+      "surface": "対句",
+      "reading": "tsuiku",
+      "code": "t001x1",
+      "index": 541
+    },
+    {
+      "surface": "追随",
+      "reading": "tsuizui",
+      "code": "t001001",
+      "index": 542
+    },
+    {
+      "surface": "追跡",
+      "reading": "tsuiseki",
+      "code": "t0010001",
+      "index": 543
+    },
+    {
+      "surface": "追放",
+      "reading": "tsuihou",
+      "code": "t001001",
+      "index": 544
+    },
+    {
+      "surface": "墜落",
+      "reading": "tsuiraku",
+      "code": "t00100x1",
+      "index": 545
+    },
+    {
+      "surface": "痛快",
+      "reading": "tsuukai",
+      "code": "t001x01",
+      "index": 546
+    },
+    {
+      "surface": "痛恨",
+      "reading": "tsuukonn",
+      "code": "t001x0u1",
+      "index": 547
+    },
+    {
+      "surface": "通信",
+      "reading": "tsuushinn",
+      "code": "t001s00u1",
+      "index": 548
+    },
+    {
+      "surface": "通帳",
+      "reading": "tsuuchou",
+      "code": "t001gh01",
+      "index": 549
+    },
+    {
+      "surface": "仕える",
+      "reading": "tsukaeru",
+      "code": "t00x1101",
+      "index": 550
+    },
+    {
+      "surface": "捕まる",
+      "reading": "tsukamaru",
+      "code": "t00x10101",
+      "index": 551
+    },
+    {
+      "surface": "疲れる",
+      "reading": "tsukareru",
+      "code": "t00x10101",
+      "index": 552
+    },
+    {
+      "surface": "就く",
+      "reading": "tsuku",
+      "code": "t01x1",
+      "index": 553
+    },
+    {
+      "surface": "突く",
+      "reading": "tsuku",
+      "code": "t01x1",
+      "index": 554
+    },
+    {
+      "surface": "継ぐ",
+      "reading": "tsugu",
+      "code": "t0101",
+      "index": 555
+    },
+    {
+      "surface": "尽くす",
+      "reading": "tsukusu",
+      "code": "t01x101",
+      "index": 556
+    },
+    {
+      "surface": "償う",
+      "reading": "tsugunau",
+      "code": "t0000011",
+      "index": 557
+    },
+    {
+      "surface": "造る",
+      "reading": "tsukuru",
+      "code": "t00x101",
+      "index": 558
+    },
+    {
+      "surface": "繕う",
+      "reading": "tsukurou",
+      "code": "t00x0011",
+      "index": 559
+    },
+    {
+      "surface": "漬物",
+      "reading": "tsukemono",
+      "code": "t00010001",
+      "index": 560
+    },
+    {
+      "surface": "都合",
+      "reading": "tsugou",
+      "code": "t01001",
+      "index": 561
+    },
+    {
+      "surface": "培う",
+      "reading": "tsuchikau",
+      "code": "t00c00x11",
+      "index": 562
+    },
+    {
+      "surface": "津々浦々",
+      "reading": "tsutsuuraura",
+      "code": "t01t01001001",
+      "index": 563
+    },
+    {
+      "surface": "慎む",
+      "reading": "tsutsushimu",
+      "code": "t00t00s0101",
+      "index": 564
+    },
+    {
+      "surface": "筒抜け",
+      "reading": "tsutsunuke",
+      "code": "t00t010101",
+      "index": 565
+    },
+    {
+      "surface": "鼓",
+      "reading": "tsudumi",
+      "code": "t000001",
+      "index": 566
+    },
+    {
+      "surface": "勤める",
+      "reading": "tsutomeru",
+      "code": "t00010101",
+      "index": 567
+    },
+    {
+      "surface": "募る",
+      "reading": "tsunoru",
+      "code": "t000101",
+      "index": 568
+    },
+    {
+      "surface": "翼",
+      "reading": "tsubasa",
+      "code": "t000001",
+      "index": 569
+    },
+    {
+      "surface": "摘む",
+      "reading": "tsumu",
+      "code": "t0101",
+      "index": 570
+    },
+    {
+      "surface": "紡ぐ",
+      "reading": "tsumugu",
+      "code": "t000101",
+      "index": 571
+    },
+    {
+      "surface": "詰める",
+      "reading": "tsumeru",
+      "code": "t010101",
+      "index": 572
+    },
+    {
+      "surface": "通夜",
+      "reading": "tsuya",
+      "code": "t0101",
+      "index": 573
+    },
+    {
+      "surface": "貫く",
+      "reading": "tsuranuku",
+      "code": "t000001x1",
+      "index": 574
+    },
+    {
+      "surface": "釣り",
+      "reading": "tsuri",
+      "code": "t0101",
+      "index": 575
+    },
+    {
+      "surface": "手編み",
+      "reading": "teami",
+      "code": "01101",
+      "index": 576
+    },
+    {
+      "surface": "定員",
+      "reading": "teiinn",
+      "code": "0010u1",
+      "index": 577
+    },
+    {
+      "surface": "帝王切開",
+      "reading": "teiousekkai",
+      "code": "0010100zV01",
+      "index": 578
+    },
+    {
+      "surface": "締結",
+      "reading": "teiketsu",
+      "code": "00100t01",
+      "index": 579
+    },
+    {
+      "surface": "抵抗",
+      "reading": "teikou",
+      "code": "001x01",
+      "index": 580
+    },
+    {
+      "surface": "体裁",
+      "reading": "teisai",
+      "code": "001001",
+      "index": 581
+    },
+    {
+      "surface": "提唱",
+      "reading": "teishou",
+      "code": "0010d01",
+      "index": 582
+    },
+    {
+      "surface": "逓信",
+      "reading": "teishinn",
+      "code": "001s00u1",
+      "index": 583
+    },
+    {
+      "surface": "訂正",
+      "reading": "teisei",
+      "code": "001001",
+      "index": 584
+    },
+    {
+      "surface": "貞操",
+      "reading": "teisou",
+      "code": "001001",
+      "index": 585
+    },
+    {
+      "surface": "邸宅",
+      "reading": "teitaku",
+      "code": "00100x1",
+      "index": 586
+    },
+    {
+      "surface": "丁寧",
+      "reading": "teinei",
+      "code": "001001",
+      "index": 587
+    },
+    {
+      "surface": "低気圧",
+      "reading": "teikiatsu",
+      "code": "001010t01",
+      "index": 588
+    },
+    {
+      "surface": "適宜",
+      "reading": "tekigi",
+      "code": "000101",
+      "index": 589
+    },
+    {
+      "surface": "出来心",
+      "reading": "dekigokoro",
+      "code": "010100x001",
+      "index": 590
+    },
+    {
+      "surface": "的中",
+      "reading": "tekichuu",
+      "code": "0001gh01",
+      "index": 591
+    },
+    {
+      "surface": "撤回",
+      "reading": "tekkai",
+      "code": "00zV01",
+      "index": 592
+    },
+    {
+      "surface": "哲学",
+      "reading": "tetsugaku",
+      "code": "00t0100x1",
+      "index": 593
+    },
+    {
+      "surface": "鉄筋",
+      "reading": "tekkinn",
+      "code": "00100u1",
+      "index": 594
+    },
+    {
+      "surface": "鉄鉱",
+      "reading": "tekkou",
+      "code": "00zV01",
+      "index": 595
+    },
+    {
+      "surface": "鉄則",
+      "reading": "tessoku",
+      "code": "00100x1",
+      "index": 596
+    },
+    {
+      "surface": "徹頭徹尾",
+      "reading": "tettoutetsubi",
+      "code": "00100100t0101",
+      "index": 597
+    },
+    {
+      "surface": "鉄面皮",
+      "reading": "tetsumennpi",
+      "code": "00t0100n101",
+      "index": 598
+    },
+    {
+      "surface": "徹夜",
+      "reading": "tetsuya",
+      "code": "00t0101",
+      "index": 599
+    },
+    {
+      "surface": "天衣無縫",
+      "reading": "tennimuhou",
+      "code": "00N1901001",
+      "index": 600
+    },
+    {
+      "surface": "転嫁",
+      "reading": "tennka",
+      "code": "00n1x1",
+      "index": 601
+    },
+    {
+      "surface": "天涯孤独",
+      "reading": "tenngaikodoku",
+      "code": "00n1001x100x1",
+      "index": 602
+    },
+    {
+      "surface": "伝記",
+      "reading": "dennki",
+      "code": "00n101",
+      "index": 603
+    },
+    {
+      "surface": "電光石火",
+      "reading": "dennkousekka",
+      "code": "00n1x0100zV1",
+      "index": 604
+    },
+    {
+      "surface": "伝言",
+      "reading": "denngonn",
+      "code": "00n100u1",
+      "index": 605
+    },
+    {
+      "surface": "添削",
+      "reading": "tennsaku",
+      "code": "00n100x1",
+      "index": 606
+    },
+    {
+      "surface": "展示",
+      "reading": "tennzi",
+      "code": "00n1j1",
+      "index": 607
+    },
+    {
+      "surface": "天守閣",
+      "reading": "tennshukaku",
+      "code": "00n10d1x0x1",
+      "index": 608
+    },
+    {
+      "surface": "天井",
+      "reading": "tennzyou",
+      "code": "00n1b001",
+      "index": 609
+    },
+    {
+      "surface": "天地",
+      "reading": "tennchi",
+      "code": "00n1c01",
+      "index": 610
+    },
+    {
+      "surface": "電灯",
+      "reading": "denntou",
+      "code": "00n1001",
+      "index": 611
+    },
+    {
+      "surface": "殿堂",
+      "reading": "denndou",
+      "code": "00n1001",
+      "index": 612
+    },
+    {
+      "surface": "天女",
+      "reading": "tennnyo",
+      "code": "00N1v01",
+      "index": 613
+    },
+    {
+      "surface": "天王星",
+      "reading": "tennnousei",
+      "code": "00N1v01001",
+      "index": 614
+    },
+    {
+      "surface": "天然痘",
+      "reading": "tennnenntou",
+      "code": "00N1v0n1001",
+      "index": 615
+    },
+    {
+      "surface": "伝票",
+      "reading": "dennpyou",
+      "code": "00n10001",
+      "index": 616
+    },
+    {
+      "surface": "天変地異",
+      "reading": "tennpennchii",
+      "code": "00n100n1c011",
+      "index": 617
+    },
+    {
+      "surface": "店舗",
+      "reading": "tennpo",
+      "code": "00n101",
+      "index": 618
+    },
+    {
+      "surface": "天文学",
+      "reading": "tennmonngaku",
+      "code": "00n100n100x1",
+      "index": 619
+    },
+    {
+      "surface": "投網",
+      "reading": "toami",
+      "code": "01001",
+      "index": 620
+    },
+    {
+      "surface": "吐息",
+      "reading": "toiki",
+      "code": "01001",
+      "index": 621
+    },
+    {
+      "surface": "当意即妙",
+      "reading": "touisokumyou",
+      "code": "001100x10001",
+      "index": 622
+    },
+    {
+      "surface": "統一",
+      "reading": "touitsu",
+      "code": "0010t01",
+      "index": 623
+    },
+    {
+      "surface": "頭角",
+      "reading": "toukaku",
+      "code": "001x0x1",
+      "index": 624
+    },
+    {
+      "surface": "童顔",
+      "reading": "dougann",
+      "code": "00100u1",
+      "index": 625
+    },
+    {
+      "surface": "騰貴",
+      "reading": "touki",
+      "code": "00101",
+      "index": 626
+    },
+    {
+      "surface": "陶器",
+      "reading": "touki",
+      "code": "00101",
+      "index": 627
+    },
+    {
+      "surface": "闘牛",
+      "reading": "tougyuu",
+      "code": "0010001",
+      "index": 628
+    },
+    {
+      "surface": "峠",
+      "reading": "touge",
+      "code": "00001",
+      "index": 629
+    },
+    {
+      "surface": "統計",
+      "reading": "toukei",
+      "code": "001001",
+      "index": 630
+    },
+    {
+      "surface": "桃源郷",
+      "reading": "tougennkyou",
+      "code": "00100n10001",
+      "index": 631
+    },
+    {
+      "surface": "投稿",
+      "reading": "toukou",
+      "code": "001x01",
+      "index": 632
+    },
+    {
+      "surface": "同工異曲",
+      "reading": "doukouikyoku",
+      "code": "001x011000x1",
+      "index": 633
+    },
+    {
+      "surface": "動作",
+      "reading": "dousa",
+      "code": "00101",
+      "index": 634
+    },
+    {
+      "surface": "東西",
+      "reading": "touzai",
+      "code": "001001",
+      "index": 635
+    },
+    {
+      "surface": "洞察",
+      "reading": "dousatsu",
+      "code": "00100t01",
+      "index": 636
+    },
+    {
+      "surface": "倒産",
+      "reading": "tousann",
+      "code": "00100u1",
+      "index": 637
+    },
+    {
+      "surface": "投資",
+      "reading": "toushi",
+      "code": "001s01",
+      "index": 638
+    },
+    {
+      "surface": "闘志",
+      "reading": "toushi",
+      "code": "001s01",
+      "index": 639
+    },
+    {
+      "surface": "冬至",
+      "reading": "touzi",
+      "code": "001j1",
+      "index": 640
+    },
+    {
+      "surface": "当時",
+      "reading": "touzi",
+      "code": "001j1",
+      "index": 641
+    },
+    {
+      "surface": "悼辞",
+      "reading": "touzi",
+      "code": "001j1",
+      "index": 642
+    },
+    {
+      "surface": "陶磁器",
+      "reading": "touziki",
+      "code": "001j101",
+      "index": 643
+    },
+    {
+      "surface": "搭乗",
+      "reading": "touzyou",
+      "code": "001b001",
+      "index": 644
+    },
+    {
+      "surface": "同床異夢",
+      "reading": "doushouimu",
+      "code": "0010d01101",
+      "index": 645
+    },
+    {
+      "surface": "同姓",
+      "reading": "dousei",
+      "code": "001001",
+      "index": 646
+    },
+    {
+      "surface": "逃走",
+      "reading": "tousou",
+      "code": "001001",
+      "index": 647
+    },
+    {
+      "surface": "同窓",
+      "reading": "dousou",
+      "code": "001001",
+      "index": 648
+    },
+    {
+      "surface": "盗賊",
+      "reading": "touzoku",
+      "code": "00100x1",
+      "index": 649
+    },
+    {
+      "surface": "胴体",
+      "reading": "doutai",
+      "code": "001001",
+      "index": 650
+    },
+    {
+      "surface": "到底",
+      "reading": "toutei",
+      "code": "001001",
+      "index": 651
+    },
+    {
+      "surface": "唐突",
+      "reading": "toutotsu",
+      "code": "00100t01",
+      "index": 652
+    },
+    {
+      "surface": "盗難",
+      "reading": "tounann",
+      "code": "00100u1",
+      "index": 653
+    },
+    {
+      "surface": "踏破",
+      "reading": "touha",
+      "code": "00101",
+      "index": 654
+    },
+    {
+      "surface": "逃避",
+      "reading": "touhi",
+      "code": "00101",
+      "index": 655
+    },
+    {
+      "surface": "動物",
+      "reading": "doubutsu",
+      "code": "00100t01",
+      "index": 656
+    },
+    {
+      "surface": "謄本",
+      "reading": "touhonn",
+      "code": "00100u1",
+      "index": 657
+    },
+    {
+      "surface": "東奔西走",
+      "reading": "touhonnseisou",
+      "code": "00100n1001001",
+      "index": 658
+    },
+    {
+      "surface": "透明",
+      "reading": "toumei",
+      "code": "001001",
+      "index": 659
+    },
+    {
+      "surface": "動揺",
+      "reading": "douyou",
+      "code": "001001",
+      "index": 660
+    },
+    {
+      "surface": "同僚",
+      "reading": "douryou",
+      "code": "0010001",
+      "index": 661
+    },
+    {
+      "surface": "当惑",
+      "reading": "touwaku",
+      "code": "00100x1",
+      "index": 662
+    },
+    {
+      "surface": "遠浅",
+      "reading": "tooasa",
+      "code": "001001",
+      "index": 663
+    },
+    {
+      "surface": "渡欧",
+      "reading": "toou",
+      "code": "0101",
+      "index": 664
+    },
+    {
+      "surface": "度外視",
+      "reading": "dogaishi",
+      "code": "01001s01",
+      "index": 665
+    },
+    {
+      "surface": "度胸",
+      "reading": "dokyou",
+      "code": "010001",
+      "index": 666
+    },
+    {
+      "surface": "研ぐ",
+      "reading": "togu",
+      "code": "0101",
+      "index": 667
+    },
+    {
+      "surface": "得意",
+      "reading": "tokui",
+      "code": "00x11",
+      "index": 668
+    },
+    {
+      "surface": "特技",
+      "reading": "tokugi",
+      "code": "00x101",
+      "index": 669
+    },
+    {
+      "surface": "篤志家",
+      "reading": "tokushika",
+      "code": "00x1s01x1",
+      "index": 670
+    },
+    {
+      "surface": "特殊",
+      "reading": "tokushu",
+      "code": "00x10d1",
+      "index": 671
+    },
+    {
+      "surface": "独身寮",
+      "reading": "dokushinnryou",
+      "code": "00x1s00n10001",
+      "index": 672
+    },
+    {
+      "surface": "独創",
+      "reading": "dokusou",
+      "code": "00x1001",
+      "index": 673
+    },
+    {
+      "surface": "督促",
+      "reading": "tokusoku",
+      "code": "00x100x1",
+      "index": 674
+    },
+    {
+      "surface": "独断",
+      "reading": "dokudann",
+      "code": "00x100u1",
+      "index": 675
+    },
+    {
+      "surface": "特徴",
+      "reading": "tokuchou",
+      "code": "00x1gh01",
+      "index": 676
+    },
+    {
+      "surface": "匿名",
+      "reading": "tokumei",
+      "code": "00x1001",
+      "index": 677
+    },
+    {
+      "surface": "毒薬",
+      "reading": "dokuyaku",
+      "code": "00x100x1",
+      "index": 678
+    },
+    {
+      "surface": "徳用",
+      "reading": "tokuyou",
+      "code": "00x1001",
+      "index": 679
+    },
+    {
+      "surface": "溶ける",
+      "reading": "tokeru",
+      "code": "010101",
+      "index": 680
+    },
+    {
+      "surface": "遂げる",
+      "reading": "togeru",
+      "code": "010101",
+      "index": 681
+    },
+    {
+      "surface": "渡航",
+      "reading": "tokou",
+      "code": "01x01",
+      "index": 682
+    },
+    {
+      "surface": "常夏",
+      "reading": "tokonatsu",
+      "code": "00x100t01",
+      "index": 683
+    },
+    {
+      "surface": "登山",
+      "reading": "tozann",
+      "code": "0100u1",
+      "index": 684
+    },
+    {
+      "surface": "土砂",
+      "reading": "dosha",
+      "code": "010d1",
+      "index": 685
+    },
+    {
+      "surface": "図書",
+      "reading": "tosho",
+      "code": "010d1",
+      "index": 686
+    },
+    {
+      "surface": "土壌",
+      "reading": "dozyou",
+      "code": "01b001",
+      "index": 687
+    },
+    {
+      "surface": "塗装",
+      "reading": "tosou",
+      "code": "01001",
+      "index": 688
+    },
+    {
+      "surface": "戸棚",
+      "reading": "todana",
+      "code": "010001",
+      "index": 689
+    },
+    {
+      "surface": "土壇場",
+      "reading": "dotannba",
+      "code": "0100n101",
+      "index": 690
+    },
+    {
+      "surface": "特許",
+      "reading": "tokkyo",
+      "code": "001001",
+      "index": 691
+    },
+    {
+      "surface": "嫁ぐ",
+      "reading": "totsugu",
+      "code": "00t0101",
+      "index": 692
+    },
+    {
+      "surface": "突如",
+      "reading": "totsuzyo",
+      "code": "00t01b01",
+      "index": 693
+    },
+    {
+      "surface": "突然",
+      "reading": "totsuzenn",
+      "code": "00t0100u1",
+      "index": 694
+    },
+    {
+      "surface": "徒党",
+      "reading": "totou",
+      "code": "01001",
+      "index": 695
+    },
+    {
+      "surface": "滞る",
+      "reading": "todokooru",
+      "code": "0000x0101",
+      "index": 696
+    },
+    {
+      "surface": "唱える",
+      "reading": "tonaeru",
+      "code": "0001101",
+      "index": 697
+    },
+    {
+      "surface": "扉",
+      "reading": "tobira",
+      "code": "000001",
+      "index": 698
+    },
+    {
+      "surface": "跳ぶ",
+      "reading": "tobu",
+      "code": "0101",
+      "index": 699
+    },
+    {
+      "surface": "土木",
+      "reading": "doboku",
+      "code": "0100x1",
+      "index": 700
+    },
+    {
+      "surface": "乏しい",
+      "reading": "toboshii",
+      "code": "0001s011",
+      "index": 701
+    },
+    {
+      "surface": "泊まる",
+      "reading": "tomaru",
+      "code": "010101",
+      "index": 702
+    },
+    {
+      "surface": "弔う",
+      "reading": "tomurau",
+      "code": "0000011",
+      "index": 703
+    },
+    {
+      "surface": "伴う",
+      "reading": "tomonau",
+      "code": "0000011",
+      "index": 704
+    },
+    {
+      "surface": "捕らえる",
+      "reading": "toraeru",
+      "code": "0101101",
+      "index": 705
+    },
+    {
+      "surface": "鳥居",
+      "reading": "torii",
+      "code": "00011",
+      "index": 706
+    },
+    {
+      "surface": "採る",
+      "reading": "toru",
+      "code": "0101",
+      "index": 707
+    },
+    {
+      "surface": "撮る",
+      "reading": "toru",
+      "code": "0101",
+      "index": 708
+    },
+    {
+      "surface": "執る",
+      "reading": "toru",
+      "code": "0101",
+      "index": 709
+    },
+    {
+      "surface": "奴隷",
+      "reading": "dorei",
+      "code": "01001",
+      "index": 710
+    },
+    {
+      "surface": "吐露",
+      "reading": "toro",
+      "code": "0101",
+      "index": 711
+    },
+    {
+      "surface": "徒労",
+      "reading": "torou",
+      "code": "01001",
+      "index": 712
+    },
+    {
+      "surface": "泥沼",
+      "reading": "doronuma",
+      "code": "00010001",
+      "index": 713
+    },
+    {
+      "surface": "鈍感",
+      "reading": "donnkann",
+      "code": "00n1x0u1",
+      "index": 714
+    },
+    {
+      "surface": "曇天",
+      "reading": "donntenn",
+      "code": "00n100u1",
+      "index": 715
+    },
+    {
+      "surface": "問屋",
+      "reading": "tonnya",
+      "code": "00N1v1",
+      "index": 716
+    },
+    {
+      "surface": "内柔外剛",
+      "reading": "naizyuugaigou",
+      "code": "001b001001001",
+      "index": 717
+    },
+    {
+      "surface": "内臓",
+      "reading": "naizou",
+      "code": "001001",
+      "index": 718
+    },
+    {
+      "surface": "苗木",
+      "reading": "naegi",
+      "code": "00101",
+      "index": 719
+    },
+    {
+      "surface": "半ば",
+      "reading": "nakaba",
+      "code": "00x101",
+      "index": 720
+    },
+    {
+      "surface": "眺める",
+      "reading": "nagameru",
+      "code": "00010101",
+      "index": 721
+    },
+    {
+      "surface": "慰める",
+      "reading": "nagusameru",
+      "code": "0000010101",
+      "index": 722
+    },
+    {
+      "surface": "殴る",
+      "reading": "naguru",
+      "code": "000101",
+      "index": 723
+    },
+    {
+      "surface": "嘆く",
+      "reading": "nageku",
+      "code": "0001x1",
+      "index": 724
+    },
+    {
+      "surface": "仲人",
+      "reading": "nakoudo",
+      "code": "00x0101",
+      "index": 725
+    },
+    {
+      "surface": "和む",
+      "reading": "nagomu",
+      "code": "000101",
+      "index": 726
+    },
+    {
+      "surface": "名残",
+      "reading": "nagori",
+      "code": "010001",
+      "index": 727
+    },
+    {
+      "surface": "菜種",
+      "reading": "natane",
+      "code": "010001",
+      "index": 728
+    },
+    {
+      "surface": "雪崩",
+      "reading": "nadare",
+      "code": "010001",
+      "index": 729
+    },
+    {
+      "surface": "懐かしい",
+      "reading": "natsukashii",
+      "code": "00t01x1s011",
+      "index": 730
+    },
+    {
+      "surface": "納豆",
+      "reading": "nattou",
+      "code": "001001",
+      "index": 731
+    },
+    {
+      "surface": "斜め",
+      "reading": "naname",
+      "code": "000101",
+      "index": 732
+    },
+    {
+      "surface": "怠ける",
+      "reading": "namakeru",
+      "code": "00010101",
+      "index": 733
+    },
+    {
+      "surface": "生半可",
+      "reading": "namahannka",
+      "code": "000100n1x1",
+      "index": 734
+    },
+    {
+      "surface": "生兵法",
+      "reading": "namabyouhou",
+      "code": "00010001001",
+      "index": 735
+    },
+    {
+      "surface": "鉛",
+      "reading": "namari",
+      "code": "000001",
+      "index": 736
+    },
+    {
+      "surface": "涙",
+      "reading": "namida",
+      "code": "000001",
+      "index": 737
+    },
+    {
+      "surface": "悩む",
+      "reading": "nayamu",
+      "code": "000101",
+      "index": 738
+    },
+    {
+      "surface": "倣う",
+      "reading": "narau",
+      "code": "00011",
+      "index": 739
+    },
+    {
+      "surface": "縄",
+      "reading": "nawa",
+      "code": "0001",
+      "index": 740
+    },
+    {
+      "surface": "苗代",
+      "reading": "nawashiro",
+      "code": "0001s0001",
+      "index": 741
+    },
+    {
+      "surface": "軟化",
+      "reading": "nannka",
+      "code": "00n1x1",
+      "index": 742
+    },
+    {
+      "surface": "難攻不落",
+      "reading": "nannkouhuraku",
+      "code": "00n1x01f100x1",
+      "index": 743
+    },
+    {
+      "surface": "南船北馬",
+      "reading": "nannsennhokuba",
+      "code": "00n100n100x101",
+      "index": 744
+    },
+    {
+      "surface": "納戸",
+      "reading": "nanndo",
+      "code": "00n101",
+      "index": 745
+    },
+    {
+      "surface": "新妻",
+      "reading": "niiduma",
+      "code": "0010001",
+      "index": 746
+    },
+    {
+      "surface": "仁王",
+      "reading": "niou",
+      "code": "0101",
+      "index": 747
+    },
+    {
+      "surface": "苦い",
+      "reading": "nigai",
+      "code": "00011",
+      "index": 748
+    },
+    {
+      "surface": "握る",
+      "reading": "nigiru",
+      "code": "000101",
+      "index": 749
+    },
+    {
+      "surface": "憎い",
+      "reading": "nikui",
+      "code": "00x11",
+      "index": 750
+    },
+    {
+      "surface": "肉薄",
+      "reading": "nikuhaku",
+      "code": "00x100x1",
+      "index": 751
+    },
+    {
+      "surface": "逃げる",
+      "reading": "nigeru",
+      "code": "010101",
+      "index": 752
+    },
+    {
+      "surface": "濁る",
+      "reading": "nigoru",
+      "code": "000101",
+      "index": 753
+    },
+    {
+      "surface": "二者択一",
+      "reading": "nishatakuitsu",
+      "code": "010d100x10t01",
+      "index": 754
+    },
+    {
+      "surface": "偽物",
+      "reading": "nisemono",
+      "code": "00010001",
+      "index": 755
+    },
+    {
+      "surface": "尼僧",
+      "reading": "nisou",
+      "code": "01001",
+      "index": 756
+    },
+    {
+      "surface": "日射病",
+      "reading": "nisshabyou",
+      "code": "0010d10001",
+      "index": 757
+    },
+    {
+      "surface": "日進月歩",
+      "reading": "nisshinngeppo",
+      "code": "001s00n100101",
+      "index": 758
+    },
+    {
+      "surface": "日程",
+      "reading": "nittei",
+      "code": "001001",
+      "index": 759
+    },
+    {
+      "surface": "鈍い",
+      "reading": "nibui",
+      "code": "00011",
+      "index": 760
+    },
+    {
+      "surface": "日本髪",
+      "reading": "nihonngami",
+      "code": "0100n10001",
+      "index": 761
+    },
+    {
+      "surface": "入荷",
+      "reading": "nyuuka",
+      "code": "0001x1",
+      "index": 762
+    },
+    {
+      "surface": "乳歯",
+      "reading": "nyuushi",
+      "code": "0001s01",
+      "index": 763
+    },
+    {
+      "surface": "乳児",
+      "reading": "nyuuzi",
+      "code": "0001j1",
+      "index": 764
+    },
+    {
+      "surface": "柔和",
+      "reading": "nyuuwa",
+      "code": "000101",
+      "index": 765
+    },
+    {
+      "surface": "如実",
+      "reading": "nyozitsu",
+      "code": "001j0t01",
+      "index": 766
+    },
+    {
+      "surface": "尿素",
+      "reading": "nyouso",
+      "code": "000101",
+      "index": 767
+    },
+    {
+      "surface": "鶏",
+      "reading": "niwatori",
+      "code": "00000001",
+      "index": 768
+    },
+    {
+      "surface": "人形",
+      "reading": "ninngyou",
+      "code": "00n10001",
+      "index": 769
+    },
+    {
+      "surface": "妊娠",
+      "reading": "ninnshinn",
+      "code": "00n1s00u1",
+      "index": 770
+    },
+    {
+      "surface": "忍耐",
+      "reading": "ninntai",
+      "code": "00n1001",
+      "index": 771
+    },
+    {
+      "surface": "任務",
+      "reading": "ninnmu",
+      "code": "00n101",
+      "index": 772
+    },
+    {
+      "surface": "縫う",
+      "reading": "nuu",
+      "code": "011",
+      "index": 773
+    },
+    {
+      "surface": "抜く",
+      "reading": "nuku",
+      "code": "01x1",
+      "index": 774
+    },
+    {
+      "surface": "脱ぐ",
+      "reading": "nugu",
+      "code": "0101",
+      "index": 775
+    },
+    {
+      "surface": "盗む",
+      "reading": "nusumu",
+      "code": "000101",
+      "index": 776
+    },
+    {
+      "surface": "沼地",
+      "reading": "numachi",
+      "code": "0001c01",
+      "index": 777
+    },
+    {
+      "surface": "塗る",
+      "reading": "nuru",
+      "code": "0101",
+      "index": 778
+    },
+    {
+      "surface": "音色",
+      "reading": "neiro",
+      "code": "01001",
+      "index": 779
+    },
+    {
+      "surface": "猫舌",
+      "reading": "nekozita",
+      "code": "00x1j001",
+      "index": 780
+    },
+    {
+      "surface": "寝言",
+      "reading": "negoto",
+      "code": "010001",
+      "index": 781
+    },
+    {
+      "surface": "値段",
+      "reading": "nedann",
+      "code": "0100u1",
+      "index": 782
+    },
+    {
+      "surface": "寝床",
+      "reading": "nedoko",
+      "code": "0100x1",
+      "index": 783
+    },
+    {
+      "surface": "粘る",
+      "reading": "nebaru",
+      "code": "000101",
+      "index": 784
+    },
+    {
+      "surface": "眠る",
+      "reading": "nemuru",
+      "code": "000101",
+      "index": 785
+    },
+    {
+      "surface": "年賀",
+      "reading": "nennga",
+      "code": "00n101",
+      "index": 786
+    },
+    {
+      "surface": "懇ろ",
+      "reading": "nengoro",
+      "code": "0030101",
+      "index": 787
+    },
+    {
+      "surface": "年代",
+      "reading": "nenndai",
+      "code": "00n1001",
+      "index": 788
+    },
+    {
+      "surface": "粘土",
+      "reading": "nenndo",
+      "code": "00n101",
+      "index": 789
+    },
+    {
+      "surface": "念仏",
+      "reading": "nennbutsu",
+      "code": "00n100t01",
+      "index": 790
+    },
+    {
+      "surface": "年俸",
+      "reading": "nennpou",
+      "code": "00n1001",
+      "index": 791
+    },
+    {
+      "surface": "燃料",
+      "reading": "nennryou",
+      "code": "00n10001",
+      "index": 792
+    },
+    {
+      "surface": "年齢",
+      "reading": "nennrei",
+      "code": "00n1001",
+      "index": 793
+    },
+    {
+      "surface": "濃厚",
+      "reading": "noukou",
+      "code": "001x01",
+      "index": 794
+    },
+    {
+      "surface": "農耕",
+      "reading": "noukou",
+      "code": "001x01",
+      "index": 795
+    },
+    {
+      "surface": "濃紺",
+      "reading": "noukonn",
+      "code": "001x0u1",
+      "index": 796
+    },
+    {
+      "surface": "農村",
+      "reading": "nousonn",
+      "code": "00100u1",
+      "index": 797
+    },
+    {
+      "surface": "濃淡",
+      "reading": "noutann",
+      "code": "00100u1",
+      "index": 798
+    },
+    {
+      "surface": "農繁期",
+      "reading": "nouhannki",
+      "code": "00100n101",
+      "index": 799
+    },
+    {
+      "surface": "濃霧",
+      "reading": "noumu",
+      "code": "00101",
+      "index": 800
+    },
+    {
+      "surface": "軒先",
+      "reading": "nokisaki",
+      "code": "00010001",
+      "index": 801
+    },
+    {
+      "surface": "載せる",
+      "reading": "noseru",
+      "code": "010101",
+      "index": 802
+    },
+    {
+      "surface": "野原",
+      "reading": "nohara",
+      "code": "010001",
+      "index": 803
+    },
+    {
+      "surface": "昇る",
+      "reading": "noboru",
+      "code": "000101",
+      "index": 804
+    },
+    {
+      "surface": "野良犬",
+      "reading": "norainu",
+      "code": "0101001",
+      "index": 805
+    },
+    {
+      "surface": "把握",
+      "reading": "haaku",
+      "code": "010x1",
+      "index": 806
+    },
+    {
+      "surface": "倍加",
+      "reading": "baika",
+      "code": "001x1",
+      "index": 807
+    },
+    {
+      "surface": "媒介",
+      "reading": "baikai",
+      "code": "001x01",
+      "index": 808
+    },
+    {
+      "surface": "肺活量",
+      "reading": "haikatsuryou",
+      "code": "001x0t010001",
+      "index": 809
+    },
+    {
+      "surface": "配給",
+      "reading": "haikyuu",
+      "code": "0010001",
+      "index": 810
+    },
+    {
+      "surface": "俳句",
+      "reading": "haiku",
+      "code": "001x1",
+      "index": 811
+    },
+    {
+      "surface": "配偶者",
+      "reading": "haiguusha",
+      "code": "0010010d1",
+      "index": 812
+    },
+    {
+      "surface": "拝見",
+      "reading": "haikenn",
+      "code": "00100u1",
+      "index": 813
+    },
+    {
+      "surface": "灰皿",
+      "reading": "haizara",
+      "code": "0010001",
+      "index": 814
+    },
+    {
+      "surface": "買収",
+      "reading": "baishuu",
+      "code": "0010d01",
+      "index": 815
+    },
+    {
+      "surface": "排除",
+      "reading": "haizyo",
+      "code": "001b01",
+      "index": 816
+    },
+    {
+      "surface": "賠償",
+      "reading": "baishou",
+      "code": "0010d01",
+      "index": 817
+    },
+    {
+      "surface": "陪審",
+      "reading": "baishinn",
+      "code": "001s00u1",
+      "index": 818
+    },
+    {
+      "surface": "排水溝",
+      "reading": "haisuikou",
+      "code": "001001x01",
+      "index": 819
+    },
+    {
+      "surface": "排斥",
+      "reading": "haiseki",
+      "code": "0010001",
+      "index": 820
+    },
+    {
+      "surface": "排他",
+      "reading": "haita",
+      "code": "00101",
+      "index": 821
+    },
+    {
+      "surface": "廃藩",
+      "reading": "haihann",
+      "code": "00100u1",
+      "index": 822
+    },
+    {
+      "surface": "破壊",
+      "reading": "hakai",
+      "code": "01x01",
+      "index": 823
+    },
+    {
+      "surface": "計る",
+      "reading": "hakaru",
+      "code": "00x101",
+      "index": 824
+    },
+    {
+      "surface": "諮る",
+      "reading": "hakaru",
+      "code": "00x101",
+      "index": 825
+    },
+    {
+      "surface": "謀る",
+      "reading": "hakaru",
+      "code": "00x101",
+      "index": 826
+    },
+    {
+      "surface": "破顔一笑",
+      "reading": "hagannisshou",
+      "code": "0100N1v10d01",
+      "index": 827
+    },
+    {
+      "surface": "履物",
+      "reading": "hakimono",
+      "code": "00010001",
+      "index": 828
+    },
+    {
+      "surface": "掃く",
+      "reading": "haku",
+      "code": "01x1",
+      "index": 829
+    },
+    {
+      "surface": "吐く",
+      "reading": "haku",
+      "code": "01x1",
+      "index": 830
+    },
+    {
+      "surface": "麦芽",
+      "reading": "bakuga",
+      "code": "00x101",
+      "index": 831
+    },
+    {
+      "surface": "歯茎",
+      "reading": "haguki",
+      "code": "010001",
+      "index": 832
+    },
+    {
+      "surface": "白砂青松",
+      "reading": "hakushaseishou",
+      "code": "00x10d10010d01",
+      "index": 833
+    },
+    {
+      "surface": "拍手",
+      "reading": "hakushu",
+      "code": "00x10d1",
+      "index": 834
+    },
+    {
+      "surface": "漠然",
+      "reading": "bakuzenn",
+      "code": "00x100u1",
+      "index": 835
+    },
+    {
+      "surface": "博打",
+      "reading": "bakuchi",
+      "code": "00x1c01",
+      "index": 836
+    },
+    {
+      "surface": "白昼夢",
+      "reading": "hakuchuumu",
+      "code": "00x1gh0101",
+      "index": 837
+    },
+    {
+      "surface": "白熱戦",
+      "reading": "hakunetsusenn",
+      "code": "00x100t0100u1",
+      "index": 838
+    },
+    {
+      "surface": "爆発",
+      "reading": "bakuhatsu",
+      "code": "00x100t01",
+      "index": 839
+    },
+    {
+      "surface": "白墨",
+      "reading": "hakuboku",
+      "code": "00x100x1",
+      "index": 840
+    },
+    {
+      "surface": "幕末",
+      "reading": "bakumatsu",
+      "code": "00x100t01",
+      "index": 841
+    },
+    {
+      "surface": "舶来",
+      "reading": "hakurai",
+      "code": "00x1001",
+      "index": 842
+    },
+    {
+      "surface": "博覧",
+      "reading": "hakurann",
+      "code": "00x100u1",
+      "index": 843
+    },
+    {
+      "surface": "歯車",
+      "reading": "haguruma",
+      "code": "01000001",
+      "index": 844
+    },
+    {
+      "surface": "暴露",
+      "reading": "bakuro",
+      "code": "00x101",
+      "index": 845
+    },
+    {
+      "surface": "励ます",
+      "reading": "hagemasu",
+      "code": "00010101",
+      "index": 846
+    },
+    {
+      "surface": "派遣",
+      "reading": "hakenn",
+      "code": "0100u1",
+      "index": 847
+    },
+    {
+      "surface": "箱庭",
+      "reading": "hakoniwa",
+      "code": "00x10001",
+      "index": 848
+    },
+    {
+      "surface": "羽衣",
+      "reading": "hagoromo",
+      "code": "01000001",
+      "index": 849
+    },
+    {
+      "surface": "端境期",
+      "reading": "hazakaiki",
+      "code": "0100x0101",
+      "index": 850
+    },
+    {
+      "surface": "挟む",
+      "reading": "hasamu",
+      "code": "000101",
+      "index": 851
+    },
+    {
+      "surface": "破産",
+      "reading": "hasann",
+      "code": "0100u1",
+      "index": 852
+    },
+    {
+      "surface": "端",
+      "reading": "hashi",
+      "code": "00s01",
+      "index": 853
+    },
+    {
+      "surface": "恥",
+      "reading": "hazi",
+      "code": "00j1",
+      "index": 854
+    },
+    {
+      "surface": "端数",
+      "reading": "hasuu",
+      "code": "01001",
+      "index": 855
+    },
+    {
+      "surface": "辱める",
+      "reading": "hazukashimeru",
+      "code": "0000x0s010101",
+      "index": 856
+    },
+    {
+      "surface": "弾む",
+      "reading": "hazumu",
+      "code": "000101",
+      "index": 857
+    },
+    {
+      "surface": "破損",
+      "reading": "hasonn",
+      "code": "0100u1",
+      "index": 858
+    },
+    {
+      "surface": "畑作",
+      "reading": "hatasaku",
+      "code": "000100x1",
+      "index": 859
+    },
+    {
+      "surface": "発汗",
+      "reading": "hakkann",
+      "code": "00zV0u1",
+      "index": 860
+    },
+    {
+      "surface": "発揮",
+      "reading": "hakki",
+      "code": "00101",
+      "index": 861
+    },
+    {
+      "surface": "罰金",
+      "reading": "bakkinn",
+      "code": "00100u1",
+      "index": 862
+    },
+    {
+      "surface": "発掘",
+      "reading": "hakkutsu",
+      "code": "00zV0t01",
+      "index": 863
+    },
+    {
+      "surface": "抜群",
+      "reading": "batsugunn",
+      "code": "00t0100u1",
+      "index": 864
+    },
+    {
+      "surface": "初恋",
+      "reading": "hatsukoi",
+      "code": "00t01x01",
+      "index": 865
+    },
+    {
+      "surface": "伐採",
+      "reading": "bassai",
+      "code": "001001",
+      "index": 866
+    },
+    {
+      "surface": "初霜",
+      "reading": "hatsushimo",
+      "code": "00t01s0001",
+      "index": 867
+    },
+    {
+      "surface": "発注",
+      "reading": "hattyuu",
+      "code": "0060d01",
+      "index": 868
+    },
+    {
+      "surface": "発電",
+      "reading": "hatsudenn",
+      "code": "00t0100u1",
+      "index": 869
+    },
+    {
+      "surface": "波止場",
+      "reading": "hatoba",
+      "code": "010101",
+      "index": 870
+    },
+    {
+      "surface": "鼻緒",
+      "reading": "hanao",
+      "code": "00011",
+      "index": 871
+    },
+    {
+      "surface": "花園",
+      "reading": "hanazono",
+      "code": "00010001",
+      "index": 872
+    },
+    {
+      "surface": "甚だ",
+      "reading": "hanahada",
+      "code": "00000101",
+      "index": 873
+    },
+    {
+      "surface": "花婿",
+      "reading": "hanamuko",
+      "code": "000100x1",
+      "index": 874
+    },
+    {
+      "surface": "花嫁",
+      "reading": "hanayome",
+      "code": "00010001",
+      "index": 875
+    },
+    {
+      "surface": "離れる",
+      "reading": "hanareru",
+      "code": "00010101",
+      "index": 876
+    },
+    {
+      "surface": "跳ねる",
+      "reading": "haneru",
+      "code": "010101",
+      "index": 877
+    },
+    {
+      "surface": "派閥",
+      "reading": "habatsu",
+      "code": "0100t01",
+      "index": 878
+    },
+    {
+      "surface": "阻む",
+      "reading": "habamu",
+      "code": "000101",
+      "index": 879
+    },
+    {
+      "surface": "省く",
+      "reading": "habuku",
+      "code": "0001x1",
+      "index": 880
+    },
+    {
+      "surface": "浜辺",
+      "reading": "hamabe",
+      "code": "000101",
+      "index": 881
+    },
+    {
+      "surface": "刃物",
+      "reading": "hamono",
+      "code": "010001",
+      "index": 882
+    },
+    {
+      "surface": "波紋",
+      "reading": "hamonn",
+      "code": "0100u1",
+      "index": 883
+    },
+    {
+      "surface": "早番",
+      "reading": "hayabann",
+      "code": "000100u1",
+      "index": 884
+    },
+    {
+      "surface": "払う",
+      "reading": "harau",
+      "code": "00011",
+      "index": 885
+    },
+    {
+      "surface": "針金",
+      "reading": "harigane",
+      "code": "00010001",
+      "index": 886
+    },
+    {
+      "surface": "破廉恥",
+      "reading": "harennchi",
+      "code": "0100n1c01",
+      "index": 887
+    },
+    {
+      "surface": "波浪",
+      "reading": "harou",
+      "code": "01001",
+      "index": 888
+    },
+    {
+      "surface": "範囲",
+      "reading": "hanni",
+      "code": "00N19",
+      "index": 889
+    },
+    {
+      "surface": "版画",
+      "reading": "hannga",
+      "code": "00n101",
+      "index": 890
+    },
+    {
+      "surface": "繁華街",
+      "reading": "hannkagai",
+      "code": "00n1x1001",
+      "index": 891
+    },
+    {
+      "surface": "番組",
+      "reading": "banngumi",
+      "code": "00n10001",
+      "index": 892
+    },
+    {
+      "surface": "犯罪",
+      "reading": "hannzai",
+      "code": "00n1001",
+      "index": 893
+    },
+    {
+      "surface": "半死半生",
+      "reading": "hannshihannshou",
+      "code": "00n1s0100n10d01",
+      "index": 894
+    },
+    {
+      "surface": "晩酌",
+      "reading": "bannshaku",
+      "code": "00n10d0x1",
+      "index": 895
+    },
+    {
+      "surface": "半信半疑",
+      "reading": "hannshinnhanngi",
+      "code": "00n1s00n100n101",
+      "index": 896
+    },
+    {
+      "surface": "帆船",
+      "reading": "hannsenn",
+      "code": "00n100u1",
+      "index": 897
+    },
+    {
+      "surface": "伴奏",
+      "reading": "bannsou",
+      "code": "00n1001",
+      "index": 898
+    },
+    {
+      "surface": "判断",
+      "reading": "hanndann",
+      "code": "00n100u1",
+      "index": 899
+    },
+    {
+      "surface": "判定",
+      "reading": "hanntei",
+      "code": "00n1001",
+      "index": 900
+    },
+    {
+      "surface": "半導体",
+      "reading": "hanndoutai",
+      "code": "00n1001001",
+      "index": 901
+    },
+    {
+      "surface": "販売",
+      "reading": "hannbai",
+      "code": "00n1001",
+      "index": 902
+    },
+    {
+      "surface": "頒布",
+      "reading": "hannpu",
+      "code": "00n101",
+      "index": 903
+    },
+    {
+      "surface": "半面",
+      "reading": "hannmenn",
+      "code": "00n100u1",
+      "index": 904
+    },
+    {
+      "surface": "繁茂",
+      "reading": "hannmo",
+      "code": "00n101",
+      "index": 905
+    },
+    {
+      "surface": "凡例",
+      "reading": "hannrei",
+      "code": "00n1001",
+      "index": 906
+    },
+    {
+      "surface": "被害",
+      "reading": "higai",
+      "code": "01001",
+      "index": 907
+    },
+    {
+      "surface": "控え",
+      "reading": "hikae",
+      "code": "00x11",
+      "index": 908
+    },
+    {
+      "surface": "皮革",
+      "reading": "hikaku",
+      "code": "01x0x1",
+      "index": 909
+    },
+    {
+      "surface": "比較",
+      "reading": "hikaku",
+      "code": "01x0x1",
+      "index": 910
+    },
+    {
+      "surface": "日陰",
+      "reading": "hikage",
+      "code": "01x001",
+      "index": 911
+    },
+    {
+      "surface": "干潟",
+      "reading": "higata",
+      "code": "010001",
+      "index": 912
+    },
+    {
+      "surface": "彼岸",
+      "reading": "higann",
+      "code": "0100u1",
+      "index": 913
+    },
+    {
+      "surface": "卑屈",
+      "reading": "hikutsu",
+      "code": "01x0t01",
+      "index": 914
+    },
+    {
+      "surface": "鼻孔",
+      "reading": "bikou",
+      "code": "01x01",
+      "index": 915
+    },
+    {
+      "surface": "尾行",
+      "reading": "bikou",
+      "code": "01x01",
+      "index": 916
+    },
+    {
+      "surface": "備考",
+      "reading": "bikou",
+      "code": "01x01",
+      "index": 917
+    },
+    {
+      "surface": "被告",
+      "reading": "hikoku",
+      "code": "01x0x1",
+      "index": 918
+    },
+    {
+      "surface": "微細",
+      "reading": "bisai",
+      "code": "01001",
+      "index": 919
+    },
+    {
+      "surface": "久々",
+      "reading": "hisabisa",
+      "code": "00010001",
+      "index": 920
+    },
+    {
+      "surface": "悲惨",
+      "reading": "hisann",
+      "code": "0100u1",
+      "index": 921
+    },
+    {
+      "surface": "美術",
+      "reading": "bizyutsu",
+      "code": "01b00t01",
+      "index": 922
+    },
+    {
+      "surface": "批准",
+      "reading": "hizyunn",
+      "code": "01b00u1",
+      "index": 923
+    },
+    {
+      "surface": "避暑",
+      "reading": "hisho",
+      "code": "010d1",
+      "index": 924
+    },
+    {
+      "surface": "美辞麗句",
+      "reading": "bizireiku",
+      "code": "01j1001x1",
+      "index": 925
+    },
+    {
+      "surface": "潜む",
+      "reading": "hisomu",
+      "code": "000101",
+      "index": 926
+    },
+    {
+      "surface": "肥大",
+      "reading": "hidai",
+      "code": "01001",
+      "index": 927
+    },
+    {
+      "surface": "浸す",
+      "reading": "hitasu",
+      "code": "000101",
+      "index": 928
+    },
+    {
+      "surface": "必死",
+      "reading": "hisshi",
+      "code": "001s01",
+      "index": 929
+    },
+    {
+      "surface": "必需品",
+      "reading": "hitsuzyuhinn",
+      "code": "00t01b0100u1",
+      "index": 930
+    },
+    {
+      "surface": "筆舌",
+      "reading": "hitsuzetsu",
+      "code": "00t0100t01",
+      "index": 931
+    },
+    {
+      "surface": "匹敵",
+      "reading": "hitteki",
+      "code": "0010001",
+      "index": 932
+    },
+    {
+      "surface": "非難",
+      "reading": "hinann",
+      "code": "0100u1",
+      "index": 933
+    },
+    {
+      "surface": "泌尿器",
+      "reading": "hinyouki",
+      "code": "01000101",
+      "index": 934
+    },
+    {
+      "surface": "否認",
+      "reading": "hininn",
+      "code": "0100u1",
+      "index": 935
+    },
+    {
+      "surface": "響く",
+      "reading": "hibiku",
+      "code": "0001x1",
+      "index": 936
+    },
+    {
+      "surface": "皮膚",
+      "reading": "hihu",
+      "code": "01f1",
+      "index": 937
+    },
+    {
+      "surface": "暇",
+      "reading": "hima",
+      "code": "0001",
+      "index": 938
+    },
+    {
+      "surface": "姫",
+      "reading": "hime",
+      "code": "0001",
+      "index": 939
+    },
+    {
+      "surface": "罷免",
+      "reading": "himenn",
+      "code": "0100u1",
+      "index": 940
+    },
+    {
+      "surface": "飛躍",
+      "reading": "hiyaku",
+      "code": "0100x1",
+      "index": 941
+    },
+    {
+      "surface": "百姓",
+      "reading": "hyakushou",
+      "code": "000x10d01",
+      "index": 942
+    },
+    {
+      "surface": "百貨店",
+      "reading": "hyakkatenn",
+      "code": "000zV100u1",
+      "index": 943
+    },
+    {
+      "surface": "費用",
+      "reading": "hiyou",
+      "code": "01001",
+      "index": 944
+    },
+    {
+      "surface": "評価",
+      "reading": "hyouka",
+      "code": "0001x1",
+      "index": 945
+    },
+    {
+      "surface": "表札",
+      "reading": "hyousatsu",
+      "code": "000100t01",
+      "index": 946
+    },
+    {
+      "surface": "氷山",
+      "reading": "hyouzann",
+      "code": "000100u1",
+      "index": 947
+    },
+    {
+      "surface": "拍子",
+      "reading": "hyoushi",
+      "code": "0001s01",
+      "index": 948
+    },
+    {
+      "surface": "描写",
+      "reading": "byousha",
+      "code": "00010d1",
+      "index": 949
+    },
+    {
+      "surface": "標準",
+      "reading": "hyouzyunn",
+      "code": "0001b00u1",
+      "index": 950
+    },
+    {
+      "surface": "表彰",
+      "reading": "hyoushou",
+      "code": "00010d01",
+      "index": 951
+    },
+    {
+      "surface": "秒針",
+      "reading": "byoushinn",
+      "code": "0001s00u1",
+      "index": 952
+    },
+    {
+      "surface": "病巣",
+      "reading": "byousou",
+      "code": "0001001",
+      "index": 953
+    },
+    {
+      "surface": "病棟",
+      "reading": "byoutou",
+      "code": "0001001",
+      "index": 954
+    },
+    {
+      "surface": "平等",
+      "reading": "byoudou",
+      "code": "0001001",
+      "index": 955
+    },
+    {
+      "surface": "標本",
+      "reading": "hyouhonn",
+      "code": "000100u1",
+      "index": 956
+    },
+    {
+      "surface": "漂流",
+      "reading": "hyouryuu",
+      "code": "00010001",
+      "index": 957
+    },
+    {
+      "surface": "尾翼",
+      "reading": "biyoku",
+      "code": "0100x1",
+      "index": 958
+    },
+    {
+      "surface": "日和",
+      "reading": "hiyori",
+      "code": "010001",
+      "index": 959
+    },
+    {
+      "surface": "比率",
+      "reading": "hiritsu",
+      "code": "0100t01",
+      "index": 960
+    },
+    {
+      "surface": "翻す",
+      "reading": "hirugaesu",
+      "code": "000000101",
+      "index": 961
+    },
+    {
+      "surface": "昼寝",
+      "reading": "hirune",
+      "code": "000101",
+      "index": 962
+    },
+    {
+      "surface": "美麗",
+      "reading": "birei",
+      "code": "01001",
+      "index": 963
+    },
+    {
+      "surface": "卑劣",
+      "reading": "hiretsu",
+      "code": "0100t01",
+      "index": 964
+    },
+    {
+      "surface": "披露宴",
+      "reading": "hirouenn",
+      "code": "010010u1",
+      "index": 965
+    },
+    {
+      "surface": "疲労",
+      "reading": "hirou",
+      "code": "01001",
+      "index": 966
+    },
+    {
+      "surface": "貧困",
+      "reading": "hinnkonn",
+      "code": "00n1x0u1",
+      "index": 967
+    },
+    {
+      "surface": "品詞",
+      "reading": "hinnshi",
+      "code": "00n1s01",
+      "index": 968
+    },
+    {
+      "surface": "便乗",
+      "reading": "binnzyou",
+      "code": "00n1b001",
+      "index": 969
+    },
+    {
+      "surface": "敏速",
+      "reading": "binnsoku",
+      "code": "00n100x1",
+      "index": 970
+    },
+    {
+      "surface": "頻度",
+      "reading": "hinndo",
+      "code": "00n101",
+      "index": 971
+    },
+    {
+      "surface": "品評",
+      "reading": "hinnpyou",
+      "code": "00n10001",
+      "index": 972
+    },
+    {
+      "surface": "貧富",
+      "reading": "hinnpu",
+      "code": "00n101",
+      "index": 973
+    },
+    {
+      "surface": "貧乏",
+      "reading": "binnbou",
+      "code": "00n1001",
+      "index": 974
+    },
+    {
+      "surface": "歩合",
+      "reading": "buai",
+      "code": "0101",
+      "index": 975
+    },
+    {
+      "surface": "無愛想",
+      "reading": "buaisou",
+      "code": "0101001",
+      "index": 976
+    },
+    {
+      "surface": "不安",
+      "reading": "huann",
+      "code": "f10u1",
+      "index": 977
+    },
+    {
+      "surface": "風俗",
+      "reading": "huuzoku",
+      "code": "f0100x1",
+      "index": 978
+    },
+    {
+      "surface": "封筒",
+      "reading": "huutou",
+      "code": "f01001",
+      "index": 979
+    },
+    {
+      "surface": "風鈴",
+      "reading": "huurinn",
+      "code": "f0100u1",
+      "index": 980
+    },
+    {
+      "surface": "不易流行",
+      "reading": "huekiryuukou",
+      "code": "f10010001x01",
+      "index": 981
+    },
+    {
+      "surface": "不可解",
+      "reading": "hukakai",
+      "code": "f1x1x01",
+      "index": 982
+    },
+    {
+      "surface": "普及",
+      "reading": "hukyuu",
+      "code": "f10001",
+      "index": 983
+    },
+    {
+      "surface": "不朽",
+      "reading": "hukyuu",
+      "code": "f10001",
+      "index": 984
+    },
+    {
+      "surface": "吹く",
+      "reading": "huku",
+      "code": "f1x1",
+      "index": 985
+    },
+    {
+      "surface": "副業",
+      "reading": "hukugyou",
+      "code": "f0x10001",
+      "index": 986
+    },
+    {
+      "surface": "複雑",
+      "reading": "hukuzatsu",
+      "code": "f0x100t01",
+      "index": 987
+    },
+    {
+      "surface": "福祉",
+      "reading": "hukushi",
+      "code": "f0x1s01",
+      "index": 988
+    },
+    {
+      "surface": "服従",
+      "reading": "hukuzyuu",
+      "code": "f0x1b001",
+      "index": 989
+    },
+    {
+      "surface": "伏線",
+      "reading": "hukusenn",
+      "code": "f0x100u1",
+      "index": 990
+    },
+    {
+      "surface": "服装",
+      "reading": "hukusou",
+      "code": "f0x1001",
+      "index": 991
+    },
+    {
+      "surface": "含む",
+      "reading": "hukumu",
+      "code": "f0x101",
+      "index": 992
+    },
+    {
+      "surface": "覆面",
+      "reading": "hukumenn",
+      "code": "f0x100u1",
+      "index": 993
+    },
+    {
+      "surface": "膨らむ",
+      "reading": "hukuramu",
+      "code": "f0x10101",
+      "index": 994
+    },
+    {
+      "surface": "不言実行",
+      "reading": "hugennzikkou",
+      "code": "f100n1j0zV01",
+      "index": 995
+    },
+    {
+      "surface": "夫妻",
+      "reading": "husai",
+      "code": "f1001",
+      "index": 996
+    },
+    {
+      "surface": "負傷",
+      "reading": "hushou",
+      "code": "f10d01",
+      "index": 997
+    },
+    {
+      "surface": "不祥事",
+      "reading": "hushouzi",
+      "code": "f10d01j1",
+      "index": 998
+    },
+    {
+      "surface": "侮辱",
+      "reading": "buzyoku",
+      "code": "01b00x1",
+      "index": 999
+    },
+    {
+      "surface": "不振",
+      "reading": "hushinn",
+      "code": "f1s00u1",
+      "index": 1000
+    },
+    {
+      "surface": "布施",
+      "reading": "huse",
+      "code": "f101",
+      "index": 1001
+    },
+    {
+      "surface": "風情",
+      "reading": "huzei",
+      "code": "f1001",
+      "index": 1002
+    },
+    {
+      "surface": "不世出",
+      "reading": "huseishutsu",
+      "code": "f10010d0t01",
+      "index": 1003
+    },
+    {
+      "surface": "伏せる",
+      "reading": "huseru",
+      "code": "f10101",
+      "index": 1004
+    },
+    {
+      "surface": "不即不離",
+      "reading": "husokuhuri",
+      "code": "f100x1f101",
+      "index": 1005
+    },
+    {
+      "surface": "舞台",
+      "reading": "butai",
+      "code": "01001",
+      "index": 1006
+    },
+    {
+      "surface": "不退転",
+      "reading": "hutaitenn",
+      "code": "f100100u1",
+      "index": 1007
+    },
+    {
+      "surface": "双子",
+      "reading": "hutago",
+      "code": "f00101",
+      "index": 1008
+    },
+    {
+      "surface": "負担",
+      "reading": "hutann",
+      "code": "f100u1",
+      "index": 1009
+    },
+    {
+      "surface": "復活",
+      "reading": "hukkatsu",
+      "code": "f0zV0t01",
+      "index": 1010
+    },
+    {
+      "surface": "復帰",
+      "reading": "hukki",
+      "code": "f0101",
+      "index": 1011
+    },
+    {
+      "surface": "復興",
+      "reading": "hukkou",
+      "code": "f0zV01",
+      "index": 1012
+    },
+    {
+      "surface": "払拭",
+      "reading": "husshoku",
+      "code": "f010d0x1",
+      "index": 1013
+    },
+    {
+      "surface": "沸騰",
+      "reading": "huttou",
+      "code": "f01001",
+      "index": 1014
+    },
+    {
+      "surface": "不手際",
+      "reading": "hutegiwa",
+      "code": "f1010001",
+      "index": 1015
+    },
+    {
+      "surface": "不当",
+      "reading": "hutou",
+      "code": "f1001",
+      "index": 1016
+    },
+    {
+      "surface": "布団",
+      "reading": "hutonn",
+      "code": "f100u1",
+      "index": 1017
+    },
+    {
+      "surface": "舟歌",
+      "reading": "hunauta",
+      "code": "f001001",
+      "index": 1018
+    },
+    {
+      "surface": "船旅",
+      "reading": "hunatabi",
+      "code": "f0010001",
+      "index": 1019
+    },
+    {
+      "surface": "赴任",
+      "reading": "huninn",
+      "code": "f100u1",
+      "index": 1020
+    },
+    {
+      "surface": "吹雪",
+      "reading": "hubuki",
+      "code": "f10001",
+      "index": 1021
+    },
+    {
+      "surface": "部分",
+      "reading": "bubunn",
+      "code": "0100u1",
+      "index": 1022
+    },
+    {
+      "surface": "不文律",
+      "reading": "hubunnritsu",
+      "code": "f100n100t01",
+      "index": 1023
+    },
+    {
+      "surface": "普遍",
+      "reading": "huhenn",
+      "code": "f100u1",
+      "index": 1024
+    },
+    {
+      "surface": "不偏不党",
+      "reading": "huhennhutou",
+      "code": "f100n1f1001",
+      "index": 1025
+    },
+    {
+      "surface": "不眠",
+      "reading": "huminn",
+      "code": "f100u1",
+      "index": 1026
+    },
+    {
+      "surface": "不毛",
+      "reading": "humou",
+      "code": "f1001",
+      "index": 1027
+    },
+    {
+      "surface": "殖やす",
+      "reading": "huyasu",
+      "code": "f10101",
+      "index": 1028
+    },
+    {
+      "surface": "富裕",
+      "reading": "huyuu",
+      "code": "f1001",
+      "index": 1029
+    },
+    {
+      "surface": "付与",
+      "reading": "huyo",
+      "code": "f101",
+      "index": 1030
+    },
+    {
+      "surface": "扶養",
+      "reading": "huyou",
+      "code": "f1001",
+      "index": 1031
+    },
+    {
+      "surface": "舞踊",
+      "reading": "buyou",
+      "code": "01001",
+      "index": 1032
+    },
+    {
+      "surface": "浮力",
+      "reading": "huryoku",
+      "code": "f1000x1",
+      "index": 1033
+    },
+    {
+      "surface": "武力",
+      "reading": "buryoku",
+      "code": "01000x1",
+      "index": 1034
+    },
+    {
+      "surface": "振る",
+      "reading": "huru",
+      "code": "f101",
+      "index": 1035
+    },
+    {
+      "surface": "震える",
+      "reading": "hurueru",
+      "code": "f001101",
+      "index": 1036
+    },
+    {
+      "surface": "奮って",
+      "reading": "hurutte",
+      "code": "f001101",
+      "index": 1037
+    },
+    {
+      "surface": "触れる",
+      "reading": "hureru",
+      "code": "f10101",
+      "index": 1038
+    },
+    {
+      "surface": "付和雷同",
+      "reading": "huwaraidou",
+      "code": "f101001001",
+      "index": 1039
+    },
+    {
+      "surface": "雰囲気",
+      "reading": "hunniki",
+      "code": "f0N1901",
+      "index": 1040
+    },
+    {
+      "surface": "噴火",
+      "reading": "hunnka",
+      "code": "f0n1x1",
+      "index": 1041
+    },
+    {
+      "surface": "憤慨",
+      "reading": "hunngai",
+      "code": "f0n1001",
+      "index": 1042
+    },
+    {
+      "surface": "分解",
+      "reading": "bunnkai",
+      "code": "00n1x01",
+      "index": 1043
+    },
+    {
+      "surface": "文化財",
+      "reading": "bunnkazai",
+      "code": "00n1x1001",
+      "index": 1044
+    },
+    {
+      "surface": "奮起",
+      "reading": "hunnki",
+      "code": "f0n101",
+      "index": 1045
+    },
+    {
+      "surface": "文献",
+      "reading": "bunnkenn",
+      "code": "00n100u1",
+      "index": 1046
+    },
+    {
+      "surface": "粉骨砕身",
+      "reading": "hunnkotsusaishinn",
+      "code": "f0n1x0t01001s00u1",
+      "index": 1047
+    },
+    {
+      "surface": "紛失",
+      "reading": "hunnshitsu",
+      "code": "f0n1s00t01",
+      "index": 1048
+    },
+    {
+      "surface": "文人墨客",
+      "reading": "bunnzinnbokkaku",
+      "code": "00n1j0n100zV0x1",
+      "index": 1049
+    },
+    {
+      "surface": "紛争",
+      "reading": "hunnsou",
+      "code": "f0n1001",
+      "index": 1050
+    },
+    {
+      "surface": "分泌",
+      "reading": "bunnpitsu",
+      "code": "00n100t01",
+      "index": 1051
+    },
+    {
+      "surface": "分布",
+      "reading": "bunnpu",
+      "code": "00n101",
+      "index": 1052
+    },
+    {
+      "surface": "分類",
+      "reading": "bunnrui",
+      "code": "00n1001",
+      "index": 1053
+    },
+    {
+      "surface": "平穏",
+      "reading": "heionn",
+      "code": "0010u1",
+      "index": 1054
+    },
+    {
+      "surface": "弊害",
+      "reading": "heigai",
+      "code": "001001",
+      "index": 1055
+    },
+    {
+      "surface": "兵器",
+      "reading": "heiki",
+      "code": "00101",
+      "index": 1056
+    },
+    {
+      "surface": "閉口",
+      "reading": "heikou",
+      "code": "001x01",
+      "index": 1057
+    },
+    {
+      "surface": "並行",
+      "reading": "heikou",
+      "code": "001x01",
+      "index": 1058
+    },
+    {
+      "surface": "併合",
+      "reading": "heigou",
+      "code": "001001",
+      "index": 1059
+    },
+    {
+      "surface": "平日",
+      "reading": "heizitsu",
+      "code": "001j0t01",
+      "index": 1060
+    },
+    {
+      "surface": "平素",
+      "reading": "heiso",
+      "code": "00101",
+      "index": 1061
+    },
+    {
+      "surface": "壁面",
+      "reading": "hekimenn",
+      "code": "000100u1",
+      "index": 1062
+    },
+    {
+      "surface": "隔てる",
+      "reading": "hedateru",
+      "code": "00010101",
+      "index": 1063
+    },
+    {
+      "surface": "別荘",
+      "reading": "bessou",
+      "code": "001001",
+      "index": 1064
+    },
+    {
+      "surface": "蛇",
+      "reading": "hebi",
+      "code": "0001",
+      "index": 1065
+    },
+    {
+      "surface": "偏狭",
+      "reading": "hennkyou",
+      "code": "00n10001",
+      "index": 1066
+    },
+    {
+      "surface": "偏見",
+      "reading": "hennkenn",
+      "code": "00n100u1",
+      "index": 1067
+    },
+    {
+      "surface": "片言隻語",
+      "reading": "henngennsekigo",
+      "code": "00n100n1000101",
+      "index": 1068
+    },
+    {
+      "surface": "返事",
+      "reading": "hennzi",
+      "code": "00n1j1",
+      "index": 1069
+    },
+    {
+      "surface": "編集",
+      "reading": "hennshuu",
+      "code": "00n10d01",
+      "index": 1070
+    },
+    {
+      "surface": "弁償",
+      "reading": "bennshou",
+      "code": "00n10d01",
+      "index": 1071
+    },
+    {
+      "surface": "変遷",
+      "reading": "hennsenn",
+      "code": "00n100u1",
+      "index": 1072
+    },
+    {
+      "surface": "遍歴",
+      "reading": "hennreki",
+      "code": "00n10001",
+      "index": 1073
+    },
+    {
+      "surface": "暴飲暴食",
+      "reading": "bouinnboushoku",
+      "code": "0010n10010d0x1",
+      "index": 1074
+    },
+    {
+      "surface": "防疫",
+      "reading": "boueki",
+      "code": "001001",
+      "index": 1075
+    },
+    {
+      "surface": "望遠鏡",
+      "reading": "bouennkyou",
+      "code": "0010n10001",
+      "index": 1076
+    },
+    {
+      "surface": "法王",
+      "reading": "houou",
+      "code": "00101",
+      "index": 1077
+    },
+    {
+      "surface": "崩壊",
+      "reading": "houkai",
+      "code": "001x01",
+      "index": 1078
+    },
+    {
+      "surface": "妨害",
+      "reading": "bougai",
+      "code": "001001",
+      "index": 1079
+    },
+    {
+      "surface": "方角",
+      "reading": "hougaku",
+      "code": "00100x1",
+      "index": 1080
+    },
+    {
+      "surface": "包括",
+      "reading": "houkatsu",
+      "code": "001x0t01",
+      "index": 1081
+    },
+    {
+      "surface": "砲撃",
+      "reading": "hougeki",
+      "code": "0010001",
+      "index": 1082
+    },
+    {
+      "surface": "封建",
+      "reading": "houkenn",
+      "code": "00100u1",
+      "index": 1083
+    },
+    {
+      "surface": "冒険",
+      "reading": "boukenn",
+      "code": "00100u1",
+      "index": 1084
+    },
+    {
+      "surface": "芳香",
+      "reading": "houkou",
+      "code": "001x01",
+      "index": 1085
+    },
+    {
+      "surface": "報告",
+      "reading": "houkoku",
+      "code": "001x0x1",
+      "index": 1086
+    },
+    {
+      "surface": "豊作",
+      "reading": "housaku",
+      "code": "00100x1",
+      "index": 1087
+    },
+    {
+      "surface": "奉仕",
+      "reading": "houshi",
+      "code": "001s01",
+      "index": 1088
+    },
+    {
+      "surface": "帽子",
+      "reading": "boushi",
+      "code": "001s01",
+      "index": 1089
+    },
+    {
+      "surface": "報酬",
+      "reading": "houshuu",
+      "code": "0010d01",
+      "index": 1090
+    },
+    {
+      "surface": "某所",
+      "reading": "bousho",
+      "code": "0010d1",
+      "index": 1091
+    },
+    {
+      "surface": "坊主",
+      "reading": "bouzu",
+      "code": "00101",
+      "index": 1092
+    },
+    {
+      "surface": "紡績",
+      "reading": "bouseki",
+      "code": "0010001",
+      "index": 1093
+    },
+    {
+      "surface": "法曹界",
+      "reading": "housoukai",
+      "code": "001001x01",
+      "index": 1094
+    },
+    {
+      "surface": "膨大",
+      "reading": "boudai",
+      "code": "001001",
+      "index": 1095
+    },
+    {
+      "surface": "放置",
+      "reading": "houchi",
+      "code": "001c01",
+      "index": 1096
+    },
+    {
+      "surface": "膨張",
+      "reading": "bouchou",
+      "code": "001gh01",
+      "index": 1097
+    },
+    {
+      "surface": "法廷",
+      "reading": "houtei",
+      "code": "001001",
+      "index": 1098
+    },
+    {
+      "surface": "忘年会",
+      "reading": "bounennkai",
+      "code": "00100n1x01",
+      "index": 1099
+    }
+  ]
+}

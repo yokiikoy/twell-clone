@@ -1,0 +1,2744 @@
+[
+  {
+    "surface": "アイス",
+    "reading": "aisu",
+    "code": "1101",
+    "index": 0
+  },
+  {
+    "surface": "アイデア",
+    "reading": "aidea",
+    "code": "11011",
+    "index": 1
+  },
+  {
+    "surface": "アクセサリー",
+    "reading": "akusesari-",
+    "code": "1x10101011",
+    "index": 2
+  },
+  {
+    "surface": "アナウンサー",
+    "reading": "anaunnsa-",
+    "code": "1011n1011",
+    "index": 3
+  },
+  {
+    "surface": "アニメ",
+    "reading": "anime",
+    "code": "10101",
+    "index": 4
+  },
+  {
+    "surface": "アルコール",
+    "reading": "aruko-ru",
+    "code": "101x1101",
+    "index": 5
+  },
+  {
+    "surface": "アルファベット",
+    "reading": "arufwabetto",
+    "code": "101o1101101",
+    "index": 6
+  },
+  {
+    "surface": "アレルギー",
+    "reading": "arerugi-",
+    "code": "10101011",
+    "index": 7
+  },
+  {
+    "surface": "アンケート",
+    "reading": "annke-to",
+    "code": "1n101101",
+    "index": 8
+  },
+  {
+    "surface": "インク",
+    "reading": "innku",
+    "code": "1n1x1",
+    "index": 9
+  },
+  {
+    "surface": "インスタント",
+    "reading": "innsutannto",
+    "code": "1n10101n101",
+    "index": 10
+  },
+  {
+    "surface": "インターネット",
+    "reading": "innta-netto",
+    "code": "1n101101101",
+    "index": 11
+  },
+  {
+    "surface": "インタビュー",
+    "reading": "inntabyu-",
+    "code": "1n1010111",
+    "index": 12
+  },
+  {
+    "surface": "インテリア",
+    "reading": "innteria",
+    "code": "1n101011",
+    "index": 13
+  },
+  {
+    "surface": "ウィスキー",
+    "reading": "whisuki-",
+    "code": "w1101011",
+    "index": 14
+  },
+  {
+    "surface": "ウーロン茶",
+    "reading": "u-ronncha",
+    "code": "1101n1gh1",
+    "index": 15
+  },
+  {
+    "surface": "エアコン",
+    "reading": "eakonn",
+    "code": "11x1u1",
+    "index": 16
+  },
+  {
+    "surface": "エチケット",
+    "reading": "echiketto",
+    "code": "1c0101101",
+    "index": 17
+  },
+  {
+    "surface": "エネルギー",
+    "reading": "enerugi-",
+    "code": "10101011",
+    "index": 18
+  },
+  {
+    "surface": "エレベーター",
+    "reading": "erebe-ta-",
+    "code": "101011011",
+    "index": 19
+  },
+  {
+    "surface": "エスカレーター",
+    "reading": "esukare-ta-",
+    "code": "101x1011011",
+    "index": 20
+  },
+  {
+    "surface": "エンジン",
+    "reading": "ennzinn",
+    "code": "1n1j1u1",
+    "index": 21
+  },
+  {
+    "surface": "オイル",
+    "reading": "oiru",
+    "code": "1101",
+    "index": 22
+  },
+  {
+    "surface": "オークション",
+    "reading": "o-kushonn",
+    "code": "11x10a1u1",
+    "index": 23
+  },
+  {
+    "surface": "オーディオ",
+    "reading": "o-dhio",
+    "code": "110111",
+    "index": 24
+  },
+  {
+    "surface": "オリンピック",
+    "reading": "orinnpikku",
+    "code": "101n101zV1",
+    "index": 25
+  },
+  {
+    "surface": "オレンジ",
+    "reading": "orennzi",
+    "code": "101n1j1",
+    "index": 26
+  },
+  {
+    "surface": "カーテン",
+    "reading": "ka-tenn",
+    "code": "x1101u1",
+    "index": 27
+  },
+  {
+    "surface": "カード",
+    "reading": "ka-do",
+    "code": "x1101",
+    "index": 28
+  },
+  {
+    "surface": "ガソリン",
+    "reading": "gasorinn",
+    "code": "010101u1",
+    "index": 29
+  },
+  {
+    "surface": "カタログ",
+    "reading": "katarogu",
+    "code": "x1010101",
+    "index": 30
+  },
+  {
+    "surface": "カメラ",
+    "reading": "kamera",
+    "code": "x10101",
+    "index": 31
+  },
+  {
+    "surface": "カラオケ",
+    "reading": "karaoke",
+    "code": "x101101",
+    "index": 32
+  },
+  {
+    "surface": "ガラス",
+    "reading": "garasu",
+    "code": "010101",
+    "index": 33
+  },
+  {
+    "surface": "カレー",
+    "reading": "kare-",
+    "code": "x1011",
+    "index": 34
+  },
+  {
+    "surface": "カレンダー",
+    "reading": "karennda-",
+    "code": "x101n1011",
+    "index": 35
+  },
+  {
+    "surface": "カロリー",
+    "reading": "karori-",
+    "code": "x101011",
+    "index": 36
+  },
+  {
+    "surface": "キーボード",
+    "reading": "ki-bo-do",
+    "code": "01101101",
+    "index": 37
+  },
+  {
+    "surface": "キス",
+    "reading": "kisu",
+    "code": "0101",
+    "index": 38
+  },
+  {
+    "surface": "ギター",
+    "reading": "gita-",
+    "code": "01011",
+    "index": 39
+  },
+  {
+    "surface": "キャベツ",
+    "reading": "kyabetsu",
+    "code": "01101t01",
+    "index": 40
+  },
+  {
+    "surface": "キャンセル",
+    "reading": "kyannseru",
+    "code": "011n10101",
+    "index": 41
+  },
+  {
+    "surface": "キャンプ",
+    "reading": "kyannpu",
+    "code": "011n101",
+    "index": 42
+  },
+  {
+    "surface": "クイズ",
+    "reading": "kuizu",
+    "code": "x1101",
+    "index": 43
+  },
+  {
+    "surface": "クッキー",
+    "reading": "kukki-",
+    "code": "x11011",
+    "index": 44
+  },
+  {
+    "surface": "グラビア",
+    "reading": "gurabia",
+    "code": "0101011",
+    "index": 45
+  },
+  {
+    "surface": "クリーニング",
+    "reading": "kuri-ninngu",
+    "code": "x101101n101",
+    "index": 46
+  },
+  {
+    "surface": "クリーム",
+    "reading": "kuri-mu",
+    "code": "x101101",
+    "index": 47
+  },
+  {
+    "surface": "クリスマス",
+    "reading": "kurisumasu",
+    "code": "x101010101",
+    "index": 48
+  },
+  {
+    "surface": "クリック",
+    "reading": "kurikku",
+    "code": "x101zV1",
+    "index": 49
+  },
+  {
+    "surface": "グループ",
+    "reading": "guru-pu",
+    "code": "0101101",
+    "index": 50
+  },
+  {
+    "surface": "クレジット",
+    "reading": "kurezitto",
+    "code": "x101j1101",
+    "index": 51
+  },
+  {
+    "surface": "ケーキ",
+    "reading": "ke-ki",
+    "code": "01101",
+    "index": 52
+  },
+  {
+    "surface": "ゲーム",
+    "reading": "ge-mu",
+    "code": "01101",
+    "index": 53
+  },
+  {
+    "surface": "ケチャップ",
+    "reading": "kechappu",
+    "code": "01gi1101",
+    "index": 54
+  },
+  {
+    "surface": "コイン",
+    "reading": "koinn",
+    "code": "x11u1",
+    "index": 55
+  },
+  {
+    "surface": "コート",
+    "reading": "ko-to",
+    "code": "x1101",
+    "index": 56
+  },
+  {
+    "surface": "コーヒー",
+    "reading": "ko-hi-",
+    "code": "x11011",
+    "index": 57
+  },
+  {
+    "surface": "コーラ",
+    "reading": "ko-ra",
+    "code": "x1101",
+    "index": 58
+  },
+  {
+    "surface": "ゴール",
+    "reading": "go-ru",
+    "code": "01101",
+    "index": 59
+  },
+  {
+    "surface": "コップ",
+    "reading": "koppu",
+    "code": "x1101",
+    "index": 60
+  },
+  {
+    "surface": "コピー",
+    "reading": "kopi-",
+    "code": "x1011",
+    "index": 61
+  },
+  {
+    "surface": "コマーシャル",
+    "reading": "koma-sharu",
+    "code": "x10110a101",
+    "index": 62
+  },
+  {
+    "surface": "コミックス",
+    "reading": "komikkusu",
+    "code": "x101zV101",
+    "index": 63
+  },
+  {
+    "surface": "ゴム",
+    "reading": "gomu",
+    "code": "0101",
+    "index": 64
+  },
+  {
+    "surface": "ゴルフ",
+    "reading": "goruhu",
+    "code": "0101f1",
+    "index": 65
+  },
+  {
+    "surface": "コンクリート",
+    "reading": "konnkuri-to",
+    "code": "x1n1x101101",
+    "index": 66
+  },
+  {
+    "surface": "コンサート",
+    "reading": "konnsa-to",
+    "code": "x1n101101",
+    "index": 67
+  },
+  {
+    "surface": "コンタクト",
+    "reading": "konntakuto",
+    "code": "x1n101x101",
+    "index": 68
+  },
+  {
+    "surface": "コンビニ",
+    "reading": "konnbini",
+    "code": "x1n10101",
+    "index": 69
+  },
+  {
+    "surface": "コンピューター",
+    "reading": "konnpyu-ta-",
+    "code": "x1n10111011",
+    "index": 70
+  },
+  {
+    "surface": "サーカス",
+    "reading": "sa-kasu",
+    "code": "011x101",
+    "index": 71
+  },
+  {
+    "surface": "サービス",
+    "reading": "sa-bisu",
+    "code": "0110101",
+    "index": 72
+  },
+  {
+    "surface": "サイズ",
+    "reading": "saizu",
+    "code": "01101",
+    "index": 73
+  },
+  {
+    "surface": "サイン",
+    "reading": "sainn",
+    "code": "011u1",
+    "index": 74
+  },
+  {
+    "surface": "サウンド",
+    "reading": "saunndo",
+    "code": "011n101",
+    "index": 75
+  },
+  {
+    "surface": "サッカー",
+    "reading": "sakka-",
+    "code": "01zV11",
+    "index": 76
+  },
+  {
+    "surface": "サラダ",
+    "reading": "sarada",
+    "code": "010101",
+    "index": 77
+  },
+  {
+    "surface": "サンドイッチ",
+    "reading": "sanndoicchi",
+    "code": "01n1011kc01",
+    "index": 78
+  },
+  {
+    "surface": "ジーンズ",
+    "reading": "zi-nnzu",
+    "code": "j11n101",
+    "index": 79
+  },
+  {
+    "surface": "シチュー",
+    "reading": "shichu-",
+    "code": "s01gi11",
+    "index": 80
+  },
+  {
+    "surface": "ジャケット",
+    "reading": "zyaketto",
+    "code": "e1101101",
+    "index": 81
+  },
+  {
+    "surface": "ジャズ",
+    "reading": "zyazu",
+    "code": "e1101",
+    "index": 82
+  },
+  {
+    "surface": "シャツ",
+    "reading": "shatsu",
+    "code": "0a1t01",
+    "index": 83
+  },
+  {
+    "surface": "ジャム",
+    "reading": "zyamu",
+    "code": "e1101",
+    "index": 84
+  },
+  {
+    "surface": "シャワー",
+    "reading": "shawa-",
+    "code": "0a1011",
+    "index": 85
+  },
+  {
+    "surface": "ジャンプ",
+    "reading": "zyannpu",
+    "code": "e11n101",
+    "index": 86
+  },
+  {
+    "surface": "シャンプー",
+    "reading": "shannpu-",
+    "code": "0a1n1011",
+    "index": 87
+  },
+  {
+    "surface": "ジュース",
+    "reading": "zyu-su",
+    "code": "e11101",
+    "index": 88
+  },
+  {
+    "surface": "ジョーク",
+    "reading": "zyo-ku",
+    "code": "e111x1",
+    "index": 89
+  },
+  {
+    "surface": "ショッピング",
+    "reading": "shoppinngu",
+    "code": "0a1101n101",
+    "index": 90
+  },
+  {
+    "surface": "シリーズ",
+    "reading": "shiri-zu",
+    "code": "s0101101",
+    "index": 91
+  },
+  {
+    "surface": "シングル",
+    "reading": "shinnguru",
+    "code": "s01n10101",
+    "index": 92
+  },
+  {
+    "surface": "スイッチ",
+    "reading": "suicchi",
+    "code": "011kc01",
+    "index": 93
+  },
+  {
+    "surface": "スーツ",
+    "reading": "su-tsu",
+    "code": "011t01",
+    "index": 94
+  },
+  {
+    "surface": "スーパー",
+    "reading": "su-pa-",
+    "code": "011011",
+    "index": 95
+  },
+  {
+    "surface": "スープ",
+    "reading": "su-pu",
+    "code": "01101",
+    "index": 96
+  },
+  {
+    "surface": "スカート",
+    "reading": "suka-to",
+    "code": "01x1101",
+    "index": 97
+  },
+  {
+    "surface": "スカーフ",
+    "reading": "suka-hu",
+    "code": "01x11f1",
+    "index": 98
+  },
+  {
+    "surface": "スキー",
+    "reading": "suki-",
+    "code": "01011",
+    "index": 99
+  },
+  {
+    "surface": "スクーター",
+    "reading": "suku-ta-",
+    "code": "01x11011",
+    "index": 100
+  },
+  {
+    "surface": "スケート",
+    "reading": "suke-to",
+    "code": "0101101",
+    "index": 101
+  },
+  {
+    "surface": "スケジュール",
+    "reading": "sukezyu-ru",
+    "code": "0101e11101",
+    "index": 102
+  },
+  {
+    "surface": "スコア",
+    "reading": "sukoa",
+    "code": "01x11",
+    "index": 103
+  },
+  {
+    "surface": "スタート",
+    "reading": "suta-to",
+    "code": "0101101",
+    "index": 104
+  },
+  {
+    "surface": "スタイル",
+    "reading": "sutairu",
+    "code": "0101101",
+    "index": 105
+  },
+  {
+    "surface": "スタジオ",
+    "reading": "sutazio",
+    "code": "0101j11",
+    "index": 106
+  },
+  {
+    "surface": "スタミナ",
+    "reading": "sutamina",
+    "code": "01010101",
+    "index": 107
+  },
+  {
+    "surface": "スタンプ",
+    "reading": "sutannpu",
+    "code": "0101n101",
+    "index": 108
+  },
+  {
+    "surface": "ステーキ",
+    "reading": "sute-ki",
+    "code": "0101101",
+    "index": 109
+  },
+  {
+    "surface": "ステージ",
+    "reading": "sute-zi",
+    "code": "01011j1",
+    "index": 110
+  },
+  {
+    "surface": "ステップ",
+    "reading": "suteppu",
+    "code": "0101101",
+    "index": 111
+  },
+  {
+    "surface": "ステレオ",
+    "reading": "sutereo",
+    "code": "0101011",
+    "index": 112
+  },
+  {
+    "surface": "ストーブ",
+    "reading": "suto-bu",
+    "code": "0101101",
+    "index": 113
+  },
+  {
+    "surface": "ストップ",
+    "reading": "sutoppu",
+    "code": "0101101",
+    "index": 114
+  },
+  {
+    "surface": "ストレス",
+    "reading": "sutoresu",
+    "code": "01010101",
+    "index": 115
+  },
+  {
+    "surface": "ストロボ",
+    "reading": "sutorobo",
+    "code": "01010101",
+    "index": 116
+  },
+  {
+    "surface": "スニーカー",
+    "reading": "suni-ka-",
+    "code": "01011x11",
+    "index": 117
+  },
+  {
+    "surface": "スパゲッティ",
+    "reading": "supagetthi",
+    "code": "0101011011",
+    "index": 118
+  },
+  {
+    "surface": "スピーカー",
+    "reading": "supi-ka-",
+    "code": "01011x11",
+    "index": 119
+  },
+  {
+    "surface": "スピード",
+    "reading": "supi-do",
+    "code": "0101101",
+    "index": 120
+  },
+  {
+    "surface": "スポーツ",
+    "reading": "supo-tsu",
+    "code": "01011t01",
+    "index": 121
+  },
+  {
+    "surface": "ズボン",
+    "reading": "zubonn",
+    "code": "0101u1",
+    "index": 122
+  },
+  {
+    "surface": "スポンサー",
+    "reading": "suponnsa-",
+    "code": "0101n1011",
+    "index": 123
+  },
+  {
+    "surface": "スポンジ",
+    "reading": "suponnzi",
+    "code": "0101n1j1",
+    "index": 124
+  },
+  {
+    "surface": "スリッパ",
+    "reading": "surippa",
+    "code": "0101101",
+    "index": 125
+  },
+  {
+    "surface": "セーター",
+    "reading": "se-ta-",
+    "code": "011011",
+    "index": 126
+  },
+  {
+    "surface": "セール",
+    "reading": "se-ru",
+    "code": "01101",
+    "index": 127
+  },
+  {
+    "surface": "セクシー",
+    "reading": "sekushi-",
+    "code": "01x1s011",
+    "index": 128
+  },
+  {
+    "surface": "セメント",
+    "reading": "semennto",
+    "code": "0101n101",
+    "index": 129
+  },
+  {
+    "surface": "ソーセージ",
+    "reading": "so-se-zi",
+    "code": "011011j1",
+    "index": 130
+  },
+  {
+    "surface": "ソックス",
+    "reading": "sokkusu",
+    "code": "01zV101",
+    "index": 131
+  },
+  {
+    "surface": "ソファー",
+    "reading": "sofwa-",
+    "code": "01o111",
+    "index": 132
+  },
+  {
+    "surface": "ソフト",
+    "reading": "sohuto",
+    "code": "01f101",
+    "index": 133
+  },
+  {
+    "surface": "ダイエット",
+    "reading": "daietto",
+    "code": "0111101",
+    "index": 134
+  },
+  {
+    "surface": "タイプ",
+    "reading": "taipu",
+    "code": "01101",
+    "index": 135
+  },
+  {
+    "surface": "タイム",
+    "reading": "taimu",
+    "code": "01101",
+    "index": 136
+  },
+  {
+    "surface": "タイヤ",
+    "reading": "taiya",
+    "code": "01101",
+    "index": 137
+  },
+  {
+    "surface": "ダイヤモンド",
+    "reading": "daiyamonndo",
+    "code": "0110101n101",
+    "index": 138
+  },
+  {
+    "surface": "タイル",
+    "reading": "tairu",
+    "code": "01101",
+    "index": 139
+  },
+  {
+    "surface": "タオル",
+    "reading": "taoru",
+    "code": "01101",
+    "index": 140
+  },
+  {
+    "surface": "タクシー",
+    "reading": "takushi-",
+    "code": "01x1s011",
+    "index": 141
+  },
+  {
+    "surface": "タレント",
+    "reading": "tarennto",
+    "code": "0101n101",
+    "index": 142
+  },
+  {
+    "surface": "チーズ",
+    "reading": "chi-zu",
+    "code": "c01101",
+    "index": 143
+  },
+  {
+    "surface": "チーム",
+    "reading": "chi-mu",
+    "code": "c01101",
+    "index": 144
+  },
+  {
+    "surface": "チェック",
+    "reading": "chekku",
+    "code": "gi1zV1",
+    "index": 145
+  },
+  {
+    "surface": "チキン",
+    "reading": "chikinn",
+    "code": "c0101u1",
+    "index": 146
+  },
+  {
+    "surface": "チケット",
+    "reading": "chiketto",
+    "code": "c0101101",
+    "index": 147
+  },
+  {
+    "surface": "チャック",
+    "reading": "chakku",
+    "code": "gi1zV1",
+    "index": 148
+  },
+  {
+    "surface": "チャレンジ",
+    "reading": "charennzi",
+    "code": "gi101n1j1",
+    "index": 149
+  },
+  {
+    "surface": "チャンス",
+    "reading": "channsu",
+    "code": "gi1n101",
+    "index": 150
+  },
+  {
+    "surface": "チャンネル",
+    "reading": "channneru",
+    "code": "gi1N1v101",
+    "index": 151
+  },
+  {
+    "surface": "チャンピオン",
+    "reading": "channpionn",
+    "code": "gi1n1011u1",
+    "index": 152
+  },
+  {
+    "surface": "チューナー",
+    "reading": "chu-na-",
+    "code": "gi11011",
+    "index": 153
+  },
+  {
+    "surface": "チョコレート",
+    "reading": "chokore-to",
+    "code": "gi1x101101",
+    "index": 154
+  },
+  {
+    "surface": "ツアー",
+    "reading": "tsua-",
+    "code": "t0111",
+    "index": 155
+  },
+  {
+    "surface": "ディスカウント",
+    "reading": "dhisukaunnto",
+    "code": "01101x11n101",
+    "index": 156
+  },
+  {
+    "surface": "ディスク",
+    "reading": "dhisuku",
+    "code": "01101x1",
+    "index": 157
+  },
+  {
+    "surface": "データ",
+    "reading": "de-ta",
+    "code": "01101",
+    "index": 158
+  },
+  {
+    "surface": "デート",
+    "reading": "de-to",
+    "code": "01101",
+    "index": 159
+  },
+  {
+    "surface": "テープ",
+    "reading": "te-pu",
+    "code": "01101",
+    "index": 160
+  },
+  {
+    "surface": "テーブル",
+    "reading": "te-buru",
+    "code": "0110101",
+    "index": 161
+  },
+  {
+    "surface": "デザート",
+    "reading": "deza-to",
+    "code": "0101101",
+    "index": 162
+  },
+  {
+    "surface": "デザイン",
+    "reading": "dezainn",
+    "code": "01011u1",
+    "index": 163
+  },
+  {
+    "surface": "デジタル",
+    "reading": "dezitaru",
+    "code": "01j10101",
+    "index": 164
+  },
+  {
+    "surface": "テスト",
+    "reading": "tesuto",
+    "code": "010101",
+    "index": 165
+  },
+  {
+    "surface": "テニス",
+    "reading": "tenisu",
+    "code": "010101",
+    "index": 166
+  },
+  {
+    "surface": "デパート",
+    "reading": "depa-to",
+    "code": "0101101",
+    "index": 167
+  },
+  {
+    "surface": "テレビ",
+    "reading": "terebi",
+    "code": "010101",
+    "index": 168
+  },
+  {
+    "surface": "テント",
+    "reading": "tennto",
+    "code": "01n101",
+    "index": 169
+  },
+  {
+    "surface": "ドア",
+    "reading": "doa",
+    "code": "011",
+    "index": 170
+  },
+  {
+    "surface": "トイレ",
+    "reading": "toire",
+    "code": "01101",
+    "index": 171
+  },
+  {
+    "surface": "トイレットペーパー",
+    "reading": "toirettope-pa-",
+    "code": "01101101011011",
+    "index": 172
+  },
+  {
+    "surface": "ティッシュ",
+    "reading": "thisshu",
+    "code": "01110a1",
+    "index": 173
+  },
+  {
+    "surface": "トースト",
+    "reading": "to-suto",
+    "code": "0110101",
+    "index": 174
+  },
+  {
+    "surface": "トマト",
+    "reading": "tomato",
+    "code": "010101",
+    "index": 175
+  },
+  {
+    "surface": "ドライブ",
+    "reading": "doraibu",
+    "code": "0101101",
+    "index": 176
+  },
+  {
+    "surface": "ドライヤー",
+    "reading": "doraiya-",
+    "code": "01011011",
+    "index": 177
+  },
+  {
+    "surface": "トラック",
+    "reading": "torakku",
+    "code": "0101zV1",
+    "index": 178
+  },
+  {
+    "surface": "トラブル",
+    "reading": "toraburu",
+    "code": "01010101",
+    "index": 179
+  },
+  {
+    "surface": "ドラマ",
+    "reading": "dorama",
+    "code": "010101",
+    "index": 180
+  },
+  {
+    "surface": "トランプ",
+    "reading": "torannpu",
+    "code": "0101n101",
+    "index": 181
+  },
+  {
+    "surface": "トレーナー",
+    "reading": "tore-na-",
+    "code": "01011011",
+    "index": 182
+  },
+  {
+    "surface": "トンネル",
+    "reading": "tonnneru",
+    "code": "01N1v101",
+    "index": 183
+  },
+  {
+    "surface": "ナイス",
+    "reading": "naisu",
+    "code": "01101",
+    "index": 184
+  },
+  {
+    "surface": "ナイフ",
+    "reading": "naihu",
+    "code": "011f1",
+    "index": 185
+  },
+  {
+    "surface": "ナッツ",
+    "reading": "nattsu",
+    "code": "011t01",
+    "index": 186
+  },
+  {
+    "surface": "ナプキン",
+    "reading": "napukinn",
+    "code": "010101u1",
+    "index": 187
+  },
+  {
+    "surface": "ナンバー",
+    "reading": "nannba-",
+    "code": "01n1011",
+    "index": 188
+  },
+  {
+    "surface": "ニュース",
+    "reading": "nyu-su",
+    "code": "011101",
+    "index": 189
+  },
+  {
+    "surface": "ヌード",
+    "reading": "nu-do",
+    "code": "01101",
+    "index": 190
+  },
+  {
+    "surface": "ネクタイ",
+    "reading": "nekutai",
+    "code": "01x1011",
+    "index": 191
+  },
+  {
+    "surface": "ネックレス",
+    "reading": "nekkuresu",
+    "code": "01zV10101",
+    "index": 192
+  },
+  {
+    "surface": "ノート",
+    "reading": "no-to",
+    "code": "01101",
+    "index": 193
+  },
+  {
+    "surface": "ノック",
+    "reading": "nokku",
+    "code": "01zV1",
+    "index": 194
+  },
+  {
+    "surface": "バーコード",
+    "reading": "ba-ko-do",
+    "code": "011x1101",
+    "index": 195
+  },
+  {
+    "surface": "パーセント",
+    "reading": "pa-sennto",
+    "code": "01101n101",
+    "index": 196
+  },
+  {
+    "surface": "パーティー",
+    "reading": "pa-thi-",
+    "code": "0110111",
+    "index": 197
+  },
+  {
+    "surface": "ハート",
+    "reading": "ha-to",
+    "code": "01101",
+    "index": 198
+  },
+  {
+    "surface": "パーマ",
+    "reading": "pa-ma",
+    "code": "01101",
+    "index": 199
+  },
+  {
+    "surface": "バイオリン",
+    "reading": "baiorinn",
+    "code": "011101u1",
+    "index": 200
+  },
+  {
+    "surface": "バイキング",
+    "reading": "baikinngu",
+    "code": "01101n101",
+    "index": 201
+  },
+  {
+    "surface": "バイク",
+    "reading": "baiku",
+    "code": "011x1",
+    "index": 202
+  },
+  {
+    "surface": "パイナップル",
+    "reading": "painappuru",
+    "code": "0110110101",
+    "index": 203
+  },
+  {
+    "surface": "ハイヒール",
+    "reading": "haihi-ru",
+    "code": "01101101",
+    "index": 204
+  },
+  {
+    "surface": "パイロット",
+    "reading": "pairotto",
+    "code": "01101101",
+    "index": 205
+  },
+  {
+    "surface": "バインダー",
+    "reading": "bainnda-",
+    "code": "011n1011",
+    "index": 206
+  },
+  {
+    "surface": "パジャマ",
+    "reading": "pazyama",
+    "code": "01e1101",
+    "index": 207
+  },
+  {
+    "surface": "バスケット",
+    "reading": "basuketto",
+    "code": "010101101",
+    "index": 208
+  },
+  {
+    "surface": "パスタ",
+    "reading": "pasuta",
+    "code": "010101",
+    "index": 209
+  },
+  {
+    "surface": "バスタオル",
+    "reading": "basutaoru",
+    "code": "010101101",
+    "index": 210
+  },
+  {
+    "surface": "バスト",
+    "reading": "basuto",
+    "code": "010101",
+    "index": 211
+  },
+  {
+    "surface": "パスポート",
+    "reading": "pasupo-to",
+    "code": "010101101",
+    "index": 212
+  },
+  {
+    "surface": "パズル",
+    "reading": "pazuru",
+    "code": "010101",
+    "index": 213
+  },
+  {
+    "surface": "パソコン",
+    "reading": "pasokonn",
+    "code": "0101x1u1",
+    "index": 214
+  },
+  {
+    "surface": "バター",
+    "reading": "bata-",
+    "code": "01011",
+    "index": 215
+  },
+  {
+    "surface": "パターン",
+    "reading": "pata-nn",
+    "code": "01011u1",
+    "index": 216
+  },
+  {
+    "surface": "バッグ",
+    "reading": "baggu",
+    "code": "01101",
+    "index": 217
+  },
+  {
+    "surface": "バナナ",
+    "reading": "banana",
+    "code": "010101",
+    "index": 218
+  },
+  {
+    "surface": "バニラ",
+    "reading": "banira",
+    "code": "010101",
+    "index": 219
+  },
+  {
+    "surface": "ハム",
+    "reading": "hamu",
+    "code": "0101",
+    "index": 220
+  },
+  {
+    "surface": "バランス",
+    "reading": "barannsu",
+    "code": "0101n101",
+    "index": 221
+  },
+  {
+    "surface": "パワー",
+    "reading": "pawa-",
+    "code": "01011",
+    "index": 222
+  },
+  {
+    "surface": "ハンカチ",
+    "reading": "hannkachi",
+    "code": "01n1x1c01",
+    "index": 223
+  },
+  {
+    "surface": "パンチ",
+    "reading": "pannchi",
+    "code": "01n1c01",
+    "index": 224
+  },
+  {
+    "surface": "パンツ",
+    "reading": "panntsu",
+    "code": "01n1t01",
+    "index": 225
+  },
+  {
+    "surface": "バンド",
+    "reading": "banndo",
+    "code": "01n101",
+    "index": 226
+  },
+  {
+    "surface": "ハンドル",
+    "reading": "hanndoru",
+    "code": "01n10101",
+    "index": 227
+  },
+  {
+    "surface": "ハンバーガー",
+    "reading": "hannba-ga-",
+    "code": "01n1011011",
+    "index": 228
+  },
+  {
+    "surface": "ハンバーグ",
+    "reading": "hannba-gu",
+    "code": "01n101101",
+    "index": 229
+  },
+  {
+    "surface": "パンフレット",
+    "reading": "pannhuretto",
+    "code": "01n1f101101",
+    "index": 230
+  },
+  {
+    "surface": "ピアス",
+    "reading": "piasu",
+    "code": "01101",
+    "index": 231
+  },
+  {
+    "surface": "ピアノ",
+    "reading": "piano",
+    "code": "01101",
+    "index": 232
+  },
+  {
+    "surface": "ヒアリング",
+    "reading": "hiarinngu",
+    "code": "01101n101",
+    "index": 233
+  },
+  {
+    "surface": "ピーナッツ",
+    "reading": "pi-nattsu",
+    "code": "011011t01",
+    "index": 234
+  },
+  {
+    "surface": "ビーフ",
+    "reading": "bi-hu",
+    "code": "011f1",
+    "index": 235
+  },
+  {
+    "surface": "ピーマン",
+    "reading": "pi-mann",
+    "code": "01101u1",
+    "index": 236
+  },
+  {
+    "surface": "ビール",
+    "reading": "bi-ru",
+    "code": "01101",
+    "index": 237
+  },
+  {
+    "surface": "ビジネス",
+    "reading": "bizinesu",
+    "code": "01j10101",
+    "index": 238
+  },
+  {
+    "surface": "ビタミン",
+    "reading": "bitaminn",
+    "code": "010101u1",
+    "index": 239
+  },
+  {
+    "surface": "ビデオ",
+    "reading": "bideo",
+    "code": "01011",
+    "index": 240
+  },
+  {
+    "surface": "ビニール",
+    "reading": "bini-ru",
+    "code": "0101101",
+    "index": 241
+  },
+  {
+    "surface": "ヒント",
+    "reading": "hinnto",
+    "code": "01n101",
+    "index": 242
+  },
+  {
+    "surface": "ファイト",
+    "reading": "fwaito",
+    "code": "o11101",
+    "index": 243
+  },
+  {
+    "surface": "よれよれ",
+    "reading": "yoreyore",
+    "code": "01010101",
+    "index": 244
+  },
+  {
+    "surface": "ファッション",
+    "reading": "fwasshonn",
+    "code": "o1110a1u1",
+    "index": 245
+  },
+  {
+    "surface": "フィルム",
+    "reading": "fwirumu",
+    "code": "pq10101",
+    "index": 246
+  },
+  {
+    "surface": "フォーク",
+    "reading": "fwo-ku",
+    "code": "o111x1",
+    "index": 247
+  },
+  {
+    "surface": "フライパン",
+    "reading": "huraipann",
+    "code": "f101101u1",
+    "index": 248
+  },
+  {
+    "surface": "ブラシ",
+    "reading": "burashi",
+    "code": "0101s01",
+    "index": 249
+  },
+  {
+    "surface": "ブラジャー",
+    "reading": "burazya-",
+    "code": "0101e111",
+    "index": 250
+  },
+  {
+    "surface": "ブランデー",
+    "reading": "burannde-",
+    "code": "0101n1011",
+    "index": 251
+  },
+  {
+    "surface": "ブランド",
+    "reading": "buranndo",
+    "code": "0101n101",
+    "index": 252
+  },
+  {
+    "surface": "プリンター",
+    "reading": "purinnta-",
+    "code": "0101n1011",
+    "index": 253
+  },
+  {
+    "surface": "プリント",
+    "reading": "purinnto",
+    "code": "0101n101",
+    "index": 254
+  },
+  {
+    "surface": "フルーツ",
+    "reading": "huru-tsu",
+    "code": "f1011t01",
+    "index": 255
+  },
+  {
+    "surface": "ブレーキ",
+    "reading": "bure-ki",
+    "code": "0101101",
+    "index": 256
+  },
+  {
+    "surface": "プレゼント",
+    "reading": "purezennto",
+    "code": "010101n101",
+    "index": 257
+  },
+  {
+    "surface": "プレッシャー",
+    "reading": "puressha-",
+    "code": "010110a11",
+    "index": 258
+  },
+  {
+    "surface": "プロポーズ",
+    "reading": "puropo-zu",
+    "code": "010101101",
+    "index": 259
+  },
+  {
+    "surface": "プロレス",
+    "reading": "puroresu",
+    "code": "01010101",
+    "index": 260
+  },
+  {
+    "surface": "ベーコン",
+    "reading": "be-konn",
+    "code": "011x1u1",
+    "index": 261
+  },
+  {
+    "surface": "ベッド",
+    "reading": "beddo",
+    "code": "01101",
+    "index": 262
+  },
+  {
+    "surface": "ペット",
+    "reading": "petto",
+    "code": "01101",
+    "index": 263
+  },
+  {
+    "surface": "ベルト",
+    "reading": "beruto",
+    "code": "010101",
+    "index": 264
+  },
+  {
+    "surface": "ヘルメット",
+    "reading": "herumetto",
+    "code": "010101101",
+    "index": 265
+  },
+  {
+    "surface": "ペンキ",
+    "reading": "pennki",
+    "code": "01n101",
+    "index": 266
+  },
+  {
+    "surface": "ベンチ",
+    "reading": "bennchi",
+    "code": "01n1c01",
+    "index": 267
+  },
+  {
+    "surface": "ポイント",
+    "reading": "poinnto",
+    "code": "011n101",
+    "index": 268
+  },
+  {
+    "surface": "ボーナス",
+    "reading": "bo-nasu",
+    "code": "0110101",
+    "index": 269
+  },
+  {
+    "surface": "ボールペン",
+    "reading": "bo-rupenn",
+    "code": "0110101u1",
+    "index": 270
+  },
+  {
+    "surface": "ボクシング",
+    "reading": "bokushinngu",
+    "code": "01x1s01n101",
+    "index": 271
+  },
+  {
+    "surface": "ポケット",
+    "reading": "poketto",
+    "code": "0101101",
+    "index": 272
+  },
+  {
+    "surface": "ポスター",
+    "reading": "posuta-",
+    "code": "0101011",
+    "index": 273
+  },
+  {
+    "surface": "ボタン",
+    "reading": "botann",
+    "code": "0101u1",
+    "index": 274
+  },
+  {
+    "surface": "ホッチキス",
+    "reading": "hocchikisu",
+    "code": "01kc010101",
+    "index": 275
+  },
+  {
+    "surface": "ポット",
+    "reading": "potto",
+    "code": "01101",
+    "index": 276
+  },
+  {
+    "surface": "ポテト",
+    "reading": "poteto",
+    "code": "010101",
+    "index": 277
+  },
+  {
+    "surface": "ホテル",
+    "reading": "hoteru",
+    "code": "010101",
+    "index": 278
+  },
+  {
+    "surface": "ボランティア",
+    "reading": "borannthia",
+    "code": "0101n10111",
+    "index": 279
+  },
+  {
+    "surface": "財産",
+    "reading": "zaisann",
+    "code": "00100u1",
+    "index": 280
+  },
+  {
+    "surface": "マーガリン",
+    "reading": "ma-garinn",
+    "code": "0110101u1",
+    "index": 281
+  },
+  {
+    "surface": "マージャン",
+    "reading": "ma-zyann",
+    "code": "011e11u1",
+    "index": 282
+  },
+  {
+    "surface": "マイク",
+    "reading": "maiku",
+    "code": "011x1",
+    "index": 283
+  },
+  {
+    "surface": "マイナス",
+    "reading": "mainasu",
+    "code": "0110101",
+    "index": 284
+  },
+  {
+    "surface": "マウス",
+    "reading": "mausu",
+    "code": "01101",
+    "index": 285
+  },
+  {
+    "surface": "マカロニ",
+    "reading": "makaroni",
+    "code": "01x10101",
+    "index": 286
+  },
+  {
+    "surface": "マジック",
+    "reading": "mazikku",
+    "code": "01j1zV1",
+    "index": 287
+  },
+  {
+    "surface": "マスク",
+    "reading": "masuku",
+    "code": "0101x1",
+    "index": 288
+  },
+  {
+    "surface": "マスコミ",
+    "reading": "masukomi",
+    "code": "0101x101",
+    "index": 289
+  },
+  {
+    "surface": "マッサージ",
+    "reading": "massa-zi",
+    "code": "011011j1",
+    "index": 290
+  },
+  {
+    "surface": "マナー",
+    "reading": "mana-",
+    "code": "01011",
+    "index": 291
+  },
+  {
+    "surface": "マニア",
+    "reading": "mania",
+    "code": "01011",
+    "index": 292
+  },
+  {
+    "surface": "マニキュア",
+    "reading": "manikyua",
+    "code": "01010111",
+    "index": 293
+  },
+  {
+    "surface": "マネージャー",
+    "reading": "mane-zya-",
+    "code": "01011e111",
+    "index": 294
+  },
+  {
+    "surface": "マフラー",
+    "reading": "mahura-",
+    "code": "01f1011",
+    "index": 295
+  },
+  {
+    "surface": "マヨネーズ",
+    "reading": "mayone-zu",
+    "code": "010101101",
+    "index": 296
+  },
+  {
+    "surface": "マンション",
+    "reading": "mannshonn",
+    "code": "01n10a1u1",
+    "index": 297
+  },
+  {
+    "surface": "ミス",
+    "reading": "misu",
+    "code": "0101",
+    "index": 298
+  },
+  {
+    "surface": "ミックス",
+    "reading": "mikkusu",
+    "code": "01zV101",
+    "index": 299
+  },
+  {
+    "surface": "ミニ",
+    "reading": "mini",
+    "code": "0101",
+    "index": 300
+  },
+  {
+    "surface": "ミネラル",
+    "reading": "mineraru",
+    "code": "01010101",
+    "index": 301
+  },
+  {
+    "surface": "ミュージカル",
+    "reading": "myu-zikaru",
+    "code": "0111j1x101",
+    "index": 302
+  },
+  {
+    "surface": "ミュージック",
+    "reading": "myu-zikku",
+    "code": "0111j1zV1",
+    "index": 303
+  },
+  {
+    "surface": "ミルク",
+    "reading": "miruku",
+    "code": "0101x1",
+    "index": 304
+  },
+  {
+    "surface": "メイク",
+    "reading": "meiku",
+    "code": "011x1",
+    "index": 305
+  },
+  {
+    "surface": "メーカー",
+    "reading": "me-ka-",
+    "code": "011x11",
+    "index": 306
+  },
+  {
+    "surface": "メール",
+    "reading": "me-ru",
+    "code": "01101",
+    "index": 307
+  },
+  {
+    "surface": "メジャー",
+    "reading": "mezya-",
+    "code": "01e111",
+    "index": 308
+  },
+  {
+    "surface": "メッセージ",
+    "reading": "messe-zi",
+    "code": "011011j1",
+    "index": 309
+  },
+  {
+    "surface": "メディア",
+    "reading": "medhia",
+    "code": "010111",
+    "index": 310
+  },
+  {
+    "surface": "メニュー",
+    "reading": "menyu-",
+    "code": "010111",
+    "index": 311
+  },
+  {
+    "surface": "メモ",
+    "reading": "memo",
+    "code": "0101",
+    "index": 312
+  },
+  {
+    "surface": "メロディー",
+    "reading": "merodhi-",
+    "code": "01010111",
+    "index": 313
+  },
+  {
+    "surface": "メロン",
+    "reading": "meronn",
+    "code": "0101u1",
+    "index": 314
+  },
+  {
+    "surface": "モーター",
+    "reading": "mo-ta-",
+    "code": "011011",
+    "index": 315
+  },
+  {
+    "surface": "モデル",
+    "reading": "moderu",
+    "code": "010101",
+    "index": 316
+  },
+  {
+    "surface": "ユーモア",
+    "reading": "yu-moa",
+    "code": "011011",
+    "index": 317
+  },
+  {
+    "surface": "ヨーグルト",
+    "reading": "yo-guruto",
+    "code": "011010101",
+    "index": 318
+  },
+  {
+    "surface": "ヨット",
+    "reading": "yotto",
+    "code": "01101",
+    "index": 319
+  },
+  {
+    "surface": "ラーメン",
+    "reading": "ra-menn",
+    "code": "01101u1",
+    "index": 320
+  },
+  {
+    "surface": "ライス",
+    "reading": "raisu",
+    "code": "01101",
+    "index": 321
+  },
+  {
+    "surface": "ライト",
+    "reading": "raito",
+    "code": "01101",
+    "index": 322
+  },
+  {
+    "surface": "ライバル",
+    "reading": "raibaru",
+    "code": "0110101",
+    "index": 323
+  },
+  {
+    "surface": "ライブ",
+    "reading": "raibu",
+    "code": "01101",
+    "index": 324
+  },
+  {
+    "surface": "ラグビー",
+    "reading": "ragubi-",
+    "code": "0101011",
+    "index": 325
+  },
+  {
+    "surface": "ラケット",
+    "reading": "raketto",
+    "code": "0101101",
+    "index": 326
+  },
+  {
+    "surface": "ラジオ",
+    "reading": "razio",
+    "code": "01j11",
+    "index": 327
+  },
+  {
+    "surface": "ラスト",
+    "reading": "rasuto",
+    "code": "010101",
+    "index": 328
+  },
+  {
+    "surface": "ラッキー",
+    "reading": "rakki-",
+    "code": "011011",
+    "index": 329
+  },
+  {
+    "surface": "ランキング",
+    "reading": "rannkinngu",
+    "code": "01n101n101",
+    "index": 330
+  },
+  {
+    "surface": "ランチ",
+    "reading": "rannchi",
+    "code": "01n1c01",
+    "index": 331
+  },
+  {
+    "surface": "ランニング",
+    "reading": "rannninngu",
+    "code": "01N1v1n101",
+    "index": 332
+  },
+  {
+    "surface": "ランプ",
+    "reading": "rannpu",
+    "code": "01n101",
+    "index": 333
+  },
+  {
+    "surface": "リーダー",
+    "reading": "ri-da-",
+    "code": "011011",
+    "index": 334
+  },
+  {
+    "surface": "リクエスト",
+    "reading": "rikuesuto",
+    "code": "01x110101",
+    "index": 335
+  },
+  {
+    "surface": "リサイクル",
+    "reading": "risaikuru",
+    "code": "01011x101",
+    "index": 336
+  },
+  {
+    "surface": "リスク",
+    "reading": "risuku",
+    "code": "0101x1",
+    "index": 337
+  },
+  {
+    "surface": "リスト",
+    "reading": "risuto",
+    "code": "010101",
+    "index": 338
+  },
+  {
+    "surface": "リストラ",
+    "reading": "risutora",
+    "code": "01010101",
+    "index": 339
+  },
+  {
+    "surface": "リズム",
+    "reading": "rizumu",
+    "code": "010101",
+    "index": 340
+  },
+  {
+    "surface": "リゾート",
+    "reading": "rizo-to",
+    "code": "0101101",
+    "index": 341
+  },
+  {
+    "surface": "リハビリ",
+    "reading": "rihabiri",
+    "code": "01010101",
+    "index": 342
+  },
+  {
+    "surface": "リボン",
+    "reading": "ribonn",
+    "code": "0101u1",
+    "index": 343
+  },
+  {
+    "surface": "リモコン",
+    "reading": "rimokonn",
+    "code": "0101x1u1",
+    "index": 344
+  },
+  {
+    "surface": "リラックス",
+    "reading": "rirakkusu",
+    "code": "0101zV101",
+    "index": 345
+  },
+  {
+    "surface": "リンス",
+    "reading": "rinnsu",
+    "code": "01n101",
+    "index": 346
+  },
+  {
+    "surface": "ルール",
+    "reading": "ru-ru",
+    "code": "01101",
+    "index": 347
+  },
+  {
+    "surface": "レイアウト",
+    "reading": "reiauto",
+    "code": "0111101",
+    "index": 348
+  },
+  {
+    "surface": "レギュラー",
+    "reading": "regyura-",
+    "code": "01011011",
+    "index": 349
+  },
+  {
+    "surface": "レシート",
+    "reading": "reshi-to",
+    "code": "01s01101",
+    "index": 350
+  },
+  {
+    "surface": "レジャー",
+    "reading": "rezya-",
+    "code": "01e111",
+    "index": 351
+  },
+  {
+    "surface": "レストラン",
+    "reading": "resutorann",
+    "code": "01010101u1",
+    "index": 352
+  },
+  {
+    "surface": "レタス",
+    "reading": "retasu",
+    "code": "010101",
+    "index": 353
+  },
+  {
+    "surface": "レッスン",
+    "reading": "ressunn",
+    "code": "01101u1",
+    "index": 354
+  },
+  {
+    "surface": "レトルト",
+    "reading": "retoruto",
+    "code": "01010101",
+    "index": 355
+  },
+  {
+    "surface": "レベル",
+    "reading": "reberu",
+    "code": "010101",
+    "index": 356
+  },
+  {
+    "surface": "レポート",
+    "reading": "repo-to",
+    "code": "0101101",
+    "index": 357
+  },
+  {
+    "surface": "レモン",
+    "reading": "remonn",
+    "code": "0101u1",
+    "index": 358
+  },
+  {
+    "surface": "レンジ",
+    "reading": "rennzi",
+    "code": "01n1j1",
+    "index": 359
+  },
+  {
+    "surface": "レンズ",
+    "reading": "rennzu",
+    "code": "01n101",
+    "index": 360
+  },
+  {
+    "surface": "レンタル",
+    "reading": "renntaru",
+    "code": "01n10101",
+    "index": 361
+  },
+  {
+    "surface": "ロードショー",
+    "reading": "ro-dosho-",
+    "code": "011010a11",
+    "index": 362
+  },
+  {
+    "surface": "ローン",
+    "reading": "ro-nn",
+    "code": "011u1",
+    "index": 363
+  },
+  {
+    "surface": "ロケット",
+    "reading": "roketto",
+    "code": "0101101",
+    "index": 364
+  },
+  {
+    "surface": "ロック",
+    "reading": "rokku",
+    "code": "01zV1",
+    "index": 365
+  },
+  {
+    "surface": "ロボット",
+    "reading": "robotto",
+    "code": "0101101",
+    "index": 366
+  },
+  {
+    "surface": "ワープロ",
+    "reading": "wa-puro",
+    "code": "0110101",
+    "index": 367
+  },
+  {
+    "surface": "ワールドカップ",
+    "reading": "wa-rudokappu",
+    "code": "0110101x1101",
+    "index": 368
+  },
+  {
+    "surface": "ワイン",
+    "reading": "wainn",
+    "code": "011u1",
+    "index": 369
+  },
+  {
+    "surface": "スプーン",
+    "reading": "supu-nn",
+    "code": "01011u1",
+    "index": 370
+  },
+  {
+    "surface": "ウェスト",
+    "reading": "whesuto",
+    "code": "w110101",
+    "index": 371
+  },
+  {
+    "surface": "ヒップ",
+    "reading": "hippu",
+    "code": "01101",
+    "index": 372
+  },
+  {
+    "surface": "あっぷあっぷ",
+    "reading": "appuappu",
+    "code": "11011101",
+    "index": 373
+  },
+  {
+    "surface": "いそいそ",
+    "reading": "isoiso",
+    "code": "101101",
+    "index": 374
+  },
+  {
+    "surface": "うじうじ",
+    "reading": "uziuzi",
+    "code": "1j11j1",
+    "index": 375
+  },
+  {
+    "surface": "うずうず",
+    "reading": "uzuuzu",
+    "code": "101101",
+    "index": 376
+  },
+  {
+    "surface": "うつらうつら",
+    "reading": "utsurautsura",
+    "code": "1t01011t0101",
+    "index": 377
+  },
+  {
+    "surface": "ウハウハ",
+    "reading": "uhauha",
+    "code": "101101",
+    "index": 378
+  },
+  {
+    "surface": "おずおずと",
+    "reading": "ozuozuto",
+    "code": "10110101",
+    "index": 379
+  },
+  {
+    "surface": "おめおめと",
+    "reading": "omeometo",
+    "code": "10110101",
+    "index": 380
+  },
+  {
+    "surface": "おろおろ",
+    "reading": "orooro",
+    "code": "101101",
+    "index": 381
+  },
+  {
+    "surface": "がたがた",
+    "reading": "gatagata",
+    "code": "01010101",
+    "index": 382
+  },
+  {
+    "surface": "がちがち",
+    "reading": "gachigachi",
+    "code": "01c0101c01",
+    "index": 383
+  },
+  {
+    "surface": "がつがつ",
+    "reading": "gatsugatsu",
+    "code": "01t0101t01",
+    "index": 384
+  },
+  {
+    "surface": "かつかつ",
+    "reading": "katsukatsu",
+    "code": "x1t01x1t01",
+    "index": 385
+  },
+  {
+    "surface": "ぎすぎす",
+    "reading": "gisugisu",
+    "code": "01010101",
+    "index": 386
+  },
+  {
+    "surface": "ぎとぎと",
+    "reading": "gitogito",
+    "code": "01010101",
+    "index": 387
+  },
+  {
+    "surface": "きらきら",
+    "reading": "kirakira",
+    "code": "01010101",
+    "index": 388
+  },
+  {
+    "surface": "くどくど",
+    "reading": "kudokudo",
+    "code": "x101x101",
+    "index": 389
+  },
+  {
+    "surface": "ケバケバ",
+    "reading": "kebakeba",
+    "code": "01010101",
+    "index": 390
+  },
+  {
+    "surface": "こせこせ",
+    "reading": "kosekose",
+    "code": "x101x101",
+    "index": 391
+  },
+  {
+    "surface": "コツコツ",
+    "reading": "kotsukotsu",
+    "code": "x1t01x1t01",
+    "index": 392
+  },
+  {
+    "surface": "ケラケラ",
+    "reading": "kerakera",
+    "code": "01010101",
+    "index": 393
+  },
+  {
+    "surface": "こてこて",
+    "reading": "kotekote",
+    "code": "x101x101",
+    "index": 394
+  },
+  {
+    "surface": "さくさく",
+    "reading": "sakusaku",
+    "code": "01x101x1",
+    "index": 395
+  },
+  {
+    "surface": "さばさば",
+    "reading": "sabasaba",
+    "code": "01010101",
+    "index": 396
+  },
+  {
+    "surface": "しくしく",
+    "reading": "shikushiku",
+    "code": "s01x1s01x1",
+    "index": 397
+  },
+  {
+    "surface": "しこしこ",
+    "reading": "shikoshiko",
+    "code": "s01x1s01x1",
+    "index": 398
+  },
+  {
+    "surface": "じめじめ",
+    "reading": "zimezime",
+    "code": "j101j101",
+    "index": 399
+  },
+  {
+    "surface": "じりじり",
+    "reading": "ziriziri",
+    "code": "j101j101",
+    "index": 400
+  },
+  {
+    "surface": "ずかずか",
+    "reading": "zukazuka",
+    "code": "01x101x1",
+    "index": 401
+  },
+  {
+    "surface": "すかすか",
+    "reading": "sukasuka",
+    "code": "01x101x1",
+    "index": 402
+  },
+  {
+    "surface": "ずけずけ",
+    "reading": "zukezuke",
+    "code": "01010101",
+    "index": 403
+  },
+  {
+    "surface": "すごすご",
+    "reading": "sugosugo",
+    "code": "01010101",
+    "index": 404
+  },
+  {
+    "surface": "ずたずた",
+    "reading": "zutazuta",
+    "code": "01010101",
+    "index": 405
+  },
+  {
+    "surface": "ずるずる",
+    "reading": "zuruzuru",
+    "code": "01010101",
+    "index": 406
+  },
+  {
+    "surface": "せかせか",
+    "reading": "sekaseka",
+    "code": "01x101x1",
+    "index": 407
+  },
+  {
+    "surface": "ぞくぞく",
+    "reading": "zokuzoku",
+    "code": "01x101x1",
+    "index": 408
+  },
+  {
+    "surface": "そわそわ",
+    "reading": "sowasowa",
+    "code": "01010101",
+    "index": 409
+  },
+  {
+    "surface": "たじたじ",
+    "reading": "tazitazi",
+    "code": "01j101j1",
+    "index": 410
+  },
+  {
+    "surface": "だらだら",
+    "reading": "daradara",
+    "code": "01010101",
+    "index": 411
+  },
+  {
+    "surface": "たらたら",
+    "reading": "taratara",
+    "code": "01010101",
+    "index": 412
+  },
+  {
+    "surface": "ちくちく",
+    "reading": "chikuchiku",
+    "code": "c01x1c01x1",
+    "index": 413
+  },
+  {
+    "surface": "ちびちび",
+    "reading": "chibichibi",
+    "code": "c0101c0101",
+    "index": 414
+  },
+  {
+    "surface": "ちまちま",
+    "reading": "chimachima",
+    "code": "c0101c0101",
+    "index": 415
+  },
+  {
+    "surface": "ちゃらちゃら",
+    "reading": "charachara",
+    "code": "gi101gi101",
+    "index": 416
+  },
+  {
+    "surface": "ちょろちょろ",
+    "reading": "chorochoro",
+    "code": "gi101gi101",
+    "index": 417
+  },
+  {
+    "surface": "つかつか",
+    "reading": "tsukatsuka",
+    "code": "t01x1t01x1",
+    "index": 418
+  },
+  {
+    "surface": "つんつん",
+    "reading": "tsunntsunn",
+    "code": "t01n1t01u1",
+    "index": 419
+  },
+  {
+    "surface": "でれでれ",
+    "reading": "deredere",
+    "code": "01010101",
+    "index": 420
+  },
+  {
+    "surface": "どろどろ",
+    "reading": "dorodoro",
+    "code": "01010101",
+    "index": 421
+  },
+  {
+    "surface": "ちかちか",
+    "reading": "chikachika",
+    "code": "c01x1c01x1",
+    "index": 422
+  },
+  {
+    "surface": "とんとん",
+    "reading": "tonntonn",
+    "code": "01n101u1",
+    "index": 423
+  },
+  {
+    "surface": "なよなよ",
+    "reading": "nayonayo",
+    "code": "01010101",
+    "index": 424
+  },
+  {
+    "surface": "ぬくぬく",
+    "reading": "nukunuku",
+    "code": "01x101x1",
+    "index": 425
+  },
+  {
+    "surface": "ぬけぬけ",
+    "reading": "nukenuke",
+    "code": "01010101",
+    "index": 426
+  },
+  {
+    "surface": "ねちねち",
+    "reading": "nechinechi",
+    "code": "01c0101c01",
+    "index": 427
+  },
+  {
+    "surface": "のうのうと",
+    "reading": "nounouto",
+    "code": "01101101",
+    "index": 428
+  },
+  {
+    "surface": "講演",
+    "reading": "kouenn",
+    "code": "x010u1",
+    "index": 429
+  },
+  {
+    "surface": "のこのこ",
+    "reading": "nokonoko",
+    "code": "01x101x1",
+    "index": 430
+  },
+  {
+    "surface": "ばたばた",
+    "reading": "batabata",
+    "code": "01010101",
+    "index": 431
+  },
+  {
+    "surface": "バラバラ",
+    "reading": "barabara",
+    "code": "01010101",
+    "index": 432
+  },
+  {
+    "surface": "ハラハラ",
+    "reading": "harahara",
+    "code": "01010101",
+    "index": 433
+  },
+  {
+    "surface": "バリバリ",
+    "reading": "baribari",
+    "code": "01010101",
+    "index": 434
+  },
+  {
+    "surface": "ひたひた",
+    "reading": "hitahita",
+    "code": "01010101",
+    "index": 435
+  },
+  {
+    "surface": "ぴちぴち",
+    "reading": "pichipichi",
+    "code": "01c0101c01",
+    "index": 436
+  },
+  {
+    "surface": "ひやひや",
+    "reading": "hiyahiya",
+    "code": "01010101",
+    "index": 437
+  },
+  {
+    "surface": "ぴりぴりする",
+    "reading": "piripirisuru",
+    "code": "010101010101",
+    "index": 438
+  },
+  {
+    "surface": "ぶつぶつ",
+    "reading": "butsubutsu",
+    "code": "01t0101t01",
+    "index": 439
+  },
+  {
+    "surface": "ふらふら",
+    "reading": "hurahura",
+    "code": "f101f101",
+    "index": 440
+  },
+  {
+    "surface": "ぶらぶら",
+    "reading": "burabura",
+    "code": "01010101",
+    "index": 441
+  },
+  {
+    "surface": "ぶんぶん",
+    "reading": "bunnbunn",
+    "code": "01n101u1",
+    "index": 442
+  },
+  {
+    "surface": "べたべた",
+    "reading": "betabeta",
+    "code": "01010101",
+    "index": 443
+  },
+  {
+    "surface": "へとへと",
+    "reading": "hetoheto",
+    "code": "01010101",
+    "index": 444
+  },
+  {
+    "surface": "へなへな",
+    "reading": "henahena",
+    "code": "01010101",
+    "index": 445
+  },
+  {
+    "surface": "へらへら",
+    "reading": "herahera",
+    "code": "01010101",
+    "index": 446
+  },
+  {
+    "surface": "ほいほい",
+    "reading": "hoihoi",
+    "code": "011011",
+    "index": 447
+  },
+  {
+    "surface": "ホクホク",
+    "reading": "hokuhoku",
+    "code": "01x101x1",
+    "index": 448
+  },
+  {
+    "surface": "ぼこぼこ",
+    "reading": "bokoboko",
+    "code": "01x101x1",
+    "index": 449
+  },
+  {
+    "surface": "ぼちぼち",
+    "reading": "bochibochi",
+    "code": "01c0101c01",
+    "index": 450
+  },
+  {
+    "surface": "ぼつぼつ",
+    "reading": "botsubotsu",
+    "code": "01t0101t01",
+    "index": 451
+  },
+  {
+    "surface": "まごまご",
+    "reading": "magomago",
+    "code": "01010101",
+    "index": 452
+  },
+  {
+    "surface": "むかむか",
+    "reading": "mukamuka",
+    "code": "01x101x1",
+    "index": 453
+  },
+  {
+    "surface": "むずむず",
+    "reading": "muzumuzu",
+    "code": "01010101",
+    "index": 454
+  },
+  {
+    "surface": "ムラムラ",
+    "reading": "muramura",
+    "code": "01010101",
+    "index": 455
+  },
+  {
+    "surface": "ムンムン",
+    "reading": "munnmunn",
+    "code": "01n101u1",
+    "index": 456
+  }
+]
