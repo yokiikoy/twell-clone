@@ -19,6 +19,8 @@ import {
 } from "@typewell-jr/engine";
 import { keyboard, rule, type Automaton, type InputEvent, type KeyboardLayout } from "emiel";
 import { activateCompat } from "../lib/emielActivateCompat";
+/** 語末「ん」→語間 Space: 400 打鍵・`nn`/`xn` 整合はラッパー側コメント参照 */
+import { inputWithNnBeforeSpaceIfNeeded } from "../lib/emielNsSpaceAssist";
 import {
   Module1ChartLadderRow,
   PracticeSettingsStubHub,
@@ -662,7 +664,7 @@ export function TypingCanvas() {
       if (e.input.type !== "keydown") return;
 
       const before = auto.finishedStroke.length;
-      const result = auto.input(e);
+      const result = inputWithNnBeforeSpaceIfNeeded(auto, e);
       const after = auto.finishedStroke.length;
       const now = performance.now();
       strokeEngRef.current?.applyEmielStep(now, before, after);
