@@ -394,6 +394,7 @@ export function TypingCanvas() {
     const dict = dictionaryRef.current;
     if (!dict.length) return;
     const rand = mulberry32(Date.now() % 1_000_000);
+    const lay = layoutRef.current ?? undefined;
     if (pickerView === "merged") {
       const spec = MERGED_SPECS[mergedTab];
       const { words: picked, emielTargetLine: line } = buildTrialSurfaceLineMerged(
@@ -403,7 +404,8 @@ export function TypingCanvas() {
         rand,
         8,
         spec.weights,
-        8
+        8,
+        lay
       );
       pendingWordsRef.current = picked;
       pendingLineRef.current = line;
@@ -414,12 +416,14 @@ export function TypingCanvas() {
         mode,
         TRIAL_STROKES,
         rand,
-        8
+        8,
+        8,
+        lay
       );
       pendingWordsRef.current = picked;
       pendingLineRef.current = line;
     }
-  }, [pickerView, mergedTab]);
+  }, [pickerView, mergedTab, layout]);
 
   const goToLobby = useCallback(
     (opts?: { keepPending?: boolean }) => {
@@ -496,12 +500,15 @@ export function TypingCanvas() {
         const words = jouTriplesToWordEntries(rows, spec.mode);
         dictionaryRef.current = words;
         modeRef.current = spec.mode;
+        const lay = layoutRef.current ?? undefined;
         const { words: picked, emielTargetLine: line } = buildTrialSurfaceLine(
           words,
           spec.mode,
           TRIAL_STROKES,
           mulberry32(Date.now() % 1_000_000),
-          8
+          8,
+          8,
+          lay
         );
         pendingWordsRef.current = picked;
         pendingLineRef.current = line;
@@ -517,7 +524,7 @@ export function TypingCanvas() {
     return () => {
       cancelled = true;
     };
-  }, [pickerView, deck]);
+  }, [pickerView, deck, layout]);
 
   useEffect(() => {
     if (pickerView !== "merged") return;
@@ -547,6 +554,7 @@ export function TypingCanvas() {
         }
         dictionaryRef.current = words;
         modeRef.current = spec.mode;
+        const lay = layoutRef.current ?? undefined;
         const { words: picked, emielTargetLine: line } = buildTrialSurfaceLineMerged(
           words,
           spec.mode,
@@ -554,7 +562,8 @@ export function TypingCanvas() {
           mulberry32(Date.now() % 1_000_000),
           8,
           spec.weights,
-          8
+          8,
+          lay
         );
         pendingWordsRef.current = picked;
         pendingLineRef.current = line;
@@ -570,7 +579,7 @@ export function TypingCanvas() {
     return () => {
       cancelled = true;
     };
-  }, [pickerView, mergedTab]);
+  }, [pickerView, mergedTab, layout]);
 
   useEffect(() => {
     if (runPhase !== "lobby" || err) return;

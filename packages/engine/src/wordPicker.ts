@@ -1,3 +1,4 @@
+import type { KeyboardLayout } from "emiel";
 import type { GameMode, WordEntry } from "./types.js";
 import { mozcMinStrokesForHiraganaLine } from "./emielStrokeBudget.js";
 import { romajiToTypingKana } from "./twelljr/romajiTypingKana.js";
@@ -145,7 +146,7 @@ export function buildTrialReading(
  *
  * 停止条件: 連結した行に対し **emiel の最短ローマ打鍵数**（`mozcMinStrokesForHiraganaLine`）が
  * `trialStrokeCount + reserveMinStrokes` 以上になるまで語をランダムに追加する。
- * 経験係数は使わない（QWERTY JIS 固定で emiel と同じ前提）。
+ * 経験係数は使わない。`keyboardLayout` は実プレイの `rule.getRoman(layout)` と揃えること。
  */
 export function buildTrialSurfaceLine(
   dict: WordEntry[],
@@ -153,7 +154,8 @@ export function buildTrialSurfaceLine(
   trialStrokeCount: number,
   rand: Random,
   avoidRepeatWindow: number,
-  reserveMinStrokes = 8
+  reserveMinStrokes = 8,
+  keyboardLayout?: KeyboardLayout
 ): { words: WordEntry[]; emielTargetLine: string } {
   const pool = wordsForMode(dict, mode);
   if (pool.length === 0) {
@@ -166,7 +168,10 @@ export function buildTrialSurfaceLine(
   const lineStrokes = (words: WordEntry[]) =>
     words.length === 0
       ? 0
-      : mozcMinStrokesForHiraganaLine(words.map((w) => w.typingKana).join(" "));
+      : mozcMinStrokesForHiraganaLine(
+          words.map((w) => w.typingKana).join(" "),
+          keyboardLayout
+        );
 
   while (lineStrokes(picked) < targetMinStrokes && guard < trialStrokeCount * 80) {
     guard++;
@@ -195,7 +200,8 @@ export function buildTrialSurfaceLineMerged(
   rand: Random,
   avoidRepeatWindow: number,
   weightSpec: MergedSurfaceLineWeightSpec,
-  reserveMinStrokes = 8
+  reserveMinStrokes = 8,
+  keyboardLayout?: KeyboardLayout
 ): { words: WordEntry[]; emielTargetLine: string } {
   const pool = wordsForMode(dict, mode).filter((w) => w.sourceDeck != null);
   if (pool.length === 0) {
@@ -218,7 +224,10 @@ export function buildTrialSurfaceLineMerged(
   const lineStrokes = (words: WordEntry[]) =>
     words.length === 0
       ? 0
-      : mozcMinStrokesForHiraganaLine(words.map((w) => w.typingKana).join(" "));
+      : mozcMinStrokesForHiraganaLine(
+          words.map((w) => w.typingKana).join(" "),
+          keyboardLayout
+        );
 
   while (lineStrokes(picked) < targetMinStrokes && guard < trialStrokeCount * 80) {
     guard++;
