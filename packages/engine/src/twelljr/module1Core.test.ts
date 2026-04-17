@@ -1,9 +1,18 @@
 import { describe, expect, it } from "vitest";
 import {
+  MODULE1_CHART_LABEL_ORDER,
   twellJrBigRunFontFamilyHint,
   twellJrGoalKeyPacing,
   twellJrLabelFromTotalSeconds,
 } from "./module1Core.js";
+
+describe("MODULE1_CHART_LABEL_ORDER (UI strip)", () => {
+  it("runs ZS … J in ladder order", () => {
+    expect(MODULE1_CHART_LABEL_ORDER[0]).toBe("ZS");
+    expect(MODULE1_CHART_LABEL_ORDER[MODULE1_CHART_LABEL_ORDER.length - 1]).toBe("J");
+    expect(MODULE1_CHART_LABEL_ORDER.length).toBe(44);
+  });
+});
 
 describe("twellJrLabelFromTotalSeconds (Module1 Proc_1_0)", () => {
   it("maps probe 5s to ZS", () => {

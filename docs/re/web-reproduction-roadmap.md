@@ -34,6 +34,7 @@
 | モード別ワード塊 | [analysis/04-mode-module-diff.md](analysis/04-mode-module-diff.md)、`twjrdecomp/Jou*.bas` 等 |
 | I/O・ログ | [analysis/03-io-contracts.md](analysis/03-io-contracts.md)、`packages/engine` [logContracts.ts](../packages/engine/src/twelljr/logContracts.ts) |
 | UI・メニュー | [analysis/05-ui-statechart.md](analysis/05-ui-statechart.md)、[analysis/02-component-map.md](analysis/02-component-map.md)、[web-surface-matrix.md](web-surface-matrix.md) |
+| UI 雰囲気（非正典・補助） | [external-clone-ui-reference.md](external-clone-ui-reference.md) — 既存 Web クローンの **ぽさ**・LLM 手がかり（採点の正ではない） |
 | 動的・ネット | [analysis/06-dynamic-notes.md](analysis/06-dynamic-notes.md) |
 | ローマ字入力（Web 計画） | [emiel](https://github.com/tomoemon/emiel)（MIT）— 下記「横断課題」参照 |
 
@@ -56,7 +57,7 @@
 ### フェーズ C — UI 表面積（セマンティック一致）（着手済み・最小完了）
 
 - [02-component-map.md](analysis/02-component-map.md) と [05-ui-statechart.md](analysis/05-ui-statechart.md) から **フォーム・主要メニュー・ダイアログ一覧**を作り、Web の **ルート / モーダル / 設定パネル** への対応表（**表面積マトリクス**）を維持。
-- 見た目はデザインシステムに寄せてよいが、**操作系列と分岐の発見可能性**を公式に揃える。
+- 見た目はデザインシステムに寄せてよいが、**操作系列と分岐の発見可能性**を公式に揃える。既存の非公式 Web 実装の **情報の並び・ラベル語彙**は [external-clone-ui-reference.md](external-clone-ui-reference.md) に整理し、**ぽさ**の補助参照に使う（正典は引き続き `analysis/*` と表面積マトリクス）。
 - **実装状況（最小完了の定義）:** [web-surface-matrix.md](web-surface-matrix.md) に **WebPath / Status / Notes** を付与し、`apps/web` の **AppShell メニュー**からマトリクス上の各 **スタブページ**へ到達可能。`/` の **試行（TypingCanvas）**は維持（ローマ字入力の詳細は下記 **横断課題（emiel）**）。**キーのガイド**は `KeyGuideDialog` モーダル（05 `mnuGuid` 相当の入口）。
 - **続行（発見可能性）:** `/settings/*` と `/records/*` に **セクション layout**（[`stubNavConfig.ts`](../../apps/web/src/lib/stubNavConfig.ts) と同期したサイドバー [`StubSidebarNav`](../../apps/web/src/components/StubSidebarNav.tsx)）を追加。トップメニューと **同一 URL 一覧**を単一ソースで維持。
 

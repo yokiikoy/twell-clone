@@ -66,7 +66,7 @@ Evidence: `frmMain.frm` pcode (`twjrdecomp/frmMain.frm`) — each row is a **`Pr
 | Handler | Behavior |
 |---------|----------|
 | `mnuReadMe_Click` | Opens `\ReadMe.txt` under `App.Path` via **`ShellExecute`** (or `MsgBox` if missing). |
-| `mnuWeb_Click` | **`ShellExecute`** on URL **`http://www.twfan.com/`** — delegates to default browser. |
+| `mnuWeb_Click` | **`ShellExecute`** on URL **`http://www.twfan.com/`** — delegates to default browser. （Web 再現: TwFan 閉鎖のため **非公式ミラー** `http://tanon710.s500.xrea.com/typewell_mirror/index.html`。） |
 | `mnuEnd_Click` / `mnuEndb_Click` | **`Global.Unload Me`** — exit shell. |
 
 ### Many ranking / filter / “print” items → `FormD`

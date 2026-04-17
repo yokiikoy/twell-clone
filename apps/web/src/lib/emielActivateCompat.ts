@@ -1,6 +1,10 @@
 /**
  * emiel の `activate` は一部の `KeyboardEvent.code`（例: Backquote）が未対応で例外になる。
  * 公式実装に近い購読を維持しつつ、不足コードを補う（emiel 本体は触らない）。
+ *
+ * **OS キーリピート:** `keydown` の `repeat === true` は無視する。タイピングでは連続自動入力は起こらない想定であり、
+ * 長押しで同キーの keydown が連打されるとローマ字が二重に入る（例: `utukushi` に `i` が余計）ため。
+ *
  * @see https://github.com/tomoemon/emiel/blob/main/src/browser/eventHandler.ts
  */
 import {
@@ -138,9 +142,11 @@ export function activateCompat(
   const keyboardState = new KeyboardState();
 
   const keyDownEventHandler = (evt: Event) => {
+    const ke = evt as KeyboardEvent;
+    if (ke.repeat) return;
     const keyStroke = toInputKeyStrokeFromKeyboardEvent(
       "keydown",
-      evt as KeyboardEvent,
+      ke,
       keyMap
     );
     if (!keyStroke) return;

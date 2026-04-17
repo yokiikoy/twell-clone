@@ -16,5 +16,8 @@ Thumbs.db
 *.dll
 *.ocx
 data/extracted/
+# VB Decompiler export（実行時は参照しない。語表は public/*.json へ生成してコミット）
+twjrdecomp/*
+!twjrdecomp/README.md
 # CP932 抽出の機械生成物（語リストのコミットはライセンス確定後）
 packages/engine/test-fixtures/extracted-*.json

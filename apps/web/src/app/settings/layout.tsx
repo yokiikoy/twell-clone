@@ -13,7 +13,7 @@ export default function SettingsLayout({
           <StubSidebarNav sectionTitle="設定" items={NAV_SETTINGS} />
         </div>
       </aside>
-      <div className="min-w-0 flex-1 border-t border-zinc-800 pt-4 sm:border-l sm:border-t-0 sm:pl-8 sm:pt-0">
+      <div className="min-w-0 flex-1 border-t border-zinc-200 pt-4 sm:border-l sm:border-t-0 sm:pl-8 sm:pt-0">
         {children}
       </div>
     </div>

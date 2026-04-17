@@ -7,7 +7,7 @@ import {
   NAV_RECORD,
   NAV_SETTINGS,
   NAV_SYSTEM,
-  TW_FAN_URL,
+  TYPEWELL_MIRROR_URL,
   type StubNavItem,
 } from "@/lib/stubNavConfig";
 import { KeyGuideDialog } from "./KeyGuideDialog";
@@ -39,7 +39,7 @@ function NavMenu({
         aria-haspopup="menu"
         aria-expanded={open}
         aria-controls={listId}
-        className="flex cursor-pointer items-center rounded-md px-2 py-1.5 text-sm text-zinc-300 outline-none ring-zinc-600 hover:bg-zinc-800 hover:text-zinc-100 data-[open=true]:bg-zinc-800"
+        className="flex cursor-pointer items-center rounded-md px-2 py-1.5 text-sm text-zinc-700 outline-none ring-zinc-300 hover:bg-zinc-100 hover:text-zinc-900 data-[open=true]:bg-zinc-100"
         data-open={open}
         onClick={() => setMenuOpen(open ? null : id)}
       >
@@ -53,14 +53,14 @@ function NavMenu({
           id={listId}
           role="menu"
           aria-labelledby={btnId}
-          className="absolute left-0 top-full z-40 mt-1 min-w-[12rem] rounded-md border border-zinc-700 bg-zinc-950 py-1 shadow-lg"
+          className="absolute left-0 top-full z-40 mt-1 min-w-[12rem] rounded-md border border-zinc-200 bg-white py-1 shadow-lg"
         >
           {items.map((item) => (
             <li key={item.href} role="none">
               <Link
                 role="menuitem"
                 href={item.href}
-                className="block px-3 py-2 text-sm text-zinc-300 hover:bg-zinc-800 hover:text-zinc-100"
+                className="block px-3 py-2 text-sm text-zinc-700 hover:bg-zinc-100 hover:text-zinc-900"
                 onClick={() => setMenuOpen(null)}
               >
                 {item.label}
@@ -104,8 +104,8 @@ export function AppShell({ children }: { children: React.ReactNode }) {
   const helpOpen = menuOpen === "help";
 
   return (
-    <div className="flex min-h-screen flex-col bg-zinc-950 text-zinc-100">
-      <header className="sticky top-0 z-30 border-b border-zinc-800 bg-zinc-950/95 backdrop-blur">
+    <div className="flex min-h-screen flex-col bg-zinc-50 text-zinc-900">
+      <header className="sticky top-0 z-30 border-b border-zinc-200 bg-white/95 backdrop-blur">
         <nav
           ref={headerNavRef}
           className="mx-auto flex max-w-5xl flex-wrap items-center gap-1 px-3 py-2 sm:gap-2 sm:px-4"
@@ -113,7 +113,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
         >
           <Link
             href="/"
-            className="mr-2 rounded-md px-2 py-1.5 text-sm font-medium text-amber-100/90 hover:bg-zinc-800"
+            className="mr-2 rounded-md px-2 py-1.5 text-sm font-medium text-amber-900 hover:bg-zinc-100"
             onClick={closeMenus}
           >
             練習
@@ -141,7 +141,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
           />
           <Link
             href="/tools/heavy-user"
-            className="rounded-md px-2 py-1.5 text-sm text-zinc-300 hover:bg-zinc-800 hover:text-zinc-100"
+            className="rounded-md px-2 py-1.5 text-sm text-zinc-700 hover:bg-zinc-100 hover:text-zinc-900"
             onClick={closeMenus}
           >
             ヘビーユーザー
@@ -160,7 +160,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
               aria-haspopup="menu"
               aria-expanded={helpOpen}
               aria-controls={helpListId}
-              className="flex cursor-pointer items-center rounded-md px-2 py-1.5 text-sm text-zinc-300 hover:bg-zinc-800 hover:text-zinc-100 data-[open=true]:bg-zinc-800"
+              className="flex cursor-pointer items-center rounded-md px-2 py-1.5 text-sm text-zinc-700 hover:bg-zinc-100 hover:text-zinc-900 data-[open=true]:bg-zinc-100"
               data-open={helpOpen}
               onClick={() => setMenuOpen(helpOpen ? null : "help")}
             >
@@ -174,13 +174,13 @@ export function AppShell({ children }: { children: React.ReactNode }) {
                 id={helpListId}
                 role="menu"
                 aria-labelledby={helpBtnId}
-                className="absolute left-0 top-full z-40 mt-1 min-w-[11rem] rounded-md border border-zinc-700 bg-zinc-950 py-1 shadow-lg"
+                className="absolute left-0 top-full z-40 mt-1 min-w-[11rem] rounded-md border border-zinc-200 bg-white py-1 shadow-lg"
               >
                 <li role="none">
                   <button
                     type="button"
                     role="menuitem"
-                    className="w-full px-3 py-2 text-left text-sm text-zinc-300 hover:bg-zinc-800 hover:text-zinc-100"
+                    className="w-full px-3 py-2 text-left text-sm text-zinc-700 hover:bg-zinc-100 hover:text-zinc-900"
                     onClick={() => {
                       setKeyGuideOpen(true);
                       setMenuOpen(null);
@@ -193,7 +193,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
                   <Link
                     role="menuitem"
                     href="/help/readme"
-                    className="block px-3 py-2 text-sm text-zinc-300 hover:bg-zinc-800"
+                    className="block px-3 py-2 text-sm text-zinc-700 hover:bg-zinc-100"
                     onClick={() => setMenuOpen(null)}
                   >
                     ReadMe 相当
@@ -202,13 +202,13 @@ export function AppShell({ children }: { children: React.ReactNode }) {
                 <li role="none">
                   <a
                     role="menuitem"
-                    href={TW_FAN_URL}
+                    href={TYPEWELL_MIRROR_URL}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block px-3 py-2 text-sm text-zinc-300 hover:bg-zinc-800"
+                    className="block px-3 py-2 text-sm text-zinc-700 hover:bg-zinc-100"
                     onClick={() => setMenuOpen(null)}
                   >
-                    公式サイト（別タブ）
+                    ミラーサイト（非公式・別タブ）
                   </a>
                 </li>
               </ul>

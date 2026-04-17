@@ -1,7 +1,6 @@
 "use client";
 
 import {
-  basRomanTypingGuide,
   buildTrialSurfaceLine,
   createStrokeTrialEngine,
   jouTriplesToWordEntries,
@@ -14,6 +13,13 @@ import {
 } from "@typewell-jr/engine";
 import { keyboard, rule, type Automaton, type InputEvent, type KeyboardLayout } from "emiel";
 import { activateCompat } from "../lib/emielActivateCompat";
+import {
+  Module1ChartLadderRow,
+  PracticeSettingsStubHub,
+  TrialDeckHeading,
+  TrialStatusStrip,
+  type TrialRunPhase,
+} from "./TrialTypewellChrome";
 import { useCallback, useEffect, useReducer, useRef, useState } from "react";
 
 /** 国語Ｒ Web 版: 確定ストローク数（emiel `finishedStroke.length`） */
@@ -22,31 +28,19 @@ const TRIAL_STROKES = 400;
 const COUNTDOWN_SECONDS = 3;
 const LAP_STROKE_INTERVAL = 50;
 
+/** ラップ一覧枠。控えめな固定高さで縦位置の跳ねを抑えつつ余白を詰める */
+const TYPING_STATS_LAPS_BOX_CLASS =
+  "flex h-[3.75rem] shrink-0 flex-col overflow-hidden rounded border border-zinc-200 bg-zinc-100 px-2.5 py-1.5 text-xs leading-snug text-zinc-600";
+
 const STROKE_TRIAL_RESET = {
   trialStrokeCount: TRIAL_STROKES,
   goalLevelId: "J",
   scoringProfile: "twelljr" as const,
 };
 
-/** 高さ固定（vh 一定）＋内側スクロールで、待機→試行で枠位置が縦に跳ねないようにする */
+/** 内容高に追従（上限まで）。長いときは枠全体がスクロール。短い語列で点線枠下に空きを作らない */
 const TRIAL_VIEWPORT_CLASS =
-  "flex h-[min(52vh,560px)] max-h-[min(52vh,560px)] shrink-0 flex-col overflow-hidden rounded border border-zinc-800 bg-black/80 p-3";
-
-function TrialHintParagraph({ surfaceHint }: { surfaceHint: string }) {
-  return (
-    <div className="space-y-1 text-[11px] leading-snug text-zinc-500">
-      <p>
-        <span className="font-medium text-zinc-400">{surfaceHint}</span>
-        {" · "}
-        Mozc系（emiel）· 確定ストローク {TRIAL_STROKES}（語間スペース）
-      </p>
-      <p>
-        ターゲットかなは平仮名のみの語は表層のまま、それ以外は BAS を正規化してから wanakana で一度だけ変換（打鍵中は
-        wanakana 不使用）。下のローマ字ガイドは BAS の reading（本家・tsuikyo 系の綴り）に合わせ、打鍵の受理は emiel（Mozc）です。
-      </p>
-    </div>
-  );
-}
+  "flex min-h-[7.5rem] max-h-[min(48vh,480px)] shrink-0 flex-col overflow-y-auto rounded border border-zinc-200 bg-white p-2.5 shadow-sm";
 
 /** `finishedWord` 長は emiel ターゲット（`typingKana` 連結＋語間スペース）に対応 */
 function wordIndexFromTypingProgress(
@@ -183,7 +177,7 @@ function decksByGroup(): { group: string; ids: DeckId[] }[] {
     .map(([group, ids]) => ({ group, ids }));
 }
 
-type RunPhase = "loading" | "lobby" | "countdown" | "playing" | "finished";
+type RunPhase = TrialRunPhase;
 
 type LapSegment = { stroke: number; segmentMs: number };
 
@@ -216,12 +210,10 @@ function useAudioClick() {
 /** 破線枠内の本文のみ（外枠・注釈ブロック・結果・進捗は親で固定レイアウト） */
 function EmielTrialBody({
   segments,
-  emielTargetLine,
   automaton,
   trial,
 }: {
   segments: WordEntry[];
-  emielTargetLine: string;
   automaton: Automaton;
   trial: StrokeTrialRenderState;
 }) {
@@ -231,27 +223,24 @@ function EmielTrialBody({
 
   const segmentWordClass = (wi: number) =>
     wi === activeSeg
-      ? "text-amber-300 underline decoration-amber-500/70 underline-offset-2"
+      ? "text-amber-800 underline decoration-amber-600 underline-offset-2"
       : wi < activeSeg || finished
         ? "text-zinc-500"
-        : "text-zinc-300";
+        : "text-zinc-800";
 
   const jpFont =
     '"Yu Gothic UI","Yu Gothic",Meiryo,"Hiragino Sans","Hiragino Kaku Gothic ProN",sans-serif';
 
-  const { finishedRoman, pendingRoman } = basRomanTypingGuide(
-    segments,
-    emielTargetLine,
-    automaton.finishedWord
-  );
+  const fr = automaton.finishedRoman;
+  const pr = automaton.pendingRoman;
 
   return (
-    <div className="flex min-h-0 flex-1 flex-col text-sm leading-relaxed text-zinc-200">
-      <div className="min-h-0 whitespace-pre-wrap break-words font-sans tracking-normal" style={{ fontFamily: jpFont }}>
+    <div className="flex w-full min-h-0 flex-col justify-start text-sm leading-relaxed text-zinc-900">
+      <div className="min-w-0 whitespace-pre-wrap break-words font-sans tracking-normal" style={{ fontFamily: jpFont }}>
         {segments.map((seg, wi) => (
           <span key={`jp-${wi}`}>
             {wi > 0 ? (
-              <span className="select-none text-zinc-600" aria-hidden>
+              <span className="select-none text-zinc-400" aria-hidden>
                 {" "}
               </span>
             ) : null}
@@ -260,25 +249,25 @@ function EmielTrialBody({
         ))}
       </div>
       <div
-        className="mt-2 min-h-[2.5rem] shrink-0 whitespace-pre-wrap break-all font-mono text-[11px] tracking-wide text-zinc-500 sm:text-xs"
-        aria-label="BAS reading に基づくローマ字ガイド"
+        className="mt-1.5 shrink-0 whitespace-pre-wrap break-all font-mono text-[11px] tracking-wide text-zinc-600 sm:text-xs"
+        aria-label="emiel オートマトンのローマ字（確定・未確定）"
       >
-        <span className="text-emerald-400/90">{finishedRoman}</span>
-        {Array.from(pendingRoman).map((ch, j) => (
+        <span className="text-emerald-700">{fr}</span>
+        {Array.from(pr).map((ch, j) => (
           <span
             key={`pr-${j}`}
             className={
               j === 0 && !finished
-                ? "rounded-sm bg-amber-900/50 px-0.5 text-amber-100 ring-1 ring-amber-500/80"
-                : "text-zinc-500"
+                ? "rounded-sm bg-amber-100 px-0.5 text-amber-950 ring-1 ring-amber-500"
+                : "text-zinc-600"
             }
           >
             {ch}
           </span>
         ))}
       </div>
-      <p className="mt-2 min-h-[2.75rem] shrink-0 text-[10px] leading-snug text-zinc-600">
-        琥珀枠はガイド上の次の 1 文字。emiel の内部経路と綴りが違う場合でも、表層・かなターゲットに沿って打鍵すれば確定します。
+      <p className="mb-0 mt-1.5 shrink-0 text-[10px] leading-snug text-zinc-600">
+        琥珀枠はオートマトン上の次の 1 文字。BAS の reading 綴りと違うことがありますが、上のかなターゲットに沿った打鍵が正です。
       </p>
     </div>
   );
@@ -366,6 +355,14 @@ export function TypingCanvas() {
     setInputEpoch((n) => n + 1);
   }, []);
 
+  /** 待機中: Enter / Space /「スタート」から共通 */
+  const startTrialFromLobby = useCallback(() => {
+    if (runPhaseRef.current !== "lobby") return;
+    if (!pendingLineRef.current || pendingWordsRef.current.length === 0) return;
+    setCountdownDigit(COUNTDOWN_SECONDS);
+    setRunPhase("countdown");
+  }, []);
+
   useEffect(() => {
     let cancelled = false;
     keyboard
@@ -428,12 +425,11 @@ export function TypingCanvas() {
       if (e.key !== "Enter" && e.key !== " ") return;
       if (!pendingLineRef.current || pendingWordsRef.current.length === 0) return;
       e.preventDefault();
-      setCountdownDigit(COUNTDOWN_SECONDS);
-      setRunPhase("countdown");
+      startTrialFromLobby();
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [runPhase, err]);
+  }, [runPhase, err, startTrialFromLobby]);
 
   useEffect(() => {
     if (runPhase !== "countdown") return;
@@ -508,6 +504,11 @@ export function TypingCanvas() {
       if (!auto) return;
       if (auto.finishedStroke.length >= TRIAL_STROKES) return;
 
+      // ローマ字オートマトンはストロークを keydown で扱う。keyup も input に渡すと、離鍵が再度
+      // `failed` になり failedInputCount が二重に増えやすい（体感 1 ミスで 2）。
+      // activateCompat 側の KeyboardState は keyup で更新済みなので、次の keydown の修飾状態は正しい。
+      if (e.input.type !== "keydown") return;
+
       const before = auto.finishedStroke.length;
       const result = auto.input(e);
       const after = auto.finishedStroke.length;
@@ -571,7 +572,6 @@ export function TypingCanvas() {
   const trial: StrokeTrialRenderState | null = strokeEng
     ? strokeEng.getRenderState(nowMs)
     : null;
-  const typingElapsedMs = trial?.elapsedMs ?? 0;
 
   const showGameSurface =
     (runPhase === "playing" || runPhase === "finished") && layout && auto && trial;
@@ -581,27 +581,14 @@ export function TypingCanvas() {
       : null;
 
   return (
-    <section className="space-y-3 rounded-lg border border-zinc-800 bg-zinc-900/40 p-4">
-      <p className="text-[11px] text-zinc-500">
-        ローマ字入力は{" "}
-        <a
-          className="text-amber-600/90 underline hover:text-amber-500"
-          href="https://github.com/tomoemon/emiel"
-          target="_blank"
-          rel="noreferrer"
-        >
-          emiel
-        </a>
-        （Mozc 相当）。キー配列は Chrome / Edge で自動検出（失敗時は QWERTY JIS 想定）。Firefox / Safari
-        では物理キー認識に制限がある場合があります（emiel README 参照）。
-      </p>
+    <section className="space-y-3 rounded-lg border border-zinc-200 bg-white p-4 shadow-sm">
       <div className="flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:items-end">
-        <label className="flex min-w-[min(100%,220px)] flex-1 flex-col gap-1 text-xs text-zinc-400">
-          <span className="font-medium text-zinc-300">語リスト（本家デコンパイル由来・全件）</span>
+        <label className="flex min-w-[min(100%,220px)] flex-1 flex-col gap-1 text-xs text-zinc-600">
+          <span className="font-medium text-zinc-800">語リスト（本家デコンパイル由来・全件）</span>
           <select
             value={deck}
             onChange={(e) => setDeck(e.target.value as DeckId)}
-            className="rounded-md border border-zinc-600 bg-zinc-950 px-2 py-2 text-sm text-zinc-100"
+            className="rounded-md border border-zinc-300 bg-white px-2 py-2 text-sm text-zinc-900"
           >
             {decksByGroup().map(({ group, ids }) => (
               <optgroup key={group} label={group}>
@@ -622,8 +609,8 @@ export function TypingCanvas() {
               onClick={() => setDeck(id)}
               className={
                 deck === id
-                  ? "rounded-md border border-amber-600/80 bg-amber-950/40 px-2 py-1 text-xs text-amber-100"
-                  : "rounded-md border border-zinc-700 bg-zinc-800/60 px-2 py-1 text-xs text-zinc-400 hover:bg-zinc-800"
+                  ? "rounded-md border border-amber-500 bg-amber-100 px-2 py-1 text-xs font-medium text-amber-950"
+                  : "rounded-md border border-zinc-200 bg-zinc-100 px-2 py-1 text-xs text-zinc-600 hover:bg-zinc-200"
               }
               title={DECKS[id].caption}
             >
@@ -635,125 +622,149 @@ export function TypingCanvas() {
       {err ? (
         <p className="text-sm text-red-400">{err}</p>
       ) : !layout ? (
-        <p className="text-sm text-zinc-500">キーボード配列を検出しています…</p>
+        <p className="text-sm text-zinc-600">キーボード配列を検出しています…</p>
       ) : runPhase === "loading" ? (
-        <p className="text-sm text-zinc-500">語リストを読み込んでいます…</p>
+        <p className="text-sm text-zinc-600">語リストを読み込んでいます…</p>
       ) : (
         <>
-          <p className="text-xs leading-relaxed text-zinc-500">
-            <kbd className="rounded border border-zinc-600 bg-zinc-900 px-1 py-0.5 font-mono text-[10px] text-zinc-300">
-              Enter
-            </kbd>{" "}
-            /{" "}
-            <kbd className="rounded border border-zinc-600 bg-zinc-900 px-1 py-0.5 font-mono text-[10px] text-zinc-300">
-              Space
-            </kbd>
-            で開始（{COUNTDOWN_SECONDS} 秒カウントダウンは下の帯）。ワード枠は常に同じ位置です。Esc
-            はカウントダウン中・試行中・終了後に待機へ（試行中・終了後は語を抽選し直し）。
-          </p>
+          <div className="space-y-2.5">
+            <TrialDeckHeading group={DECKS[deck].group} caption={DECKS[deck].caption} />
+            <TrialStatusStrip
+              runPhase={runPhase}
+              trialForStrip={trialForStrip}
+              missCount={
+                auto && (runPhase === "playing" || runPhase === "finished")
+                  ? auto.failedInputCount
+                  : null
+              }
+            />
+          </div>
 
-          <div className="space-y-2">
+          <div className="space-y-1.5">
             <div className={TRIAL_VIEWPORT_CLASS}>
-              <div className="shrink-0 min-h-[5.5rem] overflow-y-auto">
-                <TrialHintParagraph surfaceHint={DECKS[deck].surfaceHint} />
-              </div>
-              <div className="shrink-0 min-h-[2.75rem] text-sm leading-snug">
+              <div
+                className={
+                  "shrink-0 text-sm leading-snug " +
+                  (showGameSurface && trial.finished && trial.resultLevelId != null
+                    ? "min-h-[2.5rem] pb-0.5"
+                    : "min-h-0")
+                }
+              >
                 {showGameSurface && trial.finished && trial.resultLevelId != null ? (
-                  <p className="text-blue-400">
+                  <p className="m-0 text-blue-700">
                     {trial.resultLevelId === "-"
                       ? "試行終了 — チャート外（206s 以上帯）"
                       : `試行終了 — 国語Ｒラベル（Module1）: ${trial.resultLevelId}`}
                   </p>
                 ) : null}
               </div>
-              <div className="mt-2 flex min-h-0 min-w-0 flex-1 flex-col overflow-hidden rounded border border-dashed border-zinc-700/80 bg-zinc-950/25 px-3 py-2">
-                <div className="min-h-0 flex-1 overflow-y-auto">
-                  {showGameSurface && auto && trial ? (
-                    <EmielTrialBody
-                      segments={trialWords}
-                      emielTargetLine={emielTargetLine}
-                      automaton={auto}
-                      trial={trial}
-                    />
-                  ) : (
-                    <div className="text-sm leading-relaxed text-zinc-500">
-                      {runPhase === "countdown" ? (
-                        <span aria-live="polite">まもなくこの枠に問題が表示されます</span>
-                      ) : runPhase === "playing" ? (
-                        <span>オートマトンを準備しています…</span>
-                      ) : (
-                        <span>この枠内にワードセットが表示されます</span>
-                      )}
-                    </div>
-                  )}
-                </div>
+              <div className="mt-1 w-full shrink-0 rounded border border-dashed border-zinc-300 bg-zinc-50 px-2.5 py-1.5">
+                {showGameSurface && auto && trial ? (
+                  <EmielTrialBody segments={trialWords} automaton={auto} trial={trial} />
+                ) : (
+                  <div className="text-sm leading-relaxed text-zinc-600">
+                    {runPhase === "countdown" ? (
+                      <span aria-live="polite">まもなくこの枠に問題が表示されます</span>
+                    ) : runPhase === "playing" ? (
+                      <span>オートマトンを準備しています…</span>
+                    ) : (
+                      <span>この枠内にワードセットが表示されます</span>
+                    )}
+                  </div>
+                )}
               </div>
             </div>
-            <div className="min-h-[1.375rem] text-xs text-zinc-500">
+            <div className="min-h-[1.375rem] text-xs text-zinc-600">
               {showGameSurface && trial ? (
-                <p>
-                  進捗 {Math.round(trial.progress01 * 100)}% · pace:{" "}
-                  <span className="text-zinc-400">{trial.paceColor}</span>
-                  {" · "}
-                  確定ストローク {trial.confirmedStrokeCount} / {trial.trialStrokeCount}
+                <p
+                  className="m-0"
+                  title={`内製ペース EMA: ${trial.paceColor}（補助指標・ツールチップのみ）`}
+                >
+                  進捗 {Math.round(trial.progress01 * 100)}% — 確定ストローク{" "}
+                  {trial.confirmedStrokeCount} / {trial.trialStrokeCount}
                 </p>
               ) : (
-                <p className="invisible select-none" aria-hidden>
-                  進捗 000% · pace: gray · 確定ストローク 000 / {TRIAL_STROKES}
+                <p className="invisible m-0 select-none" aria-hidden>
+                  進捗 000% — 確定ストローク 000 / {TRIAL_STROKES}
                 </p>
               )}
             </div>
+            <div className="shrink-0">
+              <div className={TYPING_STATS_LAPS_BOX_CLASS}>
+                <div className="min-h-0 flex-1 overflow-y-auto overflow-x-hidden">
+                  <span className="font-medium text-zinc-600">
+                    {LAP_STROKE_INTERVAL} 打鍵ごとのラップ（その区間の秒）:{" "}
+                  </span>
+                  <span
+                    className={
+                      trialForStrip && laps.length > 0 ? "text-zinc-800" : "text-zinc-600"
+                    }
+                  >
+                    {trialForStrip && laps.length > 0
+                      ? laps.map((L) => `${L.stroke}: ${formatSeconds(L.segmentMs)}`).join(" · ")
+                      : trialForStrip
+                        ? "試行中、区間ごとの秒がここに並びます。"
+                        : "（試行を開始すると表示されます）"}
+                  </span>
+                </div>
+              </div>
+            </div>
           </div>
 
-          <div className="flex flex-col gap-2 border-t border-zinc-800/80 pt-2 text-xs text-zinc-400 sm:text-sm">
+          <div className="-mt-1 shrink-0">
+            <Module1ChartLadderRow runPhase={runPhase} trialForStrip={trialForStrip} />
+          </div>
+
+          <div className="border-t border-zinc-200 pt-2 text-xs text-zinc-600 sm:text-sm">
             <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
+              {runPhase === "lobby" && !err ? (
+                <button
+                  type="button"
+                  onClick={startTrialFromLobby}
+                  className="rounded bg-amber-600 px-3 py-1 font-medium text-white hover:bg-amber-500 disabled:cursor-not-allowed disabled:bg-zinc-300 disabled:text-zinc-500"
+                  disabled={!pendingWordsRef.current.length || !pendingLineRef.current}
+                >
+                  スタート
+                </button>
+              ) : null}
               <button
                 type="button"
                 onClick={restart}
-                className="rounded bg-zinc-700 px-3 py-1 text-zinc-100 hover:bg-zinc-600"
+                className="rounded bg-zinc-800 px-3 py-1 text-white hover:bg-zinc-700"
               >
                 もう一度
               </button>
               {runPhase === "countdown" ? (
                 <span
-                  className="inline-flex items-baseline gap-1.5 rounded border border-amber-700/40 bg-amber-950/25 px-2 py-0.5 tabular-nums text-amber-100"
+                  className="inline-flex items-baseline gap-1.5 rounded border border-amber-300 bg-amber-50 px-2 py-0.5 tabular-nums text-amber-950"
                   aria-live="assertive"
                   aria-label="カウントダウン"
                 >
-                  <span className="text-[10px] font-normal uppercase tracking-wide text-amber-500/90">
+                  <span className="text-[10px] font-normal uppercase tracking-wide text-amber-800">
                     開始まで
                   </span>
                   <span className="text-lg font-semibold leading-none" key={countdownDigit}>
                     {countdownDigit}
                   </span>
-                  <span className="text-[10px] text-amber-600/90">秒</span>
+                  <span className="text-[10px] text-amber-800">秒</span>
                 </span>
               ) : null}
               {trialForStrip ? (
-                <>
-                  <span>
-                    確定ストローク {trialForStrip.confirmedStrokeCount} / {trialForStrip.trialStrokeCount}（
-                    {DECKS[deck].caption}・国語Ｒ採点）
-                  </span>
-                  <span className="text-zinc-300">
-                    打鍵時間（初回確定〜終了、完了後は固定） {formatSeconds(typingElapsedMs)}
-                  </span>
-                </>
+                <span>
+                  確定ストローク {trialForStrip.confirmedStrokeCount} / {trialForStrip.trialStrokeCount}（
+                  {DECKS[deck].caption}・国語Ｒ採点）
+                </span>
               ) : (
                 <span className="text-zinc-500">経過・ストロークは試行開始後に表示されます</span>
               )}
             </div>
-            {laps.length > 0 && trialForStrip ? (
-              <div className="rounded border border-zinc-800 bg-black/40 px-3 py-2 text-xs text-zinc-400">
-                <span className="font-medium text-zinc-500">
-                  {LAP_STROKE_INTERVAL} 打鍵ごとのラップ（その区間の秒）:{" "}
-                </span>
-                <span className="text-zinc-300">
-                  {laps.map((L) => `${L.stroke}: ${formatSeconds(L.segmentMs)}`).join(" · ")}
-                </span>
-              </div>
-            ) : null}
           </div>
+
+          <PracticeSettingsStubHub
+            countdownSeconds={COUNTDOWN_SECONDS}
+            surfaceHint={DECKS[deck].surfaceHint}
+            trialStrokeCount={TRIAL_STROKES}
+          />
         </>
       )}
     </section>

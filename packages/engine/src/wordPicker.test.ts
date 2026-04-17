@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest";
 import { readFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { mozcMinStrokesForHiraganaLine } from "./emielStrokeBudget.js";
 import { mulberry32 } from "./rng.js";
 import type { WordEntry } from "./types.js";
 import type { JouTripleRow } from "./twelljr/jouSample.js";
@@ -49,7 +50,7 @@ describe("buildTrialReading", () => {
 });
 
 describe("buildTrialSurfaceLine", () => {
-  it("joins typingKana with spaces and meets kana-unit budget (scaled to emiel stroke quota)", () => {
+  it("joins typingKana with spaces until emiel shortest strokes reach trial + reserve", () => {
     const trial = 400;
     const reserve = 8;
     const { words, emielTargetLine } = buildTrialSurfaceLine(
@@ -60,14 +61,9 @@ describe("buildTrialSurfaceLine", () => {
       4,
       reserve
     );
-    const units =
-      words.reduce((n, w) => n + w.typingKana.length, 0) +
-      Math.max(0, words.length - 1);
-    const targetKana = Math.ceil(trial * 0.52);
-    expect(units).toBeGreaterThanOrEqual(targetKana);
-    expect(units).toBeLessThanOrEqual(targetKana + reserve + 12);
     expect(emielTargetLine).toBe(words.map((w) => w.typingKana).join(" "));
     expect(emielTargetLine).toMatch(/ /);
+    expect(mozcMinStrokesForHiraganaLine(emielTargetLine)).toBeGreaterThanOrEqual(trial + reserve);
   });
 
   it("includes kanji-surface words using romaji-derived kana", () => {
@@ -89,9 +85,10 @@ describe("buildTrialSurfaceLine", () => {
     );
     expect(words.length).toBeGreaterThan(0);
     expect(emielTargetLine).toContain("あいしゅう");
+    expect(mozcMinStrokesForHiraganaLine(emielTargetLine)).toBeGreaterThanOrEqual(12);
   });
 
-  it("on real Jou1 JSON, picked words stay near scaled kana budget (matches ~400 emiel strokes)", () => {
+  it("on real Jou1 JSON, shortest-path stroke budget reaches trial + reserve", () => {
     const rows = JSON.parse(readFileSync(jou1PublicPath, "utf8")) as JouTripleRow[];
     const words = jouTriplesToWordEntries(rows, "kihon");
     const { words: picked, emielTargetLine } = buildTrialSurfaceLine(
@@ -102,19 +99,14 @@ describe("buildTrialSurfaceLine", () => {
       8,
       8
     );
-    const units =
-      picked.reduce((n, w) => n + w.typingKana.length, 0) +
-      Math.max(0, picked.length - 1);
-    const readingSum = picked.reduce((n, w) => n + w.reading.length, 0);
-    const targetKana = Math.ceil(400 * 0.52);
-    expect(units).toBeGreaterThanOrEqual(targetKana);
-    expect(units).toBeLessThan(targetKana + 40);
-    expect(picked.length).toBeLessThan(200);
-    expect(readingSum).toBeLessThan(1400);
-    expect(emielTargetLine.length).toBeLessThan(450);
+    const minStrokes = mozcMinStrokesForHiraganaLine(emielTargetLine);
+    expect(minStrokes).toBeGreaterThanOrEqual(408);
+    expect(minStrokes).toBeLessThan(900);
+    expect(picked.length).toBeLessThan(400);
+    expect(emielTargetLine.length).toBeLessThan(900);
   });
 
-  it("on real Koto1 JSON, picked line is not reading×3 scale", () => {
+  it("on real Koto1 JSON, shortest-path stroke budget reaches trial + reserve", () => {
     const rows = JSON.parse(readFileSync(koto1PublicPath, "utf8")) as JouTripleRow[];
     const words = jouTriplesToWordEntries(rows, "kanyoku");
     const { words: picked, emielTargetLine } = buildTrialSurfaceLine(
@@ -125,15 +117,10 @@ describe("buildTrialSurfaceLine", () => {
       8,
       8
     );
-    const units =
-      picked.reduce((n, w) => n + w.typingKana.length, 0) +
-      Math.max(0, picked.length - 1);
-    const readingSum = picked.reduce((n, w) => n + w.reading.length, 0);
-    const targetKana = Math.ceil(400 * 0.52);
-    expect(units).toBeGreaterThanOrEqual(targetKana);
-    expect(units).toBeLessThan(targetKana + 40);
-    expect(readingSum).toBeLessThan(1800);
-    expect(picked.length).toBeLessThan(90);
-    expect(emielTargetLine.length).toBeLessThan(500);
+    const minStrokes = mozcMinStrokesForHiraganaLine(emielTargetLine);
+    expect(minStrokes).toBeGreaterThanOrEqual(408);
+    expect(minStrokes).toBeLessThan(1200);
+    expect(picked.length).toBeLessThan(200);
+    expect(emielTargetLine.length).toBeLessThan(1200);
   });
 });

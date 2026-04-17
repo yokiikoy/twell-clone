@@ -12,7 +12,8 @@
     "build:web": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/build-web.ps1",
     "build:workspace": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/build-workspace.ps1",
     "build": "npm run build -w @typewell-jr/engine && npm run build -w web",
-    "dictionary:parse": "tsx scripts/dictionary/parse-detail-log.ts"
+    "dictionary:parse": "tsx scripts/dictionary/parse-detail-log.ts",
+    "gen:tsuikyo-roma": "node scripts/twelljr/gen-tsuikyo-roma-pairs.mjs"
   },
   "devDependencies": {
     "tsx": "^4.19.2"

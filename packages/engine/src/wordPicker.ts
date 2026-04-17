@@ -1,4 +1,5 @@
 import type { GameMode, WordEntry } from "./types.js";
+import { mozcMinStrokesForHiraganaLine } from "./emielStrokeBudget.js";
 import { romajiToTypingKana } from "./twelljr/romajiTypingKana.js";
 
 type Random = () => number;
@@ -23,31 +24,6 @@ function surfacePrefixForPartialWord(
 
 function wordsForMode(dict: WordEntry[], mode: GameMode): WordEntry[] {
   return dict.filter((w) => w.mode === mode);
-}
-
-/**
- * emiel ターゲット行の「打鍵見積り単位」: 各語の `typingKana` 文字数 + 語間スペース（`TypingCanvas` の進捗と同じ尺）。
- */
-function emielLineTypingUnits(words: readonly WordEntry[]): number {
-  if (words.length === 0) return 0;
-  let n = words.length - 1;
-  for (const w of words) n += w.typingKana.length;
-  return n;
-}
-
-/**
- * 語を拾いすぎないための停止用バジェット。`typingKana` だけだと 1 文字語が多いときに語数が膨らむので、
- * BAS の `reading` 長（概ねローマ字打鍵の目安）を同時に見る。
- */
-function linePickBudgetUnits(words: readonly WordEntry[]): number {
-  if (words.length === 0) return 0;
-  let n = words.length - 1;
-  for (const w of words) {
-    const tk = w.typingKana.length;
-    const rk = Math.ceil(w.reading.length / 2.5);
-    n += Math.max(tk, rk);
-  }
-  return n;
 }
 
 /**
@@ -113,19 +89,12 @@ export function buildTrialReading(
 }
 
 /**
- * emiel の `finishedStroke.length` は **ローマ字の確定ストローク**（かな 1 文字あたり複数になりがち）。
- * 表示行の「かな＋語間スペース」尺を `trialStrokeCount` と 1:1 にすると、試行終了時に行の半分付近で止まるため、
- * 目標尺を係数で縮める（実測に近い ~0.52 を既定。必要なら呼び出し側で調整）。
- */
-const DEFAULT_KANA_UNITS_PER_TRIAL_STROKE = 0.52;
-
-/**
  * emiel 用の **ひらがな** 行（語ごとの `typingKana` をスペース連結）。
  * `typingKana` は BAS のローマ字 `reading` から生成（[`romajiToTypingKana`](./twelljr/romajiTypingKana.ts)）。
  *
- * 停止は `linePickBudgetUnits` と `emielLineTypingUnits` がともに
- * `targetKanaUnits + reserveTypingUnits` / `targetKanaUnits` に達するまで。
- * `targetKanaUnits = ceil(trialStrokeCount * kanaUnitsPerTrialStroke)`。
+ * 停止条件: 連結した行に対し **emiel の最短ローマ打鍵数**（`mozcMinStrokesForHiraganaLine`）が
+ * `trialStrokeCount + reserveMinStrokes` 以上になるまで語をランダムに追加する。
+ * 経験係数は使わない（QWERTY JIS 固定で emiel と同じ前提）。
  */
 export function buildTrialSurfaceLine(
   dict: WordEntry[],
@@ -133,28 +102,22 @@ export function buildTrialSurfaceLine(
   trialStrokeCount: number,
   rand: Random,
   avoidRepeatWindow: number,
-  reserveTypingUnits = 8,
-  kanaUnitsPerTrialStroke = DEFAULT_KANA_UNITS_PER_TRIAL_STROKE
+  reserveMinStrokes = 8
 ): { words: WordEntry[]; emielTargetLine: string } {
   const pool = wordsForMode(dict, mode);
   if (pool.length === 0) {
     throw new Error(`No dictionary entries for mode ${mode}`);
   }
-  const targetKanaUnits = Math.max(
-    8,
-    Math.ceil(trialStrokeCount * kanaUnitsPerTrialStroke)
-  );
-  const targetBudget = targetKanaUnits + reserveTypingUnits;
+  const targetMinStrokes = trialStrokeCount + reserveMinStrokes;
   const picked: WordEntry[] = [];
   const recent: string[] = [];
   let guard = 0;
-  while (
-    !(
-      linePickBudgetUnits(picked) >= targetBudget &&
-      emielLineTypingUnits(picked) >= targetKanaUnits
-    ) &&
-    guard < trialStrokeCount * 80
-  ) {
+  const lineStrokes = (words: WordEntry[]) =>
+    words.length === 0
+      ? 0
+      : mozcMinStrokesForHiraganaLine(words.map((w) => w.typingKana).join(" "));
+
+  while (lineStrokes(picked) < targetMinStrokes && guard < trialStrokeCount * 80) {
     guard++;
     const w = pool[Math.floor(rand() * pool.length)]!;
     const sig = `${w.surface}\0${w.reading}`;

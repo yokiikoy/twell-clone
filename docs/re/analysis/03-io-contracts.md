@@ -32,7 +32,7 @@ Strings embedded in the VB Decompiler export (mostly under [`twjrdecomp/*.frm`](
 | Class | Status |
 |-------|--------|
 | Registry | No literals like `Software\` spotted in this grep pass — **re-scan** with `strings` on EXE or API monitor in Phase 6. |
-| HTTP / Web | **`dumpbin /IMPORTS`** on the canonical EXE lists **only `MSVBVM60.DLL`** — no static **`WININET` / `WS2_32` / `URLMON`** imports ([EXP-20260417-PE](06-dynamic-notes.md#exp-20260417-pe)). **`mnuWeb_Click`** opens `http://www.twfan.com/` with **`ShellExecute`** (default browser) per `frmMain.frm` pcode. **`frmWebrkg` (WebRanking):** export + EXE substring scan show **no** WinInet/MSXML/socket strings; pcode uses **`OpenFile`** on `Time*.log` and **`ShellExecute`** ([EXP-20260417-WEB](06-dynamic-notes.md#exp-20260417-web)). Live **API Monitor** on the running form remains optional hardening if policy requires process-level proof. |
+| HTTP / Web | **`dumpbin /IMPORTS`** on the canonical EXE lists **only `MSVBVM60.DLL`** — no static **`WININET` / `WS2_32` / `URLMON`** imports ([EXP-20260417-PE](06-dynamic-notes.md#exp-20260417-pe)). **`mnuWeb_Click`** opens `http://www.twfan.com/` with **`ShellExecute`** (default browser) per `frmMain.frm` pcode. **Web 再現:** TwFan 閉鎖のため **非公式ミラー** `http://tanon710.s500.xrea.com/typewell_mirror/index.html` を開く。 **`frmWebrkg` (WebRanking):** export + EXE substring scan show **no** WinInet/MSXML/socket strings; pcode uses **`OpenFile`** on `Time*.log` and **`ShellExecute`** ([EXP-20260417-WEB](06-dynamic-notes.md#exp-20260417-web)). Live **API Monitor** on the running form remains optional hardening if policy requires process-level proof. |
 
 ## Contract table template
 

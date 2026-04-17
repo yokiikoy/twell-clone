@@ -20,12 +20,14 @@ export {
   type StrokeTrialRenderState,
 } from "./strokeTrialEngine.js";
 export { buildTrialReading, buildTrialSurfaceLine } from "./wordPicker.js";
+export { mozcMinStrokesForHiraganaLine } from "./emielStrokeBudget.js";
 export { romajiToTypingKana } from "./twelljr/romajiTypingKana.js";
 export {
   basRomanTypingGuide,
   longestBasReadingPrefixForTypedKana,
 } from "./twelljr/basRomanTypingGuide.js";
 export {
+  MODULE1_CHART_LABEL_ORDER,
   twellJrBigRunFontFamilyHint,
   twellJrGoalKeyPacing,
   twellJrLabelFromTotalSeconds,

@@ -5,7 +5,7 @@
 | Item | Decision |
 |------|----------|
 | Primary target | `TWellJR.exe` (国語Ｒ), VB6 project per [`twjrdecomp/Project.vbp`](../../twjrdecomp/Project.vbp) |
-| In-repo artifacts | VB Decompiler export under [`twjrdecomp/`](../../twjrdecomp/); analysis notes under `docs/re/analysis/` |
+| In-repo artifacts | VB Decompiler export under `twjrdecomp/` **local only** (not in git; see [`twjrdecomp/README.md`](../../twjrdecomp/README.md)); analysis notes under `docs/re/analysis/` |
 | Out-of-repo artifacts | Original install folder (e.g. Dropbox `TWJR216`); optional companion EXEs per [binary-inventory](../binary-inventory.md) |
 | Redistribution | Do not publish full decompilation dumps publicly without rights review. This tree stores **notes and tables**, not the EXE. |
 

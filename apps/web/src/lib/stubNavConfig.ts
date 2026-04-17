@@ -12,14 +12,20 @@ export const NAV_RECORD: StubNavItem[] = [
   { href: "/records/web-ranking", label: "Webランキング" },
 ];
 
-export const NAV_SETTINGS: StubNavItem[] = [
-  { href: "/settings/roman", label: "ローマ字表示" },
-  { href: "/settings/indicator", label: "目標インジケータ" },
-  { href: "/settings/miss", label: "ミス音" },
-  { href: "/settings/elapsed-bands", label: "経過時間帯" },
-  { href: "/settings/weak-words", label: "苦手設定" },
-  { href: "/settings/kana-by-kana", label: "カナ別練習" },
-];
+/** 設定メニュー（本家 `frm*.frm` 対応）— `NAV_SETTINGS` の単一ソース */
+export const NAV_SETTINGS_META = [
+  { href: "/settings/roman", label: "ローマ字表示", vbForm: "frmSetting.frm" },
+  { href: "/settings/indicator", label: "目標インジケータ", vbForm: "frmIndicator.frm" },
+  { href: "/settings/miss", label: "ミス音", vbForm: "frmMiss.frm" },
+  { href: "/settings/elapsed-bands", label: "経過時間帯", vbForm: "frmKeikaTime.frm" },
+  { href: "/settings/weak-words", label: "苦手設定", vbForm: "frmNigaSettei.frm" },
+  { href: "/settings/kana-by-kana", label: "カナ別練習", vbForm: "frmRomeBetu.frm" },
+] as const satisfies readonly { href: string; label: string; vbForm: string }[];
+
+export const NAV_SETTINGS: StubNavItem[] = NAV_SETTINGS_META.map(({ href, label }) => ({
+  href,
+  label,
+}));
 
 export const NAV_CHARTS: StubNavItem[] = [
   { href: "/charts/ranking", label: "ランキング・チャート（FormD）" },
@@ -36,4 +42,12 @@ export const NAV_SYSTEM: StubNavItem[] = [
   { href: "/session/end", label: "終了（案内）" },
 ];
 
-export const TW_FAN_URL = "https://www.twfan.com/";
+/**
+ * 元コミュニティサイト（`https://www.twfan.com/`）は閉鎖のため、**非公式ミラー**へ誘導する。
+ * @see http://tanon710.s500.xrea.com/typewell_mirror/index.html
+ */
+export const TYPEWELL_MIRROR_URL =
+  "http://tanon710.s500.xrea.com/typewell_mirror/index.html";
+
+/** @deprecated 互換名。`TYPEWELL_MIRROR_URL` と同一。 */
+export const TW_FAN_URL = TYPEWELL_MIRROR_URL;

@@ -35,6 +35,7 @@
     "vitest": "^3.2.4"
   },
   "dependencies": {
+    "emiel": "^0.1.6",
     "iconv-lite": "^0.7.2",
     "wanakana": "^5.3.1"
   }

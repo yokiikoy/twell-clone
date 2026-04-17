@@ -48,6 +48,8 @@ flowchart LR
 | `frmMain.mnuReadMe_Click` | OS **`ShellExecute`** on `ReadMe.txt` | `50CECC` | high |
 | `frmMain.mnuWeb_Click` | OS **`ShellExecute`** on `http://www.twfan.com/` | `509ECC` | high |
 
+（TwFan 閉鎖後の Web 再現では、**非公式ミラー** `http://tanon710.s500.xrea.com/typewell_mirror/index.html` を開く。）
+
 ## Next steps
 
 1. Add **mode start** edges (`Call Proc_0_131_557108`, `FormT` → `Jou*` / `Kata*`, …) once a single trial path is traced end-to-end.  

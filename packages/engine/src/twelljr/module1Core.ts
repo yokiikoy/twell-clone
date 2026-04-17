@@ -51,6 +51,9 @@ const LABEL_LADDER: readonly (readonly [number, string])[] = [
   [206, "J"],
 ] as const;
 
+/** Module1 chart letters in ladder order (ZS … J); for segment UI only. */
+export const MODULE1_CHART_LABEL_ORDER: readonly string[] = LABEL_LADDER.map(([, l]) => l);
+
 /**
  * Total trial seconds (`arg_C` as Single) → chart letter / dash.
  * Matches VB: `>=206` uses `GeR8` → `"-"`.

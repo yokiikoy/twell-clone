@@ -56,7 +56,7 @@
 | `mnuKidou_Click` | `BootLogPage` | `/records/boot-log` | スタブ | |
 | `mnuZenrireki_Click` | `FullHistoryPage` | `/records/full-history` | スタブ | |
 | `mnuReadMe_Click` | 静的ヘルプ | `/help/readme` | スタブ | 本家は `ReadMe.txt` を ShellExecute |
-| `mnuWeb_Click` | 外部 URL | `https://www.twfan.com/` | 完了 | メニューから `target=_blank` のみ（本家委譲） |
+| `mnuWeb_Click` | 外部 URL | `http://tanon710.s500.xrea.com/typewell_mirror/index.html`（**非公式ミラー**） | 完了 | 本家 EXE は `http://www.twfan.com/`（TwFan 閉鎖）。Web はミラーへ `target=_blank` |
 | `mnuEnd_Click` / `mnuEndb_Click` | セッション終了案内 | `/session/end` | スタブ | Web ではタブ閉じる案内 |
 | `mnuKako10P` 等 → `FormD` | `RankingChartDialog` | `/charts/ranking` | スタブ | 共有チャート面 |
 | `Timer1_Timer` → `frmKeikoku` | 警告 | `/system/alert` | スタブ | インラインは未実装 |

@@ -37,20 +37,19 @@ Source folder (local machine, not in repo): `C:\Users\hotwa\Dropbox\TWJR216`.
 - `DetailLog/` — many per-run text traces (good for golden-test *input shapes*, not for redistributing verbatim in OSS).
 - `twrt/`, `twtoweb/` — build artifacts / Python runtimes (large); not required for the web clone MVP.
 
-## VB Decompiler export (in this repo)
+## VB Decompiler export（Git には含めない）
 
-`twjrdecomp/` — VB Decompiler **project-style export** of `TWellJR.exe` (see `Project.vbp` footer `[VB Decompiler]` build stamp). Structured RE notes live in **[`docs/re/analysis/README.md`](analysis/README.md)**.
+`twjrdecomp/` は **ローカル専用**です（リポジトリの `.gitignore` で `*.bas` / `*.frm` 等を除外し、この説明の `README.md` のみ追跡）。クローン後に、手元の VB Decompiler エクスポートをここへ展開してください。
 
-`twjrdecomp/` contains:
+**実行時に参照されるのは** Next.js が配信する **`apps/web/public/twelljr-*.json`（語表）** のみです。`twjrdecomp/` は `packages/engine` の抽出スクリプト実行時だけ必要です。
 
-- `Project.vbp` — VB6 project list (`ExeName32="TWellJR.exe"`, startup `frmMain`, version 2.23).
-- `*.frm` — form definitions (e.g. `frmMain.frm` is large; captions may show mojibake depending on export encoding).
-- `*.bas` — modules with **P-code style listings** (e.g. `Module1.bas` includes `Proc_1_0_51B39C` with literal level strings `ZA`…`J` and thresholds as `LitI2_Byte` / `LtR8` chains — useful to cross-check `packages/engine/src/level.ts`).
+エクスポートの内容例（参考・ローカルに置いたときの話）:
 
-Binary form companions (`.frx` etc.) may live next to the original EXE or need a separate extract; this folder listing is mostly text.
+- `Project.vbp` — VB6 プロジェクト一覧（`ExeName32="TWellJR.exe"`、`frmMain` 起動など）。
+- `*.frm` / `*.bas` — フォーム定義と P-code 風リスティング（解析・`docs/re/analysis/` の根拠）。
 
-If the repository is **public**, confirm you are allowed to **redistribute** this export; otherwise keep `twjrdecomp/` private or out of git.
+公開リポジトリでは **エクスポート一式を push しない**運用にしてください。検証済みの式は `docs/spec/` や TypeScript（`packages/engine`）へ昇格させます。
 
 ## Decompilation note
 
-VB Decompiler is **GUI / Windows-native**. Use `twjrdecomp/` as the persisted dump for Cursor-assisted analysis; promote **verified** formulas into `docs/spec/` and TypeScript as they are confirmed against `ReadMe.txt` / `DetailLog`.
+VB Decompiler は **Windows 向け GUI** です。`twjrdecomp/` は Cursor 等での解析用ダンプとしてローカルに保持し、`ReadMe.txt` / `DetailLog` と突き合わせて確認した内容をドキュメント・コードへ反映します。

@@ -2,7 +2,7 @@
 
 Structured analysis of **`TWellJR.exe`** (タイプウェル国語Ｒ) per the project plan. **Primary inputs:**
 
-- VB Decompiler export: [`twjrdecomp/`](../../twjrdecomp/) (`Project.vbp`, `*.frm`, `*.bas`)
+- VB Decompiler export: [`twjrdecomp/`](../../twjrdecomp/)（**Git 未収録・ローカル展開**; `README.md` 参照）
 - Installed game folder (out of repo): see [binary-inventory](../binary-inventory.md)
 
 ## Phase index
@@ -27,6 +27,7 @@ Structured analysis of **`TWellJR.exe`** (タイプウェル国語Ｒ) per the p
 - Binary / file inventory: [../binary-inventory.md](../binary-inventory.md)
 - **Web reproduction roadmap:** [../web-reproduction-roadmap.md](../web-reproduction-roadmap.md)
 - **Web surface matrix:** [../web-surface-matrix.md](../web-surface-matrix.md)
+- **外部 Web クローン（UI ぽさ・LLM 手がかり、非正典）:** [../external-clone-ui-reference.md](../external-clone-ui-reference.md)
 - Behavior baseline (logs, tests policy): [../../spec/behavior-baseline.md](../../spec/behavior-baseline.md)
 
 ## Progress checklist
