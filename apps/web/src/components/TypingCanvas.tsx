@@ -244,6 +244,14 @@ const MERGED_TAB_ORDER: readonly MergedContentTab[] = [
   "kanyoku",
 ];
 
+/** F1–F4 → 合成タブ（常用・カタカナ・漢字・慣用句） */
+const FN_TO_MERGED_TAB: readonly (readonly [string, MergedContentTab])[] = [
+  ["F1", "kihon"],
+  ["F2", "katakana"],
+  ["F3", "kanji"],
+  ["F4", "kanyoku"],
+];
+
 function groupOrder(a: string, b: string): number {
   const order = ["基本常用", "漢字", "カタカナ", "慣用"];
   return order.indexOf(a) - order.indexOf(b);
@@ -616,6 +624,21 @@ export function TypingCanvas() {
   }, [runPhase, beginPlaySession]);
 
   useEffect(() => {
+    const onFnMode = (e: KeyboardEvent) => {
+      if (e.ctrlKey || e.metaKey || e.altKey) return;
+      const phase = runPhaseRef.current;
+      if (phase === "playing" || phase === "countdown") return;
+      const hit = FN_TO_MERGED_TAB.find(([k]) => k === e.key);
+      if (!hit) return;
+      e.preventDefault();
+      setPickerView("merged");
+      setMergedTab(hit[1]);
+    };
+    window.addEventListener("keydown", onFnMode);
+    return () => window.removeEventListener("keydown", onFnMode);
+  }, []);
+
+  useEffect(() => {
     const onEsc = (e: KeyboardEvent) => {
       if (e.key !== "Escape") return;
       const phase = runPhaseRef.current;
@@ -794,6 +817,9 @@ export function TypingCanvas() {
               単一 JSON
             </button>
           </div>
+          <p className="m-0 mt-1 text-[10px] text-zinc-500">
+            ショートカット: F1 常用 · F2 カタカナ · F3 漢字 · F4 慣用句（試行・カウントダウン中は無効）
+          </p>
         </div>
 
         {pickerView === "single" ? (
