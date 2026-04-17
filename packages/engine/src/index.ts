@@ -19,7 +19,16 @@ export {
   type StrokeTrialEngine,
   type StrokeTrialRenderState,
 } from "./strokeTrialEngine.js";
-export { buildTrialReading, buildTrialSurfaceLine } from "./wordPicker.js";
+export {
+  buildTrialReading,
+  buildTrialSurfaceLine,
+  buildTrialSurfaceLineMerged,
+  MERGED_WEIGHTS_KANJI,
+  MERGED_WEIGHTS_KATAKANA,
+  MERGED_WEIGHTS_KIHON,
+  MERGED_WEIGHTS_KANYOKU,
+  type MergedSurfaceLineWeightSpec,
+} from "./wordPicker.js";
 export { mozcMinStrokesForHiraganaLine } from "./emielStrokeBudget.js";
 export { romajiToTypingKana } from "./twelljr/romajiTypingKana.js";
 export {

@@ -4,6 +4,8 @@ dist
 .turbo
 coverage
 out
+# Local DetailLog batch reports (machine-specific paths)
+logs/
 *.log
 .env
 .env*.local

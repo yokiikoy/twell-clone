@@ -19,7 +19,8 @@ export interface JouTripleRow {
 
 export function jouTriplesToWordEntries(
   rows: readonly JouTripleRow[],
-  mode: GameMode = "kihon"
+  mode: GameMode = "kihon",
+  sourceDeck?: 1 | 2 | 3
 ): WordEntry[] {
   return rows.map((r) => {
     const reading = r.reading.toLowerCase();
@@ -28,11 +29,12 @@ export function jouTriplesToWordEntries(
       (isPlainHiraganaSurface(r.surface)
         ? r.surface.normalize("NFC")
         : romajiToTypingKana(reading));
-    return {
+    const base = {
       surface: r.surface,
       reading,
       typingKana,
       mode,
     };
+    return sourceDeck != null ? { ...base, sourceDeck } : base;
   });
 }

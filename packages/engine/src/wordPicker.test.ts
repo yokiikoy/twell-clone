@@ -7,7 +7,11 @@ import { mulberry32 } from "./rng.js";
 import type { WordEntry } from "./types.js";
 import type { JouTripleRow } from "./twelljr/jouSample.js";
 import { jouTriplesToWordEntries } from "./twelljr/jouSample.js";
-import { buildTrialReading, buildTrialSurfaceLine } from "./wordPicker.js";
+import {
+  buildTrialReading,
+  buildTrialSurfaceLine,
+  buildTrialSurfaceLineMerged,
+} from "./wordPicker.js";
 
 const jou1PublicPath = join(
   dirname(fileURLToPath(import.meta.url)),
@@ -104,6 +108,30 @@ describe("buildTrialSurfaceLine", () => {
     expect(minStrokes).toBeLessThan(900);
     expect(picked.length).toBeLessThan(400);
     expect(emielTargetLine.length).toBeLessThan(900);
+  });
+
+  it("buildTrialSurfaceLineMerged reaches stroke budget with 3-way split Jou1", () => {
+    const rows = JSON.parse(readFileSync(jou1PublicPath, "utf8")) as JouTripleRow[];
+    const n = rows.length;
+    const a = Math.ceil(n / 3);
+    const b = Math.ceil((2 * n) / 3);
+    const merged: WordEntry[] = [
+      ...jouTriplesToWordEntries(rows.slice(0, a), "kihon", 1),
+      ...jouTriplesToWordEntries(rows.slice(a, b), "kihon", 2),
+      ...jouTriplesToWordEntries(rows.slice(b), "kihon", 3),
+    ];
+    const { words, emielTargetLine } = buildTrialSurfaceLineMerged(
+      merged,
+      "kihon",
+      400,
+      mulberry32(42),
+      8,
+      { kind: "three", weights: [1, 1, 1] },
+      8
+    );
+    const minStrokes = mozcMinStrokesForHiraganaLine(emielTargetLine);
+    expect(minStrokes).toBeGreaterThanOrEqual(408);
+    expect(words.every((w) => w.sourceDeck != null)).toBe(true);
   });
 
   it("on real Koto1 JSON, shortest-path stroke budget reaches trial + reserve", () => {

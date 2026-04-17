@@ -8,6 +8,8 @@ export interface WordEntry {
   /** ローマ字 `reading` から生成したひらがな（emiel の打鍵ターゲット）。 */
   typingKana: string;
   mode: GameMode;
+  /** 複数 JSON を束ねたときのデッキ番号（合成出題の重み付けに使用）。 */
+  sourceDeck?: 1 | 2 | 3;
 }
 
 export interface WordListFile {

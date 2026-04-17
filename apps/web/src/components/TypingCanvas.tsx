@@ -2,11 +2,17 @@
 
 import {
   buildTrialSurfaceLine,
+  buildTrialSurfaceLineMerged,
   createStrokeTrialEngine,
   jouTriplesToWordEntries,
+  MERGED_WEIGHTS_KANJI,
+  MERGED_WEIGHTS_KATAKANA,
+  MERGED_WEIGHTS_KIHON,
+  MERGED_WEIGHTS_KANYOKU,
   mulberry32,
   type GameMode,
   type JouTripleRow,
+  type MergedSurfaceLineWeightSpec,
   type StrokeTrialEngine,
   type StrokeTrialRenderState,
   type WordEntry,
@@ -160,6 +166,82 @@ const DECKS: Record<DeckId, DeckSpec> = {
 
 const DECK_IDS = Object.keys(DECKS) as DeckId[];
 
+type MergedContentTab = "kihon" | "katakana" | "kanji" | "kanyoku";
+
+type DeckPickerView = "merged" | "single";
+
+const MERGED_SPECS: Record<
+  MergedContentTab,
+  {
+    tabLabel: string;
+    caption: string;
+    group: string;
+    surfaceHint: string;
+    mode: GameMode;
+    weights: MergedSurfaceLineWeightSpec;
+    sources: readonly { url: string; deck: 1 | 2 | 3 }[];
+  }
+> = {
+  kihon: {
+    tabLabel: "常用",
+    caption: "Jou1–3 合成（Deck 比率 約 2:2:1）",
+    group: "基本常用 · 合成",
+    surfaceHint: "表層（ひらがな・語の間はスペース）",
+    mode: "kihon",
+    weights: { kind: "three", weights: MERGED_WEIGHTS_KIHON },
+    sources: [
+      { url: "/twelljr-jou1.json", deck: 1 },
+      { url: "/twelljr-jou2.json", deck: 2 },
+      { url: "/twelljr-jou3.json", deck: 3 },
+    ],
+  },
+  katakana: {
+    tabLabel: "カタカナ",
+    caption: "Kata1–3 合成（約 1:1:1）",
+    group: "カタカナ · 合成",
+    surfaceHint: "表層（カタカナ・語の間はスペース）",
+    mode: "katakana",
+    weights: { kind: "three", weights: MERGED_WEIGHTS_KATAKANA },
+    sources: [
+      { url: "/twelljr-kata1.json", deck: 1 },
+      { url: "/twelljr-kata2.json", deck: 2 },
+      { url: "/twelljr-kata3.json", deck: 3 },
+    ],
+  },
+  kanji: {
+    tabLabel: "漢字",
+    caption: "Kan1–3 合成（約 1:1:1）",
+    group: "漢字 · 合成",
+    surfaceHint: "表層（漢字・語の間はスペース）",
+    mode: "kanji",
+    weights: { kind: "three", weights: MERGED_WEIGHTS_KANJI },
+    sources: [
+      { url: "/twelljr-kan1.json", deck: 1 },
+      { url: "/twelljr-kan2.json", deck: 2 },
+      { url: "/twelljr-kan3.json", deck: 3 },
+    ],
+  },
+  kanyoku: {
+    tabLabel: "慣用句",
+    caption: "Koto1–2 合成（約 1:1）",
+    group: "慣用 · 合成",
+    surfaceHint: "表層（慣用句・語の間はスペース）",
+    mode: "kanyoku",
+    weights: { kind: "two", weights: MERGED_WEIGHTS_KANYOKU },
+    sources: [
+      { url: "/twelljr-koto1.json", deck: 1 },
+      { url: "/twelljr-koto2.json", deck: 2 },
+    ],
+  },
+};
+
+const MERGED_TAB_ORDER: readonly MergedContentTab[] = [
+  "kihon",
+  "katakana",
+  "kanji",
+  "kanyoku",
+];
+
 function groupOrder(a: string, b: string): number {
   const order = ["基本常用", "漢字", "カタカナ", "慣用"];
   return order.indexOf(a) - order.indexOf(b);
@@ -280,7 +362,6 @@ export function TypingCanvas() {
   const emielTargetLineRef = useRef("");
   const dictionaryRef = useRef<WordEntry[]>([]);
   const modeRef = useRef<GameMode>("kihon");
-  const deckRef = useRef<DeckId>("jou1");
   const layoutRef = useRef<KeyboardLayout | null>(null);
   const pendingWordsRef = useRef<WordEntry[]>([]);
   const pendingLineRef = useRef("");
@@ -289,6 +370,8 @@ export function TypingCanvas() {
   const lapStartedRef = useRef(false);
 
   const [deck, setDeck] = useState<DeckId>("jou1");
+  const [pickerView, setPickerView] = useState<DeckPickerView>("merged");
+  const [mergedTab, setMergedTab] = useState<MergedContentTab>("kihon");
   const [layout, setLayout] = useState<KeyboardLayout | null>(null);
   const [trialWords, setTrialWords] = useState<WordEntry[]>([]);
   const [emielTargetLine, setEmielTargetLine] = useState("");
@@ -300,7 +383,6 @@ export function TypingCanvas() {
   const [laps, setLaps] = useState<LapSegment[]>([]);
   const playClick = useAudioClick();
 
-  deckRef.current = deck;
   trialWordsRef.current = trialWords;
   emielTargetLineRef.current = emielTargetLine;
   layoutRef.current = layout;
@@ -308,18 +390,34 @@ export function TypingCanvas() {
 
   const refillPendingTrial = useCallback(() => {
     const dict = dictionaryRef.current;
-    const mode = modeRef.current;
     if (!dict.length) return;
-    const { words: picked, emielTargetLine: line } = buildTrialSurfaceLine(
-      dict,
-      mode,
-      TRIAL_STROKES,
-      mulberry32(Date.now() % 1_000_000),
-      8
-    );
-    pendingWordsRef.current = picked;
-    pendingLineRef.current = line;
-  }, []);
+    const rand = mulberry32(Date.now() % 1_000_000);
+    if (pickerView === "merged") {
+      const spec = MERGED_SPECS[mergedTab];
+      const { words: picked, emielTargetLine: line } = buildTrialSurfaceLineMerged(
+        dict,
+        spec.mode,
+        TRIAL_STROKES,
+        rand,
+        8,
+        spec.weights,
+        8
+      );
+      pendingWordsRef.current = picked;
+      pendingLineRef.current = line;
+    } else {
+      const mode = modeRef.current;
+      const { words: picked, emielTargetLine: line } = buildTrialSurfaceLine(
+        dict,
+        mode,
+        TRIAL_STROKES,
+        rand,
+        8
+      );
+      pendingWordsRef.current = picked;
+      pendingLineRef.current = line;
+    }
+  }, [pickerView, mergedTab]);
 
   const goToLobby = useCallback(
     (opts?: { keepPending?: boolean }) => {
@@ -379,6 +477,7 @@ export function TypingCanvas() {
   }, []);
 
   useEffect(() => {
+    if (pickerView !== "single") return;
     let cancelled = false;
     (async () => {
       try {
@@ -416,7 +515,60 @@ export function TypingCanvas() {
     return () => {
       cancelled = true;
     };
-  }, [deck]);
+  }, [pickerView, deck]);
+
+  useEffect(() => {
+    if (pickerView !== "merged") return;
+    let cancelled = false;
+    (async () => {
+      try {
+        setErr(null);
+        setRunPhase("loading");
+        setTrialWords([]);
+        setEmielTargetLine("");
+        autoRef.current = null;
+        const spec = MERGED_SPECS[mergedTab];
+        const rowsList = await Promise.all(
+          spec.sources.map(async (s) => {
+            const res = await fetch(s.url);
+            if (!res.ok) throw new Error(`${s.url} が読めません`);
+            return (await res.json()) as JouTripleRow[];
+          })
+        );
+        if (cancelled) return;
+        const words: WordEntry[] = [];
+        for (let i = 0; i < spec.sources.length; i++) {
+          const s = spec.sources[i]!;
+          words.push(
+            ...jouTriplesToWordEntries(rowsList[i]!, spec.mode, s.deck)
+          );
+        }
+        dictionaryRef.current = words;
+        modeRef.current = spec.mode;
+        const { words: picked, emielTargetLine: line } = buildTrialSurfaceLineMerged(
+          words,
+          spec.mode,
+          TRIAL_STROKES,
+          mulberry32(Date.now() % 1_000_000),
+          8,
+          spec.weights,
+          8
+        );
+        pendingWordsRef.current = picked;
+        pendingLineRef.current = line;
+        setRunPhase("lobby");
+        setInputEpoch((n) => n + 1);
+      } catch (e) {
+        if (!cancelled) {
+          setErr(e instanceof Error ? e.message : String(e));
+          setRunPhase("lobby");
+        }
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, [pickerView, mergedTab]);
 
   useEffect(() => {
     if (runPhase !== "lobby" || err) return;
@@ -580,44 +732,98 @@ export function TypingCanvas() {
       ? strokeEng.getRenderState(nowMs)
       : null;
 
+  const displayMeta =
+    pickerView === "merged" ? MERGED_SPECS[mergedTab] : DECKS[deck];
+
   return (
     <section className="space-y-3 rounded-lg border border-zinc-200 bg-white p-4 shadow-sm">
-      <div className="flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:items-end">
-        <label className="flex min-w-[min(100%,220px)] flex-1 flex-col gap-1 text-xs text-zinc-600">
-          <span className="font-medium text-zinc-800">語リスト（本家デコンパイル由来・全件）</span>
-          <select
-            value={deck}
-            onChange={(e) => setDeck(e.target.value as DeckId)}
-            className="rounded-md border border-zinc-300 bg-white px-2 py-2 text-sm text-zinc-900"
+      <div className="space-y-3">
+        <div>
+          <p className="m-0 mb-1.5 text-xs font-medium text-zinc-800">
+            合成デッキ（本家 DetailLog 集計に近いデッキ比率）
+          </p>
+          <div
+            className="flex flex-wrap gap-1.5"
+            role="tablist"
+            aria-label="合成モード"
           >
-            {decksByGroup().map(({ group, ids }) => (
-              <optgroup key={group} label={group}>
-                {ids.map((id) => (
-                  <option key={id} value={id}>
-                    {DECKS[id].caption}
-                  </option>
-                ))}
-              </optgroup>
-            ))}
-          </select>
-        </label>
-        <div className="flex flex-wrap gap-1.5">
-          {DECK_IDS.map((id) => (
+            {MERGED_TAB_ORDER.map((id) => {
+              const selected = pickerView === "merged" && mergedTab === id;
+              return (
+                <button
+                  key={id}
+                  type="button"
+                  role="tab"
+                  aria-selected={selected}
+                  onClick={() => {
+                    setPickerView("merged");
+                    setMergedTab(id);
+                  }}
+                  className={
+                    selected
+                      ? "rounded-md border border-amber-500 bg-amber-100 px-2.5 py-1.5 text-xs font-semibold text-amber-950"
+                      : "rounded-md border border-zinc-200 bg-zinc-50 px-2.5 py-1.5 text-xs font-medium text-zinc-700 hover:bg-zinc-100"
+                  }
+                >
+                  {MERGED_SPECS[id].tabLabel}
+                </button>
+              );
+            })}
             <button
-              key={id}
               type="button"
-              onClick={() => setDeck(id)}
+              role="tab"
+              aria-selected={pickerView === "single"}
+              onClick={() => setPickerView("single")}
               className={
-                deck === id
-                  ? "rounded-md border border-amber-500 bg-amber-100 px-2 py-1 text-xs font-medium text-amber-950"
-                  : "rounded-md border border-zinc-200 bg-zinc-100 px-2 py-1 text-xs text-zinc-600 hover:bg-zinc-200"
+                pickerView === "single"
+                  ? "rounded-md border border-zinc-500 bg-zinc-200 px-2.5 py-1.5 text-xs font-semibold text-zinc-900"
+                  : "rounded-md border border-dashed border-zinc-300 bg-white px-2.5 py-1.5 text-xs text-zinc-600 hover:bg-zinc-50"
               }
-              title={DECKS[id].caption}
             >
-              {id.toUpperCase()}
+              単一 JSON
             </button>
-          ))}
+          </div>
         </div>
+
+        {pickerView === "single" ? (
+          <div className="flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:items-end">
+            <label className="flex min-w-[min(100%,220px)] flex-1 flex-col gap-1 text-xs text-zinc-600">
+              <span className="font-medium text-zinc-800">単一ファイル（従来）</span>
+              <select
+                value={deck}
+                onChange={(e) => setDeck(e.target.value as DeckId)}
+                className="rounded-md border border-zinc-300 bg-white px-2 py-2 text-sm text-zinc-900"
+              >
+                {decksByGroup().map(({ group, ids }) => (
+                  <optgroup key={group} label={group}>
+                    {ids.map((id) => (
+                      <option key={id} value={id}>
+                        {DECKS[id].caption}
+                      </option>
+                    ))}
+                  </optgroup>
+                ))}
+              </select>
+            </label>
+            <div className="flex flex-wrap gap-1.5">
+              {DECK_IDS.map((id) => (
+                <button
+                  key={id}
+                  type="button"
+                  onClick={() => setDeck(id)}
+                  className={
+                    deck === id
+                      ? "rounded-md border border-amber-500 bg-amber-100 px-2 py-1 text-xs font-medium text-amber-950"
+                      : "rounded-md border border-zinc-200 bg-zinc-100 px-2 py-1 text-xs text-zinc-600 hover:bg-zinc-200"
+                  }
+                  title={DECKS[id].caption}
+                >
+                  {id.toUpperCase()}
+                </button>
+              ))}
+            </div>
+          </div>
+        ) : null}
       </div>
       {err ? (
         <p className="text-sm text-red-400">{err}</p>
@@ -628,7 +834,7 @@ export function TypingCanvas() {
       ) : (
         <>
           <div className="space-y-2.5">
-            <TrialDeckHeading group={DECKS[deck].group} caption={DECKS[deck].caption} />
+            <TrialDeckHeading group={displayMeta.group} caption={displayMeta.caption} />
             <TrialStatusStrip
               runPhase={runPhase}
               trialForStrip={trialForStrip}
@@ -752,7 +958,7 @@ export function TypingCanvas() {
               {trialForStrip ? (
                 <span>
                   確定ストローク {trialForStrip.confirmedStrokeCount} / {trialForStrip.trialStrokeCount}（
-                  {DECKS[deck].caption}・国語Ｒ採点）
+                  {displayMeta.caption}・国語Ｒ採点）
                 </span>
               ) : (
                 <span className="text-zinc-500">経過・ストロークは試行開始後に表示されます</span>
@@ -762,7 +968,7 @@ export function TypingCanvas() {
 
           <PracticeSettingsStubHub
             countdownSeconds={COUNTDOWN_SECONDS}
-            surfaceHint={DECKS[deck].surfaceHint}
+            surfaceHint={displayMeta.surfaceHint}
             trialStrokeCount={TRIAL_STROKES}
           />
         </>
