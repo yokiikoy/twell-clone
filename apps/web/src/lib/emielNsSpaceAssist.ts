@@ -7,7 +7,7 @@
  * 残りターゲットが「ん」で始まるなら **同じキー状態で N の keydown を 1 回だけ合成**してから
  * ユーザーのスペースをそのまま再入力する（＝実質 `n` → `nn` → `Space`）。
  *
- * emiel 本体・`roman.build(…)` の渡し方は変えない（最初から語＋スペースの 1 行が正しい）。
+ * emiel の `build` に渡すターゲット行（語＋語間スペースの 1 行）は変えない。
  *
  * **400 打鍵（`finishedStroke.length`）:** 補助は emiel 上で「成功した N 1 打＋成功した Space 1 打」と数えられる。
  * 手打ちで `n` `n` `Space` とした場合と **同じ遷移数**（試行を最後まで打ち切るまでの総ストロークは狂わない）。
@@ -31,6 +31,7 @@ import {
   InputStroke,
   type Automaton,
   type InputResult,
+  type RuleStroke,
   VirtualKeys,
 } from "emiel";
 
@@ -42,11 +43,21 @@ function nextKanaNeedsNnAssist(pendingWord: string): boolean {
   return ch === HIRAGANA_N || ch === KATAKANA_N;
 }
 
+function ruleStrokePrimaryIsN(stroke: RuleStroke): boolean {
+  if (stroke.kind === "single") return stroke.key === VirtualKeys.N;
+  return stroke.keys.includes(VirtualKeys.N);
+}
+
 /** 直前に成功した打鍵が N か（xn 途中の誤 Space などで補助しない） */
 function lastSucceededKeyWasN(automaton: Automaton): boolean {
-  const h = automaton.histories.at(-1);
-  if (!h) return false;
-  return h.previousEdge.input.key === VirtualKeys.N;
+  const hist = automaton.inputHistory;
+  for (let i = hist.length - 1; i >= 0; i--) {
+    const entry = hist[i]!;
+    if ("back" in entry) continue;
+    if (!entry.result.isSucceeded || !entry.edge) continue;
+    return ruleStrokePrimaryIsN(entry.edge.input);
+  }
+  return false;
 }
 
 function syntheticNKeydown(from: InputEvent): InputEvent {
@@ -79,7 +90,7 @@ export function inputWithNnBeforeSpaceIfNeeded(
   }
 
   if (
-    nextKanaNeedsNnAssist(automaton.pendingWord) &&
+    nextKanaNeedsNnAssist(automaton.getPendingWord()) &&
     lastSucceededKeyWasN(automaton)
   ) {
     const nEvt = syntheticNKeydown(evt);

@@ -5,6 +5,7 @@ import {
   buildTrialSurfaceLineMerged,
   createStrokeTrialEngine,
   jouTriplesToWordEntries,
+  mozcRomanRuleForKeyboard,
   MERGED_WEIGHTS_KANJI,
   MERGED_WEIGHTS_KATAKANA,
   MERGED_WEIGHTS_KIHON,
@@ -17,7 +18,14 @@ import {
   type StrokeTrialRenderState,
   type WordEntry,
 } from "@typewell-jr/engine";
-import { keyboard, rule, type Automaton, type InputEvent, type KeyboardLayout } from "emiel";
+import {
+  build,
+  detectKeyboardLayout,
+  loadPresetKeyboardLayoutQwertyJis,
+  type Automaton,
+  type InputEvent,
+  type KeyboardLayout,
+} from "emiel";
 import { activateCompat } from "../lib/emielActivateCompat";
 /** 語末「ん」→語間 Space: 400 打鍵・`nn`/`xn` 整合はラッパー側コメント参照 */
 import { inputWithNnBeforeSpaceIfNeeded } from "../lib/emielNsSpaceAssist";
@@ -310,7 +318,7 @@ function EmielTrialBody({
   trial: StrokeTrialRenderState;
 }) {
   const { finished } = trial;
-  const jpLen = automaton.finishedWord.length;
+  const jpLen = automaton.getFinishedWord().length;
   const activeSeg = finished ? -1 : wordIndexFromTypingProgress(segments, jpLen);
 
   const segmentWordClass = (wi: number) =>
@@ -323,8 +331,8 @@ function EmielTrialBody({
   const jpFont =
     '"Yu Gothic UI","Yu Gothic",Meiryo,"Hiragino Sans","Hiragino Kaku Gothic ProN",sans-serif';
 
-  const fr = automaton.finishedRoman;
-  const pr = automaton.pendingRoman;
+  const fr = automaton.getFinishedRoman();
+  const pr = automaton.getPendingRoman();
 
   return (
     <div className="flex w-full min-h-0 flex-col justify-start text-sm leading-relaxed text-zinc-900">
@@ -477,13 +485,12 @@ export function TypingCanvas() {
 
   useEffect(() => {
     let cancelled = false;
-    keyboard
-      .detect(window)
+    detectKeyboardLayout(window)
       .then((lay) => {
         if (!cancelled) setLayout(lay);
       })
       .catch(() => {
-        if (!cancelled) setLayout(keyboard.getQwertyJis());
+        if (!cancelled) setLayout(loadPresetKeyboardLayoutQwertyJis());
       });
     return () => {
       cancelled = true;
@@ -669,9 +676,8 @@ export function TypingCanvas() {
       strokeEngRef.current = createStrokeTrialEngine(STROKE_TRIAL_RESET);
     }
     strokeEngRef.current.reset(STROKE_TRIAL_RESET);
-    const roman = rule.getRoman(layout);
     try {
-      autoRef.current = roman.build(emielTargetLine);
+      autoRef.current = build(mozcRomanRuleForKeyboard(layout), emielTargetLine);
       setErr(null);
     } catch (e) {
       autoRef.current = null;
@@ -688,16 +694,16 @@ export function TypingCanvas() {
       if (runPhaseRef.current !== "playing") return;
       const auto = autoRef.current;
       if (!auto) return;
-      if (auto.finishedStroke.length >= TRIAL_STROKES) return;
+      if (auto.getFinishedStroke().length >= TRIAL_STROKES) return;
 
       // ローマ字オートマトンはストロークを keydown で扱う。keyup も input に渡すと、離鍵が再度
       // `failed` になり failedInputCount が二重に増えやすい（体感 1 ミスで 2）。
       // activateCompat 側の KeyboardState は keyup で更新済みなので、次の keydown の修飾状態は正しい。
       if (e.input.type !== "keydown") return;
 
-      const before = auto.finishedStroke.length;
+      const before = auto.getFinishedStroke().length;
       const result = inputWithNnBeforeSpaceIfNeeded(auto, e);
-      const after = auto.finishedStroke.length;
+      const after = auto.getFinishedStroke().length;
       const now = performance.now();
       strokeEngRef.current?.applyEmielStep(now, before, after);
 
@@ -737,7 +743,7 @@ export function TypingCanvas() {
     const prevent = (e: KeyboardEvent) => {
       if (runPhaseRef.current !== "playing") return;
       const auto = autoRef.current;
-      if (!auto || auto.finishedStroke.length >= TRIAL_STROKES) return;
+      if (!auto || auto.getFinishedStroke().length >= TRIAL_STROKES) return;
       if (e.ctrlKey || e.metaKey || e.altKey) return;
       if (e.key.length === 1 || e.key === "Backspace" || e.key === " ") {
         e.preventDefault();
@@ -877,7 +883,7 @@ export function TypingCanvas() {
               trialForStrip={trialForStrip}
               missCount={
                 auto && (runPhase === "playing" || runPhase === "finished")
-                  ? auto.failedInputCount
+                  ? auto.getFailedInputCount()
                   : null
               }
             />

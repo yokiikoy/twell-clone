@@ -29,7 +29,10 @@ export {
   MERGED_WEIGHTS_KANYOKU,
   type MergedSurfaceLineWeightSpec,
 } from "./wordPicker.js";
-export { mozcMinStrokesForHiraganaLine } from "./emielStrokeBudget.js";
+export {
+  mozcMinStrokesForHiraganaLine,
+  mozcRomanRuleForKeyboard,
+} from "./emielStrokeBudget.js";
 export { romajiToTypingKana } from "./twelljr/romajiTypingKana.js";
 export {
   basRomanTypingGuide,

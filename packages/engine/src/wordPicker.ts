@@ -146,7 +146,7 @@ export function buildTrialReading(
  *
  * 停止条件: 連結した行に対し **emiel の最短ローマ打鍵数**（`mozcMinStrokesForHiraganaLine`）が
  * `trialStrokeCount + reserveMinStrokes` 以上になるまで語をランダムに追加する。
- * 経験係数は使わない。`keyboardLayout` は実プレイの `rule.getRoman(layout)` と揃えること。
+ * 経験係数は使わない。`keyboardLayout` は実プレイの `mozcRomanRuleForKeyboard(layout)` と揃えること。
  */
 export function buildTrialSurfaceLine(
   dict: WordEntry[],
