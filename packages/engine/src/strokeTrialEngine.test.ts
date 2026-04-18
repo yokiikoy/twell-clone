@@ -47,4 +47,19 @@ describe("createStrokeTrialEngine", () => {
     const muchLater = eng.getRenderState(999_000);
     expect(muchLater.elapsedMs).toBe(4_000);
   });
+
+  it("markWallClockStart makes elapsed tick from display time; reactionLatency tracks first stroke", () => {
+    const eng = createStrokeTrialEngine({
+      trialStrokeCount: 3,
+      goalLevelId: "J",
+      scoringProfile: "twelljr",
+    });
+    eng.markWallClockStart(1_000);
+    expect(eng.getRenderState(1_500).elapsedMs).toBe(500);
+    expect(eng.getRenderState(1_500).reactionLatencyMs).toBe(500);
+    eng.applyEmielStep(2_000, 0, 1);
+    expect(eng.getRenderState(2_000).elapsedMs).toBe(1_000);
+    expect(eng.getRenderState(2_000).reactionLatencyMs).toBe(1_000);
+    expect(eng.getRenderState(9_000).reactionLatencyMs).toBe(1_000);
+  });
 });

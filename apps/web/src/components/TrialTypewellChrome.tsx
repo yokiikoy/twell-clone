@@ -11,7 +11,9 @@ import { NAV_SETTINGS_META } from "@/lib/stubNavConfig";
 export type TrialRunPhase = "loading" | "lobby" | "countdown" | "playing" | "finished";
 
 const TIME_HELP =
-  "初回確定ストロークから試行終了までの経過（秒）。試行完了後は固定。";
+  "問題表示（ワードセットが打鍵可能になった瞬間）から試行終了までの経過（秒）。試行完了後は固定。級の参照もこの時間。";
+const LATENCY_HELP =
+  "表示から初回確定ストロークまでの秒。初打鍵まではカウントアップし、初打鍵後は確定値で固定（ラップ区間には含めません）。";
 const CHART_HELP =
   "国語Ｒ Module1 チャート上の級（経過総秒から参照）。試行完了後は確定ラベルと一致。";
 const MISS_HELP =
@@ -66,6 +68,11 @@ export function TrialStatusStrip({
       ? formatSecondsShort(elapsed)
       : "—";
 
+  const latencyDisplay =
+    trialForStrip != null && (runPhase === "playing" || runPhase === "finished")
+      ? formatSecondsShort(trialForStrip.reactionLatencyMs)
+      : "—";
+
   const missDisplay = missCount != null ? String(missCount) : "—";
 
   return (
@@ -85,6 +92,17 @@ export function TrialStatusStrip({
         </span>
         <span className="min-w-[5.5ch] cursor-default tabular-nums text-zinc-900" title={TIME_HELP}>
           {timeDisplay}
+        </span>
+      </div>
+      <div className="flex items-baseline gap-1.5">
+        <span className="text-zinc-500" title={LATENCY_HELP}>
+          Latency
+        </span>
+        <span
+          className="min-w-[5.5ch] cursor-default tabular-nums text-zinc-700"
+          title={LATENCY_HELP}
+        >
+          {latencyDisplay}
         </span>
       </div>
       <div className="flex items-baseline gap-1.5">
