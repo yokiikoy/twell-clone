@@ -27,6 +27,11 @@ function wordsForMode(dict: WordEntry[], mode: GameMode): WordEntry[] {
   return dict.filter((w) => w.mode === mode);
 }
 
+/** emiel `build` と `mozcMinStrokesForHiraganaLine` で共有するかな行（語間スペース含む） */
+function joinTypingKanaLine(words: readonly WordEntry[]): string {
+  return words.map((w) => w.typingKana).join(" ").normalize("NFC");
+}
+
 /** DetailLog 集計に近い Jou1:Jou2:Jou3 の目安比率。 */
 export const MERGED_WEIGHTS_KIHON: readonly [number, number, number] = [2, 2, 1];
 export const MERGED_WEIGHTS_KATAKANA: readonly [number, number, number] = [1, 1, 1];
@@ -164,17 +169,17 @@ export function buildTrialSurfaceLine(
   const targetMinStrokes = trialStrokeCount + reserveMinStrokes;
   const picked: WordEntry[] = [];
   const recent: string[] = [];
-  let guard = 0;
   const lineStrokes = (words: WordEntry[]) =>
     words.length === 0
       ? 0
-      : mozcMinStrokesForHiraganaLine(
-          words.map((w) => w.typingKana).join(" "),
-          keyboardLayout
-        );
+      : mozcMinStrokesForHiraganaLine(joinTypingKanaLine(words), keyboardLayout);
 
-  while (lineStrokes(picked) < targetMinStrokes && guard < trialStrokeCount * 80) {
-    guard++;
+  const maxPickAttempts = trialStrokeCount * 200;
+  for (
+    let attempt = 0;
+    attempt < maxPickAttempts && lineStrokes(picked) < targetMinStrokes;
+    attempt++
+  ) {
     const w = pool[Math.floor(rand() * pool.length)]!;
     const sig = `${w.surface}\0${w.reading}`;
     if (recent.includes(sig) && pool.length > avoidRepeatWindow) continue;
@@ -185,8 +190,21 @@ export function buildTrialSurfaceLine(
   if (picked.length === 0) {
     picked.push(pool[0]!);
   }
-  const emielTargetLine = picked.map((w) => w.typingKana).join(" ");
-  return { words: picked, emielTargetLine };
+  const maxForce = trialStrokeCount * 80;
+  let force = 0;
+  while (lineStrokes(picked) < targetMinStrokes && force++ < maxForce) {
+    const w = pool[Math.floor(rand() * pool.length)]!;
+    picked.push(w);
+    const sig = `${w.surface}\0${w.reading}`;
+    recent.push(sig);
+    if (recent.length > avoidRepeatWindow) recent.shift();
+  }
+  if (lineStrokes(picked) < targetMinStrokes) {
+    throw new Error(
+      `buildTrialSurfaceLine: could not reach stroke budget (${lineStrokes(picked)} < ${targetMinStrokes})`
+    );
+  }
+  return { words: picked, emielTargetLine: joinTypingKanaLine(picked) };
 }
 
 /**
@@ -220,17 +238,17 @@ export function buildTrialSurfaceLineMerged(
   const targetMinStrokes = trialStrokeCount + reserveMinStrokes;
   const picked: WordEntry[] = [];
   const recent: string[] = [];
-  let guard = 0;
   const lineStrokes = (words: WordEntry[]) =>
     words.length === 0
       ? 0
-      : mozcMinStrokesForHiraganaLine(
-          words.map((w) => w.typingKana).join(" "),
-          keyboardLayout
-        );
+      : mozcMinStrokesForHiraganaLine(joinTypingKanaLine(words), keyboardLayout);
 
-  while (lineStrokes(picked) < targetMinStrokes && guard < trialStrokeCount * 80) {
-    guard++;
+  const maxPickAttempts = trialStrokeCount * 200;
+  for (
+    let attempt = 0;
+    attempt < maxPickAttempts && lineStrokes(picked) < targetMinStrokes;
+    attempt++
+  ) {
     const w = pickWordFromWeightedDecks(pools, weights, rand);
     const sig = `${w.surface}\0${w.reading}`;
     if (recent.includes(sig) && pool.length > avoidRepeatWindow) continue;
@@ -241,6 +259,19 @@ export function buildTrialSurfaceLineMerged(
   if (picked.length === 0) {
     picked.push(pool[0]!);
   }
-  const emielTargetLine = picked.map((w) => w.typingKana).join(" ");
-  return { words: picked, emielTargetLine };
+  const maxForce = trialStrokeCount * 80;
+  let force = 0;
+  while (lineStrokes(picked) < targetMinStrokes && force++ < maxForce) {
+    const w = pickWordFromWeightedDecks(pools, weights, rand);
+    picked.push(w);
+    const sig = `${w.surface}\0${w.reading}`;
+    recent.push(sig);
+    if (recent.length > avoidRepeatWindow) recent.shift();
+  }
+  if (lineStrokes(picked) < targetMinStrokes) {
+    throw new Error(
+      `buildTrialSurfaceLineMerged: could not reach stroke budget (${lineStrokes(picked)} < ${targetMinStrokes})`
+    );
+  }
+  return { words: picked, emielTargetLine: joinTypingKanaLine(picked) };
 }

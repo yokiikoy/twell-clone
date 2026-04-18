@@ -676,7 +676,10 @@ export function TypingCanvas() {
     // クロージャのオブジェクトを握り続し `markWallClockStart` が無いままになるのを防ぐ）
     strokeEngRef.current = createStrokeTrialEngine(STROKE_TRIAL_RESET);
     try {
-      autoRef.current = build(mozcRomanRuleForKeyboard(layout), emielTargetLine);
+      autoRef.current = build(
+        mozcRomanRuleForKeyboard(layout),
+        emielTargetLine.normalize("NFC")
+      );
       setErr(null);
       if (runPhaseRef.current === "playing") {
         strokeEngRef.current.markWallClockStart(performance.now());

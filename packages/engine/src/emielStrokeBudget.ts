@@ -27,9 +27,9 @@ function qwertyJisLayout(): KeyboardLayout {
  * 最短経路で打ち終えるのに要するストローク数（`pendingStroke.length` の初期値）。
  * 語間スペースはターゲット文字列に含めたまま渡す（例: `あ い`）。
  *
- * `layout` は **実プレイで `build(mozcRomanRuleForKeyboard(layout), …)` に渡すのと同じ**にすること。
+ * `layout` は **実プレイで `build(mozcRomanRuleForKeyboard(layout), kanaLine.normalize("NFC"))` に渡すのと同じ**にすること。
  * 省略時は QWERTY JIS（サーバ・テスト用）。ブラウザで検出した配列とズレると、
- * 最短打鍵数の見積りと実オートマトンが一致せず、400 打鍵前にターゲットが尽きることがある。
+ * 見積りと実オートマトンが一致せず、試行打鍵数より前にターゲットが尽きることがある。
  */
 export function mozcMinStrokesForHiraganaLine(
   kanaLine: string,
