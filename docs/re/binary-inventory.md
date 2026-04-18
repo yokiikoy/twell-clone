@@ -50,6 +50,10 @@ Source folder (local machine, not in repo): `C:\Users\hotwa\Dropbox\TWJR216`.
 
 公開リポジトリでは **エクスポート一式を push しない**運用にしてください。検証済みの式は `docs/spec/` や TypeScript（`packages/engine`）へ昇格させます。
 
+## UI / embedded imagery (RE observation)
+
+国語Ｒは **測定に特化した無骨な UI** である。フォーム埋め込み資源（`.frx` 等）や exe 内ビットマップを辿る限り、**本体から確認しやすい画像はアプリケーション／ウィンドウのアイコン類に留まる**ことが多く、**測定ウィンドウ本体にリッチな写真・イラストが載る前提には立たない**。見た目のピクセルパーフェクト再現は、エンジン・語表・ログ整合より優先度を下げてよい根拠の一つ。
+
 ## Decompilation note
 
 VB Decompiler は **Windows 向け GUI** です。`twjrdecomp/` は Cursor 等での解析用ダンプとしてローカルに保持し、`ReadMe.txt` / `DetailLog` と突き合わせて確認した内容をドキュメント・コードへ反映します。
