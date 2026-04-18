@@ -672,13 +672,15 @@ export function TypingCanvas() {
       autoRef.current = null;
       return;
     }
-    if (!strokeEngRef.current) {
-      strokeEngRef.current = createStrokeTrialEngine(STROKE_TRIAL_RESET);
-    }
-    strokeEngRef.current.reset(STROKE_TRIAL_RESET);
+    // 毎回新規インスタンスにする（Fast Refresh でファクトリだけ更新されたときに、ref が古い
+    // クロージャのオブジェクトを握り続し `markWallClockStart` が無いままになるのを防ぐ）
+    strokeEngRef.current = createStrokeTrialEngine(STROKE_TRIAL_RESET);
     try {
       autoRef.current = build(mozcRomanRuleForKeyboard(layout), emielTargetLine);
       setErr(null);
+      if (runPhaseRef.current === "playing") {
+        strokeEngRef.current.markWallClockStart(performance.now());
+      }
     } catch (e) {
       autoRef.current = null;
       setErr(e instanceof Error ? e.message : String(e));

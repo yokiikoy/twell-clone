@@ -20,6 +20,12 @@ export interface StrokeTrialRenderState {
   progress01: number;
   paceColor: PaceColor;
   elapsedMs: number;
+  /**
+   * タイマー開始（ワード表示など）から初回確定ストロークまでの ms。
+   * 初打鍵前は `nowMs` に応じて増えるライブ値、初打鍵後は確定値で固定。
+   * タイマー起点が初打鍵のみのとき（`markWallClockStart` 未使用）は常に 0。
+   */
+  reactionLatencyMs: number;
   finished: boolean;
   resultLevelId: string | null;
 }
@@ -32,6 +38,12 @@ export interface StrokeTrialEngine {
   applyEmielStep(nowMs: number, before: number, after: number): void;
   getRenderState(nowMs: number): StrokeTrialRenderState;
   reset(config: StrokeTrialConfig): void;
+  /**
+   * ワードセット表示（試行 UI が入力可能になった瞬間）の壁時計。
+   * 初打鍵より前に呼ぶと `elapsedMs` が表示起点から進み、初打鍵までの差分が `reactionLatencyMs` に集約される。
+   * 二重呼び出しは無視。
+   */
+  markWallClockStart(nowMs: number): void;
 }
 
 interface Internal {
@@ -43,6 +55,8 @@ interface Internal {
   lastKeyAtMs: number | null;
   intervalEmaMs: number | null;
   lastStrokeCount: number;
+  /** 初回確定ストロークの時刻（`reactionLatencyMs` 確定用） */
+  firstStrokeAtMs: number | null;
 }
 
 function renderState(s: Internal, nowMs: number): StrokeTrialRenderState {
@@ -54,6 +68,12 @@ function renderState(s: Internal, nowMs: number): StrokeTrialRenderState {
       ? 0
       : s.finishedAtMs != null
         ? s.finishedAtMs - s.startedAtMs
+        : nowMs - s.startedAtMs;
+  const reactionLatencyMs =
+    s.startedAtMs == null
+      ? 0
+      : stroke >= 1 && s.firstStrokeAtMs != null
+        ? s.firstStrokeAtMs - s.startedAtMs
         : nowMs - s.startedAtMs;
   let resultLevelId: string | null = null;
   if (finished && s.startedAtMs != null && s.finishedAtMs != null) {
@@ -73,6 +93,7 @@ function renderState(s: Internal, nowMs: number): StrokeTrialRenderState {
       cap
     ),
     elapsedMs,
+    reactionLatencyMs,
     finished,
     resultLevelId,
   };
@@ -90,6 +111,7 @@ export function createStrokeTrialEngine(
     lastKeyAtMs: null,
     intervalEmaMs: null,
     lastStrokeCount: 0,
+    firstStrokeAtMs: null,
   };
 
   return {
@@ -102,6 +124,13 @@ export function createStrokeTrialEngine(
       s.lastKeyAtMs = null;
       s.intervalEmaMs = null;
       s.lastStrokeCount = 0;
+      s.firstStrokeAtMs = null;
+    },
+
+    markWallClockStart(nowMs: number) {
+      if (s.finishedAtMs != null) return;
+      if (s.startedAtMs != null) return;
+      s.startedAtMs = nowMs;
     },
 
     applyEmielStep(nowMs: number, before: number, after: number) {
@@ -111,6 +140,7 @@ export function createStrokeTrialEngine(
       const cap = s.trialStrokeCount;
 
       if (after > before) {
+        if (s.firstStrokeAtMs == null) s.firstStrokeAtMs = nowMs;
         if (s.startedAtMs == null) s.startedAtMs = nowMs;
         if (s.lastKeyAtMs != null) {
           const dt = nowMs - s.lastKeyAtMs;
