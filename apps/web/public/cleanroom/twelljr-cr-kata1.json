@@ -1,0 +1,9470 @@
+[
+  {
+    "surface": "アティ",
+    "reading": "ati",
+    "code": "cr-kata1-0",
+    "index": 0
+  },
+  {
+    "surface": "オールウェザー",
+    "reading": "allweather",
+    "code": "cr-kata1-1",
+    "index": 1
+  },
+  {
+    "surface": "オチオチ",
+    "reading": "ochiochi",
+    "code": "cr-kata1-2",
+    "index": 2
+  },
+  {
+    "surface": "ヴェルス",
+    "reading": "verusu",
+    "code": "cr-kata1-3",
+    "index": 3
+  },
+  {
+    "surface": "オーバーボローイング",
+    "reading": "oobaaborooingu",
+    "code": "cr-kata1-4",
+    "index": 4
+  },
+  {
+    "surface": "イコールパートナー",
+    "reading": "equalpartner",
+    "code": "cr-kata1-5",
+    "index": 5
+  },
+  {
+    "surface": "アメリカドクトカゲ",
+    "reading": "amerikadokutokage",
+    "code": "cr-kata1-6",
+    "index": 6
+  },
+  {
+    "surface": "ヴィジュアリゼーション",
+    "reading": "vijuarizeeshon",
+    "code": "cr-kata1-7",
+    "index": 7
+  },
+  {
+    "surface": "ウマルガ",
+    "reading": "umaruga",
+    "code": "cr-kata1-8",
+    "index": 8
+  },
+  {
+    "surface": "オニキンメ",
+    "reading": "onikinme",
+    "code": "cr-kata1-9",
+    "index": 9
+  },
+  {
+    "surface": "アナターゼ",
+    "reading": "anataaze",
+    "code": "cr-kata1-10",
+    "index": 10
+  },
+  {
+    "surface": "エグゼンプション",
+    "reading": "eguzenpushon",
+    "code": "cr-kata1-11",
+    "index": 11
+  },
+  {
+    "surface": "イソシギ",
+    "reading": "isoshigi",
+    "code": "cr-kata1-12",
+    "index": 12
+  },
+  {
+    "surface": "アカシア",
+    "reading": "acacia",
+    "code": "cr-kata1-13",
+    "index": 13
+  },
+  {
+    "surface": "イグニッションコイル",
+    "reading": "ignitioncoil",
+    "code": "cr-kata1-14",
+    "index": 14
+  },
+  {
+    "surface": "アランド",
+    "reading": "aland",
+    "code": "cr-kata1-15",
+    "index": 15
+  },
+  {
+    "surface": "イーダイナ",
+    "reading": "iidaina",
+    "code": "cr-kata1-16",
+    "index": 16
+  },
+  {
+    "surface": "アイントホーフェン",
+    "reading": "aintohoofen",
+    "code": "cr-kata1-17",
+    "index": 17
+  },
+  {
+    "surface": "エノキ",
+    "reading": "enoki",
+    "code": "cr-kata1-18",
+    "index": 18
+  },
+  {
+    "surface": "アゲハ",
+    "reading": "ageha",
+    "code": "cr-kata1-19",
+    "index": 19
+  },
+  {
+    "surface": "ウォビゴン",
+    "reading": "obigon",
+    "code": "cr-kata1-20",
+    "index": 20
+  },
+  {
+    "surface": "エンターティンメント",
+    "reading": "entaatinmento",
+    "code": "cr-kata1-21",
+    "index": 21
+  },
+  {
+    "surface": "インゲン",
+    "reading": "ingen",
+    "code": "cr-kata1-22",
+    "index": 22
+  },
+  {
+    "surface": "イア",
+    "reading": "ia",
+    "code": "cr-kata1-23",
+    "index": 23
+  },
+  {
+    "surface": "アッパッパ",
+    "reading": "appappa",
+    "code": "cr-kata1-24",
+    "index": 24
+  },
+  {
+    "surface": "イージーリスニング",
+    "reading": "easylistening",
+    "code": "cr-kata1-25",
+    "index": 25
+  },
+  {
+    "surface": "アレキパ",
+    "reading": "arekipa",
+    "code": "cr-kata1-26",
+    "index": 26
+  },
+  {
+    "surface": "イスタリフ",
+    "reading": "isutariff",
+    "code": "cr-kata1-27",
+    "index": 27
+  },
+  {
+    "surface": "アクアチント",
+    "reading": "aquatint",
+    "code": "cr-kata1-28",
+    "index": 28
+  },
+  {
+    "surface": "アリストクラシー",
+    "reading": "arisutoclarinetsea",
+    "code": "cr-kata1-29",
+    "index": 29
+  },
+  {
+    "surface": "ウンデ",
+    "reading": "undes",
+    "code": "cr-kata1-30",
+    "index": 30
+  },
+  {
+    "surface": "アバンゲール",
+    "reading": "avantguerre",
+    "code": "cr-kata1-31",
+    "index": 31
+  },
+  {
+    "surface": "イースト・グリンステッド",
+    "reading": "eastgreensuteddo",
+    "code": "cr-kata1-32",
+    "index": 32
+  },
+  {
+    "surface": "ウイッチ",
+    "reading": "witch",
+    "code": "cr-kata1-33",
+    "index": 33
+  },
+  {
+    "surface": "オオノガイ",
+    "reading": "oonogai",
+    "code": "cr-kata1-34",
+    "index": 34
+  },
+  {
+    "surface": "イボダイ",
+    "reading": "ibodai",
+    "code": "cr-kata1-35",
+    "index": 35
+  },
+  {
+    "surface": "アメリカソウ",
+    "reading": "americasou",
+    "code": "cr-kata1-36",
+    "index": 36
+  },
+  {
+    "surface": "アップデート",
+    "reading": "update",
+    "code": "cr-kata1-37",
+    "index": 37
+  },
+  {
+    "surface": "アザ",
+    "reading": "aza",
+    "code": "cr-kata1-38",
+    "index": 38
+  },
+  {
+    "surface": "イヴ",
+    "reading": "eve",
+    "code": "cr-kata1-39",
+    "index": 39
+  },
+  {
+    "surface": "アーキテクチャー",
+    "reading": "architecture",
+    "code": "cr-kata1-40",
+    "index": 40
+  },
+  {
+    "surface": "アリカンテ",
+    "reading": "alicante",
+    "code": "cr-kata1-41",
+    "index": 41
+  },
+  {
+    "surface": "インティファーダ",
+    "reading": "intifada",
+    "code": "cr-kata1-42",
+    "index": 42
+  },
+  {
+    "surface": "イグニション",
+    "reading": "ignition",
+    "code": "cr-kata1-43",
+    "index": 43
+  },
+  {
+    "surface": "エーディーコンバーター",
+    "reading": "eediikonbaataa",
+    "code": "cr-kata1-44",
+    "index": 44
+  },
+  {
+    "surface": "アームチェア",
+    "reading": "armchair",
+    "code": "cr-kata1-45",
+    "index": 45
+  },
+  {
+    "surface": "アカマツカサ",
+    "reading": "akamatsucasa",
+    "code": "cr-kata1-46",
+    "index": 46
+  },
+  {
+    "surface": "アーカイバ",
+    "reading": "archiver",
+    "code": "cr-kata1-47",
+    "index": 47
+  },
+  {
+    "surface": "エステラーゼ",
+    "reading": "esterase",
+    "code": "cr-kata1-48",
+    "index": 48
+  },
+  {
+    "surface": "アオモリ",
+    "reading": "aomori",
+    "code": "cr-kata1-49",
+    "index": 49
+  },
+  {
+    "surface": "アウトバウンド",
+    "reading": "outbound",
+    "code": "cr-kata1-50",
+    "index": 50
+  },
+  {
+    "surface": "ウオノメ",
+    "reading": "uonome",
+    "code": "cr-kata1-51",
+    "index": 51
+  },
+  {
+    "surface": "エスディーエスエル",
+    "reading": "esudiiesueru",
+    "code": "cr-kata1-52",
+    "index": 52
+  },
+  {
+    "surface": "エーディーエスエル",
+    "reading": "eediiesueru",
+    "code": "cr-kata1-53",
+    "index": 53
+  },
+  {
+    "surface": "アキシャルオフセット",
+    "reading": "akisharuofusetto",
+    "code": "cr-kata1-54",
+    "index": 54
+  },
+  {
+    "surface": "イレズミエイラクブカ",
+    "reading": "irezumieirakubuka",
+    "code": "cr-kata1-55",
+    "index": 55
+  },
+  {
+    "surface": "オレンチ",
+    "reading": "owrench",
+    "code": "cr-kata1-56",
+    "index": 56
+  },
+  {
+    "surface": "アンゴラ",
+    "reading": "angola",
+    "code": "cr-kata1-57",
+    "index": 57
+  },
+  {
+    "surface": "イリガリティー",
+    "reading": "irigaritii",
+    "code": "cr-kata1-58",
+    "index": 58
+  },
+  {
+    "surface": "エル・エスコリアル",
+    "reading": "eruescorial",
+    "code": "cr-kata1-59",
+    "index": 59
+  },
+  {
+    "surface": "イワタケ",
+    "reading": "iwatake",
+    "code": "cr-kata1-60",
+    "index": 60
+  },
+  {
+    "surface": "エスエスエル",
+    "reading": "esuesueru",
+    "code": "cr-kata1-61",
+    "index": 61
+  },
+  {
+    "surface": "エセ",
+    "reading": "ese",
+    "code": "cr-kata1-62",
+    "index": 62
+  },
+  {
+    "surface": "ウエストハートフォード",
+    "reading": "waisthartford",
+    "code": "cr-kata1-63",
+    "index": 63
+  },
+  {
+    "surface": "ウェストフィールド",
+    "reading": "westfield",
+    "code": "cr-kata1-64",
+    "index": 64
+  },
+  {
+    "surface": "アメリカン・フットボール",
+    "reading": "americanfootball",
+    "code": "cr-kata1-65",
+    "index": 65
+  },
+  {
+    "surface": "オオテンジクザメ",
+    "reading": "ootenjikuzame",
+    "code": "cr-kata1-66",
+    "index": 66
+  },
+  {
+    "surface": "エビ",
+    "reading": "ebi",
+    "code": "cr-kata1-67",
+    "index": 67
+  },
+  {
+    "surface": "アーティスティック",
+    "reading": "artistic",
+    "code": "cr-kata1-68",
+    "index": 68
+  },
+  {
+    "surface": "アララト",
+    "reading": "ararat",
+    "code": "cr-kata1-69",
+    "index": 69
+  },
+  {
+    "surface": "オンオフ",
+    "reading": "onoff",
+    "code": "cr-kata1-70",
+    "index": 70
+  },
+  {
+    "surface": "オブニンスク",
+    "reading": "obuninsuku",
+    "code": "cr-kata1-71",
+    "index": 71
+  },
+  {
+    "surface": "アンダーハンド",
+    "reading": "underhand",
+    "code": "cr-kata1-72",
+    "index": 72
+  },
+  {
+    "surface": "ウィスキ",
+    "reading": "wesuki",
+    "code": "cr-kata1-73",
+    "index": 73
+  },
+  {
+    "surface": "エボロワ",
+    "reading": "evolutionroi",
+    "code": "cr-kata1-74",
+    "index": 74
+  },
+  {
+    "surface": "アンプ",
+    "reading": "amplifier",
+    "code": "cr-kata1-75",
+    "index": 75
+  },
+  {
+    "surface": "ウインドサーフィン",
+    "reading": "windsurfing",
+    "code": "cr-kata1-76",
+    "index": 76
+  },
+  {
+    "surface": "アクティヴィティー",
+    "reading": "activity",
+    "code": "cr-kata1-77",
+    "index": 77
+  },
+  {
+    "surface": "エフエスエイチ",
+    "reading": "efuesueichi",
+    "code": "cr-kata1-78",
+    "index": 78
+  },
+  {
+    "surface": "エクスプレッション",
+    "reading": "expression",
+    "code": "cr-kata1-79",
+    "index": 79
+  },
+  {
+    "surface": "エスプレッソドピオ",
+    "reading": "esupuressodopio",
+    "code": "cr-kata1-80",
+    "index": 80
+  },
+  {
+    "surface": "アマトリチャーナ",
+    "reading": "amatorichaana",
+    "code": "cr-kata1-81",
+    "index": 81
+  },
+  {
+    "surface": "エサ",
+    "reading": "esa",
+    "code": "cr-kata1-82",
+    "index": 82
+  },
+  {
+    "surface": "オロキエタ",
+    "reading": "orokieta",
+    "code": "cr-kata1-83",
+    "index": 83
+  },
+  {
+    "surface": "アスレティックス",
+    "reading": "athleticsu",
+    "code": "cr-kata1-84",
+    "index": 84
+  },
+  {
+    "surface": "ウェストミンスター",
+    "reading": "westminster",
+    "code": "cr-kata1-85",
+    "index": 85
+  },
+  {
+    "surface": "エヌシー",
+    "reading": "enushii",
+    "code": "cr-kata1-86",
+    "index": 86
+  },
+  {
+    "surface": "エーディーピーシーエム",
+    "reading": "eediipiishiiemu",
+    "code": "cr-kata1-87",
+    "index": 87
+  },
+  {
+    "surface": "アプロディーテー",
+    "reading": "aphrodite",
+    "code": "cr-kata1-88",
+    "index": 88
+  },
+  {
+    "surface": "ウエーハ",
+    "reading": "wafer",
+    "code": "cr-kata1-89",
+    "index": 89
+  },
+  {
+    "surface": "ウェアウルフ",
+    "reading": "werewolf",
+    "code": "cr-kata1-90",
+    "index": 90
+  },
+  {
+    "surface": "インサイダ",
+    "reading": "insaida",
+    "code": "cr-kata1-91",
+    "index": 91
+  },
+  {
+    "surface": "アナライザー",
+    "reading": "analyzer",
+    "code": "cr-kata1-92",
+    "index": 92
+  },
+  {
+    "surface": "イグアノドン",
+    "reading": "iguanodon",
+    "code": "cr-kata1-93",
+    "index": 93
+  },
+  {
+    "surface": "オーシャンサージョン",
+    "reading": "ooshansaajon",
+    "code": "cr-kata1-94",
+    "index": 94
+  },
+  {
+    "surface": "アレス",
+    "reading": "aresu",
+    "code": "cr-kata1-95",
+    "index": 95
+  },
+  {
+    "surface": "オフタイム",
+    "reading": "offtime",
+    "code": "cr-kata1-96",
+    "index": 96
+  },
+  {
+    "surface": "アブハー",
+    "reading": "abuhaa",
+    "code": "cr-kata1-97",
+    "index": 97
+  },
+  {
+    "surface": "エスニック・グループ",
+    "reading": "ethnicgroup",
+    "code": "cr-kata1-98",
+    "index": 98
+  },
+  {
+    "surface": "オナニー",
+    "reading": "onanie",
+    "code": "cr-kata1-99",
+    "index": 99
+  },
+  {
+    "surface": "アフター",
+    "reading": "after",
+    "code": "cr-kata1-100",
+    "index": 100
+  },
+  {
+    "surface": "ウェウェテナンゴ",
+    "reading": "eetenango",
+    "code": "cr-kata1-101",
+    "index": 101
+  },
+  {
+    "surface": "オンジバ",
+    "reading": "onjiba",
+    "code": "cr-kata1-102",
+    "index": 102
+  },
+  {
+    "surface": "エステティックサロン",
+    "reading": "esthetiquesalon",
+    "code": "cr-kata1-103",
+    "index": 103
+  },
+  {
+    "surface": "アドヴァンスト",
+    "reading": "addressvinstrike",
+    "code": "cr-kata1-104",
+    "index": 104
+  },
+  {
+    "surface": "アルフォールヴィル",
+    "reading": "alfallvill",
+    "code": "cr-kata1-105",
+    "index": 105
+  },
+  {
+    "surface": "アンビリ",
+    "reading": "annebiri",
+    "code": "cr-kata1-106",
+    "index": 106
+  },
+  {
+    "surface": "オフミ",
+    "reading": "ofumi",
+    "code": "cr-kata1-107",
+    "index": 107
+  },
+  {
+    "surface": "ウェスト・オルバニー",
+    "reading": "westorubanii",
+    "code": "cr-kata1-108",
+    "index": 108
+  },
+  {
+    "surface": "エプソム",
+    "reading": "epsom",
+    "code": "cr-kata1-109",
+    "index": 109
+  },
+  {
+    "surface": "アランダ・デ・ドゥエロ",
+    "reading": "alandadeduero",
+    "code": "cr-kata1-110",
+    "index": 110
+  },
+  {
+    "surface": "イタチ",
+    "reading": "itachi",
+    "code": "cr-kata1-111",
+    "index": 111
+  },
+  {
+    "surface": "イヒチオール",
+    "reading": "ichthyol",
+    "code": "cr-kata1-112",
+    "index": 112
+  },
+  {
+    "surface": "アツイ",
+    "reading": "atsui",
+    "code": "cr-kata1-113",
+    "index": 113
+  },
+  {
+    "surface": "アムナートチャルーン",
+    "reading": "amunaatocharuun",
+    "code": "cr-kata1-114",
+    "index": 114
+  },
+  {
+    "surface": "エッセー",
+    "reading": "essay",
+    "code": "cr-kata1-115",
+    "index": 115
+  },
+  {
+    "surface": "インダストリアル",
+    "reading": "industrial",
+    "code": "cr-kata1-116",
+    "index": 116
+  },
+  {
+    "surface": "アジュマーン",
+    "reading": "ajumaan",
+    "code": "cr-kata1-117",
+    "index": 117
+  },
+  {
+    "surface": "エヌピーオー",
+    "reading": "enupiioo",
+    "code": "cr-kata1-118",
+    "index": 118
+  },
+  {
+    "surface": "ヴァン",
+    "reading": "vin",
+    "code": "cr-kata1-119",
+    "index": 119
+  },
+  {
+    "surface": "エンターテインメント",
+    "reading": "entertainment",
+    "code": "cr-kata1-120",
+    "index": 120
+  },
+  {
+    "surface": "アネモメーター",
+    "reading": "anemometer",
+    "code": "cr-kata1-121",
+    "index": 121
+  },
+  {
+    "surface": "イードアルアドハー",
+    "reading": "iidoaruadohaa",
+    "code": "cr-kata1-122",
+    "index": 122
+  },
+  {
+    "surface": "イングリッシュホルン",
+    "reading": "englishhorn",
+    "code": "cr-kata1-123",
+    "index": 123
+  },
+  {
+    "surface": "オーバチュア",
+    "reading": "overture",
+    "code": "cr-kata1-124",
+    "index": 124
+  },
+  {
+    "surface": "アリ",
+    "reading": "ari",
+    "code": "cr-kata1-125",
+    "index": 125
+  },
+  {
+    "surface": "アシスタンス",
+    "reading": "assistance",
+    "code": "cr-kata1-126",
+    "index": 126
+  },
+  {
+    "surface": "アイタケ",
+    "reading": "eyetake",
+    "code": "cr-kata1-127",
+    "index": 127
+  },
+  {
+    "surface": "アーティキュレイト",
+    "reading": "aatikyureito",
+    "code": "cr-kata1-128",
+    "index": 128
+  },
+  {
+    "surface": "アフレコ",
+    "reading": "afterrecording",
+    "code": "cr-kata1-129",
+    "index": 129
+  },
+  {
+    "surface": "イモ",
+    "reading": "imo",
+    "code": "cr-kata1-130",
+    "index": 130
+  },
+  {
+    "surface": "ウインドブレーカー",
+    "reading": "windbreaker",
+    "code": "cr-kata1-131",
+    "index": 131
+  },
+  {
+    "surface": "エゾキスゲ",
+    "reading": "ezokisuge",
+    "code": "cr-kata1-132",
+    "index": 132
+  },
+  {
+    "surface": "オバハン",
+    "reading": "obahan",
+    "code": "cr-kata1-133",
+    "index": 133
+  },
+  {
+    "surface": "オレイサ",
+    "reading": "oreysa",
+    "code": "cr-kata1-134",
+    "index": 134
+  },
+  {
+    "surface": "エンスト",
+    "reading": "enginestop",
+    "code": "cr-kata1-135",
+    "index": 135
+  },
+  {
+    "surface": "ウィキ",
+    "reading": "wiki",
+    "code": "cr-kata1-136",
+    "index": 136
+  },
+  {
+    "surface": "アイソキネティックス",
+    "reading": "isokinetic",
+    "code": "cr-kata1-137",
+    "index": 137
+  },
+  {
+    "surface": "ウッディ",
+    "reading": "woody",
+    "code": "cr-kata1-138",
+    "index": 138
+  },
+  {
+    "surface": "イチイ",
+    "reading": "ichii",
+    "code": "cr-kata1-139",
+    "index": 139
+  },
+  {
+    "surface": "アーティフィシャル",
+    "reading": "artificial",
+    "code": "cr-kata1-140",
+    "index": 140
+  },
+  {
+    "surface": "アサート",
+    "reading": "asaato",
+    "code": "cr-kata1-141",
+    "index": 141
+  },
+  {
+    "surface": "アラスカンマラミュート",
+    "reading": "arasukanmaramute",
+    "code": "cr-kata1-142",
+    "index": 142
+  },
+  {
+    "surface": "アランヤ",
+    "reading": "alainya",
+    "code": "cr-kata1-143",
+    "index": 143
+  },
+  {
+    "surface": "ウエディングリング",
+    "reading": "weddingring",
+    "code": "cr-kata1-144",
+    "index": 144
+  },
+  {
+    "surface": "アド",
+    "reading": "address",
+    "code": "cr-kata1-145",
+    "index": 145
+  },
+  {
+    "surface": "オイ",
+    "reading": "oi",
+    "code": "cr-kata1-146",
+    "index": 146
+  },
+  {
+    "surface": "アポリア",
+    "reading": "aporia",
+    "code": "cr-kata1-147",
+    "index": 147
+  },
+  {
+    "surface": "エスプレッソドッピオ",
+    "reading": "esupuressodoppio",
+    "code": "cr-kata1-148",
+    "index": 148
+  },
+  {
+    "surface": "アベレージゴルファー",
+    "reading": "averagegolfer",
+    "code": "cr-kata1-149",
+    "index": 149
+  },
+  {
+    "surface": "エンバーゴ",
+    "reading": "enbaago",
+    "code": "cr-kata1-150",
+    "index": 150
+  },
+  {
+    "surface": "インフォテインメント",
+    "reading": "infoteinmento",
+    "code": "cr-kata1-151",
+    "index": 151
+  },
+  {
+    "surface": "イースト・ロンドン",
+    "reading": "eastlondon",
+    "code": "cr-kata1-152",
+    "index": 152
+  },
+  {
+    "surface": "エアマネ",
+    "reading": "airmoney",
+    "code": "cr-kata1-153",
+    "index": 153
+  },
+  {
+    "surface": "アシ",
+    "reading": "ashi",
+    "code": "cr-kata1-154",
+    "index": 154
+  },
+  {
+    "surface": "アストニッシメント",
+    "reading": "asutonisshimento",
+    "code": "cr-kata1-155",
+    "index": 155
+  },
+  {
+    "surface": "イースト・キルブライド",
+    "reading": "eastkillbride",
+    "code": "cr-kata1-156",
+    "index": 156
+  },
+  {
+    "surface": "インスピレイション",
+    "reading": "inspiration",
+    "code": "cr-kata1-157",
+    "index": 157
+  },
+  {
+    "surface": "インドクトリネーション",
+    "reading": "indoctrination",
+    "code": "cr-kata1-158",
+    "index": 158
+  },
+  {
+    "surface": "ウィ",
+    "reading": "we",
+    "code": "cr-kata1-159",
+    "index": 159
+  },
+  {
+    "surface": "アラ",
+    "reading": "ara",
+    "code": "cr-kata1-160",
+    "index": 160
+  },
+  {
+    "surface": "ヴァラエティ",
+    "reading": "variety",
+    "code": "cr-kata1-161",
+    "index": 161
+  },
+  {
+    "surface": "アメダス",
+    "reading": "amedasu",
+    "code": "cr-kata1-162",
+    "index": 162
+  },
+  {
+    "surface": "オタク",
+    "reading": "otaku",
+    "code": "cr-kata1-163",
+    "index": 163
+  },
+  {
+    "surface": "オフショアセンター",
+    "reading": "offshorecenter",
+    "code": "cr-kata1-164",
+    "index": 164
+  },
+  {
+    "surface": "エイメン",
+    "reading": "eimen",
+    "code": "cr-kata1-165",
+    "index": 165
+  },
+  {
+    "surface": "オオイズミガクエンチョウ",
+    "reading": "ooizumigakuenchou",
+    "code": "cr-kata1-166",
+    "index": 166
+  },
+  {
+    "surface": "イタドリ",
+    "reading": "itadori",
+    "code": "cr-kata1-167",
+    "index": 167
+  },
+  {
+    "surface": "イガイガ",
+    "reading": "igaiga",
+    "code": "cr-kata1-168",
+    "index": 168
+  },
+  {
+    "surface": "インコ",
+    "reading": "inko",
+    "code": "cr-kata1-169",
+    "index": 169
+  },
+  {
+    "surface": "オピニオン・リーダー",
+    "reading": "opinionleader",
+    "code": "cr-kata1-170",
+    "index": 170
+  },
+  {
+    "surface": "オメオメ",
+    "reading": "omeome",
+    "code": "cr-kata1-171",
+    "index": 171
+  },
+  {
+    "surface": "アーデンアーケード",
+    "reading": "ardenarcade",
+    "code": "cr-kata1-172",
+    "index": 172
+  },
+  {
+    "surface": "アレル",
+    "reading": "harel",
+    "code": "cr-kata1-173",
+    "index": 173
+  },
+  {
+    "surface": "エリスロマイシン",
+    "reading": "erythromycin",
+    "code": "cr-kata1-174",
+    "index": 174
+  },
+  {
+    "surface": "アユンパ",
+    "reading": "ayunpa",
+    "code": "cr-kata1-175",
+    "index": 175
+  },
+  {
+    "surface": "オードビ",
+    "reading": "oodobi",
+    "code": "cr-kata1-176",
+    "index": 176
+  },
+  {
+    "surface": "エネミー",
+    "reading": "enemy",
+    "code": "cr-kata1-177",
+    "index": 177
+  },
+  {
+    "surface": "アウグスブルク",
+    "reading": "augusuburuku",
+    "code": "cr-kata1-178",
+    "index": 178
+  },
+  {
+    "surface": "アゴ",
+    "reading": "ago",
+    "code": "cr-kata1-179",
+    "index": 179
+  },
+  {
+    "surface": "アトミズム",
+    "reading": "atomism",
+    "code": "cr-kata1-180",
+    "index": 180
+  },
+  {
+    "surface": "アニリン",
+    "reading": "aniline",
+    "code": "cr-kata1-181",
+    "index": 181
+  },
+  {
+    "surface": "ウルゲンチ",
+    "reading": "urugenchi",
+    "code": "cr-kata1-182",
+    "index": 182
+  },
+  {
+    "surface": "オーバーローン",
+    "reading": "overloan",
+    "code": "cr-kata1-183",
+    "index": 183
+  },
+  {
+    "surface": "ウブ",
+    "reading": "ubu",
+    "code": "cr-kata1-184",
+    "index": 184
+  },
+  {
+    "surface": "オールターナティヴ",
+    "reading": "oorutaanativu",
+    "code": "cr-kata1-185",
+    "index": 185
+  },
+  {
+    "surface": "エリアマーケティング",
+    "reading": "areamarketing",
+    "code": "cr-kata1-186",
+    "index": 186
+  },
+  {
+    "surface": "オイルブレーキ",
+    "reading": "oilbrake",
+    "code": "cr-kata1-187",
+    "index": 187
+  },
+  {
+    "surface": "アンザックビスケット",
+    "reading": "annesackbiscuit",
+    "code": "cr-kata1-188",
+    "index": 188
+  },
+  {
+    "surface": "イブニング・ドレス",
+    "reading": "eveningdress",
+    "code": "cr-kata1-189",
+    "index": 189
+  },
+  {
+    "surface": "アカガシ",
+    "reading": "akagashi",
+    "code": "cr-kata1-190",
+    "index": 190
+  },
+  {
+    "surface": "アンティグア・グアテマラ",
+    "reading": "antiguaguatemala",
+    "code": "cr-kata1-191",
+    "index": 191
+  },
+  {
+    "surface": "アーチダム",
+    "reading": "archdam",
+    "code": "cr-kata1-192",
+    "index": 192
+  },
+  {
+    "surface": "インテリアデザイン",
+    "reading": "interiordesign",
+    "code": "cr-kata1-193",
+    "index": 193
+  },
+  {
+    "surface": "アルファニューメリック",
+    "reading": "arufanyuumerikku",
+    "code": "cr-kata1-194",
+    "index": 194
+  },
+  {
+    "surface": "インターレースギフ",
+    "reading": "interlacegifu",
+    "code": "cr-kata1-195",
+    "index": 195
+  },
+  {
+    "surface": "ウィキペデイア",
+    "reading": "ikipedeia",
+    "code": "cr-kata1-196",
+    "index": 196
+  },
+  {
+    "surface": "オレンジ",
+    "reading": "orange",
+    "code": "cr-kata1-197",
+    "index": 197
+  },
+  {
+    "surface": "イナゴ",
+    "reading": "inago",
+    "code": "cr-kata1-198",
+    "index": 198
+  },
+  {
+    "surface": "オス",
+    "reading": "osu",
+    "code": "cr-kata1-199",
+    "index": 199
+  },
+  {
+    "surface": "エッチピーブイ",
+    "reading": "hpeabuoy",
+    "code": "cr-kata1-200",
+    "index": 200
+  },
+  {
+    "surface": "ウエポン",
+    "reading": "uepon",
+    "code": "cr-kata1-201",
+    "index": 201
+  },
+  {
+    "surface": "エバチップ",
+    "reading": "evachip",
+    "code": "cr-kata1-202",
+    "index": 202
+  },
+  {
+    "surface": "ウィンチェスタディスク",
+    "reading": "inchesutadisuku",
+    "code": "cr-kata1-203",
+    "index": 203
+  },
+  {
+    "surface": "ウメバチソウ",
+    "reading": "umebachisou",
+    "code": "cr-kata1-204",
+    "index": 204
+  },
+  {
+    "surface": "エディト",
+    "reading": "edito",
+    "code": "cr-kata1-205",
+    "index": 205
+  },
+  {
+    "surface": "アフタ",
+    "reading": "after",
+    "code": "cr-kata1-206",
+    "index": 206
+  },
+  {
+    "surface": "オオクロムクドリモドキ",
+    "reading": "ookuromukudorimodoki",
+    "code": "cr-kata1-207",
+    "index": 207
+  },
+  {
+    "surface": "アンダカット",
+    "reading": "annedakatto",
+    "code": "cr-kata1-208",
+    "index": 208
+  },
+  {
+    "surface": "ヴェスプレーム",
+    "reading": "vesupureemu",
+    "code": "cr-kata1-209",
+    "index": 209
+  },
+  {
+    "surface": "オブ",
+    "reading": "of",
+    "code": "cr-kata1-210",
+    "index": 210
+  },
+  {
+    "surface": "アルゴリズミック",
+    "reading": "algorithmic",
+    "code": "cr-kata1-211",
+    "index": 211
+  },
+  {
+    "surface": "イメクラ",
+    "reading": "imageclub",
+    "code": "cr-kata1-212",
+    "index": 212
+  },
+  {
+    "surface": "ウインド",
+    "reading": "wind",
+    "code": "cr-kata1-213",
+    "index": 213
+  },
+  {
+    "surface": "エニシダ",
+    "reading": "enishida",
+    "code": "cr-kata1-214",
+    "index": 214
+  },
+  {
+    "surface": "イーダブリューエス",
+    "reading": "iidaburyuuesu",
+    "code": "cr-kata1-215",
+    "index": 215
+  },
+  {
+    "surface": "ア・プリオリ",
+    "reading": "apriori",
+    "code": "cr-kata1-216",
+    "index": 216
+  },
+  {
+    "surface": "ウェルバ",
+    "reading": "eruba",
+    "code": "cr-kata1-217",
+    "index": 217
+  },
+  {
+    "surface": "アットホーム",
+    "reading": "athome",
+    "code": "cr-kata1-218",
+    "index": 218
+  },
+  {
+    "surface": "エンキャプシュレーション",
+    "reading": "encapsulation",
+    "code": "cr-kata1-219",
+    "index": 219
+  },
+  {
+    "surface": "インチネジ",
+    "reading": "inchneji",
+    "code": "cr-kata1-220",
+    "index": 220
+  },
+  {
+    "surface": "イーディーティーエー",
+    "reading": "iidiitiiee",
+    "code": "cr-kata1-221",
+    "index": 221
+  },
+  {
+    "surface": "アニソン",
+    "reading": "anison",
+    "code": "cr-kata1-222",
+    "index": 222
+  },
+  {
+    "surface": "アビラ",
+    "reading": "abira",
+    "code": "cr-kata1-223",
+    "index": 223
+  },
+  {
+    "surface": "ウイ",
+    "reading": "ui",
+    "code": "cr-kata1-224",
+    "index": 224
+  },
+  {
+    "surface": "アストリンゼント",
+    "reading": "astringent",
+    "code": "cr-kata1-225",
+    "index": 225
+  },
+  {
+    "surface": "アスタラ",
+    "reading": "asutara",
+    "code": "cr-kata1-226",
+    "index": 226
+  },
+  {
+    "surface": "オーボンヌ",
+    "reading": "oobon",
+    "code": "cr-kata1-227",
+    "index": 227
+  },
+  {
+    "surface": "エスパー",
+    "reading": "esper",
+    "code": "cr-kata1-228",
+    "index": 228
+  },
+  {
+    "surface": "アッセンブリー",
+    "reading": "assembly",
+    "code": "cr-kata1-229",
+    "index": 229
+  },
+  {
+    "surface": "エゲレス",
+    "reading": "inglez",
+    "code": "cr-kata1-230",
+    "index": 230
+  },
+  {
+    "surface": "アプロプリエーションアート",
+    "reading": "apuropurieeshonaato",
+    "code": "cr-kata1-231",
+    "index": 231
+  },
+  {
+    "surface": "ウクメルゲ",
+    "reading": "ukumeruge",
+    "code": "cr-kata1-232",
+    "index": 232
+  },
+  {
+    "surface": "アンフィプロステュロス",
+    "reading": "anfipurosutyurosu",
+    "code": "cr-kata1-233",
+    "index": 233
+  },
+  {
+    "surface": "ウィンカ",
+    "reading": "winka",
+    "code": "cr-kata1-234",
+    "index": 234
+  },
+  {
+    "surface": "イレズミコンニャクアジ",
+    "reading": "irezumikonnyakuaji",
+    "code": "cr-kata1-235",
+    "index": 235
+  },
+  {
+    "surface": "イランド",
+    "reading": "eland",
+    "code": "cr-kata1-236",
+    "index": 236
+  },
+  {
+    "surface": "アグリビジネス",
+    "reading": "agribusiness",
+    "code": "cr-kata1-237",
+    "index": 237
+  },
+  {
+    "surface": "アピーズメントポリシー",
+    "reading": "apiizumentoporishii",
+    "code": "cr-kata1-238",
+    "index": 238
+  },
+  {
+    "surface": "ウエルバ",
+    "reading": "ueruba",
+    "code": "cr-kata1-239",
+    "index": 239
+  },
+  {
+    "surface": "ウフッ",
+    "reading": "ufu",
+    "code": "cr-kata1-240",
+    "index": 240
+  },
+  {
+    "surface": "アマシイラ",
+    "reading": "amateurshiira",
+    "code": "cr-kata1-241",
+    "index": 241
+  },
+  {
+    "surface": "ウェーコ",
+    "reading": "wayko",
+    "code": "cr-kata1-242",
+    "index": 242
+  },
+  {
+    "surface": "エンターテイメント",
+    "reading": "entertainment",
+    "code": "cr-kata1-243",
+    "index": 243
+  },
+  {
+    "surface": "インフォメーションギャプ",
+    "reading": "infomeeshongyapu",
+    "code": "cr-kata1-244",
+    "index": 244
+  },
+  {
+    "surface": "イスラエル",
+    "reading": "israel",
+    "code": "cr-kata1-245",
+    "index": 245
+  },
+  {
+    "surface": "エスカロップ",
+    "reading": "escalopes",
+    "code": "cr-kata1-246",
+    "index": 246
+  },
+  {
+    "surface": "イントランス",
+    "reading": "intrance",
+    "code": "cr-kata1-247",
+    "index": 247
+  },
+  {
+    "surface": "オトシンクルス",
+    "reading": "otoshinkurusu",
+    "code": "cr-kata1-248",
+    "index": 248
+  },
+  {
+    "surface": "インバー",
+    "reading": "inbaa",
+    "code": "cr-kata1-249",
+    "index": 249
+  },
+  {
+    "surface": "アック",
+    "reading": "akku",
+    "code": "cr-kata1-250",
+    "index": 250
+  },
+  {
+    "surface": "アソシエイト",
+    "reading": "associate",
+    "code": "cr-kata1-251",
+    "index": 251
+  },
+  {
+    "surface": "エンジェルフィッシュ",
+    "reading": "angelfish",
+    "code": "cr-kata1-252",
+    "index": 252
+  },
+  {
+    "surface": "アイパック",
+    "reading": "eyepack",
+    "code": "cr-kata1-253",
+    "index": 253
+  },
+  {
+    "surface": "ウラウズガイ",
+    "reading": "urauzugai",
+    "code": "cr-kata1-254",
+    "index": 254
+  },
+  {
+    "surface": "アクス",
+    "reading": "aqsu",
+    "code": "cr-kata1-255",
+    "index": 255
+  },
+  {
+    "surface": "アクセンチュエイション",
+    "reading": "akusenchueishon",
+    "code": "cr-kata1-256",
+    "index": 256
+  },
+  {
+    "surface": "アンダー",
+    "reading": "under",
+    "code": "cr-kata1-257",
+    "index": 257
+  },
+  {
+    "surface": "オプチミスティック",
+    "reading": "optimistic",
+    "code": "cr-kata1-258",
+    "index": 258
+  },
+  {
+    "surface": "ウィリマンティック",
+    "reading": "irimantikku",
+    "code": "cr-kata1-259",
+    "index": 259
+  },
+  {
+    "surface": "アケボノソウ",
+    "reading": "akebonosou",
+    "code": "cr-kata1-260",
+    "index": 260
+  },
+  {
+    "surface": "イグアナ",
+    "reading": "iguana",
+    "code": "cr-kata1-261",
+    "index": 261
+  },
+  {
+    "surface": "ウインドーショッピング",
+    "reading": "windowshopping",
+    "code": "cr-kata1-262",
+    "index": 262
+  },
+  {
+    "surface": "エスエス",
+    "reading": "esuesu",
+    "code": "cr-kata1-263",
+    "index": 263
+  },
+  {
+    "surface": "オフコース",
+    "reading": "offcourse",
+    "code": "cr-kata1-264",
+    "index": 264
+  },
+  {
+    "surface": "オンラインマガジン",
+    "reading": "onlinemagazine",
+    "code": "cr-kata1-265",
+    "index": 265
+  },
+  {
+    "surface": "エレバン",
+    "reading": "yerevan",
+    "code": "cr-kata1-266",
+    "index": 266
+  },
+  {
+    "surface": "アンサブスクライブ",
+    "reading": "annesubscribe",
+    "code": "cr-kata1-267",
+    "index": 267
+  },
+  {
+    "surface": "インフレーション",
+    "reading": "inflation",
+    "code": "cr-kata1-268",
+    "index": 268
+  },
+  {
+    "surface": "エネ",
+    "reading": "energy",
+    "code": "cr-kata1-269",
+    "index": 269
+  },
+  {
+    "surface": "インプリンティング",
+    "reading": "imprinting",
+    "code": "cr-kata1-270",
+    "index": 270
+  },
+  {
+    "surface": "アテレクトミー",
+    "reading": "atherectomy",
+    "code": "cr-kata1-271",
+    "index": 271
+  },
+  {
+    "surface": "ヴァンドペイ",
+    "reading": "vandopei",
+    "code": "cr-kata1-272",
+    "index": 272
+  },
+  {
+    "surface": "アティックス",
+    "reading": "atikkusu",
+    "code": "cr-kata1-273",
+    "index": 273
+  },
+  {
+    "surface": "オトコ",
+    "reading": "otoko",
+    "code": "cr-kata1-274",
+    "index": 274
+  },
+  {
+    "surface": "イリンガ",
+    "reading": "iringa",
+    "code": "cr-kata1-275",
+    "index": 275
+  },
+  {
+    "surface": "エデア",
+    "reading": "edea",
+    "code": "cr-kata1-276",
+    "index": 276
+  },
+  {
+    "surface": "オタ",
+    "reading": "ota",
+    "code": "cr-kata1-277",
+    "index": 277
+  },
+  {
+    "surface": "オカズ",
+    "reading": "okazu",
+    "code": "cr-kata1-278",
+    "index": 278
+  },
+  {
+    "surface": "イケ",
+    "reading": "ike",
+    "code": "cr-kata1-279",
+    "index": 279
+  },
+  {
+    "surface": "アイシー",
+    "reading": "icy",
+    "code": "cr-kata1-280",
+    "index": 280
+  },
+  {
+    "surface": "ウシ",
+    "reading": "ushi",
+    "code": "cr-kata1-281",
+    "index": 281
+  },
+  {
+    "surface": "ウニ",
+    "reading": "uni",
+    "code": "cr-kata1-282",
+    "index": 282
+  },
+  {
+    "surface": "インスティテューション",
+    "reading": "insutityuushon",
+    "code": "cr-kata1-283",
+    "index": 283
+  },
+  {
+    "surface": "オーシャン・サイド",
+    "reading": "oceanside",
+    "code": "cr-kata1-284",
+    "index": 284
+  },
+  {
+    "surface": "エスニシティー",
+    "reading": "ethnicity",
+    "code": "cr-kata1-285",
+    "index": 285
+  },
+  {
+    "surface": "オーバーホール",
+    "reading": "overhaul",
+    "code": "cr-kata1-286",
+    "index": 286
+  },
+  {
+    "surface": "アイヒャッハ",
+    "reading": "aihyahha",
+    "code": "cr-kata1-287",
+    "index": 287
+  },
+  {
+    "surface": "エンドサイトーシス",
+    "reading": "endocytosis",
+    "code": "cr-kata1-288",
+    "index": 288
+  },
+  {
+    "surface": "イルビド",
+    "reading": "irubido",
+    "code": "cr-kata1-289",
+    "index": 289
+  },
+  {
+    "surface": "イバ",
+    "reading": "iba",
+    "code": "cr-kata1-290",
+    "index": 290
+  },
+  {
+    "surface": "イタカジ",
+    "reading": "itakaji",
+    "code": "cr-kata1-291",
+    "index": 291
+  },
+  {
+    "surface": "エタロン",
+    "reading": "etaron",
+    "code": "cr-kata1-292",
+    "index": 292
+  },
+  {
+    "surface": "エーエルティー",
+    "reading": "eeerutii",
+    "code": "cr-kata1-293",
+    "index": 293
+  },
+  {
+    "surface": "エポニム",
+    "reading": "eponim",
+    "code": "cr-kata1-294",
+    "index": 294
+  },
+  {
+    "surface": "イカサマ",
+    "reading": "ikasama",
+    "code": "cr-kata1-295",
+    "index": 295
+  },
+  {
+    "surface": "アクリル",
+    "reading": "acryl",
+    "code": "cr-kata1-296",
+    "index": 296
+  },
+  {
+    "surface": "イリノイ",
+    "reading": "illinois",
+    "code": "cr-kata1-297",
+    "index": 297
+  },
+  {
+    "surface": "オールオーディナリーズ",
+    "reading": "ooruoodinariizu",
+    "code": "cr-kata1-298",
+    "index": 298
+  },
+  {
+    "surface": "イクラ",
+    "reading": "ikra",
+    "code": "cr-kata1-299",
+    "index": 299
+  },
+  {
+    "surface": "アーケイズム",
+    "reading": "aakeizumu",
+    "code": "cr-kata1-300",
+    "index": 300
+  },
+  {
+    "surface": "インスタントコーヒー",
+    "reading": "instantcoffee",
+    "code": "cr-kata1-301",
+    "index": 301
+  },
+  {
+    "surface": "オッグ",
+    "reading": "oggu",
+    "code": "cr-kata1-302",
+    "index": 302
+  },
+  {
+    "surface": "アクチャカレ",
+    "reading": "akuchakare",
+    "code": "cr-kata1-303",
+    "index": 303
+  },
+  {
+    "surface": "エモーショナリスム",
+    "reading": "emooshonarisumu",
+    "code": "cr-kata1-304",
+    "index": 304
+  },
+  {
+    "surface": "オニユリ",
+    "reading": "oniyuri",
+    "code": "cr-kata1-305",
+    "index": 305
+  },
+  {
+    "surface": "エセインテリ",
+    "reading": "eseintelligentsiya",
+    "code": "cr-kata1-306",
+    "index": 306
+  },
+  {
+    "surface": "ウェディングマーチ",
+    "reading": "weddingmarch",
+    "code": "cr-kata1-307",
+    "index": 307
+  },
+  {
+    "surface": "エバ",
+    "reading": "eva",
+    "code": "cr-kata1-308",
+    "index": 308
+  },
+  {
+    "surface": "ヴェナリーア・レアーレ",
+    "reading": "venariiareaare",
+    "code": "cr-kata1-309",
+    "index": 309
+  },
+  {
+    "surface": "アゴヒゲ",
+    "reading": "agohige",
+    "code": "cr-kata1-310",
+    "index": 310
+  },
+  {
+    "surface": "オールターナティブ",
+    "reading": "alternative",
+    "code": "cr-kata1-311",
+    "index": 311
+  },
+  {
+    "surface": "インタラクティビティー",
+    "reading": "interactivity",
+    "code": "cr-kata1-312",
+    "index": 312
+  },
+  {
+    "surface": "アク",
+    "reading": "aku",
+    "code": "cr-kata1-313",
+    "index": 313
+  },
+  {
+    "surface": "インゴール",
+    "reading": "ingoal",
+    "code": "cr-kata1-314",
+    "index": 314
+  },
+  {
+    "surface": "アブソリュート",
+    "reading": "absolute",
+    "code": "cr-kata1-315",
+    "index": 315
+  },
+  {
+    "surface": "ウゾ",
+    "reading": "ouzo",
+    "code": "cr-kata1-316",
+    "index": 316
+  },
+  {
+    "surface": "オーバーオール",
+    "reading": "oobaaooru",
+    "code": "cr-kata1-317",
+    "index": 317
+  },
+  {
+    "surface": "アイコニックインタフェース",
+    "reading": "aikonikkuintafeesu",
+    "code": "cr-kata1-318",
+    "index": 318
+  },
+  {
+    "surface": "エンターティメント",
+    "reading": "entertainment",
+    "code": "cr-kata1-319",
+    "index": 319
+  },
+  {
+    "surface": "ウォンテッド",
+    "reading": "wanted",
+    "code": "cr-kata1-320",
+    "index": 320
+  },
+  {
+    "surface": "エルヴン",
+    "reading": "eruvun",
+    "code": "cr-kata1-321",
+    "index": 321
+  },
+  {
+    "surface": "アポストロフィ",
+    "reading": "apostrophe",
+    "code": "cr-kata1-322",
+    "index": 322
+  },
+  {
+    "surface": "アマゾニス",
+    "reading": "amazonisu",
+    "code": "cr-kata1-323",
+    "index": 323
+  },
+  {
+    "surface": "アーテフィス",
+    "reading": "aatefisu",
+    "code": "cr-kata1-324",
+    "index": 324
+  },
+  {
+    "surface": "アーミン",
+    "reading": "ermine",
+    "code": "cr-kata1-325",
+    "index": 325
+  },
+  {
+    "surface": "ウンウンオクチウム",
+    "reading": "ununokuchiumu",
+    "code": "cr-kata1-326",
+    "index": 326
+  },
+  {
+    "surface": "アヴィーナサティヴァ",
+    "reading": "aviinasativa",
+    "code": "cr-kata1-327",
+    "index": 327
+  },
+  {
+    "surface": "オーシャン",
+    "reading": "ocean",
+    "code": "cr-kata1-328",
+    "index": 328
+  },
+  {
+    "surface": "アーキテクチュラル",
+    "reading": "aakitekuchuraru",
+    "code": "cr-kata1-329",
+    "index": 329
+  },
+  {
+    "surface": "エスファハーン",
+    "reading": "esufahaan",
+    "code": "cr-kata1-330",
+    "index": 330
+  },
+  {
+    "surface": "アファーマティブ・アクション",
+    "reading": "affirmativeaction",
+    "code": "cr-kata1-331",
+    "index": 331
+  },
+  {
+    "surface": "イヤ",
+    "reading": "iya",
+    "code": "cr-kata1-332",
+    "index": 332
+  },
+  {
+    "surface": "エメンタール",
+    "reading": "emmental",
+    "code": "cr-kata1-333",
+    "index": 333
+  },
+  {
+    "surface": "ウスラー",
+    "reading": "usura",
+    "code": "cr-kata1-334",
+    "index": 334
+  },
+  {
+    "surface": "イントロダクション",
+    "reading": "introduction",
+    "code": "cr-kata1-335",
+    "index": 335
+  },
+  {
+    "surface": "インサイドストーリー",
+    "reading": "insidestory",
+    "code": "cr-kata1-336",
+    "index": 336
+  },
+  {
+    "surface": "エープリル・フール",
+    "reading": "aprilfour",
+    "code": "cr-kata1-337",
+    "index": 337
+  },
+  {
+    "surface": "ウィンストン・セーラム",
+    "reading": "winstonseeramu",
+    "code": "cr-kata1-338",
+    "index": 338
+  },
+  {
+    "surface": "イネゾウムシ",
+    "reading": "inezoumushi",
+    "code": "cr-kata1-339",
+    "index": 339
+  },
+  {
+    "surface": "イリジャ",
+    "reading": "irija",
+    "code": "cr-kata1-340",
+    "index": 340
+  },
+  {
+    "surface": "アニマ",
+    "reading": "anima",
+    "code": "cr-kata1-341",
+    "index": 341
+  },
+  {
+    "surface": "アユ",
+    "reading": "ayu",
+    "code": "cr-kata1-342",
+    "index": 342
+  },
+  {
+    "surface": "インデックスファンド",
+    "reading": "indexfund",
+    "code": "cr-kata1-343",
+    "index": 343
+  },
+  {
+    "surface": "アブカイク",
+    "reading": "abukaiku",
+    "code": "cr-kata1-344",
+    "index": 344
+  },
+  {
+    "surface": "ウミネコ",
+    "reading": "umineko",
+    "code": "cr-kata1-345",
+    "index": 345
+  },
+  {
+    "surface": "アバ",
+    "reading": "aba",
+    "code": "cr-kata1-346",
+    "index": 346
+  },
+  {
+    "surface": "イクナイ",
+    "reading": "ikunai",
+    "code": "cr-kata1-347",
+    "index": 347
+  },
+  {
+    "surface": "ウィンドーショッピング",
+    "reading": "windowshopping",
+    "code": "cr-kata1-348",
+    "index": 348
+  },
+  {
+    "surface": "イルージョン",
+    "reading": "illusion",
+    "code": "cr-kata1-349",
+    "index": 349
+  },
+  {
+    "surface": "アセス",
+    "reading": "assess",
+    "code": "cr-kata1-350",
+    "index": 350
+  },
+  {
+    "surface": "イコール・パートナー",
+    "reading": "equalpartner",
+    "code": "cr-kata1-351",
+    "index": 351
+  },
+  {
+    "surface": "エレクトロゴルスク",
+    "reading": "erekutorogorusuku",
+    "code": "cr-kata1-352",
+    "index": 352
+  },
+  {
+    "surface": "エポウレットシャーク",
+    "reading": "epourettoshaaku",
+    "code": "cr-kata1-353",
+    "index": 353
+  },
+  {
+    "surface": "エスエルイー",
+    "reading": "esueruii",
+    "code": "cr-kata1-354",
+    "index": 354
+  },
+  {
+    "surface": "オービス",
+    "reading": "oobisu",
+    "code": "cr-kata1-355",
+    "index": 355
+  },
+  {
+    "surface": "ヴォキャブラリー",
+    "reading": "vocabulary",
+    "code": "cr-kata1-356",
+    "index": 356
+  },
+  {
+    "surface": "アア",
+    "reading": "aa",
+    "code": "cr-kata1-357",
+    "index": 357
+  },
+  {
+    "surface": "ウラマー",
+    "reading": "ulama",
+    "code": "cr-kata1-358",
+    "index": 358
+  },
+  {
+    "surface": "アイティー",
+    "reading": "aitii",
+    "code": "cr-kata1-359",
+    "index": 359
+  },
+  {
+    "surface": "エアブリージングエンジン",
+    "reading": "airbreathingengine",
+    "code": "cr-kata1-360",
+    "index": 360
+  },
+  {
+    "surface": "アリススプリングス",
+    "reading": "alicesprings",
+    "code": "cr-kata1-361",
+    "index": 361
+  },
+  {
+    "surface": "アイボリーホワイト",
+    "reading": "ivorywhite",
+    "code": "cr-kata1-362",
+    "index": 362
+  },
+  {
+    "surface": "アカミミダレミツスイ",
+    "reading": "akamimidaremitsusui",
+    "code": "cr-kata1-363",
+    "index": 363
+  },
+  {
+    "surface": "イスタンブル",
+    "reading": "istanbul",
+    "code": "cr-kata1-364",
+    "index": 364
+  },
+  {
+    "surface": "エロジナスゾーン",
+    "reading": "erojinasuzoon",
+    "code": "cr-kata1-365",
+    "index": 365
+  },
+  {
+    "surface": "アロサウルス",
+    "reading": "allosaurus",
+    "code": "cr-kata1-366",
+    "index": 366
+  },
+  {
+    "surface": "ウェイト",
+    "reading": "weight",
+    "code": "cr-kata1-367",
+    "index": 367
+  },
+  {
+    "surface": "オドルヘユ・セクイエスク",
+    "reading": "odoruheyusekuiesuku",
+    "code": "cr-kata1-368",
+    "index": 368
+  },
+  {
+    "surface": "オキシドレダクターゼ",
+    "reading": "okishidoredakutaaze",
+    "code": "cr-kata1-369",
+    "index": 369
+  },
+  {
+    "surface": "オタリア",
+    "reading": "otaria",
+    "code": "cr-kata1-370",
+    "index": 370
+  },
+  {
+    "surface": "アルティチュードダイブ",
+    "reading": "arutichuudodaibu",
+    "code": "cr-kata1-371",
+    "index": 371
+  },
+  {
+    "surface": "エゴイスト",
+    "reading": "egoist",
+    "code": "cr-kata1-372",
+    "index": 372
+  },
+  {
+    "surface": "アマリロ",
+    "reading": "amateurriro",
+    "code": "cr-kata1-373",
+    "index": 373
+  },
+  {
+    "surface": "アメリカヤマボウシ",
+    "reading": "americayamaboushi",
+    "code": "cr-kata1-374",
+    "index": 374
+  },
+  {
+    "surface": "アテレコ",
+    "reading": "atereko",
+    "code": "cr-kata1-375",
+    "index": 375
+  },
+  {
+    "surface": "ウイック",
+    "reading": "uikku",
+    "code": "cr-kata1-376",
+    "index": 376
+  },
+  {
+    "surface": "ウイニング",
+    "reading": "winning",
+    "code": "cr-kata1-377",
+    "index": 377
+  },
+  {
+    "surface": "アーカイバー",
+    "reading": "archiver",
+    "code": "cr-kata1-378",
+    "index": 378
+  },
+  {
+    "surface": "アスベスト",
+    "reading": "asbest",
+    "code": "cr-kata1-379",
+    "index": 379
+  },
+  {
+    "surface": "オンラインサービス",
+    "reading": "onlineservice",
+    "code": "cr-kata1-380",
+    "index": 380
+  },
+  {
+    "surface": "アパートメント",
+    "reading": "apartment",
+    "code": "cr-kata1-381",
+    "index": 381
+  },
+  {
+    "surface": "オーストラロイド",
+    "reading": "australoid",
+    "code": "cr-kata1-382",
+    "index": 382
+  },
+  {
+    "surface": "オシャワ",
+    "reading": "oshawa",
+    "code": "cr-kata1-383",
+    "index": 383
+  },
+  {
+    "surface": "エアロビクス",
+    "reading": "aerobic",
+    "code": "cr-kata1-384",
+    "index": 384
+  },
+  {
+    "surface": "アレグロ",
+    "reading": "allegro",
+    "code": "cr-kata1-385",
+    "index": 385
+  },
+  {
+    "surface": "インスパイアー",
+    "reading": "inspire",
+    "code": "cr-kata1-386",
+    "index": 386
+  },
+  {
+    "surface": "ウェブスターグローブス",
+    "reading": "websterguroobusu",
+    "code": "cr-kata1-387",
+    "index": 387
+  },
+  {
+    "surface": "インフラストラクチャー",
+    "reading": "infrastructure",
+    "code": "cr-kata1-388",
+    "index": 388
+  },
+  {
+    "surface": "ウェストバレーシティ",
+    "reading": "westvolleycity",
+    "code": "cr-kata1-389",
+    "index": 389
+  },
+  {
+    "surface": "エベレスト",
+    "reading": "everest",
+    "code": "cr-kata1-390",
+    "index": 390
+  },
+  {
+    "surface": "ウィット",
+    "reading": "wit",
+    "code": "cr-kata1-391",
+    "index": 391
+  },
+  {
+    "surface": "エキサイトメント",
+    "reading": "ekisaitomento",
+    "code": "cr-kata1-392",
+    "index": 392
+  },
+  {
+    "surface": "オンラインバンキング",
+    "reading": "onlinebanking",
+    "code": "cr-kata1-393",
+    "index": 393
+  },
+  {
+    "surface": "エイプリル・フール",
+    "reading": "aprilfour",
+    "code": "cr-kata1-394",
+    "index": 394
+  },
+  {
+    "surface": "ヴァイブラフォーン",
+    "reading": "vibraphone",
+    "code": "cr-kata1-395",
+    "index": 395
+  },
+  {
+    "surface": "アイラブユー",
+    "reading": "eyeloveyou",
+    "code": "cr-kata1-396",
+    "index": 396
+  },
+  {
+    "surface": "アマゾーン",
+    "reading": "amateurzone",
+    "code": "cr-kata1-397",
+    "index": 397
+  },
+  {
+    "surface": "インプリケーション",
+    "reading": "implication",
+    "code": "cr-kata1-398",
+    "index": 398
+  },
+  {
+    "surface": "イレギュラー",
+    "reading": "irregular",
+    "code": "cr-kata1-399",
+    "index": 399
+  },
+  {
+    "surface": "アンプレッショニスム",
+    "reading": "anpuresshonisumu",
+    "code": "cr-kata1-400",
+    "index": 400
+  },
+  {
+    "surface": "エゲル",
+    "reading": "etgel",
+    "code": "cr-kata1-401",
+    "index": 401
+  },
+  {
+    "surface": "イメージ",
+    "reading": "image",
+    "code": "cr-kata1-402",
+    "index": 402
+  },
+  {
+    "surface": "エウク",
+    "reading": "euku",
+    "code": "cr-kata1-403",
+    "index": 403
+  },
+  {
+    "surface": "アイデアリズム",
+    "reading": "idearhythm",
+    "code": "cr-kata1-404",
+    "index": 404
+  },
+  {
+    "surface": "アンフォロー",
+    "reading": "anfolow",
+    "code": "cr-kata1-405",
+    "index": 405
+  },
+  {
+    "surface": "ヴァイル・アム・ライン",
+    "reading": "weillamuline",
+    "code": "cr-kata1-406",
+    "index": 406
+  },
+  {
+    "surface": "オケ",
+    "reading": "orchestra",
+    "code": "cr-kata1-407",
+    "index": 407
+  },
+  {
+    "surface": "インヨウカク",
+    "reading": "inyoukaku",
+    "code": "cr-kata1-408",
+    "index": 408
+  },
+  {
+    "surface": "アミン",
+    "reading": "amine",
+    "code": "cr-kata1-409",
+    "index": 409
+  },
+  {
+    "surface": "アサシン",
+    "reading": "assassin",
+    "code": "cr-kata1-410",
+    "index": 410
+  },
+  {
+    "surface": "エフイーピー",
+    "reading": "efuiipii",
+    "code": "cr-kata1-411",
+    "index": 411
+  },
+  {
+    "surface": "インスティチューション",
+    "reading": "institution",
+    "code": "cr-kata1-412",
+    "index": 412
+  },
+  {
+    "surface": "アックアヴィーヴァ・デッレ・フォンティ",
+    "reading": "akkuaviivaderrefonti",
+    "code": "cr-kata1-413",
+    "index": 413
+  },
+  {
+    "surface": "インスタント・コーヒー",
+    "reading": "instantcoffee",
+    "code": "cr-kata1-414",
+    "index": 414
+  },
+  {
+    "surface": "アーカイヴ",
+    "reading": "archive",
+    "code": "cr-kata1-415",
+    "index": 415
+  },
+  {
+    "surface": "アカウンタビリティー",
+    "reading": "acountability",
+    "code": "cr-kata1-416",
+    "index": 416
+  },
+  {
+    "surface": "オンドル",
+    "reading": "ondoru",
+    "code": "cr-kata1-417",
+    "index": 417
+  },
+  {
+    "surface": "アシメトリー",
+    "reading": "asymmetry",
+    "code": "cr-kata1-418",
+    "index": 418
+  },
+  {
+    "surface": "アフロヘア",
+    "reading": "afrohair",
+    "code": "cr-kata1-419",
+    "index": 419
+  },
+  {
+    "surface": "アルドン",
+    "reading": "aldon",
+    "code": "cr-kata1-420",
+    "index": 420
+  },
+  {
+    "surface": "イニ",
+    "reading": "ini",
+    "code": "cr-kata1-421",
+    "index": 421
+  },
+  {
+    "surface": "アフィリエートプログラム",
+    "reading": "affiliateprogram",
+    "code": "cr-kata1-422",
+    "index": 422
+  },
+  {
+    "surface": "オペ",
+    "reading": "operation",
+    "code": "cr-kata1-423",
+    "index": 423
+  },
+  {
+    "surface": "ウンダイ",
+    "reading": "undai",
+    "code": "cr-kata1-424",
+    "index": 424
+  },
+  {
+    "surface": "イコライザー",
+    "reading": "equalizer",
+    "code": "cr-kata1-425",
+    "index": 425
+  },
+  {
+    "surface": "イェケパ",
+    "reading": "ekepa",
+    "code": "cr-kata1-426",
+    "index": 426
+  },
+  {
+    "surface": "アクア",
+    "reading": "aqua",
+    "code": "cr-kata1-427",
+    "index": 427
+  },
+  {
+    "surface": "イールド",
+    "reading": "yield",
+    "code": "cr-kata1-428",
+    "index": 428
+  },
+  {
+    "surface": "アリッサム",
+    "reading": "alyssum",
+    "code": "cr-kata1-429",
+    "index": 429
+  },
+  {
+    "surface": "ヴォーン",
+    "reading": "bourne",
+    "code": "cr-kata1-430",
+    "index": 430
+  },
+  {
+    "surface": "アゲインストウインド",
+    "reading": "againstrikewind",
+    "code": "cr-kata1-431",
+    "index": 431
+  },
+  {
+    "surface": "インディビジュアリズム",
+    "reading": "indibijuarizumu",
+    "code": "cr-kata1-432",
+    "index": 432
+  },
+  {
+    "surface": "オリンピックイヤー",
+    "reading": "olympicyear",
+    "code": "cr-kata1-433",
+    "index": 433
+  },
+  {
+    "surface": "オツ",
+    "reading": "otsu",
+    "code": "cr-kata1-434",
+    "index": 434
+  },
+  {
+    "surface": "アルドステロン",
+    "reading": "aldosterone",
+    "code": "cr-kata1-435",
+    "index": 435
+  },
+  {
+    "surface": "アヴィエーション",
+    "reading": "avieeshon",
+    "code": "cr-kata1-436",
+    "index": 436
+  },
+  {
+    "surface": "イクセル",
+    "reading": "ixelles",
+    "code": "cr-kata1-437",
+    "index": 437
+  },
+  {
+    "surface": "エンタメ",
+    "reading": "entertainment",
+    "code": "cr-kata1-438",
+    "index": 438
+  },
+  {
+    "surface": "アクセルレーター",
+    "reading": "akuserureetaa",
+    "code": "cr-kata1-439",
+    "index": 439
+  },
+  {
+    "surface": "アーヘン",
+    "reading": "aachen",
+    "code": "cr-kata1-440",
+    "index": 440
+  },
+  {
+    "surface": "イワナ",
+    "reading": "iwana",
+    "code": "cr-kata1-441",
+    "index": 441
+  },
+  {
+    "surface": "オーバースロー",
+    "reading": "overthrow",
+    "code": "cr-kata1-442",
+    "index": 442
+  },
+  {
+    "surface": "アナーキズム",
+    "reading": "anarchism",
+    "code": "cr-kata1-443",
+    "index": 443
+  },
+  {
+    "surface": "アイピーブイシックス",
+    "reading": "aipiibuoysix",
+    "code": "cr-kata1-444",
+    "index": 444
+  },
+  {
+    "surface": "エルステッド",
+    "reading": "erusuteddo",
+    "code": "cr-kata1-445",
+    "index": 445
+  },
+  {
+    "surface": "エアブラシ",
+    "reading": "airbrush",
+    "code": "cr-kata1-446",
+    "index": 446
+  },
+  {
+    "surface": "アトリビュート",
+    "reading": "attribute",
+    "code": "cr-kata1-447",
+    "index": 447
+  },
+  {
+    "surface": "アオザメ",
+    "reading": "aozame",
+    "code": "cr-kata1-448",
+    "index": 448
+  },
+  {
+    "surface": "エコツアー",
+    "reading": "ekotsuaa",
+    "code": "cr-kata1-449",
+    "index": 449
+  },
+  {
+    "surface": "アイシャドウ",
+    "reading": "eyeshadow",
+    "code": "cr-kata1-450",
+    "index": 450
+  },
+  {
+    "surface": "ヴェローナ",
+    "reading": "verona",
+    "code": "cr-kata1-451",
+    "index": 451
+  },
+  {
+    "surface": "オオアメリカモモンガ",
+    "reading": "ooamerikamomonga",
+    "code": "cr-kata1-452",
+    "index": 452
+  },
+  {
+    "surface": "アジャン",
+    "reading": "ajean",
+    "code": "cr-kata1-453",
+    "index": 453
+  },
+  {
+    "surface": "ウェルダン",
+    "reading": "welldan",
+    "code": "cr-kata1-454",
+    "index": 454
+  },
+  {
+    "surface": "アールディービーエムエス",
+    "reading": "aarudiibiiemuesu",
+    "code": "cr-kata1-455",
+    "index": 455
+  },
+  {
+    "surface": "オタオタ",
+    "reading": "otaota",
+    "code": "cr-kata1-456",
+    "index": 456
+  },
+  {
+    "surface": "イーブン",
+    "reading": "even",
+    "code": "cr-kata1-457",
+    "index": 457
+  },
+  {
+    "surface": "ウジ",
+    "reading": "uji",
+    "code": "cr-kata1-458",
+    "index": 458
+  },
+  {
+    "surface": "ウオッチマン",
+    "reading": "watchman",
+    "code": "cr-kata1-459",
+    "index": 459
+  },
+  {
+    "surface": "イェヴレ",
+    "reading": "evure",
+    "code": "cr-kata1-460",
+    "index": 460
+  },
+  {
+    "surface": "ウスバカ",
+    "reading": "usubaka",
+    "code": "cr-kata1-461",
+    "index": 461
+  },
+  {
+    "surface": "エグゼック",
+    "reading": "eguzekku",
+    "code": "cr-kata1-462",
+    "index": 462
+  },
+  {
+    "surface": "オプティミスティック",
+    "reading": "optimistic",
+    "code": "cr-kata1-463",
+    "index": 463
+  },
+  {
+    "surface": "オールロケ",
+    "reading": "alllocation",
+    "code": "cr-kata1-464",
+    "index": 464
+  },
+  {
+    "surface": "エフアイエフオー",
+    "reading": "efuaiefuoo",
+    "code": "cr-kata1-465",
+    "index": 465
+  },
+  {
+    "surface": "アンプリファイアー",
+    "reading": "amplifier",
+    "code": "cr-kata1-466",
+    "index": 466
+  },
+  {
+    "surface": "ウェッブ",
+    "reading": "web",
+    "code": "cr-kata1-467",
+    "index": 467
+  },
+  {
+    "surface": "エルゴノミックキーボード",
+    "reading": "erugonomikkukiiboodo",
+    "code": "cr-kata1-468",
+    "index": 468
+  },
+  {
+    "surface": "アルメリア",
+    "reading": "armeria",
+    "code": "cr-kata1-469",
+    "index": 469
+  },
+  {
+    "surface": "ウストカ",
+    "reading": "usutoka",
+    "code": "cr-kata1-470",
+    "index": 470
+  },
+  {
+    "surface": "アンダーグラウンド",
+    "reading": "underground",
+    "code": "cr-kata1-471",
+    "index": 471
+  },
+  {
+    "surface": "エフティーエー",
+    "reading": "efutiiee",
+    "code": "cr-kata1-472",
+    "index": 472
+  },
+  {
+    "surface": "ウルトラモンタニズム",
+    "reading": "urutoramontanizumu",
+    "code": "cr-kata1-473",
+    "index": 473
+  },
+  {
+    "surface": "アセテート",
+    "reading": "acetate",
+    "code": "cr-kata1-474",
+    "index": 474
+  },
+  {
+    "surface": "ウロコ",
+    "reading": "uroko",
+    "code": "cr-kata1-475",
+    "index": 475
+  },
+  {
+    "surface": "ウォーターシュート",
+    "reading": "watershoot",
+    "code": "cr-kata1-476",
+    "index": 476
+  },
+  {
+    "surface": "ウオーキングシューズ",
+    "reading": "walkingshoes",
+    "code": "cr-kata1-477",
+    "index": 477
+  },
+  {
+    "surface": "ウキゴリ",
+    "reading": "ukigori",
+    "code": "cr-kata1-478",
+    "index": 478
+  },
+  {
+    "surface": "オフブロードウェー",
+    "reading": "offbroadway",
+    "code": "cr-kata1-479",
+    "index": 479
+  },
+  {
+    "surface": "イヤフォン",
+    "reading": "earphone",
+    "code": "cr-kata1-480",
+    "index": 480
+  },
+  {
+    "surface": "アクロバット",
+    "reading": "acrobat",
+    "code": "cr-kata1-481",
+    "index": 481
+  },
+  {
+    "surface": "アルコールハラスメント",
+    "reading": "alcoholharassment",
+    "code": "cr-kata1-482",
+    "index": 482
+  },
+  {
+    "surface": "エゾシカ",
+    "reading": "ezoshika",
+    "code": "cr-kata1-483",
+    "index": 483
+  },
+  {
+    "surface": "アメリカバク",
+    "reading": "americabaku",
+    "code": "cr-kata1-484",
+    "index": 484
+  },
+  {
+    "surface": "イド",
+    "reading": "ido",
+    "code": "cr-kata1-485",
+    "index": 485
+  },
+  {
+    "surface": "エフティーティーエッチ",
+    "reading": "efutiitiietchi",
+    "code": "cr-kata1-486",
+    "index": 486
+  },
+  {
+    "surface": "インディアペイルエール",
+    "reading": "indiapeirueeru",
+    "code": "cr-kata1-487",
+    "index": 487
+  },
+  {
+    "surface": "アンバトンドラザカ",
+    "reading": "anbatondorazaka",
+    "code": "cr-kata1-488",
+    "index": 488
+  },
+  {
+    "surface": "アイン・テムーシェント",
+    "reading": "aintemuushento",
+    "code": "cr-kata1-489",
+    "index": 489
+  },
+  {
+    "surface": "インポ",
+    "reading": "inpo",
+    "code": "cr-kata1-490",
+    "index": 490
+  },
+  {
+    "surface": "アイレウ",
+    "reading": "aireu",
+    "code": "cr-kata1-491",
+    "index": 491
+  },
+  {
+    "surface": "アジャスト",
+    "reading": "adjust",
+    "code": "cr-kata1-492",
+    "index": 492
+  },
+  {
+    "surface": "アルロン",
+    "reading": "aruron",
+    "code": "cr-kata1-493",
+    "index": 493
+  },
+  {
+    "surface": "エスタブリシュメント",
+    "reading": "establishment",
+    "code": "cr-kata1-494",
+    "index": 494
+  },
+  {
+    "surface": "ウルメイワシ",
+    "reading": "urumeiwashi",
+    "code": "cr-kata1-495",
+    "index": 495
+  },
+  {
+    "surface": "アルキン",
+    "reading": "alkyne",
+    "code": "cr-kata1-496",
+    "index": 496
+  },
+  {
+    "surface": "オリジナリティ",
+    "reading": "originality",
+    "code": "cr-kata1-497",
+    "index": 497
+  },
+  {
+    "surface": "オイテン",
+    "reading": "oiten",
+    "code": "cr-kata1-498",
+    "index": 498
+  },
+  {
+    "surface": "インターセプション",
+    "reading": "interception",
+    "code": "cr-kata1-499",
+    "index": 499
+  },
+  {
+    "surface": "アデス",
+    "reading": "adesu",
+    "code": "cr-kata1-500",
+    "index": 500
+  },
+  {
+    "surface": "インターコンチネンタル",
+    "reading": "intaacontinental",
+    "code": "cr-kata1-501",
+    "index": 501
+  },
+  {
+    "surface": "アカネキンチャクダイ",
+    "reading": "akanekinchakudai",
+    "code": "cr-kata1-502",
+    "index": 502
+  },
+  {
+    "surface": "アールヌーボー",
+    "reading": "artnouveau",
+    "code": "cr-kata1-503",
+    "index": 503
+  },
+  {
+    "surface": "オオタマオシコガネ",
+    "reading": "ootamaoshikogane",
+    "code": "cr-kata1-504",
+    "index": 504
+  },
+  {
+    "surface": "アル・ジャディーダ",
+    "reading": "arujadiida",
+    "code": "cr-kata1-505",
+    "index": 505
+  },
+  {
+    "surface": "アパレシダ・デ・ゴイアニア",
+    "reading": "apareshidadegoiania",
+    "code": "cr-kata1-506",
+    "index": 506
+  },
+  {
+    "surface": "アフターシェーブローション",
+    "reading": "aftershavelotion",
+    "code": "cr-kata1-507",
+    "index": 507
+  },
+  {
+    "surface": "ウェストメンフィス",
+    "reading": "westmemphis",
+    "code": "cr-kata1-508",
+    "index": 508
+  },
+  {
+    "surface": "エンヴァイロメント",
+    "reading": "envairomento",
+    "code": "cr-kata1-509",
+    "index": 509
+  },
+  {
+    "surface": "オンザジョブトレーニング",
+    "reading": "onthejobtraining",
+    "code": "cr-kata1-510",
+    "index": 510
+  },
+  {
+    "surface": "インディペンデント",
+    "reading": "independent",
+    "code": "cr-kata1-511",
+    "index": 511
+  },
+  {
+    "surface": "エスビー",
+    "reading": "esubii",
+    "code": "cr-kata1-512",
+    "index": 512
+  },
+  {
+    "surface": "アドホクラシー",
+    "reading": "adohokurashii",
+    "code": "cr-kata1-513",
+    "index": 513
+  },
+  {
+    "surface": "アーマチュアコア",
+    "reading": "armaturecore",
+    "code": "cr-kata1-514",
+    "index": 514
+  },
+  {
+    "surface": "アデュー",
+    "reading": "adieu",
+    "code": "cr-kata1-515",
+    "index": 515
+  },
+  {
+    "surface": "インテグレーション",
+    "reading": "integration",
+    "code": "cr-kata1-516",
+    "index": 516
+  },
+  {
+    "surface": "アタフタ",
+    "reading": "atafuta",
+    "code": "cr-kata1-517",
+    "index": 517
+  },
+  {
+    "surface": "アドバタイズメント",
+    "reading": "advertisement",
+    "code": "cr-kata1-518",
+    "index": 518
+  },
+  {
+    "surface": "イナバウアー",
+    "reading": "inabauer",
+    "code": "cr-kata1-519",
+    "index": 519
+  },
+  {
+    "surface": "アクション・プログラム",
+    "reading": "actionprogram",
+    "code": "cr-kata1-520",
+    "index": 520
+  },
+  {
+    "surface": "エロキューション",
+    "reading": "elocution",
+    "code": "cr-kata1-521",
+    "index": 521
+  },
+  {
+    "surface": "アクウェインタンス",
+    "reading": "akueintansu",
+    "code": "cr-kata1-522",
+    "index": 522
+  },
+  {
+    "surface": "ヴァンプ",
+    "reading": "vamp",
+    "code": "cr-kata1-523",
+    "index": 523
+  },
+  {
+    "surface": "アングラ",
+    "reading": "underground",
+    "code": "cr-kata1-524",
+    "index": 524
+  },
+  {
+    "surface": "オマール",
+    "reading": "homard",
+    "code": "cr-kata1-525",
+    "index": 525
+  },
+  {
+    "surface": "ウエーティングルーム",
+    "reading": "waitingroom",
+    "code": "cr-kata1-526",
+    "index": 526
+  },
+  {
+    "surface": "オオデマリ",
+    "reading": "oodemari",
+    "code": "cr-kata1-527",
+    "index": 527
+  },
+  {
+    "surface": "エラー",
+    "reading": "error",
+    "code": "cr-kata1-528",
+    "index": 528
+  },
+  {
+    "surface": "ウエブログ",
+    "reading": "weblog",
+    "code": "cr-kata1-529",
+    "index": 529
+  },
+  {
+    "surface": "イスラ・クリスティナ",
+    "reading": "isurakurisutina",
+    "code": "cr-kata1-530",
+    "index": 530
+  },
+  {
+    "surface": "オーバークロッキング",
+    "reading": "oobaakurokkingu",
+    "code": "cr-kata1-531",
+    "index": 531
+  },
+  {
+    "surface": "アレンジ",
+    "reading": "arrange",
+    "code": "cr-kata1-532",
+    "index": 532
+  },
+  {
+    "surface": "ウェストケロウナ",
+    "reading": "esutokerouna",
+    "code": "cr-kata1-533",
+    "index": 533
+  },
+  {
+    "surface": "エンジンオイル",
+    "reading": "engineoil",
+    "code": "cr-kata1-534",
+    "index": 534
+  },
+  {
+    "surface": "インセスト",
+    "reading": "incest",
+    "code": "cr-kata1-535",
+    "index": 535
+  },
+  {
+    "surface": "ウイドー",
+    "reading": "widow",
+    "code": "cr-kata1-536",
+    "index": 536
+  },
+  {
+    "surface": "イブ",
+    "reading": "eve",
+    "code": "cr-kata1-537",
+    "index": 537
+  },
+  {
+    "surface": "アタリ",
+    "reading": "atari",
+    "code": "cr-kata1-538",
+    "index": 538
+  },
+  {
+    "surface": "ウェスト・ハリウッド",
+    "reading": "westhollywood",
+    "code": "cr-kata1-539",
+    "index": 539
+  },
+  {
+    "surface": "ウンム・アル・カイワイン",
+    "reading": "unmuarukaiwine",
+    "code": "cr-kata1-540",
+    "index": 540
+  },
+  {
+    "surface": "ウェイバ",
+    "reading": "wayba",
+    "code": "cr-kata1-541",
+    "index": 541
+  },
+  {
+    "surface": "ウェーバ",
+    "reading": "weber",
+    "code": "cr-kata1-542",
+    "index": 542
+  },
+  {
+    "surface": "ウェストウォリック",
+    "reading": "westwarwick",
+    "code": "cr-kata1-543",
+    "index": 543
+  },
+  {
+    "surface": "アンチウイルスソフト",
+    "reading": "antivirussoft",
+    "code": "cr-kata1-544",
+    "index": 544
+  },
+  {
+    "surface": "エクステ",
+    "reading": "extention",
+    "code": "cr-kata1-545",
+    "index": 545
+  },
+  {
+    "surface": "インプリメンテーション",
+    "reading": "implemention",
+    "code": "cr-kata1-546",
+    "index": 546
+  },
+  {
+    "surface": "アー",
+    "reading": "aa",
+    "code": "cr-kata1-547",
+    "index": 547
+  },
+  {
+    "surface": "イメージトレーニング",
+    "reading": "imagetraining",
+    "code": "cr-kata1-548",
+    "index": 548
+  },
+  {
+    "surface": "オペレーティング・システム",
+    "reading": "operatingsystem",
+    "code": "cr-kata1-549",
+    "index": 549
+  },
+  {
+    "surface": "エスニックグループ",
+    "reading": "ethnicgroup",
+    "code": "cr-kata1-550",
+    "index": 550
+  },
+  {
+    "surface": "エチレンジアミン",
+    "reading": "athylenjiamin",
+    "code": "cr-kata1-551",
+    "index": 551
+  },
+  {
+    "surface": "イチボ",
+    "reading": "aitchbone",
+    "code": "cr-kata1-552",
+    "index": 552
+  },
+  {
+    "surface": "ヴィモドローネ",
+    "reading": "vimodoroone",
+    "code": "cr-kata1-553",
+    "index": 553
+  },
+  {
+    "surface": "アミノ",
+    "reading": "amino",
+    "code": "cr-kata1-554",
+    "index": 554
+  },
+  {
+    "surface": "オチ",
+    "reading": "ochi",
+    "code": "cr-kata1-555",
+    "index": 555
+  },
+  {
+    "surface": "エルフ",
+    "reading": "elf",
+    "code": "cr-kata1-556",
+    "index": 556
+  },
+  {
+    "surface": "エビチリ",
+    "reading": "ebichile",
+    "code": "cr-kata1-557",
+    "index": 557
+  },
+  {
+    "surface": "エスパドリーユ",
+    "reading": "espadrille",
+    "code": "cr-kata1-558",
+    "index": 558
+  },
+  {
+    "surface": "オープントーナメント",
+    "reading": "opentournament",
+    "code": "cr-kata1-559",
+    "index": 559
+  },
+  {
+    "surface": "オレンジジュース",
+    "reading": "orangejuice",
+    "code": "cr-kata1-560",
+    "index": 560
+  },
+  {
+    "surface": "アトピン",
+    "reading": "atpin",
+    "code": "cr-kata1-561",
+    "index": 561
+  },
+  {
+    "surface": "イソガニ",
+    "reading": "isogani",
+    "code": "cr-kata1-562",
+    "index": 562
+  },
+  {
+    "surface": "オシャカ",
+    "reading": "oshaka",
+    "code": "cr-kata1-563",
+    "index": 563
+  },
+  {
+    "surface": "インターアクション",
+    "reading": "intaaaction",
+    "code": "cr-kata1-564",
+    "index": 564
+  },
+  {
+    "surface": "ウオッカ",
+    "reading": "vodka",
+    "code": "cr-kata1-565",
+    "index": 565
+  },
+  {
+    "surface": "イヤホン",
+    "reading": "earphone",
+    "code": "cr-kata1-566",
+    "index": 566
+  },
+  {
+    "surface": "インターネットエクスプローラ",
+    "reading": "internetexplorer",
+    "code": "cr-kata1-567",
+    "index": 567
+  },
+  {
+    "surface": "アミロイドーシス",
+    "reading": "amyloidosis",
+    "code": "cr-kata1-568",
+    "index": 568
+  },
+  {
+    "surface": "オンブツマン",
+    "reading": "onbutsuman",
+    "code": "cr-kata1-569",
+    "index": 569
+  },
+  {
+    "surface": "オオヤノマチノボリタテ",
+    "reading": "ooyanomachinoboritate",
+    "code": "cr-kata1-570",
+    "index": 570
+  },
+  {
+    "surface": "ウールマーク",
+    "reading": "woolmark",
+    "code": "cr-kata1-571",
+    "index": 571
+  },
+  {
+    "surface": "アファーマティブアクション",
+    "reading": "affirmativeaction",
+    "code": "cr-kata1-572",
+    "index": 572
+  },
+  {
+    "surface": "アオホソオオトカゲ",
+    "reading": "aohosoootokage",
+    "code": "cr-kata1-573",
+    "index": 573
+  },
+  {
+    "surface": "オーペア",
+    "reading": "oopea",
+    "code": "cr-kata1-574",
+    "index": 574
+  },
+  {
+    "surface": "インディビジュアル",
+    "reading": "individual",
+    "code": "cr-kata1-575",
+    "index": 575
+  },
+  {
+    "surface": "ウェブログ",
+    "reading": "weblog",
+    "code": "cr-kata1-576",
+    "index": 576
+  },
+  {
+    "surface": "エイムズ",
+    "reading": "eimuzu",
+    "code": "cr-kata1-577",
+    "index": 577
+  },
+  {
+    "surface": "アースクエイク",
+    "reading": "aasukueiku",
+    "code": "cr-kata1-578",
+    "index": 578
+  },
+  {
+    "surface": "アービトレーション",
+    "reading": "aabitoreeshon",
+    "code": "cr-kata1-579",
+    "index": 579
+  },
+  {
+    "surface": "エラソー",
+    "reading": "erasaw",
+    "code": "cr-kata1-580",
+    "index": 580
+  },
+  {
+    "surface": "アクションリサーチ",
+    "reading": "actionresearch",
+    "code": "cr-kata1-581",
+    "index": 581
+  },
+  {
+    "surface": "エージズム",
+    "reading": "ageism",
+    "code": "cr-kata1-582",
+    "index": 582
+  },
+  {
+    "surface": "ウード",
+    "reading": "oud",
+    "code": "cr-kata1-583",
+    "index": 583
+  },
+  {
+    "surface": "アムホテリシン",
+    "reading": "amphotericin",
+    "code": "cr-kata1-584",
+    "index": 584
+  },
+  {
+    "surface": "イコノロジー",
+    "reading": "iconologie",
+    "code": "cr-kata1-585",
+    "index": 585
+  },
+  {
+    "surface": "オータン",
+    "reading": "autun",
+    "code": "cr-kata1-586",
+    "index": 586
+  },
+  {
+    "surface": "エスノセントリズム",
+    "reading": "ethnocentrism",
+    "code": "cr-kata1-587",
+    "index": 587
+  },
+  {
+    "surface": "エントランスホール",
+    "reading": "entrancehall",
+    "code": "cr-kata1-588",
+    "index": 588
+  },
+  {
+    "surface": "インフラストラクチャ",
+    "reading": "infrastructure",
+    "code": "cr-kata1-589",
+    "index": 589
+  },
+  {
+    "surface": "エレクトリック・ギター",
+    "reading": "electricguitar",
+    "code": "cr-kata1-590",
+    "index": 590
+  },
+  {
+    "surface": "ウミウシ",
+    "reading": "umiushi",
+    "code": "cr-kata1-591",
+    "index": 591
+  },
+  {
+    "surface": "アイスクリームソーダ",
+    "reading": "icecreamsoda",
+    "code": "cr-kata1-592",
+    "index": 592
+  },
+  {
+    "surface": "ウィンナソーセージ",
+    "reading": "viennasausage",
+    "code": "cr-kata1-593",
+    "index": 593
+  },
+  {
+    "surface": "オリウエラ",
+    "reading": "oriwella",
+    "code": "cr-kata1-594",
+    "index": 594
+  },
+  {
+    "surface": "ウィザー",
+    "reading": "wethe",
+    "code": "cr-kata1-595",
+    "index": 595
+  },
+  {
+    "surface": "オススメ",
+    "reading": "osusume",
+    "code": "cr-kata1-596",
+    "index": 596
+  },
+  {
+    "surface": "ウエディングマーチ",
+    "reading": "weddingmarch",
+    "code": "cr-kata1-597",
+    "index": 597
+  },
+  {
+    "surface": "ウエスト",
+    "reading": "waist",
+    "code": "cr-kata1-598",
+    "index": 598
+  },
+  {
+    "surface": "アルコレ",
+    "reading": "arcole",
+    "code": "cr-kata1-599",
+    "index": 599
+  },
+  {
+    "surface": "オールインワンピーシー",
+    "reading": "ooruinwanpiishii",
+    "code": "cr-kata1-600",
+    "index": 600
+  },
+  {
+    "surface": "エルエスアイ",
+    "reading": "eruesuai",
+    "code": "cr-kata1-601",
+    "index": 601
+  },
+  {
+    "surface": "インスタントメッセンジャ",
+    "reading": "insutantomessenja",
+    "code": "cr-kata1-602",
+    "index": 602
+  },
+  {
+    "surface": "オカヤマ",
+    "reading": "okayama",
+    "code": "cr-kata1-603",
+    "index": 603
+  },
+  {
+    "surface": "アクシデント",
+    "reading": "accident",
+    "code": "cr-kata1-604",
+    "index": 604
+  },
+  {
+    "surface": "ウェーティングサークル",
+    "reading": "eetingusaakuru",
+    "code": "cr-kata1-605",
+    "index": 605
+  },
+  {
+    "surface": "オンラインシステム",
+    "reading": "onlinesystem",
+    "code": "cr-kata1-606",
+    "index": 606
+  },
+  {
+    "surface": "アコニットアルカロイド",
+    "reading": "akoknitalkaloid",
+    "code": "cr-kata1-607",
+    "index": 607
+  },
+  {
+    "surface": "アウトオブファッション",
+    "reading": "outoffashion",
+    "code": "cr-kata1-608",
+    "index": 608
+  },
+  {
+    "surface": "ウィッグ",
+    "reading": "wig",
+    "code": "cr-kata1-609",
+    "index": 609
+  },
+  {
+    "surface": "イレウス",
+    "reading": "ileus",
+    "code": "cr-kata1-610",
+    "index": 610
+  },
+  {
+    "surface": "アフォルズム",
+    "reading": "aforuzumu",
+    "code": "cr-kata1-611",
+    "index": 611
+  },
+  {
+    "surface": "インタ",
+    "reading": "inta",
+    "code": "cr-kata1-612",
+    "index": 612
+  },
+  {
+    "surface": "オイルスキン",
+    "reading": "oilskin",
+    "code": "cr-kata1-613",
+    "index": 613
+  },
+  {
+    "surface": "オペレーションセンター",
+    "reading": "operationcenter",
+    "code": "cr-kata1-614",
+    "index": 614
+  },
+  {
+    "surface": "オシ",
+    "reading": "oshi",
+    "code": "cr-kata1-615",
+    "index": 615
+  },
+  {
+    "surface": "イキイキ",
+    "reading": "ikiiki",
+    "code": "cr-kata1-616",
+    "index": 616
+  },
+  {
+    "surface": "インターネットデータセンター",
+    "reading": "internetdatacenter",
+    "code": "cr-kata1-617",
+    "index": 617
+  },
+  {
+    "surface": "オペレーティングシステム",
+    "reading": "operatingsystem",
+    "code": "cr-kata1-618",
+    "index": 618
+  },
+  {
+    "surface": "ウオッシャブル",
+    "reading": "washable",
+    "code": "cr-kata1-619",
+    "index": 619
+  },
+  {
+    "surface": "アキ",
+    "reading": "aki",
+    "code": "cr-kata1-620",
+    "index": 620
+  },
+  {
+    "surface": "エンタテイメント",
+    "reading": "entertainment",
+    "code": "cr-kata1-621",
+    "index": 621
+  },
+  {
+    "surface": "アカダニ",
+    "reading": "akadani",
+    "code": "cr-kata1-622",
+    "index": 622
+  },
+  {
+    "surface": "オプショナル・ツアー",
+    "reading": "optionaltour",
+    "code": "cr-kata1-623",
+    "index": 623
+  },
+  {
+    "surface": "ウエッジ",
+    "reading": "wedge",
+    "code": "cr-kata1-624",
+    "index": 624
+  },
+  {
+    "surface": "アールエヌエー",
+    "reading": "aaruenuee",
+    "code": "cr-kata1-625",
+    "index": 625
+  },
+  {
+    "surface": "エポキシ",
+    "reading": "epokishi",
+    "code": "cr-kata1-626",
+    "index": 626
+  },
+  {
+    "surface": "ウォーキングシューズ",
+    "reading": "walkingshoes",
+    "code": "cr-kata1-627",
+    "index": 627
+  },
+  {
+    "surface": "アウエー",
+    "reading": "away",
+    "code": "cr-kata1-628",
+    "index": 628
+  },
+  {
+    "surface": "エフィシェンシー",
+    "reading": "efficiency",
+    "code": "cr-kata1-629",
+    "index": 629
+  },
+  {
+    "surface": "エイチディーエルシー",
+    "reading": "eichidiierushii",
+    "code": "cr-kata1-630",
+    "index": 630
+  },
+  {
+    "surface": "ウィッカ",
+    "reading": "ikka",
+    "code": "cr-kata1-631",
+    "index": 631
+  },
+  {
+    "surface": "インタナショナル",
+    "reading": "international",
+    "code": "cr-kata1-632",
+    "index": 632
+  },
+  {
+    "surface": "アカシカ",
+    "reading": "akashika",
+    "code": "cr-kata1-633",
+    "index": 633
+  },
+  {
+    "surface": "アドミラル",
+    "reading": "admiral",
+    "code": "cr-kata1-634",
+    "index": 634
+  },
+  {
+    "surface": "アンス",
+    "reading": "annesu",
+    "code": "cr-kata1-635",
+    "index": 635
+  },
+  {
+    "surface": "アサイタ",
+    "reading": "asaita",
+    "code": "cr-kata1-636",
+    "index": 636
+  },
+  {
+    "surface": "オヤビッチャ",
+    "reading": "oyabitcha",
+    "code": "cr-kata1-637",
+    "index": 637
+  },
+  {
+    "surface": "アトランティックシティ",
+    "reading": "atorantikkucity",
+    "code": "cr-kata1-638",
+    "index": 638
+  },
+  {
+    "surface": "エンバイロンメント",
+    "reading": "enbaironmento",
+    "code": "cr-kata1-639",
+    "index": 639
+  },
+  {
+    "surface": "エムディー",
+    "reading": "emudii",
+    "code": "cr-kata1-640",
+    "index": 640
+  },
+  {
+    "surface": "ウィンドウショッピング",
+    "reading": "windowshopping",
+    "code": "cr-kata1-641",
+    "index": 641
+  },
+  {
+    "surface": "オウェリ",
+    "reading": "oeri",
+    "code": "cr-kata1-642",
+    "index": 642
+  },
+  {
+    "surface": "アナーキー",
+    "reading": "anarchy",
+    "code": "cr-kata1-643",
+    "index": 643
+  },
+  {
+    "surface": "アメフト",
+    "reading": "americanfootball",
+    "code": "cr-kata1-644",
+    "index": 644
+  },
+  {
+    "surface": "エタンプ",
+    "reading": "etanpu",
+    "code": "cr-kata1-645",
+    "index": 645
+  },
+  {
+    "surface": "オプティカルマウス",
+    "reading": "opticalmouse",
+    "code": "cr-kata1-646",
+    "index": 646
+  },
+  {
+    "surface": "アナル",
+    "reading": "anal",
+    "code": "cr-kata1-647",
+    "index": 647
+  },
+  {
+    "surface": "アボジ",
+    "reading": "aboji",
+    "code": "cr-kata1-648",
+    "index": 648
+  },
+  {
+    "surface": "ウォーターフロント",
+    "reading": "waterfront",
+    "code": "cr-kata1-649",
+    "index": 649
+  },
+  {
+    "surface": "エンパシー",
+    "reading": "enpashii",
+    "code": "cr-kata1-650",
+    "index": 650
+  },
+  {
+    "surface": "ウミヅキチョウチョウウオ",
+    "reading": "umizukichouchouuo",
+    "code": "cr-kata1-651",
+    "index": 651
+  },
+  {
+    "surface": "アポップカ",
+    "reading": "apoppuka",
+    "code": "cr-kata1-652",
+    "index": 652
+  },
+  {
+    "surface": "ウェストパームビーチ",
+    "reading": "westpalmbeach",
+    "code": "cr-kata1-653",
+    "index": 653
+  },
+  {
+    "surface": "オリジナルシナリオ",
+    "reading": "originalscenario",
+    "code": "cr-kata1-654",
+    "index": 654
+  },
+  {
+    "surface": "アポン",
+    "reading": "upon",
+    "code": "cr-kata1-655",
+    "index": 655
+  },
+  {
+    "surface": "アテンションバリュー",
+    "reading": "attentionvalue",
+    "code": "cr-kata1-656",
+    "index": 656
+  },
+  {
+    "surface": "イタリアンコーヒー",
+    "reading": "italiancoffee",
+    "code": "cr-kata1-657",
+    "index": 657
+  },
+  {
+    "surface": "オーバートップ",
+    "reading": "overtop",
+    "code": "cr-kata1-658",
+    "index": 658
+  },
+  {
+    "surface": "アドビ",
+    "reading": "adobe",
+    "code": "cr-kata1-659",
+    "index": 659
+  },
+  {
+    "surface": "イクサイトメント",
+    "reading": "ikusaitomento",
+    "code": "cr-kata1-660",
+    "index": 660
+  },
+  {
+    "surface": "アカデムゴロドク",
+    "reading": "akademugorodoku",
+    "code": "cr-kata1-661",
+    "index": 661
+  },
+  {
+    "surface": "インターネットラジオ",
+    "reading": "internetradio",
+    "code": "cr-kata1-662",
+    "index": 662
+  },
+  {
+    "surface": "エクレクティシズム",
+    "reading": "eclecticism",
+    "code": "cr-kata1-663",
+    "index": 663
+  },
+  {
+    "surface": "アルタイ",
+    "reading": "altai",
+    "code": "cr-kata1-664",
+    "index": 664
+  },
+  {
+    "surface": "オルドゥ",
+    "reading": "orudo",
+    "code": "cr-kata1-665",
+    "index": 665
+  },
+  {
+    "surface": "オプショナル",
+    "reading": "optional",
+    "code": "cr-kata1-666",
+    "index": 666
+  },
+  {
+    "surface": "イン",
+    "reading": "in",
+    "code": "cr-kata1-667",
+    "index": 667
+  },
+  {
+    "surface": "エスピーニョ",
+    "reading": "esupiinyo",
+    "code": "cr-kata1-668",
+    "index": 668
+  },
+  {
+    "surface": "エスオーエス",
+    "reading": "esohhisse",
+    "code": "cr-kata1-669",
+    "index": 669
+  },
+  {
+    "surface": "ウソ",
+    "reading": "uso",
+    "code": "cr-kata1-670",
+    "index": 670
+  },
+  {
+    "surface": "ウイークデイ",
+    "reading": "weekday",
+    "code": "cr-kata1-671",
+    "index": 671
+  },
+  {
+    "surface": "エントランス・ホール",
+    "reading": "entrancehall",
+    "code": "cr-kata1-672",
+    "index": 672
+  },
+  {
+    "surface": "オーバーアクション",
+    "reading": "overaction",
+    "code": "cr-kata1-673",
+    "index": 673
+  },
+  {
+    "surface": "ヴェンデルシュタイン",
+    "reading": "venderushutain",
+    "code": "cr-kata1-674",
+    "index": 674
+  },
+  {
+    "surface": "インシュージアスト",
+    "reading": "inshuujiasuto",
+    "code": "cr-kata1-675",
+    "index": 675
+  },
+  {
+    "surface": "アカプリッチオ",
+    "reading": "acapriccio",
+    "code": "cr-kata1-676",
+    "index": 676
+  },
+  {
+    "surface": "オミクロン",
+    "reading": "omicron",
+    "code": "cr-kata1-677",
+    "index": 677
+  },
+  {
+    "surface": "アントニム",
+    "reading": "antonym",
+    "code": "cr-kata1-678",
+    "index": 678
+  },
+  {
+    "surface": "インスコ",
+    "reading": "insuko",
+    "code": "cr-kata1-679",
+    "index": 679
+  },
+  {
+    "surface": "オペラバッグ",
+    "reading": "operabag",
+    "code": "cr-kata1-680",
+    "index": 680
+  },
+  {
+    "surface": "エンスージアスト",
+    "reading": "enthusiast",
+    "code": "cr-kata1-681",
+    "index": 681
+  },
+  {
+    "surface": "アルペン",
+    "reading": "alpen",
+    "code": "cr-kata1-682",
+    "index": 682
+  },
+  {
+    "surface": "アーカイバルメモリ",
+    "reading": "archiverlememory",
+    "code": "cr-kata1-683",
+    "index": 683
+  },
+  {
+    "surface": "オクシデント",
+    "reading": "occident",
+    "code": "cr-kata1-684",
+    "index": 684
+  },
+  {
+    "surface": "ウミホオズキ",
+    "reading": "umihoozuki",
+    "code": "cr-kata1-685",
+    "index": 685
+  },
+  {
+    "surface": "ウェディングドレス",
+    "reading": "weddingdress",
+    "code": "cr-kata1-686",
+    "index": 686
+  },
+  {
+    "surface": "アンチエイリアシング",
+    "reading": "antieiriashingu",
+    "code": "cr-kata1-687",
+    "index": 687
+  },
+  {
+    "surface": "アニゼット",
+    "reading": "anisette",
+    "code": "cr-kata1-688",
+    "index": 688
+  },
+  {
+    "surface": "アイスピック",
+    "reading": "icepick",
+    "code": "cr-kata1-689",
+    "index": 689
+  },
+  {
+    "surface": "ウェポン",
+    "reading": "weapon",
+    "code": "cr-kata1-690",
+    "index": 690
+  },
+  {
+    "surface": "ウガンダ",
+    "reading": "uganda",
+    "code": "cr-kata1-691",
+    "index": 691
+  },
+  {
+    "surface": "エックスデー",
+    "reading": "ekkusuday",
+    "code": "cr-kata1-692",
+    "index": 692
+  },
+  {
+    "surface": "オオワシ",
+    "reading": "oowashi",
+    "code": "cr-kata1-693",
+    "index": 693
+  },
+  {
+    "surface": "ウエイトトレーニング",
+    "reading": "weighttraining",
+    "code": "cr-kata1-694",
+    "index": 694
+  },
+  {
+    "surface": "オンサイトサービス",
+    "reading": "onsiteservice",
+    "code": "cr-kata1-695",
+    "index": 695
+  },
+  {
+    "surface": "ウェイクフィールド",
+    "reading": "wakefield",
+    "code": "cr-kata1-696",
+    "index": 696
+  },
+  {
+    "surface": "エアコンディショナ",
+    "reading": "airconditioner",
+    "code": "cr-kata1-697",
+    "index": 697
+  },
+  {
+    "surface": "アセトン",
+    "reading": "acetone",
+    "code": "cr-kata1-698",
+    "index": 698
+  },
+  {
+    "surface": "アーミィ",
+    "reading": "aami",
+    "code": "cr-kata1-699",
+    "index": 699
+  },
+  {
+    "surface": "アンカ",
+    "reading": "anka",
+    "code": "cr-kata1-700",
+    "index": 700
+  },
+  {
+    "surface": "エホバ",
+    "reading": "jehovah",
+    "code": "cr-kata1-701",
+    "index": 701
+  },
+  {
+    "surface": "エレクトロニクス",
+    "reading": "electronics",
+    "code": "cr-kata1-702",
+    "index": 702
+  },
+  {
+    "surface": "オヒョウ",
+    "reading": "ohyou",
+    "code": "cr-kata1-703",
+    "index": 703
+  },
+  {
+    "surface": "エコビジネス",
+    "reading": "ecobusiness",
+    "code": "cr-kata1-704",
+    "index": 704
+  },
+  {
+    "surface": "アホ",
+    "reading": "aho",
+    "code": "cr-kata1-705",
+    "index": 705
+  },
+  {
+    "surface": "イーブンパー",
+    "reading": "evenpar",
+    "code": "cr-kata1-706",
+    "index": 706
+  },
+  {
+    "surface": "インターフェロン",
+    "reading": "interferon",
+    "code": "cr-kata1-707",
+    "index": 707
+  },
+  {
+    "surface": "アンドーヴァー",
+    "reading": "andoova",
+    "code": "cr-kata1-708",
+    "index": 708
+  },
+  {
+    "surface": "オルソクロマチック",
+    "reading": "orthochromatic",
+    "code": "cr-kata1-709",
+    "index": 709
+  },
+  {
+    "surface": "アンダーザテーブル",
+    "reading": "underthetable",
+    "code": "cr-kata1-710",
+    "index": 710
+  },
+  {
+    "surface": "オーラル",
+    "reading": "oral",
+    "code": "cr-kata1-711",
+    "index": 711
+  },
+  {
+    "surface": "ウクレレ",
+    "reading": "ukulele",
+    "code": "cr-kata1-712",
+    "index": 712
+  },
+  {
+    "surface": "アスコットタイ",
+    "reading": "ascottie",
+    "code": "cr-kata1-713",
+    "index": 713
+  },
+  {
+    "surface": "アレ",
+    "reading": "are",
+    "code": "cr-kata1-714",
+    "index": 714
+  },
+  {
+    "surface": "エイチティーエムエル",
+    "reading": "eichitiiemueru",
+    "code": "cr-kata1-715",
+    "index": 715
+  },
+  {
+    "surface": "アマ",
+    "reading": "amateur",
+    "code": "cr-kata1-716",
+    "index": 716
+  },
+  {
+    "surface": "アゾフ",
+    "reading": "azofu",
+    "code": "cr-kata1-717",
+    "index": 717
+  },
+  {
+    "surface": "アカウソ",
+    "reading": "akauso",
+    "code": "cr-kata1-718",
+    "index": 718
+  },
+  {
+    "surface": "イチジク",
+    "reading": "ichijiku",
+    "code": "cr-kata1-719",
+    "index": 719
+  },
+  {
+    "surface": "ウェディングリング",
+    "reading": "weddingring",
+    "code": "cr-kata1-720",
+    "index": 720
+  },
+  {
+    "surface": "アイラッシュ",
+    "reading": "eyelash",
+    "code": "cr-kata1-721",
+    "index": 721
+  },
+  {
+    "surface": "ウインチ",
+    "reading": "winch",
+    "code": "cr-kata1-722",
+    "index": 722
+  },
+  {
+    "surface": "オラル",
+    "reading": "oraru",
+    "code": "cr-kata1-723",
+    "index": 723
+  },
+  {
+    "surface": "アビエイ",
+    "reading": "habitei",
+    "code": "cr-kata1-724",
+    "index": 724
+  },
+  {
+    "surface": "ウリバエ",
+    "reading": "uribae",
+    "code": "cr-kata1-725",
+    "index": 725
+  },
+  {
+    "surface": "イカ",
+    "reading": "ika",
+    "code": "cr-kata1-726",
+    "index": 726
+  },
+  {
+    "surface": "エンバイアロンメント",
+    "reading": "enbaiaronmento",
+    "code": "cr-kata1-727",
+    "index": 727
+  },
+  {
+    "surface": "オールオアナッシング",
+    "reading": "allornothing",
+    "code": "cr-kata1-728",
+    "index": 728
+  },
+  {
+    "surface": "アーンドラン",
+    "reading": "andrun",
+    "code": "cr-kata1-729",
+    "index": 729
+  },
+  {
+    "surface": "エペ",
+    "reading": "epee",
+    "code": "cr-kata1-730",
+    "index": 730
+  },
+  {
+    "surface": "イキトス",
+    "reading": "iquitos",
+    "code": "cr-kata1-731",
+    "index": 731
+  },
+  {
+    "surface": "イキ",
+    "reading": "iki",
+    "code": "cr-kata1-732",
+    "index": 732
+  },
+  {
+    "surface": "エクスクルーシブオア",
+    "reading": "exclusiveor",
+    "code": "cr-kata1-733",
+    "index": 733
+  },
+  {
+    "surface": "イメージオルシコン",
+    "reading": "imeejiorushikon",
+    "code": "cr-kata1-734",
+    "index": 734
+  },
+  {
+    "surface": "ウッドブロック",
+    "reading": "uddoburokku",
+    "code": "cr-kata1-735",
+    "index": 735
+  },
+  {
+    "surface": "イオンデポジションプリンタ",
+    "reading": "iondepojishonpurinta",
+    "code": "cr-kata1-736",
+    "index": 736
+  },
+  {
+    "surface": "オーガスト",
+    "reading": "oogastrike",
+    "code": "cr-kata1-737",
+    "index": 737
+  },
+  {
+    "surface": "アーリントンハイツ",
+    "reading": "arlingtonheights",
+    "code": "cr-kata1-738",
+    "index": 738
+  },
+  {
+    "surface": "ウメオ",
+    "reading": "umeo",
+    "code": "cr-kata1-739",
+    "index": 739
+  },
+  {
+    "surface": "オイシイ",
+    "reading": "oishii",
+    "code": "cr-kata1-740",
+    "index": 740
+  },
+  {
+    "surface": "オピウム",
+    "reading": "opium",
+    "code": "cr-kata1-741",
+    "index": 741
+  },
+  {
+    "surface": "エレキギター",
+    "reading": "electriciteitguitar",
+    "code": "cr-kata1-742",
+    "index": 742
+  },
+  {
+    "surface": "ウィク",
+    "reading": "iku",
+    "code": "cr-kata1-743",
+    "index": 743
+  },
+  {
+    "surface": "アルチェフスク",
+    "reading": "aruchefusuku",
+    "code": "cr-kata1-744",
+    "index": 744
+  },
+  {
+    "surface": "アクセルレータ",
+    "reading": "akuserureeta",
+    "code": "cr-kata1-745",
+    "index": 745
+  },
+  {
+    "surface": "イエバエ",
+    "reading": "iebae",
+    "code": "cr-kata1-746",
+    "index": 746
+  },
+  {
+    "surface": "アマサギ",
+    "reading": "amasagi",
+    "code": "cr-kata1-747",
+    "index": 747
+  },
+  {
+    "surface": "アメリカオオコノハズク",
+    "reading": "amerikaookonohazuku",
+    "code": "cr-kata1-748",
+    "index": 748
+  },
+  {
+    "surface": "アルブライミ",
+    "reading": "alburaimi",
+    "code": "cr-kata1-749",
+    "index": 749
+  },
+  {
+    "surface": "イーエフエフ",
+    "reading": "iiefuefu",
+    "code": "cr-kata1-750",
+    "index": 750
+  },
+  {
+    "surface": "オースチン",
+    "reading": "austen",
+    "code": "cr-kata1-751",
+    "index": 751
+  },
+  {
+    "surface": "アーネム",
+    "reading": "arnhem",
+    "code": "cr-kata1-752",
+    "index": 752
+  },
+  {
+    "surface": "エコステーション",
+    "reading": "ecostation",
+    "code": "cr-kata1-753",
+    "index": 753
+  },
+  {
+    "surface": "ウヨ",
+    "reading": "uyo",
+    "code": "cr-kata1-754",
+    "index": 754
+  },
+  {
+    "surface": "オオヨシキリ",
+    "reading": "ooyoshikiri",
+    "code": "cr-kata1-755",
+    "index": 755
+  },
+  {
+    "surface": "アーバンデクライン",
+    "reading": "aabandekurain",
+    "code": "cr-kata1-756",
+    "index": 756
+  },
+  {
+    "surface": "アンアイデンティファイド",
+    "reading": "anaidentifaido",
+    "code": "cr-kata1-757",
+    "index": 757
+  },
+  {
+    "surface": "アンドゥイユ",
+    "reading": "undoiyu",
+    "code": "cr-kata1-758",
+    "index": 758
+  },
+  {
+    "surface": "アルカイスム",
+    "reading": "archaisme",
+    "code": "cr-kata1-759",
+    "index": 759
+  },
+  {
+    "surface": "オーケストレーション",
+    "reading": "orchestration",
+    "code": "cr-kata1-760",
+    "index": 760
+  },
+  {
+    "surface": "エッチディーディーブイディー",
+    "reading": "etchidiidiibuidii",
+    "code": "cr-kata1-761",
+    "index": 761
+  },
+  {
+    "surface": "インテリジェントハブ",
+    "reading": "intelligenthave",
+    "code": "cr-kata1-762",
+    "index": 762
+  },
+  {
+    "surface": "ヴァルヴ",
+    "reading": "valve",
+    "code": "cr-kata1-763",
+    "index": 763
+  },
+  {
+    "surface": "エルドラド",
+    "reading": "eldorado",
+    "code": "cr-kata1-764",
+    "index": 764
+  },
+  {
+    "surface": "ヴォドカ",
+    "reading": "vodoka",
+    "code": "cr-kata1-765",
+    "index": 765
+  },
+  {
+    "surface": "イエネコ",
+    "reading": "ieneko",
+    "code": "cr-kata1-766",
+    "index": 766
+  },
+  {
+    "surface": "アーグラー",
+    "reading": "agra",
+    "code": "cr-kata1-767",
+    "index": 767
+  },
+  {
+    "surface": "アポロ",
+    "reading": "apollon",
+    "code": "cr-kata1-768",
+    "index": 768
+  },
+  {
+    "surface": "オオツシ",
+    "reading": "ootsushi",
+    "code": "cr-kata1-769",
+    "index": 769
+  },
+  {
+    "surface": "ウェブサーバー",
+    "reading": "webserver",
+    "code": "cr-kata1-770",
+    "index": 770
+  },
+  {
+    "surface": "オラバリア",
+    "reading": "orabarrier",
+    "code": "cr-kata1-771",
+    "index": 771
+  },
+  {
+    "surface": "エベンキ",
+    "reading": "ebenki",
+    "code": "cr-kata1-772",
+    "index": 772
+  },
+  {
+    "surface": "ウインタースポーツ",
+    "reading": "wintersport",
+    "code": "cr-kata1-773",
+    "index": 773
+  },
+  {
+    "surface": "ウリセン",
+    "reading": "urisen",
+    "code": "cr-kata1-774",
+    "index": 774
+  },
+  {
+    "surface": "アンゴシェ",
+    "reading": "angochez",
+    "code": "cr-kata1-775",
+    "index": 775
+  },
+  {
+    "surface": "インクリメンタリズム",
+    "reading": "incrementalism",
+    "code": "cr-kata1-776",
+    "index": 776
+  },
+  {
+    "surface": "ウラシル",
+    "reading": "uracil",
+    "code": "cr-kata1-777",
+    "index": 777
+  },
+  {
+    "surface": "アクウィエス",
+    "reading": "akuiesu",
+    "code": "cr-kata1-778",
+    "index": 778
+  },
+  {
+    "surface": "アポーストロヴェ",
+    "reading": "apoosutorove",
+    "code": "cr-kata1-779",
+    "index": 779
+  },
+  {
+    "surface": "イヌリン",
+    "reading": "inulin",
+    "code": "cr-kata1-780",
+    "index": 780
+  },
+  {
+    "surface": "アロット",
+    "reading": "alot",
+    "code": "cr-kata1-781",
+    "index": 781
+  },
+  {
+    "surface": "オニイトマキエイ",
+    "reading": "oniitomakiei",
+    "code": "cr-kata1-782",
+    "index": 782
+  },
+  {
+    "surface": "ウスチ・カメノゴルスク",
+    "reading": "usuchikamenogorusuku",
+    "code": "cr-kata1-783",
+    "index": 783
+  },
+  {
+    "surface": "ヴィボ・ヴァレンツィア",
+    "reading": "vibovarentsia",
+    "code": "cr-kata1-784",
+    "index": 784
+  },
+  {
+    "surface": "アクロン",
+    "reading": "aclone",
+    "code": "cr-kata1-785",
+    "index": 785
+  },
+  {
+    "surface": "オフィスオートメーション",
+    "reading": "officeautomation",
+    "code": "cr-kata1-786",
+    "index": 786
+  },
+  {
+    "surface": "ウオール",
+    "reading": "wall",
+    "code": "cr-kata1-787",
+    "index": 787
+  },
+  {
+    "surface": "アンダパ",
+    "reading": "andapa",
+    "code": "cr-kata1-788",
+    "index": 788
+  },
+  {
+    "surface": "アーキテクチャラル",
+    "reading": "aakitekuchararu",
+    "code": "cr-kata1-789",
+    "index": 789
+  },
+  {
+    "surface": "アロサ",
+    "reading": "alloantigensa",
+    "code": "cr-kata1-790",
+    "index": 790
+  },
+  {
+    "surface": "アヴェニュ",
+    "reading": "avenyu",
+    "code": "cr-kata1-791",
+    "index": 791
+  },
+  {
+    "surface": "アロマ",
+    "reading": "aroma",
+    "code": "cr-kata1-792",
+    "index": 792
+  },
+  {
+    "surface": "アスタナ",
+    "reading": "astana",
+    "code": "cr-kata1-793",
+    "index": 793
+  },
+  {
+    "surface": "オンボロ",
+    "reading": "onboro",
+    "code": "cr-kata1-794",
+    "index": 794
+  },
+  {
+    "surface": "イトマキボラ",
+    "reading": "itomakibora",
+    "code": "cr-kata1-795",
+    "index": 795
+  },
+  {
+    "surface": "アイソトニック",
+    "reading": "isotonic",
+    "code": "cr-kata1-796",
+    "index": 796
+  },
+  {
+    "surface": "アルク",
+    "reading": "aruku",
+    "code": "cr-kata1-797",
+    "index": 797
+  },
+  {
+    "surface": "オープンエア",
+    "reading": "openair",
+    "code": "cr-kata1-798",
+    "index": 798
+  },
+  {
+    "surface": "エラーコード",
+    "reading": "errorcode",
+    "code": "cr-kata1-799",
+    "index": 799
+  },
+  {
+    "surface": "イワツバメ",
+    "reading": "iwatsubame",
+    "code": "cr-kata1-800",
+    "index": 800
+  },
+  {
+    "surface": "オッケ",
+    "reading": "okay",
+    "code": "cr-kata1-801",
+    "index": 801
+  },
+  {
+    "surface": "アステリ",
+    "reading": "asuteri",
+    "code": "cr-kata1-802",
+    "index": 802
+  },
+  {
+    "surface": "アスター",
+    "reading": "aster",
+    "code": "cr-kata1-803",
+    "index": 803
+  },
+  {
+    "surface": "エチレンオキシド",
+    "reading": "athylenoxide",
+    "code": "cr-kata1-804",
+    "index": 804
+  },
+  {
+    "surface": "アミメカゲロウ",
+    "reading": "amimekagerou",
+    "code": "cr-kata1-805",
+    "index": 805
+  },
+  {
+    "surface": "エス",
+    "reading": "es",
+    "code": "cr-kata1-806",
+    "index": 806
+  },
+  {
+    "surface": "ウンカ",
+    "reading": "unka",
+    "code": "cr-kata1-807",
+    "index": 807
+  },
+  {
+    "surface": "オリジナル",
+    "reading": "original",
+    "code": "cr-kata1-808",
+    "index": 808
+  },
+  {
+    "surface": "エゾリス",
+    "reading": "ezorisu",
+    "code": "cr-kata1-809",
+    "index": 809
+  },
+  {
+    "surface": "アイスランド",
+    "reading": "iceland",
+    "code": "cr-kata1-810",
+    "index": 810
+  },
+  {
+    "surface": "オーナ",
+    "reading": "oona",
+    "code": "cr-kata1-811",
+    "index": 811
+  },
+  {
+    "surface": "アグリネス",
+    "reading": "agriculturenesu",
+    "code": "cr-kata1-812",
+    "index": 812
+  },
+  {
+    "surface": "インデンテーション",
+    "reading": "indenteeshon",
+    "code": "cr-kata1-813",
+    "index": 813
+  },
+  {
+    "surface": "アンビヴァレンス",
+    "reading": "ambivalence",
+    "code": "cr-kata1-814",
+    "index": 814
+  },
+  {
+    "surface": "アカシヤ",
+    "reading": "acacia",
+    "code": "cr-kata1-815",
+    "index": 815
+  },
+  {
+    "surface": "アメリカヒレアシシギ",
+    "reading": "amerikahireashishigi",
+    "code": "cr-kata1-816",
+    "index": 816
+  },
+  {
+    "surface": "エキウム",
+    "reading": "ekiumu",
+    "code": "cr-kata1-817",
+    "index": 817
+  },
+  {
+    "surface": "イヤドロップ",
+    "reading": "eardrop",
+    "code": "cr-kata1-818",
+    "index": 818
+  },
+  {
+    "surface": "インディア",
+    "reading": "india",
+    "code": "cr-kata1-819",
+    "index": 819
+  },
+  {
+    "surface": "オドロキ",
+    "reading": "odoroki",
+    "code": "cr-kata1-820",
+    "index": 820
+  },
+  {
+    "surface": "オーディン",
+    "reading": "oden",
+    "code": "cr-kata1-821",
+    "index": 821
+  },
+  {
+    "surface": "オーバレイルーチング",
+    "reading": "oobareiruuchingu",
+    "code": "cr-kata1-822",
+    "index": 822
+  },
+  {
+    "surface": "ウィリアムズバーグ",
+    "reading": "williamsburg",
+    "code": "cr-kata1-823",
+    "index": 823
+  },
+  {
+    "surface": "エンシノ",
+    "reading": "enshino",
+    "code": "cr-kata1-824",
+    "index": 824
+  },
+  {
+    "surface": "インゴルシュタット",
+    "reading": "ingorushutatto",
+    "code": "cr-kata1-825",
+    "index": 825
+  },
+  {
+    "surface": "アセット",
+    "reading": "asset",
+    "code": "cr-kata1-826",
+    "index": 826
+  },
+  {
+    "surface": "アラレキンチャクフグ",
+    "reading": "ararekinchakufugu",
+    "code": "cr-kata1-827",
+    "index": 827
+  },
+  {
+    "surface": "エグザミネーション",
+    "reading": "examination",
+    "code": "cr-kata1-828",
+    "index": 828
+  },
+  {
+    "surface": "アフラトキシン",
+    "reading": "aflatoxin",
+    "code": "cr-kata1-829",
+    "index": 829
+  },
+  {
+    "surface": "ヴィデオテープ",
+    "reading": "videotape",
+    "code": "cr-kata1-830",
+    "index": 830
+  },
+  {
+    "surface": "ウイッグ",
+    "reading": "wig",
+    "code": "cr-kata1-831",
+    "index": 831
+  },
+  {
+    "surface": "エコ",
+    "reading": "eco",
+    "code": "cr-kata1-832",
+    "index": 832
+  },
+  {
+    "surface": "アドレッシング",
+    "reading": "adressing",
+    "code": "cr-kata1-833",
+    "index": 833
+  },
+  {
+    "surface": "アツアツ",
+    "reading": "atsuatsu",
+    "code": "cr-kata1-834",
+    "index": 834
+  },
+  {
+    "surface": "エンカルナシオン",
+    "reading": "encarnacion",
+    "code": "cr-kata1-835",
+    "index": 835
+  },
+  {
+    "surface": "ウミタケ",
+    "reading": "umitake",
+    "code": "cr-kata1-836",
+    "index": 836
+  },
+  {
+    "surface": "エックスディーエスエル",
+    "reading": "ekkusudiiesueru",
+    "code": "cr-kata1-837",
+    "index": 837
+  },
+  {
+    "surface": "インデクス",
+    "reading": "indekusu",
+    "code": "cr-kata1-838",
+    "index": 838
+  },
+  {
+    "surface": "アウトプット",
+    "reading": "output",
+    "code": "cr-kata1-839",
+    "index": 839
+  },
+  {
+    "surface": "エンカプセレーション",
+    "reading": "enkapusereeshon",
+    "code": "cr-kata1-840",
+    "index": 840
+  },
+  {
+    "surface": "アグロフォレストリー",
+    "reading": "agroforestry",
+    "code": "cr-kata1-841",
+    "index": 841
+  },
+  {
+    "surface": "イーストハートフォード",
+    "reading": "easthartford",
+    "code": "cr-kata1-842",
+    "index": 842
+  },
+  {
+    "surface": "エナジー",
+    "reading": "energy",
+    "code": "cr-kata1-843",
+    "index": 843
+  },
+  {
+    "surface": "オーブイ",
+    "reading": "oobui",
+    "code": "cr-kata1-844",
+    "index": 844
+  },
+  {
+    "surface": "イデアル",
+    "reading": "ideal",
+    "code": "cr-kata1-845",
+    "index": 845
+  },
+  {
+    "surface": "アルカディア",
+    "reading": "arkadia",
+    "code": "cr-kata1-846",
+    "index": 846
+  },
+  {
+    "surface": "オーシャンサージャン",
+    "reading": "ooshansaajan",
+    "code": "cr-kata1-847",
+    "index": 847
+  },
+  {
+    "surface": "エツ",
+    "reading": "etsu",
+    "code": "cr-kata1-848",
+    "index": 848
+  },
+  {
+    "surface": "インキュベーション",
+    "reading": "inkyubeeshon",
+    "code": "cr-kata1-849",
+    "index": 849
+  },
+  {
+    "surface": "ウェストジョーダン",
+    "reading": "westjoodan",
+    "code": "cr-kata1-850",
+    "index": 850
+  },
+  {
+    "surface": "ウンザリ",
+    "reading": "unzari",
+    "code": "cr-kata1-851",
+    "index": 851
+  },
+  {
+    "surface": "アザミウマ",
+    "reading": "azamiuma",
+    "code": "cr-kata1-852",
+    "index": 852
+  },
+  {
+    "surface": "オキエソ",
+    "reading": "okieso",
+    "code": "cr-kata1-853",
+    "index": 853
+  },
+  {
+    "surface": "インドアスポーツ",
+    "reading": "indoorsport",
+    "code": "cr-kata1-854",
+    "index": 854
+  },
+  {
+    "surface": "エムサイズ",
+    "reading": "emusize",
+    "code": "cr-kata1-855",
+    "index": 855
+  },
+  {
+    "surface": "オンリー",
+    "reading": "only",
+    "code": "cr-kata1-856",
+    "index": 856
+  },
+  {
+    "surface": "インフルエンザ",
+    "reading": "influenza",
+    "code": "cr-kata1-857",
+    "index": 857
+  },
+  {
+    "surface": "オービー",
+    "reading": "oobii",
+    "code": "cr-kata1-858",
+    "index": 858
+  },
+  {
+    "surface": "アヌシー",
+    "reading": "annecy",
+    "code": "cr-kata1-859",
+    "index": 859
+  },
+  {
+    "surface": "アブ",
+    "reading": "abu",
+    "code": "cr-kata1-860",
+    "index": 860
+  },
+  {
+    "surface": "エルミナ",
+    "reading": "erumina",
+    "code": "cr-kata1-861",
+    "index": 861
+  },
+  {
+    "surface": "エフエー",
+    "reading": "efuee",
+    "code": "cr-kata1-862",
+    "index": 862
+  },
+  {
+    "surface": "エルリングハウゼン",
+    "reading": "eruringuhauzen",
+    "code": "cr-kata1-863",
+    "index": 863
+  },
+  {
+    "surface": "ウエルシュコーギー",
+    "reading": "uerushukoogii",
+    "code": "cr-kata1-864",
+    "index": 864
+  },
+  {
+    "surface": "アミラーゼ",
+    "reading": "amylase",
+    "code": "cr-kata1-865",
+    "index": 865
+  },
+  {
+    "surface": "アンボン",
+    "reading": "anbon",
+    "code": "cr-kata1-866",
+    "index": 866
+  },
+  {
+    "surface": "エアポートタックス",
+    "reading": "airporttax",
+    "code": "cr-kata1-867",
+    "index": 867
+  },
+  {
+    "surface": "オペア",
+    "reading": "operationa",
+    "code": "cr-kata1-868",
+    "index": 868
+  },
+  {
+    "surface": "オーブダ",
+    "reading": "oobuda",
+    "code": "cr-kata1-869",
+    "index": 869
+  },
+  {
+    "surface": "アイブロー",
+    "reading": "eyebrow",
+    "code": "cr-kata1-870",
+    "index": 870
+  },
+  {
+    "surface": "エレクトリックギター",
+    "reading": "electricguitar",
+    "code": "cr-kata1-871",
+    "index": 871
+  },
+  {
+    "surface": "アルコールランプ",
+    "reading": "alcohollamp",
+    "code": "cr-kata1-872",
+    "index": 872
+  },
+  {
+    "surface": "オネ",
+    "reading": "one",
+    "code": "cr-kata1-873",
+    "index": 873
+  },
+  {
+    "surface": "ウェザー",
+    "reading": "weather",
+    "code": "cr-kata1-874",
+    "index": 874
+  },
+  {
+    "surface": "ウッド",
+    "reading": "wood",
+    "code": "cr-kata1-875",
+    "index": 875
+  },
+  {
+    "surface": "アブジャ",
+    "reading": "abuja",
+    "code": "cr-kata1-876",
+    "index": 876
+  },
+  {
+    "surface": "アッセン",
+    "reading": "assen",
+    "code": "cr-kata1-877",
+    "index": 877
+  },
+  {
+    "surface": "オー",
+    "reading": "oo",
+    "code": "cr-kata1-878",
+    "index": 878
+  },
+  {
+    "surface": "ヴラニェ",
+    "reading": "vurane",
+    "code": "cr-kata1-879",
+    "index": 879
+  },
+  {
+    "surface": "エンバク",
+    "reading": "enbaku",
+    "code": "cr-kata1-880",
+    "index": 880
+  },
+  {
+    "surface": "アイアシ",
+    "reading": "eyeashi",
+    "code": "cr-kata1-881",
+    "index": 881
+  },
+  {
+    "surface": "ウスマーナーバード",
+    "reading": "usumaanaabaado",
+    "code": "cr-kata1-882",
+    "index": 882
+  },
+  {
+    "surface": "ヴィアナ・ドゥ・カステロ",
+    "reading": "vianadukasutero",
+    "code": "cr-kata1-883",
+    "index": 883
+  },
+  {
+    "surface": "イプシロン",
+    "reading": "epsilon",
+    "code": "cr-kata1-884",
+    "index": 884
+  },
+  {
+    "surface": "ウェスト・ヘンプステッド",
+    "reading": "westhempsuteddo",
+    "code": "cr-kata1-885",
+    "index": 885
+  },
+  {
+    "surface": "エゾオオカミ",
+    "reading": "ezoookami",
+    "code": "cr-kata1-886",
+    "index": 886
+  },
+  {
+    "surface": "オゾン",
+    "reading": "ozone",
+    "code": "cr-kata1-887",
+    "index": 887
+  },
+  {
+    "surface": "ヴァランシエンヌ",
+    "reading": "varanshiennu",
+    "code": "cr-kata1-888",
+    "index": 888
+  },
+  {
+    "surface": "オオバン",
+    "reading": "ooban",
+    "code": "cr-kata1-889",
+    "index": 889
+  },
+  {
+    "surface": "アミドール",
+    "reading": "amidol",
+    "code": "cr-kata1-890",
+    "index": 890
+  },
+  {
+    "surface": "アイディーイー",
+    "reading": "aidiiii",
+    "code": "cr-kata1-891",
+    "index": 891
+  },
+  {
+    "surface": "インスタンス",
+    "reading": "instance",
+    "code": "cr-kata1-892",
+    "index": 892
+  },
+  {
+    "surface": "オーバーンデール",
+    "reading": "oobaandeeru",
+    "code": "cr-kata1-893",
+    "index": 893
+  },
+  {
+    "surface": "アッビアテグラッソ",
+    "reading": "abbiategurasso",
+    "code": "cr-kata1-894",
+    "index": 894
+  },
+  {
+    "surface": "イブキ",
+    "reading": "ibuki",
+    "code": "cr-kata1-895",
+    "index": 895
+  },
+  {
+    "surface": "ウイグル",
+    "reading": "uighur",
+    "code": "cr-kata1-896",
+    "index": 896
+  },
+  {
+    "surface": "オプショナルパーツ",
+    "reading": "optionalparts",
+    "code": "cr-kata1-897",
+    "index": 897
+  },
+  {
+    "surface": "ウロハゼ",
+    "reading": "urohaze",
+    "code": "cr-kata1-898",
+    "index": 898
+  },
+  {
+    "surface": "オーバレイ",
+    "reading": "overlay",
+    "code": "cr-kata1-899",
+    "index": 899
+  },
+  {
+    "surface": "アクチュアリティー",
+    "reading": "actuality",
+    "code": "cr-kata1-900",
+    "index": 900
+  },
+  {
+    "surface": "アシンメトリー",
+    "reading": "asymmetry",
+    "code": "cr-kata1-901",
+    "index": 901
+  },
+  {
+    "surface": "エスジーエムエル",
+    "reading": "esujiiemueru",
+    "code": "cr-kata1-902",
+    "index": 902
+  },
+  {
+    "surface": "アグレッション",
+    "reading": "aggression",
+    "code": "cr-kata1-903",
+    "index": 903
+  },
+  {
+    "surface": "アルゼンチン・タンゴ",
+    "reading": "argentinatango",
+    "code": "cr-kata1-904",
+    "index": 904
+  },
+  {
+    "surface": "インストーラー",
+    "reading": "installer",
+    "code": "cr-kata1-905",
+    "index": 905
+  },
+  {
+    "surface": "インターラプト",
+    "reading": "interrupt",
+    "code": "cr-kata1-906",
+    "index": 906
+  },
+  {
+    "surface": "ウオーターポロ",
+    "reading": "waterpolo",
+    "code": "cr-kata1-907",
+    "index": 907
+  },
+  {
+    "surface": "アグジャベディ",
+    "reading": "agujabedi",
+    "code": "cr-kata1-908",
+    "index": 908
+  },
+  {
+    "surface": "アクロマチックレンズ",
+    "reading": "achromaticlens",
+    "code": "cr-kata1-909",
+    "index": 909
+  },
+  {
+    "surface": "オーベルツハウゼン",
+    "reading": "ooberutsuhauzen",
+    "code": "cr-kata1-910",
+    "index": 910
+  },
+  {
+    "surface": "ヴェリカ・ゴリツァ",
+    "reading": "verikagoritsa",
+    "code": "cr-kata1-911",
+    "index": 911
+  },
+  {
+    "surface": "オシャースレーベン",
+    "reading": "oshaasureeben",
+    "code": "cr-kata1-912",
+    "index": 912
+  },
+  {
+    "surface": "オーディオビジュアル",
+    "reading": "audiovisual",
+    "code": "cr-kata1-913",
+    "index": 913
+  },
+  {
+    "surface": "イエシロアリ",
+    "reading": "yetshiroari",
+    "code": "cr-kata1-914",
+    "index": 914
+  },
+  {
+    "surface": "イイ",
+    "reading": "ii",
+    "code": "cr-kata1-915",
+    "index": 915
+  },
+  {
+    "surface": "アカグツ",
+    "reading": "akagutsu",
+    "code": "cr-kata1-916",
+    "index": 916
+  },
+  {
+    "surface": "オープンスクール",
+    "reading": "openschool",
+    "code": "cr-kata1-917",
+    "index": 917
+  },
+  {
+    "surface": "エアレション",
+    "reading": "eareshon",
+    "code": "cr-kata1-918",
+    "index": 918
+  },
+  {
+    "surface": "オア",
+    "reading": "or",
+    "code": "cr-kata1-919",
+    "index": 919
+  },
+  {
+    "surface": "アネキ",
+    "reading": "aneki",
+    "code": "cr-kata1-920",
+    "index": 920
+  },
+  {
+    "surface": "ウェストブルック",
+    "reading": "westburukku",
+    "code": "cr-kata1-921",
+    "index": 921
+  },
+  {
+    "surface": "アイスランドポピー",
+    "reading": "icelandpoppy",
+    "code": "cr-kata1-922",
+    "index": 922
+  },
+  {
+    "surface": "オーグレ",
+    "reading": "oogure",
+    "code": "cr-kata1-923",
+    "index": 923
+  },
+  {
+    "surface": "アンツーカ",
+    "reading": "antsuuka",
+    "code": "cr-kata1-924",
+    "index": 924
+  },
+  {
+    "surface": "オフオフブロードウェー",
+    "reading": "ofuofuburoodoee",
+    "code": "cr-kata1-925",
+    "index": 925
+  },
+  {
+    "surface": "エルモシージョ",
+    "reading": "erumoshiijo",
+    "code": "cr-kata1-926",
+    "index": 926
+  },
+  {
+    "surface": "ウーロンチャ",
+    "reading": "oolongcha",
+    "code": "cr-kata1-927",
+    "index": 927
+  },
+  {
+    "surface": "イースタッド",
+    "reading": "iistud",
+    "code": "cr-kata1-928",
+    "index": 928
+  },
+  {
+    "surface": "ウォールペーパー",
+    "reading": "wallpaper",
+    "code": "cr-kata1-929",
+    "index": 929
+  },
+  {
+    "surface": "エソ",
+    "reading": "eso",
+    "code": "cr-kata1-930",
+    "index": 930
+  },
+  {
+    "surface": "アラーム",
+    "reading": "alarm",
+    "code": "cr-kata1-931",
+    "index": 931
+  },
+  {
+    "surface": "アッ",
+    "reading": "a",
+    "code": "cr-kata1-932",
+    "index": 932
+  },
+  {
+    "surface": "ヴィタ",
+    "reading": "vita",
+    "code": "cr-kata1-933",
+    "index": 933
+  },
+  {
+    "surface": "ウィスパー",
+    "reading": "whisper",
+    "code": "cr-kata1-934",
+    "index": 934
+  },
+  {
+    "surface": "アームレスチェアー",
+    "reading": "armlesschair",
+    "code": "cr-kata1-935",
+    "index": 935
+  },
+  {
+    "surface": "インコンシステンシー",
+    "reading": "inconsistency",
+    "code": "cr-kata1-936",
+    "index": 936
+  },
+  {
+    "surface": "アプリケーションソフトウエア",
+    "reading": "applicationsoftware",
+    "code": "cr-kata1-937",
+    "index": 937
+  },
+  {
+    "surface": "インタロゲイション",
+    "reading": "intarogeishon",
+    "code": "cr-kata1-938",
+    "index": 938
+  },
+  {
+    "surface": "インテレクチュアル",
+    "reading": "intellectual",
+    "code": "cr-kata1-939",
+    "index": 939
+  },
+  {
+    "surface": "ウィーナー・ノイシュタット",
+    "reading": "wienernoishutatto",
+    "code": "cr-kata1-940",
+    "index": 940
+  },
+  {
+    "surface": "アウランガーバード",
+    "reading": "aurangaabaado",
+    "code": "cr-kata1-941",
+    "index": 941
+  },
+  {
+    "surface": "イーユー",
+    "reading": "iiyuu",
+    "code": "cr-kata1-942",
+    "index": 942
+  },
+  {
+    "surface": "ウェスラコ",
+    "reading": "esurako",
+    "code": "cr-kata1-943",
+    "index": 943
+  },
+  {
+    "surface": "ウエストマウント",
+    "reading": "waistmount",
+    "code": "cr-kata1-944",
+    "index": 944
+  },
+  {
+    "surface": "イルミ",
+    "reading": "irumi",
+    "code": "cr-kata1-945",
+    "index": 945
+  },
+  {
+    "surface": "オーバーハンドパス",
+    "reading": "overhandpass",
+    "code": "cr-kata1-946",
+    "index": 946
+  },
+  {
+    "surface": "インジャンクション",
+    "reading": "injunction",
+    "code": "cr-kata1-947",
+    "index": 947
+  },
+  {
+    "surface": "アコースティックギター",
+    "reading": "acousticguitar",
+    "code": "cr-kata1-948",
+    "index": 948
+  },
+  {
+    "surface": "アラス",
+    "reading": "arras",
+    "code": "cr-kata1-949",
+    "index": 949
+  },
+  {
+    "surface": "アキアカネ",
+    "reading": "akiakane",
+    "code": "cr-kata1-950",
+    "index": 950
+  },
+  {
+    "surface": "アクセシビリティー",
+    "reading": "accessibility",
+    "code": "cr-kata1-951",
+    "index": 951
+  },
+  {
+    "surface": "アドミニストレーション",
+    "reading": "administration",
+    "code": "cr-kata1-952",
+    "index": 952
+  },
+  {
+    "surface": "アネックス",
+    "reading": "annex",
+    "code": "cr-kata1-953",
+    "index": 953
+  },
+  {
+    "surface": "イジェヴァン",
+    "reading": "ijivin",
+    "code": "cr-kata1-954",
+    "index": 954
+  },
+  {
+    "surface": "ウォルドーフ",
+    "reading": "waldorf",
+    "code": "cr-kata1-955",
+    "index": 955
+  },
+  {
+    "surface": "ウェイン",
+    "reading": "wayne",
+    "code": "cr-kata1-956",
+    "index": 956
+  },
+  {
+    "surface": "イグルー",
+    "reading": "igloo",
+    "code": "cr-kata1-957",
+    "index": 957
+  },
+  {
+    "surface": "アシンメトリックデザイン",
+    "reading": "asymmetricdesign",
+    "code": "cr-kata1-958",
+    "index": 958
+  },
+  {
+    "surface": "オリリア",
+    "reading": "orilia",
+    "code": "cr-kata1-959",
+    "index": 959
+  },
+  {
+    "surface": "ウェスト・ブロムウィッチ",
+    "reading": "westbromwitch",
+    "code": "cr-kata1-960",
+    "index": 960
+  },
+  {
+    "surface": "ウィンドショッピング",
+    "reading": "windshopping",
+    "code": "cr-kata1-961",
+    "index": 961
+  },
+  {
+    "surface": "アラサー",
+    "reading": "arasaa",
+    "code": "cr-kata1-962",
+    "index": 962
+  },
+  {
+    "surface": "アニオン",
+    "reading": "anion",
+    "code": "cr-kata1-963",
+    "index": 963
+  },
+  {
+    "surface": "アイボリーブラック",
+    "reading": "ivoryblack",
+    "code": "cr-kata1-964",
+    "index": 964
+  },
+  {
+    "surface": "イソオクタン",
+    "reading": "isooctane",
+    "code": "cr-kata1-965",
+    "index": 965
+  },
+  {
+    "surface": "エバキュエーション",
+    "reading": "evacuation",
+    "code": "cr-kata1-966",
+    "index": 966
+  },
+  {
+    "surface": "イルクーツク",
+    "reading": "irkutsk",
+    "code": "cr-kata1-967",
+    "index": 967
+  },
+  {
+    "surface": "インフォ",
+    "reading": "info",
+    "code": "cr-kata1-968",
+    "index": 968
+  },
+  {
+    "surface": "アシッド",
+    "reading": "acid",
+    "code": "cr-kata1-969",
+    "index": 969
+  },
+  {
+    "surface": "オセール",
+    "reading": "osale",
+    "code": "cr-kata1-970",
+    "index": 970
+  },
+  {
+    "surface": "インタヴュー",
+    "reading": "interview",
+    "code": "cr-kata1-971",
+    "index": 971
+  },
+  {
+    "surface": "アタ",
+    "reading": "ata",
+    "code": "cr-kata1-972",
+    "index": 972
+  },
+  {
+    "surface": "ウムタタ",
+    "reading": "umutata",
+    "code": "cr-kata1-973",
+    "index": 973
+  },
+  {
+    "surface": "ウェストコロンビア",
+    "reading": "westcolognebeer",
+    "code": "cr-kata1-974",
+    "index": 974
+  },
+  {
+    "surface": "オートマティスム",
+    "reading": "automatisme",
+    "code": "cr-kata1-975",
+    "index": 975
+  },
+  {
+    "surface": "アルツハイマー",
+    "reading": "alzheimer",
+    "code": "cr-kata1-976",
+    "index": 976
+  },
+  {
+    "surface": "ウスノロ",
+    "reading": "usunoro",
+    "code": "cr-kata1-977",
+    "index": 977
+  },
+  {
+    "surface": "アンジュレーション",
+    "reading": "angeration",
+    "code": "cr-kata1-978",
+    "index": 978
+  },
+  {
+    "surface": "インターネットブイピーエヌ",
+    "reading": "internetbuipiienu",
+    "code": "cr-kata1-979",
+    "index": 979
+  },
+  {
+    "surface": "アイサイト",
+    "reading": "eyesite",
+    "code": "cr-kata1-980",
+    "index": 980
+  },
+  {
+    "surface": "アグアディージャ",
+    "reading": "aguadiija",
+    "code": "cr-kata1-981",
+    "index": 981
+  },
+  {
+    "surface": "エー",
+    "reading": "ee",
+    "code": "cr-kata1-982",
+    "index": 982
+  },
+  {
+    "surface": "オッケィ",
+    "reading": "okay",
+    "code": "cr-kata1-983",
+    "index": 983
+  },
+  {
+    "surface": "ヴェーパーウェア",
+    "reading": "veepaaea",
+    "code": "cr-kata1-984",
+    "index": 984
+  },
+  {
+    "surface": "エビヅル",
+    "reading": "ebizuru",
+    "code": "cr-kata1-985",
+    "index": 985
+  },
+  {
+    "surface": "エゾクロテン",
+    "reading": "ezokuroten",
+    "code": "cr-kata1-986",
+    "index": 986
+  },
+  {
+    "surface": "イヤー",
+    "reading": "year",
+    "code": "cr-kata1-987",
+    "index": 987
+  },
+  {
+    "surface": "アナ",
+    "reading": "announcer",
+    "code": "cr-kata1-988",
+    "index": 988
+  },
+  {
+    "surface": "アメーバー",
+    "reading": "amobe",
+    "code": "cr-kata1-989",
+    "index": 989
+  },
+  {
+    "surface": "ウォッチマン",
+    "reading": "watchman",
+    "code": "cr-kata1-990",
+    "index": 990
+  },
+  {
+    "surface": "アシスト",
+    "reading": "assist",
+    "code": "cr-kata1-991",
+    "index": 991
+  },
+  {
+    "surface": "ウエルダン",
+    "reading": "welldan",
+    "code": "cr-kata1-992",
+    "index": 992
+  },
+  {
+    "surface": "インフォーマルドレス",
+    "reading": "informaldress",
+    "code": "cr-kata1-993",
+    "index": 993
+  },
+  {
+    "surface": "オーディション",
+    "reading": "audition",
+    "code": "cr-kata1-994",
+    "index": 994
+  },
+  {
+    "surface": "イク",
+    "reading": "iku",
+    "code": "cr-kata1-995",
+    "index": 995
+  },
+  {
+    "surface": "アセットマネージメント",
+    "reading": "assetmanagement",
+    "code": "cr-kata1-996",
+    "index": 996
+  },
+  {
+    "surface": "アオシタトカゲ",
+    "reading": "aoshitatokage",
+    "code": "cr-kata1-997",
+    "index": 997
+  },
+  {
+    "surface": "アサシネイト",
+    "reading": "asashineito",
+    "code": "cr-kata1-998",
+    "index": 998
+  },
+  {
+    "surface": "ウィニペグ",
+    "reading": "inipegu",
+    "code": "cr-kata1-999",
+    "index": 999
+  },
+  {
+    "surface": "イヤリング",
+    "reading": "earring",
+    "code": "cr-kata1-1000",
+    "index": 1000
+  },
+  {
+    "surface": "エッチティーエムエル",
+    "reading": "etchitiiemueru",
+    "code": "cr-kata1-1001",
+    "index": 1001
+  },
+  {
+    "surface": "エアサスペンション",
+    "reading": "airsuspension",
+    "code": "cr-kata1-1002",
+    "index": 1002
+  },
+  {
+    "surface": "イモリ",
+    "reading": "imori",
+    "code": "cr-kata1-1003",
+    "index": 1003
+  },
+  {
+    "surface": "アミ",
+    "reading": "ami",
+    "code": "cr-kata1-1004",
+    "index": 1004
+  },
+  {
+    "surface": "オペレーター",
+    "reading": "operator",
+    "code": "cr-kata1-1005",
+    "index": 1005
+  },
+  {
+    "surface": "エックス",
+    "reading": "ekkusu",
+    "code": "cr-kata1-1006",
+    "index": 1006
+  },
+  {
+    "surface": "アッパー・ウエスト・サイド",
+    "reading": "upperwaistside",
+    "code": "cr-kata1-1007",
+    "index": 1007
+  },
+  {
+    "surface": "アマチュアリズム",
+    "reading": "amateurism",
+    "code": "cr-kata1-1008",
+    "index": 1008
+  },
+  {
+    "surface": "オーシュ",
+    "reading": "ooshu",
+    "code": "cr-kata1-1009",
+    "index": 1009
+  },
+  {
+    "surface": "オルロ",
+    "reading": "oruro",
+    "code": "cr-kata1-1010",
+    "index": 1010
+  },
+  {
+    "surface": "アメリカン・フォーク",
+    "reading": "americanfork",
+    "code": "cr-kata1-1011",
+    "index": 1011
+  },
+  {
+    "surface": "エクスリブリス",
+    "reading": "exlibris",
+    "code": "cr-kata1-1012",
+    "index": 1012
+  },
+  {
+    "surface": "アラザン",
+    "reading": "argent",
+    "code": "cr-kata1-1013",
+    "index": 1013
+  },
+  {
+    "surface": "ウエッブ",
+    "reading": "web",
+    "code": "cr-kata1-1014",
+    "index": 1014
+  },
+  {
+    "surface": "エッチディーエルシー",
+    "reading": "etchidiierushii",
+    "code": "cr-kata1-1015",
+    "index": 1015
+  },
+  {
+    "surface": "アギ",
+    "reading": "agi",
+    "code": "cr-kata1-1016",
+    "index": 1016
+  },
+  {
+    "surface": "アンチクライマックス",
+    "reading": "anticlimax",
+    "code": "cr-kata1-1017",
+    "index": 1017
+  },
+  {
+    "surface": "エリス",
+    "reading": "ellis",
+    "code": "cr-kata1-1018",
+    "index": 1018
+  },
+  {
+    "surface": "インスタント",
+    "reading": "instant",
+    "code": "cr-kata1-1019",
+    "index": 1019
+  },
+  {
+    "surface": "イソ",
+    "reading": "iso",
+    "code": "cr-kata1-1020",
+    "index": 1020
+  },
+  {
+    "surface": "エフ",
+    "reading": "efu",
+    "code": "cr-kata1-1021",
+    "index": 1021
+  },
+  {
+    "surface": "ヴィロフレー",
+    "reading": "virofuree",
+    "code": "cr-kata1-1022",
+    "index": 1022
+  },
+  {
+    "surface": "オープンコース",
+    "reading": "opencourse",
+    "code": "cr-kata1-1023",
+    "index": 1023
+  },
+  {
+    "surface": "オステオポローシス",
+    "reading": "osuteoporooshisu",
+    "code": "cr-kata1-1024",
+    "index": 1024
+  },
+  {
+    "surface": "イッカク",
+    "reading": "ikkaku",
+    "code": "cr-kata1-1025",
+    "index": 1025
+  },
+  {
+    "surface": "アルデンテ",
+    "reading": "aldente",
+    "code": "cr-kata1-1026",
+    "index": 1026
+  },
+  {
+    "surface": "エマージング",
+    "reading": "emerging",
+    "code": "cr-kata1-1027",
+    "index": 1027
+  },
+  {
+    "surface": "アッポジャトゥーラ",
+    "reading": "appojatuura",
+    "code": "cr-kata1-1028",
+    "index": 1028
+  },
+  {
+    "surface": "ウチ",
+    "reading": "uchi",
+    "code": "cr-kata1-1029",
+    "index": 1029
+  },
+  {
+    "surface": "オプショナルツアー",
+    "reading": "optionaltour",
+    "code": "cr-kata1-1030",
+    "index": 1030
+  },
+  {
+    "surface": "オレ",
+    "reading": "ore",
+    "code": "cr-kata1-1031",
+    "index": 1031
+  },
+  {
+    "surface": "ウジムシ",
+    "reading": "ujimushi",
+    "code": "cr-kata1-1032",
+    "index": 1032
+  },
+  {
+    "surface": "アラート",
+    "reading": "alert",
+    "code": "cr-kata1-1033",
+    "index": 1033
+  },
+  {
+    "surface": "アズマヤマアザミ",
+    "reading": "azumayamaazami",
+    "code": "cr-kata1-1034",
+    "index": 1034
+  },
+  {
+    "surface": "アウトドアスポーツ",
+    "reading": "outdoorsport",
+    "code": "cr-kata1-1035",
+    "index": 1035
+  },
+  {
+    "surface": "アプリケーションキー",
+    "reading": "applicationkey",
+    "code": "cr-kata1-1036",
+    "index": 1036
+  },
+  {
+    "surface": "アルスドルフ",
+    "reading": "arsdorufu",
+    "code": "cr-kata1-1037",
+    "index": 1037
+  },
+  {
+    "surface": "アルハラ",
+    "reading": "aruhara",
+    "code": "cr-kata1-1038",
+    "index": 1038
+  },
+  {
+    "surface": "オモナガフタホシハゼ",
+    "reading": "omonagafutahoshihaze",
+    "code": "cr-kata1-1039",
+    "index": 1039
+  },
+  {
+    "surface": "オールヴォワール",
+    "reading": "ooruvowaaru",
+    "code": "cr-kata1-1040",
+    "index": 1040
+  },
+  {
+    "surface": "アルプス",
+    "reading": "alps",
+    "code": "cr-kata1-1041",
+    "index": 1041
+  },
+  {
+    "surface": "アナログアールジービー",
+    "reading": "anaroguaarujiibii",
+    "code": "cr-kata1-1042",
+    "index": 1042
+  },
+  {
+    "surface": "アジ",
+    "reading": "aji",
+    "code": "cr-kata1-1043",
+    "index": 1043
+  },
+  {
+    "surface": "アサイド",
+    "reading": "aside",
+    "code": "cr-kata1-1044",
+    "index": 1044
+  },
+  {
+    "surface": "アーニス",
+    "reading": "arevarnish",
+    "code": "cr-kata1-1045",
+    "index": 1045
+  },
+  {
+    "surface": "ウブド",
+    "reading": "ubudo",
+    "code": "cr-kata1-1046",
+    "index": 1046
+  },
+  {
+    "surface": "エアピストル",
+    "reading": "airpistol",
+    "code": "cr-kata1-1047",
+    "index": 1047
+  },
+  {
+    "surface": "ウィザ",
+    "reading": "wethe",
+    "code": "cr-kata1-1048",
+    "index": 1048
+  },
+  {
+    "surface": "ヴィジュアル",
+    "reading": "visual",
+    "code": "cr-kata1-1049",
+    "index": 1049
+  },
+  {
+    "surface": "ヴィジャヤワーダ",
+    "reading": "vijayawaada",
+    "code": "cr-kata1-1050",
+    "index": 1050
+  },
+  {
+    "surface": "エクスプロージョン",
+    "reading": "explosion",
+    "code": "cr-kata1-1051",
+    "index": 1051
+  },
+  {
+    "surface": "オープン",
+    "reading": "open",
+    "code": "cr-kata1-1052",
+    "index": 1052
+  },
+  {
+    "surface": "アービトレーショングループ",
+    "reading": "aabitoreeshonguruupu",
+    "code": "cr-kata1-1053",
+    "index": 1053
+  },
+  {
+    "surface": "エスキューエル",
+    "reading": "esukyuueru",
+    "code": "cr-kata1-1054",
+    "index": 1054
+  },
+  {
+    "surface": "オープン・スペース",
+    "reading": "openspace",
+    "code": "cr-kata1-1055",
+    "index": 1055
+  },
+  {
+    "surface": "ウェリン・ガーデン・シティ",
+    "reading": "eringaadenshiti",
+    "code": "cr-kata1-1056",
+    "index": 1056
+  },
+  {
+    "surface": "エロカワ",
+    "reading": "erokawa",
+    "code": "cr-kata1-1057",
+    "index": 1057
+  },
+  {
+    "surface": "エムアールエヌエー",
+    "reading": "emuaaruenuee",
+    "code": "cr-kata1-1058",
+    "index": 1058
+  },
+  {
+    "surface": "インフォメーション",
+    "reading": "information",
+    "code": "cr-kata1-1059",
+    "index": 1059
+  },
+  {
+    "surface": "エア",
+    "reading": "air",
+    "code": "cr-kata1-1060",
+    "index": 1060
+  },
+  {
+    "surface": "イビキ",
+    "reading": "ibiki",
+    "code": "cr-kata1-1061",
+    "index": 1061
+  },
+  {
+    "surface": "アイコニックメモリ",
+    "reading": "aikonikkumemori",
+    "code": "cr-kata1-1062",
+    "index": 1062
+  },
+  {
+    "surface": "エゴチスト",
+    "reading": "egochisuto",
+    "code": "cr-kata1-1063",
+    "index": 1063
+  },
+  {
+    "surface": "オフランプ",
+    "reading": "offlamp",
+    "code": "cr-kata1-1064",
+    "index": 1064
+  },
+  {
+    "surface": "アルカデイア",
+    "reading": "arukadeia",
+    "code": "cr-kata1-1065",
+    "index": 1065
+  },
+  {
+    "surface": "エリザベス",
+    "reading": "elizabeth",
+    "code": "cr-kata1-1066",
+    "index": 1066
+  },
+  {
+    "surface": "アビ",
+    "reading": "habit",
+    "code": "cr-kata1-1067",
+    "index": 1067
+  },
+  {
+    "surface": "アメリカミズバショウ",
+    "reading": "amerikamizubashou",
+    "code": "cr-kata1-1068",
+    "index": 1068
+  },
+  {
+    "surface": "アクタシュ",
+    "reading": "akutashu",
+    "code": "cr-kata1-1069",
+    "index": 1069
+  },
+  {
+    "surface": "オンス",
+    "reading": "ounce",
+    "code": "cr-kata1-1070",
+    "index": 1070
+  },
+  {
+    "surface": "ウプサラ",
+    "reading": "uppsala",
+    "code": "cr-kata1-1071",
+    "index": 1071
+  },
+  {
+    "surface": "アランフエス",
+    "reading": "aranjuez",
+    "code": "cr-kata1-1072",
+    "index": 1072
+  },
+  {
+    "surface": "アスペクトレーショ",
+    "reading": "asupekutoreesho",
+    "code": "cr-kata1-1073",
+    "index": 1073
+  },
+  {
+    "surface": "アラダ",
+    "reading": "arada",
+    "code": "cr-kata1-1074",
+    "index": 1074
+  },
+  {
+    "surface": "ヴィクターヴィル",
+    "reading": "victorvill",
+    "code": "cr-kata1-1075",
+    "index": 1075
+  },
+  {
+    "surface": "イス",
+    "reading": "isu",
+    "code": "cr-kata1-1076",
+    "index": 1076
+  },
+  {
+    "surface": "アプリケーションソフトウェア",
+    "reading": "applicationsoftware",
+    "code": "cr-kata1-1077",
+    "index": 1077
+  },
+  {
+    "surface": "アスキー",
+    "reading": "asukii",
+    "code": "cr-kata1-1078",
+    "index": 1078
+  },
+  {
+    "surface": "アイビス",
+    "reading": "eyevis",
+    "code": "cr-kata1-1079",
+    "index": 1079
+  },
+  {
+    "surface": "オラショ",
+    "reading": "oratio",
+    "code": "cr-kata1-1080",
+    "index": 1080
+  },
+  {
+    "surface": "エル",
+    "reading": "eru",
+    "code": "cr-kata1-1081",
+    "index": 1081
+  },
+  {
+    "surface": "エンドオブテキスト",
+    "reading": "endoftext",
+    "code": "cr-kata1-1082",
+    "index": 1082
+  },
+  {
+    "surface": "アンズ",
+    "reading": "anzu",
+    "code": "cr-kata1-1083",
+    "index": 1083
+  },
+  {
+    "surface": "インタバル",
+    "reading": "intabaru",
+    "code": "cr-kata1-1084",
+    "index": 1084
+  },
+  {
+    "surface": "アラビア",
+    "reading": "arabia",
+    "code": "cr-kata1-1085",
+    "index": 1085
+  },
+  {
+    "surface": "イサギ",
+    "reading": "isagi",
+    "code": "cr-kata1-1086",
+    "index": 1086
+  },
+  {
+    "surface": "イズマイール",
+    "reading": "izumaiiru",
+    "code": "cr-kata1-1087",
+    "index": 1087
+  },
+  {
+    "surface": "アケボノヒメオオトカゲ",
+    "reading": "akebonohimeootokage",
+    "code": "cr-kata1-1088",
+    "index": 1088
+  },
+  {
+    "surface": "エレクトロセラミックス",
+    "reading": "electroceramics",
+    "code": "cr-kata1-1089",
+    "index": 1089
+  },
+  {
+    "surface": "アオハナホソオオトカゲ",
+    "reading": "aohanahosoootokage",
+    "code": "cr-kata1-1090",
+    "index": 1090
+  },
+  {
+    "surface": "オーブ",
+    "reading": "oobu",
+    "code": "cr-kata1-1091",
+    "index": 1091
+  },
+  {
+    "surface": "エオアントロプス",
+    "reading": "eoanthropus",
+    "code": "cr-kata1-1092",
+    "index": 1092
+  },
+  {
+    "surface": "ウェルディングステーション",
+    "reading": "erudingusuteeshon",
+    "code": "cr-kata1-1093",
+    "index": 1093
+  },
+  {
+    "surface": "アルカルイク",
+    "reading": "arukaruiku",
+    "code": "cr-kata1-1094",
+    "index": 1094
+  },
+  {
+    "surface": "アトリビューション",
+    "reading": "attribution",
+    "code": "cr-kata1-1095",
+    "index": 1095
+  },
+  {
+    "surface": "エレガントコリス",
+    "reading": "eregantokorisu",
+    "code": "cr-kata1-1096",
+    "index": 1096
+  },
+  {
+    "surface": "エムオー",
+    "reading": "emuoo",
+    "code": "cr-kata1-1097",
+    "index": 1097
+  },
+  {
+    "surface": "エビル",
+    "reading": "evil",
+    "code": "cr-kata1-1098",
+    "index": 1098
+  },
+  {
+    "surface": "アーティーチョーク",
+    "reading": "artichoke",
+    "code": "cr-kata1-1099",
+    "index": 1099
+  },
+  {
+    "surface": "イデオム",
+    "reading": "ideomu",
+    "code": "cr-kata1-1100",
+    "index": 1100
+  },
+  {
+    "surface": "イラストレータ",
+    "reading": "illustrator",
+    "code": "cr-kata1-1101",
+    "index": 1101
+  },
+  {
+    "surface": "アルミニューム",
+    "reading": "aluminium",
+    "code": "cr-kata1-1102",
+    "index": 1102
+  },
+  {
+    "surface": "アルバートサウルス",
+    "reading": "arubaatosaurusu",
+    "code": "cr-kata1-1103",
+    "index": 1103
+  },
+  {
+    "surface": "インバー・グローブ・ハイツ",
+    "reading": "inbaagloveheights",
+    "code": "cr-kata1-1104",
+    "index": 1104
+  },
+  {
+    "surface": "ウシバエ",
+    "reading": "ushibae",
+    "code": "cr-kata1-1105",
+    "index": 1105
+  },
+  {
+    "surface": "アイロン",
+    "reading": "iron",
+    "code": "cr-kata1-1106",
+    "index": 1106
+  },
+  {
+    "surface": "オアシス",
+    "reading": "oasis",
+    "code": "cr-kata1-1107",
+    "index": 1107
+  },
+  {
+    "surface": "アチーブ",
+    "reading": "achiibu",
+    "code": "cr-kata1-1108",
+    "index": 1108
+  },
+  {
+    "surface": "オオウラジロノキ",
+    "reading": "oourajironoki",
+    "code": "cr-kata1-1109",
+    "index": 1109
+  },
+  {
+    "surface": "ウエブカム",
+    "reading": "webcome",
+    "code": "cr-kata1-1110",
+    "index": 1110
+  },
+  {
+    "surface": "ウオーターフロント",
+    "reading": "waterfront",
+    "code": "cr-kata1-1111",
+    "index": 1111
+  },
+  {
+    "surface": "オーケストラピット",
+    "reading": "orchestrapit",
+    "code": "cr-kata1-1112",
+    "index": 1112
+  },
+  {
+    "surface": "オオハシ",
+    "reading": "oohashi",
+    "code": "cr-kata1-1113",
+    "index": 1113
+  },
+  {
+    "surface": "エンターテーメント",
+    "reading": "entaateemento",
+    "code": "cr-kata1-1114",
+    "index": 1114
+  },
+  {
+    "surface": "アルファルワニーヤ",
+    "reading": "arufaruwaniiya",
+    "code": "cr-kata1-1115",
+    "index": 1115
+  },
+  {
+    "surface": "ウィドウ",
+    "reading": "widow",
+    "code": "cr-kata1-1116",
+    "index": 1116
+  },
+  {
+    "surface": "オグデン",
+    "reading": "oguden",
+    "code": "cr-kata1-1117",
+    "index": 1117
+  },
+  {
+    "surface": "オリーヴ",
+    "reading": "olive",
+    "code": "cr-kata1-1118",
+    "index": 1118
+  },
+  {
+    "surface": "ウィルム",
+    "reading": "willmu",
+    "code": "cr-kata1-1119",
+    "index": 1119
+  },
+  {
+    "surface": "イルザック",
+    "reading": "ilesack",
+    "code": "cr-kata1-1120",
+    "index": 1120
+  },
+  {
+    "surface": "イラストレーション",
+    "reading": "illustration",
+    "code": "cr-kata1-1121",
+    "index": 1121
+  },
+  {
+    "surface": "インテリゲンツィア",
+    "reading": "intelligentsiya",
+    "code": "cr-kata1-1122",
+    "index": 1122
+  },
+  {
+    "surface": "オジャー",
+    "reading": "ojaa",
+    "code": "cr-kata1-1123",
+    "index": 1123
+  },
+  {
+    "surface": "イジメ",
+    "reading": "ijime",
+    "code": "cr-kata1-1124",
+    "index": 1124
+  },
+  {
+    "surface": "インカ",
+    "reading": "inca",
+    "code": "cr-kata1-1125",
+    "index": 1125
+  },
+  {
+    "surface": "イセゴイ",
+    "reading": "isegoi",
+    "code": "cr-kata1-1126",
+    "index": 1126
+  },
+  {
+    "surface": "アハアハ",
+    "reading": "ahaaha",
+    "code": "cr-kata1-1127",
+    "index": 1127
+  },
+  {
+    "surface": "ウッ",
+    "reading": "u",
+    "code": "cr-kata1-1128",
+    "index": 1128
+  },
+  {
+    "surface": "アポ",
+    "reading": "appointment",
+    "code": "cr-kata1-1129",
+    "index": 1129
+  },
+  {
+    "surface": "オーダー",
+    "reading": "order",
+    "code": "cr-kata1-1130",
+    "index": 1130
+  },
+  {
+    "surface": "アゲマキ",
+    "reading": "agemaki",
+    "code": "cr-kata1-1131",
+    "index": 1131
+  },
+  {
+    "surface": "ウンウンヘキシウム",
+    "reading": "ununhekishiumu",
+    "code": "cr-kata1-1132",
+    "index": 1132
+  },
+  {
+    "surface": "ウィーン",
+    "reading": "wien",
+    "code": "cr-kata1-1133",
+    "index": 1133
+  },
+  {
+    "surface": "アカアシイワシャコ",
+    "reading": "akaashiiwashako",
+    "code": "cr-kata1-1134",
+    "index": 1134
+  },
+  {
+    "surface": "ウォールナット・クリーク",
+    "reading": "walnutkuriiku",
+    "code": "cr-kata1-1135",
+    "index": 1135
+  },
+  {
+    "surface": "エセイサ",
+    "reading": "eseisa",
+    "code": "cr-kata1-1136",
+    "index": 1136
+  },
+  {
+    "surface": "インクリメント",
+    "reading": "increment",
+    "code": "cr-kata1-1137",
+    "index": 1137
+  },
+  {
+    "surface": "イヌツゲ",
+    "reading": "inutsuge",
+    "code": "cr-kata1-1138",
+    "index": 1138
+  },
+  {
+    "surface": "エフエフティー",
+    "reading": "efuefutii",
+    "code": "cr-kata1-1139",
+    "index": 1139
+  },
+  {
+    "surface": "インテリア・デザイン",
+    "reading": "interiordesign",
+    "code": "cr-kata1-1140",
+    "index": 1140
+  },
+  {
+    "surface": "アクロス",
+    "reading": "across",
+    "code": "cr-kata1-1141",
+    "index": 1141
+  },
+  {
+    "surface": "イヌ",
+    "reading": "inu",
+    "code": "cr-kata1-1142",
+    "index": 1142
+  },
+  {
+    "surface": "ウメ",
+    "reading": "ume",
+    "code": "cr-kata1-1143",
+    "index": 1143
+  },
+  {
+    "surface": "アクリロイルモルホリン",
+    "reading": "akuriroirumoruhorin",
+    "code": "cr-kata1-1144",
+    "index": 1144
+  },
+  {
+    "surface": "アゲィンスト",
+    "reading": "aginsuto",
+    "code": "cr-kata1-1145",
+    "index": 1145
+  },
+  {
+    "surface": "イッテンチョウチョウウオ",
+    "reading": "ittenchouchouuo",
+    "code": "cr-kata1-1146",
+    "index": 1146
+  },
+  {
+    "surface": "アカデミシズム",
+    "reading": "akademishizumu",
+    "code": "cr-kata1-1147",
+    "index": 1147
+  },
+  {
+    "surface": "エアライト",
+    "reading": "airraito",
+    "code": "cr-kata1-1148",
+    "index": 1148
+  },
+  {
+    "surface": "アーパー",
+    "reading": "arepar",
+    "code": "cr-kata1-1149",
+    "index": 1149
+  },
+  {
+    "surface": "ウバリ",
+    "reading": "ubari",
+    "code": "cr-kata1-1150",
+    "index": 1150
+  },
+  {
+    "surface": "オートチェンジャー",
+    "reading": "autochainjar",
+    "code": "cr-kata1-1151",
+    "index": 1151
+  },
+  {
+    "surface": "インナースペース",
+    "reading": "innerspace",
+    "code": "cr-kata1-1152",
+    "index": 1152
+  },
+  {
+    "surface": "イタコ",
+    "reading": "itako",
+    "code": "cr-kata1-1153",
+    "index": 1153
+  },
+  {
+    "surface": "ウィロー・ブルック",
+    "reading": "willowburukku",
+    "code": "cr-kata1-1154",
+    "index": 1154
+  },
+  {
+    "surface": "エゾネギ",
+    "reading": "ezonegi",
+    "code": "cr-kata1-1155",
+    "index": 1155
+  },
+  {
+    "surface": "ウーマン",
+    "reading": "woman",
+    "code": "cr-kata1-1156",
+    "index": 1156
+  },
+  {
+    "surface": "エネルホダル",
+    "reading": "eneruhodaru",
+    "code": "cr-kata1-1157",
+    "index": 1157
+  },
+  {
+    "surface": "ウェスタンキングラス",
+    "reading": "westernkinglath",
+    "code": "cr-kata1-1158",
+    "index": 1158
+  },
+  {
+    "surface": "エスケープクローズ",
+    "reading": "escapeclose",
+    "code": "cr-kata1-1159",
+    "index": 1159
+  },
+  {
+    "surface": "アニメオタク",
+    "reading": "animationotaku",
+    "code": "cr-kata1-1160",
+    "index": 1160
+  },
+  {
+    "surface": "オーガナイゼーション",
+    "reading": "organization",
+    "code": "cr-kata1-1161",
+    "index": 1161
+  },
+  {
+    "surface": "アァ",
+    "reading": "a",
+    "code": "cr-kata1-1162",
+    "index": 1162
+  },
+  {
+    "surface": "ヴィディン",
+    "reading": "vidin",
+    "code": "cr-kata1-1163",
+    "index": 1163
+  },
+  {
+    "surface": "エグゼクティブ",
+    "reading": "executive",
+    "code": "cr-kata1-1164",
+    "index": 1164
+  },
+  {
+    "surface": "アルホイル",
+    "reading": "alfoil",
+    "code": "cr-kata1-1165",
+    "index": 1165
+  },
+  {
+    "surface": "ウォシュレット",
+    "reading": "oshuretto",
+    "code": "cr-kata1-1166",
+    "index": 1166
+  },
+  {
+    "surface": "ウミワニ",
+    "reading": "umiwani",
+    "code": "cr-kata1-1167",
+    "index": 1167
+  },
+  {
+    "surface": "ウマ",
+    "reading": "uma",
+    "code": "cr-kata1-1168",
+    "index": 1168
+  },
+  {
+    "surface": "アイソメトリックス",
+    "reading": "isometric",
+    "code": "cr-kata1-1169",
+    "index": 1169
+  },
+  {
+    "surface": "アイフック",
+    "reading": "eyehook",
+    "code": "cr-kata1-1170",
+    "index": 1170
+  },
+  {
+    "surface": "インターナショナル",
+    "reading": "international",
+    "code": "cr-kata1-1171",
+    "index": 1171
+  },
+  {
+    "surface": "アルゴル",
+    "reading": "algol",
+    "code": "cr-kata1-1172",
+    "index": 1172
+  },
+  {
+    "surface": "オールインワン",
+    "reading": "allinone",
+    "code": "cr-kata1-1173",
+    "index": 1173
+  },
+  {
+    "surface": "アップライトピアノ",
+    "reading": "uprightpiano",
+    "code": "cr-kata1-1174",
+    "index": 1174
+  },
+  {
+    "surface": "エーバーバッハ",
+    "reading": "eebaabahha",
+    "code": "cr-kata1-1175",
+    "index": 1175
+  },
+  {
+    "surface": "アーメン",
+    "reading": "amen",
+    "code": "cr-kata1-1176",
+    "index": 1176
+  },
+  {
+    "surface": "ウォータープルーフ",
+    "reading": "waterproof",
+    "code": "cr-kata1-1177",
+    "index": 1177
+  },
+  {
+    "surface": "アシスタントパーサー",
+    "reading": "assistantpurser",
+    "code": "cr-kata1-1178",
+    "index": 1178
+  },
+  {
+    "surface": "エージェント",
+    "reading": "agent",
+    "code": "cr-kata1-1179",
+    "index": 1179
+  },
+  {
+    "surface": "アップルトン",
+    "reading": "appleton",
+    "code": "cr-kata1-1180",
+    "index": 1180
+  },
+  {
+    "surface": "イエローケーキ",
+    "reading": "yellowcake",
+    "code": "cr-kata1-1181",
+    "index": 1181
+  },
+  {
+    "surface": "イタチザメ",
+    "reading": "itachizame",
+    "code": "cr-kata1-1182",
+    "index": 1182
+  },
+  {
+    "surface": "イントロ",
+    "reading": "introduction",
+    "code": "cr-kata1-1183",
+    "index": 1183
+  },
+  {
+    "surface": "エチレングリコール",
+    "reading": "athylenglykol",
+    "code": "cr-kata1-1184",
+    "index": 1184
+  },
+  {
+    "surface": "イボタ",
+    "reading": "ibota",
+    "code": "cr-kata1-1185",
+    "index": 1185
+  },
+  {
+    "surface": "イーグル",
+    "reading": "eagle",
+    "code": "cr-kata1-1186",
+    "index": 1186
+  },
+  {
+    "surface": "オープンドア",
+    "reading": "opendoor",
+    "code": "cr-kata1-1187",
+    "index": 1187
+  },
+  {
+    "surface": "エヴァンジェリスト",
+    "reading": "evanjerisuto",
+    "code": "cr-kata1-1188",
+    "index": 1188
+  },
+  {
+    "surface": "アスパラ",
+    "reading": "asparagus",
+    "code": "cr-kata1-1189",
+    "index": 1189
+  },
+  {
+    "surface": "エッヂ",
+    "reading": "edge",
+    "code": "cr-kata1-1190",
+    "index": 1190
+  },
+  {
+    "surface": "イルフォード",
+    "reading": "ilford",
+    "code": "cr-kata1-1191",
+    "index": 1191
+  },
+  {
+    "surface": "アアア",
+    "reading": "aaa",
+    "code": "cr-kata1-1192",
+    "index": 1192
+  },
+  {
+    "surface": "ウイークリー",
+    "reading": "weekly",
+    "code": "cr-kata1-1193",
+    "index": 1193
+  },
+  {
+    "surface": "エーアイエフエフ",
+    "reading": "eeaiefuefu",
+    "code": "cr-kata1-1194",
+    "index": 1194
+  },
+  {
+    "surface": "オマキザル",
+    "reading": "omakizaru",
+    "code": "cr-kata1-1195",
+    "index": 1195
+  },
+  {
+    "surface": "オーディオメーター",
+    "reading": "audiometer",
+    "code": "cr-kata1-1196",
+    "index": 1196
+  },
+  {
+    "surface": "オロダラ",
+    "reading": "orodara",
+    "code": "cr-kata1-1197",
+    "index": 1197
+  },
+  {
+    "surface": "アーガル",
+    "reading": "aagaru",
+    "code": "cr-kata1-1198",
+    "index": 1198
+  },
+  {
+    "surface": "アルクトゥールス",
+    "reading": "arukutoruth",
+    "code": "cr-kata1-1199",
+    "index": 1199
+  },
+  {
+    "surface": "ウベ",
+    "reading": "ube",
+    "code": "cr-kata1-1200",
+    "index": 1200
+  },
+  {
+    "surface": "エアゾール",
+    "reading": "aerosol",
+    "code": "cr-kata1-1201",
+    "index": 1201
+  },
+  {
+    "surface": "オリコミ",
+    "reading": "orikomi",
+    "code": "cr-kata1-1202",
+    "index": 1202
+  },
+  {
+    "surface": "エキスパンダー",
+    "reading": "expander",
+    "code": "cr-kata1-1203",
+    "index": 1203
+  },
+  {
+    "surface": "エスタブリッシュメント",
+    "reading": "establishment",
+    "code": "cr-kata1-1204",
+    "index": 1204
+  },
+  {
+    "surface": "オロオロ",
+    "reading": "orooro",
+    "code": "cr-kata1-1205",
+    "index": 1205
+  },
+  {
+    "surface": "オナベ",
+    "reading": "onabe",
+    "code": "cr-kata1-1206",
+    "index": 1206
+  },
+  {
+    "surface": "エレプシン",
+    "reading": "erepsin",
+    "code": "cr-kata1-1207",
+    "index": 1207
+  },
+  {
+    "surface": "ウェンツビル",
+    "reading": "enbuilding",
+    "code": "cr-kata1-1208",
+    "index": 1208
+  },
+  {
+    "surface": "アラン",
+    "reading": "alain",
+    "code": "cr-kata1-1209",
+    "index": 1209
+  },
+  {
+    "surface": "エクスキューショナー",
+    "reading": "ekusukyuushonaa",
+    "code": "cr-kata1-1210",
+    "index": 1210
+  },
+  {
+    "surface": "エリー",
+    "reading": "erii",
+    "code": "cr-kata1-1211",
+    "index": 1211
+  },
+  {
+    "surface": "アッペ",
+    "reading": "appe",
+    "code": "cr-kata1-1212",
+    "index": 1212
+  },
+  {
+    "surface": "エム",
+    "reading": "emu",
+    "code": "cr-kata1-1213",
+    "index": 1213
+  },
+  {
+    "surface": "エゾギク",
+    "reading": "ezogiku",
+    "code": "cr-kata1-1214",
+    "index": 1214
+  },
+  {
+    "surface": "アムール",
+    "reading": "amour",
+    "code": "cr-kata1-1215",
+    "index": 1215
+  },
+  {
+    "surface": "エーデ",
+    "reading": "eede",
+    "code": "cr-kata1-1216",
+    "index": 1216
+  },
+  {
+    "surface": "ヴァイターシュタット",
+    "reading": "vaitaashutatto",
+    "code": "cr-kata1-1217",
+    "index": 1217
+  },
+  {
+    "surface": "インレー",
+    "reading": "inlay",
+    "code": "cr-kata1-1218",
+    "index": 1218
+  },
+  {
+    "surface": "オキアミ",
+    "reading": "okiami",
+    "code": "cr-kata1-1219",
+    "index": 1219
+  },
+  {
+    "surface": "ウトウト",
+    "reading": "utouto",
+    "code": "cr-kata1-1220",
+    "index": 1220
+  },
+  {
+    "surface": "オールボワール",
+    "reading": "oorubowaaru",
+    "code": "cr-kata1-1221",
+    "index": 1221
+  },
+  {
+    "surface": "アイデア",
+    "reading": "idea",
+    "code": "cr-kata1-1222",
+    "index": 1222
+  },
+  {
+    "surface": "イヌブナ",
+    "reading": "inubuna",
+    "code": "cr-kata1-1223",
+    "index": 1223
+  },
+  {
+    "surface": "ウィンカー",
+    "reading": "wincar",
+    "code": "cr-kata1-1224",
+    "index": 1224
+  },
+  {
+    "surface": "イサザ",
+    "reading": "isaza",
+    "code": "cr-kata1-1225",
+    "index": 1225
+  },
+  {
+    "surface": "エゴ",
+    "reading": "ego",
+    "code": "cr-kata1-1226",
+    "index": 1226
+  },
+  {
+    "surface": "ウジャル",
+    "reading": "ujaru",
+    "code": "cr-kata1-1227",
+    "index": 1227
+  },
+  {
+    "surface": "イオ",
+    "reading": "io",
+    "code": "cr-kata1-1228",
+    "index": 1228
+  },
+  {
+    "surface": "エーベルスヴァルデ",
+    "reading": "eeberusuvarude",
+    "code": "cr-kata1-1229",
+    "index": 1229
+  },
+  {
+    "surface": "アルサロ",
+    "reading": "arusaro",
+    "code": "cr-kata1-1230",
+    "index": 1230
+  },
+  {
+    "surface": "インシュラリティー",
+    "reading": "inshuraritii",
+    "code": "cr-kata1-1231",
+    "index": 1231
+  },
+  {
+    "surface": "アボリジニ",
+    "reading": "aborigine",
+    "code": "cr-kata1-1232",
+    "index": 1232
+  },
+  {
+    "surface": "エイダ",
+    "reading": "ada",
+    "code": "cr-kata1-1233",
+    "index": 1233
+  },
+  {
+    "surface": "アプリケーションプログラム",
+    "reading": "applicationprogram",
+    "code": "cr-kata1-1234",
+    "index": 1234
+  },
+  {
+    "surface": "ウィンドー",
+    "reading": "window",
+    "code": "cr-kata1-1235",
+    "index": 1235
+  },
+  {
+    "surface": "アン",
+    "reading": "anne",
+    "code": "cr-kata1-1236",
+    "index": 1236
+  },
+  {
+    "surface": "エッヘン",
+    "reading": "ehhen",
+    "code": "cr-kata1-1237",
+    "index": 1237
+  },
+  {
+    "surface": "オクタボ",
+    "reading": "octavo",
+    "code": "cr-kata1-1238",
+    "index": 1238
+  },
+  {
+    "surface": "アコギ",
+    "reading": "akogi",
+    "code": "cr-kata1-1239",
+    "index": 1239
+  },
+  {
+    "surface": "ウルガータ",
+    "reading": "vulgata",
+    "code": "cr-kata1-1240",
+    "index": 1240
+  },
+  {
+    "surface": "アンビリバブル",
+    "reading": "anbiribaburu",
+    "code": "cr-kata1-1241",
+    "index": 1241
+  },
+  {
+    "surface": "アルミサッシ",
+    "reading": "aluminiumsash",
+    "code": "cr-kata1-1242",
+    "index": 1242
+  },
+  {
+    "surface": "インターオペラビリティ",
+    "reading": "interoperability",
+    "code": "cr-kata1-1243",
+    "index": 1243
+  },
+  {
+    "surface": "ウィリアムズポート",
+    "reading": "williamsport",
+    "code": "cr-kata1-1244",
+    "index": 1244
+  },
+  {
+    "surface": "イーシーシーエス",
+    "reading": "iishiishiiesu",
+    "code": "cr-kata1-1245",
+    "index": 1245
+  },
+  {
+    "surface": "イワブクロ",
+    "reading": "iwabukuro",
+    "code": "cr-kata1-1246",
+    "index": 1246
+  },
+  {
+    "surface": "エフェクツ",
+    "reading": "effect",
+    "code": "cr-kata1-1247",
+    "index": 1247
+  },
+  {
+    "surface": "ウケ",
+    "reading": "uke",
+    "code": "cr-kata1-1248",
+    "index": 1248
+  },
+  {
+    "surface": "オンメモリ",
+    "reading": "onmemory",
+    "code": "cr-kata1-1249",
+    "index": 1249
+  },
+  {
+    "surface": "イボガンギエイ",
+    "reading": "ibogangiei",
+    "code": "cr-kata1-1250",
+    "index": 1250
+  },
+  {
+    "surface": "ウオーミングアップ",
+    "reading": "warmingup",
+    "code": "cr-kata1-1251",
+    "index": 1251
+  },
+  {
+    "surface": "ウェストバンクーバー",
+    "reading": "westvancouver",
+    "code": "cr-kata1-1252",
+    "index": 1252
+  },
+  {
+    "surface": "イージーゴーイング",
+    "reading": "easygoing",
+    "code": "cr-kata1-1253",
+    "index": 1253
+  },
+  {
+    "surface": "オンラインテラーズマシン",
+    "reading": "onrainteraazumashin",
+    "code": "cr-kata1-1254",
+    "index": 1254
+  },
+  {
+    "surface": "オプソニン",
+    "reading": "opsonin",
+    "code": "cr-kata1-1255",
+    "index": 1255
+  },
+  {
+    "surface": "ウェイトリフティング",
+    "reading": "weightlifting",
+    "code": "cr-kata1-1256",
+    "index": 1256
+  },
+  {
+    "surface": "アプリオリ",
+    "reading": "apriori",
+    "code": "cr-kata1-1257",
+    "index": 1257
+  },
+  {
+    "surface": "イルピン",
+    "reading": "ilepin",
+    "code": "cr-kata1-1258",
+    "index": 1258
+  },
+  {
+    "surface": "アップル",
+    "reading": "apple",
+    "code": "cr-kata1-1259",
+    "index": 1259
+  },
+  {
+    "surface": "オリエンテーリング",
+    "reading": "orienteering",
+    "code": "cr-kata1-1260",
+    "index": 1260
+  },
+  {
+    "surface": "オージェーティー",
+    "reading": "oojeetii",
+    "code": "cr-kata1-1261",
+    "index": 1261
+  },
+  {
+    "surface": "エスエムティーピー",
+    "reading": "esuemutiipii",
+    "code": "cr-kata1-1262",
+    "index": 1262
+  },
+  {
+    "surface": "アクアロビクス",
+    "reading": "akuarobikusu",
+    "code": "cr-kata1-1263",
+    "index": 1263
+  },
+  {
+    "surface": "アシナシイモリ",
+    "reading": "ashinashiimori",
+    "code": "cr-kata1-1264",
+    "index": 1264
+  },
+  {
+    "surface": "オイッス",
+    "reading": "oissu",
+    "code": "cr-kata1-1265",
+    "index": 1265
+  },
+  {
+    "surface": "エランディオ",
+    "reading": "erandio",
+    "code": "cr-kata1-1266",
+    "index": 1266
+  },
+  {
+    "surface": "ウィーク",
+    "reading": "week",
+    "code": "cr-kata1-1267",
+    "index": 1267
+  },
+  {
+    "surface": "アッサイ",
+    "reading": "assai",
+    "code": "cr-kata1-1268",
+    "index": 1268
+  },
+  {
+    "surface": "アニョロッティ",
+    "reading": "anyorotti",
+    "code": "cr-kata1-1269",
+    "index": 1269
+  },
+  {
+    "surface": "エメラルドグリーン",
+    "reading": "emeraldgreen",
+    "code": "cr-kata1-1270",
+    "index": 1270
+  },
+  {
+    "surface": "アメリカチョウゲンボウ",
+    "reading": "americachougenbou",
+    "code": "cr-kata1-1271",
+    "index": 1271
+  },
+  {
+    "surface": "アロマテラピー",
+    "reading": "aromatherapy",
+    "code": "cr-kata1-1272",
+    "index": 1272
+  },
+  {
+    "surface": "エタノール",
+    "reading": "athanol",
+    "code": "cr-kata1-1273",
+    "index": 1273
+  },
+  {
+    "surface": "アズファーエンジェル",
+    "reading": "asfurangel",
+    "code": "cr-kata1-1274",
+    "index": 1274
+  },
+  {
+    "surface": "エヌ",
+    "reading": "enu",
+    "code": "cr-kata1-1275",
+    "index": 1275
+  },
+  {
+    "surface": "イチ",
+    "reading": "ichi",
+    "code": "cr-kata1-1276",
+    "index": 1276
+  },
+  {
+    "surface": "エンジニヤー",
+    "reading": "enjiniya",
+    "code": "cr-kata1-1277",
+    "index": 1277
+  },
+  {
+    "surface": "ウィンタースポーツ",
+    "reading": "wintersport",
+    "code": "cr-kata1-1278",
+    "index": 1278
+  },
+  {
+    "surface": "ウオーターフォール",
+    "reading": "waterfall",
+    "code": "cr-kata1-1279",
+    "index": 1279
+  },
+  {
+    "surface": "イケチョウガイ",
+    "reading": "ikechougai",
+    "code": "cr-kata1-1280",
+    "index": 1280
+  },
+  {
+    "surface": "アフェア",
+    "reading": "affair",
+    "code": "cr-kata1-1281",
+    "index": 1281
+  },
+  {
+    "surface": "アカデミック",
+    "reading": "academic",
+    "code": "cr-kata1-1282",
+    "index": 1282
+  },
+  {
+    "surface": "ウドゥピ",
+    "reading": "udupi",
+    "code": "cr-kata1-1283",
+    "index": 1283
+  },
+  {
+    "surface": "アメリカフウ",
+    "reading": "americafuu",
+    "code": "cr-kata1-1284",
+    "index": 1284
+  },
+  {
+    "surface": "アーティキュレート",
+    "reading": "aatikyureeto",
+    "code": "cr-kata1-1285",
+    "index": 1285
+  },
+  {
+    "surface": "エラ",
+    "reading": "era",
+    "code": "cr-kata1-1286",
+    "index": 1286
+  },
+  {
+    "surface": "インストルメンタル",
+    "reading": "instrumental",
+    "code": "cr-kata1-1287",
+    "index": 1287
+  },
+  {
+    "surface": "アヒムサー",
+    "reading": "ahimsa",
+    "code": "cr-kata1-1288",
+    "index": 1288
+  },
+  {
+    "surface": "エレアコ",
+    "reading": "electricacoustic",
+    "code": "cr-kata1-1289",
+    "index": 1289
+  },
+  {
+    "surface": "アルバム",
+    "reading": "album",
+    "code": "cr-kata1-1290",
+    "index": 1290
+  },
+  {
+    "surface": "ウオールナット",
+    "reading": "wallnut",
+    "code": "cr-kata1-1291",
+    "index": 1291
+  },
+  {
+    "surface": "アーセニッククロライド",
+    "reading": "arescenicchloride",
+    "code": "cr-kata1-1292",
+    "index": 1292
+  },
+  {
+    "surface": "エクセター",
+    "reading": "ekusetaa",
+    "code": "cr-kata1-1293",
+    "index": 1293
+  },
+  {
+    "surface": "イコクエイラクブカ",
+    "reading": "ikokueirakubuka",
+    "code": "cr-kata1-1294",
+    "index": 1294
+  },
+  {
+    "surface": "オーガニック",
+    "reading": "ooganikku",
+    "code": "cr-kata1-1295",
+    "index": 1295
+  },
+  {
+    "surface": "アドミタンス",
+    "reading": "admittance",
+    "code": "cr-kata1-1296",
+    "index": 1296
+  },
+  {
+    "surface": "ウェスターヴィル",
+    "reading": "vestabill",
+    "code": "cr-kata1-1297",
+    "index": 1297
+  },
+  {
+    "surface": "アムラー",
+    "reading": "amuraa",
+    "code": "cr-kata1-1298",
+    "index": 1298
+  },
+  {
+    "surface": "ウォーキートーキー",
+    "reading": "warkeytalkie",
+    "code": "cr-kata1-1299",
+    "index": 1299
+  },
+  {
+    "surface": "エスペラント",
+    "reading": "esperanto",
+    "code": "cr-kata1-1300",
+    "index": 1300
+  },
+  {
+    "surface": "ヴィンタートゥール",
+    "reading": "vintaatuuru",
+    "code": "cr-kata1-1301",
+    "index": 1301
+  },
+  {
+    "surface": "エイチティーティーピー",
+    "reading": "eichitiitiipii",
+    "code": "cr-kata1-1302",
+    "index": 1302
+  },
+  {
+    "surface": "アノニマス",
+    "reading": "anonymous",
+    "code": "cr-kata1-1303",
+    "index": 1303
+  },
+  {
+    "surface": "オレアンドマイシン",
+    "reading": "oleandomycin",
+    "code": "cr-kata1-1304",
+    "index": 1304
+  },
+  {
+    "surface": "アート",
+    "reading": "art",
+    "code": "cr-kata1-1305",
+    "index": 1305
+  },
+  {
+    "surface": "オルテン",
+    "reading": "oruten",
+    "code": "cr-kata1-1306",
+    "index": 1306
+  },
+  {
+    "surface": "ヴィソコ",
+    "reading": "visoko",
+    "code": "cr-kata1-1307",
+    "index": 1307
+  },
+  {
+    "surface": "アクアリウム",
+    "reading": "aquarium",
+    "code": "cr-kata1-1308",
+    "index": 1308
+  },
+  {
+    "surface": "エラブオオコウモリ",
+    "reading": "erabuookoumori",
+    "code": "cr-kata1-1309",
+    "index": 1309
+  },
+  {
+    "surface": "エデュテインメント",
+    "reading": "edyuteinmento",
+    "code": "cr-kata1-1310",
+    "index": 1310
+  },
+  {
+    "surface": "イガ",
+    "reading": "iga",
+    "code": "cr-kata1-1311",
+    "index": 1311
+  },
+  {
+    "surface": "インデンテイション",
+    "reading": "indenteishon",
+    "code": "cr-kata1-1312",
+    "index": 1312
+  },
+  {
+    "surface": "アブダビ",
+    "reading": "abudabi",
+    "code": "cr-kata1-1313",
+    "index": 1313
+  },
+  {
+    "surface": "アト",
+    "reading": "at",
+    "code": "cr-kata1-1314",
+    "index": 1314
+  },
+  {
+    "surface": "ウダウダ",
+    "reading": "udauda",
+    "code": "cr-kata1-1315",
+    "index": 1315
+  },
+  {
+    "surface": "アイゼン",
+    "reading": "steigeisen",
+    "code": "cr-kata1-1316",
+    "index": 1316
+  },
+  {
+    "surface": "アナボコ",
+    "reading": "anaboko",
+    "code": "cr-kata1-1317",
+    "index": 1317
+  },
+  {
+    "surface": "ヴィデオ",
+    "reading": "video",
+    "code": "cr-kata1-1318",
+    "index": 1318
+  },
+  {
+    "surface": "インシュレータ",
+    "reading": "inshureeta",
+    "code": "cr-kata1-1319",
+    "index": 1319
+  },
+  {
+    "surface": "アンダーカット",
+    "reading": "undercut",
+    "code": "cr-kata1-1320",
+    "index": 1320
+  },
+  {
+    "surface": "アービング",
+    "reading": "irving",
+    "code": "cr-kata1-1321",
+    "index": 1321
+  },
+  {
+    "surface": "アプリケーションソフト",
+    "reading": "applicationsoft",
+    "code": "cr-kata1-1322",
+    "index": 1322
+  },
+  {
+    "surface": "アルスク",
+    "reading": "alschooling",
+    "code": "cr-kata1-1323",
+    "index": 1323
+  },
+  {
+    "surface": "ウインナーソーセージ",
+    "reading": "viennasausage",
+    "code": "cr-kata1-1324",
+    "index": 1324
+  },
+  {
+    "surface": "アメジスト",
+    "reading": "amethyst",
+    "code": "cr-kata1-1325",
+    "index": 1325
+  },
+  {
+    "surface": "エールド",
+    "reading": "yelldo",
+    "code": "cr-kata1-1326",
+    "index": 1326
+  },
+  {
+    "surface": "アイゴ",
+    "reading": "aigo",
+    "code": "cr-kata1-1327",
+    "index": 1327
+  },
+  {
+    "surface": "アナボリックステロイド",
+    "reading": "anaborikkusuteroido",
+    "code": "cr-kata1-1328",
+    "index": 1328
+  },
+  {
+    "surface": "エフキューディーエヌ",
+    "reading": "efukyuudiienu",
+    "code": "cr-kata1-1329",
+    "index": 1329
+  },
+  {
+    "surface": "アヴェルサ",
+    "reading": "averusa",
+    "code": "cr-kata1-1330",
+    "index": 1330
+  },
+  {
+    "surface": "ウオーマー",
+    "reading": "warmer",
+    "code": "cr-kata1-1331",
+    "index": 1331
+  },
+  {
+    "surface": "イソブチレン",
+    "reading": "isobutylene",
+    "code": "cr-kata1-1332",
+    "index": 1332
+  },
+  {
+    "surface": "オーナードライバー",
+    "reading": "ownerdriver",
+    "code": "cr-kata1-1333",
+    "index": 1333
+  },
+  {
+    "surface": "エリテマトーデス",
+    "reading": "erythematodes",
+    "code": "cr-kata1-1334",
+    "index": 1334
+  },
+  {
+    "surface": "エルンシェルツビク",
+    "reading": "erunsherutsubiku",
+    "code": "cr-kata1-1335",
+    "index": 1335
+  },
+  {
+    "surface": "エジンバラ",
+    "reading": "edinburgh",
+    "code": "cr-kata1-1336",
+    "index": 1336
+  },
+  {
+    "surface": "ウーゾ",
+    "reading": "ouzo",
+    "code": "cr-kata1-1337",
+    "index": 1337
+  },
+  {
+    "surface": "イネ",
+    "reading": "ine",
+    "code": "cr-kata1-1338",
+    "index": 1338
+  },
+  {
+    "surface": "アクト",
+    "reading": "act",
+    "code": "cr-kata1-1339",
+    "index": 1339
+  },
+  {
+    "surface": "アビタ",
+    "reading": "abita",
+    "code": "cr-kata1-1340",
+    "index": 1340
+  },
+  {
+    "surface": "インパチェンス",
+    "reading": "impatiens",
+    "code": "cr-kata1-1341",
+    "index": 1341
+  },
+  {
+    "surface": "アドバイザリスタッフ",
+    "reading": "adviserrisstaff",
+    "code": "cr-kata1-1342",
+    "index": 1342
+  },
+  {
+    "surface": "オフ",
+    "reading": "off",
+    "code": "cr-kata1-1343",
+    "index": 1343
+  },
+  {
+    "surface": "エスラム",
+    "reading": "eslamb",
+    "code": "cr-kata1-1344",
+    "index": 1344
+  },
+  {
+    "surface": "アドヴァタイズメント",
+    "reading": "adovataizumento",
+    "code": "cr-kata1-1345",
+    "index": 1345
+  },
+  {
+    "surface": "アンタゴニスト",
+    "reading": "antagonist",
+    "code": "cr-kata1-1346",
+    "index": 1346
+  },
+  {
+    "surface": "イーモラ",
+    "reading": "iimola",
+    "code": "cr-kata1-1347",
+    "index": 1347
+  },
+  {
+    "surface": "イシガイ",
+    "reading": "ishiguy",
+    "code": "cr-kata1-1348",
+    "index": 1348
+  },
+  {
+    "surface": "ウラジロ",
+    "reading": "urajiro",
+    "code": "cr-kata1-1349",
+    "index": 1349
+  },
+  {
+    "surface": "アルハウル",
+    "reading": "aruhauru",
+    "code": "cr-kata1-1350",
+    "index": 1350
+  },
+  {
+    "surface": "オカヤドカリ",
+    "reading": "okayadokari",
+    "code": "cr-kata1-1351",
+    "index": 1351
+  },
+  {
+    "surface": "ウイニングショット",
+    "reading": "winningshot",
+    "code": "cr-kata1-1352",
+    "index": 1352
+  },
+  {
+    "surface": "ウリ",
+    "reading": "uri",
+    "code": "cr-kata1-1353",
+    "index": 1353
+  },
+  {
+    "surface": "インボックスドライバ",
+    "reading": "inboxdriver",
+    "code": "cr-kata1-1354",
+    "index": 1354
+  },
+  {
+    "surface": "イェイ",
+    "reading": "ei",
+    "code": "cr-kata1-1355",
+    "index": 1355
+  },
+  {
+    "surface": "アミグダリン",
+    "reading": "amygdalin",
+    "code": "cr-kata1-1356",
+    "index": 1356
+  },
+  {
+    "surface": "ウエットスーツ",
+    "reading": "wetsuit",
+    "code": "cr-kata1-1357",
+    "index": 1357
+  },
+  {
+    "surface": "オーシーアール",
+    "reading": "ooshiiaaru",
+    "code": "cr-kata1-1358",
+    "index": 1358
+  },
+  {
+    "surface": "ウェブアプリケーション",
+    "reading": "webapplication",
+    "code": "cr-kata1-1359",
+    "index": 1359
+  },
+  {
+    "surface": "オコノモウォック",
+    "reading": "okonomookku",
+    "code": "cr-kata1-1360",
+    "index": 1360
+  },
+  {
+    "surface": "アミカスキュリィ",
+    "reading": "amikasukyuri",
+    "code": "cr-kata1-1361",
+    "index": 1361
+  },
+  {
+    "surface": "アーッ",
+    "reading": "aa",
+    "code": "cr-kata1-1362",
+    "index": 1362
+  },
+  {
+    "surface": "ウオーム",
+    "reading": "warm",
+    "code": "cr-kata1-1363",
+    "index": 1363
+  },
+  {
+    "surface": "エーブイアイ",
+    "reading": "eebuieye",
+    "code": "cr-kata1-1364",
+    "index": 1364
+  },
+  {
+    "surface": "アストニッシュメント",
+    "reading": "asutonisshumento",
+    "code": "cr-kata1-1365",
+    "index": 1365
+  },
+  {
+    "surface": "エキスパートシステム",
+    "reading": "expertsystem",
+    "code": "cr-kata1-1366",
+    "index": 1366
+  },
+  {
+    "surface": "イエロー・カード",
+    "reading": "yellowcard",
+    "code": "cr-kata1-1367",
+    "index": 1367
+  },
+  {
+    "surface": "アモンド",
+    "reading": "amondo",
+    "code": "cr-kata1-1368",
+    "index": 1368
+  },
+  {
+    "surface": "アルテミサ",
+    "reading": "artmissa",
+    "code": "cr-kata1-1369",
+    "index": 1369
+  },
+  {
+    "surface": "ヴァイブラフォン",
+    "reading": "vaiburafon",
+    "code": "cr-kata1-1370",
+    "index": 1370
+  },
+  {
+    "surface": "アクティブディレクトリ",
+    "reading": "activedirectory",
+    "code": "cr-kata1-1371",
+    "index": 1371
+  },
+  {
+    "surface": "オートポイエーシス",
+    "reading": "autopoiesis",
+    "code": "cr-kata1-1372",
+    "index": 1372
+  },
+  {
+    "surface": "イスカ",
+    "reading": "isuka",
+    "code": "cr-kata1-1373",
+    "index": 1373
+  },
+  {
+    "surface": "イボ",
+    "reading": "ibo",
+    "code": "cr-kata1-1374",
+    "index": 1374
+  },
+  {
+    "surface": "アルゼンチンタンゴ",
+    "reading": "argentinatango",
+    "code": "cr-kata1-1375",
+    "index": 1375
+  },
+  {
+    "surface": "インフォーマルケア",
+    "reading": "informalcare",
+    "code": "cr-kata1-1376",
+    "index": 1376
+  },
+  {
+    "surface": "オギョウ",
+    "reading": "ogyou",
+    "code": "cr-kata1-1377",
+    "index": 1377
+  },
+  {
+    "surface": "ウインカ",
+    "reading": "winka",
+    "code": "cr-kata1-1378",
+    "index": 1378
+  },
+  {
+    "surface": "エンナ",
+    "reading": "enna",
+    "code": "cr-kata1-1379",
+    "index": 1379
+  },
+  {
+    "surface": "エメリー",
+    "reading": "emerii",
+    "code": "cr-kata1-1380",
+    "index": 1380
+  },
+  {
+    "surface": "アービトレィジャー",
+    "reading": "aabitorijaa",
+    "code": "cr-kata1-1381",
+    "index": 1381
+  },
+  {
+    "surface": "エアサイクルシステム",
+    "reading": "aircyclesystem",
+    "code": "cr-kata1-1382",
+    "index": 1382
+  },
+  {
+    "surface": "ア・ラ・モード",
+    "reading": "alamode",
+    "code": "cr-kata1-1383",
+    "index": 1383
+  },
+  {
+    "surface": "ア・ラ・カルト",
+    "reading": "alacarte",
+    "code": "cr-kata1-1384",
+    "index": 1384
+  },
+  {
+    "surface": "エンタシス",
+    "reading": "entasis",
+    "code": "cr-kata1-1385",
+    "index": 1385
+  },
+  {
+    "surface": "オープンソースソフトウェア",
+    "reading": "opensaucesoftware",
+    "code": "cr-kata1-1386",
+    "index": 1386
+  },
+  {
+    "surface": "エンゲージ・リング",
+    "reading": "engagering",
+    "code": "cr-kata1-1387",
+    "index": 1387
+  },
+  {
+    "surface": "アーン",
+    "reading": "arn",
+    "code": "cr-kata1-1388",
+    "index": 1388
+  },
+  {
+    "surface": "オーク・フォレスト",
+    "reading": "ookuforrest",
+    "code": "cr-kata1-1389",
+    "index": 1389
+  },
+  {
+    "surface": "アシタバ",
+    "reading": "ashitaba",
+    "code": "cr-kata1-1390",
+    "index": 1390
+  },
+  {
+    "surface": "オールエー",
+    "reading": "allee",
+    "code": "cr-kata1-1391",
+    "index": 1391
+  },
+  {
+    "surface": "ヴィジランス",
+    "reading": "vijiransu",
+    "code": "cr-kata1-1392",
+    "index": 1392
+  },
+  {
+    "surface": "アマン",
+    "reading": "aman",
+    "code": "cr-kata1-1393",
+    "index": 1393
+  },
+  {
+    "surface": "インタリオ",
+    "reading": "intalio",
+    "code": "cr-kata1-1394",
+    "index": 1394
+  },
+  {
+    "surface": "アクションプログラム",
+    "reading": "actionprogram",
+    "code": "cr-kata1-1395",
+    "index": 1395
+  },
+  {
+    "surface": "アリラジプール",
+    "reading": "arirajipuuru",
+    "code": "cr-kata1-1396",
+    "index": 1396
+  },
+  {
+    "surface": "インテグレート",
+    "reading": "integrate",
+    "code": "cr-kata1-1397",
+    "index": 1397
+  },
+  {
+    "surface": "オンチップキャッシュ",
+    "reading": "onchipcash",
+    "code": "cr-kata1-1398",
+    "index": 1398
+  },
+  {
+    "surface": "アルカイックスマイル",
+    "reading": "archaiquesmile",
+    "code": "cr-kata1-1399",
+    "index": 1399
+  },
+  {
+    "surface": "インプリメンテイション",
+    "reading": "inpurimenteishon",
+    "code": "cr-kata1-1400",
+    "index": 1400
+  },
+  {
+    "surface": "ウイスパー",
+    "reading": "ouispur",
+    "code": "cr-kata1-1401",
+    "index": 1401
+  },
+  {
+    "surface": "エーディーエイチディー",
+    "reading": "eediieichidii",
+    "code": "cr-kata1-1402",
+    "index": 1402
+  },
+  {
+    "surface": "オオムギ",
+    "reading": "oomugi",
+    "code": "cr-kata1-1403",
+    "index": 1403
+  },
+  {
+    "surface": "アレクサンドライト",
+    "reading": "alexandrite",
+    "code": "cr-kata1-1404",
+    "index": 1404
+  },
+  {
+    "surface": "エンフォースメント",
+    "reading": "enforcement",
+    "code": "cr-kata1-1405",
+    "index": 1405
+  },
+  {
+    "surface": "オーバー",
+    "reading": "over",
+    "code": "cr-kata1-1406",
+    "index": 1406
+  },
+  {
+    "surface": "ウェート",
+    "reading": "weight",
+    "code": "cr-kata1-1407",
+    "index": 1407
+  },
+  {
+    "surface": "インストールメント",
+    "reading": "insutoorumento",
+    "code": "cr-kata1-1408",
+    "index": 1408
+  },
+  {
+    "surface": "オンスクリーンディスプレイ",
+    "reading": "onscreendisplay",
+    "code": "cr-kata1-1409",
+    "index": 1409
+  },
+  {
+    "surface": "オルタナティヴ",
+    "reading": "alternative",
+    "code": "cr-kata1-1410",
+    "index": 1410
+  },
+  {
+    "surface": "エマンシペーション",
+    "reading": "emanshipeeshon",
+    "code": "cr-kata1-1411",
+    "index": 1411
+  },
+  {
+    "surface": "ヴァイオル",
+    "reading": "vaioru",
+    "code": "cr-kata1-1412",
+    "index": 1412
+  },
+  {
+    "surface": "オイプシロン",
+    "reading": "oipushiron",
+    "code": "cr-kata1-1413",
+    "index": 1413
+  },
+  {
+    "surface": "インクリメンタルサーチ",
+    "reading": "incrementalsearch",
+    "code": "cr-kata1-1414",
+    "index": 1414
+  },
+  {
+    "surface": "イワヒメオオトカゲ",
+    "reading": "iwahimeootokage",
+    "code": "cr-kata1-1415",
+    "index": 1415
+  },
+  {
+    "surface": "アガデス",
+    "reading": "agadez",
+    "code": "cr-kata1-1416",
+    "index": 1416
+  },
+  {
+    "surface": "アイリンク",
+    "reading": "eyelink",
+    "code": "cr-kata1-1417",
+    "index": 1417
+  },
+  {
+    "surface": "ウィグル",
+    "reading": "uighur",
+    "code": "cr-kata1-1418",
+    "index": 1418
+  },
+  {
+    "surface": "ウォンバット",
+    "reading": "wombat",
+    "code": "cr-kata1-1419",
+    "index": 1419
+  },
+  {
+    "surface": "オクテット",
+    "reading": "octet",
+    "code": "cr-kata1-1420",
+    "index": 1420
+  },
+  {
+    "surface": "アガペー",
+    "reading": "agape",
+    "code": "cr-kata1-1421",
+    "index": 1421
+  },
+  {
+    "surface": "エーディーエッチディー",
+    "reading": "eediietchidii",
+    "code": "cr-kata1-1422",
+    "index": 1422
+  },
+  {
+    "surface": "エクレア",
+    "reading": "eclair",
+    "code": "cr-kata1-1423",
+    "index": 1423
+  },
+  {
+    "surface": "イングリッシュブルーベル",
+    "reading": "englishbluebell",
+    "code": "cr-kata1-1424",
+    "index": 1424
+  },
+  {
+    "surface": "イブラ",
+    "reading": "ibura",
+    "code": "cr-kata1-1425",
+    "index": 1425
+  },
+  {
+    "surface": "オーバーペース",
+    "reading": "overpace",
+    "code": "cr-kata1-1426",
+    "index": 1426
+  },
+  {
+    "surface": "ウェスト・ブレントウッド",
+    "reading": "westbrentwood",
+    "code": "cr-kata1-1427",
+    "index": 1427
+  },
+  {
+    "surface": "ウィロビー",
+    "reading": "willoughby",
+    "code": "cr-kata1-1428",
+    "index": 1428
+  },
+  {
+    "surface": "ヴィトリア・ダ・コンキスタ",
+    "reading": "vitoriadakonkisuta",
+    "code": "cr-kata1-1429",
+    "index": 1429
+  },
+  {
+    "surface": "アンチック",
+    "reading": "antique",
+    "code": "cr-kata1-1430",
+    "index": 1430
+  },
+  {
+    "surface": "エクステリア",
+    "reading": "exterior",
+    "code": "cr-kata1-1431",
+    "index": 1431
+  },
+  {
+    "surface": "インターネットバンキング",
+    "reading": "internetbanking",
+    "code": "cr-kata1-1432",
+    "index": 1432
+  },
+  {
+    "surface": "アイエスディーエヌ",
+    "reading": "aiesudiienu",
+    "code": "cr-kata1-1433",
+    "index": 1433
+  },
+  {
+    "surface": "ウオーターシュート",
+    "reading": "watershoot",
+    "code": "cr-kata1-1434",
+    "index": 1434
+  },
+  {
+    "surface": "インプレー",
+    "reading": "inplay",
+    "code": "cr-kata1-1435",
+    "index": 1435
+  },
+  {
+    "surface": "アモロソ",
+    "reading": "amoroso",
+    "code": "cr-kata1-1436",
+    "index": 1436
+  },
+  {
+    "surface": "オーケストリオン",
+    "reading": "orchestrion",
+    "code": "cr-kata1-1437",
+    "index": 1437
+  },
+  {
+    "surface": "アルバ",
+    "reading": "aruba",
+    "code": "cr-kata1-1438",
+    "index": 1438
+  },
+  {
+    "surface": "イソスズメダイ",
+    "reading": "isosuzumedai",
+    "code": "cr-kata1-1439",
+    "index": 1439
+  },
+  {
+    "surface": "ヴァイブ",
+    "reading": "vibes",
+    "code": "cr-kata1-1440",
+    "index": 1440
+  },
+  {
+    "surface": "オイルペインティング",
+    "reading": "oilpainting",
+    "code": "cr-kata1-1441",
+    "index": 1441
+  },
+  {
+    "surface": "エンゼルフィッシュ",
+    "reading": "angelfish",
+    "code": "cr-kata1-1442",
+    "index": 1442
+  },
+  {
+    "surface": "アタッカー",
+    "reading": "attacker",
+    "code": "cr-kata1-1443",
+    "index": 1443
+  },
+  {
+    "surface": "ウイジェ",
+    "reading": "uije",
+    "code": "cr-kata1-1444",
+    "index": 1444
+  },
+  {
+    "surface": "アサツキ",
+    "reading": "asatsuki",
+    "code": "cr-kata1-1445",
+    "index": 1445
+  },
+  {
+    "surface": "アコモデーター",
+    "reading": "akomodeetaa",
+    "code": "cr-kata1-1446",
+    "index": 1446
+  },
+  {
+    "surface": "アンギーナ",
+    "reading": "angina",
+    "code": "cr-kata1-1447",
+    "index": 1447
+  },
+  {
+    "surface": "ウェストランド",
+    "reading": "westland",
+    "code": "cr-kata1-1448",
+    "index": 1448
+  },
+  {
+    "surface": "アイビー",
+    "reading": "ivy",
+    "code": "cr-kata1-1449",
+    "index": 1449
+  },
+  {
+    "surface": "オーバーライド",
+    "reading": "override",
+    "code": "cr-kata1-1450",
+    "index": 1450
+  },
+  {
+    "surface": "イッシー",
+    "reading": "isshii",
+    "code": "cr-kata1-1451",
+    "index": 1451
+  },
+  {
+    "surface": "エイ",
+    "reading": "ei",
+    "code": "cr-kata1-1452",
+    "index": 1452
+  },
+  {
+    "surface": "インターフェア",
+    "reading": "interfere",
+    "code": "cr-kata1-1453",
+    "index": 1453
+  },
+  {
+    "surface": "インストーラ",
+    "reading": "installer",
+    "code": "cr-kata1-1454",
+    "index": 1454
+  },
+  {
+    "surface": "インフルエンス",
+    "reading": "influence",
+    "code": "cr-kata1-1455",
+    "index": 1455
+  },
+  {
+    "surface": "オクターヴ",
+    "reading": "oktave",
+    "code": "cr-kata1-1456",
+    "index": 1456
+  },
+  {
+    "surface": "アスコリ・ピチェーノ",
+    "reading": "asukoripicheeno",
+    "code": "cr-kata1-1457",
+    "index": 1457
+  },
+  {
+    "surface": "ウエイト",
+    "reading": "weight",
+    "code": "cr-kata1-1458",
+    "index": 1458
+  },
+  {
+    "surface": "インサーキットエミュレータ",
+    "reading": "incircuitemulator",
+    "code": "cr-kata1-1459",
+    "index": 1459
+  },
+  {
+    "surface": "アクセスキー",
+    "reading": "accesskey",
+    "code": "cr-kata1-1460",
+    "index": 1460
+  },
+  {
+    "surface": "アレグ",
+    "reading": "aregu",
+    "code": "cr-kata1-1461",
+    "index": 1461
+  },
+  {
+    "surface": "インフォームドコンセント",
+    "reading": "informedconsent",
+    "code": "cr-kata1-1462",
+    "index": 1462
+  },
+  {
+    "surface": "アウン",
+    "reading": "aun",
+    "code": "cr-kata1-1463",
+    "index": 1463
+  },
+  {
+    "surface": "アイヌ",
+    "reading": "ainu",
+    "code": "cr-kata1-1464",
+    "index": 1464
+  },
+  {
+    "surface": "ヴィム",
+    "reading": "wim",
+    "code": "cr-kata1-1465",
+    "index": 1465
+  },
+  {
+    "surface": "エクストリーム",
+    "reading": "extreme",
+    "code": "cr-kata1-1466",
+    "index": 1466
+  },
+  {
+    "surface": "ウエディングケーキ",
+    "reading": "weddingcake",
+    "code": "cr-kata1-1467",
+    "index": 1467
+  },
+  {
+    "surface": "オーバーヘッドパス",
+    "reading": "overheadpass",
+    "code": "cr-kata1-1468",
+    "index": 1468
+  },
+  {
+    "surface": "イメージディーブイディー",
+    "reading": "imeejidiibuidii",
+    "code": "cr-kata1-1469",
+    "index": 1469
+  },
+  {
+    "surface": "イエローテールタン",
+    "reading": "yellowtailtongue",
+    "code": "cr-kata1-1470",
+    "index": 1470
+  },
+  {
+    "surface": "オーバーヒート",
+    "reading": "overheat",
+    "code": "cr-kata1-1471",
+    "index": 1471
+  },
+  {
+    "surface": "エクメーネ",
+    "reading": "ekumeene",
+    "code": "cr-kata1-1472",
+    "index": 1472
+  },
+  {
+    "surface": "アイカ",
+    "reading": "aika",
+    "code": "cr-kata1-1473",
+    "index": 1473
+  },
+  {
+    "surface": "イソプロパノール",
+    "reading": "isopropanol",
+    "code": "cr-kata1-1474",
+    "index": 1474
+  },
+  {
+    "surface": "アインスタイニウム",
+    "reading": "einsteinium",
+    "code": "cr-kata1-1475",
+    "index": 1475
+  },
+  {
+    "surface": "ウマーン",
+    "reading": "umaan",
+    "code": "cr-kata1-1476",
+    "index": 1476
+  },
+  {
+    "surface": "インテル",
+    "reading": "interu",
+    "code": "cr-kata1-1477",
+    "index": 1477
+  },
+  {
+    "surface": "エイチディーディーブイディー",
+    "reading": "eichidiidiibuidii",
+    "code": "cr-kata1-1478",
+    "index": 1478
+  },
+  {
+    "surface": "エレクトレット",
+    "reading": "electret",
+    "code": "cr-kata1-1479",
+    "index": 1479
+  },
+  {
+    "surface": "アレイ",
+    "reading": "arei",
+    "code": "cr-kata1-1480",
+    "index": 1480
+  },
+  {
+    "surface": "アルコホル",
+    "reading": "alcohol",
+    "code": "cr-kata1-1481",
+    "index": 1481
+  },
+  {
+    "surface": "オプトエレクトロニクス",
+    "reading": "oputoerekutoronikusu",
+    "code": "cr-kata1-1482",
+    "index": 1482
+  },
+  {
+    "surface": "ヴァルネラビリティー",
+    "reading": "vulnerability",
+    "code": "cr-kata1-1483",
+    "index": 1483
+  },
+  {
+    "surface": "イサキ",
+    "reading": "isaki",
+    "code": "cr-kata1-1484",
+    "index": 1484
+  },
+  {
+    "surface": "エクササイズ",
+    "reading": "exercise",
+    "code": "cr-kata1-1485",
+    "index": 1485
+  },
+  {
+    "surface": "オーバーブッキング",
+    "reading": "overbooking",
+    "code": "cr-kata1-1486",
+    "index": 1486
+  },
+  {
+    "surface": "アバランシュ",
+    "reading": "avalanche",
+    "code": "cr-kata1-1487",
+    "index": 1487
+  },
+  {
+    "surface": "アイデンティフケイション",
+    "reading": "aidentifukeishon",
+    "code": "cr-kata1-1488",
+    "index": 1488
+  },
+  {
+    "surface": "アイディーエル",
+    "reading": "aidiieru",
+    "code": "cr-kata1-1489",
+    "index": 1489
+  },
+  {
+    "surface": "オーウェンサウンド",
+    "reading": "owensound",
+    "code": "cr-kata1-1490",
+    "index": 1490
+  },
+  {
+    "surface": "オピニオンリーダー",
+    "reading": "opinionleader",
+    "code": "cr-kata1-1491",
+    "index": 1491
+  },
+  {
+    "surface": "ウィンナーソーセージ",
+    "reading": "viennasausage",
+    "code": "cr-kata1-1492",
+    "index": 1492
+  },
+  {
+    "surface": "アヴァン・ギャルド",
+    "reading": "avantgarde",
+    "code": "cr-kata1-1493",
+    "index": 1493
+  },
+  {
+    "surface": "インフェリオリティーコンプレックス",
+    "reading": "inferioritycomplex",
+    "code": "cr-kata1-1494",
+    "index": 1494
+  },
+  {
+    "surface": "アムステルフェーン",
+    "reading": "amusuterufeen",
+    "code": "cr-kata1-1495",
+    "index": 1495
+  },
+  {
+    "surface": "オルゾー",
+    "reading": "oruzoo",
+    "code": "cr-kata1-1496",
+    "index": 1496
+  },
+  {
+    "surface": "エアポケット",
+    "reading": "airpocket",
+    "code": "cr-kata1-1497",
+    "index": 1497
+  },
+  {
+    "surface": "アリジゴク",
+    "reading": "arijigoku",
+    "code": "cr-kata1-1498",
+    "index": 1498
+  },
+  {
+    "surface": "アーム",
+    "reading": "arm",
+    "code": "cr-kata1-1499",
+    "index": 1499
+  },
+  {
+    "surface": "アジャタ",
+    "reading": "ajata",
+    "code": "cr-kata1-1500",
+    "index": 1500
+  },
+  {
+    "surface": "エンリッチ",
+    "reading": "enrich",
+    "code": "cr-kata1-1501",
+    "index": 1501
+  },
+  {
+    "surface": "イタイ",
+    "reading": "itai",
+    "code": "cr-kata1-1502",
+    "index": 1502
+  },
+  {
+    "surface": "ヴィジュアライゼイション",
+    "reading": "vijuaraizeishon",
+    "code": "cr-kata1-1503",
+    "index": 1503
+  },
+  {
+    "surface": "ウィンターヘイブン",
+    "reading": "winterhaven",
+    "code": "cr-kata1-1504",
+    "index": 1504
+  },
+  {
+    "surface": "アベレージ",
+    "reading": "average",
+    "code": "cr-kata1-1505",
+    "index": 1505
+  },
+  {
+    "surface": "アイ",
+    "reading": "eye",
+    "code": "cr-kata1-1506",
+    "index": 1506
+  },
+  {
+    "surface": "アテンド",
+    "reading": "attend",
+    "code": "cr-kata1-1507",
+    "index": 1507
+  },
+  {
+    "surface": "アヤ",
+    "reading": "aya",
+    "code": "cr-kata1-1508",
+    "index": 1508
+  },
+  {
+    "surface": "エバンズビル",
+    "reading": "evansbuilding",
+    "code": "cr-kata1-1509",
+    "index": 1509
+  },
+  {
+    "surface": "アークティックシスコ",
+    "reading": "aakutikkushisuko",
+    "code": "cr-kata1-1510",
+    "index": 1510
+  },
+  {
+    "surface": "エピオルニス",
+    "reading": "aepyornis",
+    "code": "cr-kata1-1511",
+    "index": 1511
+  },
+  {
+    "surface": "インディアナポリス",
+    "reading": "indianapolis",
+    "code": "cr-kata1-1512",
+    "index": 1512
+  },
+  {
+    "surface": "アンバランス",
+    "reading": "unbalance",
+    "code": "cr-kata1-1513",
+    "index": 1513
+  },
+  {
+    "surface": "イエイヌ",
+    "reading": "eieinu",
+    "code": "cr-kata1-1514",
+    "index": 1514
+  },
+  {
+    "surface": "ウィチタ",
+    "reading": "wechita",
+    "code": "cr-kata1-1515",
+    "index": 1515
+  },
+  {
+    "surface": "アダプト",
+    "reading": "adapt",
+    "code": "cr-kata1-1516",
+    "index": 1516
+  },
+  {
+    "surface": "イコール",
+    "reading": "equal",
+    "code": "cr-kata1-1517",
+    "index": 1517
+  },
+  {
+    "surface": "アセスルファムケー",
+    "reading": "asesurufamukee",
+    "code": "cr-kata1-1518",
+    "index": 1518
+  },
+  {
+    "surface": "エヤコン",
+    "reading": "eyakon",
+    "code": "cr-kata1-1519",
+    "index": 1519
+  },
+  {
+    "surface": "イヤイヤ",
+    "reading": "iyaiya",
+    "code": "cr-kata1-1520",
+    "index": 1520
+  },
+  {
+    "surface": "オルカロウ",
+    "reading": "orcalaw",
+    "code": "cr-kata1-1521",
+    "index": 1521
+  },
+  {
+    "surface": "アニメーションジフ",
+    "reading": "animationjifu",
+    "code": "cr-kata1-1522",
+    "index": 1522
+  },
+  {
+    "surface": "アイスティー",
+    "reading": "icetea",
+    "code": "cr-kata1-1523",
+    "index": 1523
+  },
+  {
+    "surface": "インフォーメーション",
+    "reading": "information",
+    "code": "cr-kata1-1524",
+    "index": 1524
+  },
+  {
+    "surface": "アナゴ",
+    "reading": "anago",
+    "code": "cr-kata1-1525",
+    "index": 1525
+  },
+  {
+    "surface": "アウトロ",
+    "reading": "autoro",
+    "code": "cr-kata1-1526",
+    "index": 1526
+  },
+  {
+    "surface": "エル・メガイエル",
+    "reading": "erumegaieru",
+    "code": "cr-kata1-1527",
+    "index": 1527
+  },
+  {
+    "surface": "エンドオブファイル",
+    "reading": "endoffile",
+    "code": "cr-kata1-1528",
+    "index": 1528
+  },
+  {
+    "surface": "ウエイティングルーム",
+    "reading": "waitingroom",
+    "code": "cr-kata1-1529",
+    "index": 1529
+  },
+  {
+    "surface": "オン",
+    "reading": "on",
+    "code": "cr-kata1-1530",
+    "index": 1530
+  },
+  {
+    "surface": "イーラム",
+    "reading": "iiramu",
+    "code": "cr-kata1-1531",
+    "index": 1531
+  },
+  {
+    "surface": "ウミヘビ",
+    "reading": "umihebi",
+    "code": "cr-kata1-1532",
+    "index": 1532
+  },
+  {
+    "surface": "アンペラ",
+    "reading": "amparo",
+    "code": "cr-kata1-1533",
+    "index": 1533
+  },
+  {
+    "surface": "アクサン",
+    "reading": "accent",
+    "code": "cr-kata1-1534",
+    "index": 1534
+  },
+  {
+    "surface": "アニメ",
+    "reading": "animation",
+    "code": "cr-kata1-1535",
+    "index": 1535
+  },
+  {
+    "surface": "エロプリ",
+    "reading": "eroticpre",
+    "code": "cr-kata1-1536",
+    "index": 1536
+  },
+  {
+    "surface": "インフルエンザウイルス",
+    "reading": "influenzavirus",
+    "code": "cr-kata1-1537",
+    "index": 1537
+  },
+  {
+    "surface": "オリハルコン",
+    "reading": "oriharukon",
+    "code": "cr-kata1-1538",
+    "index": 1538
+  },
+  {
+    "surface": "エステルスンド",
+    "reading": "esuterusundo",
+    "code": "cr-kata1-1539",
+    "index": 1539
+  },
+  {
+    "surface": "オーソライズ",
+    "reading": "authorize",
+    "code": "cr-kata1-1540",
+    "index": 1540
+  },
+  {
+    "surface": "ウエブ",
+    "reading": "web",
+    "code": "cr-kata1-1541",
+    "index": 1541
+  },
+  {
+    "surface": "アスナロ",
+    "reading": "asunaro",
+    "code": "cr-kata1-1542",
+    "index": 1542
+  },
+  {
+    "surface": "エヌジー",
+    "reading": "enujii",
+    "code": "cr-kata1-1543",
+    "index": 1543
+  },
+  {
+    "surface": "エミュ",
+    "reading": "emyu",
+    "code": "cr-kata1-1544",
+    "index": 1544
+  },
+  {
+    "surface": "オオミズナギドリ",
+    "reading": "oomizunagidori",
+    "code": "cr-kata1-1545",
+    "index": 1545
+  },
+  {
+    "surface": "アウアズ",
+    "reading": "auas",
+    "code": "cr-kata1-1546",
+    "index": 1546
+  },
+  {
+    "surface": "アーティキュレーション",
+    "reading": "articulation",
+    "code": "cr-kata1-1547",
+    "index": 1547
+  },
+  {
+    "surface": "エレクトロニックコマース",
+    "reading": "electroniccommerce",
+    "code": "cr-kata1-1548",
+    "index": 1548
+  },
+  {
+    "surface": "アイデンティフィケーション",
+    "reading": "identification",
+    "code": "cr-kata1-1549",
+    "index": 1549
+  },
+  {
+    "surface": "ウェストラファイエット",
+    "reading": "westlafayette",
+    "code": "cr-kata1-1550",
+    "index": 1550
+  },
+  {
+    "surface": "エロ",
+    "reading": "erotic",
+    "code": "cr-kata1-1551",
+    "index": 1551
+  },
+  {
+    "surface": "イラショナル",
+    "reading": "irational",
+    "code": "cr-kata1-1552",
+    "index": 1552
+  },
+  {
+    "surface": "アコースティック・ギター",
+    "reading": "acousticguitar",
+    "code": "cr-kata1-1553",
+    "index": 1553
+  },
+  {
+    "surface": "ウィチタフォールズ",
+    "reading": "ichitafooruzu",
+    "code": "cr-kata1-1554",
+    "index": 1554
+  },
+  {
+    "surface": "アイシーエムピー",
+    "reading": "eyeshiiemupea",
+    "code": "cr-kata1-1555",
+    "index": 1555
+  },
+  {
+    "surface": "オペロン",
+    "reading": "operon",
+    "code": "cr-kata1-1556",
+    "index": 1556
+  },
+  {
+    "surface": "イー",
+    "reading": "ii",
+    "code": "cr-kata1-1557",
+    "index": 1557
+  },
+  {
+    "surface": "エイリアシング",
+    "reading": "eiriashingu",
+    "code": "cr-kata1-1558",
+    "index": 1558
+  },
+  {
+    "surface": "オープニング",
+    "reading": "opening",
+    "code": "cr-kata1-1559",
+    "index": 1559
+  },
+  {
+    "surface": "オスカー",
+    "reading": "oscar",
+    "code": "cr-kata1-1560",
+    "index": 1560
+  },
+  {
+    "surface": "アカウンタビリティ",
+    "reading": "acountability",
+    "code": "cr-kata1-1561",
+    "index": 1561
+  },
+  {
+    "surface": "アントルプルヌール",
+    "reading": "antorupurunuuru",
+    "code": "cr-kata1-1562",
+    "index": 1562
+  },
+  {
+    "surface": "オギ",
+    "reading": "ogi",
+    "code": "cr-kata1-1563",
+    "index": 1563
+  },
+  {
+    "surface": "ヴェイヘロヴォ",
+    "reading": "veiherovo",
+    "code": "cr-kata1-1564",
+    "index": 1564
+  },
+  {
+    "surface": "ウド",
+    "reading": "udo",
+    "code": "cr-kata1-1565",
+    "index": 1565
+  },
+  {
+    "surface": "オハイオ",
+    "reading": "ohio",
+    "code": "cr-kata1-1566",
+    "index": 1566
+  },
+  {
+    "surface": "アーチザン",
+    "reading": "archthan",
+    "code": "cr-kata1-1567",
+    "index": 1567
+  },
+  {
+    "surface": "オニカッコウ",
+    "reading": "onikakkou",
+    "code": "cr-kata1-1568",
+    "index": 1568
+  },
+  {
+    "surface": "イリェウス",
+    "reading": "ireusu",
+    "code": "cr-kata1-1569",
+    "index": 1569
+  },
+  {
+    "surface": "オグ",
+    "reading": "ogu",
+    "code": "cr-kata1-1570",
+    "index": 1570
+  },
+  {
+    "surface": "ヴォスクレセンスク",
+    "reading": "vosukuresensuku",
+    "code": "cr-kata1-1571",
+    "index": 1571
+  },
+  {
+    "surface": "イクル",
+    "reading": "ikuru",
+    "code": "cr-kata1-1572",
+    "index": 1572
+  },
+  {
+    "surface": "イエス",
+    "reading": "iesous",
+    "code": "cr-kata1-1573",
+    "index": 1573
+  },
+  {
+    "surface": "アメリカシロヒトリ",
+    "reading": "americashirohitori",
+    "code": "cr-kata1-1574",
+    "index": 1574
+  },
+  {
+    "surface": "アルカーイダ",
+    "reading": "alqaida",
+    "code": "cr-kata1-1575",
+    "index": 1575
+  },
+  {
+    "surface": "オオバコ",
+    "reading": "oobako",
+    "code": "cr-kata1-1576",
+    "index": 1576
+  },
+  {
+    "surface": "アンドラ・ラ・ヴェリャ",
+    "reading": "andorraraverya",
+    "code": "cr-kata1-1577",
+    "index": 1577
+  }
+]

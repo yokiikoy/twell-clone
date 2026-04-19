@@ -47,6 +47,9 @@ export {
 export type { GoalKeyPacing } from "./twelljr/module1Core.js";
 export { jouTriplesToWordEntries } from "./twelljr/jouSample.js";
 export type { JouTripleRow } from "./twelljr/jouSample.js";
+export { dedupeCleanroomCandidates } from "./cleanroom/dedup.js";
+export type { CleanroomCandidateRow } from "./cleanroom/dedup.js";
+export { mozcMinStrokesForTriple } from "./cleanroom/joinStrokes.js";
 export {
   detailLogBasename,
   inferTimeLogSuffixFromFilename,

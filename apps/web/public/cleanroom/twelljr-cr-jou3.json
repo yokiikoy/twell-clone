@@ -1,0 +1,4994 @@
+[
+  {
+    "surface": "アンハッピー",
+    "reading": "unhappy",
+    "code": "cr-jou3-0",
+    "index": 0
+  },
+  {
+    "surface": "可哀想",
+    "reading": "kawaisou",
+    "code": "cr-jou3-1",
+    "index": 1
+  },
+  {
+    "surface": "ビビット",
+    "reading": "vivid",
+    "code": "cr-jou3-2",
+    "index": 2
+  },
+  {
+    "surface": "ステートレス",
+    "reading": "stateless",
+    "code": "cr-jou3-3",
+    "index": 3
+  },
+  {
+    "surface": "大丈夫",
+    "reading": "daijoubu",
+    "code": "cr-jou3-4",
+    "index": 4
+  },
+  {
+    "surface": "がさつ",
+    "reading": "gasatsu",
+    "code": "cr-jou3-5",
+    "index": 5
+  },
+  {
+    "surface": "ボロボロ",
+    "reading": "boroboro",
+    "code": "cr-jou3-6",
+    "index": 6
+  },
+  {
+    "surface": "有数",
+    "reading": "yuusuu",
+    "code": "cr-jou3-7",
+    "index": 7
+  },
+  {
+    "surface": "ケッタイ",
+    "reading": "kettai",
+    "code": "cr-jou3-8",
+    "index": 8
+  },
+  {
+    "surface": "シュア",
+    "reading": "sure",
+    "code": "cr-jou3-9",
+    "index": 9
+  },
+  {
+    "surface": "余計",
+    "reading": "yokei",
+    "code": "cr-jou3-10",
+    "index": 10
+  },
+  {
+    "surface": "特殊",
+    "reading": "tokushu",
+    "code": "cr-jou3-11",
+    "index": 11
+  },
+  {
+    "surface": "エコノミカル",
+    "reading": "economical",
+    "code": "cr-jou3-12",
+    "index": 12
+  },
+  {
+    "surface": "適度",
+    "reading": "tekido",
+    "code": "cr-jou3-13",
+    "index": 13
+  },
+  {
+    "surface": "デリケート",
+    "reading": "delicate",
+    "code": "cr-jou3-14",
+    "index": 14
+  },
+  {
+    "surface": "丈夫",
+    "reading": "joubu",
+    "code": "cr-jou3-15",
+    "index": 15
+  },
+  {
+    "surface": "マッカ",
+    "reading": "makka",
+    "code": "cr-jou3-16",
+    "index": 16
+  },
+  {
+    "surface": "ファミリアー",
+    "reading": "familiar",
+    "code": "cr-jou3-17",
+    "index": 17
+  },
+  {
+    "surface": "ユルユル",
+    "reading": "yuruyuru",
+    "code": "cr-jou3-18",
+    "index": 18
+  },
+  {
+    "surface": "上がったり",
+    "reading": "agattari",
+    "code": "cr-jou3-19",
+    "index": 19
+  },
+  {
+    "surface": "茫然",
+    "reading": "bouzen",
+    "code": "cr-jou3-20",
+    "index": 20
+  },
+  {
+    "surface": "ぞんざい",
+    "reading": "zonzai",
+    "code": "cr-jou3-21",
+    "index": 21
+  },
+  {
+    "surface": "カラフル",
+    "reading": "colorful",
+    "code": "cr-jou3-22",
+    "index": 22
+  },
+  {
+    "surface": "マメ",
+    "reading": "mame",
+    "code": "cr-jou3-23",
+    "index": 23
+  },
+  {
+    "surface": "さっぱり",
+    "reading": "sappari",
+    "code": "cr-jou3-24",
+    "index": 24
+  },
+  {
+    "surface": "がたがた",
+    "reading": "gatagata",
+    "code": "cr-jou3-25",
+    "index": 25
+  },
+  {
+    "surface": "ロマンチック",
+    "reading": "romantic",
+    "code": "cr-jou3-26",
+    "index": 26
+  },
+  {
+    "surface": "にこやか",
+    "reading": "nikoyaka",
+    "code": "cr-jou3-27",
+    "index": 27
+  },
+  {
+    "surface": "犬嫌い",
+    "reading": "inugirai",
+    "code": "cr-jou3-28",
+    "index": 28
+  },
+  {
+    "surface": "じみ",
+    "reading": "jimi",
+    "code": "cr-jou3-29",
+    "index": 29
+  },
+  {
+    "surface": "ハーピー",
+    "reading": "happy",
+    "code": "cr-jou3-30",
+    "index": 30
+  },
+  {
+    "surface": "グレートフォールズ",
+    "reading": "greatfall",
+    "code": "cr-jou3-31",
+    "index": 31
+  },
+  {
+    "surface": "手短",
+    "reading": "temijika",
+    "code": "cr-jou3-32",
+    "index": 32
+  },
+  {
+    "surface": "ロジカル",
+    "reading": "logical",
+    "code": "cr-jou3-33",
+    "index": 33
+  },
+  {
+    "surface": "あきらか",
+    "reading": "akiraka",
+    "code": "cr-jou3-34",
+    "index": 34
+  },
+  {
+    "surface": "みたい",
+    "reading": "mitai",
+    "code": "cr-jou3-35",
+    "index": 35
+  },
+  {
+    "surface": "静か",
+    "reading": "shizuka",
+    "code": "cr-jou3-36",
+    "index": 36
+  },
+  {
+    "surface": "スリム",
+    "reading": "slim",
+    "code": "cr-jou3-37",
+    "index": 37
+  },
+  {
+    "surface": "クロマチック",
+    "reading": "chromatic",
+    "code": "cr-jou3-38",
+    "index": 38
+  },
+  {
+    "surface": "おだやか",
+    "reading": "odayaka",
+    "code": "cr-jou3-39",
+    "index": 39
+  },
+  {
+    "surface": "ノスタルジック",
+    "reading": "nostalgic",
+    "code": "cr-jou3-40",
+    "index": 40
+  },
+  {
+    "surface": "ファジー",
+    "reading": "fuzzy",
+    "code": "cr-jou3-41",
+    "index": 41
+  },
+  {
+    "surface": "必死",
+    "reading": "hisshi",
+    "code": "cr-jou3-42",
+    "index": 42
+  },
+  {
+    "surface": "ずたずた",
+    "reading": "zutazuta",
+    "code": "cr-jou3-43",
+    "index": 43
+  },
+  {
+    "surface": "ボサボサ",
+    "reading": "bosabosa",
+    "code": "cr-jou3-44",
+    "index": 44
+  },
+  {
+    "surface": "すき",
+    "reading": "suki",
+    "code": "cr-jou3-45",
+    "index": 45
+  },
+  {
+    "surface": "たいせつ",
+    "reading": "taisetsu",
+    "code": "cr-jou3-46",
+    "index": 46
+  },
+  {
+    "surface": "テクニカル",
+    "reading": "technical",
+    "code": "cr-jou3-47",
+    "index": 47
+  },
+  {
+    "surface": "コンベンショナル",
+    "reading": "conventional",
+    "code": "cr-jou3-48",
+    "index": 48
+  },
+  {
+    "surface": "キュート",
+    "reading": "cute",
+    "code": "cr-jou3-49",
+    "index": 49
+  },
+  {
+    "surface": "スポーティ",
+    "reading": "sporty",
+    "code": "cr-jou3-50",
+    "index": 50
+  },
+  {
+    "surface": "真っ白",
+    "reading": "masshiro",
+    "code": "cr-jou3-51",
+    "index": 51
+  },
+  {
+    "surface": "オンボード",
+    "reading": "onboard",
+    "code": "cr-jou3-52",
+    "index": 52
+  },
+  {
+    "surface": "大事",
+    "reading": "daiji",
+    "code": "cr-jou3-53",
+    "index": 53
+  },
+  {
+    "surface": "細か",
+    "reading": "komaka",
+    "code": "cr-jou3-54",
+    "index": 54
+  },
+  {
+    "surface": "メランコリック",
+    "reading": "melancholic",
+    "code": "cr-jou3-55",
+    "index": 55
+  },
+  {
+    "surface": "ベイシック",
+    "reading": "basic",
+    "code": "cr-jou3-56",
+    "index": 56
+  },
+  {
+    "surface": "プラトニック",
+    "reading": "platonic",
+    "code": "cr-jou3-57",
+    "index": 57
+  },
+  {
+    "surface": "当たり前",
+    "reading": "atarimae",
+    "code": "cr-jou3-58",
+    "index": 58
+  },
+  {
+    "surface": "ひそか",
+    "reading": "hisoka",
+    "code": "cr-jou3-59",
+    "index": 59
+  },
+  {
+    "surface": "エネルギッシュ",
+    "reading": "energisch",
+    "code": "cr-jou3-60",
+    "index": 60
+  },
+  {
+    "surface": "打ち付け",
+    "reading": "uchitsuke",
+    "code": "cr-jou3-61",
+    "index": 61
+  },
+  {
+    "surface": "ナイーブ",
+    "reading": "naive",
+    "code": "cr-jou3-62",
+    "index": 62
+  },
+  {
+    "surface": "アンビシャス",
+    "reading": "ambitious",
+    "code": "cr-jou3-63",
+    "index": 63
+  },
+  {
+    "surface": "優等",
+    "reading": "yuutou",
+    "code": "cr-jou3-64",
+    "index": 64
+  },
+  {
+    "surface": "リスキー",
+    "reading": "risky",
+    "code": "cr-jou3-65",
+    "index": 65
+  },
+  {
+    "surface": "ノッポ",
+    "reading": "noppo",
+    "code": "cr-jou3-66",
+    "index": 66
+  },
+  {
+    "surface": "最適",
+    "reading": "saiteki",
+    "code": "cr-jou3-67",
+    "index": 67
+  },
+  {
+    "surface": "控えめ",
+    "reading": "hikaeme",
+    "code": "cr-jou3-68",
+    "index": 68
+  },
+  {
+    "surface": "インクリメンタル",
+    "reading": "incremental",
+    "code": "cr-jou3-69",
+    "index": 69
+  },
+  {
+    "surface": "バラバラ",
+    "reading": "barabara",
+    "code": "cr-jou3-70",
+    "index": 70
+  },
+  {
+    "surface": "簡単",
+    "reading": "kantan",
+    "code": "cr-jou3-71",
+    "index": 71
+  },
+  {
+    "surface": "ポケッタブル",
+    "reading": "pocketable",
+    "code": "cr-jou3-72",
+    "index": 72
+  },
+  {
+    "surface": "大層",
+    "reading": "taisou",
+    "code": "cr-jou3-73",
+    "index": 73
+  },
+  {
+    "surface": "ざっくばらん",
+    "reading": "zakkubaran",
+    "code": "cr-jou3-74",
+    "index": 74
+  },
+  {
+    "surface": "リエントラント",
+    "reading": "rientoranto",
+    "code": "cr-jou3-75",
+    "index": 75
+  },
+  {
+    "surface": "ニヒリスティック",
+    "reading": "nihilistic",
+    "code": "cr-jou3-76",
+    "index": 76
+  },
+  {
+    "surface": "放漫",
+    "reading": "houman",
+    "code": "cr-jou3-77",
+    "index": 77
+  },
+  {
+    "surface": "シュアー",
+    "reading": "sure",
+    "code": "cr-jou3-78",
+    "index": 78
+  },
+  {
+    "surface": "ノミナル",
+    "reading": "nominal",
+    "code": "cr-jou3-79",
+    "index": 79
+  },
+  {
+    "surface": "華やか",
+    "reading": "hanayaka",
+    "code": "cr-jou3-80",
+    "index": 80
+  },
+  {
+    "surface": "ドメスチック",
+    "reading": "domestic",
+    "code": "cr-jou3-81",
+    "index": 81
+  },
+  {
+    "surface": "健気",
+    "reading": "kenage",
+    "code": "cr-jou3-82",
+    "index": 82
+  },
+  {
+    "surface": "にぎやか",
+    "reading": "nigiyaka",
+    "code": "cr-jou3-83",
+    "index": 83
+  },
+  {
+    "surface": "同じ",
+    "reading": "onaji",
+    "code": "cr-jou3-84",
+    "index": 84
+  },
+  {
+    "surface": "マニアック",
+    "reading": "maniac",
+    "code": "cr-jou3-85",
+    "index": 85
+  },
+  {
+    "surface": "窮屈",
+    "reading": "kyuukutsu",
+    "code": "cr-jou3-86",
+    "index": 86
+  },
+  {
+    "surface": "ボンクラ",
+    "reading": "bonkura",
+    "code": "cr-jou3-87",
+    "index": 87
+  },
+  {
+    "surface": "良質",
+    "reading": "ryoushitsu",
+    "code": "cr-jou3-88",
+    "index": 88
+  },
+  {
+    "surface": "ドグマティック",
+    "reading": "dogmatic",
+    "code": "cr-jou3-89",
+    "index": 89
+  },
+  {
+    "surface": "シック",
+    "reading": "chic",
+    "code": "cr-jou3-90",
+    "index": 90
+  },
+  {
+    "surface": "零細",
+    "reading": "reisai",
+    "code": "cr-jou3-91",
+    "index": 91
+  },
+  {
+    "surface": "早急",
+    "reading": "sakkyuu",
+    "code": "cr-jou3-92",
+    "index": 92
+  },
+  {
+    "surface": "気さく",
+    "reading": "kisaku",
+    "code": "cr-jou3-93",
+    "index": 93
+  },
+  {
+    "surface": "ボコボコ",
+    "reading": "bokoboko",
+    "code": "cr-jou3-94",
+    "index": 94
+  },
+  {
+    "surface": "ぼろぼろ",
+    "reading": "boroboro",
+    "code": "cr-jou3-95",
+    "index": 95
+  },
+  {
+    "surface": "不可欠",
+    "reading": "fukaketsu",
+    "code": "cr-jou3-96",
+    "index": 96
+  },
+  {
+    "surface": "黙然",
+    "reading": "mokuzen",
+    "code": "cr-jou3-97",
+    "index": 97
+  },
+  {
+    "surface": "ポシブル",
+    "reading": "possible",
+    "code": "cr-jou3-98",
+    "index": 98
+  },
+  {
+    "surface": "ガチガチ",
+    "reading": "gachigachi",
+    "code": "cr-jou3-99",
+    "index": 99
+  },
+  {
+    "surface": "ルース",
+    "reading": "loose",
+    "code": "cr-jou3-100",
+    "index": 100
+  },
+  {
+    "surface": "こまめ",
+    "reading": "komame",
+    "code": "cr-jou3-101",
+    "index": 101
+  },
+  {
+    "surface": "安易",
+    "reading": "ani",
+    "code": "cr-jou3-102",
+    "index": 102
+  },
+  {
+    "surface": "ダイレクト",
+    "reading": "direct",
+    "code": "cr-jou3-103",
+    "index": 103
+  },
+  {
+    "surface": "風変わり",
+    "reading": "fuugawari",
+    "code": "cr-jou3-104",
+    "index": 104
+  },
+  {
+    "surface": "ペラペラ",
+    "reading": "perapera",
+    "code": "cr-jou3-105",
+    "index": 105
+  },
+  {
+    "surface": "素直",
+    "reading": "sunao",
+    "code": "cr-jou3-106",
+    "index": 106
+  },
+  {
+    "surface": "バイタル",
+    "reading": "vital",
+    "code": "cr-jou3-107",
+    "index": 107
+  },
+  {
+    "surface": "ガチ",
+    "reading": "gachi",
+    "code": "cr-jou3-108",
+    "index": 108
+  },
+  {
+    "surface": "ミステリアス",
+    "reading": "mysterious",
+    "code": "cr-jou3-109",
+    "index": 109
+  },
+  {
+    "surface": "ピッタリ",
+    "reading": "pittari",
+    "code": "cr-jou3-110",
+    "index": 110
+  },
+  {
+    "surface": "フォトジェニック",
+    "reading": "fotojenikku",
+    "code": "cr-jou3-111",
+    "index": 111
+  },
+  {
+    "surface": "みごと",
+    "reading": "migoto",
+    "code": "cr-jou3-112",
+    "index": 112
+  },
+  {
+    "surface": "ユウゼン",
+    "reading": "yuuzen",
+    "code": "cr-jou3-113",
+    "index": 113
+  },
+  {
+    "surface": "じゅうぶん",
+    "reading": "juubun",
+    "code": "cr-jou3-114",
+    "index": 114
+  },
+  {
+    "surface": "ユニバーサル",
+    "reading": "universal",
+    "code": "cr-jou3-115",
+    "index": 115
+  },
+  {
+    "surface": "セキュア",
+    "reading": "sekyua",
+    "code": "cr-jou3-116",
+    "index": 116
+  },
+  {
+    "surface": "緩め",
+    "reading": "yurume",
+    "code": "cr-jou3-117",
+    "index": 117
+  },
+  {
+    "surface": "モーダル",
+    "reading": "modal",
+    "code": "cr-jou3-118",
+    "index": 118
+  },
+  {
+    "surface": "さまざま",
+    "reading": "samazama",
+    "code": "cr-jou3-119",
+    "index": 119
+  },
+  {
+    "surface": "ポエティック",
+    "reading": "poetic",
+    "code": "cr-jou3-120",
+    "index": 120
+  },
+  {
+    "surface": "スレンダー",
+    "reading": "slender",
+    "code": "cr-jou3-121",
+    "index": 121
+  },
+  {
+    "surface": "緻密",
+    "reading": "chimitsu",
+    "code": "cr-jou3-122",
+    "index": 122
+  },
+  {
+    "surface": "ドッキドキ",
+    "reading": "dokkidoki",
+    "code": "cr-jou3-123",
+    "index": 123
+  },
+  {
+    "surface": "厳粛",
+    "reading": "genshuku",
+    "code": "cr-jou3-124",
+    "index": 124
+  },
+  {
+    "surface": "順調",
+    "reading": "junchou",
+    "code": "cr-jou3-125",
+    "index": 125
+  },
+  {
+    "surface": "有名",
+    "reading": "yuumei",
+    "code": "cr-jou3-126",
+    "index": 126
+  },
+  {
+    "surface": "絶え絶え",
+    "reading": "taedae",
+    "code": "cr-jou3-127",
+    "index": 127
+  },
+  {
+    "surface": "強硬",
+    "reading": "kyoukou",
+    "code": "cr-jou3-128",
+    "index": 128
+  },
+  {
+    "surface": "大嫌い",
+    "reading": "daikirai",
+    "code": "cr-jou3-129",
+    "index": 129
+  },
+  {
+    "surface": "ひ弱",
+    "reading": "hiyowa",
+    "code": "cr-jou3-130",
+    "index": 130
+  },
+  {
+    "surface": "グレート・フォールズ",
+    "reading": "greatfooruzu",
+    "code": "cr-jou3-131",
+    "index": 131
+  },
+  {
+    "surface": "ヘナチョコ",
+    "reading": "henachoko",
+    "code": "cr-jou3-132",
+    "index": 132
+  },
+  {
+    "surface": "清新",
+    "reading": "seishin",
+    "code": "cr-jou3-133",
+    "index": 133
+  },
+  {
+    "surface": "高度",
+    "reading": "koudo",
+    "code": "cr-jou3-134",
+    "index": 134
+  },
+  {
+    "surface": "スパイシー",
+    "reading": "spicy",
+    "code": "cr-jou3-135",
+    "index": 135
+  },
+  {
+    "surface": "センセーショナル",
+    "reading": "sensational",
+    "code": "cr-jou3-136",
+    "index": 136
+  },
+  {
+    "surface": "アクロバチック",
+    "reading": "acrobatic",
+    "code": "cr-jou3-137",
+    "index": 137
+  },
+  {
+    "surface": "陰気",
+    "reading": "inki",
+    "code": "cr-jou3-138",
+    "index": 138
+  },
+  {
+    "surface": "スキャンダラス",
+    "reading": "scandalous",
+    "code": "cr-jou3-139",
+    "index": 139
+  },
+  {
+    "surface": "カリカリ",
+    "reading": "karikari",
+    "code": "cr-jou3-140",
+    "index": 140
+  },
+  {
+    "surface": "グレイト",
+    "reading": "great",
+    "code": "cr-jou3-141",
+    "index": 141
+  },
+  {
+    "surface": "あけっぴろげ",
+    "reading": "akeppiroge",
+    "code": "cr-jou3-142",
+    "index": 142
+  },
+  {
+    "surface": "トレンディー",
+    "reading": "trendy",
+    "code": "cr-jou3-143",
+    "index": 143
+  },
+  {
+    "surface": "スベスベ",
+    "reading": "subesube",
+    "code": "cr-jou3-144",
+    "index": 144
+  },
+  {
+    "surface": "ダンサブル",
+    "reading": "danceable",
+    "code": "cr-jou3-145",
+    "index": 145
+  },
+  {
+    "surface": "かんたん",
+    "reading": "kantan",
+    "code": "cr-jou3-146",
+    "index": 146
+  },
+  {
+    "surface": "エゴイスチック",
+    "reading": "egoistic",
+    "code": "cr-jou3-147",
+    "index": 147
+  },
+  {
+    "surface": "密接",
+    "reading": "missetsu",
+    "code": "cr-jou3-148",
+    "index": 148
+  },
+  {
+    "surface": "クリスピー",
+    "reading": "crispy",
+    "code": "cr-jou3-149",
+    "index": 149
+  },
+  {
+    "surface": "バツグン",
+    "reading": "batsugun",
+    "code": "cr-jou3-150",
+    "index": 150
+  },
+  {
+    "surface": "タフ",
+    "reading": "tough",
+    "code": "cr-jou3-151",
+    "index": 151
+  },
+  {
+    "surface": "熱烈",
+    "reading": "netsuretsu",
+    "code": "cr-jou3-152",
+    "index": 152
+  },
+  {
+    "surface": "イリーガル",
+    "reading": "iriigaru",
+    "code": "cr-jou3-153",
+    "index": 153
+  },
+  {
+    "surface": "マージナル",
+    "reading": "marginal",
+    "code": "cr-jou3-154",
+    "index": 154
+  },
+  {
+    "surface": "獰猛",
+    "reading": "neimou",
+    "code": "cr-jou3-155",
+    "index": 155
+  },
+  {
+    "surface": "トラジック",
+    "reading": "tragic",
+    "code": "cr-jou3-156",
+    "index": 156
+  },
+  {
+    "surface": "足早",
+    "reading": "ashibaya",
+    "code": "cr-jou3-157",
+    "index": 157
+  },
+  {
+    "surface": "くたくた",
+    "reading": "kutakuta",
+    "code": "cr-jou3-158",
+    "index": 158
+  },
+  {
+    "surface": "ガボガボ",
+    "reading": "gabogabo",
+    "code": "cr-jou3-159",
+    "index": 159
+  },
+  {
+    "surface": "確固",
+    "reading": "kakko",
+    "code": "cr-jou3-160",
+    "index": 160
+  },
+  {
+    "surface": "無縁",
+    "reading": "muen",
+    "code": "cr-jou3-161",
+    "index": 161
+  },
+  {
+    "surface": "トリッキー",
+    "reading": "tricky",
+    "code": "cr-jou3-162",
+    "index": 162
+  },
+  {
+    "surface": "広大",
+    "reading": "koudai",
+    "code": "cr-jou3-163",
+    "index": 163
+  },
+  {
+    "surface": "スタイリッシュ",
+    "reading": "stylish",
+    "code": "cr-jou3-164",
+    "index": 164
+  },
+  {
+    "surface": "ゆうゆう",
+    "reading": "yuuyuu",
+    "code": "cr-jou3-165",
+    "index": 165
+  },
+  {
+    "surface": "ハッピ",
+    "reading": "happy",
+    "code": "cr-jou3-166",
+    "index": 166
+  },
+  {
+    "surface": "かため",
+    "reading": "katame",
+    "code": "cr-jou3-167",
+    "index": 167
+  },
+  {
+    "surface": "簡易",
+    "reading": "kani",
+    "code": "cr-jou3-168",
+    "index": 168
+  },
+  {
+    "surface": "雄大",
+    "reading": "yuudai",
+    "code": "cr-jou3-169",
+    "index": 169
+  },
+  {
+    "surface": "シニック",
+    "reading": "cynic",
+    "code": "cr-jou3-170",
+    "index": 170
+  },
+  {
+    "surface": "抜群",
+    "reading": "batsugun",
+    "code": "cr-jou3-171",
+    "index": 171
+  },
+  {
+    "surface": "ユーモラス",
+    "reading": "humorous",
+    "code": "cr-jou3-172",
+    "index": 172
+  },
+  {
+    "surface": "利口",
+    "reading": "rikou",
+    "code": "cr-jou3-173",
+    "index": 173
+  },
+  {
+    "surface": "ほやほや",
+    "reading": "hoyahoya",
+    "code": "cr-jou3-174",
+    "index": 174
+  },
+  {
+    "surface": "著名",
+    "reading": "chomei",
+    "code": "cr-jou3-175",
+    "index": 175
+  },
+  {
+    "surface": "細心",
+    "reading": "saishin",
+    "code": "cr-jou3-176",
+    "index": 176
+  },
+  {
+    "surface": "エクスペンシブ",
+    "reading": "expensive",
+    "code": "cr-jou3-177",
+    "index": 177
+  },
+  {
+    "surface": "アブノーマル",
+    "reading": "abnormal",
+    "code": "cr-jou3-178",
+    "index": 178
+  },
+  {
+    "surface": "同一",
+    "reading": "douitsu",
+    "code": "cr-jou3-179",
+    "index": 179
+  },
+  {
+    "surface": "どんな",
+    "reading": "donna",
+    "code": "cr-jou3-180",
+    "index": 180
+  },
+  {
+    "surface": "ヴィヴィッド",
+    "reading": "vivid",
+    "code": "cr-jou3-181",
+    "index": 181
+  },
+  {
+    "surface": "オツ",
+    "reading": "otsu",
+    "code": "cr-jou3-182",
+    "index": 182
+  },
+  {
+    "surface": "ボーイッシュ",
+    "reading": "boyish",
+    "code": "cr-jou3-183",
+    "index": 183
+  },
+  {
+    "surface": "オイリー",
+    "reading": "oily",
+    "code": "cr-jou3-184",
+    "index": 184
+  },
+  {
+    "surface": "几帳面",
+    "reading": "kichoumen",
+    "code": "cr-jou3-185",
+    "index": 185
+  },
+  {
+    "surface": "サディスティック",
+    "reading": "sadistic",
+    "code": "cr-jou3-186",
+    "index": 186
+  },
+  {
+    "surface": "モジャモジャ",
+    "reading": "mojamoja",
+    "code": "cr-jou3-187",
+    "index": 187
+  },
+  {
+    "surface": "イヤ",
+    "reading": "iya",
+    "code": "cr-jou3-188",
+    "index": 188
+  },
+  {
+    "surface": "丁寧",
+    "reading": "teinei",
+    "code": "cr-jou3-189",
+    "index": 189
+  },
+  {
+    "surface": "壮大",
+    "reading": "soudai",
+    "code": "cr-jou3-190",
+    "index": 190
+  },
+  {
+    "surface": "トクトク",
+    "reading": "tokutoku",
+    "code": "cr-jou3-191",
+    "index": 191
+  },
+  {
+    "surface": "重大",
+    "reading": "juudai",
+    "code": "cr-jou3-192",
+    "index": 192
+  },
+  {
+    "surface": "上手",
+    "reading": "jouzu",
+    "code": "cr-jou3-193",
+    "index": 193
+  },
+  {
+    "surface": "ルンルン",
+    "reading": "runrun",
+    "code": "cr-jou3-194",
+    "index": 194
+  },
+  {
+    "surface": "センチメンタル",
+    "reading": "sentimental",
+    "code": "cr-jou3-195",
+    "index": 195
+  },
+  {
+    "surface": "あんな",
+    "reading": "anna",
+    "code": "cr-jou3-196",
+    "index": 196
+  },
+  {
+    "surface": "かりかり",
+    "reading": "karikari",
+    "code": "cr-jou3-197",
+    "index": 197
+  },
+  {
+    "surface": "密か",
+    "reading": "hisoka",
+    "code": "cr-jou3-198",
+    "index": 198
+  },
+  {
+    "surface": "華奢",
+    "reading": "kyasha",
+    "code": "cr-jou3-199",
+    "index": 199
+  },
+  {
+    "surface": "ゴージャス",
+    "reading": "gorgeous",
+    "code": "cr-jou3-200",
+    "index": 200
+  },
+  {
+    "surface": "あいまい",
+    "reading": "aimai",
+    "code": "cr-jou3-201",
+    "index": 201
+  },
+  {
+    "surface": "平然",
+    "reading": "heizen",
+    "code": "cr-jou3-202",
+    "index": 202
+  },
+  {
+    "surface": "透明",
+    "reading": "toumei",
+    "code": "cr-jou3-203",
+    "index": 203
+  },
+  {
+    "surface": "フェータル",
+    "reading": "fatal",
+    "code": "cr-jou3-204",
+    "index": 204
+  },
+  {
+    "surface": "知的",
+    "reading": "chiteki",
+    "code": "cr-jou3-205",
+    "index": 205
+  },
+  {
+    "surface": "ウエット",
+    "reading": "wet",
+    "code": "cr-jou3-206",
+    "index": 206
+  },
+  {
+    "surface": "グロテスク",
+    "reading": "grotesque",
+    "code": "cr-jou3-207",
+    "index": 207
+  },
+  {
+    "surface": "マッド",
+    "reading": "mad",
+    "code": "cr-jou3-208",
+    "index": 208
+  },
+  {
+    "surface": "フカフカ",
+    "reading": "fukafuka",
+    "code": "cr-jou3-209",
+    "index": 209
+  },
+  {
+    "surface": "迅速",
+    "reading": "jinsoku",
+    "code": "cr-jou3-210",
+    "index": 210
+  },
+  {
+    "surface": "淡淡",
+    "reading": "tantan",
+    "code": "cr-jou3-211",
+    "index": 211
+  },
+  {
+    "surface": "ハンサム",
+    "reading": "handsome",
+    "code": "cr-jou3-212",
+    "index": 212
+  },
+  {
+    "surface": "健やか",
+    "reading": "sukoyaka",
+    "code": "cr-jou3-213",
+    "index": 213
+  },
+  {
+    "surface": "アーティフィシャル",
+    "reading": "artificial",
+    "code": "cr-jou3-214",
+    "index": 214
+  },
+  {
+    "surface": "ブクブク",
+    "reading": "bukubuku",
+    "code": "cr-jou3-215",
+    "index": 215
+  },
+  {
+    "surface": "ゴチャマゼ",
+    "reading": "gochamaze",
+    "code": "cr-jou3-216",
+    "index": 216
+  },
+  {
+    "surface": "肝心",
+    "reading": "kanjin",
+    "code": "cr-jou3-217",
+    "index": 217
+  },
+  {
+    "surface": "微妙",
+    "reading": "bimyou",
+    "code": "cr-jou3-218",
+    "index": 218
+  },
+  {
+    "surface": "エクセントリック",
+    "reading": "eccentric",
+    "code": "cr-jou3-219",
+    "index": 219
+  },
+  {
+    "surface": "リアリスティック",
+    "reading": "realistic",
+    "code": "cr-jou3-220",
+    "index": 220
+  },
+  {
+    "surface": "あっぱれ",
+    "reading": "appare",
+    "code": "cr-jou3-221",
+    "index": 221
+  },
+  {
+    "surface": "おなじ",
+    "reading": "onaji",
+    "code": "cr-jou3-222",
+    "index": 222
+  },
+  {
+    "surface": "親身",
+    "reading": "shinmi",
+    "code": "cr-jou3-223",
+    "index": 223
+  },
+  {
+    "surface": "ぺちゃんこ",
+    "reading": "pechanko",
+    "code": "cr-jou3-224",
+    "index": 224
+  },
+  {
+    "surface": "端的",
+    "reading": "tanteki",
+    "code": "cr-jou3-225",
+    "index": 225
+  },
+  {
+    "surface": "グシャグシャ",
+    "reading": "gushagusha",
+    "code": "cr-jou3-226",
+    "index": 226
+  },
+  {
+    "surface": "カチンカチン",
+    "reading": "kachinkachin",
+    "code": "cr-jou3-227",
+    "index": 227
+  },
+  {
+    "surface": "エキゾチック",
+    "reading": "exotic",
+    "code": "cr-jou3-228",
+    "index": 228
+  },
+  {
+    "surface": "インダイレクト",
+    "reading": "indirect",
+    "code": "cr-jou3-229",
+    "index": 229
+  },
+  {
+    "surface": "じょうず",
+    "reading": "jouzu",
+    "code": "cr-jou3-230",
+    "index": 230
+  },
+  {
+    "surface": "移り気",
+    "reading": "utsurigi",
+    "code": "cr-jou3-231",
+    "index": 231
+  },
+  {
+    "surface": "あでやか",
+    "reading": "adeyaka",
+    "code": "cr-jou3-232",
+    "index": 232
+  },
+  {
+    "surface": "多大",
+    "reading": "tadai",
+    "code": "cr-jou3-233",
+    "index": 233
+  },
+  {
+    "surface": "控え目",
+    "reading": "hikaeme",
+    "code": "cr-jou3-234",
+    "index": 234
+  },
+  {
+    "surface": "明確",
+    "reading": "meikaku",
+    "code": "cr-jou3-235",
+    "index": 235
+  },
+  {
+    "surface": "フェミニン",
+    "reading": "feminine",
+    "code": "cr-jou3-236",
+    "index": 236
+  },
+  {
+    "surface": "大胆",
+    "reading": "daitan",
+    "code": "cr-jou3-237",
+    "index": 237
+  },
+  {
+    "surface": "露わ",
+    "reading": "arawa",
+    "code": "cr-jou3-238",
+    "index": 238
+  },
+  {
+    "surface": "速め",
+    "reading": "hayame",
+    "code": "cr-jou3-239",
+    "index": 239
+  },
+  {
+    "surface": "ネクラ",
+    "reading": "nekura",
+    "code": "cr-jou3-240",
+    "index": 240
+  },
+  {
+    "surface": "フランクフォート",
+    "reading": "frankfort",
+    "code": "cr-jou3-241",
+    "index": 241
+  },
+  {
+    "surface": "有利",
+    "reading": "yuuri",
+    "code": "cr-jou3-242",
+    "index": 242
+  },
+  {
+    "surface": "ほしいまま",
+    "reading": "hoshiimama",
+    "code": "cr-jou3-243",
+    "index": 243
+  },
+  {
+    "surface": "存外",
+    "reading": "zongai",
+    "code": "cr-jou3-244",
+    "index": 244
+  },
+  {
+    "surface": "シルキー",
+    "reading": "silky",
+    "code": "cr-jou3-245",
+    "index": 245
+  },
+  {
+    "surface": "アルカイック",
+    "reading": "archaique",
+    "code": "cr-jou3-246",
+    "index": 246
+  },
+  {
+    "surface": "ハスキー",
+    "reading": "husky",
+    "code": "cr-jou3-247",
+    "index": 247
+  },
+  {
+    "surface": "とうとう",
+    "reading": "toutou",
+    "code": "cr-jou3-248",
+    "index": 248
+  },
+  {
+    "surface": "パセティック",
+    "reading": "pathetic",
+    "code": "cr-jou3-249",
+    "index": 249
+  },
+  {
+    "surface": "真面目",
+    "reading": "majime",
+    "code": "cr-jou3-250",
+    "index": 250
+  },
+  {
+    "surface": "みじめ",
+    "reading": "mijime",
+    "code": "cr-jou3-251",
+    "index": 251
+  },
+  {
+    "surface": "エンドレス",
+    "reading": "endless",
+    "code": "cr-jou3-252",
+    "index": 252
+  },
+  {
+    "surface": "大儀",
+    "reading": "taigi",
+    "code": "cr-jou3-253",
+    "index": 253
+  },
+  {
+    "surface": "ハッピーバレー",
+    "reading": "happyvolley",
+    "code": "cr-jou3-254",
+    "index": 254
+  },
+  {
+    "surface": "流暢",
+    "reading": "ryuuchou",
+    "code": "cr-jou3-255",
+    "index": 255
+  },
+  {
+    "surface": "センシティブ",
+    "reading": "sensitive",
+    "code": "cr-jou3-256",
+    "index": 256
+  },
+  {
+    "surface": "リリカル",
+    "reading": "lyrical",
+    "code": "cr-jou3-257",
+    "index": 257
+  },
+  {
+    "surface": "ヨレヨレ",
+    "reading": "yoreyore",
+    "code": "cr-jou3-258",
+    "index": 258
+  },
+  {
+    "surface": "うってつけ",
+    "reading": "uttetsuke",
+    "code": "cr-jou3-259",
+    "index": 259
+  },
+  {
+    "surface": "グレート",
+    "reading": "great",
+    "code": "cr-jou3-260",
+    "index": 260
+  },
+  {
+    "surface": "健全",
+    "reading": "kenzen",
+    "code": "cr-jou3-261",
+    "index": 261
+  },
+  {
+    "surface": "高レベル",
+    "reading": "koulevel",
+    "code": "cr-jou3-262",
+    "index": 262
+  },
+  {
+    "surface": "インバリッド",
+    "reading": "inbariddo",
+    "code": "cr-jou3-263",
+    "index": 263
+  },
+  {
+    "surface": "エコノミック",
+    "reading": "economic",
+    "code": "cr-jou3-264",
+    "index": 264
+  },
+  {
+    "surface": "ジャーナリスティック",
+    "reading": "journalistic",
+    "code": "cr-jou3-265",
+    "index": 265
+  },
+  {
+    "surface": "スリリング",
+    "reading": "thrilling",
+    "code": "cr-jou3-266",
+    "index": 266
+  },
+  {
+    "surface": "メカニカル",
+    "reading": "mechanical",
+    "code": "cr-jou3-267",
+    "index": 267
+  },
+  {
+    "surface": "オカルティック",
+    "reading": "okarutikku",
+    "code": "cr-jou3-268",
+    "index": 268
+  },
+  {
+    "surface": "ヘナヘナ",
+    "reading": "henahena",
+    "code": "cr-jou3-269",
+    "index": 269
+  },
+  {
+    "surface": "ムーディー",
+    "reading": "moody",
+    "code": "cr-jou3-270",
+    "index": 270
+  },
+  {
+    "surface": "スレスレ",
+    "reading": "suresure",
+    "code": "cr-jou3-271",
+    "index": 271
+  },
+  {
+    "surface": "めった",
+    "reading": "metta",
+    "code": "cr-jou3-272",
+    "index": 272
+  },
+  {
+    "surface": "ザラ",
+    "reading": "zara",
+    "code": "cr-jou3-273",
+    "index": 273
+  },
+  {
+    "surface": "ハッピー",
+    "reading": "happy",
+    "code": "cr-jou3-274",
+    "index": 274
+  },
+  {
+    "surface": "如何",
+    "reading": "ikaga",
+    "code": "cr-jou3-275",
+    "index": 275
+  },
+  {
+    "surface": "ヘロヘロ",
+    "reading": "herohero",
+    "code": "cr-jou3-276",
+    "index": 276
+  },
+  {
+    "surface": "ノリノリ",
+    "reading": "norinori",
+    "code": "cr-jou3-277",
+    "index": 277
+  },
+  {
+    "surface": "まとも",
+    "reading": "matomo",
+    "code": "cr-jou3-278",
+    "index": 278
+  },
+  {
+    "surface": "真っすぐ",
+    "reading": "massugu",
+    "code": "cr-jou3-279",
+    "index": 279
+  },
+  {
+    "surface": "不法",
+    "reading": "fuhou",
+    "code": "cr-jou3-280",
+    "index": 280
+  },
+  {
+    "surface": "適切",
+    "reading": "tekisetsu",
+    "code": "cr-jou3-281",
+    "index": 281
+  },
+  {
+    "surface": "ゴッチャ",
+    "reading": "gotcha",
+    "code": "cr-jou3-282",
+    "index": 282
+  },
+  {
+    "surface": "沢山",
+    "reading": "takusan",
+    "code": "cr-jou3-283",
+    "index": 283
+  },
+  {
+    "surface": "露骨",
+    "reading": "rokotsu",
+    "code": "cr-jou3-284",
+    "index": 284
+  },
+  {
+    "surface": "サイケ",
+    "reading": "psychedelic",
+    "code": "cr-jou3-285",
+    "index": 285
+  },
+  {
+    "surface": "ひじょう",
+    "reading": "hijou",
+    "code": "cr-jou3-286",
+    "index": 286
+  },
+  {
+    "surface": "ブヨブヨ",
+    "reading": "buyobuyo",
+    "code": "cr-jou3-287",
+    "index": 287
+  },
+  {
+    "surface": "マシ",
+    "reading": "mashi",
+    "code": "cr-jou3-288",
+    "index": 288
+  },
+  {
+    "surface": "よれよれ",
+    "reading": "yoreyore",
+    "code": "cr-jou3-289",
+    "index": 289
+  },
+  {
+    "surface": "スケーラブル",
+    "reading": "scalable",
+    "code": "cr-jou3-290",
+    "index": 290
+  },
+  {
+    "surface": "姑息",
+    "reading": "kosoku",
+    "code": "cr-jou3-291",
+    "index": 291
+  },
+  {
+    "surface": "ペダンティック",
+    "reading": "pedantic",
+    "code": "cr-jou3-292",
+    "index": 292
+  },
+  {
+    "surface": "ぺしゃんこ",
+    "reading": "peshanko",
+    "code": "cr-jou3-293",
+    "index": 293
+  },
+  {
+    "surface": "ウハウハ",
+    "reading": "uhauha",
+    "code": "cr-jou3-294",
+    "index": 294
+  },
+  {
+    "surface": "すべすべ",
+    "reading": "subesube",
+    "code": "cr-jou3-295",
+    "index": 295
+  },
+  {
+    "surface": "強固",
+    "reading": "kyouko",
+    "code": "cr-jou3-296",
+    "index": 296
+  },
+  {
+    "surface": "のんき",
+    "reading": "nonki",
+    "code": "cr-jou3-297",
+    "index": 297
+  },
+  {
+    "surface": "クール",
+    "reading": "cool",
+    "code": "cr-jou3-298",
+    "index": 298
+  },
+  {
+    "surface": "カラカラ",
+    "reading": "karakara",
+    "code": "cr-jou3-299",
+    "index": 299
+  },
+  {
+    "surface": "りつ然",
+    "reading": "ritsuzen",
+    "code": "cr-jou3-300",
+    "index": 300
+  },
+  {
+    "surface": "イケイケ",
+    "reading": "ikeike",
+    "code": "cr-jou3-301",
+    "index": 301
+  },
+  {
+    "surface": "クラシカル",
+    "reading": "classical",
+    "code": "cr-jou3-302",
+    "index": 302
+  },
+  {
+    "surface": "婉曲",
+    "reading": "enkyoku",
+    "code": "cr-jou3-303",
+    "index": 303
+  },
+  {
+    "surface": "真っ直ぐ",
+    "reading": "massugu",
+    "code": "cr-jou3-304",
+    "index": 304
+  },
+  {
+    "surface": "なめらか",
+    "reading": "nameraka",
+    "code": "cr-jou3-305",
+    "index": 305
+  },
+  {
+    "surface": "老練",
+    "reading": "rouren",
+    "code": "cr-jou3-306",
+    "index": 306
+  },
+  {
+    "surface": "ジャスト",
+    "reading": "just",
+    "code": "cr-jou3-307",
+    "index": 307
+  },
+  {
+    "surface": "豊富",
+    "reading": "houfu",
+    "code": "cr-jou3-308",
+    "index": 308
+  },
+  {
+    "surface": "ペチャンコ",
+    "reading": "pechanko",
+    "code": "cr-jou3-309",
+    "index": 309
+  },
+  {
+    "surface": "イノセンス",
+    "reading": "inosensu",
+    "code": "cr-jou3-310",
+    "index": 310
+  },
+  {
+    "surface": "ヒューマニスティック",
+    "reading": "humanistic",
+    "code": "cr-jou3-311",
+    "index": 311
+  },
+  {
+    "surface": "フニャフニャ",
+    "reading": "funyafunya",
+    "code": "cr-jou3-312",
+    "index": 312
+  },
+  {
+    "surface": "クリティカル",
+    "reading": "critical",
+    "code": "cr-jou3-313",
+    "index": 313
+  },
+  {
+    "surface": "立派",
+    "reading": "rippa",
+    "code": "cr-jou3-314",
+    "index": 314
+  },
+  {
+    "surface": "スムース",
+    "reading": "smooth",
+    "code": "cr-jou3-315",
+    "index": 315
+  },
+  {
+    "surface": "ペッチャンコ",
+    "reading": "petchanko",
+    "code": "cr-jou3-316",
+    "index": 316
+  },
+  {
+    "surface": "深長",
+    "reading": "shinchou",
+    "code": "cr-jou3-317",
+    "index": 317
+  },
+  {
+    "surface": "あらわ",
+    "reading": "arawa",
+    "code": "cr-jou3-318",
+    "index": 318
+  },
+  {
+    "surface": "物静か",
+    "reading": "monoshizuka",
+    "code": "cr-jou3-319",
+    "index": 319
+  },
+  {
+    "surface": "ビビッド",
+    "reading": "vivid",
+    "code": "cr-jou3-320",
+    "index": 320
+  },
+  {
+    "surface": "システマティック",
+    "reading": "systematic",
+    "code": "cr-jou3-321",
+    "index": 321
+  },
+  {
+    "surface": "新鮮",
+    "reading": "shinsen",
+    "code": "cr-jou3-322",
+    "index": 322
+  },
+  {
+    "surface": "ブリリアント",
+    "reading": "brilliant",
+    "code": "cr-jou3-323",
+    "index": 323
+  },
+  {
+    "surface": "ロマンティック",
+    "reading": "romantic",
+    "code": "cr-jou3-324",
+    "index": 324
+  },
+  {
+    "surface": "ガサツ",
+    "reading": "gasatsu",
+    "code": "cr-jou3-325",
+    "index": 325
+  },
+  {
+    "surface": "輝か",
+    "reading": "kagayaka",
+    "code": "cr-jou3-326",
+    "index": 326
+  },
+  {
+    "surface": "シンプル",
+    "reading": "simple",
+    "code": "cr-jou3-327",
+    "index": 327
+  },
+  {
+    "surface": "安らか",
+    "reading": "yasuraka",
+    "code": "cr-jou3-328",
+    "index": 328
+  },
+  {
+    "surface": "おろそか",
+    "reading": "orosoka",
+    "code": "cr-jou3-329",
+    "index": 329
+  },
+  {
+    "surface": "首ったけ",
+    "reading": "kubittake",
+    "code": "cr-jou3-330",
+    "index": 330
+  },
+  {
+    "surface": "活発",
+    "reading": "kappatsu",
+    "code": "cr-jou3-331",
+    "index": 331
+  },
+  {
+    "surface": "執拗",
+    "reading": "shitsuyou",
+    "code": "cr-jou3-332",
+    "index": 332
+  },
+  {
+    "surface": "ポリティカル",
+    "reading": "poritikaru",
+    "code": "cr-jou3-333",
+    "index": 333
+  },
+  {
+    "surface": "詳らか",
+    "reading": "tsumabiraka",
+    "code": "cr-jou3-334",
+    "index": 334
+  },
+  {
+    "surface": "悠長",
+    "reading": "yuuchou",
+    "code": "cr-jou3-335",
+    "index": 335
+  },
+  {
+    "surface": "オリエンテッド",
+    "reading": "oriented",
+    "code": "cr-jou3-336",
+    "index": 336
+  },
+  {
+    "surface": "ヘルシー",
+    "reading": "healthy",
+    "code": "cr-jou3-337",
+    "index": 337
+  },
+  {
+    "surface": "きざ",
+    "reading": "kiza",
+    "code": "cr-jou3-338",
+    "index": 338
+  },
+  {
+    "surface": "不用",
+    "reading": "fuyou",
+    "code": "cr-jou3-339",
+    "index": 339
+  },
+  {
+    "surface": "淫ら",
+    "reading": "midara",
+    "code": "cr-jou3-340",
+    "index": 340
+  },
+  {
+    "surface": "鮮やか",
+    "reading": "azayaka",
+    "code": "cr-jou3-341",
+    "index": 341
+  },
+  {
+    "surface": "アクチブ",
+    "reading": "active",
+    "code": "cr-jou3-342",
+    "index": 342
+  },
+  {
+    "surface": "愚か",
+    "reading": "oroka",
+    "code": "cr-jou3-343",
+    "index": 343
+  },
+  {
+    "surface": "シンボリック",
+    "reading": "symbolic",
+    "code": "cr-jou3-344",
+    "index": 344
+  },
+  {
+    "surface": "たくさん",
+    "reading": "takusan",
+    "code": "cr-jou3-345",
+    "index": 345
+  },
+  {
+    "surface": "クソミソ",
+    "reading": "kusomiso",
+    "code": "cr-jou3-346",
+    "index": 346
+  },
+  {
+    "surface": "スタティック",
+    "reading": "static",
+    "code": "cr-jou3-347",
+    "index": 347
+  },
+  {
+    "surface": "アクロバティック",
+    "reading": "acrobatic",
+    "code": "cr-jou3-348",
+    "index": 348
+  },
+  {
+    "surface": "アカデミック",
+    "reading": "academic",
+    "code": "cr-jou3-349",
+    "index": 349
+  },
+  {
+    "surface": "まめ",
+    "reading": "mame",
+    "code": "cr-jou3-350",
+    "index": 350
+  },
+  {
+    "surface": "プリミティブ",
+    "reading": "primitive",
+    "code": "cr-jou3-351",
+    "index": 351
+  },
+  {
+    "surface": "軽やか",
+    "reading": "karoyaka",
+    "code": "cr-jou3-352",
+    "index": 352
+  },
+  {
+    "surface": "セクシィ",
+    "reading": "sexy",
+    "code": "cr-jou3-353",
+    "index": 353
+  },
+  {
+    "surface": "ヘンテコリン",
+    "reading": "hentekorin",
+    "code": "cr-jou3-354",
+    "index": 354
+  },
+  {
+    "surface": "シンメトリック",
+    "reading": "symmetric",
+    "code": "cr-jou3-355",
+    "index": 355
+  },
+  {
+    "surface": "有効",
+    "reading": "yuukou",
+    "code": "cr-jou3-356",
+    "index": 356
+  },
+  {
+    "surface": "間近",
+    "reading": "mazika",
+    "code": "cr-jou3-357",
+    "index": 357
+  },
+  {
+    "surface": "ささやか",
+    "reading": "sasayaka",
+    "code": "cr-jou3-358",
+    "index": 358
+  },
+  {
+    "surface": "遺憾",
+    "reading": "ikan",
+    "code": "cr-jou3-359",
+    "index": 359
+  },
+  {
+    "surface": "フレキシブル",
+    "reading": "flexible",
+    "code": "cr-jou3-360",
+    "index": 360
+  },
+  {
+    "surface": "多様",
+    "reading": "tayou",
+    "code": "cr-jou3-361",
+    "index": 361
+  },
+  {
+    "surface": "プリティー",
+    "reading": "pretty",
+    "code": "cr-jou3-362",
+    "index": 362
+  },
+  {
+    "surface": "肝要",
+    "reading": "kanyou",
+    "code": "cr-jou3-363",
+    "index": 363
+  },
+  {
+    "surface": "ドキュメンタル",
+    "reading": "documental",
+    "code": "cr-jou3-364",
+    "index": 364
+  },
+  {
+    "surface": "旺盛",
+    "reading": "ousei",
+    "code": "cr-jou3-365",
+    "index": 365
+  },
+  {
+    "surface": "敬虔",
+    "reading": "keiken",
+    "code": "cr-jou3-366",
+    "index": 366
+  },
+  {
+    "surface": "ウェット",
+    "reading": "wet",
+    "code": "cr-jou3-367",
+    "index": 367
+  },
+  {
+    "surface": "フレッシュ",
+    "reading": "fresh",
+    "code": "cr-jou3-368",
+    "index": 368
+  },
+  {
+    "surface": "クタクタ",
+    "reading": "kutakuta",
+    "code": "cr-jou3-369",
+    "index": 369
+  },
+  {
+    "surface": "スピーディ",
+    "reading": "speedy",
+    "code": "cr-jou3-370",
+    "index": 370
+  },
+  {
+    "surface": "自在",
+    "reading": "jizai",
+    "code": "cr-jou3-371",
+    "index": 371
+  },
+  {
+    "surface": "エロカワ",
+    "reading": "erokawa",
+    "code": "cr-jou3-372",
+    "index": 372
+  },
+  {
+    "surface": "周到",
+    "reading": "shuutou",
+    "code": "cr-jou3-373",
+    "index": 373
+  },
+  {
+    "surface": "明朗",
+    "reading": "meirou",
+    "code": "cr-jou3-374",
+    "index": 374
+  },
+  {
+    "surface": "厳密",
+    "reading": "genmitsu",
+    "code": "cr-jou3-375",
+    "index": 375
+  },
+  {
+    "surface": "しとやか",
+    "reading": "shitoyaka",
+    "code": "cr-jou3-376",
+    "index": 376
+  },
+  {
+    "surface": "器用",
+    "reading": "kiyou",
+    "code": "cr-jou3-377",
+    "index": 377
+  },
+  {
+    "surface": "ちっぽけ",
+    "reading": "chippoke",
+    "code": "cr-jou3-378",
+    "index": 378
+  },
+  {
+    "surface": "新規",
+    "reading": "shinki",
+    "code": "cr-jou3-379",
+    "index": 379
+  },
+  {
+    "surface": "存分",
+    "reading": "zonbun",
+    "code": "cr-jou3-380",
+    "index": 380
+  },
+  {
+    "surface": "可能",
+    "reading": "kanou",
+    "code": "cr-jou3-381",
+    "index": 381
+  },
+  {
+    "surface": "容易",
+    "reading": "youi",
+    "code": "cr-jou3-382",
+    "index": 382
+  },
+  {
+    "surface": "真っ赤",
+    "reading": "makka",
+    "code": "cr-jou3-383",
+    "index": 383
+  },
+  {
+    "surface": "ウッディー",
+    "reading": "woody",
+    "code": "cr-jou3-384",
+    "index": 384
+  },
+  {
+    "surface": "たしか",
+    "reading": "tashika",
+    "code": "cr-jou3-385",
+    "index": 385
+  },
+  {
+    "surface": "泰然",
+    "reading": "taizen",
+    "code": "cr-jou3-386",
+    "index": 386
+  },
+  {
+    "surface": "シャイ",
+    "reading": "shy",
+    "code": "cr-jou3-387",
+    "index": 387
+  },
+  {
+    "surface": "ワイルド",
+    "reading": "wild",
+    "code": "cr-jou3-388",
+    "index": 388
+  },
+  {
+    "surface": "ごっちゃ",
+    "reading": "gotcha",
+    "code": "cr-jou3-389",
+    "index": 389
+  },
+  {
+    "surface": "法的",
+    "reading": "houteki",
+    "code": "cr-jou3-390",
+    "index": 390
+  },
+  {
+    "surface": "がりがり",
+    "reading": "garigari",
+    "code": "cr-jou3-391",
+    "index": 391
+  },
+  {
+    "surface": "意外",
+    "reading": "igai",
+    "code": "cr-jou3-392",
+    "index": 392
+  },
+  {
+    "surface": "あざやか",
+    "reading": "azayaka",
+    "code": "cr-jou3-393",
+    "index": 393
+  },
+  {
+    "surface": "唖然",
+    "reading": "azen",
+    "code": "cr-jou3-394",
+    "index": 394
+  },
+  {
+    "surface": "ダブダブ",
+    "reading": "dabudabu",
+    "code": "cr-jou3-395",
+    "index": 395
+  },
+  {
+    "surface": "ぐしゃぐしゃ",
+    "reading": "gushagusha",
+    "code": "cr-jou3-396",
+    "index": 396
+  },
+  {
+    "surface": "新た",
+    "reading": "arata",
+    "code": "cr-jou3-397",
+    "index": 397
+  },
+  {
+    "surface": "むやみ",
+    "reading": "muyami",
+    "code": "cr-jou3-398",
+    "index": 398
+  },
+  {
+    "surface": "優美",
+    "reading": "yuubi",
+    "code": "cr-jou3-399",
+    "index": 399
+  },
+  {
+    "surface": "ドラマティック",
+    "reading": "dramatic",
+    "code": "cr-jou3-400",
+    "index": 400
+  },
+  {
+    "surface": "ナーバス",
+    "reading": "nervous",
+    "code": "cr-jou3-401",
+    "index": 401
+  },
+  {
+    "surface": "アディショナル",
+    "reading": "additional",
+    "code": "cr-jou3-402",
+    "index": 402
+  },
+  {
+    "surface": "明瞭",
+    "reading": "meiryou",
+    "code": "cr-jou3-403",
+    "index": 403
+  },
+  {
+    "surface": "真っ逆様",
+    "reading": "massakasama",
+    "code": "cr-jou3-404",
+    "index": 404
+  },
+  {
+    "surface": "ガタガタ",
+    "reading": "gatagata",
+    "code": "cr-jou3-405",
+    "index": 405
+  },
+  {
+    "surface": "スッポンポン",
+    "reading": "supponpon",
+    "code": "cr-jou3-406",
+    "index": 406
+  },
+  {
+    "surface": "はるか",
+    "reading": "haruka",
+    "code": "cr-jou3-407",
+    "index": 407
+  },
+  {
+    "surface": "私的",
+    "reading": "shiteki",
+    "code": "cr-jou3-408",
+    "index": 408
+  },
+  {
+    "surface": "果敢",
+    "reading": "kakan",
+    "code": "cr-jou3-409",
+    "index": 409
+  },
+  {
+    "surface": "ぎれい",
+    "reading": "girei",
+    "code": "cr-jou3-410",
+    "index": 410
+  },
+  {
+    "surface": "急速",
+    "reading": "kyuusoku",
+    "code": "cr-jou3-411",
+    "index": 411
+  },
+  {
+    "surface": "ラクチン",
+    "reading": "rakuchin",
+    "code": "cr-jou3-412",
+    "index": 412
+  },
+  {
+    "surface": "歴然",
+    "reading": "rekizen",
+    "code": "cr-jou3-413",
+    "index": 413
+  },
+  {
+    "surface": "ノロマ",
+    "reading": "noroma",
+    "code": "cr-jou3-414",
+    "index": 414
+  },
+  {
+    "surface": "まっか",
+    "reading": "makka",
+    "code": "cr-jou3-415",
+    "index": 415
+  },
+  {
+    "surface": "へとへと",
+    "reading": "hetoheto",
+    "code": "cr-jou3-416",
+    "index": 416
+  },
+  {
+    "surface": "かすか",
+    "reading": "kasuka",
+    "code": "cr-jou3-417",
+    "index": 417
+  },
+  {
+    "surface": "グレート・ヤーマス",
+    "reading": "greatjamass",
+    "code": "cr-jou3-418",
+    "index": 418
+  },
+  {
+    "surface": "メロー",
+    "reading": "mellow",
+    "code": "cr-jou3-419",
+    "index": 419
+  },
+  {
+    "surface": "ジグザグ",
+    "reading": "zigzag",
+    "code": "cr-jou3-420",
+    "index": 420
+  },
+  {
+    "surface": "惨め",
+    "reading": "mijime",
+    "code": "cr-jou3-421",
+    "index": 421
+  },
+  {
+    "surface": "ひんぱん",
+    "reading": "hinpan",
+    "code": "cr-jou3-422",
+    "index": 422
+  },
+  {
+    "surface": "タンタン",
+    "reading": "tantan",
+    "code": "cr-jou3-423",
+    "index": 423
+  },
+  {
+    "surface": "サイエンティフィック",
+    "reading": "scientific",
+    "code": "cr-jou3-424",
+    "index": 424
+  },
+  {
+    "surface": "好き",
+    "reading": "suki",
+    "code": "cr-jou3-425",
+    "index": 425
+  },
+  {
+    "surface": "唐突",
+    "reading": "toutotsu",
+    "code": "cr-jou3-426",
+    "index": 426
+  },
+  {
+    "surface": "ガリガリ",
+    "reading": "garigari",
+    "code": "cr-jou3-427",
+    "index": 427
+  },
+  {
+    "surface": "出し抜け",
+    "reading": "dashinuke",
+    "code": "cr-jou3-428",
+    "index": 428
+  },
+  {
+    "surface": "パブリック",
+    "reading": "public",
+    "code": "cr-jou3-429",
+    "index": 429
+  },
+  {
+    "surface": "グランジ",
+    "reading": "guranji",
+    "code": "cr-jou3-430",
+    "index": 430
+  },
+  {
+    "surface": "フル",
+    "reading": "full",
+    "code": "cr-jou3-431",
+    "index": 431
+  },
+  {
+    "surface": "まし",
+    "reading": "mashi",
+    "code": "cr-jou3-432",
+    "index": 432
+  },
+  {
+    "surface": "クリエーティブ",
+    "reading": "creative",
+    "code": "cr-jou3-433",
+    "index": 433
+  },
+  {
+    "surface": "ベーシック",
+    "reading": "basic",
+    "code": "cr-jou3-434",
+    "index": 434
+  },
+  {
+    "surface": "ペシャンコ",
+    "reading": "peshanko",
+    "code": "cr-jou3-435",
+    "index": 435
+  },
+  {
+    "surface": "猛烈",
+    "reading": "mouretsu",
+    "code": "cr-jou3-436",
+    "index": 436
+  },
+  {
+    "surface": "肉太",
+    "reading": "nikubuto",
+    "code": "cr-jou3-437",
+    "index": 437
+  },
+  {
+    "surface": "機敏",
+    "reading": "kibin",
+    "code": "cr-jou3-438",
+    "index": 438
+  },
+  {
+    "surface": "奇妙",
+    "reading": "kimyou",
+    "code": "cr-jou3-439",
+    "index": 439
+  },
+  {
+    "surface": "かわいそう",
+    "reading": "kawaisou",
+    "code": "cr-jou3-440",
+    "index": 440
+  },
+  {
+    "surface": "キツメ",
+    "reading": "kitsume",
+    "code": "cr-jou3-441",
+    "index": 441
+  },
+  {
+    "surface": "マルチタスク",
+    "reading": "maruchitasuku",
+    "code": "cr-jou3-442",
+    "index": 442
+  },
+  {
+    "surface": "フルーティー",
+    "reading": "fruity",
+    "code": "cr-jou3-443",
+    "index": 443
+  },
+  {
+    "surface": "有害",
+    "reading": "yuugai",
+    "code": "cr-jou3-444",
+    "index": 444
+  },
+  {
+    "surface": "美的",
+    "reading": "biteki",
+    "code": "cr-jou3-445",
+    "index": 445
+  },
+  {
+    "surface": "直向き",
+    "reading": "hitamuki",
+    "code": "cr-jou3-446",
+    "index": 446
+  },
+  {
+    "surface": "過度",
+    "reading": "kado",
+    "code": "cr-jou3-447",
+    "index": 447
+  },
+  {
+    "surface": "大変",
+    "reading": "taihen",
+    "code": "cr-jou3-448",
+    "index": 448
+  },
+  {
+    "surface": "いたずら好き",
+    "reading": "itazurazuki",
+    "code": "cr-jou3-449",
+    "index": 449
+  },
+  {
+    "surface": "厳格",
+    "reading": "genkaku",
+    "code": "cr-jou3-450",
+    "index": 450
+  },
+  {
+    "surface": "完全",
+    "reading": "kanzen",
+    "code": "cr-jou3-451",
+    "index": 451
+  },
+  {
+    "surface": "高らか",
+    "reading": "takaraka",
+    "code": "cr-jou3-452",
+    "index": 452
+  },
+  {
+    "surface": "オフィシャル",
+    "reading": "official",
+    "code": "cr-jou3-453",
+    "index": 453
+  },
+  {
+    "surface": "ヒラヒラ",
+    "reading": "hirahira",
+    "code": "cr-jou3-454",
+    "index": 454
+  },
+  {
+    "surface": "深刻",
+    "reading": "shinkoku",
+    "code": "cr-jou3-455",
+    "index": 455
+  },
+  {
+    "surface": "早め",
+    "reading": "hayame",
+    "code": "cr-jou3-456",
+    "index": 456
+  },
+  {
+    "surface": "太め",
+    "reading": "futome",
+    "code": "cr-jou3-457",
+    "index": 457
+  },
+  {
+    "surface": "流ちょう",
+    "reading": "ryuuchou",
+    "code": "cr-jou3-458",
+    "index": 458
+  },
+  {
+    "surface": "バリッド",
+    "reading": "bariddo",
+    "code": "cr-jou3-459",
+    "index": 459
+  },
+  {
+    "surface": "ざら",
+    "reading": "zara",
+    "code": "cr-jou3-460",
+    "index": 460
+  },
+  {
+    "surface": "深め",
+    "reading": "fukame",
+    "code": "cr-jou3-461",
+    "index": 461
+  },
+  {
+    "surface": "入念",
+    "reading": "nyuunen",
+    "code": "cr-jou3-462",
+    "index": 462
+  },
+  {
+    "surface": "モダン",
+    "reading": "modern",
+    "code": "cr-jou3-463",
+    "index": 463
+  },
+  {
+    "surface": "リムーバブル",
+    "reading": "removable",
+    "code": "cr-jou3-464",
+    "index": 464
+  },
+  {
+    "surface": "性的",
+    "reading": "seiteki",
+    "code": "cr-jou3-465",
+    "index": 465
+  },
+  {
+    "surface": "カチンコチン",
+    "reading": "kachinkochin",
+    "code": "cr-jou3-466",
+    "index": 466
+  },
+  {
+    "surface": "やわらか",
+    "reading": "yawaraka",
+    "code": "cr-jou3-467",
+    "index": 467
+  },
+  {
+    "surface": "しんしん",
+    "reading": "shinshin",
+    "code": "cr-jou3-468",
+    "index": 468
+  },
+  {
+    "surface": "あらた",
+    "reading": "arata",
+    "code": "cr-jou3-469",
+    "index": 469
+  },
+  {
+    "surface": "ペコペコ",
+    "reading": "pekopeko",
+    "code": "cr-jou3-470",
+    "index": 470
+  },
+  {
+    "surface": "キザ",
+    "reading": "kiza",
+    "code": "cr-jou3-471",
+    "index": 471
+  },
+  {
+    "surface": "ファンタスティック",
+    "reading": "fantastic",
+    "code": "cr-jou3-472",
+    "index": 472
+  },
+  {
+    "surface": "ビッグ",
+    "reading": "big",
+    "code": "cr-jou3-473",
+    "index": 473
+  },
+  {
+    "surface": "ドライ",
+    "reading": "dry",
+    "code": "cr-jou3-474",
+    "index": 474
+  },
+  {
+    "surface": "カチカチ",
+    "reading": "kachikachi",
+    "code": "cr-jou3-475",
+    "index": 475
+  },
+  {
+    "surface": "たっしゃ",
+    "reading": "tassha",
+    "code": "cr-jou3-476",
+    "index": 476
+  },
+  {
+    "surface": "きれい",
+    "reading": "kirei",
+    "code": "cr-jou3-477",
+    "index": 477
+  },
+  {
+    "surface": "たくみ",
+    "reading": "takumi",
+    "code": "cr-jou3-478",
+    "index": 478
+  },
+  {
+    "surface": "ていねい",
+    "reading": "teinei",
+    "code": "cr-jou3-479",
+    "index": 479
+  },
+  {
+    "surface": "クシャクシャ",
+    "reading": "kushakusha",
+    "code": "cr-jou3-480",
+    "index": 480
+  },
+  {
+    "surface": "アルゴリズミック",
+    "reading": "algorithmic",
+    "code": "cr-jou3-481",
+    "index": 481
+  },
+  {
+    "surface": "アンフェア",
+    "reading": "unfair",
+    "code": "cr-jou3-482",
+    "index": 482
+  },
+  {
+    "surface": "明白",
+    "reading": "meihaku",
+    "code": "cr-jou3-483",
+    "index": 483
+  },
+  {
+    "surface": "割安",
+    "reading": "wariyasu",
+    "code": "cr-jou3-484",
+    "index": 484
+  },
+  {
+    "surface": "クレージー",
+    "reading": "crazy",
+    "code": "cr-jou3-485",
+    "index": 485
+  },
+  {
+    "surface": "アクティブ",
+    "reading": "active",
+    "code": "cr-jou3-486",
+    "index": 486
+  },
+  {
+    "surface": "エログロ",
+    "reading": "eroguro",
+    "code": "cr-jou3-487",
+    "index": 487
+  },
+  {
+    "surface": "広め",
+    "reading": "hirome",
+    "code": "cr-jou3-488",
+    "index": 488
+  },
+  {
+    "surface": "豪勢",
+    "reading": "gousei",
+    "code": "cr-jou3-489",
+    "index": 489
+  },
+  {
+    "surface": "アグレッシヴ",
+    "reading": "aggressive",
+    "code": "cr-jou3-490",
+    "index": 490
+  },
+  {
+    "surface": "のろま",
+    "reading": "noroma",
+    "code": "cr-jou3-491",
+    "index": 491
+  },
+  {
+    "surface": "気長",
+    "reading": "kinaga",
+    "code": "cr-jou3-492",
+    "index": 492
+  },
+  {
+    "surface": "モダーン",
+    "reading": "modern",
+    "code": "cr-jou3-493",
+    "index": 493
+  },
+  {
+    "surface": "強力",
+    "reading": "kyouryoku",
+    "code": "cr-jou3-494",
+    "index": 494
+  },
+  {
+    "surface": "ガサガサ",
+    "reading": "gasagasa",
+    "code": "cr-jou3-495",
+    "index": 495
+  },
+  {
+    "surface": "ノーマル",
+    "reading": "normal",
+    "code": "cr-jou3-496",
+    "index": 496
+  },
+  {
+    "surface": "ドラスティック",
+    "reading": "drastic",
+    "code": "cr-jou3-497",
+    "index": 497
+  },
+  {
+    "surface": "達者",
+    "reading": "tassha",
+    "code": "cr-jou3-498",
+    "index": 498
+  },
+  {
+    "surface": "簡素",
+    "reading": "kanso",
+    "code": "cr-jou3-499",
+    "index": 499
+  },
+  {
+    "surface": "りっぱ",
+    "reading": "rippa",
+    "code": "cr-jou3-500",
+    "index": 500
+  },
+  {
+    "surface": "キテレツ",
+    "reading": "kiteretsu",
+    "code": "cr-jou3-501",
+    "index": 501
+  },
+  {
+    "surface": "奔放",
+    "reading": "honpou",
+    "code": "cr-jou3-502",
+    "index": 502
+  },
+  {
+    "surface": "ステキ",
+    "reading": "suteki",
+    "code": "cr-jou3-503",
+    "index": 503
+  },
+  {
+    "surface": "幼稚",
+    "reading": "youchi",
+    "code": "cr-jou3-504",
+    "index": 504
+  },
+  {
+    "surface": "エロティック",
+    "reading": "erotic",
+    "code": "cr-jou3-505",
+    "index": 505
+  },
+  {
+    "surface": "妙ちくりん",
+    "reading": "myouchikurin",
+    "code": "cr-jou3-506",
+    "index": 506
+  },
+  {
+    "surface": "瓜二つ",
+    "reading": "urifutatsu",
+    "code": "cr-jou3-507",
+    "index": 507
+  },
+  {
+    "surface": "ハートフル",
+    "reading": "haatofuru",
+    "code": "cr-jou3-508",
+    "index": 508
+  },
+  {
+    "surface": "パラドクシカル",
+    "reading": "paradoxical",
+    "code": "cr-jou3-509",
+    "index": 509
+  },
+  {
+    "surface": "無事",
+    "reading": "buji",
+    "code": "cr-jou3-510",
+    "index": 510
+  },
+  {
+    "surface": "確か",
+    "reading": "tashika",
+    "code": "cr-jou3-511",
+    "index": 511
+  },
+  {
+    "surface": "ヘンテコ",
+    "reading": "henteko",
+    "code": "cr-jou3-512",
+    "index": 512
+  },
+  {
+    "surface": "寛大",
+    "reading": "kandai",
+    "code": "cr-jou3-513",
+    "index": 513
+  },
+  {
+    "surface": "ものぐさ",
+    "reading": "monogusa",
+    "code": "cr-jou3-514",
+    "index": 514
+  },
+  {
+    "surface": "穏やか",
+    "reading": "odayaka",
+    "code": "cr-jou3-515",
+    "index": 515
+  },
+  {
+    "surface": "ドラスチック",
+    "reading": "drastic",
+    "code": "cr-jou3-516",
+    "index": 516
+  },
+  {
+    "surface": "リズミカル",
+    "reading": "rhythmical",
+    "code": "cr-jou3-517",
+    "index": 517
+  },
+  {
+    "surface": "長め",
+    "reading": "nagame",
+    "code": "cr-jou3-518",
+    "index": 518
+  },
+  {
+    "surface": "頻繁",
+    "reading": "hinpan",
+    "code": "cr-jou3-519",
+    "index": 519
+  },
+  {
+    "surface": "インテンショナル",
+    "reading": "intentional",
+    "code": "cr-jou3-520",
+    "index": 520
+  },
+  {
+    "surface": "エロチック",
+    "reading": "erotic",
+    "code": "cr-jou3-521",
+    "index": 521
+  },
+  {
+    "surface": "マイルド",
+    "reading": "mild",
+    "code": "cr-jou3-522",
+    "index": 522
+  },
+  {
+    "surface": "イミディエイト",
+    "reading": "immediate",
+    "code": "cr-jou3-523",
+    "index": 523
+  },
+  {
+    "surface": "パンパン",
+    "reading": "panpan",
+    "code": "cr-jou3-524",
+    "index": 524
+  },
+  {
+    "surface": "システマチック",
+    "reading": "systematic",
+    "code": "cr-jou3-525",
+    "index": 525
+  },
+  {
+    "surface": "生半可",
+    "reading": "namahanka",
+    "code": "cr-jou3-526",
+    "index": 526
+  },
+  {
+    "surface": "まじめ",
+    "reading": "majime",
+    "code": "cr-jou3-527",
+    "index": 527
+  },
+  {
+    "surface": "フィジカル",
+    "reading": "physical",
+    "code": "cr-jou3-528",
+    "index": 528
+  },
+  {
+    "surface": "フェアー",
+    "reading": "feaa",
+    "code": "cr-jou3-529",
+    "index": 529
+  },
+  {
+    "surface": "声高",
+    "reading": "kowadaka",
+    "code": "cr-jou3-530",
+    "index": 530
+  },
+  {
+    "surface": "非凡",
+    "reading": "hibon",
+    "code": "cr-jou3-531",
+    "index": 531
+  },
+  {
+    "surface": "アリストクラティック",
+    "reading": "aristocratic",
+    "code": "cr-jou3-532",
+    "index": 532
+  },
+  {
+    "surface": "高め",
+    "reading": "takame",
+    "code": "cr-jou3-533",
+    "index": 533
+  },
+  {
+    "surface": "アクチュアル",
+    "reading": "actual",
+    "code": "cr-jou3-534",
+    "index": 534
+  },
+  {
+    "surface": "スマート",
+    "reading": "smart",
+    "code": "cr-jou3-535",
+    "index": 535
+  },
+  {
+    "surface": "そっくり",
+    "reading": "sokkuri",
+    "code": "cr-jou3-536",
+    "index": 536
+  },
+  {
+    "surface": "ペダンチック",
+    "reading": "pedantic",
+    "code": "cr-jou3-537",
+    "index": 537
+  },
+  {
+    "surface": "ヒロイック",
+    "reading": "heroic",
+    "code": "cr-jou3-538",
+    "index": 538
+  },
+  {
+    "surface": "がくぜん",
+    "reading": "gakuzen",
+    "code": "cr-jou3-539",
+    "index": 539
+  },
+  {
+    "surface": "残念",
+    "reading": "zannen",
+    "code": "cr-jou3-540",
+    "index": 540
+  },
+  {
+    "surface": "ペッタンコ",
+    "reading": "pettanko",
+    "code": "cr-jou3-541",
+    "index": 541
+  },
+  {
+    "surface": "確実",
+    "reading": "kakujitsu",
+    "code": "cr-jou3-542",
+    "index": 542
+  },
+  {
+    "surface": "トラッド",
+    "reading": "trad",
+    "code": "cr-jou3-543",
+    "index": 543
+  },
+  {
+    "surface": "マジカル",
+    "reading": "magical",
+    "code": "cr-jou3-544",
+    "index": 544
+  },
+  {
+    "surface": "盛ん",
+    "reading": "sakan",
+    "code": "cr-jou3-545",
+    "index": 545
+  },
+  {
+    "surface": "ヘトヘト",
+    "reading": "hetoheto",
+    "code": "cr-jou3-546",
+    "index": 546
+  },
+  {
+    "surface": "デスペレート",
+    "reading": "desperate",
+    "code": "cr-jou3-547",
+    "index": 547
+  },
+  {
+    "surface": "キャッチー",
+    "reading": "catchy",
+    "code": "cr-jou3-548",
+    "index": 548
+  },
+  {
+    "surface": "エキセントリック",
+    "reading": "eccentric",
+    "code": "cr-jou3-549",
+    "index": 549
+  },
+  {
+    "surface": "暖か",
+    "reading": "atataka",
+    "code": "cr-jou3-550",
+    "index": 550
+  },
+  {
+    "surface": "ダボダボ",
+    "reading": "dabodabo",
+    "code": "cr-jou3-551",
+    "index": 551
+  },
+  {
+    "surface": "明らか",
+    "reading": "akiraka",
+    "code": "cr-jou3-552",
+    "index": 552
+  },
+  {
+    "surface": "コンテンポラリー",
+    "reading": "contemporary",
+    "code": "cr-jou3-553",
+    "index": 553
+  },
+  {
+    "surface": "濃厚",
+    "reading": "noukou",
+    "code": "cr-jou3-554",
+    "index": 554
+  },
+  {
+    "surface": "スピーディー",
+    "reading": "speedy",
+    "code": "cr-jou3-555",
+    "index": 555
+  },
+  {
+    "surface": "シニカル",
+    "reading": "cynical",
+    "code": "cr-jou3-556",
+    "index": 556
+  },
+  {
+    "surface": "凶悪",
+    "reading": "kyouaku",
+    "code": "cr-jou3-557",
+    "index": 557
+  },
+  {
+    "surface": "非常",
+    "reading": "hijou",
+    "code": "cr-jou3-558",
+    "index": 558
+  },
+  {
+    "surface": "無数",
+    "reading": "musuu",
+    "code": "cr-jou3-559",
+    "index": 559
+  },
+  {
+    "surface": "ペタンコ",
+    "reading": "petanko",
+    "code": "cr-jou3-560",
+    "index": 560
+  },
+  {
+    "surface": "デモーニッシュ",
+    "reading": "damonisch",
+    "code": "cr-jou3-561",
+    "index": 561
+  },
+  {
+    "surface": "ベタベタ",
+    "reading": "betabeta",
+    "code": "cr-jou3-562",
+    "index": 562
+  },
+  {
+    "surface": "ラディカル",
+    "reading": "radical",
+    "code": "cr-jou3-563",
+    "index": 563
+  },
+  {
+    "surface": "大げさ",
+    "reading": "oogesa",
+    "code": "cr-jou3-564",
+    "index": 564
+  },
+  {
+    "surface": "モノトナス",
+    "reading": "monotonous",
+    "code": "cr-jou3-565",
+    "index": 565
+  },
+  {
+    "surface": "メタリック",
+    "reading": "metallic",
+    "code": "cr-jou3-566",
+    "index": 566
+  },
+  {
+    "surface": "ダイナミック",
+    "reading": "dynamic",
+    "code": "cr-jou3-567",
+    "index": 567
+  },
+  {
+    "surface": "クリーミー",
+    "reading": "creamy",
+    "code": "cr-jou3-568",
+    "index": 568
+  },
+  {
+    "surface": "素敵",
+    "reading": "suteki",
+    "code": "cr-jou3-569",
+    "index": 569
+  },
+  {
+    "surface": "急激",
+    "reading": "kyuugeki",
+    "code": "cr-jou3-570",
+    "index": 570
+  },
+  {
+    "surface": "独特",
+    "reading": "dokutoku",
+    "code": "cr-jou3-571",
+    "index": 571
+  },
+  {
+    "surface": "貪欲",
+    "reading": "donyoku",
+    "code": "cr-jou3-572",
+    "index": 572
+  },
+  {
+    "surface": "大切",
+    "reading": "taisetsu",
+    "code": "cr-jou3-573",
+    "index": 573
+  },
+  {
+    "surface": "いかが",
+    "reading": "ikaga",
+    "code": "cr-jou3-574",
+    "index": 574
+  },
+  {
+    "surface": "安価",
+    "reading": "anka",
+    "code": "cr-jou3-575",
+    "index": 575
+  },
+  {
+    "surface": "グチャグチャ",
+    "reading": "guchagucha",
+    "code": "cr-jou3-576",
+    "index": 576
+  },
+  {
+    "surface": "しみったれ",
+    "reading": "shimittare",
+    "code": "cr-jou3-577",
+    "index": 577
+  },
+  {
+    "surface": "パンクチュアル",
+    "reading": "punctual",
+    "code": "cr-jou3-578",
+    "index": 578
+  },
+  {
+    "surface": "頑固",
+    "reading": "ganko",
+    "code": "cr-jou3-579",
+    "index": 579
+  },
+  {
+    "surface": "論外",
+    "reading": "rongai",
+    "code": "cr-jou3-580",
+    "index": 580
+  },
+  {
+    "surface": "フルーティ",
+    "reading": "fruity",
+    "code": "cr-jou3-581",
+    "index": 581
+  },
+  {
+    "surface": "奇麗",
+    "reading": "kirei",
+    "code": "cr-jou3-582",
+    "index": 582
+  },
+  {
+    "surface": "すっぽんぽん",
+    "reading": "zupponpon",
+    "code": "cr-jou3-583",
+    "index": 583
+  },
+  {
+    "surface": "本好き",
+    "reading": "honzuki",
+    "code": "cr-jou3-584",
+    "index": 584
+  },
+  {
+    "surface": "ダル",
+    "reading": "dull",
+    "code": "cr-jou3-585",
+    "index": 585
+  },
+  {
+    "surface": "気の毒",
+    "reading": "kinodoku",
+    "code": "cr-jou3-586",
+    "index": 586
+  },
+  {
+    "surface": "テカテカ",
+    "reading": "tekateka",
+    "code": "cr-jou3-587",
+    "index": 587
+  },
+  {
+    "surface": "スロー",
+    "reading": "slow",
+    "code": "cr-jou3-588",
+    "index": 588
+  },
+  {
+    "surface": "スポーティー",
+    "reading": "sporty",
+    "code": "cr-jou3-589",
+    "index": 589
+  },
+  {
+    "surface": "はすっぱ",
+    "reading": "hasuppa",
+    "code": "cr-jou3-590",
+    "index": 590
+  },
+  {
+    "surface": "パッショネート",
+    "reading": "passionate",
+    "code": "cr-jou3-591",
+    "index": 591
+  },
+  {
+    "surface": "もってのほか",
+    "reading": "mottenohoka",
+    "code": "cr-jou3-592",
+    "index": 592
+  },
+  {
+    "surface": "ストロング",
+    "reading": "strong",
+    "code": "cr-jou3-593",
+    "index": 593
+  },
+  {
+    "surface": "巨額",
+    "reading": "kyogaku",
+    "code": "cr-jou3-594",
+    "index": 594
+  },
+  {
+    "surface": "きゃしゃ",
+    "reading": "kyasha",
+    "code": "cr-jou3-595",
+    "index": 595
+  },
+  {
+    "surface": "エキゾティック",
+    "reading": "exotic",
+    "code": "cr-jou3-596",
+    "index": 596
+  },
+  {
+    "surface": "ユニーク",
+    "reading": "unique",
+    "code": "cr-jou3-597",
+    "index": 597
+  },
+  {
+    "surface": "ほのか",
+    "reading": "honoka",
+    "code": "cr-jou3-598",
+    "index": 598
+  },
+  {
+    "surface": "スマイリー",
+    "reading": "sumairii",
+    "code": "cr-jou3-599",
+    "index": 599
+  },
+  {
+    "surface": "綺麗",
+    "reading": "kirei",
+    "code": "cr-jou3-600",
+    "index": 600
+  },
+  {
+    "surface": "チックタック",
+    "reading": "ticktack",
+    "code": "cr-jou3-601",
+    "index": 601
+  },
+  {
+    "surface": "悪質",
+    "reading": "akushitsu",
+    "code": "cr-jou3-602",
+    "index": 602
+  },
+  {
+    "surface": "熱心",
+    "reading": "nesshin",
+    "code": "cr-jou3-603",
+    "index": 603
+  },
+  {
+    "surface": "単純",
+    "reading": "tanjun",
+    "code": "cr-jou3-604",
+    "index": 604
+  },
+  {
+    "surface": "パラドキシカル",
+    "reading": "paradoxical",
+    "code": "cr-jou3-605",
+    "index": 605
+  },
+  {
+    "surface": "ウッディ",
+    "reading": "woody",
+    "code": "cr-jou3-606",
+    "index": 606
+  },
+  {
+    "surface": "格段",
+    "reading": "kakudan",
+    "code": "cr-jou3-607",
+    "index": 607
+  },
+  {
+    "surface": "シャルマン",
+    "reading": "charmant",
+    "code": "cr-jou3-608",
+    "index": 608
+  },
+  {
+    "surface": "デモクラティック",
+    "reading": "democratic",
+    "code": "cr-jou3-609",
+    "index": 609
+  },
+  {
+    "surface": "わずか",
+    "reading": "wazuka",
+    "code": "cr-jou3-610",
+    "index": 610
+  },
+  {
+    "surface": "気がかり",
+    "reading": "kigakari",
+    "code": "cr-jou3-611",
+    "index": 611
+  },
+  {
+    "surface": "ラショナル",
+    "reading": "rational",
+    "code": "cr-jou3-612",
+    "index": 612
+  },
+  {
+    "surface": "平ら",
+    "reading": "taira",
+    "code": "cr-jou3-613",
+    "index": 613
+  },
+  {
+    "surface": "ないがしろ",
+    "reading": "naigashiro",
+    "code": "cr-jou3-614",
+    "index": 614
+  },
+  {
+    "surface": "豊か",
+    "reading": "yutaka",
+    "code": "cr-jou3-615",
+    "index": 615
+  },
+  {
+    "surface": "ダーティー",
+    "reading": "dirty",
+    "code": "cr-jou3-616",
+    "index": 616
+  },
+  {
+    "surface": "エゴイスティック",
+    "reading": "egoistic",
+    "code": "cr-jou3-617",
+    "index": 617
+  },
+  {
+    "surface": "ファジィ",
+    "reading": "fuzzy",
+    "code": "cr-jou3-618",
+    "index": 618
+  },
+  {
+    "surface": "プリティ",
+    "reading": "pretty",
+    "code": "cr-jou3-619",
+    "index": 619
+  },
+  {
+    "surface": "マジメ",
+    "reading": "majime",
+    "code": "cr-jou3-620",
+    "index": 620
+  },
+  {
+    "surface": "強烈",
+    "reading": "kyouretsu",
+    "code": "cr-jou3-621",
+    "index": 621
+  },
+  {
+    "surface": "短め",
+    "reading": "mijikame",
+    "code": "cr-jou3-622",
+    "index": 622
+  },
+  {
+    "surface": "プラクティカル",
+    "reading": "practical",
+    "code": "cr-jou3-623",
+    "index": 623
+  },
+  {
+    "surface": "ウスノロ",
+    "reading": "usunoro",
+    "code": "cr-jou3-624",
+    "index": 624
+  },
+  {
+    "surface": "言葉少な",
+    "reading": "kotobazukuna",
+    "code": "cr-jou3-625",
+    "index": 625
+  },
+  {
+    "surface": "ナイーヴ",
+    "reading": "naive",
+    "code": "cr-jou3-626",
+    "index": 626
+  },
+  {
+    "surface": "クリーン",
+    "reading": "clean",
+    "code": "cr-jou3-627",
+    "index": 627
+  },
+  {
+    "surface": "ワイセツ",
+    "reading": "waisetsu",
+    "code": "cr-jou3-628",
+    "index": 628
+  },
+  {
+    "surface": "良好",
+    "reading": "ryoukou",
+    "code": "cr-jou3-629",
+    "index": 629
+  },
+  {
+    "surface": "シストリック",
+    "reading": "shisutorikku",
+    "code": "cr-jou3-630",
+    "index": 630
+  },
+  {
+    "surface": "ドロドロ",
+    "reading": "dorodoro",
+    "code": "cr-jou3-631",
+    "index": 631
+  },
+  {
+    "surface": "盛大",
+    "reading": "seidai",
+    "code": "cr-jou3-632",
+    "index": 632
+  },
+  {
+    "surface": "あたりまえ",
+    "reading": "atarimae",
+    "code": "cr-jou3-633",
+    "index": 633
+  },
+  {
+    "surface": "クレイジー",
+    "reading": "crazy",
+    "code": "cr-jou3-634",
+    "index": 634
+  },
+  {
+    "surface": "狡猾",
+    "reading": "koukatsu",
+    "code": "cr-jou3-635",
+    "index": 635
+  },
+  {
+    "surface": "アイロニカル",
+    "reading": "ironical",
+    "code": "cr-jou3-636",
+    "index": 636
+  },
+  {
+    "surface": "スムーズ",
+    "reading": "smooth",
+    "code": "cr-jou3-637",
+    "index": 637
+  },
+  {
+    "surface": "インモラル",
+    "reading": "immoral",
+    "code": "cr-jou3-638",
+    "index": 638
+  },
+  {
+    "surface": "ハツラツ",
+    "reading": "hatsuratsu",
+    "code": "cr-jou3-639",
+    "index": 639
+  },
+  {
+    "surface": "裕福",
+    "reading": "yuufuku",
+    "code": "cr-jou3-640",
+    "index": 640
+  },
+  {
+    "surface": "劣悪",
+    "reading": "retsuaku",
+    "code": "cr-jou3-641",
+    "index": 641
+  },
+  {
+    "surface": "勇敢",
+    "reading": "yuukan",
+    "code": "cr-jou3-642",
+    "index": 642
+  },
+  {
+    "surface": "安楽",
+    "reading": "anraku",
+    "code": "cr-jou3-643",
+    "index": 643
+  },
+  {
+    "surface": "未熟",
+    "reading": "mijuku",
+    "code": "cr-jou3-644",
+    "index": 644
+  },
+  {
+    "surface": "マニッシュ",
+    "reading": "mannish",
+    "code": "cr-jou3-645",
+    "index": 645
+  },
+  {
+    "surface": "まれ",
+    "reading": "mare",
+    "code": "cr-jou3-646",
+    "index": 646
+  },
+  {
+    "surface": "アクティヴ",
+    "reading": "active",
+    "code": "cr-jou3-647",
+    "index": 647
+  },
+  {
+    "surface": "たえだえ",
+    "reading": "taedae",
+    "code": "cr-jou3-648",
+    "index": 648
+  },
+  {
+    "surface": "トレンディ",
+    "reading": "trendy",
+    "code": "cr-jou3-649",
+    "index": 649
+  },
+  {
+    "surface": "そんな",
+    "reading": "sonna",
+    "code": "cr-jou3-650",
+    "index": 650
+  },
+  {
+    "surface": "クリエイティヴ",
+    "reading": "creative",
+    "code": "cr-jou3-651",
+    "index": 651
+  },
+  {
+    "surface": "コミカル",
+    "reading": "comical",
+    "code": "cr-jou3-652",
+    "index": 652
+  },
+  {
+    "surface": "強引",
+    "reading": "gouin",
+    "code": "cr-jou3-653",
+    "index": 653
+  },
+  {
+    "surface": "断固",
+    "reading": "danko",
+    "code": "cr-jou3-654",
+    "index": 654
+  },
+  {
+    "surface": "イチコロ",
+    "reading": "ichikoro",
+    "code": "cr-jou3-655",
+    "index": 655
+  },
+  {
+    "surface": "トピカル",
+    "reading": "topical",
+    "code": "cr-jou3-656",
+    "index": 656
+  },
+  {
+    "surface": "リッパ",
+    "reading": "rippa",
+    "code": "cr-jou3-657",
+    "index": 657
+  },
+  {
+    "surface": "ベター",
+    "reading": "better",
+    "code": "cr-jou3-658",
+    "index": 658
+  },
+  {
+    "surface": "リッチランド",
+    "reading": "richland",
+    "code": "cr-jou3-659",
+    "index": 659
+  },
+  {
+    "surface": "かんじん",
+    "reading": "kanjin",
+    "code": "cr-jou3-660",
+    "index": 660
+  },
+  {
+    "surface": "ビューティフル",
+    "reading": "beautiful",
+    "code": "cr-jou3-661",
+    "index": 661
+  },
+  {
+    "surface": "主要",
+    "reading": "shuyou",
+    "code": "cr-jou3-662",
+    "index": 662
+  },
+  {
+    "surface": "インテレクチュアル",
+    "reading": "intellectual",
+    "code": "cr-jou3-663",
+    "index": 663
+  },
+  {
+    "surface": "独自",
+    "reading": "dokuji",
+    "code": "cr-jou3-664",
+    "index": 664
+  },
+  {
+    "surface": "イージーゴーイング",
+    "reading": "easygoing",
+    "code": "cr-jou3-665",
+    "index": 665
+  },
+  {
+    "surface": "ハチャメチャ",
+    "reading": "hachamecha",
+    "code": "cr-jou3-666",
+    "index": 666
+  },
+  {
+    "surface": "こんな",
+    "reading": "konna",
+    "code": "cr-jou3-667",
+    "index": 667
+  },
+  {
+    "surface": "ビンビン",
+    "reading": "binbin",
+    "code": "cr-jou3-668",
+    "index": 668
+  },
+  {
+    "surface": "純粋",
+    "reading": "junsui",
+    "code": "cr-jou3-669",
+    "index": 669
+  },
+  {
+    "surface": "的確",
+    "reading": "tekikaku",
+    "code": "cr-jou3-670",
+    "index": 670
+  },
+  {
+    "surface": "スカスカ",
+    "reading": "sukasuka",
+    "code": "cr-jou3-671",
+    "index": 671
+  },
+  {
+    "surface": "ラピッドシティ",
+    "reading": "rapiddocity",
+    "code": "cr-jou3-672",
+    "index": 672
+  },
+  {
+    "surface": "センシブル",
+    "reading": "sensible",
+    "code": "cr-jou3-673",
+    "index": 673
+  },
+  {
+    "surface": "ブッキッシュ",
+    "reading": "bookish",
+    "code": "cr-jou3-674",
+    "index": 674
+  },
+  {
+    "surface": "シャイシャイ",
+    "reading": "shyshy",
+    "code": "cr-jou3-675",
+    "index": 675
+  },
+  {
+    "surface": "柔軟",
+    "reading": "juunan",
+    "code": "cr-jou3-676",
+    "index": 676
+  },
+  {
+    "surface": "重要",
+    "reading": "juuyou",
+    "code": "cr-jou3-677",
+    "index": 677
+  },
+  {
+    "surface": "シビアー",
+    "reading": "severe",
+    "code": "cr-jou3-678",
+    "index": 678
+  },
+  {
+    "surface": "鋭敏",
+    "reading": "eibin",
+    "code": "cr-jou3-679",
+    "index": 679
+  },
+  {
+    "surface": "クリエイティブ",
+    "reading": "creative",
+    "code": "cr-jou3-680",
+    "index": 680
+  },
+  {
+    "surface": "グニャグニャ",
+    "reading": "gunyagunya",
+    "code": "cr-jou3-681",
+    "index": 681
+  },
+  {
+    "surface": "ラジカル",
+    "reading": "radical",
+    "code": "cr-jou3-682",
+    "index": 682
+  },
+  {
+    "surface": "月並み",
+    "reading": "tsukinami",
+    "code": "cr-jou3-683",
+    "index": 683
+  },
+  {
+    "surface": "好き勝手",
+    "reading": "sukikatte",
+    "code": "cr-jou3-684",
+    "index": 684
+  },
+  {
+    "surface": "いびつ",
+    "reading": "ibitsu",
+    "code": "cr-jou3-685",
+    "index": 685
+  },
+  {
+    "surface": "トラディショナル",
+    "reading": "traditional",
+    "code": "cr-jou3-686",
+    "index": 686
+  },
+  {
+    "surface": "ラグジュアリー",
+    "reading": "luxury",
+    "code": "cr-jou3-687",
+    "index": 687
+  },
+  {
+    "surface": "リーズナブル",
+    "reading": "reasonable",
+    "code": "cr-jou3-688",
+    "index": 688
+  },
+  {
+    "surface": "デコラティブ",
+    "reading": "decorative",
+    "code": "cr-jou3-689",
+    "index": 689
+  },
+  {
+    "surface": "ファッショナブル",
+    "reading": "fashionable",
+    "code": "cr-jou3-690",
+    "index": 690
+  },
+  {
+    "surface": "懸命",
+    "reading": "kenmei",
+    "code": "cr-jou3-691",
+    "index": 691
+  },
+  {
+    "surface": "貴重",
+    "reading": "kichou",
+    "code": "cr-jou3-692",
+    "index": 692
+  },
+  {
+    "surface": "地味",
+    "reading": "jimi",
+    "code": "cr-jou3-693",
+    "index": 693
+  },
+  {
+    "surface": "適宜",
+    "reading": "tekigi",
+    "code": "cr-jou3-694",
+    "index": 694
+  },
+  {
+    "surface": "アトラクティブ",
+    "reading": "attractive",
+    "code": "cr-jou3-695",
+    "index": 695
+  },
+  {
+    "surface": "インフォーマル",
+    "reading": "informal",
+    "code": "cr-jou3-696",
+    "index": 696
+  },
+  {
+    "surface": "夢中",
+    "reading": "muchuu",
+    "code": "cr-jou3-697",
+    "index": 697
+  },
+  {
+    "surface": "トンデモ",
+    "reading": "tondemo",
+    "code": "cr-jou3-698",
+    "index": 698
+  },
+  {
+    "surface": "ジューシー",
+    "reading": "juicy",
+    "code": "cr-jou3-699",
+    "index": 699
+  },
+  {
+    "surface": "ぼう然",
+    "reading": "bouzen",
+    "code": "cr-jou3-700",
+    "index": 700
+  },
+  {
+    "surface": "チャーミング",
+    "reading": "charming",
+    "code": "cr-jou3-701",
+    "index": 701
+  },
+  {
+    "surface": "頑丈",
+    "reading": "ganjou",
+    "code": "cr-jou3-702",
+    "index": 702
+  },
+  {
+    "surface": "ティピカル",
+    "reading": "typical",
+    "code": "cr-jou3-703",
+    "index": 703
+  },
+  {
+    "surface": "すれすれ",
+    "reading": "suresure",
+    "code": "cr-jou3-704",
+    "index": 704
+  },
+  {
+    "surface": "コケティッシュ",
+    "reading": "coquettish",
+    "code": "cr-jou3-705",
+    "index": 705
+  },
+  {
+    "surface": "トリビアル",
+    "reading": "trivial",
+    "code": "cr-jou3-706",
+    "index": 706
+  },
+  {
+    "surface": "すてき",
+    "reading": "suteki",
+    "code": "cr-jou3-707",
+    "index": 707
+  },
+  {
+    "surface": "クリン",
+    "reading": "clean",
+    "code": "cr-jou3-708",
+    "index": 708
+  },
+  {
+    "surface": "優秀",
+    "reading": "yuushuu",
+    "code": "cr-jou3-709",
+    "index": 709
+  },
+  {
+    "surface": "アグレッシブ",
+    "reading": "aggressive",
+    "code": "cr-jou3-710",
+    "index": 710
+  },
+  {
+    "surface": "巧み",
+    "reading": "takumi",
+    "code": "cr-jou3-711",
+    "index": 711
+  },
+  {
+    "surface": "ブロークン",
+    "reading": "broken",
+    "code": "cr-jou3-712",
+    "index": 712
+  },
+  {
+    "surface": "陰険",
+    "reading": "inken",
+    "code": "cr-jou3-713",
+    "index": 713
+  },
+  {
+    "surface": "アンラッキー",
+    "reading": "unlucky",
+    "code": "cr-jou3-714",
+    "index": 714
+  },
+  {
+    "surface": "ペシミスティック",
+    "reading": "pessimistic",
+    "code": "cr-jou3-715",
+    "index": 715
+  },
+  {
+    "surface": "ちゃち",
+    "reading": "chachi",
+    "code": "cr-jou3-716",
+    "index": 716
+  },
+  {
+    "surface": "柔らか",
+    "reading": "yawaraka",
+    "code": "cr-jou3-717",
+    "index": 717
+  },
+  {
+    "surface": "ストイック",
+    "reading": "stoic",
+    "code": "cr-jou3-718",
+    "index": 718
+  },
+  {
+    "surface": "裏腹",
+    "reading": "urahara",
+    "code": "cr-jou3-719",
+    "index": 719
+  },
+  {
+    "surface": "鯔背",
+    "reading": "inase",
+    "code": "cr-jou3-720",
+    "index": 720
+  },
+  {
+    "surface": "巨大",
+    "reading": "kyodai",
+    "code": "cr-jou3-721",
+    "index": 721
+  },
+  {
+    "surface": "けんもほろろ",
+    "reading": "kenmohororo",
+    "code": "cr-jou3-722",
+    "index": 722
+  },
+  {
+    "surface": "謙虚",
+    "reading": "kenkyo",
+    "code": "cr-jou3-723",
+    "index": 723
+  },
+  {
+    "surface": "ホリゾンタル",
+    "reading": "horizontaru",
+    "code": "cr-jou3-724",
+    "index": 724
+  },
+  {
+    "surface": "手ごろ",
+    "reading": "tegoro",
+    "code": "cr-jou3-725",
+    "index": 725
+  },
+  {
+    "surface": "同様",
+    "reading": "douyou",
+    "code": "cr-jou3-726",
+    "index": 726
+  },
+  {
+    "surface": "丹念",
+    "reading": "tannen",
+    "code": "cr-jou3-727",
+    "index": 727
+  },
+  {
+    "surface": "ルーズ",
+    "reading": "loose",
+    "code": "cr-jou3-728",
+    "index": 728
+  },
+  {
+    "surface": "遥か",
+    "reading": "haruka",
+    "code": "cr-jou3-729",
+    "index": 729
+  },
+  {
+    "surface": "ショッキング",
+    "reading": "shocking",
+    "code": "cr-jou3-730",
+    "index": 730
+  },
+  {
+    "surface": "ガムシャラ",
+    "reading": "gamushara",
+    "code": "cr-jou3-731",
+    "index": 731
+  },
+  {
+    "surface": "フレンドリ",
+    "reading": "friendly",
+    "code": "cr-jou3-732",
+    "index": 732
+  },
+  {
+    "surface": "傍若",
+    "reading": "boujaku",
+    "code": "cr-jou3-733",
+    "index": 733
+  },
+  {
+    "surface": "整然",
+    "reading": "seizen",
+    "code": "cr-jou3-734",
+    "index": 734
+  },
+  {
+    "surface": "オッチョコチョイ",
+    "reading": "otchokochoi",
+    "code": "cr-jou3-735",
+    "index": 735
+  },
+  {
+    "surface": "強め",
+    "reading": "tsuyome",
+    "code": "cr-jou3-736",
+    "index": 736
+  },
+  {
+    "surface": "ブロークンアロー",
+    "reading": "brokenarrow",
+    "code": "cr-jou3-737",
+    "index": 737
+  },
+  {
+    "surface": "グルーミー",
+    "reading": "gloomy",
+    "code": "cr-jou3-738",
+    "index": 738
+  },
+  {
+    "surface": "おごそか",
+    "reading": "ogosoka",
+    "code": "cr-jou3-739",
+    "index": 739
+  },
+  {
+    "surface": "ダーティ",
+    "reading": "dirty",
+    "code": "cr-jou3-740",
+    "index": 740
+  },
+  {
+    "surface": "ノーブル",
+    "reading": "noble",
+    "code": "cr-jou3-741",
+    "index": 741
+  },
+  {
+    "surface": "大好き",
+    "reading": "daisuki",
+    "code": "cr-jou3-742",
+    "index": 742
+  },
+  {
+    "surface": "プリチー",
+    "reading": "pretty",
+    "code": "cr-jou3-743",
+    "index": 743
+  },
+  {
+    "surface": "リッチ",
+    "reading": "rich",
+    "code": "cr-jou3-744",
+    "index": 744
+  },
+  {
+    "surface": "ポッシブル",
+    "reading": "possible",
+    "code": "cr-jou3-745",
+    "index": 745
+  },
+  {
+    "surface": "ばらばら",
+    "reading": "barabara",
+    "code": "cr-jou3-746",
+    "index": 746
+  },
+  {
+    "surface": "メロメロ",
+    "reading": "meromero",
+    "code": "cr-jou3-747",
+    "index": 747
+  },
+  {
+    "surface": "着実",
+    "reading": "chakujitsu",
+    "code": "cr-jou3-748",
+    "index": 748
+  },
+  {
+    "surface": "横柄",
+    "reading": "ouhei",
+    "code": "cr-jou3-749",
+    "index": 749
+  },
+  {
+    "surface": "なおざり",
+    "reading": "naozari",
+    "code": "cr-jou3-750",
+    "index": 750
+  },
+  {
+    "surface": "速やか",
+    "reading": "sumiyaka",
+    "code": "cr-jou3-751",
+    "index": 751
+  },
+  {
+    "surface": "不屈",
+    "reading": "fukutsu",
+    "code": "cr-jou3-752",
+    "index": 752
+  },
+  {
+    "surface": "フォーマル",
+    "reading": "formal",
+    "code": "cr-jou3-753",
+    "index": 753
+  },
+  {
+    "surface": "コチコチ",
+    "reading": "kochikochi",
+    "code": "cr-jou3-754",
+    "index": 754
+  },
+  {
+    "surface": "ファンタジック",
+    "reading": "fantajikku",
+    "code": "cr-jou3-755",
+    "index": 755
+  },
+  {
+    "surface": "ドメスティック",
+    "reading": "domestic",
+    "code": "cr-jou3-756",
+    "index": 756
+  },
+  {
+    "surface": "ゆるやか",
+    "reading": "yuruyaka",
+    "code": "cr-jou3-757",
+    "index": 757
+  },
+  {
+    "surface": "センシュアル",
+    "reading": "sensual",
+    "code": "cr-jou3-758",
+    "index": 758
+  },
+  {
+    "surface": "単独",
+    "reading": "tandoku",
+    "code": "cr-jou3-759",
+    "index": 759
+  },
+  {
+    "surface": "きちょうめん",
+    "reading": "kichoumen",
+    "code": "cr-jou3-760",
+    "index": 760
+  },
+  {
+    "surface": "余り",
+    "reading": "amari",
+    "code": "cr-jou3-761",
+    "index": 761
+  },
+  {
+    "surface": "マヂ",
+    "reading": "mazi",
+    "code": "cr-jou3-762",
+    "index": 762
+  },
+  {
+    "surface": "率直",
+    "reading": "sotchoku",
+    "code": "cr-jou3-763",
+    "index": 763
+  },
+  {
+    "surface": "霊的",
+    "reading": "reiteki",
+    "code": "cr-jou3-764",
+    "index": 764
+  },
+  {
+    "surface": "ウヤムヤ",
+    "reading": "uyamuya",
+    "code": "cr-jou3-765",
+    "index": 765
+  },
+  {
+    "surface": "センチ",
+    "reading": "sentimental",
+    "code": "cr-jou3-766",
+    "index": 766
+  },
+  {
+    "surface": "スローモー",
+    "reading": "suroomoo",
+    "code": "cr-jou3-767",
+    "index": 767
+  },
+  {
+    "surface": "小粋",
+    "reading": "koiki",
+    "code": "cr-jou3-768",
+    "index": 768
+  },
+  {
+    "surface": "ヒステリック",
+    "reading": "hysteric",
+    "code": "cr-jou3-769",
+    "index": 769
+  },
+  {
+    "surface": "ファミリア",
+    "reading": "familiar",
+    "code": "cr-jou3-770",
+    "index": 770
+  },
+  {
+    "surface": "多め",
+    "reading": "oome",
+    "code": "cr-jou3-771",
+    "index": 771
+  },
+  {
+    "surface": "シビア",
+    "reading": "severe",
+    "code": "cr-jou3-772",
+    "index": 772
+  },
+  {
+    "surface": "正式",
+    "reading": "seishiki",
+    "code": "cr-jou3-773",
+    "index": 773
+  },
+  {
+    "surface": "はつらつ",
+    "reading": "hatsuratsu",
+    "code": "cr-jou3-774",
+    "index": 774
+  },
+  {
+    "surface": "身勝手",
+    "reading": "migatte",
+    "code": "cr-jou3-775",
+    "index": 775
+  },
+  {
+    "surface": "グローバル",
+    "reading": "global",
+    "code": "cr-jou3-776",
+    "index": 776
+  },
+  {
+    "surface": "円滑",
+    "reading": "enkatsu",
+    "code": "cr-jou3-777",
+    "index": 777
+  },
+  {
+    "surface": "チンケ",
+    "reading": "chinke",
+    "code": "cr-jou3-778",
+    "index": 778
+  },
+  {
+    "surface": "見事",
+    "reading": "migoto",
+    "code": "cr-jou3-779",
+    "index": 779
+  },
+  {
+    "surface": "気短か",
+    "reading": "kimijika",
+    "code": "cr-jou3-780",
+    "index": 780
+  },
+  {
+    "surface": "ドレッシー",
+    "reading": "dressy",
+    "code": "cr-jou3-781",
+    "index": 781
+  },
+  {
+    "surface": "したたか",
+    "reading": "shitataka",
+    "code": "cr-jou3-782",
+    "index": 782
+  },
+  {
+    "surface": "劇的",
+    "reading": "gekiteki",
+    "code": "cr-jou3-783",
+    "index": 783
+  },
+  {
+    "surface": "滑らか",
+    "reading": "nameraka",
+    "code": "cr-jou3-784",
+    "index": 784
+  },
+  {
+    "surface": "大幅",
+    "reading": "oohaba",
+    "code": "cr-jou3-785",
+    "index": 785
+  },
+  {
+    "surface": "マジ",
+    "reading": "maji",
+    "code": "cr-jou3-786",
+    "index": 786
+  },
+  {
+    "surface": "ダル・ナイム",
+    "reading": "dullnaimu",
+    "code": "cr-jou3-787",
+    "index": 787
+  },
+  {
+    "surface": "モニュメンタル",
+    "reading": "monumental",
+    "code": "cr-jou3-788",
+    "index": 788
+  },
+  {
+    "surface": "気楽",
+    "reading": "kiraku",
+    "code": "cr-jou3-789",
+    "index": 789
+  },
+  {
+    "surface": "微か",
+    "reading": "kasuka",
+    "code": "cr-jou3-790",
+    "index": 790
+  },
+  {
+    "surface": "メロウ",
+    "reading": "mellow",
+    "code": "cr-jou3-791",
+    "index": 791
+  },
+  {
+    "surface": "過激",
+    "reading": "kageki",
+    "code": "cr-jou3-792",
+    "index": 792
+  },
+  {
+    "surface": "ズタズタ",
+    "reading": "zutazuta",
+    "code": "cr-jou3-793",
+    "index": 793
+  },
+  {
+    "surface": "ビミョー",
+    "reading": "bimyou",
+    "code": "cr-jou3-794",
+    "index": 794
+  },
+  {
+    "surface": "邪険",
+    "reading": "jaken",
+    "code": "cr-jou3-795",
+    "index": 795
+  },
+  {
+    "surface": "カスカス",
+    "reading": "kasukasu",
+    "code": "cr-jou3-796",
+    "index": 796
+  },
+  {
+    "surface": "自分勝手",
+    "reading": "jibunkatte",
+    "code": "cr-jou3-797",
+    "index": 797
+  },
+  {
+    "surface": "有力",
+    "reading": "yuuryoku",
+    "code": "cr-jou3-798",
+    "index": 798
+  },
+  {
+    "surface": "デモクラチック",
+    "reading": "democratic",
+    "code": "cr-jou3-799",
+    "index": 799
+  },
+  {
+    "surface": "狂暴",
+    "reading": "kyoubou",
+    "code": "cr-jou3-800",
+    "index": 800
+  },
+  {
+    "surface": "甘美",
+    "reading": "kanbi",
+    "code": "cr-jou3-801",
+    "index": 801
+  },
+  {
+    "surface": "ぺこぺこ",
+    "reading": "pekopeko",
+    "code": "cr-jou3-802",
+    "index": 802
+  },
+  {
+    "surface": "リッチフィールド",
+    "reading": "richfield",
+    "code": "cr-jou3-803",
+    "index": 803
+  },
+  {
+    "surface": "ノンキ",
+    "reading": "nonki",
+    "code": "cr-jou3-804",
+    "index": 804
+  },
+  {
+    "surface": "プリミティヴ",
+    "reading": "primitive",
+    "code": "cr-jou3-805",
+    "index": 805
+  },
+  {
+    "surface": "モテモテ",
+    "reading": "motemote",
+    "code": "cr-jou3-806",
+    "index": 806
+  },
+  {
+    "surface": "シリアス",
+    "reading": "serious",
+    "code": "cr-jou3-807",
+    "index": 807
+  },
+  {
+    "surface": "ジオメトリック",
+    "reading": "jiometorikku",
+    "code": "cr-jou3-808",
+    "index": 808
+  },
+  {
+    "surface": "当然",
+    "reading": "touzen",
+    "code": "cr-jou3-809",
+    "index": 809
+  },
+  {
+    "surface": "ドラマチック",
+    "reading": "dramatic",
+    "code": "cr-jou3-810",
+    "index": 810
+  },
+  {
+    "surface": "インタプリティブ",
+    "reading": "interpretive",
+    "code": "cr-jou3-811",
+    "index": 811
+  },
+  {
+    "surface": "ぴったり",
+    "reading": "pittari",
+    "code": "cr-jou3-812",
+    "index": 812
+  },
+  {
+    "surface": "うやむや",
+    "reading": "uyamuya",
+    "code": "cr-jou3-813",
+    "index": 813
+  },
+  {
+    "surface": "だいじょうぶ",
+    "reading": "daijoubu",
+    "code": "cr-jou3-814",
+    "index": 814
+  },
+  {
+    "surface": "真っ暗",
+    "reading": "makkura",
+    "code": "cr-jou3-815",
+    "index": 815
+  },
+  {
+    "surface": "不当",
+    "reading": "futou",
+    "code": "cr-jou3-816",
+    "index": 816
+  },
+  {
+    "surface": "公然",
+    "reading": "kouzen",
+    "code": "cr-jou3-817",
+    "index": 817
+  },
+  {
+    "surface": "デラックス",
+    "reading": "deluxe",
+    "code": "cr-jou3-818",
+    "index": 818
+  },
+  {
+    "surface": "キレイ",
+    "reading": "kirei",
+    "code": "cr-jou3-819",
+    "index": 819
+  },
+  {
+    "surface": "サイバー",
+    "reading": "cyber",
+    "code": "cr-jou3-820",
+    "index": 820
+  },
+  {
+    "surface": "チャチ",
+    "reading": "chachi",
+    "code": "cr-jou3-821",
+    "index": 821
+  },
+  {
+    "surface": "ユニヴァーサル",
+    "reading": "universal",
+    "code": "cr-jou3-822",
+    "index": 822
+  },
+  {
+    "surface": "滅多",
+    "reading": "metta",
+    "code": "cr-jou3-823",
+    "index": 823
+  },
+  {
+    "surface": "ヤワ",
+    "reading": "yawa",
+    "code": "cr-jou3-824",
+    "index": 824
+  },
+  {
+    "surface": "曖昧",
+    "reading": "aimai",
+    "code": "cr-jou3-825",
+    "index": 825
+  },
+  {
+    "surface": "偉大",
+    "reading": "idai",
+    "code": "cr-jou3-826",
+    "index": 826
+  },
+  {
+    "surface": "忠実",
+    "reading": "chuujitsu",
+    "code": "cr-jou3-827",
+    "index": 827
+  },
+  {
+    "surface": "ほがらか",
+    "reading": "hogaraka",
+    "code": "cr-jou3-828",
+    "index": 828
+  },
+  {
+    "surface": "セクシー",
+    "reading": "sexy",
+    "code": "cr-jou3-829",
+    "index": 829
+  },
+  {
+    "surface": "特別",
+    "reading": "tokubetsu",
+    "code": "cr-jou3-830",
+    "index": 830
+  },
+  {
+    "surface": "フレンドリー",
+    "reading": "friendly",
+    "code": "cr-jou3-831",
+    "index": 831
+  }
+]

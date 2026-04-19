@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ワードセット・クリーンルーム計画用ブリーフ</title>
+  <style>
+    :root { color-scheme: light; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 2rem 1.25rem 4rem;
+      font-family: system-ui, "Segoe UI", "Hiragino Sans", "Yu Gothic UI", YuGothic, Meiryo, sans-serif;
+      font-size: 16px;
+      line-height: 1.7;
+      color: #161616;
+      background: #f6f5f3;
+    }
+    .sheet {
+      max-width: 40rem;
+      margin: 0 auto;
+      background: #fff;
+      padding: 2rem 1.75rem 2.5rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 24px rgba(0,0,0,.06);
+    }
+    .meta {
+      font-size: 0.8rem;
+      color: #555;
+      margin-bottom: 1.5rem;
+      padding: 0.75rem 1rem;
+      background: #f0f4f8;
+      border-radius: 8px;
+      border: 1px solid #d8e0ea;
+    }
+    .sheet :first-child { margin-top: 0; }
+    h1 { font-size: 1.45rem; line-height: 1.35; margin: 0 0 1rem; }
+    h2 { font-size: 1.15rem; margin: 2rem 0 0.75rem; border-bottom: 1px solid #e2e2e2; padding-bottom: 0.35rem; }
+    h3 { font-size: 1rem; margin: 1.35rem 0 0.5rem; }
+    blockquote {
+      margin: 1rem 0;
+      padding: 0.75rem 1rem;
+      border-left: 4px solid #3b6ea5;
+      background: #f7fafc;
+    }
+    table { width: 100%; border-collapse: collapse; font-size: 0.92rem; margin: 0.75rem 0; }
+    th, td { border: 1px solid #ccc; padding: 0.45rem 0.55rem; text-align: left; vertical-align: top; }
+    th { background: #f0f0f0; font-weight: 600; }
+    code { font-family: ui-monospace, "Cascadia Code", Consolas, monospace; font-size: 0.88em; background: #f1f1f1; padding: 0.12em 0.35em; border-radius: 4px; }
+    pre code { display: block; padding: 0.75rem; overflow-x: auto; }
+    hr { border: none; border-top: 1px solid #ddd; margin: 1.5rem 0; }
+    ul, ol { padding-left: 1.35rem; }
+    li { margin: 0.25rem 0; }
+    @media print {
+      body { background: #fff; padding: 0; }
+      .sheet { box-shadow: none; max-width: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="sheet">
+    <p class="meta"><strong>生成物:</strong> SNS 用の縦長キャプチャ向けに <code>planning-handoff-brief.md</code> を HTML 化したものです（内側の <code>```markdown</code> フェンスは展開済みのソースから <code>npx marked</code> で変換）。ブラウザで開き、ズーム 100% 前後で縦スクロールキャプチャしてください。再生成手順は <code>planning-handoff-brief.md</code> 末尾の「HTML 版」節を参照。</p><h1>ワードセット・クリーンルーム計画用ブリーフ（強推論モデル向け）</h1>
+<blockquote>
+<p><strong>注釈:</strong> 本書はチャット上で「一時的なハンドオフ用プロンプト」として起草されたブリーフを、参照・共有のため <strong>リポジトリに永続化</strong>したものです。法解釈やライセンス判断の正典ではなく、設計議論の出発点として扱ってください。事実と手順はコミット時点の <code>docs/re/*</code> およびコードに従い、乖離があればそちらを優先してください。</p>
+</blockquote>
+<p>以下を、そのまま強い推論モデルへの<strong>システム／ユーザ統合プロンプト</strong>（または先頭に貼る<strong>コンテキスト注入</strong>）として使える形にまとめています。</p>
+<hr>
+<h2>プロンプト（コピー用）</h2>
+<h1>コンテキスト: タイプウェル国語Ｒ Web クローン — ワードセット「クリーンルーム」計画用ブリーフ</h1>
+<p>あなたは、このリポジトリ上で<strong>ワードセットのクリーンルーム化</strong>に向けた<strong>設計・リスク・手順・検証指標</strong>を計画するシニアアーキテクト兼プロダクト技術顧問として振る舞ってください。以下は<strong>プロジェクト背景・目的・現状・データ構造・権利上の制約・クリーンルームの意図</strong>のブリーフです。不明点は明示的に列挙し、前提を置く場合はラベル付きで置いてください。</p>
+<hr>
+<h2>1. リポジトリと作業場所</h2>
+<ul>
+<li><strong>製品名（npm）:</strong> <code>typewell-jr-clone</code>（private monorepo）。</li>
+<li><strong>構成:</strong> <code>packages/*</code>（コアは <code>@typewell-jr/engine</code>）、<code>apps/*</code>（<code>apps/web</code> = Next.js 系 Web UI）。</li>
+<li><strong>リモート例:</strong> <code>origin</code> → GitHub <code>yokiikoy/twell-clone</code>（名称は環境依存でよい）。</li>
+<li><strong>本ブリーフ想定の作業ツリー:</strong> 本体クローンと<strong>兄弟ディレクトリ</strong>の <strong>Git worktree</strong>（例: <code>…/type-cleanroom</code>）、ブランチ例: <code>chore/wordset-cleanroom</code>。本体と<strong>オブジェクトDBは共有</strong>、<strong>作業ディレクトリとチェックアウトブランチは分離</strong>。</li>
+</ul>
+<hr>
+<h2>2. プロジェクトの背景と目的（非正典だが優先判断の根拠）</h2>
+<p>一次資料: <code>docs/re/web-reproduction-roadmap.md</code>。</p>
+<p><strong>動機（プロダクトが「Web サービスとして補完したい」軸）:</strong></p>
+<ol>
+<li><strong>期間を問わない全期間の実力番付</strong> — 短期イベントではなく、累積序列がコミュニティの共通言語になる土台。</li>
+<li><strong>単語系で数十秒を超える打鍵</strong> — 持久・集中・ローマ経路の安定。国語Ｒ相当の <strong>400 確定ストローク</strong>試行が体験の核に近い。</li>
+<li><strong>長期不変のワードセットに基づく競技環境</strong> — 何年も変わらない<strong>同一ワードセット</strong>がパターナリティとコミュニティ横断の普遍基準を生む一方、<strong>権利・クリーンルーム</strong>とトレードオフになり得るため、<strong>参照系の持続可能性</strong>は別方針で管理する、と明文化されている。</li>
+</ol>
+<p><strong>VB デコンパイル出力だけで上記を完結できるか（文書上の結論）:</strong></p>
+<ul>
+<li><strong>挙動再現・試行体験</strong>には寄与するが、目的全体を「デコンパイラ出力物だけ」で完結させることは<strong>できない</strong>と整理されている。</li>
+<li>特に <strong>(3) 普遍ワードセット:</strong> デコンパイル由来データは<strong>供出パイプラインの理解・移行・検証</strong>には使えるが、<strong>コミュニティが何年も同じ土俵を使う権利上持続可能な語表</strong>は <strong>クリーンルーム・コーパス・許諾の別レーン</strong>。</li>
+</ul>
+<p><strong>北極星（技術）:</strong> 挙動・データの<strong>可能な限り公式一致</strong>（L4 志向）。ただし <strong>UI はセマンティック一致で可</strong>、<strong>権利は語リスト・ブランド・配布を別途文書化してから</strong>、と制約表がある。</p>
+<hr>
+<h2>3. 「クリーンルーム化」の意図（この文脈での意味）</h2>
+<p>ロードマップ上の記述に沿うと:</p>
+<ul>
+<li><strong>目的:</strong> 第三者著作・出荷物由来の文字列を<strong>そのまま再配布・恒久的競技用コーパス</strong>として載せない前提で、<strong>統計・特徴・公開コーパス等から「ほぼ同じ」語セットを再構成</strong>するプロセスを確立したい。</li>
+<li><strong>トレードオフ:</strong> 本家と<strong>ビット一致の同一語表</strong>は捨てる／別ゲートにする代わりに、<strong>長期同一セット・再配布可能性・説明責任</strong>を取りにいく。</li>
+<li><strong>エンジニアリング上の住み分け（推奨イメージ）:</strong><ul>
+<li><strong>レーン A（解析・回帰・互換検証）:</strong> デコンパイル由来抽出物（現状の <code>twelljr-*.json</code> パイプライン）。<strong>リポジトリ内外での再配布はライセンス未確定</strong>として扱う。</li>
+<li><strong>レーン B（公開プロダクト・競技用恒久セット）:</strong> クリーンルーム生成または<strong>自著・許諾済みコーパス</strong>のみ。本家語表の<strong>逐語コピー</strong>をしない設計原則を明文化。</li>
+</ul>
+</li>
+</ul>
+<p>※「クリーンルーム」の法学的定義まではこのブリーフは断定しない。<strong>プロダクト要件としての clean rebuild</strong>として計画せよ。</p>
+<hr>
+<h2>4. 現状のワードセット構成（技術）</h2>
+<h3>4.1 ソース（本家寄せの解析経路）</h3>
+<ul>
+<li><strong>ローカルのみ（Git 未収録想定）:</strong> <code>twjrdecomp/*.bas</code> — VB Decompiler 等の<strong>解析用 IR</strong>。README 方針では <strong>push しない</strong>。</li>
+<li><strong>抽出の考え方:</strong> <code>LitStr</code> を CP932 前提で読み、(日本語表層)(ローマ字)(内部コード) の <strong>triple</strong> としてスキャン（<code>Kan*</code> は連続ローマ字で表記揺れ吸収等）。<strong>完全 pcode 再現ではない</strong>（位相ずれ防止・Web 辞書用）。</li>
+<li><strong>一括再生成:</strong> <code>npm run extract:wordlists:all -w @typewell-jr/engine</code> → <code>packages/engine/scripts/extract-all-decomp-wordlists.ts</code>。</li>
+</ul>
+<h3>4.2 対象 BAS ステム（11 ファイル = 11 デッキ）</h3>
+<p><code>extract-all-decomp-wordlists.ts</code> の <code>STEMS</code>:</p>
+<ul>
+<li><strong>基本常用:</strong> <code>Jou1</code>, <code>Jou2</code>, <code>Jou3</code></li>
+<li><strong>漢字:</strong> <code>Kan1</code>, <code>Kan2</code>, <code>Kan3</code></li>
+<li><strong>カタカナ:</strong> <code>Kata1</code>, <code>Kata2</code>, <code>Kata3</code></li>
+<li><strong>慣用句・ことわざ:</strong> <code>Koto1</code>, <code>Koto2</code></li>
+</ul>
+<p>各ステムから triple 列を取り、次の<strong>二系統</strong>に書き出す:</p>
+<ol>
+<li><strong>envelope:</strong> <code>packages/engine/wordlists-from-decomp/envelope/{Stem}.json</code>（<code>schemaVersion</code>, <code>source</code>, <code>count</code>, <code>triples[]</code> + <code>index</code>）</li>
+<li><strong>web 配列:</strong> <code>packages/engine/wordlists-from-decomp/web-array/{Stem}.json</code> および <strong><code>apps/web/public/twelljr-{jou1|…}.json</code></strong>（<strong>JSON 配列のみ</strong>: <code>surface</code>, <code>reading</code>, <code>code</code>, <code>index</code>）</li>
+</ol>
+<h3>4.3 エンジン上の型（ランタイム辞書）</h3>
+<p><code>packages/engine/src/types.ts</code>:</p>
+<ul>
+<li><code>GameMode</code>: <code>&quot;kihon&quot; | &quot;katakana&quot; | &quot;kanji&quot; | &quot;kanyoku&quot;</code>（<strong>4 つ</strong>）</li>
+<li><code>WordEntry</code>: <code>surface</code>, <code>reading</code>（ASCII ローマ字）、<code>typingKana</code>（<strong>emiel 打鍵ターゲット用ひらがな</strong>）、<code>mode</code>, 任意で <code>sourceDeck?: 1|2|3</code>（合成出題の重み付け）</li>
+</ul>
+<p><strong>Web の public JSON には <code>typingKana</code> が無い</strong>ことが多く、<code>jouTriplesToWordEntries</code> が <code>reading</code> と <code>surface</code> から補完する。</p>
+<h3>4.4 Web UI 側の「デッキ ID」と <code>GameMode</code> の対応</h3>
+<p><code>apps/web/src/components/TypingCanvas.tsx</code> の <code>DECKS</code>:</p>
+<table>
+<thead>
+<tr>
+<th>デッキ ID</th>
+<th>JSON URL</th>
+<th><code>GameMode</code></th>
+<th>UI グループ</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>jou1–3</td>
+<td><code>/twelljr-jou1.json</code> …</td>
+<td><code>kihon</code></td>
+<td>基本常用</td>
+</tr>
+<tr>
+<td>kan1–3</td>
+<td><code>/twelljr-kan*.json</code></td>
+<td><code>kanji</code></td>
+<td>漢字</td>
+</tr>
+<tr>
+<td>kata1–3</td>
+<td><code>/twelljr-kata*.json</code></td>
+<td><code>katakana</code></td>
+<td>カタカナ</td>
+</tr>
+<tr>
+<td>koto1–2</td>
+<td><code>/twelljr-koto*.json</code></td>
+<td><code>kanyoku</code></td>
+<td>慣用</td>
+</tr>
+</tbody></table>
+<p><strong>「BAS ファイル名（Jou/Kan/Kata/Koto + 番号）」と「GameMode」は別次元。</strong> 同一 <code>GameMode</code> 内で <strong>複数デッキ</strong>があり、<code>sourceDeck</code> と <strong><code>MERGED_WEIGHTS_*</code></strong> で合成試行する。</p>
+<p>合成タブの重み（<code>packages/engine/src/wordPicker.ts</code>）:</p>
+<ul>
+<li><strong>kihon（Jou1–3）:</strong> 約 <strong>2:2:1</strong></li>
+<li><strong>katakana / kanji（各 3 デッキ）:</strong> <strong>1:1:1</strong></li>
+<li><strong>kanyoku（Koto1–2）:</strong> <strong>1:1</strong></li>
+</ul>
+<h3>4.5 Jou1 表層の「漢字化」補助レイヤ（注意）</h3>
+<p><code>npm run extract:jou:web</code> パスでは <code>enrich-jou1-with-kanji-surfaces.mjs</code> が走り得る。<strong>本家 pcode から RE した公式漢字表記ではない</strong>（<code>Kan*</code> 一意照合 + Jisho ヒューリスティック）。<strong>公式 UI 表層との完全一致ゴールデンと混同しない</strong>こと、とパイプライン文書に明記。</p>
+<h3>4.6 試行モデル（Web）</h3>
+<ul>
+<li><strong>400 = 確定ストローク数</strong>（emiel の <code>finishedStroke.length</code>）。本家は別基準だったが Web は <strong>Mozc 系曖昧入力優先</strong>のためこの定義を採用、ロードマップに記載。</li>
+<li>ターゲットかな列は <strong><code>WordEntry.typingKana</code> を語間スペースで連結</strong>したものが中核。</li>
+</ul>
+<h3>4.7 その他の語ソース（補助）</h3>
+<ul>
+<li><strong>DetailLog / Detail.txt:</strong> 表層語とキー列からペア推定可能。<code>docs/spec/behavior-baseline.md</code>、<code>scripts/dictionary/parse-detail-log.ts</code>。<strong>ログの再配布は OSS にそのまま載せない</strong>前提の記述あり。</li>
+<li><strong>手書きスキーマ例:</strong> <code>scripts/dictionary/word-list.schema.json</code>（MVP 用 <code>WordListFile</code> 風）。</li>
+</ul>
+<hr>
+<h2>5. 権利・運用ゲート（現状ドキュメントが言っていること）</h2>
+<ul>
+<li><code>packages/engine/wordlists-from-decomp/README.md</code> / <code>twelljr-data-pipeline.md</code>: <strong>著作権・利用許諾は利用者判断</strong>、再配布可否は未確定前提。</li>
+<li>フェーズ B の「最小 Done」から <strong>語リストの Web 同梱・本家画面完全一致ゴールデン</strong>は<strong>ライセンス確定まで保留</strong>と明記。</li>
+<li><code>docs/re/binary-inventory.md</code>: クローンの推奨パスとして (1) 自分の DetailLog から JSON をbootstrap (2) 自著リスト (3) ローカル VB Decompiler 等。<strong>エクスポート一式は push しない</strong>。</li>
+</ul>
+<hr>
+<h2>6. クリーンルーム計画で答えてほしい問い（出力してほしいもの）</h2>
+<ol>
+<li><strong>レーン分離モデル:</strong> 解析用データと公開用データを<strong>どのディレクトリ・パッケージ・ビルドフラグ</strong>で分離するか（単一リポジトリ内での二層化 vs 別リポジトリ）。</li>
+<li><strong>「同じ土俵」の定義:</strong> 長期固定セットの<strong>凍結単位</strong>（モード別か、合成か、ストローク分布か、難易度バンドか）。</li>
+<li><strong>再構成戦略:</strong> 公開コーパス（例: 辞書・CC 語料・自作）から、<strong>長さ分布・文字種・読み長・語彙帯・モード別件数</strong>などどの<strong>統計指標</strong>で本家セットに「近さ」を定義するか。<strong>逐語一致を目指さない</strong>前提で妥当性を論じること。</li>
+<li><strong>検証:</strong> 何を<strong>自動テスト</strong>し、何を<strong>人間監査</strong>（ヘビーユーザ）に残すか。既存の <code>WordEntry</code> / <code>GameMode</code> / 合成重みとの<strong>互換レイヤ</strong>はどう保つか。</li>
+<li><strong>移行:</strong> 既存 <code>apps/web/public/twelljr-*.json</code> 利用者・開発者向けの<strong>移行パス</strong>（feature flag、URL、ドキュメント）。</li>
+<li><strong>リスク表:</strong> 著作権、商標、「公式と誤認される表現」、競技公平性（語の偏り）、<strong>チート容易性</strong>（ロードマップがプレーンテキスト表層のリスクに言及）を整理。</li>
+</ol>
+<p>回答は<strong>箇条書き中心でよいが、各推奨案には根拠とトレードオフ</strong>を必ず添えること。実装タスクに落とす場合は<strong>マイルストーン順</strong>に並べよ。</p>
+<hr>
+<h2>人間向けの補足</h2>
+<ul>
+<li>このブリーフは <strong>cleanroom worktree の実ファイルと既存ドキュメントの要約</strong>であり、法律判断や「クリーンルーム」用語の厳密な法定義は含めていません。必要なら弁護士レビューを計画に含めてください。</li>
+<li>一次資料に更新があった場合は、本ファイルより <strong><code>docs/re/web-reproduction-roadmap.md</code></strong> 等を正として追随してください。</li>
+</ul>
+  </div>
+</body>
+</html>

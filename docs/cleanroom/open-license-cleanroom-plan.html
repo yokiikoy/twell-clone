@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>クリーンルーム語表（オープンライセンス）— 実装計画</title>
+  <style>
+    :root { color-scheme: light; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 2rem 1.25rem 4rem;
+      font-family: system-ui, "Segoe UI", "Hiragino Sans", "Yu Gothic UI", YuGothic, Meiryo, sans-serif;
+      font-size: 16px;
+      line-height: 1.7;
+      color: #161616;
+      background: #f6f5f3;
+    }
+    .sheet {
+      max-width: 40rem;
+      margin: 0 auto;
+      background: #fff;
+      padding: 2rem 1.75rem 2.5rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 24px rgba(0,0,0,.06);
+    }
+    .meta {
+      font-size: 0.8rem;
+      color: #555;
+      margin-bottom: 1.5rem;
+      padding: 0.75rem 1rem;
+      background: #f0f4f8;
+      border-radius: 8px;
+      border: 1px solid #d8e0ea;
+    }
+    .sheet .doc :first-child { margin-top: 0; }
+    .doc h1 { font-size: 1.45rem; line-height: 1.35; margin: 0 0 1rem; }
+    .doc h2 { font-size: 1.15rem; margin: 2rem 0 0.75rem; border-bottom: 1px solid #e2e2e2; padding-bottom: 0.35rem; }
+    .doc h3 { font-size: 1rem; margin: 1.35rem 0 0.5rem; }
+    .doc table { width: 100%; border-collapse: collapse; font-size: 0.92rem; margin: 0.75rem 0; }
+    .doc th, .doc td { border: 1px solid #ccc; padding: 0.45rem 0.55rem; text-align: left; vertical-align: top; }
+    .doc th { background: #f0f0f0; font-weight: 600; }
+    .doc code { font-family: ui-monospace, "Cascadia Code", Consolas, monospace; font-size: 0.88em; background: #f1f1f1; padding: 0.12em 0.35em; border-radius: 4px; }
+    .doc pre { background: #f7f7f7; border: 1px solid #e0e0e0; border-radius: 8px; padding: 0.75rem 1rem; overflow-x: auto; font-size: 0.82rem; }
+    .doc pre code { background: transparent; padding: 0; display: block; white-space: pre; }
+    .doc hr { border: none; border-top: 1px solid #ddd; margin: 1.5rem 0; }
+    .doc ul, .doc ol { padding-left: 1.35rem; }
+    .doc li { margin: 0.25rem 0; }
+    @media print {
+      body { background: #fff; padding: 0; }
+      .sheet { box-shadow: none; max-width: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="sheet">
+    <p class="meta"><strong>生成物:</strong> Cursor 計画 <code>cc0_cleanroom_wordset_e3af8a54.plan.md</code>（YAML フロントマター除く）を <code>npx marked</code> で HTML 化。mermaid 節はコードブロックのまま。SNS 用に縦スクロールキャプチャ可。</p>
+    <div class="doc"><h1>クリーンルーム語表（オープンライセンス）— アーキテクチャとリスク（計画）</h1>
+<h2>前提（受領した決定事項）</h2>
+<ul>
+<li><strong>出力ライセンス（更新）:</strong> クリーンルーム語表の配布形態は <strong>CC0 に限定しない</strong>。<strong>ライセンスを明記し、再配布・商用利用可能なオープンライセンス</strong>であればよい。<strong>CC-BY-SA でも可</strong>。プロダクトは本格商用ではなく、<strong>コミュニティの投げ銭・サーバー維持費・開発ツール費用</strong>程度のマネタイズを想定するため、<strong>帰表示・SA 義務</strong>（BY-SA の場合）を UI / <code>LICENSE</code> / <code>CORPUS_MANIFEST.json</code> で満たせる設計にする。</li>
+<li><strong>入力コーパス:</strong> パブリックドメイン、<strong>CC0</strong>、<strong>CC-BY</strong>、<strong>CC-BY-SA</strong> 等、<strong>マニフェストに出典・バージョン・条項リンクを残せるもの</strong>を採用可。BCCWJ 等 <strong>利用規約でリスト再配布が禁じられる</strong>ものは引き続き不可。Wikipedia / Wiktionary 由来を使う場合は、BY（帰属）および SA（改変物の同ライセンス継承）を満たす運用（生成物のライセンス選定、クレジット画面、リポジトリ <code>NOTICE</code>）を <strong>アーキテクチャの必須要件</strong>とする。</li>
+<li><strong>「近さ」:</strong> 打鍵プロファイルではなく <strong>単語ベクトル空間での近さ</strong>（モード／デッキ別の重心や分布に対するコサイン類似度など）。</li>
+<li><strong>品質:</strong> <strong>SudachiPy</strong> の <code>normalized_form</code> 等を用い、<strong>異表記同義</strong>と <strong>同表記異読</strong>を方針どおり複合キーで排除。モード間重複は <strong>要件としてスコープをモード内に限定</strong>（本家模倣ならモードごとに独立 Set）。</li>
+</ul>
+<p>既存の語ランタイム形状は <a href="c:%5CUsers%5Chotwa%5Cdev%5Ctype-cleanroom%5Cpackages%5Cengine%5Csrc%5Ctypes.ts">packages/engine/src/types.ts</a> の <code>WordEntry</code>（<code>surface</code>, <code>reading</code>, <code>typingKana</code>, <code>mode</code>, <code>sourceDeck?</code>）および Web の <code>public/twelljr-*.json</code>（<code>surface</code>, <code>reading</code>, <code>code</code>, <code>index</code>）が正。消費側は <a href="c:%5CUsers%5Chotwa%5Cdev%5Ctype-cleanroom%5Capps%5Cweb%5Csrc%5Ccomponents%5CTypingCanvas.tsx">apps/web/src/components/TypingCanvas.tsx</a> の <code>DECKS</code> / <code>MERGED_SPECS</code> と <a href="c:%5CUsers%5Chotwa%5Cdev%5Ctype-cleanroom%5Cpackages%5Cengine%5Csrc%5Ctwelljr%5CjouSample.ts">packages/engine/src/twelljr/jouSample.ts</a> の <code>jouTriplesToWordEntries</code>。</p>
+<hr>
+<h2>アーキテクチャ（二レーン＋オフラインビルド）</h2>
+<pre><code class="language-mermaid">flowchart LR
+  subgraph laneA [LaneA_localOnly]
+    bas[twjrdecomp_bas]
+    extract[extract_wordlists]
+    jsonA[twelljr_star_json]
+  end
+  subgraph laneB [LaneB_open_build]
+    corpus[OpenLicensedCorpus]
+    sudachi[SudachiPy_tokenize]
+    master[word_master_table]
+    embed[embedding_model]
+    score[similarity_and_filters]
+    out[cleanroom_public_json]
+  end
+  bas --&gt; extract --&gt; jsonA
+  jsonA --&gt;|profile_centroids_only| score
+  corpus --&gt; sudachi --&gt; master
+  master --&gt; embed
+  embed --&gt; score
+  score --&gt; out
+  out --&gt; web[apps_web_public]
+</code></pre>
+<ul>
+<li><strong>Lane A（現状）:</strong> <code>twjrdecomp</code> → <code>npm run extract:wordlists:all</code> → <code>apps/web/public/twelljr-*.json</code>。<strong>Git に乗せない／配布しない</strong>前提のまま。<strong>クリーンルームの入力には使わない</strong>。許容するのは <strong>オフライン・ローカルでの統計・重心計算</strong>のみ。</li>
+<li><strong>Lane B（新規）:</strong> 許可コーパス（PD / CC0 / CC-BY / CC-BY-SA …）→ Sudachi → <strong>単語マスタ</strong>（SQLite または JSONL + <strong>LICENSE_MANIFEST</strong>）→ 埋め込み → スコアリング＋フィルタ → <strong><code>apps/web/public/cleanroom/</code></strong>（新ディレクトリ推奨）または <code>cleanroom-twelljr-*.json</code> など <strong>本家ファイル名と衝突しない</strong>命名。<strong>出力 JSON の SPDX / CC 表記</strong>は、入力の互換集合（例: すべて PD/CC0 なら CC0 出力可、BY-SA 由来が混ざるなら <strong>合成物は BY-SA</strong> 等）をビルド時に機械決定するルールをドキュメント化する。</li>
+<li><strong>言語スタック:</strong> 現リポジトリは <strong>TypeScript 中心</strong>で Python ファイルは無い。SudachiPy 前提のため <strong><code>packages/cleanroom-pipeline/</code>（Python + pyproject.toml / uv）</strong> のような独立パッケージを追加し、npm からは <code>npm run cleanroom:build</code> が薄ラッパで <code>uv run</code> を呼ぶ形が保守しやすい。</li>
+</ul>
+<hr>
+<h2>「近さ」とストローク制約の統合（妥協案の具体化）</h2>
+<ul>
+<li><strong>スコア:</strong> モード／デッキごとに Lane A の語列からベクトルを取り、<strong>重心ベクトル</strong>（またはクラスタ重心の混合）を Lane B 候補へコサイン類似度でランク付け。</li>
+<li><strong>ハード制約（必須）:</strong> ユーザ受領の「ベクトル＋文字長フィルタ」を、Web 実装と整合するよう <strong>ローマ字文字数ではなく <code>typingKana</code> 行に対する emiel 最短ストローク</strong>で揃える。既存実装は <a href="c:%5CUsers%5Chotwa%5Cdev%5Ctype-cleanroom%5Cpackages%5Cengine%5Csrc%5CemielStrokeBudget.ts">packages/engine/src/emielStrokeBudget.ts</a> の <code>mozcMinStrokesForHiraganaLine</code>。ビルドパイプライン側では Node 小スクリプトで同関数を呼ぶか、Python 側で同等の近似を避け <strong>単一ソース（TS）でストローク数を列挙してマスタに join</strong> するのが安全。</li>
+<li><strong>分布:</strong> 「平均±N」に加え、<strong>パーセンタイル帯</strong>（P10–P90）でクリップすると、外れ値語による試行長崩壊をさらに抑えられる（オプション設計として文書化）。</li>
+</ul>
+<hr>
+<h2>Sudachi による重複排除（アルゴリズムの実装対応）</h2>
+<p>受領仕様をそのままデータパイプラインに落とす。</p>
+<ol>
+<li>トークンごとに <code>(surface, reading_katakana_or_hiragana_policy, normalized_form)</code> を取得。<code>reading</code> は現行 Web と同様 <strong>ASCII ローマ字</strong>へ正規化（既存 <a href="c:%5CUsers%5Chotwa%5Cdev%5Ctype-cleanroom%5Cpackages%5Cengine%5Csrc%5Ctwelljr%5CromajiTypingKana.ts">packages/engine/src/twelljr/romajiTypingKana.ts</a> と矛盾しない表記規約を <strong>仕様書で固定</strong>）。</li>
+<li><strong>モード内</strong>ユニーク:<ul>
+<li><strong>第一段階:</strong> <code>normalized</code> の Set で異表記同義を潰す（代表 surface の選び方: 出現頻度最大、または Sudachi の代表表記）。</li>
+<li><strong>第二段階:</strong> <code>surface</code> の Set で同表記異読を潰す（先勝ち／頻度勝ちを明文化）。</li>
+</ul>
+</li>
+<li><strong>モード間:</strong> 上記 Set を <strong>モード単位</strong>で分離（kihon / kanji / katakana / kanyoku）。<code>GameMode</code> は <a href="c:%5CUsers%5Chotwa%5Cdev%5Ctype-cleanroom%5Capps%5Cweb%5Csrc%5Ccomponents%5CTypingCanvas.tsx">TypingCanvas.tsx</a> のマッピングに一致させる。</li>
+</ol>
+<hr>
+<h2>リスク評価（再構築）</h2>
+<table>
+<thead>
+<tr>
+<th>領域</th>
+<th>リスク</th>
+<th>緩和</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>ライセンスの一貫性</strong></td>
+<td>複数コーパス（CC0 + CC-BY-SA 等）を混ぜると <strong>出力に課される条件が最も厳しい方へ引き上げられる</strong>（典型的には SA）。モデル重みのライセンスも別軸。</td>
+<td><code>LICENSE_MANIFEST</code> で各ソースの条項を固定し、<strong>ビルドが合成出力ライセンスを計算</strong>して <code>cleanroom/LICENSE</code> または JSON メタに書き出す。<strong>モデルはビルド時のみ</strong>／リポジトリには重いバイナリをコミットしない。可能なら <strong>同一ライセンス帯のコーパスのみ</strong>でマスタを切る「ティア」運用。</td>
+</tr>
+<tr>
+<td><strong>BY-SA の運用コスト</strong></td>
+<td>帰属表示の欠落、改変物のライセンス未継承は <strong>ライセンス違反・コミュニティ信頼低下</strong>。投げ銭・有料 IDE 程度でも <strong>商用利用の定義</strong>はライセンス上は許容されやすいが条項は読む必要がある。</td>
+<td>Web に <strong>クレジット／データ出典ページ</strong>（固定 URL）、リポジトリに <code>NOTICE</code>、ダンプ取得日・ダイジェストを manifest に残す。<strong>法解釈はこの計画の正典にしない</strong>（必要なら専門家レビュー）。</td>
+</tr>
+<tr>
+<td><strong>日本法 47条の5</strong></td>
+<td>テキストデータマイニングの例外の有無・境界は <strong>確定ではない</strong>。</td>
+<td>コーパスごとに <strong>利用規約と条項に沿った取得経路</strong>を manifest に残す。グレーなら <strong>PD/CC0 優先</strong>または学習専用レーンに隔離。</td>
+</tr>
+<tr>
+<td><strong>ベクトルだけ</strong></td>
+<td>長大語が入り <strong>400 確定ストローク試行のテンポ</strong>が崩れる。</td>
+<td><strong>emiel 最短ストローク分布</strong>によるハード／ソフト制約（ユーザ妥協案を既定 ON）。</td>
+</tr>
+<tr>
+<td><strong>surface 一意</strong></td>
+<td>漢字モードで異読を潰すと語彙カバレッジが落ちる。</td>
+<td>モード別ルール（第二段階を kihon のみに限定する等）を <strong>設定可能フラグ</strong>に。</td>
+</tr>
+<tr>
+<td><strong>Lane A 汚染</strong></td>
+<td>誤って Lane A 文字列を Lane B 出力に混ぜると <strong>本家著作物の混入</strong>＋ライセンス主張の崩壊。</td>
+<td><strong>人力レビューチェックリスト</strong>＋ manifest。必要なら <strong>コミット済み cleanroom JSON に対するスモーク</strong>（長さ・形式・禁止パターンは補助）。</td>
+</tr>
+</tbody></table>
+<hr>
+<h2>Web 統合方針（後続フェーズのインタフェース）</h2>
+<ul>
+<li>まず <strong><code>public/cleanroom/*.json</code></strong> を生成し、<code>TypingCanvas</code> に <strong>デッキソース切替</strong>（環境変数 <code>NEXT_PUBLIC_WORDSET=decomp|cleanroom</code> または開発者向けドロップダウン）を追加するのが衝突が少ない。</li>
+<li><code>code</code> 列: 本家互換の内部コードは <strong>クリーンルーム語表では意味を持たせない</strong>（空・ハッシュID・連番）を決め、<code>jouTriplesToWordEntries</code> が無視できることを確認。</li>
+</ul>
+<hr>
+<h2>ドキュメント</h2>
+<ul>
+<li><a href="c:%5CUsers%5Chotwa%5Cdev%5Ctype-cleanroom%5Cdocs%5Ccleanroom%5Cplanning-handoff-brief.md">docs/cleanroom/planning-handoff-brief.md</a> に「決定事項（ライセンス方針・ベクトル・Sudachi）」へのポインタを短く追記し、詳細は新規 <strong><code>docs/cleanroom/architecture-open-license-pipeline.md</code></strong>（許可ライセンス階層、BY/SA 義務、コーパス許可リスト、manifest、重複ルール、モデル方針）に集約する。</li>
+</ul>
+<hr>
+<h2>マイルストーン（実装順）</h2>
+<p><strong>フェーズ1 — 基礎パイプライン（Python）</strong><br>SudachiPy によるトークナイズ・正規化、許可コーパス取り込み CLI、単語マスタ（<code>surface</code>, <code>reading</code>, <code>normalized</code>, <code>stroke_count</code> 列 optional）と <strong>CORPUS_MANIFEST.json</strong> / <strong>LICENSE_MANIFEST</strong>（ソース URL・取得日・ライセンス識別子・条項 URL・帰属テキスト案）。</p>
+<p><strong>フェーズ2 — ベクトル</strong><br>Lane A JSON をローカル読み込み（<code>.gitignore</code> 済み想定）しモード別重心算出。Lane B マスタへベクトル付与・類似度スコア列生成。モデル選定とライセンス文書化。</p>
+<p><strong>フェーズ3 — フィルタと出力</strong><br>類似度ランキング + <strong>ストローク分布制約</strong> + 重複排除 → <code>WordEntry</code> 互換 JSON（および既存 web-array 形）を <code>public/cleanroom/</code> へ。Vitest で「ストローク予算が試行に足る」スモーク（既存 <a href="c:%5CUsers%5Chotwa%5Cdev%5Ctype-cleanroom%5Cpackages%5Cengine%5Csrc%5CwordPicker.test.ts">packages/engine/src/wordPicker.test.ts</a> パターンを流用）をクリーンルーム用フィクスチャで追加。</p>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,3116 @@
+[
+  {
+    "surface": "無くて七癖",
+    "reading": "nakutenanakuse",
+    "code": "cr-koto1-0",
+    "index": 0
+  },
+  {
+    "surface": "触らぬ蜂は刺さぬ",
+    "reading": "sawaranuhachiwasasanu",
+    "code": "cr-koto1-1",
+    "index": 1
+  },
+  {
+    "surface": "類を絶つ",
+    "reading": "ruiwotatsu",
+    "code": "cr-koto1-2",
+    "index": 2
+  },
+  {
+    "surface": "空樽は音が高い",
+    "reading": "akidaruwaotogatakai",
+    "code": "cr-koto1-3",
+    "index": 3
+  },
+  {
+    "surface": "タオルを投げる",
+    "reading": "towelwonageru",
+    "code": "cr-koto1-4",
+    "index": 4
+  },
+  {
+    "surface": "初雪は目の薬",
+    "reading": "hatsuyukiwamenokusuri",
+    "code": "cr-koto1-5",
+    "index": 5
+  },
+  {
+    "surface": "カテゴリ:上方いろはがるた",
+    "reading": "categoryjouhouirohacarta",
+    "code": "cr-koto1-6",
+    "index": 6
+  },
+  {
+    "surface": "地獄の釜の蓋が開く",
+    "reading": "jigokunokamanofutagahiraku",
+    "code": "cr-koto1-7",
+    "index": 7
+  },
+  {
+    "surface": "氷に座す",
+    "reading": "koorinizasu",
+    "code": "cr-koto1-8",
+    "index": 8
+  },
+  {
+    "surface": "弘法筆を選ばず",
+    "reading": "guhouhitsuwoerabazu",
+    "code": "cr-koto1-9",
+    "index": 9
+  },
+  {
+    "surface": "嵐の前の静けさ",
+    "reading": "arashinomaenoshizukesa",
+    "code": "cr-koto1-10",
+    "index": 10
+  },
+  {
+    "surface": "下手の長談義",
+    "reading": "hetanochoudangi",
+    "code": "cr-koto1-11",
+    "index": 11
+  },
+  {
+    "surface": "鷦鷯深林に巣くうも一枝に過ぎず",
+    "reading": "misosazaifukabayashinisukuumoisshinisugizu",
+    "code": "cr-koto1-12",
+    "index": 12
+  },
+  {
+    "surface": "飛んで火に入る夏の虫",
+    "reading": "tondehinihairunatsunomushi",
+    "code": "cr-koto1-13",
+    "index": 13
+  },
+  {
+    "surface": "安物買いの銭失い",
+    "reading": "yasumonokainozeniushinai",
+    "code": "cr-koto1-14",
+    "index": 14
+  },
+  {
+    "surface": "あんだら繰る",
+    "reading": "andarakuru",
+    "code": "cr-koto1-15",
+    "index": 15
+  },
+  {
+    "surface": "危うきこと累卵の如し",
+    "reading": "ayaukikotoruirannogotoshi",
+    "code": "cr-koto1-16",
+    "index": 16
+  },
+  {
+    "surface": "無くて七癖有って四十八癖",
+    "reading": "nakutenanakuseatteyonjuuhachiheki",
+    "code": "cr-koto1-17",
+    "index": 17
+  },
+  {
+    "surface": "楽あれば苦あり",
+    "reading": "rakuarebakuari",
+    "code": "cr-koto1-18",
+    "index": 18
+  },
+  {
+    "surface": "宝の持ち腐れ",
+    "reading": "takaranomochigusare",
+    "code": "cr-koto1-19",
+    "index": 19
+  },
+  {
+    "surface": "秋茄子は嫁に食わすな",
+    "reading": "akinasuwayomenikuwasuna",
+    "code": "cr-koto1-20",
+    "index": 20
+  },
+  {
+    "surface": "禍福は糾える縄の如し",
+    "reading": "kafukuwaazanaerunawanogotoshi",
+    "code": "cr-koto1-21",
+    "index": 21
+  },
+  {
+    "surface": "鮪を抱いて寝たよう",
+    "reading": "magurowoidaitenetayou",
+    "code": "cr-koto1-22",
+    "index": 22
+  },
+  {
+    "surface": "枯れ木も山の賑い",
+    "reading": "karekimoyamanonigiwai",
+    "code": "cr-koto1-23",
+    "index": 23
+  },
+  {
+    "surface": "嘘も方便",
+    "reading": "usomohouben",
+    "code": "cr-koto1-24",
+    "index": 24
+  },
+  {
+    "surface": "聞いて極楽見て地獄",
+    "reading": "kiitegokurakumitejigoku",
+    "code": "cr-koto1-25",
+    "index": 25
+  },
+  {
+    "surface": "猫に小判",
+    "reading": "nekonikoban",
+    "code": "cr-koto1-26",
+    "index": 26
+  },
+  {
+    "surface": "雑魚の魚交じり",
+    "reading": "zakonosakanamajiri",
+    "code": "cr-koto1-27",
+    "index": 27
+  },
+  {
+    "surface": "蛙の面に小便",
+    "reading": "kawazunomennishouben",
+    "code": "cr-koto1-28",
+    "index": 28
+  },
+  {
+    "surface": "火事と喧嘩は江戸の花",
+    "reading": "kajitokenkawaedonohana",
+    "code": "cr-koto1-29",
+    "index": 29
+  },
+  {
+    "surface": "能ある鷹は爪を隠す",
+    "reading": "nouarutakawatsumewokakusu",
+    "code": "cr-koto1-30",
+    "index": 30
+  },
+  {
+    "surface": "蛇は竹の筒に入れても真っ直ぐにならぬ",
+    "reading": "hebiwatakenotsutsuniiretemomassuguninaranu",
+    "code": "cr-koto1-31",
+    "index": 31
+  },
+  {
+    "surface": "一樹の蔭一河の流れ",
+    "reading": "ichijunokageichiganonagare",
+    "code": "cr-koto1-32",
+    "index": 32
+  },
+  {
+    "surface": "食い物のあるのに鉄砲汁",
+    "reading": "kuimononoarunoniteppoushiru",
+    "code": "cr-koto1-33",
+    "index": 33
+  },
+  {
+    "surface": "闇夜に提灯",
+    "reading": "anyanichouchin",
+    "code": "cr-koto1-34",
+    "index": 34
+  },
+  {
+    "surface": "栄螺のような拳",
+    "reading": "sazaenoyounakobushi",
+    "code": "cr-koto1-35",
+    "index": 35
+  },
+  {
+    "surface": "寝る子は育つ",
+    "reading": "nerukowasodatsu",
+    "code": "cr-koto1-36",
+    "index": 36
+  },
+  {
+    "surface": "律義者の子沢山",
+    "reading": "richigishanokotakusan",
+    "code": "cr-koto1-37",
+    "index": 37
+  },
+  {
+    "surface": "瓢箪から駒が出る",
+    "reading": "hyoutankarakomagaderu",
+    "code": "cr-koto1-38",
+    "index": 38
+  },
+  {
+    "surface": "餌の中の針",
+    "reading": "esanonakanohari",
+    "code": "cr-koto1-39",
+    "index": 39
+  },
+  {
+    "surface": "子は鎹",
+    "reading": "kowakasugai",
+    "code": "cr-koto1-40",
+    "index": 40
+  },
+  {
+    "surface": "蛙の子は蛙",
+    "reading": "kawazunokowakawazu",
+    "code": "cr-koto1-41",
+    "index": 41
+  },
+  {
+    "surface": "芸は身を助く",
+    "reading": "geiwamiwotasuku",
+    "code": "cr-koto1-42",
+    "index": 42
+  },
+  {
+    "surface": "海の物とも山の物ともつかぬ",
+    "reading": "uminomonotomoyamanomonotomotsukanu",
+    "code": "cr-koto1-43",
+    "index": 43
+  },
+  {
+    "surface": "犬の遠吠え",
+    "reading": "inunotooboe",
+    "code": "cr-koto1-44",
+    "index": 44
+  },
+  {
+    "surface": "泣き面に蜂",
+    "reading": "nakitsuranihachi",
+    "code": "cr-koto1-45",
+    "index": 45
+  },
+  {
+    "surface": "二度あることは三度ある",
+    "reading": "nidoarukotowasandoaru",
+    "code": "cr-koto1-46",
+    "index": 46
+  },
+  {
+    "surface": "大魚を逸する",
+    "reading": "taigyowoissuru",
+    "code": "cr-koto1-47",
+    "index": 47
+  },
+  {
+    "surface": "戦を見て矢を矧ぐ",
+    "reading": "ikusawomiteyawohagu",
+    "code": "cr-koto1-48",
+    "index": 48
+  },
+  {
+    "surface": "机上の空論",
+    "reading": "kijounokuuron",
+    "code": "cr-koto1-49",
+    "index": 49
+  },
+  {
+    "surface": "金持ち喧嘩せず",
+    "reading": "kanemochikenkasezu",
+    "code": "cr-koto1-50",
+    "index": 50
+  },
+  {
+    "surface": "五十歩百歩",
+    "reading": "gojuuhohyakuho",
+    "code": "cr-koto1-51",
+    "index": 51
+  },
+  {
+    "surface": "天高く馬肥ゆ",
+    "reading": "tentakakuumakoeyu",
+    "code": "cr-koto1-52",
+    "index": 52
+  },
+  {
+    "surface": "転ばぬ先の杖",
+    "reading": "korobanusakinotsue",
+    "code": "cr-koto1-53",
+    "index": 53
+  },
+  {
+    "surface": "時は金なり",
+    "reading": "tokiwakanenari",
+    "code": "cr-koto1-54",
+    "index": 54
+  },
+  {
+    "surface": "縁の下の力持ち",
+    "reading": "ennoshitanochikaramochi",
+    "code": "cr-koto1-55",
+    "index": 55
+  },
+  {
+    "surface": "前尻を売る",
+    "reading": "maeshiriwouru",
+    "code": "cr-koto1-56",
+    "index": 56
+  },
+  {
+    "surface": "獅子の子落とし",
+    "reading": "shishinokootoshi",
+    "code": "cr-koto1-57",
+    "index": 57
+  },
+  {
+    "surface": "あたりき車力車曳き",
+    "reading": "atarikisharikikurumahiki",
+    "code": "cr-koto1-58",
+    "index": 58
+  },
+  {
+    "surface": "一年の計は元旦にあり",
+    "reading": "ichinennokeiwagantanniari",
+    "code": "cr-koto1-59",
+    "index": 59
+  },
+  {
+    "surface": "宇宙は神の思想なり",
+    "reading": "uchuuwakaminoshisounari",
+    "code": "cr-koto1-60",
+    "index": 60
+  },
+  {
+    "surface": "山椒は小粒でもぴりりと辛い",
+    "reading": "sanshouwakotsubudemopiriritotsurai",
+    "code": "cr-koto1-61",
+    "index": 61
+  },
+  {
+    "surface": "六十の三つ子",
+    "reading": "rokujuunomittsuko",
+    "code": "cr-koto1-62",
+    "index": 62
+  },
+  {
+    "surface": "角を矯めて牛を殺す",
+    "reading": "kadowotameteushiwokorosu",
+    "code": "cr-koto1-63",
+    "index": 63
+  },
+  {
+    "surface": "柳の下にいつも泥鰌はおらぬ",
+    "reading": "yanaginoshitaniitsumodojouwaoranu",
+    "code": "cr-koto1-64",
+    "index": 64
+  },
+  {
+    "surface": "得手に帆を揚げる",
+    "reading": "etenihowoageru",
+    "code": "cr-koto1-65",
+    "index": 65
+  },
+  {
+    "surface": "京に田舎あり",
+    "reading": "kyouniinakaari",
+    "code": "cr-koto1-66",
+    "index": 66
+  },
+  {
+    "surface": "窮鼠猫を嚙む",
+    "reading": "kyuusonekowokamu",
+    "code": "cr-koto1-67",
+    "index": 67
+  },
+  {
+    "surface": "長い目で見る",
+    "reading": "nagaimedemiru",
+    "code": "cr-koto1-68",
+    "index": 68
+  },
+  {
+    "surface": "前尻を撫でる",
+    "reading": "maeshiriwonaderu",
+    "code": "cr-koto1-69",
+    "index": 69
+  },
+  {
+    "surface": "朝題目に宵念仏",
+    "reading": "asadaimokuniyoinenbutsu",
+    "code": "cr-koto1-70",
+    "index": 70
+  },
+  {
+    "surface": "尻子玉を抜く",
+    "reading": "shirikotamawonuku",
+    "code": "cr-koto1-71",
+    "index": 71
+  },
+  {
+    "surface": "人を呪わば穴二つ",
+    "reading": "hitowonorowabaanafutatsu",
+    "code": "cr-koto1-72",
+    "index": 72
+  },
+  {
+    "surface": "いざよう空や人の世の中",
+    "reading": "izayousorayahitonoyononaka",
+    "code": "cr-koto1-73",
+    "index": 73
+  },
+  {
+    "surface": "見ると聞くとは大違い",
+    "reading": "mirutokikutowaoochigai",
+    "code": "cr-koto1-74",
+    "index": 74
+  },
+  {
+    "surface": "二兎を追う者は一兎をも得ず",
+    "reading": "nitowooumonowaichitowomoezu",
+    "code": "cr-koto1-75",
+    "index": 75
+  },
+  {
+    "surface": "来た、見た、勝った",
+    "reading": "kitamitakatta",
+    "code": "cr-koto1-76",
+    "index": 76
+  },
+  {
+    "surface": "心肝を寒からしめる",
+    "reading": "shinkanwosamukarashimeru",
+    "code": "cr-koto1-77",
+    "index": 77
+  },
+  {
+    "surface": "遠くの一家より近くの隣",
+    "reading": "tookunoikkayorichikakunotonari",
+    "code": "cr-koto1-78",
+    "index": 78
+  },
+  {
+    "surface": "背水の陣",
+    "reading": "haisuinojin",
+    "code": "cr-koto1-79",
+    "index": 79
+  },
+  {
+    "surface": "金は天下の回り持ち",
+    "reading": "kinwatenkanomawarimochi",
+    "code": "cr-koto1-80",
+    "index": 80
+  },
+  {
+    "surface": "豆腐に鎹",
+    "reading": "toufunikasugai",
+    "code": "cr-koto1-81",
+    "index": 81
+  },
+  {
+    "surface": "色目を使う",
+    "reading": "iromewotsukau",
+    "code": "cr-koto1-82",
+    "index": 82
+  },
+  {
+    "surface": "深淵に臨んで薄氷を履むが如し",
+    "reading": "shinenninozondehakuhyouwofumugagotoshi",
+    "code": "cr-koto1-83",
+    "index": 83
+  },
+  {
+    "surface": "あいの返事に難はなし",
+    "reading": "ainohenjininanwanashi",
+    "code": "cr-koto1-84",
+    "index": 84
+  },
+  {
+    "surface": "物は言いよう",
+    "reading": "monowaiiyou",
+    "code": "cr-koto1-85",
+    "index": 85
+  },
+  {
+    "surface": "親しき中にも礼儀あり",
+    "reading": "oyashikichuunimoreigiari",
+    "code": "cr-koto1-86",
+    "index": 86
+  },
+  {
+    "surface": "鵜の真似をする烏",
+    "reading": "unomanewosurukarasu",
+    "code": "cr-koto1-87",
+    "index": 87
+  },
+  {
+    "surface": "灯台下暗し",
+    "reading": "toudaikakurashi",
+    "code": "cr-koto1-88",
+    "index": 88
+  },
+  {
+    "surface": "衢道を行く者は至らず",
+    "reading": "woikumonowaitarazu",
+    "code": "cr-koto1-89",
+    "index": 89
+  },
+  {
+    "surface": "どんぐりの背比べ",
+    "reading": "dongurinoseikurabe",
+    "code": "cr-koto1-90",
+    "index": 90
+  },
+  {
+    "surface": "宗教は民衆の阿片である",
+    "reading": "shuukyouwaminshuunoahendearu",
+    "code": "cr-koto1-91",
+    "index": 91
+  },
+  {
+    "surface": "理屈と膏薬はどこへでも付く",
+    "reading": "rikutsutokouyakuwadokoedemotsuku",
+    "code": "cr-koto1-92",
+    "index": 92
+  },
+  {
+    "surface": "馬の耳に念仏",
+    "reading": "umanomimininenbutsu",
+    "code": "cr-koto1-93",
+    "index": 93
+  },
+  {
+    "surface": "累を及ぼす",
+    "reading": "ruiwooyobosu",
+    "code": "cr-koto1-94",
+    "index": 94
+  },
+  {
+    "surface": "日光を見ずして結構と言うなかれ",
+    "reading": "nikkouwomizushitekekkoutoyuunakare",
+    "code": "cr-koto1-95",
+    "index": 95
+  },
+  {
+    "surface": "乞食の朝謡",
+    "reading": "kojikinoasautai",
+    "code": "cr-koto1-96",
+    "index": 96
+  },
+  {
+    "surface": "船頭多くして船山に登る",
+    "reading": "sendouookushitefunayamaninoboru",
+    "code": "cr-koto1-97",
+    "index": 97
+  },
+  {
+    "surface": "宗教は生活の法則である",
+    "reading": "shuukyouwaseikatsunohousokudearu",
+    "code": "cr-koto1-98",
+    "index": 98
+  },
+  {
+    "surface": "大男総身に知恵が回りかね",
+    "reading": "oootokosoushinnichiegamawarikane",
+    "code": "cr-koto1-99",
+    "index": 99
+  },
+  {
+    "surface": "素麺で首括る",
+    "reading": "soumendekubikukuru",
+    "code": "cr-koto1-100",
+    "index": 100
+  },
+  {
+    "surface": "糠に釘",
+    "reading": "nukanikugi",
+    "code": "cr-koto1-101",
+    "index": 101
+  },
+  {
+    "surface": "藜羹を食らう者は大牢の滋味を知らず",
+    "reading": "akazakouwokuraumonowatairounojimiwoshirazu",
+    "code": "cr-koto1-102",
+    "index": 102
+  },
+  {
+    "surface": "失敗は成功のもと",
+    "reading": "shippaiwaseikounomoto",
+    "code": "cr-koto1-103",
+    "index": 103
+  },
+  {
+    "surface": "為せば成る",
+    "reading": "nasebanaru",
+    "code": "cr-koto1-104",
+    "index": 104
+  },
+  {
+    "surface": "梅雨の宵晴れ",
+    "reading": "tsuyunoyoihare",
+    "code": "cr-koto1-105",
+    "index": 105
+  },
+  {
+    "surface": "縁の下の舞",
+    "reading": "ennoshitanomai",
+    "code": "cr-koto1-106",
+    "index": 106
+  },
+  {
+    "surface": "管を以て天を窺う",
+    "reading": "kanwomottetenwoukagau",
+    "code": "cr-koto1-107",
+    "index": 107
+  },
+  {
+    "surface": "溺れる者は藁をも摑む",
+    "reading": "oborerumonowawarawomotsukamu",
+    "code": "cr-koto1-108",
+    "index": 108
+  },
+  {
+    "surface": "悪銭身に付かず",
+    "reading": "akusenminitsukazu",
+    "code": "cr-koto1-109",
+    "index": 109
+  },
+  {
+    "surface": "あかん三切れ",
+    "reading": "akansankire",
+    "code": "cr-koto1-110",
+    "index": 110
+  },
+  {
+    "surface": "鳥なき里の蝙蝠",
+    "reading": "torinakisatonokawahori",
+    "code": "cr-koto1-111",
+    "index": 111
+  },
+  {
+    "surface": "大は小を兼ねる",
+    "reading": "daiwashouwokaneru",
+    "code": "cr-koto1-112",
+    "index": 112
+  },
+  {
+    "surface": "かったいの瘡うらみ",
+    "reading": "kattainokusaurami",
+    "code": "cr-koto1-113",
+    "index": 113
+  },
+  {
+    "surface": "猫に木天蓼お女郎に小判",
+    "reading": "nekonimatatabiojorounikoban",
+    "code": "cr-koto1-114",
+    "index": 114
+  },
+  {
+    "surface": "河童の川流れ",
+    "reading": "kappanokawanagare",
+    "code": "cr-koto1-115",
+    "index": 115
+  },
+  {
+    "surface": "目は口程に物を言う",
+    "reading": "mewakuchihodonimonowoyuu",
+    "code": "cr-koto1-116",
+    "index": 116
+  },
+  {
+    "surface": "肉を斬らして骨を斬る",
+    "reading": "nikuwokirashitehonewokiru",
+    "code": "cr-koto1-117",
+    "index": 117
+  },
+  {
+    "surface": "瑠璃も玻璃も照らせば光る",
+    "reading": "rurimosphatikamoterasebahikaru",
+    "code": "cr-koto1-118",
+    "index": 118
+  },
+  {
+    "surface": "火の無い所に煙は立たぬ",
+    "reading": "hinonaitokoronikemuriwatatanu",
+    "code": "cr-koto1-119",
+    "index": 119
+  },
+  {
+    "surface": "貧すれば鈍する",
+    "reading": "hinsurebadonsuru",
+    "code": "cr-koto1-120",
+    "index": 120
+  },
+  {
+    "surface": "膝元去らず",
+    "reading": "hizamotosarazu",
+    "code": "cr-koto1-121",
+    "index": 121
+  },
+  {
+    "surface": "泥棒を捕らえて縄を綯う",
+    "reading": "dorobouwotoraetenawawonau",
+    "code": "cr-koto1-122",
+    "index": 122
+  },
+  {
+    "surface": "光陰矢の如し",
+    "reading": "kouinyanogotoshi",
+    "code": "cr-koto1-123",
+    "index": 123
+  },
+  {
+    "surface": "風が吹けば桶屋が儲かる",
+    "reading": "kazegafukebaokeyagamoukaru",
+    "code": "cr-koto1-124",
+    "index": 124
+  },
+  {
+    "surface": "犬も歩けば棒に当たる",
+    "reading": "inumoarukebabouniataru",
+    "code": "cr-koto1-125",
+    "index": 125
+  },
+  {
+    "surface": "爪に火を灯す",
+    "reading": "tsumenihiwotomosu",
+    "code": "cr-koto1-126",
+    "index": 126
+  },
+  {
+    "surface": "深淵に臨むが如し",
+    "reading": "shinenninozomugagotoshi",
+    "code": "cr-koto1-127",
+    "index": 127
+  },
+  {
+    "surface": "猫を殺せば七代祟る",
+    "reading": "nekowokorosebashichidaitataru",
+    "code": "cr-koto1-128",
+    "index": 128
+  },
+  {
+    "surface": "河童も一度は川流れ",
+    "reading": "kappamoichidowakawanagare",
+    "code": "cr-koto1-129",
+    "index": 129
+  },
+  {
+    "surface": "閉ざさぬ御代",
+    "reading": "tozasanumiyo",
+    "code": "cr-koto1-130",
+    "index": 130
+  },
+  {
+    "surface": "あっと頂戴鏡立て",
+    "reading": "attochoudaikyoutate",
+    "code": "cr-koto1-131",
+    "index": 131
+  },
+  {
+    "surface": "病と命は別物",
+    "reading": "yamaitoinochiwabetsumono",
+    "code": "cr-koto1-132",
+    "index": 132
+  },
+  {
+    "surface": "株を守りて兎を待つ",
+    "reading": "kabuwomamoriteusagiwomatsu",
+    "code": "cr-koto1-133",
+    "index": 133
+  },
+  {
+    "surface": "年貢いらずの畦豆",
+    "reading": "nenguirazunoazemame",
+    "code": "cr-koto1-134",
+    "index": 134
+  },
+  {
+    "surface": "水も漏らさぬ",
+    "reading": "mizumomorasanu",
+    "code": "cr-koto1-135",
+    "index": 135
+  },
+  {
+    "surface": "鯉の滝登り",
+    "reading": "koinotakinobori",
+    "code": "cr-koto1-136",
+    "index": 136
+  },
+  {
+    "surface": "医は仁術",
+    "reading": "iwajinjutsu",
+    "code": "cr-koto1-137",
+    "index": 137
+  },
+  {
+    "surface": "噂をすれば影がさす",
+    "reading": "uwasawosurebakagegasasu",
+    "code": "cr-koto1-138",
+    "index": 138
+  },
+  {
+    "surface": "一寸先は闇",
+    "reading": "chottosakiwayami",
+    "code": "cr-koto1-139",
+    "index": 139
+  },
+  {
+    "surface": "腐っても鯛",
+    "reading": "kusattemotai",
+    "code": "cr-koto1-140",
+    "index": 140
+  },
+  {
+    "surface": "笑う門には福来たる",
+    "reading": "waraumonniwafukuraitaru",
+    "code": "cr-koto1-141",
+    "index": 141
+  },
+  {
+    "surface": "亀の甲より年の劫",
+    "reading": "kamenokouyoritoshinokou",
+    "code": "cr-koto1-142",
+    "index": 142
+  },
+  {
+    "surface": "借りてきた猫",
+    "reading": "karitekitaneko",
+    "code": "cr-koto1-143",
+    "index": 143
+  },
+  {
+    "surface": "飼い犬に手を嚙まれる",
+    "reading": "kaiinunitewokamareru",
+    "code": "cr-koto1-144",
+    "index": 144
+  },
+  {
+    "surface": "朱に交われば赤くなる",
+    "reading": "shunimajiwarebaakakunaru",
+    "code": "cr-koto1-145",
+    "index": 145
+  },
+  {
+    "surface": "乗り掛かった船",
+    "reading": "norikakattafune",
+    "code": "cr-koto1-146",
+    "index": 146
+  },
+  {
+    "surface": "果報は寝て待て",
+    "reading": "kahouwanetemate",
+    "code": "cr-koto1-147",
+    "index": 147
+  },
+  {
+    "surface": "梅雨に降らぬと土用に降る",
+    "reading": "tsuyunifuranutodoyounifuru",
+    "code": "cr-koto1-148",
+    "index": 148
+  },
+  {
+    "surface": "虎穴に入らずんば虎子を得ず",
+    "reading": "koketsunihairazunbakojiwoezu",
+    "code": "cr-koto1-149",
+    "index": 149
+  },
+  {
+    "surface": "長持ちは枕にならぬ",
+    "reading": "nagamochiwamakuraninaranu",
+    "code": "cr-koto1-150",
+    "index": 150
+  },
+  {
+    "surface": "愛してみれば鼻欠けもえくぼ",
+    "reading": "aishitemirebahanakakemoekubo",
+    "code": "cr-koto1-151",
+    "index": 151
+  },
+  {
+    "surface": "あずり貧乏人宝",
+    "reading": "azuribinbouninhou",
+    "code": "cr-koto1-152",
+    "index": 152
+  },
+  {
+    "surface": "彼も人なり、是も人なり",
+    "reading": "karemohitonarikoremohitonari",
+    "code": "cr-koto1-153",
+    "index": 153
+  },
+  {
+    "surface": "総領の甚六",
+    "reading": "souryounojinroku",
+    "code": "cr-koto1-154",
+    "index": 154
+  },
+  {
+    "surface": "言わぬが花",
+    "reading": "iwanugahana",
+    "code": "cr-koto1-155",
+    "index": 155
+  },
+  {
+    "surface": "類を引く",
+    "reading": "ruiwohiku",
+    "code": "cr-koto1-156",
+    "index": 156
+  },
+  {
+    "surface": "読書万巻を破る",
+    "reading": "dokushomankanwoyaburu",
+    "code": "cr-koto1-157",
+    "index": 157
+  },
+  {
+    "surface": "和を以て貴しと為す",
+    "reading": "wawomottetoutoshitonasu",
+    "code": "cr-koto1-158",
+    "index": 158
+  },
+  {
+    "surface": "只より高いものはない",
+    "reading": "tadayoritakaimonowanai",
+    "code": "cr-koto1-159",
+    "index": 159
+  },
+  {
+    "surface": "皮を斬らして骨を斬る",
+    "reading": "kawawokirashitehonewokiru",
+    "code": "cr-koto1-160",
+    "index": 160
+  },
+  {
+    "surface": "予防は治療に勝る",
+    "reading": "yobouwachiryounimasaru",
+    "code": "cr-koto1-161",
+    "index": 161
+  },
+  {
+    "surface": "犬が西向きゃ尾は東",
+    "reading": "inuganishimukyaowahigashi",
+    "code": "cr-koto1-162",
+    "index": 162
+  },
+  {
+    "surface": "怪我の功名",
+    "reading": "keganokoumyou",
+    "code": "cr-koto1-163",
+    "index": 163
+  },
+  {
+    "surface": "蛙の面に水",
+    "reading": "kawazunomennimizu",
+    "code": "cr-koto1-164",
+    "index": 164
+  },
+  {
+    "surface": "勝って兜の緒を締めよ",
+    "reading": "kattekabutonoitoguchiwoshimeyo",
+    "code": "cr-koto1-165",
+    "index": 165
+  },
+  {
+    "surface": "習うより慣れろ",
+    "reading": "narauyorinarero",
+    "code": "cr-koto1-166",
+    "index": 166
+  },
+  {
+    "surface": "閑古鳥が鳴く",
+    "reading": "kankochouganaku",
+    "code": "cr-koto1-167",
+    "index": 167
+  },
+  {
+    "surface": "臍が茶を沸かす",
+    "reading": "hesogachawowakasu",
+    "code": "cr-koto1-168",
+    "index": 168
+  },
+  {
+    "surface": "寝耳に水",
+    "reading": "nemiminimizu",
+    "code": "cr-koto1-169",
+    "index": 169
+  },
+  {
+    "surface": "剃刀の刃を渡る",
+    "reading": "kamisorinohawowataru",
+    "code": "cr-koto1-170",
+    "index": 170
+  },
+  {
+    "surface": "盗人を捕らえて見れば我が子なり",
+    "reading": "nusubitowotoraetemirebawagakonari",
+    "code": "cr-koto1-171",
+    "index": 171
+  },
+  {
+    "surface": "転石苔むさず",
+    "reading": "tensekikokemusazu",
+    "code": "cr-koto1-172",
+    "index": 172
+  },
+  {
+    "surface": "連木で腹切る",
+    "reading": "rengideharakiru",
+    "code": "cr-koto1-173",
+    "index": 173
+  },
+  {
+    "surface": "鶏が先か、卵が先か",
+    "reading": "niwatorigasakikatamagogasakika",
+    "code": "cr-koto1-174",
+    "index": 174
+  },
+  {
+    "surface": "河童が皿の水をこぼしたよう",
+    "reading": "kappagasaranomizuwokoboshitayou",
+    "code": "cr-koto1-175",
+    "index": 175
+  },
+  {
+    "surface": "袖の振り合わせも他生の縁",
+    "reading": "sodenofuriawasemotashounoen",
+    "code": "cr-koto1-176",
+    "index": 176
+  },
+  {
+    "surface": "餌を食うより肉を食え",
+    "reading": "esawokuuyorinikuwokue",
+    "code": "cr-koto1-177",
+    "index": 177
+  },
+  {
+    "surface": "猫も茶を飲む",
+    "reading": "nekomochawonomu",
+    "code": "cr-koto1-178",
+    "index": 178
+  },
+  {
+    "surface": "弱り目に祟り目",
+    "reading": "yowarimenitatarime",
+    "code": "cr-koto1-179",
+    "index": 179
+  },
+  {
+    "surface": "蛇に咬まれて朽ち縄に怖じる",
+    "reading": "hebinikamaretekuchinawaniojiru",
+    "code": "cr-koto1-180",
+    "index": 180
+  },
+  {
+    "surface": "残り物には福がある",
+    "reading": "nokorimononiwafukugaaru",
+    "code": "cr-koto1-181",
+    "index": 181
+  },
+  {
+    "surface": "あずり貧乏",
+    "reading": "azuribinbou",
+    "code": "cr-koto1-182",
+    "index": 182
+  },
+  {
+    "surface": "葦の髄から天井覗く",
+    "reading": "ashinozuikaratenjounozoku",
+    "code": "cr-koto1-183",
+    "index": 183
+  },
+  {
+    "surface": "頭隠して尻隠さず",
+    "reading": "atamakakushiteshirikakusazu",
+    "code": "cr-koto1-184",
+    "index": 184
+  },
+  {
+    "surface": "飼い犬に手を食われる",
+    "reading": "kaiinunitewokuwareru",
+    "code": "cr-koto1-185",
+    "index": 185
+  },
+  {
+    "surface": "匂い松茸味しめじ",
+    "reading": "nioimatsutakeajishimeji",
+    "code": "cr-koto1-186",
+    "index": 186
+  },
+  {
+    "surface": "梅雨降り土用照り",
+    "reading": "tsuyuoridoyouteri",
+    "code": "cr-koto1-187",
+    "index": 187
+  },
+  {
+    "surface": "百足のあだ転び",
+    "reading": "mukadenoadakorobi",
+    "code": "cr-koto1-188",
+    "index": 188
+  },
+  {
+    "surface": "難波の葦は伊勢の浜荻",
+    "reading": "nanbanoashiwaisenohamaogi",
+    "code": "cr-koto1-189",
+    "index": 189
+  },
+  {
+    "surface": "伝家の宝刀",
+    "reading": "denkanohoutou",
+    "code": "cr-koto1-190",
+    "index": 190
+  },
+  {
+    "surface": "金は世界の回り持ち",
+    "reading": "kinwasekainomawarimochi",
+    "code": "cr-koto1-191",
+    "index": 191
+  },
+  {
+    "surface": "全ての道はローマに通ず",
+    "reading": "subetenomichiwaromanitsuuzu",
+    "code": "cr-koto1-192",
+    "index": 192
+  },
+  {
+    "surface": "男子家を出ずれば七人の敵あり",
+    "reading": "danshikawoizurebashichininnotekiari",
+    "code": "cr-koto1-193",
+    "index": 193
+  },
+  {
+    "surface": "類友",
+    "reading": "ruitomo",
+    "code": "cr-koto1-194",
+    "index": 194
+  },
+  {
+    "surface": "溜息をすれば親の寿命が縮む",
+    "reading": "tameikiwosurebaoyanojumyougachizimu",
+    "code": "cr-koto1-195",
+    "index": 195
+  },
+  {
+    "surface": "酒なくて何の己が桜かな",
+    "reading": "sakenakutenannoonogasakurakana",
+    "code": "cr-koto1-196",
+    "index": 196
+  },
+  {
+    "surface": "三十六計逃げるに如かず",
+    "reading": "sanjuurokukeinigerunishikazu",
+    "code": "cr-koto1-197",
+    "index": 197
+  },
+  {
+    "surface": "口では大坂の城も建つ",
+    "reading": "kuchidewaoosakanoshiromotatsu",
+    "code": "cr-koto1-198",
+    "index": 198
+  },
+  {
+    "surface": "俎の上の鯉",
+    "reading": "manaitanouenokoi",
+    "code": "cr-koto1-199",
+    "index": 199
+  },
+  {
+    "surface": "朝焼けは雨",
+    "reading": "asayakewaame",
+    "code": "cr-koto1-200",
+    "index": 200
+  },
+  {
+    "surface": "初心忘るべからず",
+    "reading": "shoshinwasurubekarazu",
+    "code": "cr-koto1-201",
+    "index": 201
+  },
+  {
+    "surface": "鰯の頭も信心から",
+    "reading": "iwashinoatamamoshinjinkara",
+    "code": "cr-koto1-202",
+    "index": 202
+  },
+  {
+    "surface": "泣く子は育つ",
+    "reading": "nakukowasodatsu",
+    "code": "cr-koto1-203",
+    "index": 203
+  },
+  {
+    "surface": "慌てる乞食はもらいが少ない",
+    "reading": "awaterukojikiwamoraigasukunai",
+    "code": "cr-koto1-204",
+    "index": 204
+  },
+  {
+    "surface": "夕焼けは晴れ",
+    "reading": "yuuyakewahare",
+    "code": "cr-koto1-205",
+    "index": 205
+  },
+  {
+    "surface": "糟糠の妻は堂より下さず",
+    "reading": "soukounotsumawadouyorikudasazu",
+    "code": "cr-koto1-206",
+    "index": 206
+  },
+  {
+    "surface": "塁を摩する",
+    "reading": "ruiwomasuru",
+    "code": "cr-koto1-207",
+    "index": 207
+  },
+  {
+    "surface": "地獄の沙汰も金次第",
+    "reading": "jigokunosatamokinshidai",
+    "code": "cr-koto1-208",
+    "index": 208
+  },
+  {
+    "surface": "管の穴から天を覗く",
+    "reading": "kannoanakaratenwonozoku",
+    "code": "cr-koto1-209",
+    "index": 209
+  },
+  {
+    "surface": "九死に一生を得る",
+    "reading": "kyuushiniisshouwouru",
+    "code": "cr-koto1-210",
+    "index": 210
+  },
+  {
+    "surface": "沈黙は金、雄弁は銀",
+    "reading": "chinmokuwakinyuubenwagin",
+    "code": "cr-koto1-211",
+    "index": 211
+  },
+  {
+    "surface": "猫も杓子も",
+    "reading": "nekomoshakushimo",
+    "code": "cr-koto1-212",
+    "index": 212
+  },
+  {
+    "surface": "俎板の鯉",
+    "reading": "manaitanokoi",
+    "code": "cr-koto1-213",
+    "index": 213
+  },
+  {
+    "surface": "地獄への道は善意で舗装されている",
+    "reading": "jigokuenomichiwazenidehosousareteiru",
+    "code": "cr-koto1-214",
+    "index": 214
+  },
+  {
+    "surface": "恋は曲者",
+    "reading": "koiwakusemono",
+    "code": "cr-koto1-215",
+    "index": 215
+  },
+  {
+    "surface": "背に腹はかえられぬ",
+    "reading": "seniharawakaerarenu",
+    "code": "cr-koto1-216",
+    "index": 216
+  },
+  {
+    "surface": "得手に帆を揚ぐ",
+    "reading": "etenihowoyougu",
+    "code": "cr-koto1-217",
+    "index": 217
+  },
+  {
+    "surface": "身から出た錆",
+    "reading": "mikaradetasabi",
+    "code": "cr-koto1-218",
+    "index": 218
+  },
+  {
+    "surface": "毒を食らわば皿まで",
+    "reading": "dokuwokurawabasaramade",
+    "code": "cr-koto1-219",
+    "index": 219
+  },
+  {
+    "surface": "猿も木から落ちる",
+    "reading": "sarumokikaraochiru",
+    "code": "cr-koto1-220",
+    "index": 220
+  },
+  {
+    "surface": "足元から鳥が立つ",
+    "reading": "ashimotokaratorigatatsu",
+    "code": "cr-koto1-221",
+    "index": 221
+  },
+  {
+    "surface": "月日に関守なし",
+    "reading": "tsukihinisekimorinashi",
+    "code": "cr-koto1-222",
+    "index": 222
+  },
+  {
+    "surface": "権兵衛が種蒔きゃ烏がほじくる",
+    "reading": "gonbeegatanemakikyakarasugahojikuru",
+    "code": "cr-koto1-223",
+    "index": 223
+  },
+  {
+    "surface": "早起きは三文の得",
+    "reading": "hayaokiwasanbunnotoku",
+    "code": "cr-koto1-224",
+    "index": 224
+  },
+  {
+    "surface": "泣きっ面に蜂",
+    "reading": "nakittsuranihachi",
+    "code": "cr-koto1-225",
+    "index": 225
+  },
+  {
+    "surface": "住めば都",
+    "reading": "sumebato",
+    "code": "cr-koto1-226",
+    "index": 226
+  },
+  {
+    "surface": "割殻食わぬ上人なし",
+    "reading": "warikarakuwanushouninnashi",
+    "code": "cr-koto1-227",
+    "index": 227
+  },
+  {
+    "surface": "あんだら尽くす",
+    "reading": "andaratsukusu",
+    "code": "cr-koto1-228",
+    "index": 228
+  },
+  {
+    "surface": "一姫二太郎",
+    "reading": "ichihimenitarou",
+    "code": "cr-koto1-229",
+    "index": 229
+  },
+  {
+    "surface": "ごまめの歯ぎしり",
+    "reading": "gomamenohagishiri",
+    "code": "cr-koto1-230",
+    "index": 230
+  },
+  {
+    "surface": "苦肉の策",
+    "reading": "kunikunosaku",
+    "code": "cr-koto1-231",
+    "index": 231
+  },
+  {
+    "surface": "右も左も分からない",
+    "reading": "migimohidarimowakaranai",
+    "code": "cr-koto1-232",
+    "index": 232
+  },
+  {
+    "surface": "空腹切る",
+    "reading": "kuufukukiru",
+    "code": "cr-koto1-233",
+    "index": 233
+  },
+  {
+    "surface": "碁に凝ると親の死目に逢わぬ",
+    "reading": "gonikorutooyanoshinimeniawanu",
+    "code": "cr-koto1-234",
+    "index": 234
+  },
+  {
+    "surface": "人の褌で相撲を取る",
+    "reading": "hitonofundoshidesumouwotoru",
+    "code": "cr-koto1-235",
+    "index": 235
+  },
+  {
+    "surface": "目糞鼻糞を笑う",
+    "reading": "mekusohanakusowowarau",
+    "code": "cr-koto1-236",
+    "index": 236
+  },
+  {
+    "surface": "あくちも切れぬ",
+    "reading": "akuchimokirenu",
+    "code": "cr-koto1-237",
+    "index": 237
+  },
+  {
+    "surface": "カテゴリ:尾張いろはがるた",
+    "reading": "categoryowariirohacarta",
+    "code": "cr-koto1-238",
+    "index": 238
+  },
+  {
+    "surface": "火事と喧嘩は江戸の華",
+    "reading": "kajitokenkawaedonohana",
+    "code": "cr-koto1-239",
+    "index": 239
+  },
+  {
+    "surface": "花より団子",
+    "reading": "hanayoridango",
+    "code": "cr-koto1-240",
+    "index": 240
+  },
+  {
+    "surface": "梅雨の夕晴れ",
+    "reading": "tsuyunoyuubare",
+    "code": "cr-koto1-241",
+    "index": 241
+  },
+  {
+    "surface": "百害あって一利なし",
+    "reading": "hyakugaiatteichirinashi",
+    "code": "cr-koto1-242",
+    "index": 242
+  },
+  {
+    "surface": "同じ穴の狢",
+    "reading": "onajiananomujina",
+    "code": "cr-koto1-243",
+    "index": 243
+  },
+  {
+    "surface": "あたじけ茄子",
+    "reading": "atajikenasu",
+    "code": "cr-koto1-244",
+    "index": 244
+  },
+  {
+    "surface": "和して同ぜず",
+    "reading": "washitedouzezu",
+    "code": "cr-koto1-245",
+    "index": 245
+  },
+  {
+    "surface": "論語読みの論語知らず",
+    "reading": "rongoyominorongoshirazu",
+    "code": "cr-koto1-246",
+    "index": 246
+  },
+  {
+    "surface": "野球は9回2死から",
+    "reading": "yakyuuwakaishikara",
+    "code": "cr-koto1-247",
+    "index": 247
+  },
+  {
+    "surface": "鬼の目にも涙",
+    "reading": "oninomenimonamida",
+    "code": "cr-koto1-248",
+    "index": 248
+  },
+  {
+    "surface": "重卵より危うし",
+    "reading": "omotamagoyoriayaushi",
+    "code": "cr-koto1-249",
+    "index": 249
+  },
+  {
+    "surface": "噂をすれば",
+    "reading": "uwasawosureba",
+    "code": "cr-koto1-250",
+    "index": 250
+  },
+  {
+    "surface": "月夜に釜をぬかれる",
+    "reading": "tsukiyonikamawonukareru",
+    "code": "cr-koto1-251",
+    "index": 251
+  },
+  {
+    "surface": "猫の子を貰ったよう",
+    "reading": "nekonokowomorattayou",
+    "code": "cr-koto1-252",
+    "index": 252
+  },
+  {
+    "surface": "栄螺の拳、白魚の手",
+    "reading": "sazaenokobushishirauonote",
+    "code": "cr-koto1-253",
+    "index": 253
+  },
+  {
+    "surface": "話上手は聞き上手",
+    "reading": "hanashikamitewakikikamite",
+    "code": "cr-koto1-254",
+    "index": 254
+  },
+  {
+    "surface": "水は方円の器に従う",
+    "reading": "mizuwahouennoutsuwanishitagau",
+    "code": "cr-koto1-255",
+    "index": 255
+  },
+  {
+    "surface": "陰陽師身の上知らず",
+    "reading": "onmyoushiminoueshirazu",
+    "code": "cr-koto1-256",
+    "index": 256
+  },
+  {
+    "surface": "一膳飯は食わぬもの",
+    "reading": "ichizenhanwakuwanumono",
+    "code": "cr-koto1-257",
+    "index": 257
+  },
+  {
+    "surface": "願ったり叶ったり",
+    "reading": "negattarikanattari",
+    "code": "cr-koto1-258",
+    "index": 258
+  },
+  {
+    "surface": "弘法にも筆の誤り",
+    "reading": "guhounimofudenoayamari",
+    "code": "cr-koto1-259",
+    "index": 259
+  },
+  {
+    "surface": "虻蜂取らず",
+    "reading": "abuhachitorazu",
+    "code": "cr-koto1-260",
+    "index": 260
+  },
+  {
+    "surface": "いずれ菖蒲か杜若",
+    "reading": "izureshoubukakakitsubata",
+    "code": "cr-koto1-261",
+    "index": 261
+  },
+  {
+    "surface": "老牛犢を舐る",
+    "reading": "rouushiwoneburu",
+    "code": "cr-koto1-262",
+    "index": 262
+  },
+  {
+    "surface": "ナポリを見て死ね",
+    "reading": "napoliwomiteshine",
+    "code": "cr-koto1-263",
+    "index": 263
+  },
+  {
+    "surface": "氷を歩む",
+    "reading": "kooriwoayumu",
+    "code": "cr-koto1-264",
+    "index": 264
+  },
+  {
+    "surface": "月と鼈",
+    "reading": "tsukitosuppon",
+    "code": "cr-koto1-265",
+    "index": 265
+  },
+  {
+    "surface": "下手な鉄砲も数打ちゃ当たる",
+    "reading": "hetanateppoumokazuuchaataru",
+    "code": "cr-koto1-266",
+    "index": 266
+  },
+  {
+    "surface": "怖いもの見たさ",
+    "reading": "kowaimonomitasa",
+    "code": "cr-koto1-267",
+    "index": 267
+  },
+  {
+    "surface": "雪は豊年の瑞",
+    "reading": "yukiwahounennozui",
+    "code": "cr-koto1-268",
+    "index": 268
+  },
+  {
+    "surface": "医者の不養生",
+    "reading": "ishanofuyoujou",
+    "code": "cr-koto1-269",
+    "index": 269
+  },
+  {
+    "surface": "似非者の空笑い",
+    "reading": "esemononosorawarai",
+    "code": "cr-koto1-270",
+    "index": 270
+  },
+  {
+    "surface": "紺屋の白袴",
+    "reading": "kouyanoshirobakama",
+    "code": "cr-koto1-271",
+    "index": 271
+  },
+  {
+    "surface": "絶景というは樽肴ありてこそ",
+    "reading": "zekkeitoiuwasonsakanaaritekoso",
+    "code": "cr-koto1-272",
+    "index": 272
+  },
+  {
+    "surface": "親は無くとも子は育つ",
+    "reading": "oyawanakutomokowasodatsu",
+    "code": "cr-koto1-273",
+    "index": 273
+  },
+  {
+    "surface": "三度目の正直",
+    "reading": "sandomenoshoujiki",
+    "code": "cr-koto1-274",
+    "index": 274
+  },
+  {
+    "surface": "犬に論語",
+    "reading": "inunirongo",
+    "code": "cr-koto1-275",
+    "index": 275
+  },
+  {
+    "surface": "得心が行く",
+    "reading": "tokushingaiku",
+    "code": "cr-koto1-276",
+    "index": 276
+  },
+  {
+    "surface": "老いては子に従え",
+    "reading": "oitewakonishitagae",
+    "code": "cr-koto1-277",
+    "index": 277
+  },
+  {
+    "surface": "梅雨はつい降るつい上がる",
+    "reading": "tsuyuwatsuifurutsuiagaru",
+    "code": "cr-koto1-278",
+    "index": 278
+  },
+  {
+    "surface": "仏の目を抜く",
+    "reading": "futsunomewonuku",
+    "code": "cr-koto1-279",
+    "index": 279
+  },
+  {
+    "surface": "思い立ったが吉日",
+    "reading": "omoitattagakitsujitsu",
+    "code": "cr-koto1-280",
+    "index": 280
+  },
+  {
+    "surface": "蜀犬日に吠ゆ",
+    "reading": "shokukenhiniyu",
+    "code": "cr-koto1-281",
+    "index": 281
+  },
+  {
+    "surface": "備えあれば憂いなし",
+    "reading": "sonaearebauinashi",
+    "code": "cr-koto1-282",
+    "index": 282
+  },
+  {
+    "surface": "堪忍袋の緒が切れる",
+    "reading": "kanninfukuronoitoguchigakireru",
+    "code": "cr-koto1-283",
+    "index": 283
+  },
+  {
+    "surface": "箸にも棒にもかからぬ",
+    "reading": "hashinimobounimokakaranu",
+    "code": "cr-koto1-284",
+    "index": 284
+  },
+  {
+    "surface": "余り物に福がある",
+    "reading": "amarimononifukugaaru",
+    "code": "cr-koto1-285",
+    "index": 285
+  },
+  {
+    "surface": "大姦は忠に似たり",
+    "reading": "daikanwachuuninitari",
+    "code": "cr-koto1-286",
+    "index": 286
+  },
+  {
+    "surface": "賄賂には誓紙を忘る",
+    "reading": "waironiwaseishiwowasureru",
+    "code": "cr-koto1-287",
+    "index": 287
+  },
+  {
+    "surface": "覆水盆に返らず",
+    "reading": "fukusuibonnikaerazu",
+    "code": "cr-koto1-288",
+    "index": 288
+  },
+  {
+    "surface": "塁を高くし堀を深くす",
+    "reading": "ruiwotakakushihoriwofukakusu",
+    "code": "cr-koto1-289",
+    "index": 289
+  },
+  {
+    "surface": "盗人にも三分の理あり",
+    "reading": "nusubitonimosanbunnoriari",
+    "code": "cr-koto1-290",
+    "index": 290
+  },
+  {
+    "surface": "這っても黒豆",
+    "reading": "hattemokuromame",
+    "code": "cr-koto1-291",
+    "index": 291
+  },
+  {
+    "surface": "七転び八起き",
+    "reading": "shichikorobihachioki",
+    "code": "cr-koto1-292",
+    "index": 292
+  },
+  {
+    "surface": "悪事千里を走る",
+    "reading": "akujisenriwohashiru",
+    "code": "cr-koto1-293",
+    "index": 293
+  },
+  {
+    "surface": "聞くは一時の恥聞かぬは一生の恥",
+    "reading": "kikuwaichijinohajikikanuwaisshounohaji",
+    "code": "cr-koto1-294",
+    "index": 294
+  },
+  {
+    "surface": "二階から目薬",
+    "reading": "nikaikaramegusuri",
+    "code": "cr-koto1-295",
+    "index": 295
+  },
+  {
+    "surface": "鬼瓦にも化粧",
+    "reading": "onigawaranimokeshou",
+    "code": "cr-koto1-296",
+    "index": 296
+  },
+  {
+    "surface": "猫の子一匹いない",
+    "reading": "nekonokoichihikiinai",
+    "code": "cr-koto1-297",
+    "index": 297
+  },
+  {
+    "surface": "一を聞いて十を知る",
+    "reading": "ichiwokiitejuuwoshiru",
+    "code": "cr-koto1-298",
+    "index": 298
+  },
+  {
+    "surface": "五月の鯉の吹流し",
+    "reading": "gogatsunokoinofukinagashi",
+    "code": "cr-koto1-299",
+    "index": 299
+  },
+  {
+    "surface": "知らぬが仏",
+    "reading": "shiranugafutsu",
+    "code": "cr-koto1-300",
+    "index": 300
+  },
+  {
+    "surface": "竿竹で星を打つ",
+    "reading": "saodakedehoshiwoutsu",
+    "code": "cr-koto1-301",
+    "index": 301
+  },
+  {
+    "surface": "読書甚解を求めず",
+    "reading": "dokushojinkaiwomotomezu",
+    "code": "cr-koto1-302",
+    "index": 302
+  },
+  {
+    "surface": "盗人の昼寝",
+    "reading": "nusubitonohirune",
+    "code": "cr-koto1-303",
+    "index": 303
+  },
+  {
+    "surface": "亀の甲より年の功",
+    "reading": "kamenokouyoritoshinokou",
+    "code": "cr-koto1-304",
+    "index": 304
+  },
+  {
+    "surface": "海老で鯛を釣る",
+    "reading": "ebidetaiwotsuru",
+    "code": "cr-koto1-305",
+    "index": 305
+  },
+  {
+    "surface": "遠くの親類より近くの他人",
+    "reading": "tookunoshinruiyorichikakunotanin",
+    "code": "cr-koto1-306",
+    "index": 306
+  },
+  {
+    "surface": "念には念を入れよ",
+    "reading": "nenniwanenwoireyo",
+    "code": "cr-koto1-307",
+    "index": 307
+  },
+  {
+    "surface": "憎まれっ子世にはばかる",
+    "reading": "nikumarekkoseinihabakaru",
+    "code": "cr-koto1-308",
+    "index": 308
+  },
+  {
+    "surface": "提灯に釣鐘",
+    "reading": "chouchinnitsurigane",
+    "code": "cr-koto1-309",
+    "index": 309
+  },
+  {
+    "surface": "名は体を現わす",
+    "reading": "nawakaradawoarawasu",
+    "code": "cr-koto1-310",
+    "index": 310
+  },
+  {
+    "surface": "猫の目",
+    "reading": "nekonome",
+    "code": "cr-koto1-311",
+    "index": 311
+  },
+  {
+    "surface": "嘘吐きは泥棒の始まり",
+    "reading": "usotsukiwadorobounohajimari",
+    "code": "cr-koto1-312",
+    "index": 312
+  },
+  {
+    "surface": "カテゴリ:江戸いろはがるた",
+    "reading": "categoryedoirohacarta",
+    "code": "cr-koto1-313",
+    "index": 313
+  },
+  {
+    "surface": "三人寄れば文殊の知恵",
+    "reading": "sanninyorebamonjunochie",
+    "code": "cr-koto1-314",
+    "index": 314
+  },
+  {
+    "surface": "いつまでもあると思うな親と金",
+    "reading": "itsumademoarutoomounaoyatokin",
+    "code": "cr-koto1-315",
+    "index": 315
+  },
+  {
+    "surface": "一髪千鈞を引く",
+    "reading": "ippatsusenkinwohiku",
+    "code": "cr-koto1-316",
+    "index": 316
+  },
+  {
+    "surface": "芻豢甘きを加えず",
+    "reading": "kankiwokuwaezu",
+    "code": "cr-koto1-317",
+    "index": 317
+  },
+  {
+    "surface": "水清ければ魚棲まず",
+    "reading": "mizukiyokerebasakanasumazu",
+    "code": "cr-koto1-318",
+    "index": 318
+  },
+  {
+    "surface": "四十八鷹",
+    "reading": "yonjuuhachitaka",
+    "code": "cr-koto1-319",
+    "index": 319
+  },
+  {
+    "surface": "あんだら百の阿呆らし",
+    "reading": "andarahyakunoahourashi",
+    "code": "cr-koto1-320",
+    "index": 320
+  },
+  {
+    "surface": "待てば海路の日和あり",
+    "reading": "matebakaironohiyoriari",
+    "code": "cr-koto1-321",
+    "index": 321
+  },
+  {
+    "surface": "薄氷を履む",
+    "reading": "hakuhyouwofumu",
+    "code": "cr-koto1-322",
+    "index": 322
+  },
+  {
+    "surface": "親の意見と冷や酒は後で効く",
+    "reading": "oyanoikentohiyazakewaatodekiku",
+    "code": "cr-koto1-323",
+    "index": 323
+  },
+  {
+    "surface": "姉さん股ぐら金箱だ",
+    "reading": "anesanmatagurakanebakoda",
+    "code": "cr-koto1-324",
+    "index": 324
+  },
+  {
+    "surface": "神様にも祝詞",
+    "reading": "kamisamanimonorito",
+    "code": "cr-koto1-325",
+    "index": 325
+  },
+  {
+    "surface": "来年の事を言えば鬼が笑う",
+    "reading": "rainennokotowoiebaonigawarau",
+    "code": "cr-koto1-326",
+    "index": 326
+  },
+  {
+    "surface": "水の泡となる",
+    "reading": "mizunoawatonaru",
+    "code": "cr-koto1-327",
+    "index": 327
+  },
+  {
+    "surface": "悪妻は百年の不作",
+    "reading": "akusaiwahyakunennofusaku",
+    "code": "cr-koto1-328",
+    "index": 328
+  },
+  {
+    "surface": "鬼も十八",
+    "reading": "onimojuuhachi",
+    "code": "cr-koto1-329",
+    "index": 329
+  },
+  {
+    "surface": "彼も人なり、我も人なり",
+    "reading": "karemohitonariwaremohitonari",
+    "code": "cr-koto1-330",
+    "index": 330
+  },
+  {
+    "surface": "卵を割らないでオムレツは作れない",
+    "reading": "tamagowowaranaideomeletwatsukurenai",
+    "code": "cr-koto1-331",
+    "index": 331
+  },
+  {
+    "surface": "挨拶は時の氏神",
+    "reading": "aisatsuwatokinoujigami",
+    "code": "cr-koto1-332",
+    "index": 332
+  },
+  {
+    "surface": "酸いも甘いも嚙み分ける",
+    "reading": "suimoamaimokamiwakeru",
+    "code": "cr-koto1-333",
+    "index": 333
+  },
+  {
+    "surface": "捨てる神あれば拾う神あり",
+    "reading": "suterukamiarebahiroukamiari",
+    "code": "cr-koto1-334",
+    "index": 334
+  },
+  {
+    "surface": "氏より育ち",
+    "reading": "shiyorisodachi",
+    "code": "cr-koto1-335",
+    "index": 335
+  },
+  {
+    "surface": "苦肉の計",
+    "reading": "kunikunokei",
+    "code": "cr-koto1-336",
+    "index": 336
+  },
+  {
+    "surface": "俎板の上の鯉",
+    "reading": "manaitanouenokoi",
+    "code": "cr-koto1-337",
+    "index": 337
+  },
+  {
+    "surface": "江戸の敵を長崎で討つ",
+    "reading": "edonotekiwonagasakideutsu",
+    "code": "cr-koto1-338",
+    "index": 338
+  },
+  {
+    "surface": "貧乏人の子沢山",
+    "reading": "binbouninnokotakusan",
+    "code": "cr-koto1-339",
+    "index": 339
+  },
+  {
+    "surface": "虎の尾を履む",
+    "reading": "toranoowofumu",
+    "code": "cr-koto1-340",
+    "index": 340
+  },
+  {
+    "surface": "礼に始まり乱に終わる",
+    "reading": "reinihajimariranniowaru",
+    "code": "cr-koto1-341",
+    "index": 341
+  },
+  {
+    "surface": "金は天下の回り物",
+    "reading": "kinwatenkanomawarimono",
+    "code": "cr-koto1-342",
+    "index": 342
+  },
+  {
+    "surface": "梅雨の雨は晴れる",
+    "reading": "tsuyunoamewahareru",
+    "code": "cr-koto1-343",
+    "index": 343
+  },
+  {
+    "surface": "一膳飯は餓鬼の餌",
+    "reading": "ichizenhanwagakinoesa",
+    "code": "cr-koto1-344",
+    "index": 344
+  },
+  {
+    "surface": "上手の手から水が漏れる",
+    "reading": "jouzunotekaramizugamoreru",
+    "code": "cr-koto1-345",
+    "index": 345
+  },
+  {
+    "surface": "生まれぬ先の襁褓さだめ",
+    "reading": "umarenusakinooshimesadame",
+    "code": "cr-koto1-346",
+    "index": 346
+  },
+  {
+    "surface": "柔能く剛を制す",
+    "reading": "yawayokugouwoseisu",
+    "code": "cr-koto1-347",
+    "index": 347
+  },
+  {
+    "surface": "猫に鰹節",
+    "reading": "nekonikatsuobushi",
+    "code": "cr-koto1-348",
+    "index": 348
+  },
+  {
+    "surface": "挨拶より円札",
+    "reading": "aisatsuyoriensatsu",
+    "code": "cr-koto1-349",
+    "index": 349
+  },
+  {
+    "surface": "諸刃の剣",
+    "reading": "morohanoken",
+    "code": "cr-koto1-350",
+    "index": 350
+  },
+  {
+    "surface": "雨後の筍",
+    "reading": "ugonotakenoko",
+    "code": "cr-koto1-351",
+    "index": 351
+  },
+  {
+    "surface": "塞翁が馬",
+    "reading": "saiougauma",
+    "code": "cr-koto1-352",
+    "index": 352
+  },
+  {
+    "surface": "盲蛇に怖じず",
+    "reading": "mouhebiniojizu",
+    "code": "cr-koto1-353",
+    "index": 353
+  },
+  {
+    "surface": "一二に及ばず",
+    "reading": "ichininioyobazu",
+    "code": "cr-koto1-354",
+    "index": 354
+  },
+  {
+    "surface": "竜の鬚を撫で虎の尾を履む",
+    "reading": "ryuunohigewonadetoranoowofumu",
+    "code": "cr-koto1-355",
+    "index": 355
+  },
+  {
+    "surface": "鉄は熱い内に打て",
+    "reading": "tetsuwaatsuiuchiniute",
+    "code": "cr-koto1-356",
+    "index": 356
+  },
+  {
+    "surface": "冬来りなば春遠からじ",
+    "reading": "fuyukitarinabaharutookaraji",
+    "code": "cr-koto1-357",
+    "index": 357
+  },
+  {
+    "surface": "焼け石に水",
+    "reading": "yakeishinimizu",
+    "code": "cr-koto1-358",
+    "index": 358
+  },
+  {
+    "surface": "豚に真珠",
+    "reading": "butanishinju",
+    "code": "cr-koto1-359",
+    "index": 359
+  },
+  {
+    "surface": "一二を争う",
+    "reading": "ichiniwoarasou",
+    "code": "cr-koto1-360",
+    "index": 360
+  },
+  {
+    "surface": "逃ぐるも一手",
+    "reading": "nigegurumoitte",
+    "code": "cr-koto1-361",
+    "index": 361
+  },
+  {
+    "surface": "あかふゆうじ隣の御器洗い",
+    "reading": "akafuyuujitonarinooutsuwaarai",
+    "code": "cr-koto1-362",
+    "index": 362
+  },
+  {
+    "surface": "千鈞の重み",
+    "reading": "senkinnoomomi",
+    "code": "cr-koto1-363",
+    "index": 363
+  },
+  {
+    "surface": "恩を仇で返す",
+    "reading": "onwoadadekaesu",
+    "code": "cr-koto1-364",
+    "index": 364
+  },
+  {
+    "surface": "信言は美ならず、美言は信ならず",
+    "reading": "shingenwabinarazubigenwashinnarazu",
+    "code": "cr-koto1-365",
+    "index": 365
+  },
+  {
+    "surface": "逃がした魚は大きい",
+    "reading": "nigashitasakanawaookii",
+    "code": "cr-koto1-366",
+    "index": 366
+  },
+  {
+    "surface": "群盲象を評す",
+    "reading": "gunmouzouwohyousu",
+    "code": "cr-koto1-367",
+    "index": 367
+  },
+  {
+    "surface": "芸は身を助ける",
+    "reading": "geiwamiwotasukeru",
+    "code": "cr-koto1-368",
+    "index": 368
+  },
+  {
+    "surface": "禍を転じて福となす",
+    "reading": "kawotenjitefukutonasu",
+    "code": "cr-koto1-369",
+    "index": 369
+  },
+  {
+    "surface": "棚から牡丹餅",
+    "reading": "tanakarabotamochi",
+    "code": "cr-koto1-370",
+    "index": 370
+  },
+  {
+    "surface": "良薬口に苦し",
+    "reading": "ryouyakukuchinikurushi",
+    "code": "cr-koto1-371",
+    "index": 371
+  },
+  {
+    "surface": "年寄り子は三文安い",
+    "reading": "toshiyorikowasanbunyasui",
+    "code": "cr-koto1-372",
+    "index": 372
+  },
+  {
+    "surface": "累卵の危うき",
+    "reading": "ruirannoayauki",
+    "code": "cr-koto1-373",
+    "index": 373
+  },
+  {
+    "surface": "虫も殺さぬ",
+    "reading": "mushimokorosanu",
+    "code": "cr-koto1-374",
+    "index": 374
+  },
+  {
+    "surface": "飢えた犬は棒を恐れず",
+    "reading": "uetainuwabouwoosorezu",
+    "code": "cr-koto1-375",
+    "index": 375
+  },
+  {
+    "surface": "一難去ってまた一難",
+    "reading": "ichinansattemataichinan",
+    "code": "cr-koto1-376",
+    "index": 376
+  },
+  {
+    "surface": "暑さ寒さも彼岸まで",
+    "reading": "atsusasamusamohiganmade",
+    "code": "cr-koto1-377",
+    "index": 377
+  },
+  {
+    "surface": "石の上にも三年",
+    "reading": "ishinouenimosannen",
+    "code": "cr-koto1-378",
+    "index": 378
+  },
+  {
+    "surface": "釈迦に説法",
+    "reading": "shakaniseppou",
+    "code": "cr-koto1-379",
+    "index": 379
+  },
+  {
+    "surface": "少年老い易く学成り難し",
+    "reading": "shounenoiyasukugakunarigatashi",
+    "code": "cr-koto1-380",
+    "index": 380
+  },
+  {
+    "surface": "命は宝の宝",
+    "reading": "inochiwatakaranotakara",
+    "code": "cr-koto1-381",
+    "index": 381
+  },
+  {
+    "surface": "早起きは三文の徳",
+    "reading": "hayaokiwasanbunnotoku",
+    "code": "cr-koto1-382",
+    "index": 382
+  },
+  {
+    "surface": "三つ子の魂百まで",
+    "reading": "mittsukonotamashiihyakumade",
+    "code": "cr-koto1-383",
+    "index": 383
+  },
+  {
+    "surface": "巧詐は拙誠に如かず",
+    "reading": "takumiwatsutanamakotonishikazu",
+    "code": "cr-koto1-384",
+    "index": 384
+  },
+  {
+    "surface": "大根どきの医者いらず",
+    "reading": "daikondokinoishairazu",
+    "code": "cr-koto1-385",
+    "index": 385
+  },
+  {
+    "surface": "恐い物知らず",
+    "reading": "kowaimonoshirazu",
+    "code": "cr-koto1-386",
+    "index": 386
+  },
+  {
+    "surface": "大山鳴動して鼠一匹",
+    "reading": "daisenmeidoushitenezumiichihiki",
+    "code": "cr-koto1-387",
+    "index": 387
+  },
+  {
+    "surface": "肉を切らせて骨を断つ",
+    "reading": "nikuwokirasetehonewotatsu",
+    "code": "cr-koto1-388",
+    "index": 388
+  },
+  {
+    "surface": "蛙の面へ水",
+    "reading": "kawazunomenemizu",
+    "code": "cr-koto1-389",
+    "index": 389
+  },
+  {
+    "surface": "雀百まで踊り忘れず",
+    "reading": "suzumehyakumadeodoriwasurezu",
+    "code": "cr-koto1-390",
+    "index": 390
+  },
+  {
+    "surface": "善は急げ",
+    "reading": "zenwaisoge",
+    "code": "cr-koto1-391",
+    "index": 391
+  },
+  {
+    "surface": "肉を切らせて骨を切る",
+    "reading": "nikuwokirasetehonewokiru",
+    "code": "cr-koto1-392",
+    "index": 392
+  },
+  {
+    "surface": "女は乱の基",
+    "reading": "onnawarannomoto",
+    "code": "cr-koto1-393",
+    "index": 393
+  },
+  {
+    "surface": "井の中の蛙大海を知らず",
+    "reading": "inonakanokawazutaikaiwoshirazu",
+    "code": "cr-koto1-394",
+    "index": 394
+  },
+  {
+    "surface": "藪をつついて蛇を出す",
+    "reading": "yabuwotsutsuitehebiwodasu",
+    "code": "cr-koto1-395",
+    "index": 395
+  },
+  {
+    "surface": "色気より食い気",
+    "reading": "irokeyorikuike",
+    "code": "cr-koto1-396",
+    "index": 396
+  },
+  {
+    "surface": "触らぬ漆に負けぬ",
+    "reading": "sawaranuurushinimakenu",
+    "code": "cr-koto1-397",
+    "index": 397
+  },
+  {
+    "surface": "出る杭は打たれる",
+    "reading": "derukuiwautareru",
+    "code": "cr-koto1-398",
+    "index": 398
+  },
+  {
+    "surface": "後悔先に立たず",
+    "reading": "koukaisakinitatazu",
+    "code": "cr-koto1-399",
+    "index": 399
+  },
+  {
+    "surface": "秋波を送る",
+    "reading": "shuuhawookuru",
+    "code": "cr-koto1-400",
+    "index": 400
+  },
+  {
+    "surface": "東難南難西寿北福",
+    "reading": "higashinanminaminannishijukitafuku",
+    "code": "cr-koto1-401",
+    "index": 401
+  },
+  {
+    "surface": "柳の下の鰌",
+    "reading": "yanaginoshitano",
+    "code": "cr-koto1-402",
+    "index": 402
+  },
+  {
+    "surface": "馬鹿と鋏は使いよう",
+    "reading": "bakatohasamiwatsukaiyou",
+    "code": "cr-koto1-403",
+    "index": 403
+  },
+  {
+    "surface": "情けは人の為ならず",
+    "reading": "nasakewahitonotamenarazu",
+    "code": "cr-koto1-404",
+    "index": 404
+  },
+  {
+    "surface": "索麺で首括る",
+    "reading": "soumendekubikukuru",
+    "code": "cr-koto1-405",
+    "index": 405
+  },
+  {
+    "surface": "遠慮なければ近憂あり",
+    "reading": "enryonakerebakinureiari",
+    "code": "cr-koto1-406",
+    "index": 406
+  },
+  {
+    "surface": "余り物に福あり",
+    "reading": "amarimononifukuari",
+    "code": "cr-koto1-407",
+    "index": 407
+  },
+  {
+    "surface": "郷に入っては郷に従え",
+    "reading": "satonihaittewasatonishitagae",
+    "code": "cr-koto1-408",
+    "index": 408
+  },
+  {
+    "surface": "鴨が葱を背負って来る",
+    "reading": "kamogakiwoseottekuru",
+    "code": "cr-koto1-409",
+    "index": 409
+  },
+  {
+    "surface": "累卵より危うし",
+    "reading": "ruiranyoriayaushi",
+    "code": "cr-koto1-410",
+    "index": 410
+  },
+  {
+    "surface": "あじょうにもかじょうにも",
+    "reading": "ajounimokajounimo",
+    "code": "cr-koto1-411",
+    "index": 411
+  },
+  {
+    "surface": "鬼の居ぬ間の洗濯",
+    "reading": "oninoinumanosentaku",
+    "code": "cr-koto1-412",
+    "index": 412
+  },
+  {
+    "surface": "あどを打つ",
+    "reading": "adowoutsu",
+    "code": "cr-koto1-413",
+    "index": 413
+  },
+  {
+    "surface": "猫に経",
+    "reading": "nekonihe",
+    "code": "cr-koto1-414",
+    "index": 414
+  },
+  {
+    "surface": "濡れ手で粟",
+    "reading": "nuretedeawa",
+    "code": "cr-koto1-415",
+    "index": 415
+  },
+  {
+    "surface": "かわいい子には旅をさせよ",
+    "reading": "kawaiikoniwatabiwosaseyo",
+    "code": "cr-koto1-416",
+    "index": 416
+  },
+  {
+    "surface": "隣の芝生は青い",
+    "reading": "tonarinoshibafuwaaoi",
+    "code": "cr-koto1-417",
+    "index": 417
+  },
+  {
+    "surface": "落ち武者は薄の穂にも怖ず",
+    "reading": "ochimushawausunohonimokowazu",
+    "code": "cr-koto1-418",
+    "index": 418
+  },
+  {
+    "surface": "栴檀は双葉より芳し",
+    "reading": "sendanwafutabayorikanbashi",
+    "code": "cr-koto1-419",
+    "index": 419
+  },
+  {
+    "surface": "虎の口へ手を入れる",
+    "reading": "toranokuchietewoireru",
+    "code": "cr-koto1-420",
+    "index": 420
+  },
+  {
+    "surface": "鶴は千年亀は万年",
+    "reading": "tsuruwasennenkamewamannen",
+    "code": "cr-koto1-421",
+    "index": 421
+  },
+  {
+    "surface": "骨折り損のくたびれ儲け",
+    "reading": "honeorisonnokutabiremouke",
+    "code": "cr-koto1-422",
+    "index": 422
+  },
+  {
+    "surface": "触らぬ神に罰あたらぬ",
+    "reading": "sawaranukaminibatsuataranu",
+    "code": "cr-koto1-423",
+    "index": 423
+  },
+  {
+    "surface": "下手の横好き",
+    "reading": "hetanoyokozuki",
+    "code": "cr-koto1-424",
+    "index": 424
+  },
+  {
+    "surface": "女は下げて育てよ",
+    "reading": "onnawasagetesodateyo",
+    "code": "cr-koto1-425",
+    "index": 425
+  },
+  {
+    "surface": "痩せの大食い",
+    "reading": "yasenooogui",
+    "code": "cr-koto1-426",
+    "index": 426
+  },
+  {
+    "surface": "好きこそものの上手なれ",
+    "reading": "sukikosomononojouzunare",
+    "code": "cr-koto1-427",
+    "index": 427
+  },
+  {
+    "surface": "独活の大木",
+    "reading": "dokkatsunotaiboku",
+    "code": "cr-koto1-428",
+    "index": 428
+  },
+  {
+    "surface": "坊主憎けりゃ袈裟まで憎い",
+    "reading": "bouzunikukeryakesamadenikui",
+    "code": "cr-koto1-429",
+    "index": 429
+  },
+  {
+    "surface": "ちりも積もれば山となる",
+    "reading": "chirimotsumorebayamatonaru",
+    "code": "cr-koto1-430",
+    "index": 430
+  },
+  {
+    "surface": "危うきこと虎の尾を履むが如し",
+    "reading": "ayaukikototoranoowofumugagotoshi",
+    "code": "cr-koto1-431",
+    "index": 431
+  },
+  {
+    "surface": "天災は忘れた頃にやってくる",
+    "reading": "tensaiwawasuretakoroniyattekuru",
+    "code": "cr-koto1-432",
+    "index": 432
+  },
+  {
+    "surface": "年寄りの冷や水",
+    "reading": "toshiyorinohiyamizu",
+    "code": "cr-koto1-433",
+    "index": 433
+  },
+  {
+    "surface": "長い物には巻かれろ",
+    "reading": "nagaimononiwamakarero",
+    "code": "cr-koto1-434",
+    "index": 434
+  },
+  {
+    "surface": "柿が赤くなると医者が青くなる",
+    "reading": "kakigaakakunarutoishagaaokunaru",
+    "code": "cr-koto1-435",
+    "index": 435
+  },
+  {
+    "surface": "読書は心豊かな人を作る",
+    "reading": "dokushowakokoroyutakanahitowotsukuru",
+    "code": "cr-koto1-436",
+    "index": 436
+  },
+  {
+    "surface": "縁は異なもの",
+    "reading": "enwainamono",
+    "code": "cr-koto1-437",
+    "index": 437
+  },
+  {
+    "surface": "清水の舞台から飛び下りる",
+    "reading": "shimizunobutaikaratobioriru",
+    "code": "cr-koto1-438",
+    "index": 438
+  },
+  {
+    "surface": "口は災いの元",
+    "reading": "kuchiwawazawainomoto",
+    "code": "cr-koto1-439",
+    "index": 439
+  },
+  {
+    "surface": "嘘から出た実",
+    "reading": "usokaradetajitsu",
+    "code": "cr-koto1-440",
+    "index": 440
+  },
+  {
+    "surface": "曲者の空笑い",
+    "reading": "kusemononosorawarai",
+    "code": "cr-koto1-441",
+    "index": 441
+  },
+  {
+    "surface": "庇を貸して母屋を取られる",
+    "reading": "hisashiwokashiteomoyawotorareru",
+    "code": "cr-koto1-442",
+    "index": 442
+  },
+  {
+    "surface": "梅雨は蚤蚊のふけ盛り",
+    "reading": "tsuyuwanomikanofukemori",
+    "code": "cr-koto1-443",
+    "index": 443
+  },
+  {
+    "surface": "さよなら三角またきて四角",
+    "reading": "sayonarasankakumatakiteshikaku",
+    "code": "cr-koto1-444",
+    "index": 444
+  },
+  {
+    "surface": "竜の頷の珠を取る",
+    "reading": "ryuunonotamawotoru",
+    "code": "cr-koto1-445",
+    "index": 445
+  },
+  {
+    "surface": "横槍を入れる",
+    "reading": "yokoyariwoireru",
+    "code": "cr-koto1-446",
+    "index": 446
+  },
+  {
+    "surface": "急がば回れ",
+    "reading": "isogabamaware",
+    "code": "cr-koto1-447",
+    "index": 447
+  },
+  {
+    "surface": "豚もおだてりゃ木に登る",
+    "reading": "butamoodateryakininoboru",
+    "code": "cr-koto1-448",
+    "index": 448
+  },
+  {
+    "surface": "帯に短く襷に長し",
+    "reading": "obinimijikakutasukininagashi",
+    "code": "cr-koto1-449",
+    "index": 449
+  },
+  {
+    "surface": "表白を言う",
+    "reading": "hyouhakuwoyuu",
+    "code": "cr-koto1-450",
+    "index": 450
+  },
+  {
+    "surface": "面目を失う",
+    "reading": "menbokuwoushinau",
+    "code": "cr-koto1-451",
+    "index": 451
+  },
+  {
+    "surface": "瓜田に履を納れず、李下に冠を正さず",
+    "reading": "kadenniwoirezurikanikanmuriwotadasazu",
+    "code": "cr-koto1-452",
+    "index": 452
+  },
+  {
+    "surface": "猫に鰹",
+    "reading": "nekonikatsuo",
+    "code": "cr-koto1-453",
+    "index": 453
+  },
+  {
+    "surface": "鬼に金棒",
+    "reading": "oninikanabou",
+    "code": "cr-koto1-454",
+    "index": 454
+  },
+  {
+    "surface": "悪口を切る",
+    "reading": "waruguchiwokiru",
+    "code": "cr-koto1-455",
+    "index": 455
+  },
+  {
+    "surface": "雨降って地固まる",
+    "reading": "amefuttechikatamaru",
+    "code": "cr-koto1-456",
+    "index": 456
+  },
+  {
+    "surface": "鳴かず飛ばず",
+    "reading": "nakazutobazu",
+    "code": "cr-koto1-457",
+    "index": 457
+  },
+  {
+    "surface": "越犬雪に吠ゆ",
+    "reading": "etsukenyukiniyu",
+    "code": "cr-koto1-458",
+    "index": 458
+  },
+  {
+    "surface": "空腹病む",
+    "reading": "kuufukuyamu",
+    "code": "cr-koto1-459",
+    "index": 459
+  },
+  {
+    "surface": "薬も過ぎれば毒となる",
+    "reading": "kusurimosugirebadokutonaru",
+    "code": "cr-koto1-460",
+    "index": 460
+  },
+  {
+    "surface": "河豚は食いたし命は惜しし",
+    "reading": "fuguwakuitashiinochiwaoshishi",
+    "code": "cr-koto1-461",
+    "index": 461
+  },
+  {
+    "surface": "仏の箔をはがす",
+    "reading": "futsunohakuwohagasu",
+    "code": "cr-koto1-462",
+    "index": 462
+  },
+  {
+    "surface": "津波てんでんこ",
+    "reading": "tsunamitendenko",
+    "code": "cr-koto1-463",
+    "index": 463
+  },
+  {
+    "surface": "祖母育ちは三百廉い",
+    "reading": "sobosodachiwasanbyakuyashii",
+    "code": "cr-koto1-464",
+    "index": 464
+  },
+  {
+    "surface": "金は世界の回り物",
+    "reading": "kinwasekainomawarimono",
+    "code": "cr-koto1-465",
+    "index": 465
+  },
+  {
+    "surface": "蝉は七日の寿命",
+    "reading": "semiwananakanojumyou",
+    "code": "cr-koto1-466",
+    "index": 466
+  },
+  {
+    "surface": "案ずるより生むが易し",
+    "reading": "anzuruyoriumugayasushi",
+    "code": "cr-koto1-467",
+    "index": 467
+  },
+  {
+    "surface": "苦肉の謀",
+    "reading": "kunikunohakarigoto",
+    "code": "cr-koto1-468",
+    "index": 468
+  },
+  {
+    "surface": "昔取った杵柄",
+    "reading": "mukashitottakinezuka",
+    "code": "cr-koto1-469",
+    "index": 469
+  },
+  {
+    "surface": "一寸の虫にも五分の魂",
+    "reading": "ichisunnomushinimogobunnotamashii",
+    "code": "cr-koto1-470",
+    "index": 470
+  },
+  {
+    "surface": "過ぎたるは猶及ばざるが如し",
+    "reading": "sugitaruwanaooyobazarugagotoshi",
+    "code": "cr-koto1-471",
+    "index": 471
+  },
+  {
+    "surface": "触らぬ神に祟り無し",
+    "reading": "sawaranukaminitatarinashi",
+    "code": "cr-koto1-472",
+    "index": 472
+  },
+  {
+    "surface": "蛞蝓の江戸行き",
+    "reading": "namekujinoedoiki",
+    "code": "cr-koto1-473",
+    "index": 473
+  },
+  {
+    "surface": "当るも八卦当らぬも八卦",
+    "reading": "atarumohakkeataranumohakke",
+    "code": "cr-koto1-474",
+    "index": 474
+  },
+  {
+    "surface": "残り物に福がある",
+    "reading": "nokorimononifukugaaru",
+    "code": "cr-koto1-475",
+    "index": 475
+  },
+  {
+    "surface": "蛙の頬冠り",
+    "reading": "kawazunohookamuri",
+    "code": "cr-koto1-476",
+    "index": 476
+  },
+  {
+    "surface": "忠言耳に逆らう",
+    "reading": "chuugenmiminisakarau",
+    "code": "cr-koto1-477",
+    "index": 477
+  },
+  {
+    "surface": "疑心暗鬼を生ず",
+    "reading": "gishinankiwoshouzu",
+    "code": "cr-koto1-478",
+    "index": 478
+  },
+  {
+    "surface": "火のないところに煙は立たない",
+    "reading": "hinonaitokoronikemuriwatatanai",
+    "code": "cr-koto1-479",
+    "index": 479
+  },
+  {
+    "surface": "臭い物に蓋をする",
+    "reading": "kusaimononifutawosuru",
+    "code": "cr-koto1-480",
+    "index": 480
+  },
+  {
+    "surface": "石を射て羽を飲む",
+    "reading": "ishiwoitehanewonomu",
+    "code": "cr-koto1-481",
+    "index": 481
+  },
+  {
+    "surface": "蜘蛛の巣で石を吊る",
+    "reading": "kumonosudeishiwotsuru",
+    "code": "cr-koto1-482",
+    "index": 482
+  },
+  {
+    "surface": "石橋を叩いて渡る",
+    "reading": "ishibashiwotataitewataru",
+    "code": "cr-koto1-483",
+    "index": 483
+  },
+  {
+    "surface": "一樹の蔭一河の流れも他生の縁",
+    "reading": "ichijunokageichiganonagaremotashounoen",
+    "code": "cr-koto1-484",
+    "index": 484
+  },
+  {
+    "surface": "規矩準縄を正す",
+    "reading": "kikujunjouwotadasu",
+    "code": "cr-koto1-485",
+    "index": 485
+  },
+  {
+    "surface": "盗人にも仁義あり",
+    "reading": "nusubitonimojingiari",
+    "code": "cr-koto1-486",
+    "index": 486
+  },
+  {
+    "surface": "やらない後悔よりやる後悔",
+    "reading": "yaranaikoukaiyoriyarukoukai",
+    "code": "cr-koto1-487",
+    "index": 487
+  },
+  {
+    "surface": "鸚鵡よく言えども飛鳥を離れず",
+    "reading": "oumuyokuiedomoasukawohanarezu",
+    "code": "cr-koto1-488",
+    "index": 488
+  },
+  {
+    "surface": "魚心あれば水心あり",
+    "reading": "uogokoroarebamizugokoroari",
+    "code": "cr-koto1-489",
+    "index": 489
+  },
+  {
+    "surface": "破れ鍋に綴じ蓋",
+    "reading": "warenabenitojibuta",
+    "code": "cr-koto1-490",
+    "index": 490
+  },
+  {
+    "surface": "雉も鳴かずば撃たれまい",
+    "reading": "kijimonakazubautaremai",
+    "code": "cr-koto1-491",
+    "index": 491
+  },
+  {
+    "surface": "ごぼうを同じ土地に二年作らぬ者は馬鹿",
+    "reading": "gobouwoonajitochinininentsukuranumonowabaka",
+    "code": "cr-koto1-492",
+    "index": 492
+  },
+  {
+    "surface": "鳶に油揚げをさらわれる",
+    "reading": "tobiniaburaagewosarawareru",
+    "code": "cr-koto1-493",
+    "index": 493
+  },
+  {
+    "surface": "兎死すれば狐これを悲しむ",
+    "reading": "usagishisurebakitsunekorewokanashimu",
+    "code": "cr-koto1-494",
+    "index": 494
+  },
+  {
+    "surface": "残り物に福あり",
+    "reading": "nokorimononifukuari",
+    "code": "cr-koto1-495",
+    "index": 495
+  },
+  {
+    "surface": "盗人猛猛しい",
+    "reading": "nusubitotakedakeshii",
+    "code": "cr-koto1-496",
+    "index": 496
+  },
+  {
+    "surface": "あいだてないは祖母育ち",
+    "reading": "aidatenaiwasobosodachi",
+    "code": "cr-koto1-497",
+    "index": 497
+  },
+  {
+    "surface": "ブルータス、お前もか",
+    "reading": "buruutasuomaemoka",
+    "code": "cr-koto1-498",
+    "index": 498
+  },
+  {
+    "surface": "喉元過ぎれば熱さを忘れる",
+    "reading": "nodomotosugirebaatsusawowasureru",
+    "code": "cr-koto1-499",
+    "index": 499
+  },
+  {
+    "surface": "栴檀は二葉より芳し",
+    "reading": "sendanwaniyouyorikanbashi",
+    "code": "cr-koto1-500",
+    "index": 500
+  },
+  {
+    "surface": "馬子にも衣装",
+    "reading": "magonimoishou",
+    "code": "cr-koto1-501",
+    "index": 501
+  },
+  {
+    "surface": "魚は頭から腐る",
+    "reading": "sakanawaatamakarakusaru",
+    "code": "cr-koto1-502",
+    "index": 502
+  },
+  {
+    "surface": "人の噂も七十五日",
+    "reading": "hitonouwasamonanajuugonichi",
+    "code": "cr-koto1-503",
+    "index": 503
+  },
+  {
+    "surface": "好奇心は猫を殺す",
+    "reading": "koukishinwanekowokorosu",
+    "code": "cr-koto1-504",
+    "index": 504
+  },
+  {
+    "surface": "あともそとも言う",
+    "reading": "atomosotomoyuu",
+    "code": "cr-koto1-505",
+    "index": 505
+  },
+  {
+    "surface": "賽は投げられたり",
+    "reading": "saiwanageraretari",
+    "code": "cr-koto1-506",
+    "index": 506
+  },
+  {
+    "surface": "うんこも団子も",
+    "reading": "unkomodangomo",
+    "code": "cr-koto1-507",
+    "index": 507
+  },
+  {
+    "surface": "あばたもえくぼ",
+    "reading": "arbudamoekubo",
+    "code": "cr-koto1-508",
+    "index": 508
+  },
+  {
+    "surface": "あべかこの新介",
+    "reading": "abekakonoshinsuke",
+    "code": "cr-koto1-509",
+    "index": 509
+  },
+  {
+    "surface": "火に油を注ぐ",
+    "reading": "hiniaburawososogu",
+    "code": "cr-koto1-510",
+    "index": 510
+  },
+  {
+    "surface": "馬の耳に風",
+    "reading": "umanomiminikaze",
+    "code": "cr-koto1-511",
+    "index": 511
+  },
+  {
+    "surface": "偃鼠河に飲むも満腹に過ぎず",
+    "reading": "ennezumikawaninomumomanpukunisugizu",
+    "code": "cr-koto1-512",
+    "index": 512
+  },
+  {
+    "surface": "火中の栗を拾う",
+    "reading": "kachuunokuriwohirou",
+    "code": "cr-koto1-513",
+    "index": 513
+  },
+  {
+    "surface": "栄螺に金平糖",
+    "reading": "sazaeniconfeito",
+    "code": "cr-koto1-514",
+    "index": 514
+  },
+  {
+    "surface": "じたばたしても鶏は裸足",
+    "reading": "jitabatashitemoniwatoriwahadashi",
+    "code": "cr-koto1-515",
+    "index": 515
+  },
+  {
+    "surface": "蝉は夏を知らない",
+    "reading": "semiwanatsuwoshiranai",
+    "code": "cr-koto1-516",
+    "index": 516
+  },
+  {
+    "surface": "あっと言わせる",
+    "reading": "attoiwaseru",
+    "code": "cr-koto1-517",
+    "index": 517
+  },
+  {
+    "surface": "鬼が笑う",
+    "reading": "onigawarau",
+    "code": "cr-koto1-518",
+    "index": 518
+  }
+]

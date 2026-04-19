@@ -1,0 +1,1952 @@
+[
+  {
+    "surface": "ワガドゥグー",
+    "reading": "ouagadougou",
+    "code": "cr-kata10-0",
+    "index": 0
+  },
+  {
+    "surface": "ワスレグサ",
+    "reading": "wasuregusa",
+    "code": "cr-kata10-1",
+    "index": 1
+  },
+  {
+    "surface": "ワルキュリエ",
+    "reading": "warukyurie",
+    "code": "cr-kata10-2",
+    "index": 2
+  },
+  {
+    "surface": "ワールドワイドウエブ",
+    "reading": "worldwideweb",
+    "code": "cr-kata10-3",
+    "index": 3
+  },
+  {
+    "surface": "ワタム",
+    "reading": "watamu",
+    "code": "cr-kata10-4",
+    "index": 4
+  },
+  {
+    "surface": "ワンマン",
+    "reading": "oneman",
+    "code": "cr-kata10-5",
+    "index": 5
+  },
+  {
+    "surface": "ワクチン",
+    "reading": "vakzin",
+    "code": "cr-kata10-6",
+    "index": 6
+  },
+  {
+    "surface": "ワーキングホリデー",
+    "reading": "workingholiday",
+    "code": "cr-kata10-7",
+    "index": 7
+  },
+  {
+    "surface": "ワシューガル",
+    "reading": "washuugaru",
+    "code": "cr-kata10-8",
+    "index": 8
+  },
+  {
+    "surface": "ワンカベリカ",
+    "reading": "wankaberika",
+    "code": "cr-kata10-9",
+    "index": 9
+  },
+  {
+    "surface": "ワークステーション",
+    "reading": "workstation",
+    "code": "cr-kata10-10",
+    "index": 10
+  },
+  {
+    "surface": "ワークショプ",
+    "reading": "waakushopu",
+    "code": "cr-kata10-11",
+    "index": 11
+  },
+  {
+    "surface": "ワンプライスショップ",
+    "reading": "onepriceshop",
+    "code": "cr-kata10-12",
+    "index": 12
+  },
+  {
+    "surface": "ワールドワイドウェブ",
+    "reading": "worldwideweb",
+    "code": "cr-kata10-13",
+    "index": 13
+  },
+  {
+    "surface": "ワレカラ",
+    "reading": "warekara",
+    "code": "cr-kata10-14",
+    "index": 14
+  },
+  {
+    "surface": "ワイドフィールド",
+    "reading": "widefield",
+    "code": "cr-kata10-15",
+    "index": 15
+  },
+  {
+    "surface": "ワイパフ",
+    "reading": "waipafu",
+    "code": "cr-kata10-16",
+    "index": 16
+  },
+  {
+    "surface": "ワックワク",
+    "reading": "wakkuwaku",
+    "code": "cr-kata10-17",
+    "index": 17
+  },
+  {
+    "surface": "ンサワム",
+    "reading": "nsawham",
+    "code": "cr-kata10-18",
+    "index": 18
+  },
+  {
+    "surface": "ワニ",
+    "reading": "wani",
+    "code": "cr-kata10-19",
+    "index": 19
+  },
+  {
+    "surface": "ワンセット",
+    "reading": "oneset",
+    "code": "cr-kata10-20",
+    "index": 20
+  },
+  {
+    "surface": "ンジャメナ",
+    "reading": "ndjamena",
+    "code": "cr-kata10-21",
+    "index": 21
+  },
+  {
+    "surface": "ワイヤレス・マイク",
+    "reading": "wirelessmaiku",
+    "code": "cr-kata10-22",
+    "index": 22
+  },
+  {
+    "surface": "ワイ",
+    "reading": "wai",
+    "code": "cr-kata10-23",
+    "index": 23
+  },
+  {
+    "surface": "ワサビダイコン",
+    "reading": "wasabidaikon",
+    "code": "cr-kata10-24",
+    "index": 24
+  },
+  {
+    "surface": "ワッフル",
+    "reading": "waffle",
+    "code": "cr-kata10-25",
+    "index": 25
+  },
+  {
+    "surface": "ワン",
+    "reading": "one",
+    "code": "cr-kata10-26",
+    "index": 26
+  },
+  {
+    "surface": "ワラジムシ",
+    "reading": "warajimushi",
+    "code": "cr-kata10-27",
+    "index": 27
+  },
+  {
+    "surface": "ワーウルフ",
+    "reading": "waawolfe",
+    "code": "cr-kata10-28",
+    "index": 28
+  },
+  {
+    "surface": "ワードローブ",
+    "reading": "wardrobe",
+    "code": "cr-kata10-29",
+    "index": 29
+  },
+  {
+    "surface": "ワラルー",
+    "reading": "wallaroo",
+    "code": "cr-kata10-30",
+    "index": 30
+  },
+  {
+    "surface": "ワクチンソフト",
+    "reading": "vakzinsoft",
+    "code": "cr-kata10-31",
+    "index": 31
+  },
+  {
+    "surface": "ワーラーナシー",
+    "reading": "waaraanashii",
+    "code": "cr-kata10-32",
+    "index": 32
+  },
+  {
+    "surface": "ワルダー",
+    "reading": "warudaa",
+    "code": "cr-kata10-33",
+    "index": 33
+  },
+  {
+    "surface": "ワタリアホウドリ",
+    "reading": "watariahoudori",
+    "code": "cr-kata10-34",
+    "index": 34
+  },
+  {
+    "surface": "ワラスボ",
+    "reading": "warasubo",
+    "code": "cr-kata10-35",
+    "index": 35
+  },
+  {
+    "surface": "ワロタ",
+    "reading": "warota",
+    "code": "cr-kata10-36",
+    "index": 36
+  },
+  {
+    "surface": "ワーロック",
+    "reading": "waarokku",
+    "code": "cr-kata10-37",
+    "index": 37
+  },
+  {
+    "surface": "ワンボックスカー",
+    "reading": "oneboxcar",
+    "code": "cr-kata10-38",
+    "index": 38
+  },
+  {
+    "surface": "ワクワク",
+    "reading": "wakuwaku",
+    "code": "cr-kata10-39",
+    "index": 39
+  },
+  {
+    "surface": "ワイドランサービス",
+    "reading": "widerunservice",
+    "code": "cr-kata10-40",
+    "index": 40
+  },
+  {
+    "surface": "ワンダーフォーゲル",
+    "reading": "wandervogel",
+    "code": "cr-kata10-41",
+    "index": 41
+  },
+  {
+    "surface": "ワインバー",
+    "reading": "winebar",
+    "code": "cr-kata10-42",
+    "index": 42
+  },
+  {
+    "surface": "ワンツーパンチ",
+    "reading": "onetwopunch",
+    "code": "cr-kata10-43",
+    "index": 43
+  },
+  {
+    "surface": "ワインカラー",
+    "reading": "winecolor",
+    "code": "cr-kata10-44",
+    "index": 44
+  },
+  {
+    "surface": "ワビサビ",
+    "reading": "wabisabi",
+    "code": "cr-kata10-45",
+    "index": 45
+  },
+  {
+    "surface": "ワンポイントリリーフ",
+    "reading": "onepointrelief",
+    "code": "cr-kata10-46",
+    "index": 46
+  },
+  {
+    "surface": "ヲタク",
+    "reading": "wotaku",
+    "code": "cr-kata10-47",
+    "index": 47
+  },
+  {
+    "surface": "ワインリスト",
+    "reading": "winelist",
+    "code": "cr-kata10-48",
+    "index": 48
+  },
+  {
+    "surface": "ワンマンバス",
+    "reading": "onemanbus",
+    "code": "cr-kata10-49",
+    "index": 49
+  },
+  {
+    "surface": "ワイア",
+    "reading": "wire",
+    "code": "cr-kata10-50",
+    "index": 50
+  },
+  {
+    "surface": "ワギナ",
+    "reading": "vagina",
+    "code": "cr-kata10-51",
+    "index": 51
+  },
+  {
+    "surface": "ワシ",
+    "reading": "washi",
+    "code": "cr-kata10-52",
+    "index": 52
+  },
+  {
+    "surface": "ンチェレンゲ",
+    "reading": "ncherenge",
+    "code": "cr-kata10-53",
+    "index": 53
+  },
+  {
+    "surface": "ワープ",
+    "reading": "warp",
+    "code": "cr-kata10-54",
+    "index": 54
+  },
+  {
+    "surface": "ワタクシ",
+    "reading": "watakushi",
+    "code": "cr-kata10-55",
+    "index": 55
+  },
+  {
+    "surface": "ワンプーアオバト",
+    "reading": "wanpuuaobato",
+    "code": "cr-kata10-56",
+    "index": 56
+  },
+  {
+    "surface": "ワールドシリーズ",
+    "reading": "worldseries",
+    "code": "cr-kata10-57",
+    "index": 57
+  },
+  {
+    "surface": "ワークシェアリング",
+    "reading": "worksharing",
+    "code": "cr-kata10-58",
+    "index": 58
+  },
+  {
+    "surface": "ワンダフル",
+    "reading": "wonderful",
+    "code": "cr-kata10-59",
+    "index": 59
+  },
+  {
+    "surface": "ワヌコ",
+    "reading": "wanuko",
+    "code": "cr-kata10-60",
+    "index": 60
+  },
+  {
+    "surface": "ワスコ",
+    "reading": "wasuko",
+    "code": "cr-kata10-61",
+    "index": 61
+  },
+  {
+    "surface": "ワンタイムパスワード",
+    "reading": "onetimepasuwaado",
+    "code": "cr-kata10-62",
+    "index": 62
+  },
+  {
+    "surface": "ワーファリン",
+    "reading": "warfarin",
+    "code": "cr-kata10-63",
+    "index": 63
+  },
+  {
+    "surface": "ワイヤゲージ",
+    "reading": "wiregauge",
+    "code": "cr-kata10-64",
+    "index": 64
+  },
+  {
+    "surface": "ワップル",
+    "reading": "wappull",
+    "code": "cr-kata10-65",
+    "index": 65
+  },
+  {
+    "surface": "ワンマンショー",
+    "reading": "onemanshow",
+    "code": "cr-kata10-66",
+    "index": 66
+  },
+  {
+    "surface": "ワイツーケー",
+    "reading": "waitsuukee",
+    "code": "cr-kata10-67",
+    "index": 67
+  },
+  {
+    "surface": "ワセリン",
+    "reading": "vaseline",
+    "code": "cr-kata10-68",
+    "index": 68
+  },
+  {
+    "surface": "ワケギ",
+    "reading": "wakegi",
+    "code": "cr-kata10-69",
+    "index": 69
+  },
+  {
+    "surface": "ンヴルィ",
+    "reading": "nvuri",
+    "code": "cr-kata10-70",
+    "index": 70
+  },
+  {
+    "surface": "ワーレット",
+    "reading": "wallet",
+    "code": "cr-kata10-71",
+    "index": 71
+  },
+  {
+    "surface": "ワーディング",
+    "reading": "wording",
+    "code": "cr-kata10-72",
+    "index": 72
+  },
+  {
+    "surface": "ワンダー",
+    "reading": "wonder",
+    "code": "cr-kata10-73",
+    "index": 73
+  },
+  {
+    "surface": "ワレメ",
+    "reading": "wareme",
+    "code": "cr-kata10-74",
+    "index": 74
+  },
+  {
+    "surface": "ンバケ",
+    "reading": "nbake",
+    "code": "cr-kata10-75",
+    "index": 75
+  },
+  {
+    "surface": "ンダラタンド",
+    "reading": "ndaratando",
+    "code": "cr-kata10-76",
+    "index": 76
+  },
+  {
+    "surface": "ワンド",
+    "reading": "wand",
+    "code": "cr-kata10-77",
+    "index": 77
+  },
+  {
+    "surface": "ワレモコウ",
+    "reading": "waremokou",
+    "code": "cr-kata10-78",
+    "index": 78
+  },
+  {
+    "surface": "ワーデン",
+    "reading": "warden",
+    "code": "cr-kata10-79",
+    "index": 79
+  },
+  {
+    "surface": "ワンアウト",
+    "reading": "oneout",
+    "code": "cr-kata10-80",
+    "index": 80
+  },
+  {
+    "surface": "ワンギリ",
+    "reading": "wangiri",
+    "code": "cr-kata10-81",
+    "index": 81
+  },
+  {
+    "surface": "ワイパ",
+    "reading": "waipa",
+    "code": "cr-kata10-82",
+    "index": 82
+  },
+  {
+    "surface": "ワラント",
+    "reading": "warrant",
+    "code": "cr-kata10-83",
+    "index": 83
+  },
+  {
+    "surface": "ワヒグヤ",
+    "reading": "wahiguya",
+    "code": "cr-kata10-84",
+    "index": 84
+  },
+  {
+    "surface": "ワイルドフラワー",
+    "reading": "wairudofurawaa",
+    "code": "cr-kata10-85",
+    "index": 85
+  },
+  {
+    "surface": "ワイズ",
+    "reading": "waizu",
+    "code": "cr-kata10-86",
+    "index": 86
+  },
+  {
+    "surface": "ワゴンセール",
+    "reading": "wagonsale",
+    "code": "cr-kata10-87",
+    "index": 87
+  },
+  {
+    "surface": "ワニス",
+    "reading": "varnish",
+    "code": "cr-kata10-88",
+    "index": 88
+  },
+  {
+    "surface": "ワークフロー",
+    "reading": "workflow",
+    "code": "cr-kata10-89",
+    "index": 89
+  },
+  {
+    "surface": "ワッチ",
+    "reading": "watch",
+    "code": "cr-kata10-90",
+    "index": 90
+  },
+  {
+    "surface": "ワカヤマ",
+    "reading": "wakayama",
+    "code": "cr-kata10-91",
+    "index": 91
+  },
+  {
+    "surface": "ワンサイド",
+    "reading": "oneside",
+    "code": "cr-kata10-92",
+    "index": 92
+  },
+  {
+    "surface": "ワーキング",
+    "reading": "working",
+    "code": "cr-kata10-93",
+    "index": 93
+  },
+  {
+    "surface": "ワイフ",
+    "reading": "wife",
+    "code": "cr-kata10-94",
+    "index": 94
+  },
+  {
+    "surface": "ワンツ",
+    "reading": "wantsu",
+    "code": "cr-kata10-95",
+    "index": 95
+  },
+  {
+    "surface": "ワイルドピッチ",
+    "reading": "wildpitch",
+    "code": "cr-kata10-96",
+    "index": 96
+  },
+  {
+    "surface": "ワンナウト",
+    "reading": "onenowto",
+    "code": "cr-kata10-97",
+    "index": 97
+  },
+  {
+    "surface": "ワンマンコントロール",
+    "reading": "onemancontrol",
+    "code": "cr-kata10-98",
+    "index": 98
+  },
+  {
+    "surface": "ワイアレス",
+    "reading": "wireless",
+    "code": "cr-kata10-99",
+    "index": 99
+  },
+  {
+    "surface": "ワイピング",
+    "reading": "waiping",
+    "code": "cr-kata10-100",
+    "index": 100
+  },
+  {
+    "surface": "ワイプアウト",
+    "reading": "waipuauto",
+    "code": "cr-kata10-101",
+    "index": 101
+  },
+  {
+    "surface": "ワスプ",
+    "reading": "wasupu",
+    "code": "cr-kata10-102",
+    "index": 102
+  },
+  {
+    "surface": "ワイヤレスラン",
+    "reading": "wirelessrun",
+    "code": "cr-kata10-103",
+    "index": 103
+  },
+  {
+    "surface": "ワニエソ",
+    "reading": "wanieso",
+    "code": "cr-kata10-104",
+    "index": 104
+  },
+  {
+    "surface": "ワイヤー",
+    "reading": "wire",
+    "code": "cr-kata10-105",
+    "index": 105
+  },
+  {
+    "surface": "ワジ",
+    "reading": "wadi",
+    "code": "cr-kata10-106",
+    "index": 106
+  },
+  {
+    "surface": "ワンツー",
+    "reading": "onetwo",
+    "code": "cr-kata10-107",
+    "index": 107
+  },
+  {
+    "surface": "ワンセグ",
+    "reading": "wansegu",
+    "code": "cr-kata10-108",
+    "index": 108
+  },
+  {
+    "surface": "ワンパタン",
+    "reading": "onepattern",
+    "code": "cr-kata10-109",
+    "index": 109
+  },
+  {
+    "surface": "ワタリ",
+    "reading": "watari",
+    "code": "cr-kata10-110",
+    "index": 110
+  },
+  {
+    "surface": "ワープロ",
+    "reading": "wordprocessor",
+    "code": "cr-kata10-111",
+    "index": 111
+  },
+  {
+    "surface": "ワドメダニ",
+    "reading": "wadomedani",
+    "code": "cr-kata10-112",
+    "index": 112
+  },
+  {
+    "surface": "ワッペン",
+    "reading": "wappen",
+    "code": "cr-kata10-113",
+    "index": 113
+  },
+  {
+    "surface": "ワケ",
+    "reading": "wake",
+    "code": "cr-kata10-114",
+    "index": 114
+  },
+  {
+    "surface": "ワイドスクリーン",
+    "reading": "widescreen",
+    "code": "cr-kata10-115",
+    "index": 115
+  },
+  {
+    "surface": "ワンスモア",
+    "reading": "oncemore",
+    "code": "cr-kata10-116",
+    "index": 116
+  },
+  {
+    "surface": "ワイロ",
+    "reading": "wairo",
+    "code": "cr-kata10-117",
+    "index": 117
+  },
+  {
+    "surface": "ワレット",
+    "reading": "wallet",
+    "code": "cr-kata10-118",
+    "index": 118
+  },
+  {
+    "surface": "ワイヤーレス",
+    "reading": "wireresponse",
+    "code": "cr-kata10-119",
+    "index": 119
+  },
+  {
+    "surface": "ワンランク",
+    "reading": "onerank",
+    "code": "cr-kata10-120",
+    "index": 120
+  },
+  {
+    "surface": "ワリンゴ",
+    "reading": "waringo",
+    "code": "cr-kata10-121",
+    "index": 121
+  },
+  {
+    "surface": "ワード",
+    "reading": "word",
+    "code": "cr-kata10-122",
+    "index": 122
+  },
+  {
+    "surface": "ワンシーター",
+    "reading": "oneseater",
+    "code": "cr-kata10-123",
+    "index": 123
+  },
+  {
+    "surface": "ワンサイドゲーム",
+    "reading": "onesidegame",
+    "code": "cr-kata10-124",
+    "index": 124
+  },
+  {
+    "surface": "ワーカーズ・コレクティブ",
+    "reading": "workercollective",
+    "code": "cr-kata10-125",
+    "index": 125
+  },
+  {
+    "surface": "ワーカーホリック",
+    "reading": "workaholic",
+    "code": "cr-kata10-126",
+    "index": 126
+  },
+  {
+    "surface": "ワカメ",
+    "reading": "wakame",
+    "code": "cr-kata10-127",
+    "index": 127
+  },
+  {
+    "surface": "ワンルーム",
+    "reading": "oneroom",
+    "code": "cr-kata10-128",
+    "index": 128
+  },
+  {
+    "surface": "ワンコイン",
+    "reading": "onecoin",
+    "code": "cr-kata10-129",
+    "index": 129
+  },
+  {
+    "surface": "ワルファリン",
+    "reading": "warfarin",
+    "code": "cr-kata10-130",
+    "index": 130
+  },
+  {
+    "surface": "ワジール",
+    "reading": "wajiiru",
+    "code": "cr-kata10-131",
+    "index": 131
+  },
+  {
+    "surface": "ワーン",
+    "reading": "waan",
+    "code": "cr-kata10-132",
+    "index": 132
+  },
+  {
+    "surface": "ワイルドウォーター",
+    "reading": "wildwater",
+    "code": "cr-kata10-133",
+    "index": 133
+  },
+  {
+    "surface": "ワカモーレ",
+    "reading": "wakamoore",
+    "code": "cr-kata10-134",
+    "index": 134
+  },
+  {
+    "surface": "ワイヤロープ",
+    "reading": "wirerope",
+    "code": "cr-kata10-135",
+    "index": 135
+  },
+  {
+    "surface": "ンビラ",
+    "reading": "nbira",
+    "code": "cr-kata10-136",
+    "index": 136
+  },
+  {
+    "surface": "ワースト",
+    "reading": "worst",
+    "code": "cr-kata10-137",
+    "index": 137
+  },
+  {
+    "surface": "ワタ",
+    "reading": "wata",
+    "code": "cr-kata10-138",
+    "index": 138
+  },
+  {
+    "surface": "ワンコインタクシー",
+    "reading": "onecointaxi",
+    "code": "cr-kata10-139",
+    "index": 139
+  },
+  {
+    "surface": "ワーキンググループ",
+    "reading": "workinggroup",
+    "code": "cr-kata10-140",
+    "index": 140
+  },
+  {
+    "surface": "ワルハラ",
+    "reading": "waruhara",
+    "code": "cr-kata10-141",
+    "index": 141
+  },
+  {
+    "surface": "ワイワイ",
+    "reading": "waiwai",
+    "code": "cr-kata10-142",
+    "index": 142
+  },
+  {
+    "surface": "ワラ",
+    "reading": "wara",
+    "code": "cr-kata10-143",
+    "index": 143
+  },
+  {
+    "surface": "ヲッカ",
+    "reading": "wokka",
+    "code": "cr-kata10-144",
+    "index": 144
+  },
+  {
+    "surface": "ワラワラ",
+    "reading": "warawara",
+    "code": "cr-kata10-145",
+    "index": 145
+  },
+  {
+    "surface": "ワニリン",
+    "reading": "vanillin",
+    "code": "cr-kata10-146",
+    "index": 146
+  },
+  {
+    "surface": "ワライカワセミ",
+    "reading": "waraikawasemi",
+    "code": "cr-kata10-147",
+    "index": 147
+  },
+  {
+    "surface": "ワンマンカー",
+    "reading": "onemancar",
+    "code": "cr-kata10-148",
+    "index": 148
+  },
+  {
+    "surface": "ワイプ",
+    "reading": "wipe",
+    "code": "cr-kata10-149",
+    "index": 149
+  },
+  {
+    "surface": "ワインレッド",
+    "reading": "winered",
+    "code": "cr-kata10-150",
+    "index": 150
+  },
+  {
+    "surface": "ワーウ",
+    "reading": "waau",
+    "code": "cr-kata10-151",
+    "index": 151
+  },
+  {
+    "surface": "ワラタ",
+    "reading": "warata",
+    "code": "cr-kata10-152",
+    "index": 152
+  },
+  {
+    "surface": "ワタシ",
+    "reading": "watashi",
+    "code": "cr-kata10-153",
+    "index": 153
+  },
+  {
+    "surface": "ワンシーン",
+    "reading": "onescene",
+    "code": "cr-kata10-154",
+    "index": 154
+  },
+  {
+    "surface": "ワゴン",
+    "reading": "wagon",
+    "code": "cr-kata10-155",
+    "index": 155
+  },
+  {
+    "surface": "ワッパ",
+    "reading": "wappa",
+    "code": "cr-kata10-156",
+    "index": 156
+  },
+  {
+    "surface": "ワールッド",
+    "reading": "waaruddo",
+    "code": "cr-kata10-157",
+    "index": 157
+  },
+  {
+    "surface": "ワトルバード",
+    "reading": "watorubaado",
+    "code": "cr-kata10-158",
+    "index": 158
+  },
+  {
+    "surface": "ワークロード",
+    "reading": "workroad",
+    "code": "cr-kata10-159",
+    "index": 159
+  },
+  {
+    "surface": "ワンゲル",
+    "reading": "wandervogel",
+    "code": "cr-kata10-160",
+    "index": 160
+  },
+  {
+    "surface": "ワークス",
+    "reading": "work",
+    "code": "cr-kata10-161",
+    "index": 161
+  },
+  {
+    "surface": "ワールド",
+    "reading": "world",
+    "code": "cr-kata10-162",
+    "index": 162
+  },
+  {
+    "surface": "ワンパターン",
+    "reading": "onepattern",
+    "code": "cr-kata10-163",
+    "index": 163
+  },
+  {
+    "surface": "ワカヤマシ",
+    "reading": "wakayamashi",
+    "code": "cr-kata10-164",
+    "index": 164
+  },
+  {
+    "surface": "ワンダホー",
+    "reading": "wonderful",
+    "code": "cr-kata10-165",
+    "index": 165
+  },
+  {
+    "surface": "ワインドアップ",
+    "reading": "windup",
+    "code": "cr-kata10-166",
+    "index": 166
+  },
+  {
+    "surface": "ワークグループ",
+    "reading": "workgroup",
+    "code": "cr-kata10-167",
+    "index": 167
+  },
+  {
+    "surface": "ワニラ",
+    "reading": "wanira",
+    "code": "cr-kata10-168",
+    "index": 168
+  },
+  {
+    "surface": "ワリコミ",
+    "reading": "warikomi",
+    "code": "cr-kata10-169",
+    "index": 169
+  },
+  {
+    "surface": "ワードプロセッサー",
+    "reading": "wordprocessor",
+    "code": "cr-kata10-170",
+    "index": 170
+  },
+  {
+    "surface": "ワリカン",
+    "reading": "warikan",
+    "code": "cr-kata10-171",
+    "index": 171
+  },
+  {
+    "surface": "ワケアリ",
+    "reading": "wakeari",
+    "code": "cr-kata10-172",
+    "index": 172
+  },
+  {
+    "surface": "ワイン",
+    "reading": "wine",
+    "code": "cr-kata10-173",
+    "index": 173
+  },
+  {
+    "surface": "ワンガラタ",
+    "reading": "wangarata",
+    "code": "cr-kata10-174",
+    "index": 174
+  },
+  {
+    "surface": "ワークシート",
+    "reading": "worksheet",
+    "code": "cr-kata10-175",
+    "index": 175
+  },
+  {
+    "surface": "ンガラ",
+    "reading": "ngalatia",
+    "code": "cr-kata10-176",
+    "index": 176
+  },
+  {
+    "surface": "ワインクーラー",
+    "reading": "winecooler",
+    "code": "cr-kata10-177",
+    "index": 177
+  },
+  {
+    "surface": "ワンオブゼム",
+    "reading": "oneofgem",
+    "code": "cr-kata10-178",
+    "index": 178
+  },
+  {
+    "surface": "ワンテンポ",
+    "reading": "onetempo",
+    "code": "cr-kata10-179",
+    "index": 179
+  },
+  {
+    "surface": "ワチョ",
+    "reading": "wacho",
+    "code": "cr-kata10-180",
+    "index": 180
+  },
+  {
+    "surface": "ワンウエイ",
+    "reading": "oneway",
+    "code": "cr-kata10-181",
+    "index": 181
+  },
+  {
+    "surface": "ワーキングプア",
+    "reading": "workingpoor",
+    "code": "cr-kata10-182",
+    "index": 182
+  },
+  {
+    "surface": "ワークライフバランス",
+    "reading": "worklifebalance",
+    "code": "cr-kata10-183",
+    "index": 183
+  },
+  {
+    "surface": "ワーカホリック",
+    "reading": "workaholic",
+    "code": "cr-kata10-184",
+    "index": 184
+  },
+  {
+    "surface": "ワインラック",
+    "reading": "winerack",
+    "code": "cr-kata10-185",
+    "index": 185
+  },
+  {
+    "surface": "ワカシ",
+    "reading": "wakashi",
+    "code": "cr-kata10-186",
+    "index": 186
+  },
+  {
+    "surface": "ワックス",
+    "reading": "wax",
+    "code": "cr-kata10-187",
+    "index": 187
+  },
+  {
+    "surface": "ワイバーン",
+    "reading": "waibaan",
+    "code": "cr-kata10-188",
+    "index": 188
+  },
+  {
+    "surface": "ワイヤ",
+    "reading": "wire",
+    "code": "cr-kata10-189",
+    "index": 189
+  },
+  {
+    "surface": "ンゼレコレ",
+    "reading": "nzerekore",
+    "code": "cr-kata10-190",
+    "index": 190
+  },
+  {
+    "surface": "ワンクッション",
+    "reading": "onecushion",
+    "code": "cr-kata10-191",
+    "index": 191
+  },
+  {
+    "surface": "ワカモレ",
+    "reading": "guacamole",
+    "code": "cr-kata10-192",
+    "index": 192
+  },
+  {
+    "surface": "ワンステップ",
+    "reading": "onestep",
+    "code": "cr-kata10-193",
+    "index": 193
+  },
+  {
+    "surface": "ワピ",
+    "reading": "wapi",
+    "code": "cr-kata10-194",
+    "index": 194
+  },
+  {
+    "surface": "ワンウェイ",
+    "reading": "oneway",
+    "code": "cr-kata10-195",
+    "index": 195
+  },
+  {
+    "surface": "ワイドロー",
+    "reading": "widelow",
+    "code": "cr-kata10-196",
+    "index": 196
+  },
+  {
+    "surface": "ワンレングス",
+    "reading": "onelength",
+    "code": "cr-kata10-197",
+    "index": 197
+  },
+  {
+    "surface": "ワンガヌイ",
+    "reading": "wanganui",
+    "code": "cr-kata10-198",
+    "index": 198
+  },
+  {
+    "surface": "ワンポイント",
+    "reading": "onepoint",
+    "code": "cr-kata10-199",
+    "index": 199
+  },
+  {
+    "surface": "ワージング",
+    "reading": "waajingu",
+    "code": "cr-kata10-200",
+    "index": 200
+  },
+  {
+    "surface": "ワンコール",
+    "reading": "onecall",
+    "code": "cr-kata10-201",
+    "index": 201
+  },
+  {
+    "surface": "ワークソング",
+    "reading": "worksong",
+    "code": "cr-kata10-202",
+    "index": 202
+  },
+  {
+    "surface": "ワーカー",
+    "reading": "worker",
+    "code": "cr-kata10-203",
+    "index": 203
+  },
+  {
+    "surface": "ンドラ",
+    "reading": "ndora",
+    "code": "cr-kata10-204",
+    "index": 204
+  },
+  {
+    "surface": "ワルグラ",
+    "reading": "warugras",
+    "code": "cr-kata10-205",
+    "index": 205
+  },
+  {
+    "surface": "ワーヴル",
+    "reading": "waavuru",
+    "code": "cr-kata10-206",
+    "index": 206
+  },
+  {
+    "surface": "ワキガ",
+    "reading": "wakiga",
+    "code": "cr-kata10-207",
+    "index": 207
+  },
+  {
+    "surface": "ワリバシ",
+    "reading": "waribashi",
+    "code": "cr-kata10-208",
+    "index": 208
+  },
+  {
+    "surface": "ワイアーム",
+    "reading": "waiarm",
+    "code": "cr-kata10-209",
+    "index": 209
+  },
+  {
+    "surface": "ワイド",
+    "reading": "wide",
+    "code": "cr-kata10-210",
+    "index": 210
+  },
+  {
+    "surface": "ワラビー",
+    "reading": "wallaby",
+    "code": "cr-kata10-211",
+    "index": 211
+  },
+  {
+    "surface": "ワンウェー",
+    "reading": "oneway",
+    "code": "cr-kata10-212",
+    "index": 212
+  },
+  {
+    "surface": "ワサビノキ",
+    "reading": "wasabinoki",
+    "code": "cr-kata10-213",
+    "index": 213
+  },
+  {
+    "surface": "ワンワン",
+    "reading": "wanwan",
+    "code": "cr-kata10-214",
+    "index": 214
+  },
+  {
+    "surface": "ワタリガニ",
+    "reading": "watarigani",
+    "code": "cr-kata10-215",
+    "index": 215
+  },
+  {
+    "surface": "ワルキューレ",
+    "reading": "walkure",
+    "code": "cr-kata10-216",
+    "index": 216
+  },
+  {
+    "surface": "ワンストップ",
+    "reading": "onestop",
+    "code": "cr-kata10-217",
+    "index": 217
+  },
+  {
+    "surface": "ワンダン",
+    "reading": "wandan",
+    "code": "cr-kata10-218",
+    "index": 218
+  },
+  {
+    "surface": "ワカサギ",
+    "reading": "wakasagi",
+    "code": "cr-kata10-219",
+    "index": 219
+  },
+  {
+    "surface": "ワムシ",
+    "reading": "wamushi",
+    "code": "cr-kata10-220",
+    "index": 220
+  },
+  {
+    "surface": "ワットルロー",
+    "reading": "wattoruroo",
+    "code": "cr-kata10-221",
+    "index": 221
+  },
+  {
+    "surface": "ワーテルロー",
+    "reading": "waterloo",
+    "code": "cr-kata10-222",
+    "index": 222
+  },
+  {
+    "surface": "ワイヤード",
+    "reading": "waiyaado",
+    "code": "cr-kata10-223",
+    "index": 223
+  },
+  {
+    "surface": "ワッサー",
+    "reading": "wassir",
+    "code": "cr-kata10-224",
+    "index": 224
+  },
+  {
+    "surface": "ワライダケ",
+    "reading": "waraidake",
+    "code": "cr-kata10-225",
+    "index": 225
+  },
+  {
+    "surface": "ワピチ",
+    "reading": "wapiti",
+    "code": "cr-kata10-226",
+    "index": 226
+  },
+  {
+    "surface": "ワンパス",
+    "reading": "onepass",
+    "code": "cr-kata10-227",
+    "index": 227
+  },
+  {
+    "surface": "ワニノ",
+    "reading": "wanino",
+    "code": "cr-kata10-228",
+    "index": 228
+  },
+  {
+    "surface": "ワスレナグサ",
+    "reading": "wasurenagusa",
+    "code": "cr-kata10-229",
+    "index": 229
+  },
+  {
+    "surface": "ワンラインダイヤグラム",
+    "reading": "onelinediagram",
+    "code": "cr-kata10-230",
+    "index": 230
+  },
+  {
+    "surface": "ワッシュ",
+    "reading": "wasshu",
+    "code": "cr-kata10-231",
+    "index": 231
+  },
+  {
+    "surface": "ワンウエー",
+    "reading": "oneway",
+    "code": "cr-kata10-232",
+    "index": 232
+  },
+  {
+    "surface": "ワロラ",
+    "reading": "warora",
+    "code": "cr-kata10-233",
+    "index": 233
+  },
+  {
+    "surface": "ワニガメ",
+    "reading": "wanigame",
+    "code": "cr-kata10-234",
+    "index": 234
+  },
+  {
+    "surface": "ワーホリ",
+    "reading": "waahori",
+    "code": "cr-kata10-235",
+    "index": 235
+  },
+  {
+    "surface": "ワイルドライス",
+    "reading": "wildrice",
+    "code": "cr-kata10-236",
+    "index": 236
+  },
+  {
+    "surface": "ワールド・シリーズ",
+    "reading": "worldseries",
+    "code": "cr-kata10-237",
+    "index": 237
+  },
+  {
+    "surface": "ワズワース",
+    "reading": "wordsworth",
+    "code": "cr-kata10-238",
+    "index": 238
+  },
+  {
+    "surface": "ワイヤレス",
+    "reading": "wireless",
+    "code": "cr-kata10-239",
+    "index": 239
+  },
+  {
+    "surface": "ワンピース",
+    "reading": "onepiece",
+    "code": "cr-kata10-240",
+    "index": 240
+  },
+  {
+    "surface": "ワウフラッター",
+    "reading": "wowflutter",
+    "code": "cr-kata10-241",
+    "index": 241
+  },
+  {
+    "surface": "ワークスペース",
+    "reading": "workpace",
+    "code": "cr-kata10-242",
+    "index": 242
+  },
+  {
+    "surface": "ワシントン",
+    "reading": "washington",
+    "code": "cr-kata10-243",
+    "index": 243
+  },
+  {
+    "surface": "ワイツーケイ",
+    "reading": "waitwokei",
+    "code": "cr-kata10-244",
+    "index": 244
+  },
+  {
+    "surface": "ワイパー",
+    "reading": "wiper",
+    "code": "cr-kata10-245",
+    "index": 245
+  },
+  {
+    "surface": "ワルツ",
+    "reading": "waltz",
+    "code": "cr-kata10-246",
+    "index": 246
+  },
+  {
+    "surface": "ワロス",
+    "reading": "waross",
+    "code": "cr-kata10-247",
+    "index": 247
+  },
+  {
+    "surface": "ワンズ",
+    "reading": "wanzu",
+    "code": "cr-kata10-248",
+    "index": 248
+  },
+  {
+    "surface": "ワンコ",
+    "reading": "wanko",
+    "code": "cr-kata10-249",
+    "index": 249
+  },
+  {
+    "surface": "ワズィーラーバード",
+    "reading": "waziiraabaado",
+    "code": "cr-kata10-250",
+    "index": 250
+  },
+  {
+    "surface": "ワンダウン",
+    "reading": "onedown",
+    "code": "cr-kata10-251",
+    "index": 251
+  },
+  {
+    "surface": "ワンコインバス",
+    "reading": "onecoinbus",
+    "code": "cr-kata10-252",
+    "index": 252
+  },
+  {
+    "surface": "ワーカーズコレクティブ",
+    "reading": "workercollective",
+    "code": "cr-kata10-253",
+    "index": 253
+  },
+  {
+    "surface": "ワタカ",
+    "reading": "wataka",
+    "code": "cr-kata10-254",
+    "index": 254
+  },
+  {
+    "surface": "ワンゲ",
+    "reading": "onege",
+    "code": "cr-kata10-255",
+    "index": 255
+  },
+  {
+    "surface": "ワット",
+    "reading": "wat",
+    "code": "cr-kata10-256",
+    "index": 256
+  },
+  {
+    "surface": "ワークショップ",
+    "reading": "workshop",
+    "code": "cr-kata10-257",
+    "index": 257
+  },
+  {
+    "surface": "ワンレン",
+    "reading": "onelength",
+    "code": "cr-kata10-258",
+    "index": 258
+  },
+  {
+    "surface": "ワンルームマンション",
+    "reading": "oneroommansion",
+    "code": "cr-kata10-259",
+    "index": 259
+  },
+  {
+    "surface": "ワシミミズク",
+    "reading": "washimimizuku",
+    "code": "cr-kata10-260",
+    "index": 260
+  },
+  {
+    "surface": "ワーキングマザー",
+    "reading": "workingmother",
+    "code": "cr-kata10-261",
+    "index": 261
+  },
+  {
+    "surface": "ワゴンサービス",
+    "reading": "wagonservice",
+    "code": "cr-kata10-262",
+    "index": 262
+  },
+  {
+    "surface": "ワールドワイド",
+    "reading": "worldwide",
+    "code": "cr-kata10-263",
+    "index": 263
+  },
+  {
+    "surface": "ワットメーター",
+    "reading": "watmeter",
+    "code": "cr-kata10-264",
+    "index": 264
+  },
+  {
+    "surface": "ワリ",
+    "reading": "wari",
+    "code": "cr-kata10-265",
+    "index": 265
+  },
+  {
+    "surface": "ワランガル",
+    "reading": "warangaru",
+    "code": "cr-kata10-266",
+    "index": 266
+  },
+  {
+    "surface": "ワールドカップ",
+    "reading": "worldcup",
+    "code": "cr-kata10-267",
+    "index": 267
+  },
+  {
+    "surface": "ンジョンベ",
+    "reading": "njonbe",
+    "code": "cr-kata10-268",
+    "index": 268
+  },
+  {
+    "surface": "ンデレ",
+    "reading": "ndere",
+    "code": "cr-kata10-269",
+    "index": 269
+  },
+  {
+    "surface": "ワッ",
+    "reading": "wa",
+    "code": "cr-kata10-270",
+    "index": 270
+  },
+  {
+    "surface": "ワライタケ",
+    "reading": "waraitake",
+    "code": "cr-kata10-271",
+    "index": 271
+  },
+  {
+    "surface": "ワッシャ",
+    "reading": "wassha",
+    "code": "cr-kata10-272",
+    "index": 272
+  },
+  {
+    "surface": "ワーク・シェアリング",
+    "reading": "worksharing",
+    "code": "cr-kata10-273",
+    "index": 273
+  },
+  {
+    "surface": "ワンタッチ",
+    "reading": "onetouch",
+    "code": "cr-kata10-274",
+    "index": 274
+  },
+  {
+    "surface": "ワオキツネザル",
+    "reading": "waokitsunezaru",
+    "code": "cr-kata10-275",
+    "index": 275
+  },
+  {
+    "surface": "ワタリカニ",
+    "reading": "watarikani",
+    "code": "cr-kata10-276",
+    "index": 276
+  },
+  {
+    "surface": "ンゴジ",
+    "reading": "ngoji",
+    "code": "cr-kata10-277",
+    "index": 277
+  },
+  {
+    "surface": "ワークブック",
+    "reading": "workbook",
+    "code": "cr-kata10-278",
+    "index": 278
+  },
+  {
+    "surface": "ワクフ",
+    "reading": "wakhufu",
+    "code": "cr-kata10-279",
+    "index": 279
+  },
+  {
+    "surface": "ワイプイン",
+    "reading": "wipein",
+    "code": "cr-kata10-280",
+    "index": 280
+  },
+  {
+    "surface": "ワセジョ",
+    "reading": "wasejo",
+    "code": "cr-kata10-281",
+    "index": 281
+  },
+  {
+    "surface": "ワイヤラス",
+    "reading": "wirelath",
+    "code": "cr-kata10-282",
+    "index": 282
+  },
+  {
+    "surface": "ワッシャー",
+    "reading": "washer",
+    "code": "cr-kata10-283",
+    "index": 283
+  },
+  {
+    "surface": "ワンウェイビン",
+    "reading": "onewaybin",
+    "code": "cr-kata10-284",
+    "index": 284
+  },
+  {
+    "surface": "ワディ",
+    "reading": "wadi",
+    "code": "cr-kata10-285",
+    "index": 285
+  },
+  {
+    "surface": "ワインビネガー",
+    "reading": "winevinegar",
+    "code": "cr-kata10-286",
+    "index": 286
+  },
+  {
+    "surface": "ワーム",
+    "reading": "worm",
+    "code": "cr-kata10-287",
+    "index": 287
+  },
+  {
+    "surface": "ワルナスビ",
+    "reading": "warunasubi",
+    "code": "cr-kata10-288",
+    "index": 288
+  },
+  {
+    "surface": "ワイオミング",
+    "reading": "wyoming",
+    "code": "cr-kata10-289",
+    "index": 289
+  },
+  {
+    "surface": "ワヒアワ",
+    "reading": "wahiour",
+    "code": "cr-kata10-290",
+    "index": 290
+  },
+  {
+    "surface": "ワンクール",
+    "reading": "onecool",
+    "code": "cr-kata10-291",
+    "index": 291
+  },
+  {
+    "surface": "ワンワンスタイル",
+    "reading": "oneonestyle",
+    "code": "cr-kata10-292",
+    "index": 292
+  },
+  {
+    "surface": "ワウ",
+    "reading": "wow",
+    "code": "cr-kata10-293",
+    "index": 293
+  },
+  {
+    "surface": "ワンカヨ",
+    "reading": "wankayo",
+    "code": "cr-kata10-294",
+    "index": 294
+  },
+  {
+    "surface": "ワタリガラス",
+    "reading": "watarigarasu",
+    "code": "cr-kata10-295",
+    "index": 295
+  },
+  {
+    "surface": "ワトソンビル",
+    "reading": "watsonbuilding",
+    "code": "cr-kata10-296",
+    "index": 296
+  },
+  {
+    "surface": "ワウフラッタ",
+    "reading": "waufuratta",
+    "code": "cr-kata10-297",
+    "index": 297
+  },
+  {
+    "surface": "ヲタ",
+    "reading": "wota",
+    "code": "cr-kata10-298",
+    "index": 298
+  },
+  {
+    "surface": "ワイヴァン",
+    "reading": "waivin",
+    "code": "cr-kata10-299",
+    "index": 299
+  },
+  {
+    "surface": "ワカタネ",
+    "reading": "wakatane",
+    "code": "cr-kata10-300",
+    "index": 300
+  },
+  {
+    "surface": "ワンボックス",
+    "reading": "onebox",
+    "code": "cr-kata10-301",
+    "index": 301
+  },
+  {
+    "surface": "ワンタン",
+    "reading": "wantan",
+    "code": "cr-kata10-302",
+    "index": 302
+  },
+  {
+    "surface": "ワンチップコンピュータ",
+    "reading": "onechipcomputer",
+    "code": "cr-kata10-303",
+    "index": 303
+  },
+  {
+    "surface": "ワナッチー",
+    "reading": "wanatchii",
+    "code": "cr-kata10-304",
+    "index": 304
+  },
+  {
+    "surface": "ワンダーランド",
+    "reading": "wonderland",
+    "code": "cr-kata10-305",
+    "index": 305
+  },
+  {
+    "surface": "ワトフォード",
+    "reading": "watofoodo",
+    "code": "cr-kata10-306",
+    "index": 306
+  },
+  {
+    "surface": "ワイルド",
+    "reading": "wild",
+    "code": "cr-kata10-307",
+    "index": 307
+  },
+  {
+    "surface": "ワルシャワ",
+    "reading": "warszawa",
+    "code": "cr-kata10-308",
+    "index": 308
+  },
+  {
+    "surface": "ワカウツボ",
+    "reading": "wakautsubo",
+    "code": "cr-kata10-309",
+    "index": 309
+  },
+  {
+    "surface": "ワラサ",
+    "reading": "warasa",
+    "code": "cr-kata10-310",
+    "index": 310
+  },
+  {
+    "surface": "ワル",
+    "reading": "waru",
+    "code": "cr-kata10-311",
+    "index": 311
+  },
+  {
+    "surface": "ワーニング",
+    "reading": "warning",
+    "code": "cr-kata10-312",
+    "index": 312
+  },
+  {
+    "surface": "ワイングラス",
+    "reading": "wineglass",
+    "code": "cr-kata10-313",
+    "index": 313
+  },
+  {
+    "surface": "ワーク",
+    "reading": "work",
+    "code": "cr-kata10-314",
+    "index": 314
+  },
+  {
+    "surface": "ワラス",
+    "reading": "warasu",
+    "code": "cr-kata10-315",
+    "index": 315
+  },
+  {
+    "surface": "ワードプロセッサ",
+    "reading": "wordprocessor",
+    "code": "cr-kata10-316",
+    "index": 316
+  },
+  {
+    "surface": "ワレヘム",
+    "reading": "warehemu",
+    "code": "cr-kata10-317",
+    "index": 317
+  },
+  {
+    "surface": "ワールド・カップ",
+    "reading": "worldcup",
+    "code": "cr-kata10-318",
+    "index": 318
+  },
+  {
+    "surface": "ワサビ",
+    "reading": "wasabi",
+    "code": "cr-kata10-319",
+    "index": 319
+  },
+  {
+    "surface": "ワイセツ",
+    "reading": "waisetsu",
+    "code": "cr-kata10-320",
+    "index": 320
+  },
+  {
+    "surface": "ワイヴァーン",
+    "reading": "waivaan",
+    "code": "cr-kata10-321",
+    "index": 321
+  },
+  {
+    "surface": "ワイシャツ",
+    "reading": "waishatsu",
+    "code": "cr-kata10-322",
+    "index": 322
+  },
+  {
+    "surface": "ワイナリー",
+    "reading": "winery",
+    "code": "cr-kata10-323",
+    "index": 323
+  },
+  {
+    "surface": "ンガナム",
+    "reading": "nganamu",
+    "code": "cr-kata10-324",
+    "index": 324
+  }
+]

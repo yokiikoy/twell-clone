@@ -1,0 +1,8900 @@
+[
+  {
+    "surface": "ドライマティーニ",
+    "reading": "drymartini",
+    "code": "cr-kata4-0",
+    "index": 0
+  },
+  {
+    "surface": "デビトロセラミックス",
+    "reading": "devitroceramics",
+    "code": "cr-kata4-1",
+    "index": 1
+  },
+  {
+    "surface": "タラズ",
+    "reading": "tarazu",
+    "code": "cr-kata4-2",
+    "index": 2
+  },
+  {
+    "surface": "チーパオ",
+    "reading": "chiipao",
+    "code": "cr-kata4-3",
+    "index": 3
+  },
+  {
+    "surface": "テクニカル・ターム",
+    "reading": "technicalterm",
+    "code": "cr-kata4-4",
+    "index": 4
+  },
+  {
+    "surface": "チチュウカイミバエ",
+    "reading": "chichuukaimibae",
+    "code": "cr-kata4-5",
+    "index": 5
+  },
+  {
+    "surface": "トランスフェラーゼ",
+    "reading": "transferase",
+    "code": "cr-kata4-6",
+    "index": 6
+  },
+  {
+    "surface": "ディプスイッチ",
+    "reading": "dipusuitchi",
+    "code": "cr-kata4-7",
+    "index": 7
+  },
+  {
+    "surface": "ツィラン",
+    "reading": "tsiran",
+    "code": "cr-kata4-8",
+    "index": 8
+  },
+  {
+    "surface": "テュニジア",
+    "reading": "tunisia",
+    "code": "cr-kata4-9",
+    "index": 9
+  },
+  {
+    "surface": "チビ",
+    "reading": "chibi",
+    "code": "cr-kata4-10",
+    "index": 10
+  },
+  {
+    "surface": "ティラー",
+    "reading": "taylor",
+    "code": "cr-kata4-11",
+    "index": 11
+  },
+  {
+    "surface": "ダーンドゥル",
+    "reading": "daanduru",
+    "code": "cr-kata4-12",
+    "index": 12
+  },
+  {
+    "surface": "トゥーバ",
+    "reading": "toba",
+    "code": "cr-kata4-13",
+    "index": 13
+  },
+  {
+    "surface": "タガンログ",
+    "reading": "taganrogu",
+    "code": "cr-kata4-14",
+    "index": 14
+  },
+  {
+    "surface": "デネボラ",
+    "reading": "denebola",
+    "code": "cr-kata4-15",
+    "index": 15
+  },
+  {
+    "surface": "トランスポンダ",
+    "reading": "transponder",
+    "code": "cr-kata4-16",
+    "index": 16
+  },
+  {
+    "surface": "デファクトスタンダード",
+    "reading": "defakutostandard",
+    "code": "cr-kata4-17",
+    "index": 17
+  },
+  {
+    "surface": "トレーニングウェア",
+    "reading": "trainingwear",
+    "code": "cr-kata4-18",
+    "index": 18
+  },
+  {
+    "surface": "ダウンヒル",
+    "reading": "downhill",
+    "code": "cr-kata4-19",
+    "index": 19
+  },
+  {
+    "surface": "デモテープ",
+    "reading": "demotape",
+    "code": "cr-kata4-20",
+    "index": 20
+  },
+  {
+    "surface": "ティーンエージャー",
+    "reading": "teenager",
+    "code": "cr-kata4-21",
+    "index": 21
+  },
+  {
+    "surface": "チェボクサル",
+    "reading": "chebokusaru",
+    "code": "cr-kata4-22",
+    "index": 22
+  },
+  {
+    "surface": "テレメトリング",
+    "reading": "teremetoringu",
+    "code": "cr-kata4-23",
+    "index": 23
+  },
+  {
+    "surface": "チャペル",
+    "reading": "chapel",
+    "code": "cr-kata4-24",
+    "index": 24
+  },
+  {
+    "surface": "デス",
+    "reading": "desu",
+    "code": "cr-kata4-25",
+    "index": 25
+  },
+  {
+    "surface": "ドメイン",
+    "reading": "domain",
+    "code": "cr-kata4-26",
+    "index": 26
+  },
+  {
+    "surface": "デヴァ",
+    "reading": "devu",
+    "code": "cr-kata4-27",
+    "index": 27
+  },
+  {
+    "surface": "チルボン",
+    "reading": "chirubon",
+    "code": "cr-kata4-28",
+    "index": 28
+  },
+  {
+    "surface": "タイル",
+    "reading": "tile",
+    "code": "cr-kata4-29",
+    "index": 29
+  },
+  {
+    "surface": "ドータカード",
+    "reading": "dootacard",
+    "code": "cr-kata4-30",
+    "index": 30
+  },
+  {
+    "surface": "トップコンディション",
+    "reading": "topcondition",
+    "code": "cr-kata4-31",
+    "index": 31
+  },
+  {
+    "surface": "テガフール",
+    "reading": "tegafur",
+    "code": "cr-kata4-32",
+    "index": 32
+  },
+  {
+    "surface": "チャトニ",
+    "reading": "catni",
+    "code": "cr-kata4-33",
+    "index": 33
+  },
+  {
+    "surface": "テレファックス",
+    "reading": "telefax",
+    "code": "cr-kata4-34",
+    "index": 34
+  },
+  {
+    "surface": "タルト",
+    "reading": "tarte",
+    "code": "cr-kata4-35",
+    "index": 35
+  },
+  {
+    "surface": "トレッド",
+    "reading": "tread",
+    "code": "cr-kata4-36",
+    "index": 36
+  },
+  {
+    "surface": "ターボジェット",
+    "reading": "turbojet",
+    "code": "cr-kata4-37",
+    "index": 37
+  },
+  {
+    "surface": "トルソー",
+    "reading": "torso",
+    "code": "cr-kata4-38",
+    "index": 38
+  },
+  {
+    "surface": "トラフ",
+    "reading": "torafu",
+    "code": "cr-kata4-39",
+    "index": 39
+  },
+  {
+    "surface": "デジャビュー",
+    "reading": "dejavu",
+    "code": "cr-kata4-40",
+    "index": 40
+  },
+  {
+    "surface": "ディオプター",
+    "reading": "dioputaa",
+    "code": "cr-kata4-41",
+    "index": 41
+  },
+  {
+    "surface": "ディーエム",
+    "reading": "diiemu",
+    "code": "cr-kata4-42",
+    "index": 42
+  },
+  {
+    "surface": "トポロジ",
+    "reading": "topology",
+    "code": "cr-kata4-43",
+    "index": 43
+  },
+  {
+    "surface": "ドアノブ",
+    "reading": "doorknob",
+    "code": "cr-kata4-44",
+    "index": 44
+  },
+  {
+    "surface": "タモ",
+    "reading": "tamo",
+    "code": "cr-kata4-45",
+    "index": 45
+  },
+  {
+    "surface": "チャンプ",
+    "reading": "champ",
+    "code": "cr-kata4-46",
+    "index": 46
+  },
+  {
+    "surface": "デンプン",
+    "reading": "denpun",
+    "code": "cr-kata4-47",
+    "index": 47
+  },
+  {
+    "surface": "チンジャオロウスー",
+    "reading": "chinjaorousuu",
+    "code": "cr-kata4-48",
+    "index": 48
+  },
+  {
+    "surface": "テイクオフ",
+    "reading": "takeoff",
+    "code": "cr-kata4-49",
+    "index": 49
+  },
+  {
+    "surface": "ディメンショニング",
+    "reading": "dimenshoningu",
+    "code": "cr-kata4-50",
+    "index": 50
+  },
+  {
+    "surface": "タイシェト",
+    "reading": "taisheto",
+    "code": "cr-kata4-51",
+    "index": 51
+  },
+  {
+    "surface": "デウスエクスマキナ",
+    "reading": "deusuekusumakina",
+    "code": "cr-kata4-52",
+    "index": 52
+  },
+  {
+    "surface": "チョウチョ",
+    "reading": "choucho",
+    "code": "cr-kata4-53",
+    "index": 53
+  },
+  {
+    "surface": "デー",
+    "reading": "day",
+    "code": "cr-kata4-54",
+    "index": 54
+  },
+  {
+    "surface": "タッパー",
+    "reading": "tupperware",
+    "code": "cr-kata4-55",
+    "index": 55
+  },
+  {
+    "surface": "ドロップキック",
+    "reading": "dropkick",
+    "code": "cr-kata4-56",
+    "index": 56
+  },
+  {
+    "surface": "ティルヴァナンタプラム",
+    "reading": "tiruvanantapuramu",
+    "code": "cr-kata4-57",
+    "index": 57
+  },
+  {
+    "surface": "ダメ",
+    "reading": "dame",
+    "code": "cr-kata4-58",
+    "index": 58
+  },
+  {
+    "surface": "ダーティ",
+    "reading": "dirty",
+    "code": "cr-kata4-59",
+    "index": 59
+  },
+  {
+    "surface": "チョイバルサン",
+    "reading": "choibarusan",
+    "code": "cr-kata4-60",
+    "index": 60
+  },
+  {
+    "surface": "ティヴォリ",
+    "reading": "tivori",
+    "code": "cr-kata4-61",
+    "index": 61
+  },
+  {
+    "surface": "チャージャ",
+    "reading": "chaaja",
+    "code": "cr-kata4-62",
+    "index": 62
+  },
+  {
+    "surface": "トリガ",
+    "reading": "toriga",
+    "code": "cr-kata4-63",
+    "index": 63
+  },
+  {
+    "surface": "ドキュメンタリ",
+    "reading": "dokyumentari",
+    "code": "cr-kata4-64",
+    "index": 64
+  },
+  {
+    "surface": "ドチザメ",
+    "reading": "dochizame",
+    "code": "cr-kata4-65",
+    "index": 65
+  },
+  {
+    "surface": "トーキー",
+    "reading": "talkie",
+    "code": "cr-kata4-66",
+    "index": 66
+  },
+  {
+    "surface": "トランスクリプション",
+    "reading": "transcription",
+    "code": "cr-kata4-67",
+    "index": 67
+  },
+  {
+    "surface": "タイトルページ",
+    "reading": "titlepage",
+    "code": "cr-kata4-68",
+    "index": 68
+  },
+  {
+    "surface": "チューリング・マシン",
+    "reading": "turingmachine",
+    "code": "cr-kata4-69",
+    "index": 69
+  },
+  {
+    "surface": "ドライブインレストラン",
+    "reading": "driveinrestaurant",
+    "code": "cr-kata4-70",
+    "index": 70
+  },
+  {
+    "surface": "ディカルブ",
+    "reading": "dikarubu",
+    "code": "cr-kata4-71",
+    "index": 71
+  },
+  {
+    "surface": "トカット",
+    "reading": "tocut",
+    "code": "cr-kata4-72",
+    "index": 72
+  },
+  {
+    "surface": "チェシン",
+    "reading": "cheshin",
+    "code": "cr-kata4-73",
+    "index": 73
+  },
+  {
+    "surface": "テンホー",
+    "reading": "tenhoo",
+    "code": "cr-kata4-74",
+    "index": 74
+  },
+  {
+    "surface": "トーガ",
+    "reading": "toga",
+    "code": "cr-kata4-75",
+    "index": 75
+  },
+  {
+    "surface": "タウア",
+    "reading": "taua",
+    "code": "cr-kata4-76",
+    "index": 76
+  },
+  {
+    "surface": "デジタルキャッシュ",
+    "reading": "digitalcash",
+    "code": "cr-kata4-77",
+    "index": 77
+  },
+  {
+    "surface": "チャコールフィルター",
+    "reading": "charcoalfilter",
+    "code": "cr-kata4-78",
+    "index": 78
+  },
+  {
+    "surface": "ダンカ",
+    "reading": "danka",
+    "code": "cr-kata4-79",
+    "index": 79
+  },
+  {
+    "surface": "トゥーザウモット",
+    "reading": "tozaumotto",
+    "code": "cr-kata4-80",
+    "index": 80
+  },
+  {
+    "surface": "テュルクメナバート",
+    "reading": "tyurukumenabaato",
+    "code": "cr-kata4-81",
+    "index": 81
+  },
+  {
+    "surface": "ダイニングキッチン",
+    "reading": "diningkitchen",
+    "code": "cr-kata4-82",
+    "index": 82
+  },
+  {
+    "surface": "チンポコ",
+    "reading": "chinpoko",
+    "code": "cr-kata4-83",
+    "index": 83
+  },
+  {
+    "surface": "タブラ",
+    "reading": "tabula",
+    "code": "cr-kata4-84",
+    "index": 84
+  },
+  {
+    "surface": "トラコーマ",
+    "reading": "trachoma",
+    "code": "cr-kata4-85",
+    "index": 85
+  },
+  {
+    "surface": "テングハギ",
+    "reading": "tenguhagi",
+    "code": "cr-kata4-86",
+    "index": 86
+  },
+  {
+    "surface": "トリビア",
+    "reading": "trivia",
+    "code": "cr-kata4-87",
+    "index": 87
+  },
+  {
+    "surface": "トップグループ",
+    "reading": "topgroup",
+    "code": "cr-kata4-88",
+    "index": 88
+  },
+  {
+    "surface": "ドキュメンテーション",
+    "reading": "documentation",
+    "code": "cr-kata4-89",
+    "index": 89
+  },
+  {
+    "surface": "デッキチェア",
+    "reading": "deckchair",
+    "code": "cr-kata4-90",
+    "index": 90
+  },
+  {
+    "surface": "デポー",
+    "reading": "depot",
+    "code": "cr-kata4-91",
+    "index": 91
+  },
+  {
+    "surface": "デッチアゲ",
+    "reading": "detchiage",
+    "code": "cr-kata4-92",
+    "index": 92
+  },
+  {
+    "surface": "デュアルポートラム",
+    "reading": "dualportlamb",
+    "code": "cr-kata4-93",
+    "index": 93
+  },
+  {
+    "surface": "ディオニュソス",
+    "reading": "dionyusosu",
+    "code": "cr-kata4-94",
+    "index": 94
+  },
+  {
+    "surface": "トリックプレー",
+    "reading": "trickplay",
+    "code": "cr-kata4-95",
+    "index": 95
+  },
+  {
+    "surface": "デュメリルオオトカゲ",
+    "reading": "dyumeriruootokage",
+    "code": "cr-kata4-96",
+    "index": 96
+  },
+  {
+    "surface": "ドライブバイインストール",
+    "reading": "drivebyinstall",
+    "code": "cr-kata4-97",
+    "index": 97
+  },
+  {
+    "surface": "チャド",
+    "reading": "chad",
+    "code": "cr-kata4-98",
+    "index": 98
+  },
+  {
+    "surface": "ドライマーティーニ",
+    "reading": "doraimaatiini",
+    "code": "cr-kata4-99",
+    "index": 99
+  },
+  {
+    "surface": "ティルッチラーッパッリ",
+    "reading": "tirutchiraapparri",
+    "code": "cr-kata4-100",
+    "index": 100
+  },
+  {
+    "surface": "デスノゴルスク",
+    "reading": "desunogorusuku",
+    "code": "cr-kata4-101",
+    "index": 101
+  },
+  {
+    "surface": "チューブレスタイヤ",
+    "reading": "tubelesstire",
+    "code": "cr-kata4-102",
+    "index": 102
+  },
+  {
+    "surface": "テン",
+    "reading": "ten",
+    "code": "cr-kata4-103",
+    "index": 103
+  },
+  {
+    "surface": "ツメ",
+    "reading": "tsume",
+    "code": "cr-kata4-104",
+    "index": 104
+  },
+  {
+    "surface": "デボンポート",
+    "reading": "debonport",
+    "code": "cr-kata4-105",
+    "index": 105
+  },
+  {
+    "surface": "ドローン",
+    "reading": "drone",
+    "code": "cr-kata4-106",
+    "index": 106
+  },
+  {
+    "surface": "タイ",
+    "reading": "thailand",
+    "code": "cr-kata4-107",
+    "index": 107
+  },
+  {
+    "surface": "トレド",
+    "reading": "toredo",
+    "code": "cr-kata4-108",
+    "index": 108
+  },
+  {
+    "surface": "テクノイコノミックス",
+    "reading": "tekunoikonomikkusu",
+    "code": "cr-kata4-109",
+    "index": 109
+  },
+  {
+    "surface": "タイムマシーン",
+    "reading": "timemachine",
+    "code": "cr-kata4-110",
+    "index": 110
+  },
+  {
+    "surface": "トーナル",
+    "reading": "tonal",
+    "code": "cr-kata4-111",
+    "index": 111
+  },
+  {
+    "surface": "テレカ",
+    "reading": "tereka",
+    "code": "cr-kata4-112",
+    "index": 112
+  },
+  {
+    "surface": "トリガイ",
+    "reading": "torigai",
+    "code": "cr-kata4-113",
+    "index": 113
+  },
+  {
+    "surface": "テンチャ",
+    "reading": "tencha",
+    "code": "cr-kata4-114",
+    "index": 114
+  },
+  {
+    "surface": "チルドレン",
+    "reading": "children",
+    "code": "cr-kata4-115",
+    "index": 115
+  },
+  {
+    "surface": "ドラセナ",
+    "reading": "dracaena",
+    "code": "cr-kata4-116",
+    "index": 116
+  },
+  {
+    "surface": "チェザーノ・マデルノ",
+    "reading": "chezaanomaderuno",
+    "code": "cr-kata4-117",
+    "index": 117
+  },
+  {
+    "surface": "チャンドラプル",
+    "reading": "chandlerpull",
+    "code": "cr-kata4-118",
+    "index": 118
+  },
+  {
+    "surface": "トー",
+    "reading": "too",
+    "code": "cr-kata4-119",
+    "index": 119
+  },
+  {
+    "surface": "ターボチャージャー",
+    "reading": "turbocharger",
+    "code": "cr-kata4-120",
+    "index": 120
+  },
+  {
+    "surface": "トリニトロベンゼン",
+    "reading": "trinitrobenzene",
+    "code": "cr-kata4-121",
+    "index": 121
+  },
+  {
+    "surface": "テキスタイルデザイン",
+    "reading": "textiledesign",
+    "code": "cr-kata4-122",
+    "index": 122
+  },
+  {
+    "surface": "ツナ",
+    "reading": "tuna",
+    "code": "cr-kata4-123",
+    "index": 123
+  },
+  {
+    "surface": "テレテックス",
+    "reading": "teretekkusu",
+    "code": "cr-kata4-124",
+    "index": 124
+  },
+  {
+    "surface": "チクタク",
+    "reading": "ticktack",
+    "code": "cr-kata4-125",
+    "index": 125
+  },
+  {
+    "surface": "デモクラット",
+    "reading": "democrat",
+    "code": "cr-kata4-126",
+    "index": 126
+  },
+  {
+    "surface": "ディレー",
+    "reading": "delay",
+    "code": "cr-kata4-127",
+    "index": 127
+  },
+  {
+    "surface": "データーベース",
+    "reading": "database",
+    "code": "cr-kata4-128",
+    "index": 128
+  },
+  {
+    "surface": "トゥルヌ・マグレレ",
+    "reading": "turunumagurere",
+    "code": "cr-kata4-129",
+    "index": 129
+  },
+  {
+    "surface": "タンボフ",
+    "reading": "tanbofu",
+    "code": "cr-kata4-130",
+    "index": 130
+  },
+  {
+    "surface": "テングチョウチョウウオ",
+    "reading": "tenguchouchouuo",
+    "code": "cr-kata4-131",
+    "index": 131
+  },
+  {
+    "surface": "トラック",
+    "reading": "truck",
+    "code": "cr-kata4-132",
+    "index": 132
+  },
+  {
+    "surface": "ディスプレースメント",
+    "reading": "displacement",
+    "code": "cr-kata4-133",
+    "index": 133
+  },
+  {
+    "surface": "トロスタネッツ",
+    "reading": "torosutanet",
+    "code": "cr-kata4-134",
+    "index": 134
+  },
+  {
+    "surface": "テクノストラクチャー",
+    "reading": "technostructure",
+    "code": "cr-kata4-135",
+    "index": 135
+  },
+  {
+    "surface": "テラ",
+    "reading": "terra",
+    "code": "cr-kata4-136",
+    "index": 136
+  },
+  {
+    "surface": "タコグラフ",
+    "reading": "tachograph",
+    "code": "cr-kata4-137",
+    "index": 137
+  },
+  {
+    "surface": "タンコブ",
+    "reading": "tankobu",
+    "code": "cr-kata4-138",
+    "index": 138
+  },
+  {
+    "surface": "トゥーットゥックディ",
+    "reading": "tottukkudi",
+    "code": "cr-kata4-139",
+    "index": 139
+  },
+  {
+    "surface": "デバッグ",
+    "reading": "debug",
+    "code": "cr-kata4-140",
+    "index": 140
+  },
+  {
+    "surface": "ドーチェスター",
+    "reading": "doochesutaa",
+    "code": "cr-kata4-141",
+    "index": 141
+  },
+  {
+    "surface": "デモンストレーター",
+    "reading": "demonstrator",
+    "code": "cr-kata4-142",
+    "index": 142
+  },
+  {
+    "surface": "ディスアドバンテージ",
+    "reading": "disadvantage",
+    "code": "cr-kata4-143",
+    "index": 143
+  },
+  {
+    "surface": "チェスターフィールド",
+    "reading": "chesterfield",
+    "code": "cr-kata4-144",
+    "index": 144
+  },
+  {
+    "surface": "チョコレート",
+    "reading": "chocolate",
+    "code": "cr-kata4-145",
+    "index": 145
+  },
+  {
+    "surface": "テクセル",
+    "reading": "techniccell",
+    "code": "cr-kata4-146",
+    "index": 146
+  },
+  {
+    "surface": "データベース",
+    "reading": "database",
+    "code": "cr-kata4-147",
+    "index": 147
+  },
+  {
+    "surface": "タワウ",
+    "reading": "tawow",
+    "code": "cr-kata4-148",
+    "index": 148
+  },
+  {
+    "surface": "トリポリ",
+    "reading": "tripoli",
+    "code": "cr-kata4-149",
+    "index": 149
+  },
+  {
+    "surface": "トロロ",
+    "reading": "tororo",
+    "code": "cr-kata4-150",
+    "index": 150
+  },
+  {
+    "surface": "チヴィタヴェッキア",
+    "reading": "chivitavekkia",
+    "code": "cr-kata4-151",
+    "index": 151
+  },
+  {
+    "surface": "ドキュソ",
+    "reading": "dokyuso",
+    "code": "cr-kata4-152",
+    "index": 152
+  },
+  {
+    "surface": "ドルマンスリーブ",
+    "reading": "dolmansleeve",
+    "code": "cr-kata4-153",
+    "index": 153
+  },
+  {
+    "surface": "ディテール",
+    "reading": "detail",
+    "code": "cr-kata4-154",
+    "index": 154
+  },
+  {
+    "surface": "ダウンサイジング",
+    "reading": "downsizing",
+    "code": "cr-kata4-155",
+    "index": 155
+  },
+  {
+    "surface": "ドンファン",
+    "reading": "donfan",
+    "code": "cr-kata4-156",
+    "index": 156
+  },
+  {
+    "surface": "タイワンヤモリザメ",
+    "reading": "taiwanyamorizame",
+    "code": "cr-kata4-157",
+    "index": 157
+  },
+  {
+    "surface": "チュートリアル",
+    "reading": "tutorial",
+    "code": "cr-kata4-158",
+    "index": 158
+  },
+  {
+    "surface": "ドッグレース",
+    "reading": "dogreesu",
+    "code": "cr-kata4-159",
+    "index": 159
+  },
+  {
+    "surface": "タンタル",
+    "reading": "tantal",
+    "code": "cr-kata4-160",
+    "index": 160
+  },
+  {
+    "surface": "トッパーズ",
+    "reading": "topaz",
+    "code": "cr-kata4-161",
+    "index": 161
+  },
+  {
+    "surface": "トーゴ",
+    "reading": "togo",
+    "code": "cr-kata4-162",
+    "index": 162
+  },
+  {
+    "surface": "テースト",
+    "reading": "taste",
+    "code": "cr-kata4-163",
+    "index": 163
+  },
+  {
+    "surface": "チェア",
+    "reading": "chair",
+    "code": "cr-kata4-164",
+    "index": 164
+  },
+  {
+    "surface": "ダブレット",
+    "reading": "doublet",
+    "code": "cr-kata4-165",
+    "index": 165
+  },
+  {
+    "surface": "タイド",
+    "reading": "tide",
+    "code": "cr-kata4-166",
+    "index": 166
+  },
+  {
+    "surface": "デジタルディバイド",
+    "reading": "digitaldivide",
+    "code": "cr-kata4-167",
+    "index": 167
+  },
+  {
+    "surface": "トリ",
+    "reading": "tori",
+    "code": "cr-kata4-168",
+    "index": 168
+  },
+  {
+    "surface": "デリカテッセン",
+    "reading": "delikatessen",
+    "code": "cr-kata4-169",
+    "index": 169
+  },
+  {
+    "surface": "ディナーセット",
+    "reading": "dinnerset",
+    "code": "cr-kata4-170",
+    "index": 170
+  },
+  {
+    "surface": "ディスカッション",
+    "reading": "discussion",
+    "code": "cr-kata4-171",
+    "index": 171
+  },
+  {
+    "surface": "ディポログ",
+    "reading": "diporogu",
+    "code": "cr-kata4-172",
+    "index": 172
+  },
+  {
+    "surface": "チャート",
+    "reading": "chart",
+    "code": "cr-kata4-173",
+    "index": 173
+  },
+  {
+    "surface": "デクレッシェンド",
+    "reading": "decrescendo",
+    "code": "cr-kata4-174",
+    "index": 174
+  },
+  {
+    "surface": "タウ",
+    "reading": "tau",
+    "code": "cr-kata4-175",
+    "index": 175
+  },
+  {
+    "surface": "ダイン",
+    "reading": "dyne",
+    "code": "cr-kata4-176",
+    "index": 176
+  },
+  {
+    "surface": "トランキライザー",
+    "reading": "tranquilizer",
+    "code": "cr-kata4-177",
+    "index": 177
+  },
+  {
+    "surface": "トクビレ",
+    "reading": "tokubire",
+    "code": "cr-kata4-178",
+    "index": 178
+  },
+  {
+    "surface": "トップマネジメント",
+    "reading": "topmanagement",
+    "code": "cr-kata4-179",
+    "index": 179
+  },
+  {
+    "surface": "タフィー",
+    "reading": "taffy",
+    "code": "cr-kata4-180",
+    "index": 180
+  },
+  {
+    "surface": "トーマス",
+    "reading": "thomas",
+    "code": "cr-kata4-181",
+    "index": 181
+  },
+  {
+    "surface": "デスペレート",
+    "reading": "desperate",
+    "code": "cr-kata4-182",
+    "index": 182
+  },
+  {
+    "surface": "ディストリビューター",
+    "reading": "distributor",
+    "code": "cr-kata4-183",
+    "index": 183
+  },
+  {
+    "surface": "ツェビエ",
+    "reading": "tsebie",
+    "code": "cr-kata4-184",
+    "index": 184
+  },
+  {
+    "surface": "チャドル",
+    "reading": "chador",
+    "code": "cr-kata4-185",
+    "index": 185
+  },
+  {
+    "surface": "ディーティーエム",
+    "reading": "diitiiemu",
+    "code": "cr-kata4-186",
+    "index": 186
+  },
+  {
+    "surface": "ドロワ",
+    "reading": "dorowa",
+    "code": "cr-kata4-187",
+    "index": 187
+  },
+  {
+    "surface": "テク",
+    "reading": "technic",
+    "code": "cr-kata4-188",
+    "index": 188
+  },
+  {
+    "surface": "チャンドォウリ",
+    "reading": "chandouri",
+    "code": "cr-kata4-189",
+    "index": 189
+  },
+  {
+    "surface": "トロコイド",
+    "reading": "trochoid",
+    "code": "cr-kata4-190",
+    "index": 190
+  },
+  {
+    "surface": "チンチラ",
+    "reading": "chinchilla",
+    "code": "cr-kata4-191",
+    "index": 191
+  },
+  {
+    "surface": "チリコンカーネ",
+    "reading": "chileconquerne",
+    "code": "cr-kata4-192",
+    "index": 192
+  },
+  {
+    "surface": "ディーブイディーレコーダー",
+    "reading": "diibuidiirekoodaa",
+    "code": "cr-kata4-193",
+    "index": 193
+  },
+  {
+    "surface": "デスエデュケーション",
+    "reading": "deatheducation",
+    "code": "cr-kata4-194",
+    "index": 194
+  },
+  {
+    "surface": "トルクコンバーター",
+    "reading": "torqueconverter",
+    "code": "cr-kata4-195",
+    "index": 195
+  },
+  {
+    "surface": "トレッドパターン",
+    "reading": "treadpattern",
+    "code": "cr-kata4-196",
+    "index": 196
+  },
+  {
+    "surface": "デュープロセスオブロー",
+    "reading": "dueprocessoflow",
+    "code": "cr-kata4-197",
+    "index": 197
+  },
+  {
+    "surface": "ディーツェンバッハ",
+    "reading": "diitsenbahha",
+    "code": "cr-kata4-198",
+    "index": 198
+  },
+  {
+    "surface": "ティルチラーパッリ",
+    "reading": "tiruchiraaparri",
+    "code": "cr-kata4-199",
+    "index": 199
+  },
+  {
+    "surface": "トリトン",
+    "reading": "triton",
+    "code": "cr-kata4-200",
+    "index": 200
+  },
+  {
+    "surface": "タペクリ",
+    "reading": "tapekuri",
+    "code": "cr-kata4-201",
+    "index": 201
+  },
+  {
+    "surface": "トンプソンチョウチョウウオ",
+    "reading": "tonpusonchouchouuo",
+    "code": "cr-kata4-202",
+    "index": 202
+  },
+  {
+    "surface": "ティランノサウルス",
+    "reading": "tirannosaurusu",
+    "code": "cr-kata4-203",
+    "index": 203
+  },
+  {
+    "surface": "チャイッカミ",
+    "reading": "chaikkami",
+    "code": "cr-kata4-204",
+    "index": 204
+  },
+  {
+    "surface": "ドキドキ",
+    "reading": "dokidoki",
+    "code": "cr-kata4-205",
+    "index": 205
+  },
+  {
+    "surface": "ダイポールアンテナ",
+    "reading": "dipoleantenna",
+    "code": "cr-kata4-206",
+    "index": 206
+  },
+  {
+    "surface": "ダビット",
+    "reading": "davit",
+    "code": "cr-kata4-207",
+    "index": 207
+  },
+  {
+    "surface": "ダイナミック・レンジ",
+    "reading": "dynamicrange",
+    "code": "cr-kata4-208",
+    "index": 208
+  },
+  {
+    "surface": "ディーディーティー",
+    "reading": "diidiitii",
+    "code": "cr-kata4-209",
+    "index": 209
+  },
+  {
+    "surface": "テクニカルメリット",
+    "reading": "technicalmerit",
+    "code": "cr-kata4-210",
+    "index": 210
+  },
+  {
+    "surface": "ドゥナン",
+    "reading": "dunan",
+    "code": "cr-kata4-211",
+    "index": 211
+  },
+  {
+    "surface": "ディクション",
+    "reading": "dikushon",
+    "code": "cr-kata4-212",
+    "index": 212
+  },
+  {
+    "surface": "ダイヴィング",
+    "reading": "diving",
+    "code": "cr-kata4-213",
+    "index": 213
+  },
+  {
+    "surface": "デージオ",
+    "reading": "dayjio",
+    "code": "cr-kata4-214",
+    "index": 214
+  },
+  {
+    "surface": "ドバドバ",
+    "reading": "dobadoba",
+    "code": "cr-kata4-215",
+    "index": 215
+  },
+  {
+    "surface": "トラバ",
+    "reading": "toraba",
+    "code": "cr-kata4-216",
+    "index": 216
+  },
+  {
+    "surface": "タコイカ",
+    "reading": "takoika",
+    "code": "cr-kata4-217",
+    "index": 217
+  },
+  {
+    "surface": "デジャヴュー",
+    "reading": "dejavu",
+    "code": "cr-kata4-218",
+    "index": 218
+  },
+  {
+    "surface": "デリック",
+    "reading": "derrick",
+    "code": "cr-kata4-219",
+    "index": 219
+  },
+  {
+    "surface": "タイワンリス",
+    "reading": "taiwanrisu",
+    "code": "cr-kata4-220",
+    "index": 220
+  },
+  {
+    "surface": "ドグマチズム",
+    "reading": "dogumachizumu",
+    "code": "cr-kata4-221",
+    "index": 221
+  },
+  {
+    "surface": "ダイジョ",
+    "reading": "daiji",
+    "code": "cr-kata4-222",
+    "index": 222
+  },
+  {
+    "surface": "ディフェンディング",
+    "reading": "defending",
+    "code": "cr-kata4-223",
+    "index": 223
+  },
+  {
+    "surface": "ツナマヨネーズ",
+    "reading": "tunamayonnaise",
+    "code": "cr-kata4-224",
+    "index": 224
+  },
+  {
+    "surface": "ドシン",
+    "reading": "doshin",
+    "code": "cr-kata4-225",
+    "index": 225
+  },
+  {
+    "surface": "ディレクター",
+    "reading": "director",
+    "code": "cr-kata4-226",
+    "index": 226
+  },
+  {
+    "surface": "データベースサーバー",
+    "reading": "databaseserver",
+    "code": "cr-kata4-227",
+    "index": 227
+  },
+  {
+    "surface": "テヘラン",
+    "reading": "teheran",
+    "code": "cr-kata4-228",
+    "index": 228
+  },
+  {
+    "surface": "デモン",
+    "reading": "demon",
+    "code": "cr-kata4-229",
+    "index": 229
+  },
+  {
+    "surface": "ツヴァイブリュッケン",
+    "reading": "tsuvaiburyukken",
+    "code": "cr-kata4-230",
+    "index": 230
+  },
+  {
+    "surface": "チヌ",
+    "reading": "chinu",
+    "code": "cr-kata4-231",
+    "index": 231
+  },
+  {
+    "surface": "テコ",
+    "reading": "teko",
+    "code": "cr-kata4-232",
+    "index": 232
+  },
+  {
+    "surface": "デミ",
+    "reading": "demi",
+    "code": "cr-kata4-233",
+    "index": 233
+  },
+  {
+    "surface": "ドアホン",
+    "reading": "doorphone",
+    "code": "cr-kata4-234",
+    "index": 234
+  },
+  {
+    "surface": "チェリオ",
+    "reading": "cherio",
+    "code": "cr-kata4-235",
+    "index": 235
+  },
+  {
+    "surface": "タコマ",
+    "reading": "tacoma",
+    "code": "cr-kata4-236",
+    "index": 236
+  },
+  {
+    "surface": "タグ",
+    "reading": "tag",
+    "code": "cr-kata4-237",
+    "index": 237
+  },
+  {
+    "surface": "デーサイト",
+    "reading": "dacite",
+    "code": "cr-kata4-238",
+    "index": 238
+  },
+  {
+    "surface": "テリア",
+    "reading": "terrier",
+    "code": "cr-kata4-239",
+    "index": 239
+  },
+  {
+    "surface": "トゥナプナ",
+    "reading": "tunapuna",
+    "code": "cr-kata4-240",
+    "index": 240
+  },
+  {
+    "surface": "タマグス",
+    "reading": "tamagusu",
+    "code": "cr-kata4-241",
+    "index": 241
+  },
+  {
+    "surface": "テレコミューティング",
+    "reading": "terekomyuutingu",
+    "code": "cr-kata4-242",
+    "index": 242
+  },
+  {
+    "surface": "チトラル",
+    "reading": "chitorale",
+    "code": "cr-kata4-243",
+    "index": 243
+  },
+  {
+    "surface": "ドンタク",
+    "reading": "zondag",
+    "code": "cr-kata4-244",
+    "index": 244
+  },
+  {
+    "surface": "ツライ",
+    "reading": "tsurai",
+    "code": "cr-kata4-245",
+    "index": 245
+  },
+  {
+    "surface": "ディメンショナリティ",
+    "reading": "dimenshonariti",
+    "code": "cr-kata4-246",
+    "index": 246
+  },
+  {
+    "surface": "ツノガレイ",
+    "reading": "tsunogarei",
+    "code": "cr-kata4-247",
+    "index": 247
+  },
+  {
+    "surface": "トラペン",
+    "reading": "torapen",
+    "code": "cr-kata4-248",
+    "index": 248
+  },
+  {
+    "surface": "ディエゴマルティン",
+    "reading": "diegomartin",
+    "code": "cr-kata4-249",
+    "index": 249
+  },
+  {
+    "surface": "トラーパニ",
+    "reading": "toraapani",
+    "code": "cr-kata4-250",
+    "index": 250
+  },
+  {
+    "surface": "テディー",
+    "reading": "teddy",
+    "code": "cr-kata4-251",
+    "index": 251
+  },
+  {
+    "surface": "タリサイ",
+    "reading": "tarisai",
+    "code": "cr-kata4-252",
+    "index": 252
+  },
+  {
+    "surface": "ツチノコ",
+    "reading": "tsuchinoko",
+    "code": "cr-kata4-253",
+    "index": 253
+  },
+  {
+    "surface": "トランスポーテーション",
+    "reading": "transportation",
+    "code": "cr-kata4-254",
+    "index": 254
+  },
+  {
+    "surface": "テンピ",
+    "reading": "tempe",
+    "code": "cr-kata4-255",
+    "index": 255
+  },
+  {
+    "surface": "チェルムスフォード",
+    "reading": "cherumusufoodo",
+    "code": "cr-kata4-256",
+    "index": 256
+  },
+  {
+    "surface": "トランスミッション",
+    "reading": "transmission",
+    "code": "cr-kata4-257",
+    "index": 257
+  },
+  {
+    "surface": "デリバリー",
+    "reading": "delivery",
+    "code": "cr-kata4-258",
+    "index": 258
+  },
+  {
+    "surface": "チュニス",
+    "reading": "tunis",
+    "code": "cr-kata4-259",
+    "index": 259
+  },
+  {
+    "surface": "ドラミング",
+    "reading": "drumming",
+    "code": "cr-kata4-260",
+    "index": 260
+  },
+  {
+    "surface": "チーズフォンデュー",
+    "reading": "cheesefondue",
+    "code": "cr-kata4-261",
+    "index": 261
+  },
+  {
+    "surface": "チコリ",
+    "reading": "chicory",
+    "code": "cr-kata4-262",
+    "index": 262
+  },
+  {
+    "surface": "タルムード",
+    "reading": "talmud",
+    "code": "cr-kata4-263",
+    "index": 263
+  },
+  {
+    "surface": "ダッファー",
+    "reading": "duffer",
+    "code": "cr-kata4-264",
+    "index": 264
+  },
+  {
+    "surface": "ダブルデッカー",
+    "reading": "doubledecker",
+    "code": "cr-kata4-265",
+    "index": 265
+  },
+  {
+    "surface": "ツタウルシ",
+    "reading": "tsutaurushi",
+    "code": "cr-kata4-266",
+    "index": 266
+  },
+  {
+    "surface": "テンツキチョウチョウウオ",
+    "reading": "tentsukichouchouuo",
+    "code": "cr-kata4-267",
+    "index": 267
+  },
+  {
+    "surface": "テレビン",
+    "reading": "terebinth",
+    "code": "cr-kata4-268",
+    "index": 268
+  },
+  {
+    "surface": "テレプリンター",
+    "reading": "teleprinter",
+    "code": "cr-kata4-269",
+    "index": 269
+  },
+  {
+    "surface": "チュール",
+    "reading": "tulle",
+    "code": "cr-kata4-270",
+    "index": 270
+  },
+  {
+    "surface": "テキ",
+    "reading": "teki",
+    "code": "cr-kata4-271",
+    "index": 271
+  },
+  {
+    "surface": "ダファー",
+    "reading": "duffer",
+    "code": "cr-kata4-272",
+    "index": 272
+  },
+  {
+    "surface": "デバイダ",
+    "reading": "desbydade",
+    "code": "cr-kata4-273",
+    "index": 273
+  },
+  {
+    "surface": "ティピー",
+    "reading": "tepee",
+    "code": "cr-kata4-274",
+    "index": 274
+  },
+  {
+    "surface": "ドライブインバンク",
+    "reading": "driveinbank",
+    "code": "cr-kata4-275",
+    "index": 275
+  },
+  {
+    "surface": "デリカ",
+    "reading": "derika",
+    "code": "cr-kata4-276",
+    "index": 276
+  },
+  {
+    "surface": "ツルハシ",
+    "reading": "tsuruhashi",
+    "code": "cr-kata4-277",
+    "index": 277
+  },
+  {
+    "surface": "ディヴェルティスマン",
+    "reading": "divertissement",
+    "code": "cr-kata4-278",
+    "index": 278
+  },
+  {
+    "surface": "ドクウツギ",
+    "reading": "dokuutsugi",
+    "code": "cr-kata4-279",
+    "index": 279
+  },
+  {
+    "surface": "ディスティネーション",
+    "reading": "disutineeshon",
+    "code": "cr-kata4-280",
+    "index": 280
+  },
+  {
+    "surface": "デューディリジェンス",
+    "reading": "duedirijensu",
+    "code": "cr-kata4-281",
+    "index": 281
+  },
+  {
+    "surface": "ダックスフンド",
+    "reading": "dachshund",
+    "code": "cr-kata4-282",
+    "index": 282
+  },
+  {
+    "surface": "トラヴァース",
+    "reading": "toraverse",
+    "code": "cr-kata4-283",
+    "index": 283
+  },
+  {
+    "surface": "ティルス",
+    "reading": "tirusu",
+    "code": "cr-kata4-284",
+    "index": 284
+  },
+  {
+    "surface": "テルフォード",
+    "reading": "telford",
+    "code": "cr-kata4-285",
+    "index": 285
+  },
+  {
+    "surface": "ディアパガ",
+    "reading": "diapaga",
+    "code": "cr-kata4-286",
+    "index": 286
+  },
+  {
+    "surface": "チョボ",
+    "reading": "jobo",
+    "code": "cr-kata4-287",
+    "index": 287
+  },
+  {
+    "surface": "トリインフルエンザ",
+    "reading": "triinfluenza",
+    "code": "cr-kata4-288",
+    "index": 288
+  },
+  {
+    "surface": "ダメージ",
+    "reading": "damage",
+    "code": "cr-kata4-289",
+    "index": 289
+  },
+  {
+    "surface": "デミグラスソース",
+    "reading": "demiglacesauce",
+    "code": "cr-kata4-290",
+    "index": 290
+  },
+  {
+    "surface": "トビグチ",
+    "reading": "tobiguchi",
+    "code": "cr-kata4-291",
+    "index": 291
+  },
+  {
+    "surface": "トレーン",
+    "reading": "train",
+    "code": "cr-kata4-292",
+    "index": 292
+  },
+  {
+    "surface": "ダークサージャン",
+    "reading": "darksirjan",
+    "code": "cr-kata4-293",
+    "index": 293
+  },
+  {
+    "surface": "トランスナショナル",
+    "reading": "transnational",
+    "code": "cr-kata4-294",
+    "index": 294
+  },
+  {
+    "surface": "ダイビング",
+    "reading": "diving",
+    "code": "cr-kata4-295",
+    "index": 295
+  },
+  {
+    "surface": "トロ",
+    "reading": "toro",
+    "code": "cr-kata4-296",
+    "index": 296
+  },
+  {
+    "surface": "タムシ",
+    "reading": "tamushi",
+    "code": "cr-kata4-297",
+    "index": 297
+  },
+  {
+    "surface": "ディッケンズ",
+    "reading": "dickens",
+    "code": "cr-kata4-298",
+    "index": 298
+  },
+  {
+    "surface": "チャンピォン",
+    "reading": "chanpon",
+    "code": "cr-kata4-299",
+    "index": 299
+  },
+  {
+    "surface": "トップマネージメント",
+    "reading": "topmanagement",
+    "code": "cr-kata4-300",
+    "index": 300
+  },
+  {
+    "surface": "データディクショナリ",
+    "reading": "deetadikushonari",
+    "code": "cr-kata4-301",
+    "index": 301
+  },
+  {
+    "surface": "トリオース",
+    "reading": "triose",
+    "code": "cr-kata4-302",
+    "index": 302
+  },
+  {
+    "surface": "トリレン",
+    "reading": "tolylene",
+    "code": "cr-kata4-303",
+    "index": 303
+  },
+  {
+    "surface": "ツン",
+    "reading": "tsun",
+    "code": "cr-kata4-304",
+    "index": 304
+  },
+  {
+    "surface": "トムトム",
+    "reading": "thomthom",
+    "code": "cr-kata4-305",
+    "index": 305
+  },
+  {
+    "surface": "デジタルカメラ",
+    "reading": "digitalcamera",
+    "code": "cr-kata4-306",
+    "index": 306
+  },
+  {
+    "surface": "ダル",
+    "reading": "dull",
+    "code": "cr-kata4-307",
+    "index": 307
+  },
+  {
+    "surface": "ダムターミナル",
+    "reading": "damterminal",
+    "code": "cr-kata4-308",
+    "index": 308
+  },
+  {
+    "surface": "トンガリササノハガイ",
+    "reading": "tongarisasanohagai",
+    "code": "cr-kata4-309",
+    "index": 309
+  },
+  {
+    "surface": "デパートメントストア",
+    "reading": "departmentstore",
+    "code": "cr-kata4-310",
+    "index": 310
+  },
+  {
+    "surface": "トウ",
+    "reading": "tou",
+    "code": "cr-kata4-311",
+    "index": 311
+  },
+  {
+    "surface": "デモグラフィー",
+    "reading": "demography",
+    "code": "cr-kata4-312",
+    "index": 312
+  },
+  {
+    "surface": "ツイード",
+    "reading": "tweed",
+    "code": "cr-kata4-313",
+    "index": 313
+  },
+  {
+    "surface": "トランスペアレンシー",
+    "reading": "transparency",
+    "code": "cr-kata4-314",
+    "index": 314
+  },
+  {
+    "surface": "テクニカルノックアウト",
+    "reading": "technicalknockout",
+    "code": "cr-kata4-315",
+    "index": 315
+  },
+  {
+    "surface": "タトエバ",
+    "reading": "tatoeba",
+    "code": "cr-kata4-316",
+    "index": 316
+  },
+  {
+    "surface": "ドゥンクワ・オン・オフィン",
+    "reading": "dunkuwaonofin",
+    "code": "cr-kata4-317",
+    "index": 317
+  },
+  {
+    "surface": "ドジ",
+    "reading": "doji",
+    "code": "cr-kata4-318",
+    "index": 318
+  },
+  {
+    "surface": "タンサン",
+    "reading": "tonguesan",
+    "code": "cr-kata4-319",
+    "index": 319
+  },
+  {
+    "surface": "タイムレース",
+    "reading": "timereesu",
+    "code": "cr-kata4-320",
+    "index": 320
+  },
+  {
+    "surface": "テッパイ",
+    "reading": "teppai",
+    "code": "cr-kata4-321",
+    "index": 321
+  },
+  {
+    "surface": "ディアブロ",
+    "reading": "dearburo",
+    "code": "cr-kata4-322",
+    "index": 322
+  },
+  {
+    "surface": "デモンストレーション",
+    "reading": "demonstration",
+    "code": "cr-kata4-323",
+    "index": 323
+  },
+  {
+    "surface": "デビスカップ",
+    "reading": "daviscup",
+    "code": "cr-kata4-324",
+    "index": 324
+  },
+  {
+    "surface": "ディベルティスマン",
+    "reading": "divertissement",
+    "code": "cr-kata4-325",
+    "index": 325
+  },
+  {
+    "surface": "ダッフル",
+    "reading": "duffle",
+    "code": "cr-kata4-326",
+    "index": 326
+  },
+  {
+    "surface": "ダイヤルゲージ",
+    "reading": "dialgauge",
+    "code": "cr-kata4-327",
+    "index": 327
+  },
+  {
+    "surface": "タッカー",
+    "reading": "takkaa",
+    "code": "cr-kata4-328",
+    "index": 328
+  },
+  {
+    "surface": "トレイ",
+    "reading": "tray",
+    "code": "cr-kata4-329",
+    "index": 329
+  },
+  {
+    "surface": "チャチャチャ",
+    "reading": "chachacha",
+    "code": "cr-kata4-330",
+    "index": 330
+  },
+  {
+    "surface": "トロピカルフルーツ",
+    "reading": "tropicalfruit",
+    "code": "cr-kata4-331",
+    "index": 331
+  },
+  {
+    "surface": "ダウガフピルス",
+    "reading": "daugafupirusu",
+    "code": "cr-kata4-332",
+    "index": 332
+  },
+  {
+    "surface": "ティルヴァンナーマライ",
+    "reading": "tiruvannaamarai",
+    "code": "cr-kata4-333",
+    "index": 333
+  },
+  {
+    "surface": "テューバ",
+    "reading": "tuba",
+    "code": "cr-kata4-334",
+    "index": 334
+  },
+  {
+    "surface": "トランクィッロ",
+    "reading": "torankirro",
+    "code": "cr-kata4-335",
+    "index": 335
+  },
+  {
+    "surface": "トメ",
+    "reading": "tome",
+    "code": "cr-kata4-336",
+    "index": 336
+  },
+  {
+    "surface": "ダイヴ",
+    "reading": "dive",
+    "code": "cr-kata4-337",
+    "index": 337
+  },
+  {
+    "surface": "デバイダー",
+    "reading": "divider",
+    "code": "cr-kata4-338",
+    "index": 338
+  },
+  {
+    "surface": "ディスコネクト",
+    "reading": "disukonekuto",
+    "code": "cr-kata4-339",
+    "index": 339
+  },
+  {
+    "surface": "チャイロサナギガイ",
+    "reading": "chairosanagigai",
+    "code": "cr-kata4-340",
+    "index": 340
+  },
+  {
+    "surface": "タンク",
+    "reading": "tank",
+    "code": "cr-kata4-341",
+    "index": 341
+  },
+  {
+    "surface": "ツベルクリン",
+    "reading": "tuberkulin",
+    "code": "cr-kata4-342",
+    "index": 342
+  },
+  {
+    "surface": "トロンボプラスチン",
+    "reading": "thromboplastin",
+    "code": "cr-kata4-343",
+    "index": 343
+  },
+  {
+    "surface": "タックス・ヘイブン",
+    "reading": "taxhaven",
+    "code": "cr-kata4-344",
+    "index": 344
+  },
+  {
+    "surface": "トレポネーマ",
+    "reading": "treponema",
+    "code": "cr-kata4-345",
+    "index": 345
+  },
+  {
+    "surface": "デレデレ",
+    "reading": "deredere",
+    "code": "cr-kata4-346",
+    "index": 346
+  },
+  {
+    "surface": "ディファレンシャル",
+    "reading": "differential",
+    "code": "cr-kata4-347",
+    "index": 347
+  },
+  {
+    "surface": "ディンプル",
+    "reading": "dimple",
+    "code": "cr-kata4-348",
+    "index": 348
+  },
+  {
+    "surface": "チェンバーズバーグ",
+    "reading": "chenbaazubaagu",
+    "code": "cr-kata4-349",
+    "index": 349
+  },
+  {
+    "surface": "トリアージ",
+    "reading": "toriaaji",
+    "code": "cr-kata4-350",
+    "index": 350
+  },
+  {
+    "surface": "タブカラー",
+    "reading": "tabcolor",
+    "code": "cr-kata4-351",
+    "index": 351
+  },
+  {
+    "surface": "トゥトン",
+    "reading": "tuton",
+    "code": "cr-kata4-352",
+    "index": 352
+  },
+  {
+    "surface": "ドンパチ",
+    "reading": "donpachi",
+    "code": "cr-kata4-353",
+    "index": 353
+  },
+  {
+    "surface": "テープ・レコーダー",
+    "reading": "taperecorder",
+    "code": "cr-kata4-354",
+    "index": 354
+  },
+  {
+    "surface": "デニール",
+    "reading": "denier",
+    "code": "cr-kata4-355",
+    "index": 355
+  },
+  {
+    "surface": "チュウリップ",
+    "reading": "chuulip",
+    "code": "cr-kata4-356",
+    "index": 356
+  },
+  {
+    "surface": "ディザイアー",
+    "reading": "desire",
+    "code": "cr-kata4-357",
+    "index": 357
+  },
+  {
+    "surface": "ティーバッティング",
+    "reading": "teabatting",
+    "code": "cr-kata4-358",
+    "index": 358
+  },
+  {
+    "surface": "ツーアイドコーラルフィッシュ",
+    "reading": "tsuuaidokoorarufisshu",
+    "code": "cr-kata4-359",
+    "index": 359
+  },
+  {
+    "surface": "トヤマシ",
+    "reading": "toyamashi",
+    "code": "cr-kata4-360",
+    "index": 360
+  },
+  {
+    "surface": "トミニサージョンフィッシュ",
+    "reading": "tominisaajonfisshu",
+    "code": "cr-kata4-361",
+    "index": 361
+  },
+  {
+    "surface": "トムヤンクン",
+    "reading": "tomuyankun",
+    "code": "cr-kata4-362",
+    "index": 362
+  },
+  {
+    "surface": "ダンバートン",
+    "reading": "dumbarton",
+    "code": "cr-kata4-363",
+    "index": 363
+  },
+  {
+    "surface": "トピカル",
+    "reading": "topical",
+    "code": "cr-kata4-364",
+    "index": 364
+  },
+  {
+    "surface": "タボラ",
+    "reading": "tabora",
+    "code": "cr-kata4-365",
+    "index": 365
+  },
+  {
+    "surface": "デジタルペン",
+    "reading": "digitalpen",
+    "code": "cr-kata4-366",
+    "index": 366
+  },
+  {
+    "surface": "テルリド",
+    "reading": "tellido",
+    "code": "cr-kata4-367",
+    "index": 367
+  },
+  {
+    "surface": "タクナ",
+    "reading": "takuna",
+    "code": "cr-kata4-368",
+    "index": 368
+  },
+  {
+    "surface": "テッカテカ",
+    "reading": "tekkateka",
+    "code": "cr-kata4-369",
+    "index": 369
+  },
+  {
+    "surface": "ダブルバークロミス",
+    "reading": "doublebarclosmistake",
+    "code": "cr-kata4-370",
+    "index": 370
+  },
+  {
+    "surface": "トッパー",
+    "reading": "topper",
+    "code": "cr-kata4-371",
+    "index": 371
+  },
+  {
+    "surface": "ターニングポイント",
+    "reading": "turningpoint",
+    "code": "cr-kata4-372",
+    "index": 372
+  },
+  {
+    "surface": "デイナポイント",
+    "reading": "deinapoint",
+    "code": "cr-kata4-373",
+    "index": 373
+  },
+  {
+    "surface": "テレマーケティング",
+    "reading": "telemarketing",
+    "code": "cr-kata4-374",
+    "index": 374
+  },
+  {
+    "surface": "デジタルピービーエックス",
+    "reading": "dejitarupiibiiekkusu",
+    "code": "cr-kata4-375",
+    "index": 375
+  },
+  {
+    "surface": "トボガン",
+    "reading": "toboggan",
+    "code": "cr-kata4-376",
+    "index": 376
+  },
+  {
+    "surface": "タウソン",
+    "reading": "tauson",
+    "code": "cr-kata4-377",
+    "index": 377
+  },
+  {
+    "surface": "ダチ",
+    "reading": "dachi",
+    "code": "cr-kata4-378",
+    "index": 378
+  },
+  {
+    "surface": "チャンプルー",
+    "reading": "chanpuruu",
+    "code": "cr-kata4-379",
+    "index": 379
+  },
+  {
+    "surface": "トルネイド",
+    "reading": "toruneid",
+    "code": "cr-kata4-380",
+    "index": 380
+  },
+  {
+    "surface": "ダマン",
+    "reading": "daman",
+    "code": "cr-kata4-381",
+    "index": 381
+  },
+  {
+    "surface": "タッチ・アンド・ゴー",
+    "reading": "touchandgoo",
+    "code": "cr-kata4-382",
+    "index": 382
+  },
+  {
+    "surface": "チンバス",
+    "reading": "chinbus",
+    "code": "cr-kata4-383",
+    "index": 383
+  },
+  {
+    "surface": "チェーンソー",
+    "reading": "chainsaw",
+    "code": "cr-kata4-384",
+    "index": 384
+  },
+  {
+    "surface": "トレンディ",
+    "reading": "trendy",
+    "code": "cr-kata4-385",
+    "index": 385
+  },
+  {
+    "surface": "トラヴェリング",
+    "reading": "traveling",
+    "code": "cr-kata4-386",
+    "index": 386
+  },
+  {
+    "surface": "ドアーズ",
+    "reading": "door",
+    "code": "cr-kata4-387",
+    "index": 387
+  },
+  {
+    "surface": "テフ",
+    "reading": "teff",
+    "code": "cr-kata4-388",
+    "index": 388
+  },
+  {
+    "surface": "デルタ",
+    "reading": "deruta",
+    "code": "cr-kata4-389",
+    "index": 389
+  },
+  {
+    "surface": "チェスキー・チェシーン",
+    "reading": "chesukiicheshiin",
+    "code": "cr-kata4-390",
+    "index": 390
+  },
+  {
+    "surface": "ディバイデッドスカート",
+    "reading": "dibaideddosukaato",
+    "code": "cr-kata4-391",
+    "index": 391
+  },
+  {
+    "surface": "トマト",
+    "reading": "tomato",
+    "code": "cr-kata4-392",
+    "index": 392
+  },
+  {
+    "surface": "タクト",
+    "reading": "tact",
+    "code": "cr-kata4-393",
+    "index": 393
+  },
+  {
+    "surface": "ダシ",
+    "reading": "dashi",
+    "code": "cr-kata4-394",
+    "index": 394
+  },
+  {
+    "surface": "タブー",
+    "reading": "taboo",
+    "code": "cr-kata4-395",
+    "index": 395
+  },
+  {
+    "surface": "ディファレンシャルギア",
+    "reading": "differentialgear",
+    "code": "cr-kata4-396",
+    "index": 396
+  },
+  {
+    "surface": "タレント",
+    "reading": "talent",
+    "code": "cr-kata4-397",
+    "index": 397
+  },
+  {
+    "surface": "トワイライト",
+    "reading": "twilight",
+    "code": "cr-kata4-398",
+    "index": 398
+  },
+  {
+    "surface": "ダイア",
+    "reading": "diamond",
+    "code": "cr-kata4-399",
+    "index": 399
+  },
+  {
+    "surface": "ディヤルバクル",
+    "reading": "diyarbakir",
+    "code": "cr-kata4-400",
+    "index": 400
+  },
+  {
+    "surface": "チャンピオン",
+    "reading": "champion",
+    "code": "cr-kata4-401",
+    "index": 401
+  },
+  {
+    "surface": "チェコ",
+    "reading": "czech",
+    "code": "cr-kata4-402",
+    "index": 402
+  },
+  {
+    "surface": "トゥーラ",
+    "reading": "tula",
+    "code": "cr-kata4-403",
+    "index": 403
+  },
+  {
+    "surface": "トゥンハ",
+    "reading": "tunha",
+    "code": "cr-kata4-404",
+    "index": 404
+  },
+  {
+    "surface": "ディ",
+    "reading": "di",
+    "code": "cr-kata4-405",
+    "index": 405
+  },
+  {
+    "surface": "テンプレ",
+    "reading": "tenpre",
+    "code": "cr-kata4-406",
+    "index": 406
+  },
+  {
+    "surface": "ディスインターミディエーション",
+    "reading": "disintermediation",
+    "code": "cr-kata4-407",
+    "index": 407
+  },
+  {
+    "surface": "タクシーメーター",
+    "reading": "taximeter",
+    "code": "cr-kata4-408",
+    "index": 408
+  },
+  {
+    "surface": "タレ",
+    "reading": "tare",
+    "code": "cr-kata4-409",
+    "index": 409
+  },
+  {
+    "surface": "トコブシ",
+    "reading": "tokobushi",
+    "code": "cr-kata4-410",
+    "index": 410
+  },
+  {
+    "surface": "ダブリューエムオー",
+    "reading": "daburyuuemuoo",
+    "code": "cr-kata4-411",
+    "index": 411
+  },
+  {
+    "surface": "タダ",
+    "reading": "tada",
+    "code": "cr-kata4-412",
+    "index": 412
+  },
+  {
+    "surface": "トウモロコシ",
+    "reading": "toumorokoshi",
+    "code": "cr-kata4-413",
+    "index": 413
+  },
+  {
+    "surface": "トラデイショナル",
+    "reading": "toradeishonaru",
+    "code": "cr-kata4-414",
+    "index": 414
+  },
+  {
+    "surface": "トリック",
+    "reading": "trick",
+    "code": "cr-kata4-415",
+    "index": 415
+  },
+  {
+    "surface": "テディベア",
+    "reading": "tedibaseup",
+    "code": "cr-kata4-416",
+    "index": 416
+  },
+  {
+    "surface": "チキンカツ",
+    "reading": "chickencutlet",
+    "code": "cr-kata4-417",
+    "index": 417
+  },
+  {
+    "surface": "チームティーチング",
+    "reading": "teamteaching",
+    "code": "cr-kata4-418",
+    "index": 418
+  },
+  {
+    "surface": "トル",
+    "reading": "torr",
+    "code": "cr-kata4-419",
+    "index": 419
+  },
+  {
+    "surface": "ツゲ",
+    "reading": "tsuge",
+    "code": "cr-kata4-420",
+    "index": 420
+  },
+  {
+    "surface": "タテ",
+    "reading": "tate",
+    "code": "cr-kata4-421",
+    "index": 421
+  },
+  {
+    "surface": "ディーゼル・エンジン",
+    "reading": "dieselengine",
+    "code": "cr-kata4-422",
+    "index": 422
+  },
+  {
+    "surface": "ディスポーザブル",
+    "reading": "disposable",
+    "code": "cr-kata4-423",
+    "index": 423
+  },
+  {
+    "surface": "タガ",
+    "reading": "taga",
+    "code": "cr-kata4-424",
+    "index": 424
+  },
+  {
+    "surface": "トンカツ",
+    "reading": "tonkatsu",
+    "code": "cr-kata4-425",
+    "index": 425
+  },
+  {
+    "surface": "トレス・イスレタス",
+    "reading": "toresuisulettuce",
+    "code": "cr-kata4-426",
+    "index": 426
+  },
+  {
+    "surface": "ディベルティメント",
+    "reading": "divertimento",
+    "code": "cr-kata4-427",
+    "index": 427
+  },
+  {
+    "surface": "ツイストペアケーブル",
+    "reading": "twistpaircable",
+    "code": "cr-kata4-428",
+    "index": 428
+  },
+  {
+    "surface": "トレーディングカード",
+    "reading": "tradingcard",
+    "code": "cr-kata4-429",
+    "index": 429
+  },
+  {
+    "surface": "トイピアノ",
+    "reading": "toypiano",
+    "code": "cr-kata4-430",
+    "index": 430
+  },
+  {
+    "surface": "ドヤ",
+    "reading": "doya",
+    "code": "cr-kata4-431",
+    "index": 431
+  },
+  {
+    "surface": "ディレギュレーション",
+    "reading": "deregulation",
+    "code": "cr-kata4-432",
+    "index": 432
+  },
+  {
+    "surface": "ターバン",
+    "reading": "turban",
+    "code": "cr-kata4-433",
+    "index": 433
+  },
+  {
+    "surface": "デトリタス",
+    "reading": "detritus",
+    "code": "cr-kata4-434",
+    "index": 434
+  },
+  {
+    "surface": "トサー",
+    "reading": "tosaa",
+    "code": "cr-kata4-435",
+    "index": 435
+  },
+  {
+    "surface": "チゲ",
+    "reading": "chige",
+    "code": "cr-kata4-436",
+    "index": 436
+  },
+  {
+    "surface": "トン",
+    "reading": "ton",
+    "code": "cr-kata4-437",
+    "index": 437
+  },
+  {
+    "surface": "ディキシーランドジャズ",
+    "reading": "dixielandjazz",
+    "code": "cr-kata4-438",
+    "index": 438
+  },
+  {
+    "surface": "ダレ",
+    "reading": "dare",
+    "code": "cr-kata4-439",
+    "index": 439
+  },
+  {
+    "surface": "ドールハウス",
+    "reading": "dorhouse",
+    "code": "cr-kata4-440",
+    "index": 440
+  },
+  {
+    "surface": "ダラア",
+    "reading": "darraa",
+    "code": "cr-kata4-441",
+    "index": 441
+  },
+  {
+    "surface": "ドン",
+    "reading": "don",
+    "code": "cr-kata4-442",
+    "index": 442
+  },
+  {
+    "surface": "ディーブイディーオーディオ",
+    "reading": "diibuidiioodio",
+    "code": "cr-kata4-443",
+    "index": 443
+  },
+  {
+    "surface": "ダダ",
+    "reading": "dada",
+    "code": "cr-kata4-444",
+    "index": 444
+  },
+  {
+    "surface": "デフコン",
+    "reading": "defcon",
+    "code": "cr-kata4-445",
+    "index": 445
+  },
+  {
+    "surface": "ツアー",
+    "reading": "tour",
+    "code": "cr-kata4-446",
+    "index": 446
+  },
+  {
+    "surface": "ダウェイ",
+    "reading": "dadeway",
+    "code": "cr-kata4-447",
+    "index": 447
+  },
+  {
+    "surface": "チェコスロヴァキア",
+    "reading": "czechoslovakia",
+    "code": "cr-kata4-448",
+    "index": 448
+  },
+  {
+    "surface": "テンダーオファー",
+    "reading": "tenderoffer",
+    "code": "cr-kata4-449",
+    "index": 449
+  },
+  {
+    "surface": "ドレッシー",
+    "reading": "dressy",
+    "code": "cr-kata4-450",
+    "index": 450
+  },
+  {
+    "surface": "デコルテ",
+    "reading": "decorte",
+    "code": "cr-kata4-451",
+    "index": 451
+  },
+  {
+    "surface": "チェラブ",
+    "reading": "cherabu",
+    "code": "cr-kata4-452",
+    "index": 452
+  },
+  {
+    "surface": "ダミー",
+    "reading": "dummy",
+    "code": "cr-kata4-453",
+    "index": 453
+  },
+  {
+    "surface": "ドルチェ",
+    "reading": "doruche",
+    "code": "cr-kata4-454",
+    "index": 454
+  },
+  {
+    "surface": "テイクアウト",
+    "reading": "takeout",
+    "code": "cr-kata4-455",
+    "index": 455
+  },
+  {
+    "surface": "ツタ",
+    "reading": "tsuta",
+    "code": "cr-kata4-456",
+    "index": 456
+  },
+  {
+    "surface": "デキシー",
+    "reading": "dixie",
+    "code": "cr-kata4-457",
+    "index": 457
+  },
+  {
+    "surface": "ツキ",
+    "reading": "tsuki",
+    "code": "cr-kata4-458",
+    "index": 458
+  },
+  {
+    "surface": "ティッシュペーパー",
+    "reading": "tissuepaper",
+    "code": "cr-kata4-459",
+    "index": 459
+  },
+  {
+    "surface": "ディヴィチバザール",
+    "reading": "divichibazaaru",
+    "code": "cr-kata4-460",
+    "index": 460
+  },
+  {
+    "surface": "トッピング",
+    "reading": "topping",
+    "code": "cr-kata4-461",
+    "index": 461
+  },
+  {
+    "surface": "ティエンチン",
+    "reading": "tienyotchin",
+    "code": "cr-kata4-462",
+    "index": 462
+  },
+  {
+    "surface": "ダブルイーグル",
+    "reading": "doubleeagle",
+    "code": "cr-kata4-463",
+    "index": 463
+  },
+  {
+    "surface": "チダムバラム",
+    "reading": "chidamubaramu",
+    "code": "cr-kata4-464",
+    "index": 464
+  },
+  {
+    "surface": "ドド",
+    "reading": "dodo",
+    "code": "cr-kata4-465",
+    "index": 465
+  },
+  {
+    "surface": "ターンキーソリューション",
+    "reading": "turnkeysolution",
+    "code": "cr-kata4-466",
+    "index": 466
+  },
+  {
+    "surface": "テンイバラザメ",
+    "reading": "tenibarazame",
+    "code": "cr-kata4-467",
+    "index": 467
+  },
+  {
+    "surface": "ディスクリプション",
+    "reading": "description",
+    "code": "cr-kata4-468",
+    "index": 468
+  },
+  {
+    "surface": "ドバト",
+    "reading": "dobato",
+    "code": "cr-kata4-469",
+    "index": 469
+  },
+  {
+    "surface": "デバグ",
+    "reading": "desbug",
+    "code": "cr-kata4-470",
+    "index": 470
+  },
+  {
+    "surface": "タフネス",
+    "reading": "toughness",
+    "code": "cr-kata4-471",
+    "index": 471
+  },
+  {
+    "surface": "トラックマン",
+    "reading": "truckman",
+    "code": "cr-kata4-472",
+    "index": 472
+  },
+  {
+    "surface": "ディー",
+    "reading": "dee",
+    "code": "cr-kata4-473",
+    "index": 473
+  },
+  {
+    "surface": "ドゥブノ",
+    "reading": "dubuno",
+    "code": "cr-kata4-474",
+    "index": 474
+  },
+  {
+    "surface": "ティルチェンゴッデ",
+    "reading": "tiruchengodde",
+    "code": "cr-kata4-475",
+    "index": 475
+  },
+  {
+    "surface": "ドラマティック",
+    "reading": "dramatic",
+    "code": "cr-kata4-476",
+    "index": 476
+  },
+  {
+    "surface": "トレーニングウエア",
+    "reading": "trainingwear",
+    "code": "cr-kata4-477",
+    "index": 477
+  },
+  {
+    "surface": "デスプーラ",
+    "reading": "deathpuller",
+    "code": "cr-kata4-478",
+    "index": 478
+  },
+  {
+    "surface": "デプスインタビュー",
+    "reading": "depthinterview",
+    "code": "cr-kata4-479",
+    "index": 479
+  },
+  {
+    "surface": "トランシーバ",
+    "reading": "toranshiiba",
+    "code": "cr-kata4-480",
+    "index": 480
+  },
+  {
+    "surface": "ツイスター",
+    "reading": "twister",
+    "code": "cr-kata4-481",
+    "index": 481
+  },
+  {
+    "surface": "デフラグメンテーション",
+    "reading": "desfragmentation",
+    "code": "cr-kata4-482",
+    "index": 482
+  },
+  {
+    "surface": "チェコスロバキア",
+    "reading": "czechoslovakia",
+    "code": "cr-kata4-483",
+    "index": 483
+  },
+  {
+    "surface": "トフィー",
+    "reading": "tofi",
+    "code": "cr-kata4-484",
+    "index": 484
+  },
+  {
+    "surface": "ダッカ",
+    "reading": "dacca",
+    "code": "cr-kata4-485",
+    "index": 485
+  },
+  {
+    "surface": "ドライ",
+    "reading": "dry",
+    "code": "cr-kata4-486",
+    "index": 486
+  },
+  {
+    "surface": "デコンパイラ",
+    "reading": "descompiler",
+    "code": "cr-kata4-487",
+    "index": 487
+  },
+  {
+    "surface": "チュラスコ",
+    "reading": "churasuko",
+    "code": "cr-kata4-488",
+    "index": 488
+  },
+  {
+    "surface": "トガサワラ",
+    "reading": "togasawara",
+    "code": "cr-kata4-489",
+    "index": 489
+  },
+  {
+    "surface": "デメリット",
+    "reading": "demerit",
+    "code": "cr-kata4-490",
+    "index": 490
+  },
+  {
+    "surface": "トレンチン",
+    "reading": "trenchn",
+    "code": "cr-kata4-491",
+    "index": 491
+  },
+  {
+    "surface": "タフ",
+    "reading": "tough",
+    "code": "cr-kata4-492",
+    "index": 492
+  },
+  {
+    "surface": "トトカルチョ",
+    "reading": "totocalcio",
+    "code": "cr-kata4-493",
+    "index": 493
+  },
+  {
+    "surface": "チクショー",
+    "reading": "chikushoo",
+    "code": "cr-kata4-494",
+    "index": 494
+  },
+  {
+    "surface": "タウリン",
+    "reading": "taurine",
+    "code": "cr-kata4-495",
+    "index": 495
+  },
+  {
+    "surface": "ディファレンシャルギヤ",
+    "reading": "differentialgear",
+    "code": "cr-kata4-496",
+    "index": 496
+  },
+  {
+    "surface": "トラフザメ",
+    "reading": "torafuzame",
+    "code": "cr-kata4-497",
+    "index": 497
+  },
+  {
+    "surface": "ドライブウエイ",
+    "reading": "driveway",
+    "code": "cr-kata4-498",
+    "index": 498
+  },
+  {
+    "surface": "チップ",
+    "reading": "chip",
+    "code": "cr-kata4-499",
+    "index": 499
+  },
+  {
+    "surface": "ディルド",
+    "reading": "dirudo",
+    "code": "cr-kata4-500",
+    "index": 500
+  },
+  {
+    "surface": "ディスタンスレース",
+    "reading": "distancereesu",
+    "code": "cr-kata4-501",
+    "index": 501
+  },
+  {
+    "surface": "デッキ",
+    "reading": "deck",
+    "code": "cr-kata4-502",
+    "index": 502
+  },
+  {
+    "surface": "チバ",
+    "reading": "chiba",
+    "code": "cr-kata4-503",
+    "index": 503
+  },
+  {
+    "surface": "タルノフスキェ・グルィ",
+    "reading": "tarunofusukeguri",
+    "code": "cr-kata4-504",
+    "index": 504
+  },
+  {
+    "surface": "デカログ",
+    "reading": "decalogue",
+    "code": "cr-kata4-505",
+    "index": 505
+  },
+  {
+    "surface": "チェンジアップ",
+    "reading": "changeup",
+    "code": "cr-kata4-506",
+    "index": 506
+  },
+  {
+    "surface": "デビル",
+    "reading": "devil",
+    "code": "cr-kata4-507",
+    "index": 507
+  },
+  {
+    "surface": "タッチダウン",
+    "reading": "touchdown",
+    "code": "cr-kata4-508",
+    "index": 508
+  },
+  {
+    "surface": "ドゥエリング",
+    "reading": "deuxring",
+    "code": "cr-kata4-509",
+    "index": 509
+  },
+  {
+    "surface": "ドリリングマシン",
+    "reading": "drillingmachine",
+    "code": "cr-kata4-510",
+    "index": 510
+  },
+  {
+    "surface": "タラセリー",
+    "reading": "taraserie",
+    "code": "cr-kata4-511",
+    "index": 511
+  },
+  {
+    "surface": "ドル",
+    "reading": "dollar",
+    "code": "cr-kata4-512",
+    "index": 512
+  },
+  {
+    "surface": "トワレット",
+    "reading": "toilettes",
+    "code": "cr-kata4-513",
+    "index": 513
+  },
+  {
+    "surface": "デモ・テープ",
+    "reading": "demotape",
+    "code": "cr-kata4-514",
+    "index": 514
+  },
+  {
+    "surface": "ツマグロチョウチョウウオ",
+    "reading": "tsumagurochouchouuo",
+    "code": "cr-kata4-515",
+    "index": 515
+  },
+  {
+    "surface": "トロルヘッタン",
+    "reading": "tororuhettan",
+    "code": "cr-kata4-516",
+    "index": 516
+  },
+  {
+    "surface": "テラゾ",
+    "reading": "terazzo",
+    "code": "cr-kata4-517",
+    "index": 517
+  },
+  {
+    "surface": "ターミネーター",
+    "reading": "taamineetaa",
+    "code": "cr-kata4-518",
+    "index": 518
+  },
+  {
+    "surface": "ドイツ",
+    "reading": "duits",
+    "code": "cr-kata4-519",
+    "index": 519
+  },
+  {
+    "surface": "トークン",
+    "reading": "token",
+    "code": "cr-kata4-520",
+    "index": 520
+  },
+  {
+    "surface": "タイワンハブ",
+    "reading": "taiwanhabu",
+    "code": "cr-kata4-521",
+    "index": 521
+  },
+  {
+    "surface": "ドーベルマンピンシャー",
+    "reading": "dobermanpinshah",
+    "code": "cr-kata4-522",
+    "index": 522
+  },
+  {
+    "surface": "テクノロジーアート",
+    "reading": "technologyart",
+    "code": "cr-kata4-523",
+    "index": 523
+  },
+  {
+    "surface": "ダブルバインド",
+    "reading": "doublebaindo",
+    "code": "cr-kata4-524",
+    "index": 524
+  },
+  {
+    "surface": "テュービンゲン",
+    "reading": "tubingen",
+    "code": "cr-kata4-525",
+    "index": 525
+  },
+  {
+    "surface": "タチ",
+    "reading": "tachi",
+    "code": "cr-kata4-526",
+    "index": 526
+  },
+  {
+    "surface": "ダブ",
+    "reading": "dabu",
+    "code": "cr-kata4-527",
+    "index": 527
+  },
+  {
+    "surface": "トキ",
+    "reading": "toki",
+    "code": "cr-kata4-528",
+    "index": 528
+  },
+  {
+    "surface": "ディファレンシアル",
+    "reading": "difarenshiaru",
+    "code": "cr-kata4-529",
+    "index": 529
+  },
+  {
+    "surface": "テーパーゲージ",
+    "reading": "tapergauge",
+    "code": "cr-kata4-530",
+    "index": 530
+  },
+  {
+    "surface": "ツー",
+    "reading": "two",
+    "code": "cr-kata4-531",
+    "index": 531
+  },
+  {
+    "surface": "ディープ",
+    "reading": "deep",
+    "code": "cr-kata4-532",
+    "index": 532
+  },
+  {
+    "surface": "ダカ",
+    "reading": "daka",
+    "code": "cr-kata4-533",
+    "index": 533
+  },
+  {
+    "surface": "トロトロ",
+    "reading": "torotoro",
+    "code": "cr-kata4-534",
+    "index": 534
+  },
+  {
+    "surface": "ディープリーフクロミス",
+    "reading": "deepleafclosmistake",
+    "code": "cr-kata4-535",
+    "index": 535
+  },
+  {
+    "surface": "チャパラル",
+    "reading": "chapararu",
+    "code": "cr-kata4-536",
+    "index": 536
+  },
+  {
+    "surface": "チーフ",
+    "reading": "chief",
+    "code": "cr-kata4-537",
+    "index": 537
+  },
+  {
+    "surface": "チャカ",
+    "reading": "chaka",
+    "code": "cr-kata4-538",
+    "index": 538
+  },
+  {
+    "surface": "デニム",
+    "reading": "denim",
+    "code": "cr-kata4-539",
+    "index": 539
+  },
+  {
+    "surface": "ドゥナウーイヴァーロシュ",
+    "reading": "dunauuivaaroshu",
+    "code": "cr-kata4-540",
+    "index": 540
+  },
+  {
+    "surface": "トランジスター・ラジオ",
+    "reading": "transistorradio",
+    "code": "cr-kata4-541",
+    "index": 541
+  },
+  {
+    "surface": "テナーサックス",
+    "reading": "tenorsax",
+    "code": "cr-kata4-542",
+    "index": 542
+  },
+  {
+    "surface": "デッドオンアライバル",
+    "reading": "deddoonaraibaru",
+    "code": "cr-kata4-543",
+    "index": 543
+  },
+  {
+    "surface": "ドイト",
+    "reading": "doito",
+    "code": "cr-kata4-544",
+    "index": 544
+  },
+  {
+    "surface": "ドータボード",
+    "reading": "dootaboodo",
+    "code": "cr-kata4-545",
+    "index": 545
+  },
+  {
+    "surface": "テマ",
+    "reading": "tema",
+    "code": "cr-kata4-546",
+    "index": 546
+  },
+  {
+    "surface": "デシネ",
+    "reading": "descinema",
+    "code": "cr-kata4-547",
+    "index": 547
+  },
+  {
+    "surface": "トゥールーズ",
+    "reading": "tuuruuzu",
+    "code": "cr-kata4-548",
+    "index": 548
+  },
+  {
+    "surface": "テングサ",
+    "reading": "tengusa",
+    "code": "cr-kata4-549",
+    "index": 549
+  },
+  {
+    "surface": "ダルゲーム",
+    "reading": "dullgame",
+    "code": "cr-kata4-550",
+    "index": 550
+  },
+  {
+    "surface": "デッサン",
+    "reading": "dessin",
+    "code": "cr-kata4-551",
+    "index": 551
+  },
+  {
+    "surface": "デーメーテール",
+    "reading": "demeter",
+    "code": "cr-kata4-552",
+    "index": 552
+  },
+  {
+    "surface": "タータンチェック",
+    "reading": "tartancheck",
+    "code": "cr-kata4-553",
+    "index": 553
+  },
+  {
+    "surface": "チベットスナギツネ",
+    "reading": "chibettosunagitsune",
+    "code": "cr-kata4-554",
+    "index": 554
+  },
+  {
+    "surface": "トレオン",
+    "reading": "trainon",
+    "code": "cr-kata4-555",
+    "index": 555
+  },
+  {
+    "surface": "トータルプロダクト",
+    "reading": "totalproduct",
+    "code": "cr-kata4-556",
+    "index": 556
+  },
+  {
+    "surface": "トランスポート",
+    "reading": "toransupooto",
+    "code": "cr-kata4-557",
+    "index": 557
+  },
+  {
+    "surface": "チラチラ",
+    "reading": "chirachira",
+    "code": "cr-kata4-558",
+    "index": 558
+  },
+  {
+    "surface": "タッチ",
+    "reading": "touch",
+    "code": "cr-kata4-559",
+    "index": 559
+  },
+  {
+    "surface": "ツープラトーンシステム",
+    "reading": "twoplatoonsystem",
+    "code": "cr-kata4-560",
+    "index": 560
+  },
+  {
+    "surface": "チョロイ",
+    "reading": "choroi",
+    "code": "cr-kata4-561",
+    "index": 561
+  },
+  {
+    "surface": "トロピカル",
+    "reading": "tropical",
+    "code": "cr-kata4-562",
+    "index": 562
+  },
+  {
+    "surface": "トルケスタン",
+    "reading": "torukesutan",
+    "code": "cr-kata4-563",
+    "index": 563
+  },
+  {
+    "surface": "ディクショナリプロパティ",
+    "reading": "dikushonaripuropati",
+    "code": "cr-kata4-564",
+    "index": 564
+  },
+  {
+    "surface": "ダンピング",
+    "reading": "dumping",
+    "code": "cr-kata4-565",
+    "index": 565
+  },
+  {
+    "surface": "タイツ",
+    "reading": "tights",
+    "code": "cr-kata4-566",
+    "index": 566
+  },
+  {
+    "surface": "ディレッタント",
+    "reading": "dilettante",
+    "code": "cr-kata4-567",
+    "index": 567
+  },
+  {
+    "surface": "ドラマ",
+    "reading": "drama",
+    "code": "cr-kata4-568",
+    "index": 568
+  },
+  {
+    "surface": "トランパー",
+    "reading": "tramper",
+    "code": "cr-kata4-569",
+    "index": 569
+  },
+  {
+    "surface": "デム",
+    "reading": "desmu",
+    "code": "cr-kata4-570",
+    "index": 570
+  },
+  {
+    "surface": "タッキング",
+    "reading": "tacking",
+    "code": "cr-kata4-571",
+    "index": 571
+  },
+  {
+    "surface": "ディスカウントセール",
+    "reading": "discountsale",
+    "code": "cr-kata4-572",
+    "index": 572
+  },
+  {
+    "surface": "ディーゼルエンジン",
+    "reading": "dieselengine",
+    "code": "cr-kata4-573",
+    "index": 573
+  },
+  {
+    "surface": "テクスチャー",
+    "reading": "texture",
+    "code": "cr-kata4-574",
+    "index": 574
+  },
+  {
+    "surface": "タイマ",
+    "reading": "taima",
+    "code": "cr-kata4-575",
+    "index": 575
+  },
+  {
+    "surface": "タフガイ",
+    "reading": "toughguy",
+    "code": "cr-kata4-576",
+    "index": 576
+  },
+  {
+    "surface": "タッチフットボール",
+    "reading": "touchfootball",
+    "code": "cr-kata4-577",
+    "index": 577
+  },
+  {
+    "surface": "タピオカ",
+    "reading": "tapioca",
+    "code": "cr-kata4-578",
+    "index": 578
+  },
+  {
+    "surface": "チョッピングツール",
+    "reading": "choppingutsuuru",
+    "code": "cr-kata4-579",
+    "index": 579
+  },
+  {
+    "surface": "テリー",
+    "reading": "terii",
+    "code": "cr-kata4-580",
+    "index": 580
+  },
+  {
+    "surface": "タツノオトシゴ",
+    "reading": "tatsunootoshigo",
+    "code": "cr-kata4-581",
+    "index": 581
+  },
+  {
+    "surface": "チョコ",
+    "reading": "chocolate",
+    "code": "cr-kata4-582",
+    "index": 582
+  },
+  {
+    "surface": "ドリ",
+    "reading": "dori",
+    "code": "cr-kata4-583",
+    "index": 583
+  },
+  {
+    "surface": "トチバニンジン",
+    "reading": "tochibaninjin",
+    "code": "cr-kata4-584",
+    "index": 584
+  },
+  {
+    "surface": "トーチカ",
+    "reading": "tochka",
+    "code": "cr-kata4-585",
+    "index": 585
+  },
+  {
+    "surface": "テノール",
+    "reading": "tenor",
+    "code": "cr-kata4-586",
+    "index": 586
+  },
+  {
+    "surface": "ダイナミックラム",
+    "reading": "dynamiclamb",
+    "code": "cr-kata4-587",
+    "index": 587
+  },
+  {
+    "surface": "トピックス",
+    "reading": "topic",
+    "code": "cr-kata4-588",
+    "index": 588
+  },
+  {
+    "surface": "ダイオキシン",
+    "reading": "dioxin",
+    "code": "cr-kata4-589",
+    "index": 589
+  },
+  {
+    "surface": "タコ",
+    "reading": "tako",
+    "code": "cr-kata4-590",
+    "index": 590
+  },
+  {
+    "surface": "トミリノ",
+    "reading": "tomirino",
+    "code": "cr-kata4-591",
+    "index": 591
+  },
+  {
+    "surface": "デカンタ",
+    "reading": "decanter",
+    "code": "cr-kata4-592",
+    "index": 592
+  },
+  {
+    "surface": "ドレススーツ",
+    "reading": "dresssuit",
+    "code": "cr-kata4-593",
+    "index": 593
+  },
+  {
+    "surface": "タッセルドウォビゴン",
+    "reading": "tasserudoobigon",
+    "code": "cr-kata4-594",
+    "index": 594
+  },
+  {
+    "surface": "ドナ",
+    "reading": "dona",
+    "code": "cr-kata4-595",
+    "index": 595
+  },
+  {
+    "surface": "チラリズム",
+    "reading": "chirarizumu",
+    "code": "cr-kata4-596",
+    "index": 596
+  },
+  {
+    "surface": "テレコンファレンス",
+    "reading": "teleconference",
+    "code": "cr-kata4-597",
+    "index": 597
+  },
+  {
+    "surface": "ツキチョウチョウウオ",
+    "reading": "tsukichouchouuo",
+    "code": "cr-kata4-598",
+    "index": 598
+  },
+  {
+    "surface": "テナント",
+    "reading": "tenant",
+    "code": "cr-kata4-599",
+    "index": 599
+  },
+  {
+    "surface": "ディープシークロミス",
+    "reading": "deepseaclosmistake",
+    "code": "cr-kata4-600",
+    "index": 600
+  },
+  {
+    "surface": "テルマス・デ・リオ・オンド",
+    "reading": "telmassdesrioonde",
+    "code": "cr-kata4-601",
+    "index": 601
+  },
+  {
+    "surface": "ティーンエイジャ",
+    "reading": "tiineija",
+    "code": "cr-kata4-602",
+    "index": 602
+  },
+  {
+    "surface": "トーケイ",
+    "reading": "toekei",
+    "code": "cr-kata4-603",
+    "index": 603
+  },
+  {
+    "surface": "トラベルビューロー",
+    "reading": "travelbureau",
+    "code": "cr-kata4-604",
+    "index": 604
+  },
+  {
+    "surface": "ドロドロ",
+    "reading": "dorodoro",
+    "code": "cr-kata4-605",
+    "index": 605
+  },
+  {
+    "surface": "タムシバ",
+    "reading": "tamusiva",
+    "code": "cr-kata4-606",
+    "index": 606
+  },
+  {
+    "surface": "デーホスピタル",
+    "reading": "dayhospital",
+    "code": "cr-kata4-607",
+    "index": 607
+  },
+  {
+    "surface": "トライアングルパス",
+    "reading": "trianglepass",
+    "code": "cr-kata4-608",
+    "index": 608
+  },
+  {
+    "surface": "ティシュ",
+    "reading": "tissue",
+    "code": "cr-kata4-609",
+    "index": 609
+  },
+  {
+    "surface": "トンズ",
+    "reading": "tonzu",
+    "code": "cr-kata4-610",
+    "index": 610
+  },
+  {
+    "surface": "ヂンチョウゲ",
+    "reading": "zinchouge",
+    "code": "cr-kata4-611",
+    "index": 611
+  },
+  {
+    "surface": "ディコンストラクション",
+    "reading": "deconstruction",
+    "code": "cr-kata4-612",
+    "index": 612
+  },
+  {
+    "surface": "ディナーパーティー",
+    "reading": "dinnerparty",
+    "code": "cr-kata4-613",
+    "index": 613
+  },
+  {
+    "surface": "ドサリ",
+    "reading": "dosari",
+    "code": "cr-kata4-614",
+    "index": 614
+  },
+  {
+    "surface": "タモリ",
+    "reading": "tamori",
+    "code": "cr-kata4-615",
+    "index": 615
+  },
+  {
+    "surface": "トリスティスモニター",
+    "reading": "torisutisumonitaa",
+    "code": "cr-kata4-616",
+    "index": 616
+  },
+  {
+    "surface": "タイマン",
+    "reading": "taiman",
+    "code": "cr-kata4-617",
+    "index": 617
+  },
+  {
+    "surface": "テテ",
+    "reading": "tete",
+    "code": "cr-kata4-618",
+    "index": 618
+  },
+  {
+    "surface": "ドゥツェ",
+    "reading": "dutse",
+    "code": "cr-kata4-619",
+    "index": 619
+  },
+  {
+    "surface": "トウェイン",
+    "reading": "toein",
+    "code": "cr-kata4-620",
+    "index": 620
+  },
+  {
+    "surface": "タンカ",
+    "reading": "tanka",
+    "code": "cr-kata4-621",
+    "index": 621
+  },
+  {
+    "surface": "タナトロジー",
+    "reading": "thanatology",
+    "code": "cr-kata4-622",
+    "index": 622
+  },
+  {
+    "surface": "ティーケーオー",
+    "reading": "tiikeeoo",
+    "code": "cr-kata4-623",
+    "index": 623
+  },
+  {
+    "surface": "タイヨウチョウ",
+    "reading": "taiyouchou",
+    "code": "cr-kata4-624",
+    "index": 624
+  },
+  {
+    "surface": "タンチョウヅル",
+    "reading": "tanchouzuru",
+    "code": "cr-kata4-625",
+    "index": 625
+  },
+  {
+    "surface": "デスティネーション",
+    "reading": "desutineeshon",
+    "code": "cr-kata4-626",
+    "index": 626
+  },
+  {
+    "surface": "トータルファッション",
+    "reading": "totalfashion",
+    "code": "cr-kata4-627",
+    "index": 627
+  },
+  {
+    "surface": "テンプ",
+    "reading": "temp",
+    "code": "cr-kata4-628",
+    "index": 628
+  },
+  {
+    "surface": "ドラクメ",
+    "reading": "drakhma",
+    "code": "cr-kata4-629",
+    "index": 629
+  },
+  {
+    "surface": "ダストボックス",
+    "reading": "dustbox",
+    "code": "cr-kata4-630",
+    "index": 630
+  },
+  {
+    "surface": "テレコミ",
+    "reading": "telecommunication",
+    "code": "cr-kata4-631",
+    "index": 631
+  },
+  {
+    "surface": "デーヴァナーガリー",
+    "reading": "deevanaagarii",
+    "code": "cr-kata4-632",
+    "index": 632
+  },
+  {
+    "surface": "トランスアミナーゼ",
+    "reading": "transaminase",
+    "code": "cr-kata4-633",
+    "index": 633
+  },
+  {
+    "surface": "デフォルトゲートウェイ",
+    "reading": "defaultgateway",
+    "code": "cr-kata4-634",
+    "index": 634
+  },
+  {
+    "surface": "チアリーディング",
+    "reading": "cheerleading",
+    "code": "cr-kata4-635",
+    "index": 635
+  },
+  {
+    "surface": "トレイナー",
+    "reading": "trainer",
+    "code": "cr-kata4-636",
+    "index": 636
+  },
+  {
+    "surface": "ディスク",
+    "reading": "disc",
+    "code": "cr-kata4-637",
+    "index": 637
+  },
+  {
+    "surface": "チューリップ",
+    "reading": "tulip",
+    "code": "cr-kata4-638",
+    "index": 638
+  },
+  {
+    "surface": "デッドボール",
+    "reading": "deadball",
+    "code": "cr-kata4-639",
+    "index": 639
+  },
+  {
+    "surface": "ディスインフレーション",
+    "reading": "disinflation",
+    "code": "cr-kata4-640",
+    "index": 640
+  },
+  {
+    "surface": "トイレタリー",
+    "reading": "toiletry",
+    "code": "cr-kata4-641",
+    "index": 641
+  },
+  {
+    "surface": "デコーディング",
+    "reading": "decoding",
+    "code": "cr-kata4-642",
+    "index": 642
+  },
+  {
+    "surface": "トレーサリー",
+    "reading": "tracery",
+    "code": "cr-kata4-643",
+    "index": 643
+  },
+  {
+    "surface": "チャタルプル",
+    "reading": "chatarupuru",
+    "code": "cr-kata4-644",
+    "index": 644
+  },
+  {
+    "surface": "トマ",
+    "reading": "thomas",
+    "code": "cr-kata4-645",
+    "index": 645
+  },
+  {
+    "surface": "チューリングマシン",
+    "reading": "turingmachine",
+    "code": "cr-kata4-646",
+    "index": 646
+  },
+  {
+    "surface": "ダイノソア",
+    "reading": "dainosoa",
+    "code": "cr-kata4-647",
+    "index": 647
+  },
+  {
+    "surface": "ドリフト",
+    "reading": "drift",
+    "code": "cr-kata4-648",
+    "index": 648
+  },
+  {
+    "surface": "トレーシングペーパー",
+    "reading": "tracingpaper",
+    "code": "cr-kata4-649",
+    "index": 649
+  },
+  {
+    "surface": "トランスペアレント",
+    "reading": "toransupearento",
+    "code": "cr-kata4-650",
+    "index": 650
+  },
+  {
+    "surface": "トーイック",
+    "reading": "tooikku",
+    "code": "cr-kata4-651",
+    "index": 651
+  },
+  {
+    "surface": "タイプライター",
+    "reading": "typewriter",
+    "code": "cr-kata4-652",
+    "index": 652
+  },
+  {
+    "surface": "テンキーパット",
+    "reading": "tenkeyputt",
+    "code": "cr-kata4-653",
+    "index": 653
+  },
+  {
+    "surface": "デカイ",
+    "reading": "dekai",
+    "code": "cr-kata4-654",
+    "index": 654
+  },
+  {
+    "surface": "ダウ",
+    "reading": "dow",
+    "code": "cr-kata4-655",
+    "index": 655
+  },
+  {
+    "surface": "デンマルク",
+    "reading": "denmark",
+    "code": "cr-kata4-656",
+    "index": 656
+  },
+  {
+    "surface": "テレフォン",
+    "reading": "telephone",
+    "code": "cr-kata4-657",
+    "index": 657
+  },
+  {
+    "surface": "ドア",
+    "reading": "door",
+    "code": "cr-kata4-658",
+    "index": 658
+  },
+  {
+    "surface": "デヴィル",
+    "reading": "desvill",
+    "code": "cr-kata4-659",
+    "index": 659
+  },
+  {
+    "surface": "デタッチ",
+    "reading": "destouch",
+    "code": "cr-kata4-660",
+    "index": 660
+  },
+  {
+    "surface": "ドライ・クリーニング",
+    "reading": "drycleaning",
+    "code": "cr-kata4-661",
+    "index": 661
+  },
+  {
+    "surface": "ツテ",
+    "reading": "tsute",
+    "code": "cr-kata4-662",
+    "index": 662
+  },
+  {
+    "surface": "トロッコ",
+    "reading": "truck",
+    "code": "cr-kata4-663",
+    "index": 663
+  },
+  {
+    "surface": "ディナー",
+    "reading": "dinner",
+    "code": "cr-kata4-664",
+    "index": 664
+  },
+  {
+    "surface": "チェーンスモーカー",
+    "reading": "chainsmoker",
+    "code": "cr-kata4-665",
+    "index": 665
+  },
+  {
+    "surface": "トレズ",
+    "reading": "tolesbian",
+    "code": "cr-kata4-666",
+    "index": 666
+  },
+  {
+    "surface": "チャタム",
+    "reading": "chatamu",
+    "code": "cr-kata4-667",
+    "index": 667
+  },
+  {
+    "surface": "タービン",
+    "reading": "turbine",
+    "code": "cr-kata4-668",
+    "index": 668
+  },
+  {
+    "surface": "タネ",
+    "reading": "tane",
+    "code": "cr-kata4-669",
+    "index": 669
+  },
+  {
+    "surface": "トグルボタン",
+    "reading": "togglebutton",
+    "code": "cr-kata4-670",
+    "index": 670
+  },
+  {
+    "surface": "ツギ",
+    "reading": "tsugi",
+    "code": "cr-kata4-671",
+    "index": 671
+  },
+  {
+    "surface": "ディル",
+    "reading": "dill",
+    "code": "cr-kata4-672",
+    "index": 672
+  },
+  {
+    "surface": "ディスインフレ",
+    "reading": "disinflation",
+    "code": "cr-kata4-673",
+    "index": 673
+  },
+  {
+    "surface": "ディーブイディーアール",
+    "reading": "diibuidiiaaru",
+    "code": "cr-kata4-674",
+    "index": 674
+  },
+  {
+    "surface": "ディエンビエンフー",
+    "reading": "dienbienfuu",
+    "code": "cr-kata4-675",
+    "index": 675
+  },
+  {
+    "surface": "ダイレクトアールディーラム",
+    "reading": "dairekutoaarudiiramu",
+    "code": "cr-kata4-676",
+    "index": 676
+  },
+  {
+    "surface": "チア",
+    "reading": "cheer",
+    "code": "cr-kata4-677",
+    "index": 677
+  },
+  {
+    "surface": "トリビュート",
+    "reading": "toribyuuto",
+    "code": "cr-kata4-678",
+    "index": 678
+  },
+  {
+    "surface": "ダンクタ",
+    "reading": "dunkta",
+    "code": "cr-kata4-679",
+    "index": 679
+  },
+  {
+    "surface": "トロリー",
+    "reading": "trolley",
+    "code": "cr-kata4-680",
+    "index": 680
+  },
+  {
+    "surface": "デイリーシティ",
+    "reading": "dailycity",
+    "code": "cr-kata4-681",
+    "index": 681
+  },
+  {
+    "surface": "ドカン",
+    "reading": "dokan",
+    "code": "cr-kata4-682",
+    "index": 682
+  },
+  {
+    "surface": "ディジット",
+    "reading": "digit",
+    "code": "cr-kata4-683",
+    "index": 683
+  },
+  {
+    "surface": "ドミニカ",
+    "reading": "dominica",
+    "code": "cr-kata4-684",
+    "index": 684
+  },
+  {
+    "surface": "デコード",
+    "reading": "decode",
+    "code": "cr-kata4-685",
+    "index": 685
+  },
+  {
+    "surface": "テイント",
+    "reading": "taint",
+    "code": "cr-kata4-686",
+    "index": 686
+  },
+  {
+    "surface": "トップシークレット",
+    "reading": "topsecret",
+    "code": "cr-kata4-687",
+    "index": 687
+  },
+  {
+    "surface": "チャブ",
+    "reading": "chabu",
+    "code": "cr-kata4-688",
+    "index": 688
+  },
+  {
+    "surface": "タブレットペン",
+    "reading": "tabletpen",
+    "code": "cr-kata4-689",
+    "index": 689
+  },
+  {
+    "surface": "ドーミー",
+    "reading": "dormie",
+    "code": "cr-kata4-690",
+    "index": 690
+  },
+  {
+    "surface": "トークンバスネットワーク",
+    "reading": "tokenbusnetwork",
+    "code": "cr-kata4-691",
+    "index": 691
+  },
+  {
+    "surface": "タマナ",
+    "reading": "tamana",
+    "code": "cr-kata4-692",
+    "index": 692
+  },
+  {
+    "surface": "デラシネ",
+    "reading": "deracine",
+    "code": "cr-kata4-693",
+    "index": 693
+  },
+  {
+    "surface": "テオクラシー",
+    "reading": "theocracy",
+    "code": "cr-kata4-694",
+    "index": 694
+  },
+  {
+    "surface": "ティモテオ",
+    "reading": "timoteo",
+    "code": "cr-kata4-695",
+    "index": 695
+  },
+  {
+    "surface": "ダルマザメ",
+    "reading": "darumazame",
+    "code": "cr-kata4-696",
+    "index": 696
+  },
+  {
+    "surface": "トボトボ",
+    "reading": "tobotobo",
+    "code": "cr-kata4-697",
+    "index": 697
+  },
+  {
+    "surface": "テーラード",
+    "reading": "tailored",
+    "code": "cr-kata4-698",
+    "index": 698
+  },
+  {
+    "surface": "チャッカマン",
+    "reading": "chukkaman",
+    "code": "cr-kata4-699",
+    "index": 699
+  },
+  {
+    "surface": "チャケチャケ",
+    "reading": "chakechake",
+    "code": "cr-kata4-700",
+    "index": 700
+  },
+  {
+    "surface": "ドーベルマンピンシェル",
+    "reading": "dobermanpinshell",
+    "code": "cr-kata4-701",
+    "index": 701
+  },
+  {
+    "surface": "ディーブイディープレーヤー",
+    "reading": "diibuidiipureeyaa",
+    "code": "cr-kata4-702",
+    "index": 702
+  },
+  {
+    "surface": "ツデー",
+    "reading": "today",
+    "code": "cr-kata4-703",
+    "index": 703
+  },
+  {
+    "surface": "チャイロスズメバチ",
+    "reading": "chairosuzumebachi",
+    "code": "cr-kata4-704",
+    "index": 704
+  },
+  {
+    "surface": "ツァーリズム",
+    "reading": "czarism",
+    "code": "cr-kata4-705",
+    "index": 705
+  },
+  {
+    "surface": "デリゲーション",
+    "reading": "delegation",
+    "code": "cr-kata4-706",
+    "index": 706
+  },
+  {
+    "surface": "ダンマパダ",
+    "reading": "danmapada",
+    "code": "cr-kata4-707",
+    "index": 707
+  },
+  {
+    "surface": "トウジンビエ",
+    "reading": "toujinbie",
+    "code": "cr-kata4-708",
+    "index": 708
+  },
+  {
+    "surface": "ドゥナイスカー・ストレダ",
+    "reading": "dunaisukaasutoreda",
+    "code": "cr-kata4-709",
+    "index": 709
+  },
+  {
+    "surface": "トゥイエンクアン",
+    "reading": "tuienkuan",
+    "code": "cr-kata4-710",
+    "index": 710
+  },
+  {
+    "surface": "ドライビングテクニック",
+    "reading": "drivingtechnic",
+    "code": "cr-kata4-711",
+    "index": 711
+  },
+  {
+    "surface": "チェスター",
+    "reading": "chester",
+    "code": "cr-kata4-712",
+    "index": 712
+  },
+  {
+    "surface": "ティルヴァールール",
+    "reading": "tiruvaaruuru",
+    "code": "cr-kata4-713",
+    "index": 713
+  },
+  {
+    "surface": "ディーブイディーラム",
+    "reading": "diibuidiiramu",
+    "code": "cr-kata4-714",
+    "index": 714
+  },
+  {
+    "surface": "タイムリ",
+    "reading": "timely",
+    "code": "cr-kata4-715",
+    "index": 715
+  },
+  {
+    "surface": "チーム・ティーチング",
+    "reading": "teamteaching",
+    "code": "cr-kata4-716",
+    "index": 716
+  },
+  {
+    "surface": "タウヌスシュタイン",
+    "reading": "taunusustein",
+    "code": "cr-kata4-717",
+    "index": 717
+  },
+  {
+    "surface": "タダモノ",
+    "reading": "tadamono",
+    "code": "cr-kata4-718",
+    "index": 718
+  },
+  {
+    "surface": "ディー・エヌ・エー",
+    "reading": "diienuee",
+    "code": "cr-kata4-719",
+    "index": 719
+  },
+  {
+    "surface": "チェックリスト",
+    "reading": "chekkurisuto",
+    "code": "cr-kata4-720",
+    "index": 720
+  },
+  {
+    "surface": "デン・ヘルダー",
+    "reading": "denherder",
+    "code": "cr-kata4-721",
+    "index": 721
+  },
+  {
+    "surface": "チェックサム",
+    "reading": "checksum",
+    "code": "cr-kata4-722",
+    "index": 722
+  },
+  {
+    "surface": "ツブツブ",
+    "reading": "tsubutsubu",
+    "code": "cr-kata4-723",
+    "index": 723
+  },
+  {
+    "surface": "トンネルダイオード",
+    "reading": "tunneldiode",
+    "code": "cr-kata4-724",
+    "index": 724
+  },
+  {
+    "surface": "テキパキ",
+    "reading": "tekipaki",
+    "code": "cr-kata4-725",
+    "index": 725
+  },
+  {
+    "surface": "ツートーンカラー",
+    "reading": "twotonecolor",
+    "code": "cr-kata4-726",
+    "index": 726
+  },
+  {
+    "surface": "ツバス",
+    "reading": "tsubasu",
+    "code": "cr-kata4-727",
+    "index": 727
+  },
+  {
+    "surface": "デシジョンメーキング",
+    "reading": "deshijonmeekingu",
+    "code": "cr-kata4-728",
+    "index": 728
+  },
+  {
+    "surface": "ダムゼルフィッシュ",
+    "reading": "damuzerufisshu",
+    "code": "cr-kata4-729",
+    "index": 729
+  },
+  {
+    "surface": "チョソンクル",
+    "reading": "chosonkuru",
+    "code": "cr-kata4-730",
+    "index": 730
+  },
+  {
+    "surface": "ドッカン",
+    "reading": "dokkan",
+    "code": "cr-kata4-731",
+    "index": 731
+  },
+  {
+    "surface": "トラガカントゴム",
+    "reading": "toragakantogomu",
+    "code": "cr-kata4-732",
+    "index": 732
+  },
+  {
+    "surface": "デマ",
+    "reading": "demagogie",
+    "code": "cr-kata4-733",
+    "index": 733
+  },
+  {
+    "surface": "チョイチョイ",
+    "reading": "choichoi",
+    "code": "cr-kata4-734",
+    "index": 734
+  },
+  {
+    "surface": "チーゼル",
+    "reading": "teasel",
+    "code": "cr-kata4-735",
+    "index": 735
+  },
+  {
+    "surface": "タムニン",
+    "reading": "tamunin",
+    "code": "cr-kata4-736",
+    "index": 736
+  },
+  {
+    "surface": "ドルジュキウカ",
+    "reading": "dorujukiuka",
+    "code": "cr-kata4-737",
+    "index": 737
+  },
+  {
+    "surface": "ダイポル",
+    "reading": "daiporu",
+    "code": "cr-kata4-738",
+    "index": 738
+  },
+  {
+    "surface": "デカップリング",
+    "reading": "decoupling",
+    "code": "cr-kata4-739",
+    "index": 739
+  },
+  {
+    "surface": "ドライブインシアター",
+    "reading": "driveintheater",
+    "code": "cr-kata4-740",
+    "index": 740
+  },
+  {
+    "surface": "チュメニ",
+    "reading": "chumeni",
+    "code": "cr-kata4-741",
+    "index": 741
+  },
+  {
+    "surface": "トゥリアラ",
+    "reading": "tryara",
+    "code": "cr-kata4-742",
+    "index": 742
+  },
+  {
+    "surface": "ディーディーエックス",
+    "reading": "diidiiekkusu",
+    "code": "cr-kata4-743",
+    "index": 743
+  },
+  {
+    "surface": "チッ",
+    "reading": "chi",
+    "code": "cr-kata4-744",
+    "index": 744
+  },
+  {
+    "surface": "トキソイド",
+    "reading": "toxoid",
+    "code": "cr-kata4-745",
+    "index": 745
+  },
+  {
+    "surface": "トランスフォーメーション",
+    "reading": "transformation",
+    "code": "cr-kata4-746",
+    "index": 746
+  },
+  {
+    "surface": "ドム",
+    "reading": "domu",
+    "code": "cr-kata4-747",
+    "index": 747
+  },
+  {
+    "surface": "ツキミソウ",
+    "reading": "tsukimisou",
+    "code": "cr-kata4-748",
+    "index": 748
+  },
+  {
+    "surface": "トレーニングセンター",
+    "reading": "trainingcenter",
+    "code": "cr-kata4-749",
+    "index": 749
+  },
+  {
+    "surface": "タイムシェアリングシステム",
+    "reading": "timesharingsystem",
+    "code": "cr-kata4-750",
+    "index": 750
+  },
+  {
+    "surface": "チェック・アンド・バランス",
+    "reading": "checkandbalance",
+    "code": "cr-kata4-751",
+    "index": 751
+  },
+  {
+    "surface": "デュアル・システム",
+    "reading": "dualsystem",
+    "code": "cr-kata4-752",
+    "index": 752
+  },
+  {
+    "surface": "トレーニングパンツ",
+    "reading": "trainingpants",
+    "code": "cr-kata4-753",
+    "index": 753
+  },
+  {
+    "surface": "チェックアンドバランス",
+    "reading": "checkandbalance",
+    "code": "cr-kata4-754",
+    "index": 754
+  },
+  {
+    "surface": "トニックウオーター",
+    "reading": "tonicwater",
+    "code": "cr-kata4-755",
+    "index": 755
+  },
+  {
+    "surface": "ディスカウントストア",
+    "reading": "discountstore",
+    "code": "cr-kata4-756",
+    "index": 756
+  },
+  {
+    "surface": "チャンピオンフラッグ",
+    "reading": "championflag",
+    "code": "cr-kata4-757",
+    "index": 757
+  },
+  {
+    "surface": "トニイパンディ",
+    "reading": "toniipandi",
+    "code": "cr-kata4-758",
+    "index": 758
+  },
+  {
+    "surface": "ダイポール",
+    "reading": "dipole",
+    "code": "cr-kata4-759",
+    "index": 759
+  },
+  {
+    "surface": "トレレウ",
+    "reading": "torereu",
+    "code": "cr-kata4-760",
+    "index": 760
+  },
+  {
+    "surface": "タイヤチェーン",
+    "reading": "tirechain",
+    "code": "cr-kata4-761",
+    "index": 761
+  },
+  {
+    "surface": "タイセイヨウクロマグロ",
+    "reading": "taiseiyoukuromaguro",
+    "code": "cr-kata4-762",
+    "index": 762
+  },
+  {
+    "surface": "タイムテーブル",
+    "reading": "taimuteeburu",
+    "code": "cr-kata4-763",
+    "index": 763
+  },
+  {
+    "surface": "チャールズタウン",
+    "reading": "charlestown",
+    "code": "cr-kata4-764",
+    "index": 764
+  },
+  {
+    "surface": "デュアル",
+    "reading": "dual",
+    "code": "cr-kata4-765",
+    "index": 765
+  },
+  {
+    "surface": "ツツドリ",
+    "reading": "tsutsudori",
+    "code": "cr-kata4-766",
+    "index": 766
+  },
+  {
+    "surface": "ダンパー",
+    "reading": "damper",
+    "code": "cr-kata4-767",
+    "index": 767
+  },
+  {
+    "surface": "ダーツ",
+    "reading": "daatsu",
+    "code": "cr-kata4-768",
+    "index": 768
+  },
+  {
+    "surface": "ヅラ",
+    "reading": "zura",
+    "code": "cr-kata4-769",
+    "index": 769
+  },
+  {
+    "surface": "トレーラ",
+    "reading": "trailer",
+    "code": "cr-kata4-770",
+    "index": 770
+  },
+  {
+    "surface": "タテガミ",
+    "reading": "tategami",
+    "code": "cr-kata4-771",
+    "index": 771
+  },
+  {
+    "surface": "ディセントラライゼーション",
+    "reading": "disentoraraizeeshon",
+    "code": "cr-kata4-772",
+    "index": 772
+  },
+  {
+    "surface": "デバン",
+    "reading": "desvan",
+    "code": "cr-kata4-773",
+    "index": 773
+  },
+  {
+    "surface": "トリノ",
+    "reading": "torino",
+    "code": "cr-kata4-774",
+    "index": 774
+  },
+  {
+    "surface": "デフォルトゲートウエイ",
+    "reading": "defaultgateway",
+    "code": "cr-kata4-775",
+    "index": 775
+  },
+  {
+    "surface": "ディクテーション",
+    "reading": "dictation",
+    "code": "cr-kata4-776",
+    "index": 776
+  },
+  {
+    "surface": "テクニカルサポート",
+    "reading": "technicalsupport",
+    "code": "cr-kata4-777",
+    "index": 777
+  },
+  {
+    "surface": "ツノモ",
+    "reading": "tsunomo",
+    "code": "cr-kata4-778",
+    "index": 778
+  },
+  {
+    "surface": "ティヒ",
+    "reading": "tihi",
+    "code": "cr-kata4-779",
+    "index": 779
+  },
+  {
+    "surface": "ダラット",
+    "reading": "daderat",
+    "code": "cr-kata4-780",
+    "index": 780
+  },
+  {
+    "surface": "ティベリア",
+    "reading": "tiberia",
+    "code": "cr-kata4-781",
+    "index": 781
+  },
+  {
+    "surface": "タカ",
+    "reading": "taka",
+    "code": "cr-kata4-782",
+    "index": 782
+  },
+  {
+    "surface": "チリソース",
+    "reading": "chilesauce",
+    "code": "cr-kata4-783",
+    "index": 783
+  },
+  {
+    "surface": "ディスイリュージョン",
+    "reading": "disillusion",
+    "code": "cr-kata4-784",
+    "index": 784
+  },
+  {
+    "surface": "チャリティーショー",
+    "reading": "charityshow",
+    "code": "cr-kata4-785",
+    "index": 785
+  },
+  {
+    "surface": "トロピカルフィッシュ",
+    "reading": "tropicalfish",
+    "code": "cr-kata4-786",
+    "index": 786
+  },
+  {
+    "surface": "タガメ",
+    "reading": "tagame",
+    "code": "cr-kata4-787",
+    "index": 787
+  },
+  {
+    "surface": "トリレンマ",
+    "reading": "trilemma",
+    "code": "cr-kata4-788",
+    "index": 788
+  },
+  {
+    "surface": "デバイスドライバー",
+    "reading": "devicedriver",
+    "code": "cr-kata4-789",
+    "index": 789
+  },
+  {
+    "surface": "ドブニウム",
+    "reading": "dobualuminium",
+    "code": "cr-kata4-790",
+    "index": 790
+  },
+  {
+    "surface": "ダー",
+    "reading": "daa",
+    "code": "cr-kata4-791",
+    "index": 791
+  },
+  {
+    "surface": "ティパサ",
+    "reading": "tipasa",
+    "code": "cr-kata4-792",
+    "index": 792
+  },
+  {
+    "surface": "テーブルチャージ",
+    "reading": "tablecharge",
+    "code": "cr-kata4-793",
+    "index": 793
+  },
+  {
+    "surface": "ディグニティー",
+    "reading": "dignity",
+    "code": "cr-kata4-794",
+    "index": 794
+  },
+  {
+    "surface": "トルヒーヨアルト",
+    "reading": "toruhiiyoalto",
+    "code": "cr-kata4-795",
+    "index": 795
+  },
+  {
+    "surface": "ディストリビューション",
+    "reading": "distribution",
+    "code": "cr-kata4-796",
+    "index": 796
+  },
+  {
+    "surface": "タカラガイ",
+    "reading": "takaragai",
+    "code": "cr-kata4-797",
+    "index": 797
+  },
+  {
+    "surface": "トーナリティ",
+    "reading": "toonariti",
+    "code": "cr-kata4-798",
+    "index": 798
+  },
+  {
+    "surface": "ディプロマット",
+    "reading": "dipromat",
+    "code": "cr-kata4-799",
+    "index": 799
+  },
+  {
+    "surface": "タックウィラ",
+    "reading": "takkuira",
+    "code": "cr-kata4-800",
+    "index": 800
+  },
+  {
+    "surface": "ツメバケイ",
+    "reading": "tsumebakei",
+    "code": "cr-kata4-801",
+    "index": 801
+  },
+  {
+    "surface": "ダンディ",
+    "reading": "dandy",
+    "code": "cr-kata4-802",
+    "index": 802
+  },
+  {
+    "surface": "テレコミュニケーション",
+    "reading": "telecommunications",
+    "code": "cr-kata4-803",
+    "index": 803
+  },
+  {
+    "surface": "トノサマバッタ",
+    "reading": "tonosamabatta",
+    "code": "cr-kata4-804",
+    "index": 804
+  },
+  {
+    "surface": "ドルペッグ",
+    "reading": "dollarpeg",
+    "code": "cr-kata4-805",
+    "index": 805
+  },
+  {
+    "surface": "ツマグロ",
+    "reading": "tsumaguro",
+    "code": "cr-kata4-806",
+    "index": 806
+  },
+  {
+    "surface": "チェス",
+    "reading": "chess",
+    "code": "cr-kata4-807",
+    "index": 807
+  },
+  {
+    "surface": "ダイレクトメッセージ",
+    "reading": "directmessage",
+    "code": "cr-kata4-808",
+    "index": 808
+  },
+  {
+    "surface": "チームプレー",
+    "reading": "teamplay",
+    "code": "cr-kata4-809",
+    "index": 809
+  },
+  {
+    "surface": "トレホン・デ・アルドス",
+    "reading": "torehondearudosu",
+    "code": "cr-kata4-810",
+    "index": 810
+  },
+  {
+    "surface": "テカテ",
+    "reading": "tecate",
+    "code": "cr-kata4-811",
+    "index": 811
+  },
+  {
+    "surface": "デジタルコンテンツ",
+    "reading": "digitalcontents",
+    "code": "cr-kata4-812",
+    "index": 812
+  },
+  {
+    "surface": "ダイオード",
+    "reading": "diode",
+    "code": "cr-kata4-813",
+    "index": 813
+  },
+  {
+    "surface": "ディアムニアディオ",
+    "reading": "diamuniadio",
+    "code": "cr-kata4-814",
+    "index": 814
+  },
+  {
+    "surface": "ディセンバー",
+    "reading": "december",
+    "code": "cr-kata4-815",
+    "index": 815
+  },
+  {
+    "surface": "デグロー",
+    "reading": "desglow",
+    "code": "cr-kata4-816",
+    "index": 816
+  },
+  {
+    "surface": "デイト",
+    "reading": "date",
+    "code": "cr-kata4-817",
+    "index": 817
+  },
+  {
+    "surface": "チップス",
+    "reading": "chip",
+    "code": "cr-kata4-818",
+    "index": 818
+  },
+  {
+    "surface": "トクマク",
+    "reading": "tokumaku",
+    "code": "cr-kata4-819",
+    "index": 819
+  },
+  {
+    "surface": "デダクション",
+    "reading": "dedakushon",
+    "code": "cr-kata4-820",
+    "index": 820
+  },
+  {
+    "surface": "チベタンマスティフ",
+    "reading": "tibetanmasstiff",
+    "code": "cr-kata4-821",
+    "index": 821
+  },
+  {
+    "surface": "デザイナーブランド",
+    "reading": "designerbrand",
+    "code": "cr-kata4-822",
+    "index": 822
+  },
+  {
+    "surface": "トゥレットシンドローム",
+    "reading": "turettoshindoroomu",
+    "code": "cr-kata4-823",
+    "index": 823
+  },
+  {
+    "surface": "デブ",
+    "reading": "debu",
+    "code": "cr-kata4-824",
+    "index": 824
+  },
+  {
+    "surface": "テンダー",
+    "reading": "tender",
+    "code": "cr-kata4-825",
+    "index": 825
+  },
+  {
+    "surface": "ヂリヂリ",
+    "reading": "ziriziri",
+    "code": "cr-kata4-826",
+    "index": 826
+  },
+  {
+    "surface": "ディスパッチ",
+    "reading": "dispatch",
+    "code": "cr-kata4-827",
+    "index": 827
+  },
+  {
+    "surface": "テキサス",
+    "reading": "texas",
+    "code": "cr-kata4-828",
+    "index": 828
+  },
+  {
+    "surface": "ツェツェバエ",
+    "reading": "tsetsebae",
+    "code": "cr-kata4-829",
+    "index": 829
+  },
+  {
+    "surface": "ツラ",
+    "reading": "tsura",
+    "code": "cr-kata4-830",
+    "index": 830
+  },
+  {
+    "surface": "デジタルブイティーアール",
+    "reading": "digitalbuoyteaart",
+    "code": "cr-kata4-831",
+    "index": 831
+  },
+  {
+    "surface": "ターボファン",
+    "reading": "turbofan",
+    "code": "cr-kata4-832",
+    "index": 832
+  },
+  {
+    "surface": "トウジュロ",
+    "reading": "toujuro",
+    "code": "cr-kata4-833",
+    "index": 833
+  },
+  {
+    "surface": "チェンジオーバー",
+    "reading": "changeover",
+    "code": "cr-kata4-834",
+    "index": 834
+  },
+  {
+    "surface": "トガ",
+    "reading": "toga",
+    "code": "cr-kata4-835",
+    "index": 835
+  },
+  {
+    "surface": "タケノコ",
+    "reading": "takenoko",
+    "code": "cr-kata4-836",
+    "index": 836
+  },
+  {
+    "surface": "トミニサージャンフィッシュ",
+    "reading": "tominisaajanfisshu",
+    "code": "cr-kata4-837",
+    "index": 837
+  },
+  {
+    "surface": "テレ",
+    "reading": "tere",
+    "code": "cr-kata4-838",
+    "index": 838
+  },
+  {
+    "surface": "チンコ",
+    "reading": "chinko",
+    "code": "cr-kata4-839",
+    "index": 839
+  },
+  {
+    "surface": "トゥッティ",
+    "reading": "tutti",
+    "code": "cr-kata4-840",
+    "index": 840
+  },
+  {
+    "surface": "トゥース",
+    "reading": "tooth",
+    "code": "cr-kata4-841",
+    "index": 841
+  },
+  {
+    "surface": "チャコ",
+    "reading": "chalk",
+    "code": "cr-kata4-842",
+    "index": 842
+  },
+  {
+    "surface": "ディレクトリー",
+    "reading": "directory",
+    "code": "cr-kata4-843",
+    "index": 843
+  },
+  {
+    "surface": "タロット",
+    "reading": "tarot",
+    "code": "cr-kata4-844",
+    "index": 844
+  },
+  {
+    "surface": "テレゴニー",
+    "reading": "teregoni",
+    "code": "cr-kata4-845",
+    "index": 845
+  },
+  {
+    "surface": "ダマスク",
+    "reading": "damask",
+    "code": "cr-kata4-846",
+    "index": 846
+  },
+  {
+    "surface": "ドルメン",
+    "reading": "dolmen",
+    "code": "cr-kata4-847",
+    "index": 847
+  },
+  {
+    "surface": "トーテムポール",
+    "reading": "totempole",
+    "code": "cr-kata4-848",
+    "index": 848
+  },
+  {
+    "surface": "ドレッシングルーム",
+    "reading": "dressingroom",
+    "code": "cr-kata4-849",
+    "index": 849
+  },
+  {
+    "surface": "トゥーン",
+    "reading": "tuun",
+    "code": "cr-kata4-850",
+    "index": 850
+  },
+  {
+    "surface": "ドクトル",
+    "reading": "doctor",
+    "code": "cr-kata4-851",
+    "index": 851
+  },
+  {
+    "surface": "ダオ",
+    "reading": "dao",
+    "code": "cr-kata4-852",
+    "index": 852
+  },
+  {
+    "surface": "ツワブキ",
+    "reading": "tsuwabuki",
+    "code": "cr-kata4-853",
+    "index": 853
+  },
+  {
+    "surface": "ドーマー",
+    "reading": "dormer",
+    "code": "cr-kata4-854",
+    "index": 854
+  },
+  {
+    "surface": "トレーニングシューズ",
+    "reading": "trainingshoes",
+    "code": "cr-kata4-855",
+    "index": 855
+  },
+  {
+    "surface": "チューインガム",
+    "reading": "chuuingamu",
+    "code": "cr-kata4-856",
+    "index": 856
+  },
+  {
+    "surface": "ドワーフ",
+    "reading": "dwarf",
+    "code": "cr-kata4-857",
+    "index": 857
+  },
+  {
+    "surface": "トメジョーソ",
+    "reading": "tomejooso",
+    "code": "cr-kata4-858",
+    "index": 858
+  },
+  {
+    "surface": "トーンダウン",
+    "reading": "tonedown",
+    "code": "cr-kata4-859",
+    "index": 859
+  },
+  {
+    "surface": "タルタル",
+    "reading": "tartar",
+    "code": "cr-kata4-860",
+    "index": 860
+  },
+  {
+    "surface": "デジャブ",
+    "reading": "dejavu",
+    "code": "cr-kata4-861",
+    "index": 861
+  },
+  {
+    "surface": "ディセントラリゼーション",
+    "reading": "disentorarizeeshon",
+    "code": "cr-kata4-862",
+    "index": 862
+  },
+  {
+    "surface": "ディメンション",
+    "reading": "dimension",
+    "code": "cr-kata4-863",
+    "index": 863
+  },
+  {
+    "surface": "チロキシン",
+    "reading": "thyroxine",
+    "code": "cr-kata4-864",
+    "index": 864
+  },
+  {
+    "surface": "トランスミッションギア",
+    "reading": "transmissiongear",
+    "code": "cr-kata4-865",
+    "index": 865
+  },
+  {
+    "surface": "チダケサシ",
+    "reading": "chidakesashi",
+    "code": "cr-kata4-866",
+    "index": 866
+  },
+  {
+    "surface": "タメ",
+    "reading": "tame",
+    "code": "cr-kata4-867",
+    "index": 867
+  },
+  {
+    "surface": "ダニ",
+    "reading": "dani",
+    "code": "cr-kata4-868",
+    "index": 868
+  },
+  {
+    "surface": "ツツジ",
+    "reading": "tsutsuji",
+    "code": "cr-kata4-869",
+    "index": 869
+  },
+  {
+    "surface": "デスク",
+    "reading": "desk",
+    "code": "cr-kata4-870",
+    "index": 870
+  },
+  {
+    "surface": "ダイアネティックス",
+    "reading": "dianetics",
+    "code": "cr-kata4-871",
+    "index": 871
+  },
+  {
+    "surface": "ティーンネイジャー",
+    "reading": "tiinneijaa",
+    "code": "cr-kata4-872",
+    "index": 872
+  },
+  {
+    "surface": "ディフ",
+    "reading": "difu",
+    "code": "cr-kata4-873",
+    "index": 873
+  },
+  {
+    "surface": "テレカンファレンス",
+    "reading": "tereconference",
+    "code": "cr-kata4-874",
+    "index": 874
+  },
+  {
+    "surface": "ドレッシング",
+    "reading": "dressing",
+    "code": "cr-kata4-875",
+    "index": 875
+  },
+  {
+    "surface": "ツブラジイ",
+    "reading": "burajii",
+    "code": "cr-kata4-876",
+    "index": 876
+  },
+  {
+    "surface": "ダイオウイカ",
+    "reading": "daiouika",
+    "code": "cr-kata4-877",
+    "index": 877
+  },
+  {
+    "surface": "テトラクロロエチレン",
+    "reading": "tetrachloroethylene",
+    "code": "cr-kata4-878",
+    "index": 878
+  },
+  {
+    "surface": "タリウム",
+    "reading": "thallium",
+    "code": "cr-kata4-879",
+    "index": 879
+  },
+  {
+    "surface": "ダック",
+    "reading": "duck",
+    "code": "cr-kata4-880",
+    "index": 880
+  },
+  {
+    "surface": "テロメラーゼ",
+    "reading": "telomerase",
+    "code": "cr-kata4-881",
+    "index": 881
+  },
+  {
+    "surface": "トンコリ",
+    "reading": "tonkori",
+    "code": "cr-kata4-882",
+    "index": 882
+  },
+  {
+    "surface": "ディノサウルス",
+    "reading": "dinosaurusu",
+    "code": "cr-kata4-883",
+    "index": 883
+  },
+  {
+    "surface": "ダマトゥル",
+    "reading": "damaturu",
+    "code": "cr-kata4-884",
+    "index": 884
+  },
+  {
+    "surface": "タモキシフェン",
+    "reading": "tamoxifen",
+    "code": "cr-kata4-885",
+    "index": 885
+  },
+  {
+    "surface": "ティーシーピーアイピー",
+    "reading": "tiishiipiiaipii",
+    "code": "cr-kata4-886",
+    "index": 886
+  },
+  {
+    "surface": "トカゲ",
+    "reading": "tokage",
+    "code": "cr-kata4-887",
+    "index": 887
+  },
+  {
+    "surface": "トッレ・アンヌンツィアータ",
+    "reading": "torreannuntsiaata",
+    "code": "cr-kata4-888",
+    "index": 888
+  },
+  {
+    "surface": "ダサイタマ",
+    "reading": "dasaitama",
+    "code": "cr-kata4-889",
+    "index": 889
+  },
+  {
+    "surface": "テクネチウム",
+    "reading": "technetium",
+    "code": "cr-kata4-890",
+    "index": 890
+  },
+  {
+    "surface": "チャンナギリ",
+    "reading": "channagiri",
+    "code": "cr-kata4-891",
+    "index": 891
+  },
+  {
+    "surface": "デバッガ",
+    "reading": "debugger",
+    "code": "cr-kata4-892",
+    "index": 892
+  },
+  {
+    "surface": "トレードショー",
+    "reading": "tradeshow",
+    "code": "cr-kata4-893",
+    "index": 893
+  },
+  {
+    "surface": "チグアヤンテ",
+    "reading": "chiguayante",
+    "code": "cr-kata4-894",
+    "index": 894
+  },
+  {
+    "surface": "ディーン",
+    "reading": "dean",
+    "code": "cr-kata4-895",
+    "index": 895
+  },
+  {
+    "surface": "ダイニングテーブル",
+    "reading": "diningtable",
+    "code": "cr-kata4-896",
+    "index": 896
+  },
+  {
+    "surface": "トラクター",
+    "reading": "tractor",
+    "code": "cr-kata4-897",
+    "index": 897
+  },
+  {
+    "surface": "ダッハウ",
+    "reading": "dahhau",
+    "code": "cr-kata4-898",
+    "index": 898
+  },
+  {
+    "surface": "ダスマリニャス",
+    "reading": "dasumarinyasu",
+    "code": "cr-kata4-899",
+    "index": 899
+  },
+  {
+    "surface": "チリペッパー",
+    "reading": "chilepepper",
+    "code": "cr-kata4-900",
+    "index": 900
+  },
+  {
+    "surface": "ダイレクト",
+    "reading": "direct",
+    "code": "cr-kata4-901",
+    "index": 901
+  },
+  {
+    "surface": "タタ",
+    "reading": "tata",
+    "code": "cr-kata4-902",
+    "index": 902
+  },
+  {
+    "surface": "ドロバチ",
+    "reading": "dorobachi",
+    "code": "cr-kata4-903",
+    "index": 903
+  },
+  {
+    "surface": "トラッキング",
+    "reading": "tracking",
+    "code": "cr-kata4-904",
+    "index": 904
+  },
+  {
+    "surface": "ターフ",
+    "reading": "turf",
+    "code": "cr-kata4-905",
+    "index": 905
+  },
+  {
+    "surface": "トゲ",
+    "reading": "toge",
+    "code": "cr-kata4-906",
+    "index": 906
+  },
+  {
+    "surface": "ダム",
+    "reading": "dam",
+    "code": "cr-kata4-907",
+    "index": 907
+  },
+  {
+    "surface": "トリット",
+    "reading": "toritto",
+    "code": "cr-kata4-908",
+    "index": 908
+  },
+  {
+    "surface": "デシン",
+    "reading": "deshin",
+    "code": "cr-kata4-909",
+    "index": 909
+  },
+  {
+    "surface": "トランクルーム",
+    "reading": "trunkroom",
+    "code": "cr-kata4-910",
+    "index": 910
+  },
+  {
+    "surface": "ディーブイディーロム",
+    "reading": "diibuidiiromu",
+    "code": "cr-kata4-911",
+    "index": 911
+  },
+  {
+    "surface": "ドキュン",
+    "reading": "dokyun",
+    "code": "cr-kata4-912",
+    "index": 912
+  },
+  {
+    "surface": "ディーピーアイ",
+    "reading": "diipiiai",
+    "code": "cr-kata4-913",
+    "index": 913
+  },
+  {
+    "surface": "タマオシコガネ",
+    "reading": "tamaoshikogane",
+    "code": "cr-kata4-914",
+    "index": 914
+  },
+  {
+    "surface": "ディスカバリー・ベイ",
+    "reading": "discoverybay",
+    "code": "cr-kata4-915",
+    "index": 915
+  },
+  {
+    "surface": "ターボプロップ",
+    "reading": "turboprop",
+    "code": "cr-kata4-916",
+    "index": 916
+  },
+  {
+    "surface": "ダイロック",
+    "reading": "dyerokku",
+    "code": "cr-kata4-917",
+    "index": 917
+  },
+  {
+    "surface": "チューチュー",
+    "reading": "choochoo",
+    "code": "cr-kata4-918",
+    "index": 918
+  },
+  {
+    "surface": "トリクイグモ",
+    "reading": "torikuigumo",
+    "code": "cr-kata4-919",
+    "index": 919
+  },
+  {
+    "surface": "ダウンビート",
+    "reading": "downbeat",
+    "code": "cr-kata4-920",
+    "index": 920
+  },
+  {
+    "surface": "タデ",
+    "reading": "tade",
+    "code": "cr-kata4-921",
+    "index": 921
+  },
+  {
+    "surface": "テラリウム",
+    "reading": "terrarium",
+    "code": "cr-kata4-922",
+    "index": 922
+  },
+  {
+    "surface": "トゥルー",
+    "reading": "true",
+    "code": "cr-kata4-923",
+    "index": 923
+  },
+  {
+    "surface": "ドシンドシン",
+    "reading": "doshindoshin",
+    "code": "cr-kata4-924",
+    "index": 924
+  },
+  {
+    "surface": "チチカカオレスティア",
+    "reading": "chichikakaoresutia",
+    "code": "cr-kata4-925",
+    "index": 925
+  },
+  {
+    "surface": "チッタ・ディ・カステッロ",
+    "reading": "cittadikasuterro",
+    "code": "cr-kata4-926",
+    "index": 926
+  },
+  {
+    "surface": "トサカノリ",
+    "reading": "tosakanori",
+    "code": "cr-kata4-927",
+    "index": 927
+  },
+  {
+    "surface": "タポタポ",
+    "reading": "tapotapo",
+    "code": "cr-kata4-928",
+    "index": 928
+  },
+  {
+    "surface": "テークオフ",
+    "reading": "takeoff",
+    "code": "cr-kata4-929",
+    "index": 929
+  },
+  {
+    "surface": "タバスコ",
+    "reading": "tabasco",
+    "code": "cr-kata4-930",
+    "index": 930
+  },
+  {
+    "surface": "デスマスク",
+    "reading": "deathmask",
+    "code": "cr-kata4-931",
+    "index": 931
+  },
+  {
+    "surface": "ディスコサウンド",
+    "reading": "discosound",
+    "code": "cr-kata4-932",
+    "index": 932
+  },
+  {
+    "surface": "トロット",
+    "reading": "trot",
+    "code": "cr-kata4-933",
+    "index": 933
+  },
+  {
+    "surface": "ダボ",
+    "reading": "dabo",
+    "code": "cr-kata4-934",
+    "index": 934
+  },
+  {
+    "surface": "デクデク",
+    "reading": "dekudeku",
+    "code": "cr-kata4-935",
+    "index": 935
+  },
+  {
+    "surface": "ターバ・ツェカ",
+    "reading": "taabatseka",
+    "code": "cr-kata4-936",
+    "index": 936
+  },
+  {
+    "surface": "チェ",
+    "reading": "che",
+    "code": "cr-kata4-937",
+    "index": 937
+  },
+  {
+    "surface": "テーブルスプーン",
+    "reading": "tablespoon",
+    "code": "cr-kata4-938",
+    "index": 938
+  },
+  {
+    "surface": "トリパノゾーマ",
+    "reading": "toripanozooma",
+    "code": "cr-kata4-939",
+    "index": 939
+  },
+  {
+    "surface": "トントン",
+    "reading": "tonton",
+    "code": "cr-kata4-940",
+    "index": 940
+  },
+  {
+    "surface": "トランスレーション",
+    "reading": "translation",
+    "code": "cr-kata4-941",
+    "index": 941
+  },
+  {
+    "surface": "タブキー",
+    "reading": "tabkey",
+    "code": "cr-kata4-942",
+    "index": 942
+  },
+  {
+    "surface": "チェアマン",
+    "reading": "chairman",
+    "code": "cr-kata4-943",
+    "index": 943
+  },
+  {
+    "surface": "ティルネルヴェーリ",
+    "reading": "tiruneruveeri",
+    "code": "cr-kata4-944",
+    "index": 944
+  },
+  {
+    "surface": "ディスクール",
+    "reading": "discours",
+    "code": "cr-kata4-945",
+    "index": 945
+  },
+  {
+    "surface": "チーン",
+    "reading": "chiin",
+    "code": "cr-kata4-946",
+    "index": 946
+  },
+  {
+    "surface": "ツートップ",
+    "reading": "twotop",
+    "code": "cr-kata4-947",
+    "index": 947
+  },
+  {
+    "surface": "チッカー",
+    "reading": "ticker",
+    "code": "cr-kata4-948",
+    "index": 948
+  },
+  {
+    "surface": "タイコウチ",
+    "reading": "taikouchi",
+    "code": "cr-kata4-949",
+    "index": 949
+  },
+  {
+    "surface": "デジケート",
+    "reading": "dedicate",
+    "code": "cr-kata4-950",
+    "index": 950
+  },
+  {
+    "surface": "タテジマキンチャクダイ",
+    "reading": "tatejimakinchakudai",
+    "code": "cr-kata4-951",
+    "index": 951
+  },
+  {
+    "surface": "ドア・ツー・ドア",
+    "reading": "doortwodoor",
+    "code": "cr-kata4-952",
+    "index": 952
+  },
+  {
+    "surface": "チキン",
+    "reading": "chicken",
+    "code": "cr-kata4-953",
+    "index": 953
+  },
+  {
+    "surface": "トレッドミル",
+    "reading": "treadmill",
+    "code": "cr-kata4-954",
+    "index": 954
+  },
+  {
+    "surface": "トレーニングキャンプ",
+    "reading": "trainingcamp",
+    "code": "cr-kata4-955",
+    "index": 955
+  },
+  {
+    "surface": "テレビショッピング",
+    "reading": "televisionshopping",
+    "code": "cr-kata4-956",
+    "index": 956
+  },
+  {
+    "surface": "ディファレンシエーション",
+    "reading": "difarenshieeshon",
+    "code": "cr-kata4-957",
+    "index": 957
+  },
+  {
+    "surface": "ドラテク",
+    "reading": "dorateku",
+    "code": "cr-kata4-958",
+    "index": 958
+  },
+  {
+    "surface": "ターイフ",
+    "reading": "taaifu",
+    "code": "cr-kata4-959",
+    "index": 959
+  },
+  {
+    "surface": "デンデルモンデ",
+    "reading": "denderumonde",
+    "code": "cr-kata4-960",
+    "index": 960
+  },
+  {
+    "surface": "タッセル",
+    "reading": "tassel",
+    "code": "cr-kata4-961",
+    "index": 961
+  },
+  {
+    "surface": "タピ",
+    "reading": "tapi",
+    "code": "cr-kata4-962",
+    "index": 962
+  },
+  {
+    "surface": "トリビアル",
+    "reading": "trivial",
+    "code": "cr-kata4-963",
+    "index": 963
+  },
+  {
+    "surface": "ツェグレード",
+    "reading": "tsegureedo",
+    "code": "cr-kata4-964",
+    "index": 964
+  },
+  {
+    "surface": "ディマンド",
+    "reading": "demand",
+    "code": "cr-kata4-965",
+    "index": 965
+  },
+  {
+    "surface": "ティーエーピーアイ",
+    "reading": "tiieepiiai",
+    "code": "cr-kata4-966",
+    "index": 966
+  },
+  {
+    "surface": "テープレコーダー",
+    "reading": "taperecorder",
+    "code": "cr-kata4-967",
+    "index": 967
+  },
+  {
+    "surface": "デブリ",
+    "reading": "debris",
+    "code": "cr-kata4-968",
+    "index": 968
+  },
+  {
+    "surface": "トレーサー",
+    "reading": "tracer",
+    "code": "cr-kata4-969",
+    "index": 969
+  },
+  {
+    "surface": "テレホン",
+    "reading": "telephone",
+    "code": "cr-kata4-970",
+    "index": 970
+  },
+  {
+    "surface": "トウヒ",
+    "reading": "touhi",
+    "code": "cr-kata4-971",
+    "index": 971
+  },
+  {
+    "surface": "ダディー",
+    "reading": "dadii",
+    "code": "cr-kata4-972",
+    "index": 972
+  },
+  {
+    "surface": "チャンベリ",
+    "reading": "channelvery",
+    "code": "cr-kata4-973",
+    "index": 973
+  },
+  {
+    "surface": "テルネット",
+    "reading": "telnet",
+    "code": "cr-kata4-974",
+    "index": 974
+  },
+  {
+    "surface": "タッパ",
+    "reading": "tupperware",
+    "code": "cr-kata4-975",
+    "index": 975
+  },
+  {
+    "surface": "デザイアー",
+    "reading": "desire",
+    "code": "cr-kata4-976",
+    "index": 976
+  },
+  {
+    "surface": "ダイヤモンドダスト",
+    "reading": "diamonddust",
+    "code": "cr-kata4-977",
+    "index": 977
+  },
+  {
+    "surface": "ドメ",
+    "reading": "dome",
+    "code": "cr-kata4-978",
+    "index": 978
+  },
+  {
+    "surface": "チャリンコ",
+    "reading": "charinko",
+    "code": "cr-kata4-979",
+    "index": 979
+  },
+  {
+    "surface": "テクタイト",
+    "reading": "tektite",
+    "code": "cr-kata4-980",
+    "index": 980
+  },
+  {
+    "surface": "トコフェロール",
+    "reading": "tocopherol",
+    "code": "cr-kata4-981",
+    "index": 981
+  },
+  {
+    "surface": "トム",
+    "reading": "thom",
+    "code": "cr-kata4-982",
+    "index": 982
+  },
+  {
+    "surface": "トランスファーアールエヌエー",
+    "reading": "toransufaaaaruenuee",
+    "code": "cr-kata4-983",
+    "index": 983
+  },
+  {
+    "surface": "ディーエヌエークローニング",
+    "reading": "diienueekurooningu",
+    "code": "cr-kata4-984",
+    "index": 984
+  },
+  {
+    "surface": "ドンハー",
+    "reading": "donha",
+    "code": "cr-kata4-985",
+    "index": 985
+  },
+  {
+    "surface": "タラゴナ",
+    "reading": "tarragona",
+    "code": "cr-kata4-986",
+    "index": 986
+  },
+  {
+    "surface": "ディスクリート",
+    "reading": "discrete",
+    "code": "cr-kata4-987",
+    "index": 987
+  },
+  {
+    "surface": "タイトル・ロール",
+    "reading": "titleroll",
+    "code": "cr-kata4-988",
+    "index": 988
+  },
+  {
+    "surface": "ドグマ",
+    "reading": "dogma",
+    "code": "cr-kata4-989",
+    "index": 989
+  },
+  {
+    "surface": "ドリアン",
+    "reading": "durian",
+    "code": "cr-kata4-990",
+    "index": 990
+  },
+  {
+    "surface": "テラロッサ",
+    "reading": "terrarossa",
+    "code": "cr-kata4-991",
+    "index": 991
+  },
+  {
+    "surface": "タシュケント",
+    "reading": "tashkent",
+    "code": "cr-kata4-992",
+    "index": 992
+  },
+  {
+    "surface": "チョーパン",
+    "reading": "choupao",
+    "code": "cr-kata4-993",
+    "index": 993
+  },
+  {
+    "surface": "タンドール",
+    "reading": "tonguedor",
+    "code": "cr-kata4-994",
+    "index": 994
+  },
+  {
+    "surface": "トラガントガム",
+    "reading": "toragantogamu",
+    "code": "cr-kata4-995",
+    "index": 995
+  },
+  {
+    "surface": "デポ",
+    "reading": "depot",
+    "code": "cr-kata4-996",
+    "index": 996
+  },
+  {
+    "surface": "ダイレクトメソッド",
+    "reading": "directmethod",
+    "code": "cr-kata4-997",
+    "index": 997
+  },
+  {
+    "surface": "タレット",
+    "reading": "turret",
+    "code": "cr-kata4-998",
+    "index": 998
+  },
+  {
+    "surface": "トロロアオイ",
+    "reading": "tororoaoi",
+    "code": "cr-kata4-999",
+    "index": 999
+  },
+  {
+    "surface": "タカベ",
+    "reading": "takabe",
+    "code": "cr-kata4-1000",
+    "index": 1000
+  },
+  {
+    "surface": "トヴズ",
+    "reading": "tovuzu",
+    "code": "cr-kata4-1001",
+    "index": 1001
+  },
+  {
+    "surface": "トレインタ・イ・トレス",
+    "reading": "toreintaitoresu",
+    "code": "cr-kata4-1002",
+    "index": 1002
+  },
+  {
+    "surface": "デニズリ",
+    "reading": "denizuri",
+    "code": "cr-kata4-1003",
+    "index": 1003
+  },
+  {
+    "surface": "トード",
+    "reading": "toodo",
+    "code": "cr-kata4-1004",
+    "index": 1004
+  },
+  {
+    "surface": "ドレス",
+    "reading": "dress",
+    "code": "cr-kata4-1005",
+    "index": 1005
+  },
+  {
+    "surface": "ダブルスチール",
+    "reading": "doublesteel",
+    "code": "cr-kata4-1006",
+    "index": 1006
+  },
+  {
+    "surface": "ダラシ",
+    "reading": "darashi",
+    "code": "cr-kata4-1007",
+    "index": 1007
+  },
+  {
+    "surface": "トガリアンコウザメ",
+    "reading": "togariankouzame",
+    "code": "cr-kata4-1008",
+    "index": 1008
+  },
+  {
+    "surface": "トゥ",
+    "reading": "tu",
+    "code": "cr-kata4-1009",
+    "index": 1009
+  },
+  {
+    "surface": "トコ",
+    "reading": "toko",
+    "code": "cr-kata4-1010",
+    "index": 1010
+  },
+  {
+    "surface": "チョンボ",
+    "reading": "chonbo",
+    "code": "cr-kata4-1011",
+    "index": 1011
+  },
+  {
+    "surface": "デザイナー",
+    "reading": "designer",
+    "code": "cr-kata4-1012",
+    "index": 1012
+  },
+  {
+    "surface": "チャイニーズ",
+    "reading": "chinese",
+    "code": "cr-kata4-1013",
+    "index": 1013
+  },
+  {
+    "surface": "トコン",
+    "reading": "tokon",
+    "code": "cr-kata4-1014",
+    "index": 1014
+  },
+  {
+    "surface": "ドライカレー",
+    "reading": "drycurry",
+    "code": "cr-kata4-1015",
+    "index": 1015
+  },
+  {
+    "surface": "ツボ",
+    "reading": "tsubo",
+    "code": "cr-kata4-1016",
+    "index": 1016
+  },
+  {
+    "surface": "ドタン",
+    "reading": "dotan",
+    "code": "cr-kata4-1017",
+    "index": 1017
+  },
+  {
+    "surface": "ツギハギ",
+    "reading": "tsugihagi",
+    "code": "cr-kata4-1018",
+    "index": 1018
+  },
+  {
+    "surface": "タッチライン",
+    "reading": "touchline",
+    "code": "cr-kata4-1019",
+    "index": 1019
+  },
+  {
+    "surface": "トロイオンス",
+    "reading": "troyounce",
+    "code": "cr-kata4-1020",
+    "index": 1020
+  },
+  {
+    "surface": "テークオーバービッド",
+    "reading": "takeoverbid",
+    "code": "cr-kata4-1021",
+    "index": 1021
+  },
+  {
+    "surface": "テクサス",
+    "reading": "texas",
+    "code": "cr-kata4-1022",
+    "index": 1022
+  },
+  {
+    "surface": "テキトー",
+    "reading": "tekitou",
+    "code": "cr-kata4-1023",
+    "index": 1023
+  },
+  {
+    "surface": "ツモロー",
+    "reading": "tomorrow",
+    "code": "cr-kata4-1024",
+    "index": 1024
+  },
+  {
+    "surface": "デトロイト",
+    "reading": "detroit",
+    "code": "cr-kata4-1025",
+    "index": 1025
+  },
+  {
+    "surface": "ドクロ",
+    "reading": "dokuro",
+    "code": "cr-kata4-1026",
+    "index": 1026
+  },
+  {
+    "surface": "デウス",
+    "reading": "deus",
+    "code": "cr-kata4-1027",
+    "index": 1027
+  },
+  {
+    "surface": "ディベロップメント",
+    "reading": "development",
+    "code": "cr-kata4-1028",
+    "index": 1028
+  },
+  {
+    "surface": "ディスクジョッキー",
+    "reading": "discjockey",
+    "code": "cr-kata4-1029",
+    "index": 1029
+  },
+  {
+    "surface": "テストマーケティング",
+    "reading": "testmarketing",
+    "code": "cr-kata4-1030",
+    "index": 1030
+  },
+  {
+    "surface": "タークワ",
+    "reading": "taakuwa",
+    "code": "cr-kata4-1031",
+    "index": 1031
+  },
+  {
+    "surface": "デュアルアタッチド",
+    "reading": "dyuaruatatchido",
+    "code": "cr-kata4-1032",
+    "index": 1032
+  },
+  {
+    "surface": "デラノ",
+    "reading": "derano",
+    "code": "cr-kata4-1033",
+    "index": 1033
+  },
+  {
+    "surface": "テキスト",
+    "reading": "text",
+    "code": "cr-kata4-1034",
+    "index": 1034
+  },
+  {
+    "surface": "ディスカウントショップ",
+    "reading": "discountshop",
+    "code": "cr-kata4-1035",
+    "index": 1035
+  },
+  {
+    "surface": "チェーリエ・メッサピーカ",
+    "reading": "cheeriemessapiika",
+    "code": "cr-kata4-1036",
+    "index": 1036
+  },
+  {
+    "surface": "デュロン",
+    "reading": "dyuron",
+    "code": "cr-kata4-1037",
+    "index": 1037
+  },
+  {
+    "surface": "デシ",
+    "reading": "deshi",
+    "code": "cr-kata4-1038",
+    "index": 1038
+  },
+  {
+    "surface": "トゥルクメニスタン",
+    "reading": "turkmenistan",
+    "code": "cr-kata4-1039",
+    "index": 1039
+  },
+  {
+    "surface": "ドロホイ",
+    "reading": "dorohoi",
+    "code": "cr-kata4-1040",
+    "index": 1040
+  },
+  {
+    "surface": "ディセントラライゼイション",
+    "reading": "disentoraraizeishon",
+    "code": "cr-kata4-1041",
+    "index": 1041
+  },
+  {
+    "surface": "ドリーム",
+    "reading": "dream",
+    "code": "cr-kata4-1042",
+    "index": 1042
+  },
+  {
+    "surface": "ティーアールエヌエー",
+    "reading": "tiiaaruenuee",
+    "code": "cr-kata4-1043",
+    "index": 1043
+  },
+  {
+    "surface": "ドッジング",
+    "reading": "dodging",
+    "code": "cr-kata4-1044",
+    "index": 1044
+  },
+  {
+    "surface": "チェロキー",
+    "reading": "cherokee",
+    "code": "cr-kata4-1045",
+    "index": 1045
+  },
+  {
+    "surface": "ディービーエムエス",
+    "reading": "diibiiemuesu",
+    "code": "cr-kata4-1046",
+    "index": 1046
+  },
+  {
+    "surface": "チャイブ",
+    "reading": "chive",
+    "code": "cr-kata4-1047",
+    "index": 1047
+  },
+  {
+    "surface": "トラルゴン",
+    "reading": "torarugon",
+    "code": "cr-kata4-1048",
+    "index": 1048
+  },
+  {
+    "surface": "デイ",
+    "reading": "day",
+    "code": "cr-kata4-1049",
+    "index": 1049
+  },
+  {
+    "surface": "トリニトロトルエン",
+    "reading": "trinitrotoluene",
+    "code": "cr-kata4-1050",
+    "index": 1050
+  },
+  {
+    "surface": "タン",
+    "reading": "tongue",
+    "code": "cr-kata4-1051",
+    "index": 1051
+  },
+  {
+    "surface": "ダノ",
+    "reading": "dano",
+    "code": "cr-kata4-1052",
+    "index": 1052
+  },
+  {
+    "surface": "ティンダ",
+    "reading": "tinda",
+    "code": "cr-kata4-1053",
+    "index": 1053
+  },
+  {
+    "surface": "チャコヴェツ",
+    "reading": "chakovetsu",
+    "code": "cr-kata4-1054",
+    "index": 1054
+  },
+  {
+    "surface": "ディインダストリアライゼーション",
+    "reading": "deindustrialization",
+    "code": "cr-kata4-1055",
+    "index": 1055
+  },
+  {
+    "surface": "デュプリケート",
+    "reading": "duplicate",
+    "code": "cr-kata4-1056",
+    "index": 1056
+  },
+  {
+    "surface": "ターム",
+    "reading": "term",
+    "code": "cr-kata4-1057",
+    "index": 1057
+  },
+  {
+    "surface": "トイチ",
+    "reading": "toichi",
+    "code": "cr-kata4-1058",
+    "index": 1058
+  },
+  {
+    "surface": "ディベロッパー",
+    "reading": "developer",
+    "code": "cr-kata4-1059",
+    "index": 1059
+  },
+  {
+    "surface": "タブ",
+    "reading": "tab",
+    "code": "cr-kata4-1060",
+    "index": 1060
+  },
+  {
+    "surface": "トリクロロエチレン",
+    "reading": "trichloroethylene",
+    "code": "cr-kata4-1061",
+    "index": 1061
+  },
+  {
+    "surface": "ドリシー",
+    "reading": "dorisea",
+    "code": "cr-kata4-1062",
+    "index": 1062
+  },
+  {
+    "surface": "デジカメ",
+    "reading": "dejikame",
+    "code": "cr-kata4-1063",
+    "index": 1063
+  },
+  {
+    "surface": "タヒバリ",
+    "reading": "tahibari",
+    "code": "cr-kata4-1064",
+    "index": 1064
+  },
+  {
+    "surface": "デフ",
+    "reading": "deaf",
+    "code": "cr-kata4-1065",
+    "index": 1065
+  },
+  {
+    "surface": "ダイレクトドライブ",
+    "reading": "directdrive",
+    "code": "cr-kata4-1066",
+    "index": 1066
+  },
+  {
+    "surface": "ドクムギ",
+    "reading": "dokumugi",
+    "code": "cr-kata4-1067",
+    "index": 1067
+  },
+  {
+    "surface": "トルク・コンバーター",
+    "reading": "torqueconverter",
+    "code": "cr-kata4-1068",
+    "index": 1068
+  },
+  {
+    "surface": "タイムカード",
+    "reading": "timecard",
+    "code": "cr-kata4-1069",
+    "index": 1069
+  },
+  {
+    "surface": "デスクリプター",
+    "reading": "descriptor",
+    "code": "cr-kata4-1070",
+    "index": 1070
+  },
+  {
+    "surface": "ダイレクトオーイーエム",
+    "reading": "dairekutoooiiemu",
+    "code": "cr-kata4-1071",
+    "index": 1071
+  },
+  {
+    "surface": "タラシ",
+    "reading": "tarashi",
+    "code": "cr-kata4-1072",
+    "index": 1072
+  },
+  {
+    "surface": "ディキシーランド・ジャズ",
+    "reading": "dixielandjazz",
+    "code": "cr-kata4-1073",
+    "index": 1073
+  },
+  {
+    "surface": "ドライ・マティーニ",
+    "reading": "drymartini",
+    "code": "cr-kata4-1074",
+    "index": 1074
+  },
+  {
+    "surface": "デフォルトゲートウェー",
+    "reading": "defaultgateway",
+    "code": "cr-kata4-1075",
+    "index": 1075
+  },
+  {
+    "surface": "ダケカンバ",
+    "reading": "dakekanba",
+    "code": "cr-kata4-1076",
+    "index": 1076
+  },
+  {
+    "surface": "トランクス",
+    "reading": "trunks",
+    "code": "cr-kata4-1077",
+    "index": 1077
+  },
+  {
+    "surface": "チョキ",
+    "reading": "choki",
+    "code": "cr-kata4-1078",
+    "index": 1078
+  },
+  {
+    "surface": "タブロー",
+    "reading": "tableau",
+    "code": "cr-kata4-1079",
+    "index": 1079
+  },
+  {
+    "surface": "チリ",
+    "reading": "chile",
+    "code": "cr-kata4-1080",
+    "index": 1080
+  },
+  {
+    "surface": "ディール",
+    "reading": "deal",
+    "code": "cr-kata4-1081",
+    "index": 1081
+  },
+  {
+    "surface": "タイワンコマツナギ",
+    "reading": "taiwankomatsunagi",
+    "code": "cr-kata4-1082",
+    "index": 1082
+  },
+  {
+    "surface": "トータル",
+    "reading": "total",
+    "code": "cr-kata4-1083",
+    "index": 1083
+  },
+  {
+    "surface": "テルスター",
+    "reading": "terusutaa",
+    "code": "cr-kata4-1084",
+    "index": 1084
+  },
+  {
+    "surface": "テレマーク",
+    "reading": "telemark",
+    "code": "cr-kata4-1085",
+    "index": 1085
+  },
+  {
+    "surface": "タコノキ",
+    "reading": "takonoki",
+    "code": "cr-kata4-1086",
+    "index": 1086
+  },
+  {
+    "surface": "チョムカ",
+    "reading": "chomuka",
+    "code": "cr-kata4-1087",
+    "index": 1087
+  },
+  {
+    "surface": "ティースプーン",
+    "reading": "teaspoon",
+    "code": "cr-kata4-1088",
+    "index": 1088
+  },
+  {
+    "surface": "チンジャオロースー",
+    "reading": "chinjaoroosu",
+    "code": "cr-kata4-1089",
+    "index": 1089
+  },
+  {
+    "surface": "ディミトロフグラード",
+    "reading": "dimitrovgrade",
+    "code": "cr-kata4-1090",
+    "index": 1090
+  },
+  {
+    "surface": "デイケア",
+    "reading": "daycare",
+    "code": "cr-kata4-1091",
+    "index": 1091
+  },
+  {
+    "surface": "トビ",
+    "reading": "tobi",
+    "code": "cr-kata4-1092",
+    "index": 1092
+  },
+  {
+    "surface": "テル",
+    "reading": "tel",
+    "code": "cr-kata4-1093",
+    "index": 1093
+  },
+  {
+    "surface": "テンサイ",
+    "reading": "tensai",
+    "code": "cr-kata4-1094",
+    "index": 1094
+  },
+  {
+    "surface": "ツマリテングハギ",
+    "reading": "tsumaritenguhagi",
+    "code": "cr-kata4-1095",
+    "index": 1095
+  },
+  {
+    "surface": "タンドーリチキン",
+    "reading": "tandoorichikin",
+    "code": "cr-kata4-1096",
+    "index": 1096
+  },
+  {
+    "surface": "チコ",
+    "reading": "chiko",
+    "code": "cr-kata4-1097",
+    "index": 1097
+  },
+  {
+    "surface": "デイパック",
+    "reading": "daypack",
+    "code": "cr-kata4-1098",
+    "index": 1098
+  },
+  {
+    "surface": "トラベラーズチェック",
+    "reading": "travelercheck",
+    "code": "cr-kata4-1099",
+    "index": 1099
+  },
+  {
+    "surface": "データグラム",
+    "reading": "datagram",
+    "code": "cr-kata4-1100",
+    "index": 1100
+  },
+  {
+    "surface": "デレ",
+    "reading": "dere",
+    "code": "cr-kata4-1101",
+    "index": 1101
+  },
+  {
+    "surface": "チルドビーフ",
+    "reading": "chilledbeef",
+    "code": "cr-kata4-1102",
+    "index": 1102
+  },
+  {
+    "surface": "ダンジョン",
+    "reading": "danjon",
+    "code": "cr-kata4-1103",
+    "index": 1103
+  },
+  {
+    "surface": "テンニンチョウ",
+    "reading": "tenninchou",
+    "code": "cr-kata4-1104",
+    "index": 1104
+  },
+  {
+    "surface": "ドメスティックバイオレンス",
+    "reading": "domesticviolence",
+    "code": "cr-kata4-1105",
+    "index": 1105
+  },
+  {
+    "surface": "ディバッグ",
+    "reading": "dibag",
+    "code": "cr-kata4-1106",
+    "index": 1106
+  },
+  {
+    "surface": "データパケット",
+    "reading": "daytapablanket",
+    "code": "cr-kata4-1107",
+    "index": 1107
+  },
+  {
+    "surface": "タクシン",
+    "reading": "thaksin",
+    "code": "cr-kata4-1108",
+    "index": 1108
+  },
+  {
+    "surface": "トラリー",
+    "reading": "toralee",
+    "code": "cr-kata4-1109",
+    "index": 1109
+  },
+  {
+    "surface": "トゥールコワン",
+    "reading": "torukoone",
+    "code": "cr-kata4-1110",
+    "index": 1110
+  },
+  {
+    "surface": "ダボダボ",
+    "reading": "dabodabo",
+    "code": "cr-kata4-1111",
+    "index": 1111
+  },
+  {
+    "surface": "チョン",
+    "reading": "chon",
+    "code": "cr-kata4-1112",
+    "index": 1112
+  },
+  {
+    "surface": "チャイナ",
+    "reading": "china",
+    "code": "cr-kata4-1113",
+    "index": 1113
+  },
+  {
+    "surface": "ドラード",
+    "reading": "doraado",
+    "code": "cr-kata4-1114",
+    "index": 1114
+  },
+  {
+    "surface": "チーズケーキ",
+    "reading": "cheesecake",
+    "code": "cr-kata4-1115",
+    "index": 1115
+  },
+  {
+    "surface": "タラ",
+    "reading": "tara",
+    "code": "cr-kata4-1116",
+    "index": 1116
+  },
+  {
+    "surface": "ダイナミックレンジ",
+    "reading": "dynamicrange",
+    "code": "cr-kata4-1117",
+    "index": 1117
+  },
+  {
+    "surface": "トリビアリズム",
+    "reading": "trivialism",
+    "code": "cr-kata4-1118",
+    "index": 1118
+  },
+  {
+    "surface": "デーケア",
+    "reading": "daycare",
+    "code": "cr-kata4-1119",
+    "index": 1119
+  },
+  {
+    "surface": "デマルチプレクス",
+    "reading": "demaruchipurekusu",
+    "code": "cr-kata4-1120",
+    "index": 1120
+  },
+  {
+    "surface": "タイムスイッチ",
+    "reading": "timeswitch",
+    "code": "cr-kata4-1121",
+    "index": 1121
+  },
+  {
+    "surface": "ドクドク",
+    "reading": "dokudoku",
+    "code": "cr-kata4-1122",
+    "index": 1122
+  },
+  {
+    "surface": "ドエス",
+    "reading": "doesu",
+    "code": "cr-kata4-1123",
+    "index": 1123
+  },
+  {
+    "surface": "トロツキスト",
+    "reading": "trotskyist",
+    "code": "cr-kata4-1124",
+    "index": 1124
+  },
+  {
+    "surface": "ティラナ",
+    "reading": "thirana",
+    "code": "cr-kata4-1125",
+    "index": 1125
+  },
+  {
+    "surface": "トレイシー",
+    "reading": "toreishii",
+    "code": "cr-kata4-1126",
+    "index": 1126
+  },
+  {
+    "surface": "タンジュン・ピナン",
+    "reading": "tanjunpinan",
+    "code": "cr-kata4-1127",
+    "index": 1127
+  },
+  {
+    "surface": "デマルチプレクサ",
+    "reading": "desmultiplexer",
+    "code": "cr-kata4-1128",
+    "index": 1128
+  },
+  {
+    "surface": "テスト",
+    "reading": "test",
+    "code": "cr-kata4-1129",
+    "index": 1129
+  },
+  {
+    "surface": "チーマー",
+    "reading": "chiimaa",
+    "code": "cr-kata4-1130",
+    "index": 1130
+  },
+  {
+    "surface": "トロール",
+    "reading": "trawl",
+    "code": "cr-kata4-1131",
+    "index": 1131
+  },
+  {
+    "surface": "ドラ",
+    "reading": "draft",
+    "code": "cr-kata4-1132",
+    "index": 1132
+  },
+  {
+    "surface": "チェンソー",
+    "reading": "chainsaw",
+    "code": "cr-kata4-1133",
+    "index": 1133
+  },
+  {
+    "surface": "ディスクロージャー",
+    "reading": "disclosure",
+    "code": "cr-kata4-1134",
+    "index": 1134
+  },
+  {
+    "surface": "トゥルトーザ",
+    "reading": "turutooza",
+    "code": "cr-kata4-1135",
+    "index": 1135
+  },
+  {
+    "surface": "チニゼッロ・バルサモ",
+    "reading": "chinizerrobarusamo",
+    "code": "cr-kata4-1136",
+    "index": 1136
+  },
+  {
+    "surface": "ティアラ",
+    "reading": "tiara",
+    "code": "cr-kata4-1137",
+    "index": 1137
+  },
+  {
+    "surface": "タランテラ",
+    "reading": "tarantella",
+    "code": "cr-kata4-1138",
+    "index": 1138
+  },
+  {
+    "surface": "ツィター",
+    "reading": "zither",
+    "code": "cr-kata4-1139",
+    "index": 1139
+  },
+  {
+    "surface": "ドゥプニツァ",
+    "reading": "dupunitsa",
+    "code": "cr-kata4-1140",
+    "index": 1140
+  },
+  {
+    "surface": "ドタマ",
+    "reading": "dotama",
+    "code": "cr-kata4-1141",
+    "index": 1141
+  },
+  {
+    "surface": "ツブ",
+    "reading": "tsubu",
+    "code": "cr-kata4-1142",
+    "index": 1142
+  },
+  {
+    "surface": "デシメートル",
+    "reading": "deshimeetoru",
+    "code": "cr-kata4-1143",
+    "index": 1143
+  },
+  {
+    "surface": "テルニ",
+    "reading": "telni",
+    "code": "cr-kata4-1144",
+    "index": 1144
+  },
+  {
+    "surface": "ドラッガブル",
+    "reading": "doraggaburu",
+    "code": "cr-kata4-1145",
+    "index": 1145
+  },
+  {
+    "surface": "ドラジェ",
+    "reading": "dragee",
+    "code": "cr-kata4-1146",
+    "index": 1146
+  },
+  {
+    "surface": "タンポポ",
+    "reading": "tanpopo",
+    "code": "cr-kata4-1147",
+    "index": 1147
+  },
+  {
+    "surface": "ダイヤルトン",
+    "reading": "dialton",
+    "code": "cr-kata4-1148",
+    "index": 1148
+  },
+  {
+    "surface": "ダイトウオオコウモリ",
+    "reading": "daitouookoumori",
+    "code": "cr-kata4-1149",
+    "index": 1149
+  },
+  {
+    "surface": "トロリーバス",
+    "reading": "trolleybus",
+    "code": "cr-kata4-1150",
+    "index": 1150
+  },
+  {
+    "surface": "ダディ",
+    "reading": "dadi",
+    "code": "cr-kata4-1151",
+    "index": 1151
+  },
+  {
+    "surface": "ツルツル",
+    "reading": "tsurutsuru",
+    "code": "cr-kata4-1152",
+    "index": 1152
+  },
+  {
+    "surface": "ティルブルフ",
+    "reading": "tilburg",
+    "code": "cr-kata4-1153",
+    "index": 1153
+  },
+  {
+    "surface": "ツマグロエイラクブカ",
+    "reading": "tsumaguroeirakubuka",
+    "code": "cr-kata4-1154",
+    "index": 1154
+  },
+  {
+    "surface": "トレーニングシャツ",
+    "reading": "trainingshirt",
+    "code": "cr-kata4-1155",
+    "index": 1155
+  },
+  {
+    "surface": "テレプロセシング",
+    "reading": "tereprocessing",
+    "code": "cr-kata4-1156",
+    "index": 1156
+  },
+  {
+    "surface": "チアミン",
+    "reading": "thiamine",
+    "code": "cr-kata4-1157",
+    "index": 1157
+  },
+  {
+    "surface": "ツーサイクルエンジン",
+    "reading": "twocycleengine",
+    "code": "cr-kata4-1158",
+    "index": 1158
+  },
+  {
+    "surface": "トゥルゴヴィシュテ",
+    "reading": "turugovishute",
+    "code": "cr-kata4-1159",
+    "index": 1159
+  },
+  {
+    "surface": "ツパイ",
+    "reading": "tupai",
+    "code": "cr-kata4-1160",
+    "index": 1160
+  },
+  {
+    "surface": "トリニトロフェノール",
+    "reading": "trinitrophenol",
+    "code": "cr-kata4-1161",
+    "index": 1161
+  },
+  {
+    "surface": "タイガー",
+    "reading": "tiger",
+    "code": "cr-kata4-1162",
+    "index": 1162
+  },
+  {
+    "surface": "チーター",
+    "reading": "cheetah",
+    "code": "cr-kata4-1163",
+    "index": 1163
+  },
+  {
+    "surface": "ダルース",
+    "reading": "daloose",
+    "code": "cr-kata4-1164",
+    "index": 1164
+  },
+  {
+    "surface": "ディスク・ブレーキ",
+    "reading": "discbrake",
+    "code": "cr-kata4-1165",
+    "index": 1165
+  },
+  {
+    "surface": "ドアップ",
+    "reading": "doup",
+    "code": "cr-kata4-1166",
+    "index": 1166
+  },
+  {
+    "surface": "ドクサ",
+    "reading": "doxa",
+    "code": "cr-kata4-1167",
+    "index": 1167
+  },
+  {
+    "surface": "デザートワイン",
+    "reading": "dessertwine",
+    "code": "cr-kata4-1168",
+    "index": 1168
+  },
+  {
+    "surface": "テクノロジー",
+    "reading": "technology",
+    "code": "cr-kata4-1169",
+    "index": 1169
+  },
+  {
+    "surface": "ドックフード",
+    "reading": "dockfood",
+    "code": "cr-kata4-1170",
+    "index": 1170
+  },
+  {
+    "surface": "ティーピーモニタ",
+    "reading": "teapeamonitor",
+    "code": "cr-kata4-1171",
+    "index": 1171
+  },
+  {
+    "surface": "トリトマ",
+    "reading": "tritoma",
+    "code": "cr-kata4-1172",
+    "index": 1172
+  },
+  {
+    "surface": "タイム・マシーン",
+    "reading": "timemachine",
+    "code": "cr-kata4-1173",
+    "index": 1173
+  },
+  {
+    "surface": "チダイ",
+    "reading": "chidai",
+    "code": "cr-kata4-1174",
+    "index": 1174
+  },
+  {
+    "surface": "テイクオーバービッド",
+    "reading": "takeoverbid",
+    "code": "cr-kata4-1175",
+    "index": 1175
+  },
+  {
+    "surface": "ドーピングコントロール",
+    "reading": "dopingcontrol",
+    "code": "cr-kata4-1176",
+    "index": 1176
+  },
+  {
+    "surface": "ティ",
+    "reading": "ti",
+    "code": "cr-kata4-1177",
+    "index": 1177
+  },
+  {
+    "surface": "トーキック",
+    "reading": "toekick",
+    "code": "cr-kata4-1178",
+    "index": 1178
+  },
+  {
+    "surface": "トリートメント",
+    "reading": "treatment",
+    "code": "cr-kata4-1179",
+    "index": 1179
+  },
+  {
+    "surface": "ターポンスプリングス",
+    "reading": "taaponsupuringusu",
+    "code": "cr-kata4-1180",
+    "index": 1180
+  },
+  {
+    "surface": "ドシドシ",
+    "reading": "doshidoshi",
+    "code": "cr-kata4-1181",
+    "index": 1181
+  },
+  {
+    "surface": "ティエ",
+    "reading": "tie",
+    "code": "cr-kata4-1182",
+    "index": 1182
+  },
+  {
+    "surface": "トリプシン",
+    "reading": "trypsin",
+    "code": "cr-kata4-1183",
+    "index": 1183
+  },
+  {
+    "surface": "デキシーランドジャズ",
+    "reading": "dixielandjazz",
+    "code": "cr-kata4-1184",
+    "index": 1184
+  },
+  {
+    "surface": "ドレーン",
+    "reading": "drain",
+    "code": "cr-kata4-1185",
+    "index": 1185
+  },
+  {
+    "surface": "ティルヴァッルール",
+    "reading": "tiruvarruuru",
+    "code": "cr-kata4-1186",
+    "index": 1186
+  },
+  {
+    "surface": "テンプル・テラス",
+    "reading": "templeterrace",
+    "code": "cr-kata4-1187",
+    "index": 1187
+  },
+  {
+    "surface": "テロ",
+    "reading": "terrorism",
+    "code": "cr-kata4-1188",
+    "index": 1188
+  },
+  {
+    "surface": "タトゥー",
+    "reading": "tattoo",
+    "code": "cr-kata4-1189",
+    "index": 1189
+  },
+  {
+    "surface": "ティオンヴィル",
+    "reading": "tionviru",
+    "code": "cr-kata4-1190",
+    "index": 1190
+  },
+  {
+    "surface": "チョウ",
+    "reading": "chou",
+    "code": "cr-kata4-1191",
+    "index": 1191
+  },
+  {
+    "surface": "チーク",
+    "reading": "cheek",
+    "code": "cr-kata4-1192",
+    "index": 1192
+  },
+  {
+    "surface": "トランスフェクション",
+    "reading": "transfection",
+    "code": "cr-kata4-1193",
+    "index": 1193
+  },
+  {
+    "surface": "ダウニー",
+    "reading": "daunii",
+    "code": "cr-kata4-1194",
+    "index": 1194
+  },
+  {
+    "surface": "ダゲナム",
+    "reading": "dagenamu",
+    "code": "cr-kata4-1195",
+    "index": 1195
+  },
+  {
+    "surface": "テストライダー",
+    "reading": "testrider",
+    "code": "cr-kata4-1196",
+    "index": 1196
+  },
+  {
+    "surface": "ダチョウ",
+    "reading": "dachou",
+    "code": "cr-kata4-1197",
+    "index": 1197
+  },
+  {
+    "surface": "テンキーパッド",
+    "reading": "tenkeypad",
+    "code": "cr-kata4-1198",
+    "index": 1198
+  },
+  {
+    "surface": "トラ",
+    "reading": "tora",
+    "code": "cr-kata4-1199",
+    "index": 1199
+  },
+  {
+    "surface": "ダンサイキ",
+    "reading": "dansaiki",
+    "code": "cr-kata4-1200",
+    "index": 1200
+  },
+  {
+    "surface": "デリヘル",
+    "reading": "deriheru",
+    "code": "cr-kata4-1201",
+    "index": 1201
+  },
+  {
+    "surface": "ドレメ",
+    "reading": "doreme",
+    "code": "cr-kata4-1202",
+    "index": 1202
+  },
+  {
+    "surface": "タイヤ",
+    "reading": "tire",
+    "code": "cr-kata4-1203",
+    "index": 1203
+  },
+  {
+    "surface": "トロワリヴィエール",
+    "reading": "troyesrivieeru",
+    "code": "cr-kata4-1204",
+    "index": 1204
+  },
+  {
+    "surface": "タンブラースイッチ",
+    "reading": "tumblerswitch",
+    "code": "cr-kata4-1205",
+    "index": 1205
+  },
+  {
+    "surface": "タイアップ",
+    "reading": "tieup",
+    "code": "cr-kata4-1206",
+    "index": 1206
+  },
+  {
+    "surface": "ダブルプレー",
+    "reading": "doubleplay",
+    "code": "cr-kata4-1207",
+    "index": 1207
+  },
+  {
+    "surface": "デモ",
+    "reading": "demo",
+    "code": "cr-kata4-1208",
+    "index": 1208
+  },
+  {
+    "surface": "ツユベラ",
+    "reading": "tsuyubera",
+    "code": "cr-kata4-1209",
+    "index": 1209
+  },
+  {
+    "surface": "ドライシェービング",
+    "reading": "dryshaving",
+    "code": "cr-kata4-1210",
+    "index": 1210
+  },
+  {
+    "surface": "トランスファーマシーン",
+    "reading": "transfermachine",
+    "code": "cr-kata4-1211",
+    "index": 1211
+  },
+  {
+    "surface": "ドルトレヒト",
+    "reading": "dordrecht",
+    "code": "cr-kata4-1212",
+    "index": 1212
+  },
+  {
+    "surface": "チロチロ",
+    "reading": "chirochiro",
+    "code": "cr-kata4-1213",
+    "index": 1213
+  },
+  {
+    "surface": "ダブルイメージ",
+    "reading": "doubleimage",
+    "code": "cr-kata4-1214",
+    "index": 1214
+  },
+  {
+    "surface": "ダース",
+    "reading": "darth",
+    "code": "cr-kata4-1215",
+    "index": 1215
+  },
+  {
+    "surface": "トッレ・デル・グレーコ",
+    "reading": "torrederugureeko",
+    "code": "cr-kata4-1216",
+    "index": 1216
+  },
+  {
+    "surface": "トリントン",
+    "reading": "torinton",
+    "code": "cr-kata4-1217",
+    "index": 1217
+  },
+  {
+    "surface": "デスビキャップ",
+    "reading": "desubikyappu",
+    "code": "cr-kata4-1218",
+    "index": 1218
+  },
+  {
+    "surface": "チャボヒバ",
+    "reading": "chabohiba",
+    "code": "cr-kata4-1219",
+    "index": 1219
+  },
+  {
+    "surface": "トラブルシューティング",
+    "reading": "troubleshooting",
+    "code": "cr-kata4-1220",
+    "index": 1220
+  },
+  {
+    "surface": "チェイン",
+    "reading": "chain",
+    "code": "cr-kata4-1221",
+    "index": 1221
+  },
+  {
+    "surface": "タラバ",
+    "reading": "taraba",
+    "code": "cr-kata4-1222",
+    "index": 1222
+  },
+  {
+    "surface": "ダイアモンドダスト",
+    "reading": "diamonddust",
+    "code": "cr-kata4-1223",
+    "index": 1223
+  },
+  {
+    "surface": "タイム",
+    "reading": "time",
+    "code": "cr-kata4-1224",
+    "index": 1224
+  },
+  {
+    "surface": "トクピタ",
+    "reading": "tokupita",
+    "code": "cr-kata4-1225",
+    "index": 1225
+  },
+  {
+    "surface": "デカ",
+    "reading": "deka",
+    "code": "cr-kata4-1226",
+    "index": 1226
+  },
+  {
+    "surface": "ダブルスタンダード",
+    "reading": "doublestandard",
+    "code": "cr-kata4-1227",
+    "index": 1227
+  },
+  {
+    "surface": "テレポーテーション",
+    "reading": "teleportation",
+    "code": "cr-kata4-1228",
+    "index": 1228
+  },
+  {
+    "surface": "トレール",
+    "reading": "trail",
+    "code": "cr-kata4-1229",
+    "index": 1229
+  },
+  {
+    "surface": "チョメチョメ",
+    "reading": "chomechome",
+    "code": "cr-kata4-1230",
+    "index": 1230
+  },
+  {
+    "surface": "トド",
+    "reading": "todo",
+    "code": "cr-kata4-1231",
+    "index": 1231
+  },
+  {
+    "surface": "ディーセントラリゼーション",
+    "reading": "diisentorarizeeshon",
+    "code": "cr-kata4-1232",
+    "index": 1232
+  },
+  {
+    "surface": "トロッター",
+    "reading": "trotter",
+    "code": "cr-kata4-1233",
+    "index": 1233
+  },
+  {
+    "surface": "デジタルアールジービー",
+    "reading": "dejitaruaarujiibii",
+    "code": "cr-kata4-1234",
+    "index": 1234
+  },
+  {
+    "surface": "トロピカルドリンク",
+    "reading": "tropicaldrink",
+    "code": "cr-kata4-1235",
+    "index": 1235
+  },
+  {
+    "surface": "データプロセシング",
+    "reading": "dataprocessing",
+    "code": "cr-kata4-1236",
+    "index": 1236
+  },
+  {
+    "surface": "タラント",
+    "reading": "taranto",
+    "code": "cr-kata4-1237",
+    "index": 1237
+  },
+  {
+    "surface": "タケオ",
+    "reading": "takeo",
+    "code": "cr-kata4-1238",
+    "index": 1238
+  },
+  {
+    "surface": "ドーサ",
+    "reading": "doosa",
+    "code": "cr-kata4-1239",
+    "index": 1239
+  },
+  {
+    "surface": "トラディッショナル",
+    "reading": "toradisshonaru",
+    "code": "cr-kata4-1240",
+    "index": 1240
+  },
+  {
+    "surface": "トゥーク",
+    "reading": "toku",
+    "code": "cr-kata4-1241",
+    "index": 1241
+  },
+  {
+    "surface": "テンベースファイブ",
+    "reading": "tenbeesufaibu",
+    "code": "cr-kata4-1242",
+    "index": 1242
+  },
+  {
+    "surface": "タンディル",
+    "reading": "tonguedill",
+    "code": "cr-kata4-1243",
+    "index": 1243
+  },
+  {
+    "surface": "ツレ",
+    "reading": "tsure",
+    "code": "cr-kata4-1244",
+    "index": 1244
+  },
+  {
+    "surface": "トリセツ",
+    "reading": "torisetsu",
+    "code": "cr-kata4-1245",
+    "index": 1245
+  },
+  {
+    "surface": "テント",
+    "reading": "tent",
+    "code": "cr-kata4-1246",
+    "index": 1246
+  },
+  {
+    "surface": "トラス",
+    "reading": "truss",
+    "code": "cr-kata4-1247",
+    "index": 1247
+  },
+  {
+    "surface": "チルド",
+    "reading": "chilled",
+    "code": "cr-kata4-1248",
+    "index": 1248
+  },
+  {
+    "surface": "トマトソース",
+    "reading": "tomatosauce",
+    "code": "cr-kata4-1249",
+    "index": 1249
+  },
+  {
+    "surface": "ドメスチック",
+    "reading": "domestic",
+    "code": "cr-kata4-1250",
+    "index": 1250
+  },
+  {
+    "surface": "ディアボロ",
+    "reading": "diabolo",
+    "code": "cr-kata4-1251",
+    "index": 1251
+  },
+  {
+    "surface": "ディヴェルティメント",
+    "reading": "divertimento",
+    "code": "cr-kata4-1252",
+    "index": 1252
+  },
+  {
+    "surface": "ディスカバリー",
+    "reading": "discovery",
+    "code": "cr-kata4-1253",
+    "index": 1253
+  },
+  {
+    "surface": "ドゥルグ",
+    "reading": "durugu",
+    "code": "cr-kata4-1254",
+    "index": 1254
+  },
+  {
+    "surface": "ツインベッド",
+    "reading": "twinbed",
+    "code": "cr-kata4-1255",
+    "index": 1255
+  },
+  {
+    "surface": "ディナージャケット",
+    "reading": "dinnerjacket",
+    "code": "cr-kata4-1256",
+    "index": 1256
+  },
+  {
+    "surface": "トニックウォーター",
+    "reading": "tonicwater",
+    "code": "cr-kata4-1257",
+    "index": 1257
+  },
+  {
+    "surface": "ティラピアモザンビカ",
+    "reading": "tirapiamozanbika",
+    "code": "cr-kata4-1258",
+    "index": 1258
+  },
+  {
+    "surface": "ドロップ",
+    "reading": "drop",
+    "code": "cr-kata4-1259",
+    "index": 1259
+  },
+  {
+    "surface": "デジ",
+    "reading": "digital",
+    "code": "cr-kata4-1260",
+    "index": 1260
+  },
+  {
+    "surface": "タンナー",
+    "reading": "tannaa",
+    "code": "cr-kata4-1261",
+    "index": 1261
+  },
+  {
+    "surface": "デュラルミン",
+    "reading": "duralumin",
+    "code": "cr-kata4-1262",
+    "index": 1262
+  },
+  {
+    "surface": "テキストエディタ",
+    "reading": "texteditor",
+    "code": "cr-kata4-1263",
+    "index": 1263
+  },
+  {
+    "surface": "チャタヌーガ",
+    "reading": "chatanuuga",
+    "code": "cr-kata4-1264",
+    "index": 1264
+  },
+  {
+    "surface": "ティーエムディー",
+    "reading": "tiiemudii",
+    "code": "cr-kata4-1265",
+    "index": 1265
+  },
+  {
+    "surface": "ダンサ",
+    "reading": "dansa",
+    "code": "cr-kata4-1266",
+    "index": 1266
+  },
+  {
+    "surface": "デントン",
+    "reading": "denton",
+    "code": "cr-kata4-1267",
+    "index": 1267
+  },
+  {
+    "surface": "デバッギングモニタ",
+    "reading": "debaggingumonita",
+    "code": "cr-kata4-1268",
+    "index": 1268
+  },
+  {
+    "surface": "テナ",
+    "reading": "tena",
+    "code": "cr-kata4-1269",
+    "index": 1269
+  },
+  {
+    "surface": "ディティール",
+    "reading": "detail",
+    "code": "cr-kata4-1270",
+    "index": 1270
+  },
+  {
+    "surface": "タケ",
+    "reading": "take",
+    "code": "cr-kata4-1271",
+    "index": 1271
+  },
+  {
+    "surface": "ダカーポ",
+    "reading": "dadecapo",
+    "code": "cr-kata4-1272",
+    "index": 1272
+  },
+  {
+    "surface": "ツル",
+    "reading": "tsuru",
+    "code": "cr-kata4-1273",
+    "index": 1273
+  },
+  {
+    "surface": "ドドンパ",
+    "reading": "dodonpa",
+    "code": "cr-kata4-1274",
+    "index": 1274
+  },
+  {
+    "surface": "ツィロアノマンディディ",
+    "reading": "tsiroanomandidi",
+    "code": "cr-kata4-1275",
+    "index": 1275
+  },
+  {
+    "surface": "ダルハン",
+    "reading": "darkhan",
+    "code": "cr-kata4-1276",
+    "index": 1276
+  },
+  {
+    "surface": "ダツ",
+    "reading": "datsu",
+    "code": "cr-kata4-1277",
+    "index": 1277
+  },
+  {
+    "surface": "トゥルグ・セクイエスク",
+    "reading": "turugusekuiesuku",
+    "code": "cr-kata4-1278",
+    "index": 1278
+  },
+  {
+    "surface": "ドランシー",
+    "reading": "doranshii",
+    "code": "cr-kata4-1279",
+    "index": 1279
+  },
+  {
+    "surface": "デジタル",
+    "reading": "digital",
+    "code": "cr-kata4-1280",
+    "index": 1280
+  },
+  {
+    "surface": "トレーラーハウス",
+    "reading": "trailerhouse",
+    "code": "cr-kata4-1281",
+    "index": 1281
+  },
+  {
+    "surface": "ドロワース",
+    "reading": "doroworse",
+    "code": "cr-kata4-1282",
+    "index": 1282
+  },
+  {
+    "surface": "チーズホンデュ",
+    "reading": "cheesehondyu",
+    "code": "cr-kata4-1283",
+    "index": 1283
+  },
+  {
+    "surface": "トゥー",
+    "reading": "to",
+    "code": "cr-kata4-1284",
+    "index": 1284
+  },
+  {
+    "surface": "ドツボ",
+    "reading": "dotsubo",
+    "code": "cr-kata4-1285",
+    "index": 1285
+  },
+  {
+    "surface": "タペストリー",
+    "reading": "tapestry",
+    "code": "cr-kata4-1286",
+    "index": 1286
+  },
+  {
+    "surface": "トピ",
+    "reading": "topi",
+    "code": "cr-kata4-1287",
+    "index": 1287
+  },
+  {
+    "surface": "テレメトリ",
+    "reading": "telemetry",
+    "code": "cr-kata4-1288",
+    "index": 1288
+  },
+  {
+    "surface": "ダックスフント",
+    "reading": "dachshund",
+    "code": "cr-kata4-1289",
+    "index": 1289
+  },
+  {
+    "surface": "ドレナージ",
+    "reading": "drainage",
+    "code": "cr-kata4-1290",
+    "index": 1290
+  },
+  {
+    "surface": "トレツィク",
+    "reading": "toretsiku",
+    "code": "cr-kata4-1291",
+    "index": 1291
+  },
+  {
+    "surface": "ダナン",
+    "reading": "danan",
+    "code": "cr-kata4-1292",
+    "index": 1292
+  },
+  {
+    "surface": "トロリーポール",
+    "reading": "trolleypole",
+    "code": "cr-kata4-1293",
+    "index": 1293
+  },
+  {
+    "surface": "チャチ",
+    "reading": "chachi",
+    "code": "cr-kata4-1294",
+    "index": 1294
+  },
+  {
+    "surface": "チャオズ",
+    "reading": "chaozu",
+    "code": "cr-kata4-1295",
+    "index": 1295
+  },
+  {
+    "surface": "チェッカーフラッグ",
+    "reading": "checkerflag",
+    "code": "cr-kata4-1296",
+    "index": 1296
+  },
+  {
+    "surface": "チェンジオブペース",
+    "reading": "changeofpace",
+    "code": "cr-kata4-1297",
+    "index": 1297
+  },
+  {
+    "surface": "ディズニーランド",
+    "reading": "disneyland",
+    "code": "cr-kata4-1298",
+    "index": 1298
+  },
+  {
+    "surface": "テレアポ",
+    "reading": "tereappointment",
+    "code": "cr-kata4-1299",
+    "index": 1299
+  },
+  {
+    "surface": "トラッキー",
+    "reading": "torakkii",
+    "code": "cr-kata4-1300",
+    "index": 1300
+  },
+  {
+    "surface": "トースハウン",
+    "reading": "toosuhaun",
+    "code": "cr-kata4-1301",
+    "index": 1301
+  },
+  {
+    "surface": "チュッ",
+    "reading": "chu",
+    "code": "cr-kata4-1302",
+    "index": 1302
+  },
+  {
+    "surface": "タンメン",
+    "reading": "tanmen",
+    "code": "cr-kata4-1303",
+    "index": 1303
+  },
+  {
+    "surface": "ツマジロ",
+    "reading": "tsumajiro",
+    "code": "cr-kata4-1304",
+    "index": 1304
+  },
+  {
+    "surface": "ドロアー",
+    "reading": "doroare",
+    "code": "cr-kata4-1305",
+    "index": 1305
+  },
+  {
+    "surface": "ドゥマゲテ",
+    "reading": "dumagete",
+    "code": "cr-kata4-1306",
+    "index": 1306
+  },
+  {
+    "surface": "チラミン",
+    "reading": "tyramine",
+    "code": "cr-kata4-1307",
+    "index": 1307
+  },
+  {
+    "surface": "ダービータイ",
+    "reading": "derbytie",
+    "code": "cr-kata4-1308",
+    "index": 1308
+  },
+  {
+    "surface": "デリス",
+    "reading": "derris",
+    "code": "cr-kata4-1309",
+    "index": 1309
+  },
+  {
+    "surface": "トラックシステム",
+    "reading": "trucksystem",
+    "code": "cr-kata4-1310",
+    "index": 1310
+  },
+  {
+    "surface": "ツヤ",
+    "reading": "tsuya",
+    "code": "cr-kata4-1311",
+    "index": 1311
+  },
+  {
+    "surface": "ダイヤグラム",
+    "reading": "diagram",
+    "code": "cr-kata4-1312",
+    "index": 1312
+  },
+  {
+    "surface": "トッテナム・ヘール",
+    "reading": "tottenhamhale",
+    "code": "cr-kata4-1313",
+    "index": 1313
+  },
+  {
+    "surface": "デーライト",
+    "reading": "dayraito",
+    "code": "cr-kata4-1314",
+    "index": 1314
+  },
+  {
+    "surface": "チタ",
+    "reading": "chita",
+    "code": "cr-kata4-1315",
+    "index": 1315
+  },
+  {
+    "surface": "トレーサビリティー",
+    "reading": "tracabiity",
+    "code": "cr-kata4-1316",
+    "index": 1316
+  },
+  {
+    "surface": "ドゥケ・デ・カシアス",
+    "reading": "dukedekashiasu",
+    "code": "cr-kata4-1317",
+    "index": 1317
+  },
+  {
+    "surface": "チッタゴン",
+    "reading": "chittagon",
+    "code": "cr-kata4-1318",
+    "index": 1318
+  },
+  {
+    "surface": "トス",
+    "reading": "toss",
+    "code": "cr-kata4-1319",
+    "index": 1319
+  },
+  {
+    "surface": "トロツキズム",
+    "reading": "trotskyism",
+    "code": "cr-kata4-1320",
+    "index": 1320
+  },
+  {
+    "surface": "ターニング・ポイント",
+    "reading": "turningpoint",
+    "code": "cr-kata4-1321",
+    "index": 1321
+  },
+  {
+    "surface": "トゥストラ・グティエレス",
+    "reading": "tusutoragutieresu",
+    "code": "cr-kata4-1322",
+    "index": 1322
+  },
+  {
+    "surface": "ディスコ",
+    "reading": "disco",
+    "code": "cr-kata4-1323",
+    "index": 1323
+  },
+  {
+    "surface": "チキソトロピー",
+    "reading": "thixotropy",
+    "code": "cr-kata4-1324",
+    "index": 1324
+  },
+  {
+    "surface": "ドタドタ",
+    "reading": "dotadota",
+    "code": "cr-kata4-1325",
+    "index": 1325
+  },
+  {
+    "surface": "テトヴォ",
+    "reading": "tetvo",
+    "code": "cr-kata4-1326",
+    "index": 1326
+  },
+  {
+    "surface": "ツシ",
+    "reading": "tsushi",
+    "code": "cr-kata4-1327",
+    "index": 1327
+  },
+  {
+    "surface": "デル・リオ",
+    "reading": "derurio",
+    "code": "cr-kata4-1328",
+    "index": 1328
+  },
+  {
+    "surface": "デコンボリューション",
+    "reading": "desconvolution",
+    "code": "cr-kata4-1329",
+    "index": 1329
+  },
+  {
+    "surface": "デコンストラクション",
+    "reading": "deconstruction",
+    "code": "cr-kata4-1330",
+    "index": 1330
+  },
+  {
+    "surface": "ダウンライト",
+    "reading": "downraito",
+    "code": "cr-kata4-1331",
+    "index": 1331
+  },
+  {
+    "surface": "ドゥイットユアセルフ",
+    "reading": "duittoyuaserufu",
+    "code": "cr-kata4-1332",
+    "index": 1332
+  },
+  {
+    "surface": "ティラスポリ",
+    "reading": "tirasupori",
+    "code": "cr-kata4-1333",
+    "index": 1333
+  },
+  {
+    "surface": "チョー",
+    "reading": "chou",
+    "code": "cr-kata4-1334",
+    "index": 1334
+  },
+  {
+    "surface": "ダンゴムシ",
+    "reading": "dangomushi",
+    "code": "cr-kata4-1335",
+    "index": 1335
+  },
+  {
+    "surface": "ツアーコンダクター",
+    "reading": "tourconductor",
+    "code": "cr-kata4-1336",
+    "index": 1336
+  },
+  {
+    "surface": "ディーブイディービデオ",
+    "reading": "diibuidiibideo",
+    "code": "cr-kata4-1337",
+    "index": 1337
+  },
+  {
+    "surface": "ターポン",
+    "reading": "tarpon",
+    "code": "cr-kata4-1338",
+    "index": 1338
+  },
+  {
+    "surface": "タンス",
+    "reading": "tansu",
+    "code": "cr-kata4-1339",
+    "index": 1339
+  },
+  {
+    "surface": "テーパールドスラックス",
+    "reading": "teepaarudosurakkusu",
+    "code": "cr-kata4-1340",
+    "index": 1340
+  },
+  {
+    "surface": "テニヲハ",
+    "reading": "teniwoha",
+    "code": "cr-kata4-1341",
+    "index": 1341
+  },
+  {
+    "surface": "デノミ",
+    "reading": "denomination",
+    "code": "cr-kata4-1342",
+    "index": 1342
+  },
+  {
+    "surface": "トランジスターラジオ",
+    "reading": "transistorradio",
+    "code": "cr-kata4-1343",
+    "index": 1343
+  },
+  {
+    "surface": "テクニカルポイント",
+    "reading": "technicalpoint",
+    "code": "cr-kata4-1344",
+    "index": 1344
+  },
+  {
+    "surface": "トランスファーマシン",
+    "reading": "transfermachine",
+    "code": "cr-kata4-1345",
+    "index": 1345
+  },
+  {
+    "surface": "ドリブル",
+    "reading": "dribble",
+    "code": "cr-kata4-1346",
+    "index": 1346
+  },
+  {
+    "surface": "ツチバチ",
+    "reading": "tsuchibachi",
+    "code": "cr-kata4-1347",
+    "index": 1347
+  },
+  {
+    "surface": "トゥルヌフイユ",
+    "reading": "turunufuiyu",
+    "code": "cr-kata4-1348",
+    "index": 1348
+  },
+  {
+    "surface": "チタン",
+    "reading": "titan",
+    "code": "cr-kata4-1349",
+    "index": 1349
+  },
+  {
+    "surface": "トラジカル",
+    "reading": "toradical",
+    "code": "cr-kata4-1350",
+    "index": 1350
+  },
+  {
+    "surface": "ドンブロヴァ・グルニチャ",
+    "reading": "donburovagurunicha",
+    "code": "cr-kata4-1351",
+    "index": 1351
+  },
+  {
+    "surface": "トマシュフ・ルベルスキ",
+    "reading": "tomashufuruberusuki",
+    "code": "cr-kata4-1352",
+    "index": 1352
+  },
+  {
+    "surface": "チェスケー・ブデヨヴィツェ",
+    "reading": "chesukeebudeyovitse",
+    "code": "cr-kata4-1353",
+    "index": 1353
+  },
+  {
+    "surface": "ドサ",
+    "reading": "dosa",
+    "code": "cr-kata4-1354",
+    "index": 1354
+  },
+  {
+    "surface": "ディスペンサ",
+    "reading": "disupensa",
+    "code": "cr-kata4-1355",
+    "index": 1355
+  },
+  {
+    "surface": "チポラータ",
+    "reading": "chiporaata",
+    "code": "cr-kata4-1356",
+    "index": 1356
+  },
+  {
+    "surface": "トラグラ",
+    "reading": "toragras",
+    "code": "cr-kata4-1357",
+    "index": 1357
+  },
+  {
+    "surface": "テキスチュア",
+    "reading": "tekisuchua",
+    "code": "cr-kata4-1358",
+    "index": 1358
+  },
+  {
+    "surface": "チアホーン",
+    "reading": "cheerhorn",
+    "code": "cr-kata4-1359",
+    "index": 1359
+  },
+  {
+    "surface": "トリッペル",
+    "reading": "tripper",
+    "code": "cr-kata4-1360",
+    "index": 1360
+  },
+  {
+    "surface": "タイムスケジュール",
+    "reading": "timeschedule",
+    "code": "cr-kata4-1361",
+    "index": 1361
+  },
+  {
+    "surface": "チョンワデ",
+    "reading": "chonwade",
+    "code": "cr-kata4-1362",
+    "index": 1362
+  },
+  {
+    "surface": "タリハ",
+    "reading": "tariha",
+    "code": "cr-kata4-1363",
+    "index": 1363
+  },
+  {
+    "surface": "タイラー",
+    "reading": "tylor",
+    "code": "cr-kata4-1364",
+    "index": 1364
+  },
+  {
+    "surface": "テレテキスト",
+    "reading": "teretext",
+    "code": "cr-kata4-1365",
+    "index": 1365
+  },
+  {
+    "surface": "デュープ",
+    "reading": "dupe",
+    "code": "cr-kata4-1366",
+    "index": 1366
+  },
+  {
+    "surface": "ディーエヌエーウイルス",
+    "reading": "diienueeuirusu",
+    "code": "cr-kata4-1367",
+    "index": 1367
+  },
+  {
+    "surface": "テーマ",
+    "reading": "theme",
+    "code": "cr-kata4-1368",
+    "index": 1368
+  },
+  {
+    "surface": "デスクトップパブリッシング",
+    "reading": "desktoppublishing",
+    "code": "cr-kata4-1369",
+    "index": 1369
+  },
+  {
+    "surface": "テタニー",
+    "reading": "tetany",
+    "code": "cr-kata4-1370",
+    "index": 1370
+  },
+  {
+    "surface": "ドロホブィチ",
+    "reading": "dorohobichi",
+    "code": "cr-kata4-1371",
+    "index": 1371
+  },
+  {
+    "surface": "チャンピオンベルト",
+    "reading": "championbelt",
+    "code": "cr-kata4-1372",
+    "index": 1372
+  },
+  {
+    "surface": "タロイモ",
+    "reading": "taroimo",
+    "code": "cr-kata4-1373",
+    "index": 1373
+  },
+  {
+    "surface": "ドロップゴール",
+    "reading": "dropgoal",
+    "code": "cr-kata4-1374",
+    "index": 1374
+  },
+  {
+    "surface": "デセ",
+    "reading": "desse",
+    "code": "cr-kata4-1375",
+    "index": 1375
+  },
+  {
+    "surface": "トリーア",
+    "reading": "toriia",
+    "code": "cr-kata4-1376",
+    "index": 1376
+  },
+  {
+    "surface": "チンキ",
+    "reading": "tincture",
+    "code": "cr-kata4-1377",
+    "index": 1377
+  },
+  {
+    "surface": "デュエル",
+    "reading": "dyueru",
+    "code": "cr-kata4-1378",
+    "index": 1378
+  },
+  {
+    "surface": "トクトク",
+    "reading": "tokutoku",
+    "code": "cr-kata4-1379",
+    "index": 1379
+  },
+  {
+    "surface": "タタキ",
+    "reading": "tataki",
+    "code": "cr-kata4-1380",
+    "index": 1380
+  },
+  {
+    "surface": "ドルユーザンス",
+    "reading": "dollarusance",
+    "code": "cr-kata4-1381",
+    "index": 1381
+  },
+  {
+    "surface": "デダム",
+    "reading": "desdam",
+    "code": "cr-kata4-1382",
+    "index": 1382
+  },
+  {
+    "surface": "チカチカ",
+    "reading": "chikachika",
+    "code": "cr-kata4-1383",
+    "index": 1383
+  },
+  {
+    "surface": "タイセイヨウセミクジラ",
+    "reading": "taiseiyousemikujira",
+    "code": "cr-kata4-1384",
+    "index": 1384
+  },
+  {
+    "surface": "トイレットペーパー",
+    "reading": "toiletpaper",
+    "code": "cr-kata4-1385",
+    "index": 1385
+  },
+  {
+    "surface": "テベン・メアンチェ",
+    "reading": "tebenmeanche",
+    "code": "cr-kata4-1386",
+    "index": 1386
+  },
+  {
+    "surface": "タカノツメ",
+    "reading": "takanotsume",
+    "code": "cr-kata4-1387",
+    "index": 1387
+  },
+  {
+    "surface": "チーフエグゼクティブ",
+    "reading": "chiefexecutive",
+    "code": "cr-kata4-1388",
+    "index": 1388
+  },
+  {
+    "surface": "チャタテムシ",
+    "reading": "chatatemushi",
+    "code": "cr-kata4-1389",
+    "index": 1389
+  },
+  {
+    "surface": "タエ",
+    "reading": "tae",
+    "code": "cr-kata4-1390",
+    "index": 1390
+  },
+  {
+    "surface": "ツーピース",
+    "reading": "twopiece",
+    "code": "cr-kata4-1391",
+    "index": 1391
+  },
+  {
+    "surface": "トウバイ",
+    "reading": "touby",
+    "code": "cr-kata4-1392",
+    "index": 1392
+  },
+  {
+    "surface": "ツイル",
+    "reading": "twill",
+    "code": "cr-kata4-1393",
+    "index": 1393
+  },
+  {
+    "surface": "トラウザーズ",
+    "reading": "trousers",
+    "code": "cr-kata4-1394",
+    "index": 1394
+  },
+  {
+    "surface": "テコンド",
+    "reading": "tekondo",
+    "code": "cr-kata4-1395",
+    "index": 1395
+  },
+  {
+    "surface": "ダイビングキャッチ",
+    "reading": "divingcatch",
+    "code": "cr-kata4-1396",
+    "index": 1396
+  },
+  {
+    "surface": "ツメガエル",
+    "reading": "tsumegaeru",
+    "code": "cr-kata4-1397",
+    "index": 1397
+  },
+  {
+    "surface": "ツートンドクロミス",
+    "reading": "twotondoclosmistake",
+    "code": "cr-kata4-1398",
+    "index": 1398
+  },
+  {
+    "surface": "ディビジョン",
+    "reading": "division",
+    "code": "cr-kata4-1399",
+    "index": 1399
+  },
+  {
+    "surface": "ダンプカー",
+    "reading": "dumpcar",
+    "code": "cr-kata4-1400",
+    "index": 1400
+  },
+  {
+    "surface": "デッドライン",
+    "reading": "deadline",
+    "code": "cr-kata4-1401",
+    "index": 1401
+  },
+  {
+    "surface": "チェイサー",
+    "reading": "chaser",
+    "code": "cr-kata4-1402",
+    "index": 1402
+  },
+  {
+    "surface": "チン",
+    "reading": "chin",
+    "code": "cr-kata4-1403",
+    "index": 1403
+  },
+  {
+    "surface": "デレギュレーション",
+    "reading": "deregulation",
+    "code": "cr-kata4-1404",
+    "index": 1404
+  },
+  {
+    "surface": "トレント",
+    "reading": "torrent",
+    "code": "cr-kata4-1405",
+    "index": 1405
+  },
+  {
+    "surface": "デフォルトゲートウエー",
+    "reading": "defaultgateway",
+    "code": "cr-kata4-1406",
+    "index": 1406
+  },
+  {
+    "surface": "ドアマット",
+    "reading": "doormat",
+    "code": "cr-kata4-1407",
+    "index": 1407
+  },
+  {
+    "surface": "ドライブウェイ",
+    "reading": "driveway",
+    "code": "cr-kata4-1408",
+    "index": 1408
+  },
+  {
+    "surface": "チャラテナンゴ",
+    "reading": "charatenango",
+    "code": "cr-kata4-1409",
+    "index": 1409
+  },
+  {
+    "surface": "トゲチョウチョウウオ",
+    "reading": "togechouchouuo",
+    "code": "cr-kata4-1410",
+    "index": 1410
+  },
+  {
+    "surface": "チンタラ",
+    "reading": "chintara",
+    "code": "cr-kata4-1411",
+    "index": 1411
+  },
+  {
+    "surface": "ドライクリーニング",
+    "reading": "drycleaning",
+    "code": "cr-kata4-1412",
+    "index": 1412
+  },
+  {
+    "surface": "ドゥーイットユアセルフ",
+    "reading": "duuittoyuaserufu",
+    "code": "cr-kata4-1413",
+    "index": 1413
+  },
+  {
+    "surface": "ディレッタンティズム",
+    "reading": "dilettantism",
+    "code": "cr-kata4-1414",
+    "index": 1414
+  },
+  {
+    "surface": "チョイス",
+    "reading": "choice",
+    "code": "cr-kata4-1415",
+    "index": 1415
+  },
+  {
+    "surface": "ツケ",
+    "reading": "tsuke",
+    "code": "cr-kata4-1416",
+    "index": 1416
+  },
+  {
+    "surface": "ディファクトスタンダード",
+    "reading": "difakutosutandaado",
+    "code": "cr-kata4-1417",
+    "index": 1417
+  },
+  {
+    "surface": "タンガ",
+    "reading": "tanga",
+    "code": "cr-kata4-1418",
+    "index": 1418
+  },
+  {
+    "surface": "テリヤキ",
+    "reading": "teriyaki",
+    "code": "cr-kata4-1419",
+    "index": 1419
+  },
+  {
+    "surface": "ダイナミックリンクライブラリ",
+    "reading": "dynamicrinklibrary",
+    "code": "cr-kata4-1420",
+    "index": 1420
+  },
+  {
+    "surface": "ダームスタチウム",
+    "reading": "daamusutachiumu",
+    "code": "cr-kata4-1421",
+    "index": 1421
+  },
+  {
+    "surface": "タクティック",
+    "reading": "tactics",
+    "code": "cr-kata4-1422",
+    "index": 1422
+  },
+  {
+    "surface": "テックス",
+    "reading": "textile",
+    "code": "cr-kata4-1423",
+    "index": 1423
+  },
+  {
+    "surface": "ドス",
+    "reading": "dosu",
+    "code": "cr-kata4-1424",
+    "index": 1424
+  },
+  {
+    "surface": "トレンチコート",
+    "reading": "trenchcoat",
+    "code": "cr-kata4-1425",
+    "index": 1425
+  },
+  {
+    "surface": "タルトゥ",
+    "reading": "tarte",
+    "code": "cr-kata4-1426",
+    "index": 1426
+  },
+  {
+    "surface": "タンジェント",
+    "reading": "tangent",
+    "code": "cr-kata4-1427",
+    "index": 1427
+  },
+  {
+    "surface": "トマスビル",
+    "reading": "thomasbuilding",
+    "code": "cr-kata4-1428",
+    "index": 1428
+  },
+  {
+    "surface": "タカジアスターゼ",
+    "reading": "diastase",
+    "code": "cr-kata4-1429",
+    "index": 1429
+  },
+  {
+    "surface": "ドリル",
+    "reading": "drill",
+    "code": "cr-kata4-1430",
+    "index": 1430
+  },
+  {
+    "surface": "ドンガルガー",
+    "reading": "dongarugaa",
+    "code": "cr-kata4-1431",
+    "index": 1431
+  },
+  {
+    "surface": "テレホート",
+    "reading": "terehooto",
+    "code": "cr-kata4-1432",
+    "index": 1432
+  },
+  {
+    "surface": "デバリュエーション",
+    "reading": "devaluation",
+    "code": "cr-kata4-1433",
+    "index": 1433
+  },
+  {
+    "surface": "タイラギ",
+    "reading": "tairagi",
+    "code": "cr-kata4-1434",
+    "index": 1434
+  },
+  {
+    "surface": "タコス",
+    "reading": "tacos",
+    "code": "cr-kata4-1435",
+    "index": 1435
+  },
+  {
+    "surface": "テントウムシダマシ",
+    "reading": "tentoumushidamashi",
+    "code": "cr-kata4-1436",
+    "index": 1436
+  },
+  {
+    "surface": "ディコーダー",
+    "reading": "decoder",
+    "code": "cr-kata4-1437",
+    "index": 1437
+  },
+  {
+    "surface": "ドリッパー",
+    "reading": "dorippaa",
+    "code": "cr-kata4-1438",
+    "index": 1438
+  },
+  {
+    "surface": "ダブルトーン",
+    "reading": "doubletone",
+    "code": "cr-kata4-1439",
+    "index": 1439
+  },
+  {
+    "surface": "タルスス",
+    "reading": "tarususu",
+    "code": "cr-kata4-1440",
+    "index": 1440
+  },
+  {
+    "surface": "トリマー",
+    "reading": "trimmer",
+    "code": "cr-kata4-1441",
+    "index": 1441
+  },
+  {
+    "surface": "ドライブレター",
+    "reading": "driveletter",
+    "code": "cr-kata4-1442",
+    "index": 1442
+  },
+  {
+    "surface": "タカキビ",
+    "reading": "takakibi",
+    "code": "cr-kata4-1443",
+    "index": 1443
+  },
+  {
+    "surface": "デービー",
+    "reading": "deebii",
+    "code": "cr-kata4-1444",
+    "index": 1444
+  },
+  {
+    "surface": "ドゥーダーシュタット",
+    "reading": "duudaashutatto",
+    "code": "cr-kata4-1445",
+    "index": 1445
+  },
+  {
+    "surface": "チンタ",
+    "reading": "chinta",
+    "code": "cr-kata4-1446",
+    "index": 1446
+  },
+  {
+    "surface": "テスココ",
+    "reading": "tesukoko",
+    "code": "cr-kata4-1447",
+    "index": 1447
+  },
+  {
+    "surface": "ドバ",
+    "reading": "doba",
+    "code": "cr-kata4-1448",
+    "index": 1448
+  },
+  {
+    "surface": "ダサメン",
+    "reading": "dasamen",
+    "code": "cr-kata4-1449",
+    "index": 1449
+  },
+  {
+    "surface": "ドゥアラ",
+    "reading": "duara",
+    "code": "cr-kata4-1450",
+    "index": 1450
+  },
+  {
+    "surface": "ディキシーランド",
+    "reading": "dixieland",
+    "code": "cr-kata4-1451",
+    "index": 1451
+  },
+  {
+    "surface": "テープライブラリー",
+    "reading": "tapelibrary",
+    "code": "cr-kata4-1452",
+    "index": 1452
+  },
+  {
+    "surface": "ドニプロペトロウシク",
+    "reading": "donipuropetoroushiku",
+    "code": "cr-kata4-1453",
+    "index": 1453
+  },
+  {
+    "surface": "ティーンエイジャー",
+    "reading": "teenager",
+    "code": "cr-kata4-1454",
+    "index": 1454
+  },
+  {
+    "surface": "ドラヤキ",
+    "reading": "dorayaki",
+    "code": "cr-kata4-1455",
+    "index": 1455
+  },
+  {
+    "surface": "タグラム",
+    "reading": "taglamb",
+    "code": "cr-kata4-1456",
+    "index": 1456
+  },
+  {
+    "surface": "タイムセール",
+    "reading": "timesale",
+    "code": "cr-kata4-1457",
+    "index": 1457
+  },
+  {
+    "surface": "ツミ",
+    "reading": "tsumi",
+    "code": "cr-kata4-1458",
+    "index": 1458
+  },
+  {
+    "surface": "ドレッジャー",
+    "reading": "dorejjaa",
+    "code": "cr-kata4-1459",
+    "index": 1459
+  },
+  {
+    "surface": "ツノ",
+    "reading": "tsuno",
+    "code": "cr-kata4-1460",
+    "index": 1460
+  },
+  {
+    "surface": "テンパー",
+    "reading": "tenpaa",
+    "code": "cr-kata4-1461",
+    "index": 1461
+  },
+  {
+    "surface": "ドモジェドヴォ",
+    "reading": "domojedovo",
+    "code": "cr-kata4-1462",
+    "index": 1462
+  },
+  {
+    "surface": "チェーチナ",
+    "reading": "cheechina",
+    "code": "cr-kata4-1463",
+    "index": 1463
+  },
+  {
+    "surface": "チョークストライプ",
+    "reading": "chokestripe",
+    "code": "cr-kata4-1464",
+    "index": 1464
+  },
+  {
+    "surface": "トラケパケ",
+    "reading": "torakepake",
+    "code": "cr-kata4-1465",
+    "index": 1465
+  },
+  {
+    "surface": "チノ",
+    "reading": "chino",
+    "code": "cr-kata4-1466",
+    "index": 1466
+  },
+  {
+    "surface": "ダラー",
+    "reading": "dollar",
+    "code": "cr-kata4-1467",
+    "index": 1467
+  },
+  {
+    "surface": "トラクト",
+    "reading": "tract",
+    "code": "cr-kata4-1468",
+    "index": 1468
+  },
+  {
+    "surface": "デマンド",
+    "reading": "demand",
+    "code": "cr-kata4-1469",
+    "index": 1469
+  },
+  {
+    "surface": "ダイヤル",
+    "reading": "dial",
+    "code": "cr-kata4-1470",
+    "index": 1470
+  },
+  {
+    "surface": "タラベラ・デ・ラ・レイナ",
+    "reading": "taraberadesrareyna",
+    "code": "cr-kata4-1471",
+    "index": 1471
+  },
+  {
+    "surface": "トピカ",
+    "reading": "topica",
+    "code": "cr-kata4-1472",
+    "index": 1472
+  },
+  {
+    "surface": "チャンクル",
+    "reading": "channelkuru",
+    "code": "cr-kata4-1473",
+    "index": 1473
+  },
+  {
+    "surface": "ドナウエッシンゲン",
+    "reading": "donaueschingen",
+    "code": "cr-kata4-1474",
+    "index": 1474
+  },
+  {
+    "surface": "チャンピオンシップ",
+    "reading": "championship",
+    "code": "cr-kata4-1475",
+    "index": 1475
+  },
+  {
+    "surface": "ディスコグラフィー",
+    "reading": "discography",
+    "code": "cr-kata4-1476",
+    "index": 1476
+  },
+  {
+    "surface": "チードル・ヒューム",
+    "reading": "chiidollarhume",
+    "code": "cr-kata4-1477",
+    "index": 1477
+  },
+  {
+    "surface": "チャンネル",
+    "reading": "channel",
+    "code": "cr-kata4-1478",
+    "index": 1478
+  },
+  {
+    "surface": "テキス",
+    "reading": "teakiss",
+    "code": "cr-kata4-1479",
+    "index": 1479
+  },
+  {
+    "surface": "ダイナリ",
+    "reading": "dainari",
+    "code": "cr-kata4-1480",
+    "index": 1480
+  },
+  {
+    "surface": "ティッシュー",
+    "reading": "tissue",
+    "code": "cr-kata4-1481",
+    "index": 1481
+  },
+  {
+    "surface": "デバル",
+    "reading": "desbaru",
+    "code": "cr-kata4-1482",
+    "index": 1482
+  }
+]

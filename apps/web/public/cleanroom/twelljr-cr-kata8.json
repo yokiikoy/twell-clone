@@ -1,0 +1,7460 @@
+[
+  {
+    "surface": "リネージ",
+    "reading": "lineage",
+    "code": "cr-kata8-0",
+    "index": 0
+  },
+  {
+    "surface": "リゾルバー",
+    "reading": "resolver",
+    "code": "cr-kata8-1",
+    "index": 1
+  },
+  {
+    "surface": "リパーゼ",
+    "reading": "lipase",
+    "code": "cr-kata8-2",
+    "index": 2
+  },
+  {
+    "surface": "レシタティーブ",
+    "reading": "recitativo",
+    "code": "cr-kata8-3",
+    "index": 3
+  },
+  {
+    "surface": "リューマチ",
+    "reading": "rheumatism",
+    "code": "cr-kata8-4",
+    "index": 4
+  },
+  {
+    "surface": "ランダムアクセスメモリ",
+    "reading": "randomaccessmemory",
+    "code": "cr-kata8-5",
+    "index": 5
+  },
+  {
+    "surface": "ランナウェー",
+    "reading": "runnow",
+    "code": "cr-kata8-6",
+    "index": 6
+  },
+  {
+    "surface": "ルワ",
+    "reading": "ruwa",
+    "code": "cr-kata8-7",
+    "index": 7
+  },
+  {
+    "surface": "ロジスティクス",
+    "reading": "logistic",
+    "code": "cr-kata8-8",
+    "index": 8
+  },
+  {
+    "surface": "ライム",
+    "reading": "lime",
+    "code": "cr-kata8-9",
+    "index": 9
+  },
+  {
+    "surface": "ロールプレイングゲーム",
+    "reading": "rollplayinggame",
+    "code": "cr-kata8-10",
+    "index": 10
+  },
+  {
+    "surface": "レーザー",
+    "reading": "laser",
+    "code": "cr-kata8-11",
+    "index": 11
+  },
+  {
+    "surface": "レンゲ",
+    "reading": "renge",
+    "code": "cr-kata8-12",
+    "index": 12
+  },
+  {
+    "surface": "ロイヤリテイ",
+    "reading": "roiyaritei",
+    "code": "cr-kata8-13",
+    "index": 13
+  },
+  {
+    "surface": "レガシー",
+    "reading": "legacy",
+    "code": "cr-kata8-14",
+    "index": 14
+  },
+  {
+    "surface": "ロミータ",
+    "reading": "romyta",
+    "code": "cr-kata8-15",
+    "index": 15
+  },
+  {
+    "surface": "ラチャブリー",
+    "reading": "rachabully",
+    "code": "cr-kata8-16",
+    "index": 16
+  },
+  {
+    "surface": "リミニ",
+    "reading": "rimini",
+    "code": "cr-kata8-17",
+    "index": 17
+  },
+  {
+    "surface": "レコーダ",
+    "reading": "recorder",
+    "code": "cr-kata8-18",
+    "index": 18
+  },
+  {
+    "surface": "リフレーン",
+    "reading": "refrain",
+    "code": "cr-kata8-19",
+    "index": 19
+  },
+  {
+    "surface": "レベレーション",
+    "reading": "reberation",
+    "code": "cr-kata8-20",
+    "index": 20
+  },
+  {
+    "surface": "レジェ",
+    "reading": "leger",
+    "code": "cr-kata8-21",
+    "index": 21
+  },
+  {
+    "surface": "ロルカ",
+    "reading": "lorca",
+    "code": "cr-kata8-22",
+    "index": 22
+  },
+  {
+    "surface": "ラッキョウ",
+    "reading": "rakkyou",
+    "code": "cr-kata8-23",
+    "index": 23
+  },
+  {
+    "surface": "リャマ",
+    "reading": "llama",
+    "code": "cr-kata8-24",
+    "index": 24
+  },
+  {
+    "surface": "ライナックス",
+    "reading": "rainakkusu",
+    "code": "cr-kata8-25",
+    "index": 25
+  },
+  {
+    "surface": "レフレックスカメラ",
+    "reading": "reflexcamera",
+    "code": "cr-kata8-26",
+    "index": 26
+  },
+  {
+    "surface": "ラブホテル",
+    "reading": "lovehotel",
+    "code": "cr-kata8-27",
+    "index": 27
+  },
+  {
+    "surface": "リノヴェーション",
+    "reading": "rinoveeshon",
+    "code": "cr-kata8-28",
+    "index": 28
+  },
+  {
+    "surface": "リヴォルノ",
+    "reading": "livorno",
+    "code": "cr-kata8-29",
+    "index": 29
+  },
+  {
+    "surface": "リーマー",
+    "reading": "reamer",
+    "code": "cr-kata8-30",
+    "index": 30
+  },
+  {
+    "surface": "リモートセンシング",
+    "reading": "remotesensing",
+    "code": "cr-kata8-31",
+    "index": 31
+  },
+  {
+    "surface": "レセプションルーム",
+    "reading": "receptionroom",
+    "code": "cr-kata8-32",
+    "index": 32
+  },
+  {
+    "surface": "レディーファースト",
+    "reading": "ladyfirst",
+    "code": "cr-kata8-33",
+    "index": 33
+  },
+  {
+    "surface": "ライシン",
+    "reading": "raishin",
+    "code": "cr-kata8-34",
+    "index": 34
+  },
+  {
+    "surface": "レスアンカー",
+    "reading": "lessanchor",
+    "code": "cr-kata8-35",
+    "index": 35
+  },
+  {
+    "surface": "ラクシャリー",
+    "reading": "rakusharii",
+    "code": "cr-kata8-36",
+    "index": 36
+  },
+  {
+    "surface": "レストア",
+    "reading": "restore",
+    "code": "cr-kata8-37",
+    "index": 37
+  },
+  {
+    "surface": "ランドーヴァー",
+    "reading": "randoovaa",
+    "code": "cr-kata8-38",
+    "index": 38
+  },
+  {
+    "surface": "リンパ",
+    "reading": "lymph",
+    "code": "cr-kata8-39",
+    "index": 39
+  },
+  {
+    "surface": "ローキック",
+    "reading": "lowkick",
+    "code": "cr-kata8-40",
+    "index": 40
+  },
+  {
+    "surface": "リライアビリティー",
+    "reading": "reliability",
+    "code": "cr-kata8-41",
+    "index": 41
+  },
+  {
+    "surface": "レアー",
+    "reading": "reaa",
+    "code": "cr-kata8-42",
+    "index": 42
+  },
+  {
+    "surface": "ロケチ",
+    "reading": "locationchi",
+    "code": "cr-kata8-43",
+    "index": 43
+  },
+  {
+    "surface": "レイクスティーブンス",
+    "reading": "lakesutiibunsu",
+    "code": "cr-kata8-44",
+    "index": 44
+  },
+  {
+    "surface": "レコードホルダー",
+    "reading": "recordholder",
+    "code": "cr-kata8-45",
+    "index": 45
+  },
+  {
+    "surface": "レギュラーポジション",
+    "reading": "regularposition",
+    "code": "cr-kata8-46",
+    "index": 46
+  },
+  {
+    "surface": "リゾート",
+    "reading": "resort",
+    "code": "cr-kata8-47",
+    "index": 47
+  },
+  {
+    "surface": "ロゴタイプ",
+    "reading": "logotype",
+    "code": "cr-kata8-48",
+    "index": 48
+  },
+  {
+    "surface": "ルーフガーデン",
+    "reading": "roofgarden",
+    "code": "cr-kata8-49",
+    "index": 49
+  },
+  {
+    "surface": "リェイダ",
+    "reading": "reida",
+    "code": "cr-kata8-50",
+    "index": 50
+  },
+  {
+    "surface": "ルブロンオオツチグモ",
+    "reading": "ruburonootsuchigumo",
+    "code": "cr-kata8-51",
+    "index": 51
+  },
+  {
+    "surface": "レスポンシビリティ",
+    "reading": "resuponshibiriti",
+    "code": "cr-kata8-52",
+    "index": 52
+  },
+  {
+    "surface": "レシテーション",
+    "reading": "recitation",
+    "code": "cr-kata8-53",
+    "index": 53
+  },
+  {
+    "surface": "ラ・カルロータ",
+    "reading": "rakaruroota",
+    "code": "cr-kata8-54",
+    "index": 54
+  },
+  {
+    "surface": "ラクトフラビン",
+    "reading": "lactoflavin",
+    "code": "cr-kata8-55",
+    "index": 55
+  },
+  {
+    "surface": "レイヤー",
+    "reading": "layer",
+    "code": "cr-kata8-56",
+    "index": 56
+  },
+  {
+    "surface": "リント",
+    "reading": "lint",
+    "code": "cr-kata8-57",
+    "index": 57
+  },
+  {
+    "surface": "レイトレーシング",
+    "reading": "laytracing",
+    "code": "cr-kata8-58",
+    "index": 58
+  },
+  {
+    "surface": "レガッタ",
+    "reading": "regatta",
+    "code": "cr-kata8-59",
+    "index": 59
+  },
+  {
+    "surface": "リザードマン",
+    "reading": "lizardman",
+    "code": "cr-kata8-60",
+    "index": 60
+  },
+  {
+    "surface": "リュフィスク",
+    "reading": "ruefisk",
+    "code": "cr-kata8-61",
+    "index": 61
+  },
+  {
+    "surface": "ローデバイス",
+    "reading": "lowdevice",
+    "code": "cr-kata8-62",
+    "index": 62
+  },
+  {
+    "surface": "リバースプロキシ",
+    "reading": "reverseproxy",
+    "code": "cr-kata8-63",
+    "index": 63
+  },
+  {
+    "surface": "ラルナカ",
+    "reading": "rarunaka",
+    "code": "cr-kata8-64",
+    "index": 64
+  },
+  {
+    "surface": "リオン",
+    "reading": "rion",
+    "code": "cr-kata8-65",
+    "index": 65
+  },
+  {
+    "surface": "レイク・オスウィーゴ",
+    "reading": "lakeosuiigo",
+    "code": "cr-kata8-66",
+    "index": 66
+  },
+  {
+    "surface": "ラプソディ",
+    "reading": "rhapsody",
+    "code": "cr-kata8-67",
+    "index": 67
+  },
+  {
+    "surface": "リゼ",
+    "reading": "rize",
+    "code": "cr-kata8-68",
+    "index": 68
+  },
+  {
+    "surface": "ランゲル",
+    "reading": "rangeru",
+    "code": "cr-kata8-69",
+    "index": 69
+  },
+  {
+    "surface": "リトリーバー",
+    "reading": "retriever",
+    "code": "cr-kata8-70",
+    "index": 70
+  },
+  {
+    "surface": "リブニク",
+    "reading": "liveniku",
+    "code": "cr-kata8-71",
+    "index": 71
+  },
+  {
+    "surface": "ロハ",
+    "reading": "roha",
+    "code": "cr-kata8-72",
+    "index": 72
+  },
+  {
+    "surface": "レベリヨン",
+    "reading": "rebelyon",
+    "code": "cr-kata8-73",
+    "index": 73
+  },
+  {
+    "surface": "ロバート",
+    "reading": "robert",
+    "code": "cr-kata8-74",
+    "index": 74
+  },
+  {
+    "surface": "リソソーム",
+    "reading": "lysosome",
+    "code": "cr-kata8-75",
+    "index": 75
+  },
+  {
+    "surface": "ロックアウト",
+    "reading": "lockout",
+    "code": "cr-kata8-76",
+    "index": 76
+  },
+  {
+    "surface": "リフレックス",
+    "reading": "risfurekkusu",
+    "code": "cr-kata8-77",
+    "index": 77
+  },
+  {
+    "surface": "ラトランド",
+    "reading": "ratoland",
+    "code": "cr-kata8-78",
+    "index": 78
+  },
+  {
+    "surface": "リポステロイド",
+    "reading": "liposteroid",
+    "code": "cr-kata8-79",
+    "index": 79
+  },
+  {
+    "surface": "ランチョンマット",
+    "reading": "luncheonmat",
+    "code": "cr-kata8-80",
+    "index": 80
+  },
+  {
+    "surface": "レヴォルーション",
+    "reading": "revoruushon",
+    "code": "cr-kata8-81",
+    "index": 81
+  },
+  {
+    "surface": "レンヌ",
+    "reading": "rennes",
+    "code": "cr-kata8-82",
+    "index": 82
+  },
+  {
+    "surface": "ロイカー",
+    "reading": "roicar",
+    "code": "cr-kata8-83",
+    "index": 83
+  },
+  {
+    "surface": "リマインダ",
+    "reading": "rimainda",
+    "code": "cr-kata8-84",
+    "index": 84
+  },
+  {
+    "surface": "リーディング",
+    "reading": "leading",
+    "code": "cr-kata8-85",
+    "index": 85
+  },
+  {
+    "surface": "リハ",
+    "reading": "rehearsal",
+    "code": "cr-kata8-86",
+    "index": 86
+  },
+  {
+    "surface": "ロスト・ジェネレーション",
+    "reading": "lostgeneration",
+    "code": "cr-kata8-87",
+    "index": 87
+  },
+  {
+    "surface": "レッドシーゴートフィッシュ",
+    "reading": "redseagoatfish",
+    "code": "cr-kata8-88",
+    "index": 88
+  },
+  {
+    "surface": "レフェラルセンタ",
+    "reading": "referarusenta",
+    "code": "cr-kata8-89",
+    "index": 89
+  },
+  {
+    "surface": "ランドリ",
+    "reading": "rundori",
+    "code": "cr-kata8-90",
+    "index": 90
+  },
+  {
+    "surface": "リダ",
+    "reading": "rida",
+    "code": "cr-kata8-91",
+    "index": 91
+  },
+  {
+    "surface": "リスカ",
+    "reading": "risska",
+    "code": "cr-kata8-92",
+    "index": 92
+  },
+  {
+    "surface": "ロンジュモー",
+    "reading": "ronjumoo",
+    "code": "cr-kata8-93",
+    "index": 93
+  },
+  {
+    "surface": "リナロール",
+    "reading": "linalol",
+    "code": "cr-kata8-94",
+    "index": 94
+  },
+  {
+    "surface": "ロハス",
+    "reading": "rohasu",
+    "code": "cr-kata8-95",
+    "index": 95
+  },
+  {
+    "surface": "リンガラ",
+    "reading": "lingala",
+    "code": "cr-kata8-96",
+    "index": 96
+  },
+  {
+    "surface": "リッチフィールド",
+    "reading": "richfield",
+    "code": "cr-kata8-97",
+    "index": 97
+  },
+  {
+    "surface": "リザーブ",
+    "reading": "reserve",
+    "code": "cr-kata8-98",
+    "index": 98
+  },
+  {
+    "surface": "リンホカイン",
+    "reading": "lymphokine",
+    "code": "cr-kata8-99",
+    "index": 99
+  },
+  {
+    "surface": "ラリアート",
+    "reading": "larryart",
+    "code": "cr-kata8-100",
+    "index": 100
+  },
+  {
+    "surface": "レケナ",
+    "reading": "rekena",
+    "code": "cr-kata8-101",
+    "index": 101
+  },
+  {
+    "surface": "リコペン",
+    "reading": "lycopene",
+    "code": "cr-kata8-102",
+    "index": 102
+  },
+  {
+    "surface": "ロールキャベツ",
+    "reading": "rollcabbage",
+    "code": "cr-kata8-103",
+    "index": 103
+  },
+  {
+    "surface": "レバレッジ",
+    "reading": "leverage",
+    "code": "cr-kata8-104",
+    "index": 104
+  },
+  {
+    "surface": "ランダム・アクセス",
+    "reading": "randomaccess",
+    "code": "cr-kata8-105",
+    "index": 105
+  },
+  {
+    "surface": "リベッター",
+    "reading": "riveter",
+    "code": "cr-kata8-106",
+    "index": 106
+  },
+  {
+    "surface": "ランタイムライブラリ",
+    "reading": "runtimelibrary",
+    "code": "cr-kata8-107",
+    "index": 107
+  },
+  {
+    "surface": "リンデン",
+    "reading": "linden",
+    "code": "cr-kata8-108",
+    "index": 108
+  },
+  {
+    "surface": "レバノン",
+    "reading": "lebanon",
+    "code": "cr-kata8-109",
+    "index": 109
+  },
+  {
+    "surface": "ラバーブ",
+    "reading": "rabab",
+    "code": "cr-kata8-110",
+    "index": 110
+  },
+  {
+    "surface": "ラナウ",
+    "reading": "ranow",
+    "code": "cr-kata8-111",
+    "index": 111
+  },
+  {
+    "surface": "リンカーン",
+    "reading": "lincoln",
+    "code": "cr-kata8-112",
+    "index": 112
+  },
+  {
+    "surface": "リノリウム",
+    "reading": "linoleum",
+    "code": "cr-kata8-113",
+    "index": 113
+  },
+  {
+    "surface": "ロープレ",
+    "reading": "lowpre",
+    "code": "cr-kata8-114",
+    "index": 114
+  },
+  {
+    "surface": "レコーダー",
+    "reading": "recorder",
+    "code": "cr-kata8-115",
+    "index": 115
+  },
+  {
+    "surface": "リゴリズム",
+    "reading": "rigorism",
+    "code": "cr-kata8-116",
+    "index": 116
+  },
+  {
+    "surface": "リュッセルスハイム",
+    "reading": "ryusserusuhaimu",
+    "code": "cr-kata8-117",
+    "index": 117
+  },
+  {
+    "surface": "ルムニク・ヴルチャ",
+    "reading": "rumunikuvurucha",
+    "code": "cr-kata8-118",
+    "index": 118
+  },
+  {
+    "surface": "レジストレーション",
+    "reading": "resistration",
+    "code": "cr-kata8-119",
+    "index": 119
+  },
+  {
+    "surface": "レーダーガン",
+    "reading": "radargun",
+    "code": "cr-kata8-120",
+    "index": 120
+  },
+  {
+    "surface": "ライブラリ",
+    "reading": "library",
+    "code": "cr-kata8-121",
+    "index": 121
+  },
+  {
+    "surface": "レクエム",
+    "reading": "recreationemu",
+    "code": "cr-kata8-122",
+    "index": 122
+  },
+  {
+    "surface": "レクリェーション",
+    "reading": "recreation",
+    "code": "cr-kata8-123",
+    "index": 123
+  },
+  {
+    "surface": "ロベリア",
+    "reading": "lobelia",
+    "code": "cr-kata8-124",
+    "index": 124
+  },
+  {
+    "surface": "リハビリ",
+    "reading": "rehabilitation",
+    "code": "cr-kata8-125",
+    "index": 125
+  },
+  {
+    "surface": "レンジファインダー",
+    "reading": "rangefinder",
+    "code": "cr-kata8-126",
+    "index": 126
+  },
+  {
+    "surface": "ラジコンカー",
+    "reading": "rajikoncar",
+    "code": "cr-kata8-127",
+    "index": 127
+  },
+  {
+    "surface": "ラビ",
+    "reading": "rabbi",
+    "code": "cr-kata8-128",
+    "index": 128
+  },
+  {
+    "surface": "ロレイン",
+    "reading": "rorein",
+    "code": "cr-kata8-129",
+    "index": 129
+  },
+  {
+    "surface": "ロッカ・ディ・パーパ",
+    "reading": "rockadipaapa",
+    "code": "cr-kata8-130",
+    "index": 130
+  },
+  {
+    "surface": "ロンダリング",
+    "reading": "laundering",
+    "code": "cr-kata8-131",
+    "index": 131
+  },
+  {
+    "surface": "ラプラタ",
+    "reading": "rapurata",
+    "code": "cr-kata8-132",
+    "index": 132
+  },
+  {
+    "surface": "ライトモチーフ",
+    "reading": "leitmotiv",
+    "code": "cr-kata8-133",
+    "index": 133
+  },
+  {
+    "surface": "ラスクルーセス",
+    "reading": "lascruces",
+    "code": "cr-kata8-134",
+    "index": 134
+  },
+  {
+    "surface": "リアルタイムカレンダ",
+    "reading": "riarutaimukarenda",
+    "code": "cr-kata8-135",
+    "index": 135
+  },
+  {
+    "surface": "レフィル",
+    "reading": "refill",
+    "code": "cr-kata8-136",
+    "index": 136
+  },
+  {
+    "surface": "ラチチュード",
+    "reading": "latitude",
+    "code": "cr-kata8-137",
+    "index": 137
+  },
+  {
+    "surface": "ラムレーズン",
+    "reading": "lambraisin",
+    "code": "cr-kata8-138",
+    "index": 138
+  },
+  {
+    "surface": "ランドマーク",
+    "reading": "landmark",
+    "code": "cr-kata8-139",
+    "index": 139
+  },
+  {
+    "surface": "リアル",
+    "reading": "real",
+    "code": "cr-kata8-140",
+    "index": 140
+  },
+  {
+    "surface": "リンビアーテ",
+    "reading": "rinbiaate",
+    "code": "cr-kata8-141",
+    "index": 141
+  },
+  {
+    "surface": "ラヴァル",
+    "reading": "ravaru",
+    "code": "cr-kata8-142",
+    "index": 142
+  },
+  {
+    "surface": "リスク",
+    "reading": "risk",
+    "code": "cr-kata8-143",
+    "index": 143
+  },
+  {
+    "surface": "レクチャ",
+    "reading": "recreationcha",
+    "code": "cr-kata8-144",
+    "index": 144
+  },
+  {
+    "surface": "ローテク",
+    "reading": "lowtechnology",
+    "code": "cr-kata8-145",
+    "index": 145
+  },
+  {
+    "surface": "ライ",
+    "reading": "rai",
+    "code": "cr-kata8-146",
+    "index": 146
+  },
+  {
+    "surface": "ロカ",
+    "reading": "roka",
+    "code": "cr-kata8-147",
+    "index": 147
+  },
+  {
+    "surface": "レジスト",
+    "reading": "resist",
+    "code": "cr-kata8-148",
+    "index": 148
+  },
+  {
+    "surface": "リカバー",
+    "reading": "recover",
+    "code": "cr-kata8-149",
+    "index": 149
+  },
+  {
+    "surface": "ラクナ",
+    "reading": "lacuna",
+    "code": "cr-kata8-150",
+    "index": 150
+  },
+  {
+    "surface": "ランタニド",
+    "reading": "lanthanide",
+    "code": "cr-kata8-151",
+    "index": 151
+  },
+  {
+    "surface": "ローション",
+    "reading": "lotion",
+    "code": "cr-kata8-152",
+    "index": 152
+  },
+  {
+    "surface": "レール",
+    "reading": "rail",
+    "code": "cr-kata8-153",
+    "index": 153
+  },
+  {
+    "surface": "ロナール",
+    "reading": "ronaaru",
+    "code": "cr-kata8-154",
+    "index": 154
+  },
+  {
+    "surface": "リバータリアニズム",
+    "reading": "ribaatarianizumu",
+    "code": "cr-kata8-155",
+    "index": 155
+  },
+  {
+    "surface": "リザレクション",
+    "reading": "rizarekushon",
+    "code": "cr-kata8-156",
+    "index": 156
+  },
+  {
+    "surface": "ライソゾーム",
+    "reading": "lysosome",
+    "code": "cr-kata8-157",
+    "index": 157
+  },
+  {
+    "surface": "リセール",
+    "reading": "resale",
+    "code": "cr-kata8-158",
+    "index": 158
+  },
+  {
+    "surface": "ラオ",
+    "reading": "rao",
+    "code": "cr-kata8-159",
+    "index": 159
+  },
+  {
+    "surface": "ルビ",
+    "reading": "ruby",
+    "code": "cr-kata8-160",
+    "index": 160
+  },
+  {
+    "surface": "ロイ",
+    "reading": "roi",
+    "code": "cr-kata8-161",
+    "index": 161
+  },
+  {
+    "surface": "ロース",
+    "reading": "roast",
+    "code": "cr-kata8-162",
+    "index": 162
+  },
+  {
+    "surface": "レンズ",
+    "reading": "lens",
+    "code": "cr-kata8-163",
+    "index": 163
+  },
+  {
+    "surface": "リーム",
+    "reading": "ream",
+    "code": "cr-kata8-164",
+    "index": 164
+  },
+  {
+    "surface": "ラティフンディウム",
+    "reading": "latifundium",
+    "code": "cr-kata8-165",
+    "index": 165
+  },
+  {
+    "surface": "ロープ",
+    "reading": "rope",
+    "code": "cr-kata8-166",
+    "index": 166
+  },
+  {
+    "surface": "ロードアイランド",
+    "reading": "roadisland",
+    "code": "cr-kata8-167",
+    "index": 167
+  },
+  {
+    "surface": "レンチ",
+    "reading": "wrench",
+    "code": "cr-kata8-168",
+    "index": 168
+  },
+  {
+    "surface": "リーズ・サミット",
+    "reading": "lizsummit",
+    "code": "cr-kata8-169",
+    "index": 169
+  },
+  {
+    "surface": "ロハース",
+    "reading": "rohaasu",
+    "code": "cr-kata8-170",
+    "index": 170
+  },
+  {
+    "surface": "リタリン",
+    "reading": "ritalin",
+    "code": "cr-kata8-171",
+    "index": 171
+  },
+  {
+    "surface": "リュック",
+    "reading": "rucksack",
+    "code": "cr-kata8-172",
+    "index": 172
+  },
+  {
+    "surface": "リアドライブ",
+    "reading": "reardrive",
+    "code": "cr-kata8-173",
+    "index": 173
+  },
+  {
+    "surface": "ロガー",
+    "reading": "rogaa",
+    "code": "cr-kata8-174",
+    "index": 174
+  },
+  {
+    "surface": "ランエミュレーション",
+    "reading": "runemulation",
+    "code": "cr-kata8-175",
+    "index": 175
+  },
+  {
+    "surface": "リス",
+    "reading": "risu",
+    "code": "cr-kata8-176",
+    "index": 176
+  },
+  {
+    "surface": "ラバク",
+    "reading": "rabaku",
+    "code": "cr-kata8-177",
+    "index": 177
+  },
+  {
+    "surface": "リソグラフィー",
+    "reading": "lithography",
+    "code": "cr-kata8-178",
+    "index": 178
+  },
+  {
+    "surface": "レックリングハウゼン",
+    "reading": "rekkuringuhauzen",
+    "code": "cr-kata8-179",
+    "index": 179
+  },
+  {
+    "surface": "ロジカル",
+    "reading": "logical",
+    "code": "cr-kata8-180",
+    "index": 180
+  },
+  {
+    "surface": "ロールバック",
+    "reading": "rollback",
+    "code": "cr-kata8-181",
+    "index": 181
+  },
+  {
+    "surface": "リバリュエーション",
+    "reading": "revaluation",
+    "code": "cr-kata8-182",
+    "index": 182
+  },
+  {
+    "surface": "レゾルシノール",
+    "reading": "resorcinol",
+    "code": "cr-kata8-183",
+    "index": 183
+  },
+  {
+    "surface": "レーズン",
+    "reading": "raisin",
+    "code": "cr-kata8-184",
+    "index": 184
+  },
+  {
+    "surface": "ラゴス",
+    "reading": "ragosu",
+    "code": "cr-kata8-185",
+    "index": 185
+  },
+  {
+    "surface": "ラッツェン",
+    "reading": "rattsen",
+    "code": "cr-kata8-186",
+    "index": 186
+  },
+  {
+    "surface": "リベラ",
+    "reading": "rivera",
+    "code": "cr-kata8-187",
+    "index": 187
+  },
+  {
+    "surface": "ロードローラー",
+    "reading": "roadroller",
+    "code": "cr-kata8-188",
+    "index": 188
+  },
+  {
+    "surface": "ローテ",
+    "reading": "rotation",
+    "code": "cr-kata8-189",
+    "index": 189
+  },
+  {
+    "surface": "リギルケンタウルス",
+    "reading": "rigirukentaurusu",
+    "code": "cr-kata8-190",
+    "index": 190
+  },
+  {
+    "surface": "レンジ",
+    "reading": "range",
+    "code": "cr-kata8-191",
+    "index": 191
+  },
+  {
+    "surface": "リプライ",
+    "reading": "risply",
+    "code": "cr-kata8-192",
+    "index": 192
+  },
+  {
+    "surface": "ルビー",
+    "reading": "rubii",
+    "code": "cr-kata8-193",
+    "index": 193
+  },
+  {
+    "surface": "リスクマネージメント",
+    "reading": "riskmanagement",
+    "code": "cr-kata8-194",
+    "index": 194
+  },
+  {
+    "surface": "レンベルトゥフ",
+    "reading": "renberutufu",
+    "code": "cr-kata8-195",
+    "index": 195
+  },
+  {
+    "surface": "リブ",
+    "reading": "live",
+    "code": "cr-kata8-196",
+    "index": 196
+  },
+  {
+    "surface": "ラシュト",
+    "reading": "rashuto",
+    "code": "cr-kata8-197",
+    "index": 197
+  },
+  {
+    "surface": "リヤル",
+    "reading": "rearle",
+    "code": "cr-kata8-198",
+    "index": 198
+  },
+  {
+    "surface": "リヴァプール",
+    "reading": "liverpool",
+    "code": "cr-kata8-199",
+    "index": 199
+  },
+  {
+    "surface": "ロッソ",
+    "reading": "rosso",
+    "code": "cr-kata8-200",
+    "index": 200
+  },
+  {
+    "surface": "リコリス",
+    "reading": "licorice",
+    "code": "cr-kata8-201",
+    "index": 201
+  },
+  {
+    "surface": "レラキシン",
+    "reading": "rerakishin",
+    "code": "cr-kata8-202",
+    "index": 202
+  },
+  {
+    "surface": "リスボア",
+    "reading": "lisboa",
+    "code": "cr-kata8-203",
+    "index": 203
+  },
+  {
+    "surface": "レーディス",
+    "reading": "reethis",
+    "code": "cr-kata8-204",
+    "index": 204
+  },
+  {
+    "surface": "レクチャラー",
+    "reading": "rekucharaa",
+    "code": "cr-kata8-205",
+    "index": 205
+  },
+  {
+    "surface": "レイブ",
+    "reading": "rave",
+    "code": "cr-kata8-206",
+    "index": 206
+  },
+  {
+    "surface": "ラーガ",
+    "reading": "raga",
+    "code": "cr-kata8-207",
+    "index": 207
+  },
+  {
+    "surface": "ラピスラズリ",
+    "reading": "lapislazuli",
+    "code": "cr-kata8-208",
+    "index": 208
+  },
+  {
+    "surface": "ロブスタ",
+    "reading": "robusta",
+    "code": "cr-kata8-209",
+    "index": 209
+  },
+  {
+    "surface": "ロウバイ",
+    "reading": "lawby",
+    "code": "cr-kata8-210",
+    "index": 210
+  },
+  {
+    "surface": "リグロイン",
+    "reading": "ligroin",
+    "code": "cr-kata8-211",
+    "index": 211
+  },
+  {
+    "surface": "レイアップ",
+    "reading": "layup",
+    "code": "cr-kata8-212",
+    "index": 212
+  },
+  {
+    "surface": "リキュール",
+    "reading": "liqueur",
+    "code": "cr-kata8-213",
+    "index": 213
+  },
+  {
+    "surface": "ルーチン",
+    "reading": "routine",
+    "code": "cr-kata8-214",
+    "index": 214
+  },
+  {
+    "surface": "リンカーン・パーク",
+    "reading": "lincolnpark",
+    "code": "cr-kata8-215",
+    "index": 215
+  },
+  {
+    "surface": "ラフ",
+    "reading": "rough",
+    "code": "cr-kata8-216",
+    "index": 216
+  },
+  {
+    "surface": "リョクトウ",
+    "reading": "ryokutou",
+    "code": "cr-kata8-217",
+    "index": 217
+  },
+  {
+    "surface": "ロタ",
+    "reading": "rota",
+    "code": "cr-kata8-218",
+    "index": 218
+  },
+  {
+    "surface": "ラウドネス",
+    "reading": "loudness",
+    "code": "cr-kata8-219",
+    "index": 219
+  },
+  {
+    "surface": "ラバーソール",
+    "reading": "rubbersooru",
+    "code": "cr-kata8-220",
+    "index": 220
+  },
+  {
+    "surface": "レーザ",
+    "reading": "laser",
+    "code": "cr-kata8-221",
+    "index": 221
+  },
+  {
+    "surface": "レントン",
+    "reading": "renton",
+    "code": "cr-kata8-222",
+    "index": 222
+  },
+  {
+    "surface": "レア",
+    "reading": "rate",
+    "code": "cr-kata8-223",
+    "index": 223
+  },
+  {
+    "surface": "リーフィーシードラゴン",
+    "reading": "riifiishiidoragon",
+    "code": "cr-kata8-224",
+    "index": 224
+  },
+  {
+    "surface": "ロッカー",
+    "reading": "locker",
+    "code": "cr-kata8-225",
+    "index": 225
+  },
+  {
+    "surface": "ロケハン",
+    "reading": "rokehan",
+    "code": "cr-kata8-226",
+    "index": 226
+  },
+  {
+    "surface": "ロマンスカー",
+    "reading": "romancecar",
+    "code": "cr-kata8-227",
+    "index": 227
+  },
+  {
+    "surface": "リクライニングシート",
+    "reading": "recliningsheet",
+    "code": "cr-kata8-228",
+    "index": 228
+  },
+  {
+    "surface": "ラブハント",
+    "reading": "lovehunt",
+    "code": "cr-kata8-229",
+    "index": 229
+  },
+  {
+    "surface": "レッジョ・ディ・カラブリア",
+    "reading": "reggiodikaraburia",
+    "code": "cr-kata8-230",
+    "index": 230
+  },
+  {
+    "surface": "ラティテュード",
+    "reading": "ratityuudo",
+    "code": "cr-kata8-231",
+    "index": 231
+  },
+  {
+    "surface": "リャジスク",
+    "reading": "ryajisuku",
+    "code": "cr-kata8-232",
+    "index": 232
+  },
+  {
+    "surface": "ローブデコルテ",
+    "reading": "robedecorte",
+    "code": "cr-kata8-233",
+    "index": 233
+  },
+  {
+    "surface": "リゾルバ",
+    "reading": "resolver",
+    "code": "cr-kata8-234",
+    "index": 234
+  },
+  {
+    "surface": "ルンゲ",
+    "reading": "lunge",
+    "code": "cr-kata8-235",
+    "index": 235
+  },
+  {
+    "surface": "ランダムアクセスメモリー",
+    "reading": "randomaccessmemory",
+    "code": "cr-kata8-236",
+    "index": 236
+  },
+  {
+    "surface": "レギンス",
+    "reading": "leggings",
+    "code": "cr-kata8-237",
+    "index": 237
+  },
+  {
+    "surface": "ルーピン",
+    "reading": "lupine",
+    "code": "cr-kata8-238",
+    "index": 238
+  },
+  {
+    "surface": "レトルト",
+    "reading": "retort",
+    "code": "cr-kata8-239",
+    "index": 239
+  },
+  {
+    "surface": "ロゴス",
+    "reading": "logos",
+    "code": "cr-kata8-240",
+    "index": 240
+  },
+  {
+    "surface": "ローデータ",
+    "reading": "lowdata",
+    "code": "cr-kata8-241",
+    "index": 241
+  },
+  {
+    "surface": "ルチュル",
+    "reading": "ruchuru",
+    "code": "cr-kata8-242",
+    "index": 242
+  },
+  {
+    "surface": "リーボック",
+    "reading": "reebok",
+    "code": "cr-kata8-243",
+    "index": 243
+  },
+  {
+    "surface": "レギュラーチェーン",
+    "reading": "regularchain",
+    "code": "cr-kata8-244",
+    "index": 244
+  },
+  {
+    "surface": "リフレッシュメント",
+    "reading": "refreshment",
+    "code": "cr-kata8-245",
+    "index": 245
+  },
+  {
+    "surface": "リスニング",
+    "reading": "listening",
+    "code": "cr-kata8-246",
+    "index": 246
+  },
+  {
+    "surface": "ロリポップ",
+    "reading": "lollipop",
+    "code": "cr-kata8-247",
+    "index": 247
+  },
+  {
+    "surface": "ラブチャイルド",
+    "reading": "lovechild",
+    "code": "cr-kata8-248",
+    "index": 248
+  },
+  {
+    "surface": "レーニニズム",
+    "reading": "reeninizumu",
+    "code": "cr-kata8-249",
+    "index": 249
+  },
+  {
+    "surface": "ロールシャッハテスト",
+    "reading": "rorschachtest",
+    "code": "cr-kata8-250",
+    "index": 250
+  },
+  {
+    "surface": "ルーラ",
+    "reading": "ruura",
+    "code": "cr-kata8-251",
+    "index": 251
+  },
+  {
+    "surface": "ライアビリティー",
+    "reading": "liability",
+    "code": "cr-kata8-252",
+    "index": 252
+  },
+  {
+    "surface": "ライヒー",
+    "reading": "reich",
+    "code": "cr-kata8-253",
+    "index": 253
+  },
+  {
+    "surface": "レコーディング・スタジオ",
+    "reading": "recordingstudio",
+    "code": "cr-kata8-254",
+    "index": 254
+  },
+  {
+    "surface": "リニュアル",
+    "reading": "renewal",
+    "code": "cr-kata8-255",
+    "index": 255
+  },
+  {
+    "surface": "レイシガイ",
+    "reading": "reishiguy",
+    "code": "cr-kata8-256",
+    "index": 256
+  },
+  {
+    "surface": "ローツェ",
+    "reading": "rootse",
+    "code": "cr-kata8-257",
+    "index": 257
+  },
+  {
+    "surface": "リトルマガジン",
+    "reading": "littlemagazine",
+    "code": "cr-kata8-258",
+    "index": 258
+  },
+  {
+    "surface": "リョーマチ",
+    "reading": "rheumatism",
+    "code": "cr-kata8-259",
+    "index": 259
+  },
+  {
+    "surface": "ラボ",
+    "reading": "laboratory",
+    "code": "cr-kata8-260",
+    "index": 260
+  },
+  {
+    "surface": "リョクヨウカンラン",
+    "reading": "ryokuyoukanran",
+    "code": "cr-kata8-261",
+    "index": 261
+  },
+  {
+    "surface": "ラルゴ",
+    "reading": "largo",
+    "code": "cr-kata8-262",
+    "index": 262
+  },
+  {
+    "surface": "レスピレーター",
+    "reading": "respirator",
+    "code": "cr-kata8-263",
+    "index": 263
+  },
+  {
+    "surface": "ラング",
+    "reading": "langue",
+    "code": "cr-kata8-264",
+    "index": 264
+  },
+  {
+    "surface": "リミティッド",
+    "reading": "rimitiddo",
+    "code": "cr-kata8-265",
+    "index": 265
+  },
+  {
+    "surface": "レジスター",
+    "reading": "register",
+    "code": "cr-kata8-266",
+    "index": 266
+  },
+  {
+    "surface": "リューネブルク",
+    "reading": "ryuuneburuku",
+    "code": "cr-kata8-267",
+    "index": 267
+  },
+  {
+    "surface": "リヌクス",
+    "reading": "rinukusu",
+    "code": "cr-kata8-268",
+    "index": 268
+  },
+  {
+    "surface": "リモコン",
+    "reading": "rimokon",
+    "code": "cr-kata8-269",
+    "index": 269
+  },
+  {
+    "surface": "リプロダクション",
+    "reading": "reproduction",
+    "code": "cr-kata8-270",
+    "index": 270
+  },
+  {
+    "surface": "ルンペン",
+    "reading": "lumpen",
+    "code": "cr-kata8-271",
+    "index": 271
+  },
+  {
+    "surface": "レオ",
+    "reading": "leo",
+    "code": "cr-kata8-272",
+    "index": 272
+  },
+  {
+    "surface": "レシュノ",
+    "reading": "reshuno",
+    "code": "cr-kata8-273",
+    "index": 273
+  },
+  {
+    "surface": "ライトウイング",
+    "reading": "raitowing",
+    "code": "cr-kata8-274",
+    "index": 274
+  },
+  {
+    "surface": "ラボックスクロミス",
+    "reading": "rabokkusukuromisu",
+    "code": "cr-kata8-275",
+    "index": 275
+  },
+  {
+    "surface": "ロストジェネレーション",
+    "reading": "lostgeneration",
+    "code": "cr-kata8-276",
+    "index": 276
+  },
+  {
+    "surface": "ルーアン",
+    "reading": "ruuan",
+    "code": "cr-kata8-277",
+    "index": 277
+  },
+  {
+    "surface": "リンゴ",
+    "reading": "ringo",
+    "code": "cr-kata8-278",
+    "index": 278
+  },
+  {
+    "surface": "ルンゼ",
+    "reading": "runse",
+    "code": "cr-kata8-279",
+    "index": 279
+  },
+  {
+    "surface": "レイオフ",
+    "reading": "layoff",
+    "code": "cr-kata8-280",
+    "index": 280
+  },
+  {
+    "surface": "リタイア",
+    "reading": "retire",
+    "code": "cr-kata8-281",
+    "index": 281
+  },
+  {
+    "surface": "リホーミング",
+    "reading": "reforming",
+    "code": "cr-kata8-282",
+    "index": 282
+  },
+  {
+    "surface": "ルンギー",
+    "reading": "runghee",
+    "code": "cr-kata8-283",
+    "index": 283
+  },
+  {
+    "surface": "ライブレコーディング",
+    "reading": "liverecording",
+    "code": "cr-kata8-284",
+    "index": 284
+  },
+  {
+    "surface": "ルー",
+    "reading": "ruu",
+    "code": "cr-kata8-285",
+    "index": 285
+  },
+  {
+    "surface": "ラテン",
+    "reading": "latin",
+    "code": "cr-kata8-286",
+    "index": 286
+  },
+  {
+    "surface": "リゾートウエア",
+    "reading": "resortwear",
+    "code": "cr-kata8-287",
+    "index": 287
+  },
+  {
+    "surface": "リモートコン",
+    "reading": "remoteconcert",
+    "code": "cr-kata8-288",
+    "index": 288
+  },
+  {
+    "surface": "リカレント",
+    "reading": "recurrent",
+    "code": "cr-kata8-289",
+    "index": 289
+  },
+  {
+    "surface": "ルピア",
+    "reading": "rupiah",
+    "code": "cr-kata8-290",
+    "index": 290
+  },
+  {
+    "surface": "ラディカル",
+    "reading": "radical",
+    "code": "cr-kata8-291",
+    "index": 291
+  },
+  {
+    "surface": "ロード・アイランド",
+    "reading": "roadisland",
+    "code": "cr-kata8-292",
+    "index": 292
+  },
+  {
+    "surface": "レノア",
+    "reading": "lenore",
+    "code": "cr-kata8-293",
+    "index": 293
+  },
+  {
+    "surface": "ルーター",
+    "reading": "router",
+    "code": "cr-kata8-294",
+    "index": 294
+  },
+  {
+    "surface": "ルバーブ",
+    "reading": "rhubarb",
+    "code": "cr-kata8-295",
+    "index": 295
+  },
+  {
+    "surface": "ルゼ",
+    "reading": "leze",
+    "code": "cr-kata8-296",
+    "index": 296
+  },
+  {
+    "surface": "リスナ",
+    "reading": "listener",
+    "code": "cr-kata8-297",
+    "index": 297
+  },
+  {
+    "surface": "ラメンスコエ",
+    "reading": "ramensukoe",
+    "code": "cr-kata8-298",
+    "index": 298
+  },
+  {
+    "surface": "リアリティー",
+    "reading": "reality",
+    "code": "cr-kata8-299",
+    "index": 299
+  },
+  {
+    "surface": "リエヴァン",
+    "reading": "rievin",
+    "code": "cr-kata8-300",
+    "index": 300
+  },
+  {
+    "surface": "レコードプレーヤー",
+    "reading": "recordplayer",
+    "code": "cr-kata8-301",
+    "index": 301
+  },
+  {
+    "surface": "リベイラン・プレト",
+    "reading": "ribeiranpureto",
+    "code": "cr-kata8-302",
+    "index": 302
+  },
+  {
+    "surface": "リトアニア",
+    "reading": "lithuania",
+    "code": "cr-kata8-303",
+    "index": 303
+  },
+  {
+    "surface": "レコダイ",
+    "reading": "rekodai",
+    "code": "cr-kata8-304",
+    "index": 304
+  },
+  {
+    "surface": "リグレッションテスト",
+    "reading": "riguresshontesuto",
+    "code": "cr-kata8-305",
+    "index": 305
+  },
+  {
+    "surface": "リストラクチュアリング",
+    "reading": "restructuring",
+    "code": "cr-kata8-306",
+    "index": 306
+  },
+  {
+    "surface": "リュウズ",
+    "reading": "ryuuzu",
+    "code": "cr-kata8-307",
+    "index": 307
+  },
+  {
+    "surface": "ローカルニュース",
+    "reading": "localnews",
+    "code": "cr-kata8-308",
+    "index": 308
+  },
+  {
+    "surface": "リセラー",
+    "reading": "reseller",
+    "code": "cr-kata8-309",
+    "index": 309
+  },
+  {
+    "surface": "ローゼンダール",
+    "reading": "roozendaaru",
+    "code": "cr-kata8-310",
+    "index": 310
+  },
+  {
+    "surface": "ラヨン",
+    "reading": "rayon",
+    "code": "cr-kata8-311",
+    "index": 311
+  },
+  {
+    "surface": "リゾートウェア",
+    "reading": "resortwear",
+    "code": "cr-kata8-312",
+    "index": 312
+  },
+  {
+    "surface": "ロビン",
+    "reading": "robin",
+    "code": "cr-kata8-313",
+    "index": 313
+  },
+  {
+    "surface": "ルイボス",
+    "reading": "rooibos",
+    "code": "cr-kata8-314",
+    "index": 314
+  },
+  {
+    "surface": "レホボス",
+    "reading": "rehobosu",
+    "code": "cr-kata8-315",
+    "index": 315
+  },
+  {
+    "surface": "ルクセンブルク",
+    "reading": "luxembourg",
+    "code": "cr-kata8-316",
+    "index": 316
+  },
+  {
+    "surface": "ラム",
+    "reading": "lamb",
+    "code": "cr-kata8-317",
+    "index": 317
+  },
+  {
+    "surface": "ラフマニノフ",
+    "reading": "rakhmaninov",
+    "code": "cr-kata8-318",
+    "index": 318
+  },
+  {
+    "surface": "ラビット",
+    "reading": "rabbit",
+    "code": "cr-kata8-319",
+    "index": 319
+  },
+  {
+    "surface": "ラティーナ",
+    "reading": "ratiina",
+    "code": "cr-kata8-320",
+    "index": 320
+  },
+  {
+    "surface": "レフ",
+    "reading": "reflex",
+    "code": "cr-kata8-321",
+    "index": 321
+  },
+  {
+    "surface": "レス",
+    "reading": "response",
+    "code": "cr-kata8-322",
+    "index": 322
+  },
+  {
+    "surface": "ラブオブザグリーン",
+    "reading": "rabuobuzaguriin",
+    "code": "cr-kata8-323",
+    "index": 323
+  },
+  {
+    "surface": "ローマン",
+    "reading": "roman",
+    "code": "cr-kata8-324",
+    "index": 324
+  },
+  {
+    "surface": "ロゴ",
+    "reading": "logotype",
+    "code": "cr-kata8-325",
+    "index": 325
+  },
+  {
+    "surface": "リーダイヤル",
+    "reading": "leedial",
+    "code": "cr-kata8-326",
+    "index": 326
+  },
+  {
+    "surface": "ロマ",
+    "reading": "roma",
+    "code": "cr-kata8-327",
+    "index": 327
+  },
+  {
+    "surface": "レッドランズ",
+    "reading": "redrun",
+    "code": "cr-kata8-328",
+    "index": 328
+  },
+  {
+    "surface": "ロープウエイ",
+    "reading": "ropeway",
+    "code": "cr-kata8-329",
+    "index": 329
+  },
+  {
+    "surface": "リアルタイムシステム",
+    "reading": "realtimesystem",
+    "code": "cr-kata8-330",
+    "index": 330
+  },
+  {
+    "surface": "リア",
+    "reading": "rear",
+    "code": "cr-kata8-331",
+    "index": 331
+  },
+  {
+    "surface": "ロコジャ",
+    "reading": "rokoja",
+    "code": "cr-kata8-332",
+    "index": 332
+  },
+  {
+    "surface": "リファー",
+    "reading": "riff",
+    "code": "cr-kata8-333",
+    "index": 333
+  },
+  {
+    "surface": "レジョナリズム",
+    "reading": "rejonarizumu",
+    "code": "cr-kata8-334",
+    "index": 334
+  },
+  {
+    "surface": "ロワイヤン",
+    "reading": "rowaiyan",
+    "code": "cr-kata8-335",
+    "index": 335
+  },
+  {
+    "surface": "ラッサム",
+    "reading": "rassamu",
+    "code": "cr-kata8-336",
+    "index": 336
+  },
+  {
+    "surface": "ライター",
+    "reading": "writer",
+    "code": "cr-kata8-337",
+    "index": 337
+  },
+  {
+    "surface": "ローブ",
+    "reading": "robe",
+    "code": "cr-kata8-338",
+    "index": 338
+  },
+  {
+    "surface": "リハーサル",
+    "reading": "rehearsal",
+    "code": "cr-kata8-339",
+    "index": 339
+  },
+  {
+    "surface": "ログハウス",
+    "reading": "loghouse",
+    "code": "cr-kata8-340",
+    "index": 340
+  },
+  {
+    "surface": "ルセイファ",
+    "reading": "ruseifa",
+    "code": "cr-kata8-341",
+    "index": 341
+  },
+  {
+    "surface": "ルッカ",
+    "reading": "lucca",
+    "code": "cr-kata8-342",
+    "index": 342
+  },
+  {
+    "surface": "リベッテッドジョイント",
+    "reading": "ribetteddojointo",
+    "code": "cr-kata8-343",
+    "index": 343
+  },
+  {
+    "surface": "ラッセルクサリヘビ",
+    "reading": "rasserukusarihebi",
+    "code": "cr-kata8-344",
+    "index": 344
+  },
+  {
+    "surface": "リスクアセスメント",
+    "reading": "riskassessment",
+    "code": "cr-kata8-345",
+    "index": 345
+  },
+  {
+    "surface": "ルーム",
+    "reading": "room",
+    "code": "cr-kata8-346",
+    "index": 346
+  },
+  {
+    "surface": "リリーフピッチャー",
+    "reading": "reliefpitcher",
+    "code": "cr-kata8-347",
+    "index": 347
+  },
+  {
+    "surface": "レンスク",
+    "reading": "renschooling",
+    "code": "cr-kata8-348",
+    "index": 348
+  },
+  {
+    "surface": "ランス",
+    "reading": "reims",
+    "code": "cr-kata8-349",
+    "index": 349
+  },
+  {
+    "surface": "リンチ",
+    "reading": "lynch",
+    "code": "cr-kata8-350",
+    "index": 350
+  },
+  {
+    "surface": "ロバ",
+    "reading": "roba",
+    "code": "cr-kata8-351",
+    "index": 351
+  },
+  {
+    "surface": "ルッコラ",
+    "reading": "rucola",
+    "code": "cr-kata8-352",
+    "index": 352
+  },
+  {
+    "surface": "リスポンシビリティー",
+    "reading": "responsibility",
+    "code": "cr-kata8-353",
+    "index": 353
+  },
+  {
+    "surface": "レヴィ",
+    "reading": "levi",
+    "code": "cr-kata8-354",
+    "index": 354
+  },
+  {
+    "surface": "ロータリーポンプ",
+    "reading": "rotarypomp",
+    "code": "cr-kata8-355",
+    "index": 355
+  },
+  {
+    "surface": "ロジウム",
+    "reading": "rhodium",
+    "code": "cr-kata8-356",
+    "index": 356
+  },
+  {
+    "surface": "ロイヤルティ",
+    "reading": "royalty",
+    "code": "cr-kata8-357",
+    "index": 357
+  },
+  {
+    "surface": "レンタサイクル",
+    "reading": "rentasaikuru",
+    "code": "cr-kata8-358",
+    "index": 358
+  },
+  {
+    "surface": "ルートヴィッヒスハーフェン",
+    "reading": "ruutovihhisuhaafen",
+    "code": "cr-kata8-359",
+    "index": 359
+  },
+  {
+    "surface": "レスポンスピーディーユー",
+    "reading": "resuponsupiidiiyuu",
+    "code": "cr-kata8-360",
+    "index": 360
+  },
+  {
+    "surface": "リーゼントスタイル",
+    "reading": "regentstyle",
+    "code": "cr-kata8-361",
+    "index": 361
+  },
+  {
+    "surface": "ラス",
+    "reading": "lath",
+    "code": "cr-kata8-362",
+    "index": 362
+  },
+  {
+    "surface": "ロゼワイン",
+    "reading": "rozewine",
+    "code": "cr-kata8-363",
+    "index": 363
+  },
+  {
+    "surface": "ロフト",
+    "reading": "loft",
+    "code": "cr-kata8-364",
+    "index": 364
+  },
+  {
+    "surface": "リンボーダンス",
+    "reading": "limbodance",
+    "code": "cr-kata8-365",
+    "index": 365
+  },
+  {
+    "surface": "リパブリック",
+    "reading": "republic",
+    "code": "cr-kata8-366",
+    "index": 366
+  },
+  {
+    "surface": "リノール",
+    "reading": "linole",
+    "code": "cr-kata8-367",
+    "index": 367
+  },
+  {
+    "surface": "レフト",
+    "reading": "left",
+    "code": "cr-kata8-368",
+    "index": 368
+  },
+  {
+    "surface": "ロッキー・リヴァー",
+    "reading": "rokkiiriver",
+    "code": "cr-kata8-369",
+    "index": 369
+  },
+  {
+    "surface": "ライナー",
+    "reading": "liner",
+    "code": "cr-kata8-370",
+    "index": 370
+  },
+  {
+    "surface": "ロタンダ",
+    "reading": "rotanda",
+    "code": "cr-kata8-371",
+    "index": 371
+  },
+  {
+    "surface": "ライバル",
+    "reading": "rival",
+    "code": "cr-kata8-372",
+    "index": 372
+  },
+  {
+    "surface": "レスト",
+    "reading": "rest",
+    "code": "cr-kata8-373",
+    "index": 373
+  },
+  {
+    "surface": "レシピー",
+    "reading": "recipe",
+    "code": "cr-kata8-374",
+    "index": 374
+  },
+  {
+    "surface": "レジャーマーケット",
+    "reading": "leisuremarket",
+    "code": "cr-kata8-375",
+    "index": 375
+  },
+  {
+    "surface": "ラオチュー",
+    "reading": "raochuu",
+    "code": "cr-kata8-376",
+    "index": 376
+  },
+  {
+    "surface": "レカイ",
+    "reading": "rekai",
+    "code": "cr-kata8-377",
+    "index": 377
+  },
+  {
+    "surface": "ランゲージラボラトリー",
+    "reading": "languagelaboratory",
+    "code": "cr-kata8-378",
+    "index": 378
+  },
+  {
+    "surface": "リセ",
+    "reading": "lycee",
+    "code": "cr-kata8-379",
+    "index": 379
+  },
+  {
+    "surface": "ラヴァー",
+    "reading": "lover",
+    "code": "cr-kata8-380",
+    "index": 380
+  },
+  {
+    "surface": "ルイスビル",
+    "reading": "lewisbuilding",
+    "code": "cr-kata8-381",
+    "index": 381
+  },
+  {
+    "surface": "ランチャ",
+    "reading": "runcha",
+    "code": "cr-kata8-382",
+    "index": 382
+  },
+  {
+    "surface": "リカー",
+    "reading": "liquor",
+    "code": "cr-kata8-383",
+    "index": 383
+  },
+  {
+    "surface": "ラヴコメ",
+    "reading": "lovecomment",
+    "code": "cr-kata8-384",
+    "index": 384
+  },
+  {
+    "surface": "レーシング",
+    "reading": "reeshingu",
+    "code": "cr-kata8-385",
+    "index": 385
+  },
+  {
+    "surface": "ランカグア",
+    "reading": "rankagua",
+    "code": "cr-kata8-386",
+    "index": 386
+  },
+  {
+    "surface": "レドモンド",
+    "reading": "redomondo",
+    "code": "cr-kata8-387",
+    "index": 387
+  },
+  {
+    "surface": "ログ",
+    "reading": "log",
+    "code": "cr-kata8-388",
+    "index": 388
+  },
+  {
+    "surface": "ラカン",
+    "reading": "lacan",
+    "code": "cr-kata8-389",
+    "index": 389
+  },
+  {
+    "surface": "ラブストーリー",
+    "reading": "lovestory",
+    "code": "cr-kata8-390",
+    "index": 390
+  },
+  {
+    "surface": "リテール",
+    "reading": "retail",
+    "code": "cr-kata8-391",
+    "index": 391
+  },
+  {
+    "surface": "ラージボール",
+    "reading": "largeball",
+    "code": "cr-kata8-392",
+    "index": 392
+  },
+  {
+    "surface": "レンカク",
+    "reading": "renkaku",
+    "code": "cr-kata8-393",
+    "index": 393
+  },
+  {
+    "surface": "ルーキー",
+    "reading": "rookie",
+    "code": "cr-kata8-394",
+    "index": 394
+  },
+  {
+    "surface": "リスケジューリング",
+    "reading": "rescheduling",
+    "code": "cr-kata8-395",
+    "index": 395
+  },
+  {
+    "surface": "ロボット",
+    "reading": "robot",
+    "code": "cr-kata8-396",
+    "index": 396
+  },
+  {
+    "surface": "レギュラーガソリン",
+    "reading": "regulargasoline",
+    "code": "cr-kata8-397",
+    "index": 397
+  },
+  {
+    "surface": "ラーユ",
+    "reading": "raayu",
+    "code": "cr-kata8-398",
+    "index": 398
+  },
+  {
+    "surface": "ロールクラッシャー",
+    "reading": "rollcrusher",
+    "code": "cr-kata8-399",
+    "index": 399
+  },
+  {
+    "surface": "ライガー",
+    "reading": "liger",
+    "code": "cr-kata8-400",
+    "index": 400
+  },
+  {
+    "surface": "レーベンスフィロゾフィー",
+    "reading": "reebensufirozofii",
+    "code": "cr-kata8-401",
+    "index": 401
+  },
+  {
+    "surface": "レボルバ",
+    "reading": "reboruba",
+    "code": "cr-kata8-402",
+    "index": 402
+  },
+  {
+    "surface": "ラクタム",
+    "reading": "lactam",
+    "code": "cr-kata8-403",
+    "index": 403
+  },
+  {
+    "surface": "レンチャン",
+    "reading": "renchan",
+    "code": "cr-kata8-404",
+    "index": 404
+  },
+  {
+    "surface": "ラジウス",
+    "reading": "rajiusu",
+    "code": "cr-kata8-405",
+    "index": 405
+  },
+  {
+    "surface": "ランツベルク・アム・レヒ",
+    "reading": "rantsuberukuamurehi",
+    "code": "cr-kata8-406",
+    "index": 406
+  },
+  {
+    "surface": "ランクイン",
+    "reading": "rankin",
+    "code": "cr-kata8-407",
+    "index": 407
+  },
+  {
+    "surface": "レナーラ・カード",
+    "reading": "renaarakaado",
+    "code": "cr-kata8-408",
+    "index": 408
+  },
+  {
+    "surface": "レイキ",
+    "reading": "reiki",
+    "code": "cr-kata8-409",
+    "index": 409
+  },
+  {
+    "surface": "ロジアナ",
+    "reading": "rojiannouncer",
+    "code": "cr-kata8-410",
+    "index": 410
+  },
+  {
+    "surface": "ランバレネ",
+    "reading": "ranbarene",
+    "code": "cr-kata8-411",
+    "index": 411
+  },
+  {
+    "surface": "ローミング",
+    "reading": "roaming",
+    "code": "cr-kata8-412",
+    "index": 412
+  },
+  {
+    "surface": "レッドクリフ",
+    "reading": "redcliff",
+    "code": "cr-kata8-413",
+    "index": 413
+  },
+  {
+    "surface": "リサイズ",
+    "reading": "resize",
+    "code": "cr-kata8-414",
+    "index": 414
+  },
+  {
+    "surface": "ロケール",
+    "reading": "rokeeru",
+    "code": "cr-kata8-415",
+    "index": 415
+  },
+  {
+    "surface": "リングネーム",
+    "reading": "ringname",
+    "code": "cr-kata8-416",
+    "index": 416
+  },
+  {
+    "surface": "リーワー",
+    "reading": "riiwaa",
+    "code": "cr-kata8-417",
+    "index": 417
+  },
+  {
+    "surface": "ロートン",
+    "reading": "rooton",
+    "code": "cr-kata8-418",
+    "index": 418
+  },
+  {
+    "surface": "ループ",
+    "reading": "loop",
+    "code": "cr-kata8-419",
+    "index": 419
+  },
+  {
+    "surface": "ラブアン",
+    "reading": "labuan",
+    "code": "cr-kata8-420",
+    "index": 420
+  },
+  {
+    "surface": "リアウインドー",
+    "reading": "rearwindow",
+    "code": "cr-kata8-421",
+    "index": 421
+  },
+  {
+    "surface": "ラモーナ",
+    "reading": "ramoona",
+    "code": "cr-kata8-422",
+    "index": 422
+  },
+  {
+    "surface": "リビアネコ",
+    "reading": "libyaneko",
+    "code": "cr-kata8-423",
+    "index": 423
+  },
+  {
+    "surface": "ラディッシュ",
+    "reading": "radish",
+    "code": "cr-kata8-424",
+    "index": 424
+  },
+  {
+    "surface": "リンカンパーク",
+    "reading": "lincolnpark",
+    "code": "cr-kata8-425",
+    "index": 425
+  },
+  {
+    "surface": "リレー",
+    "reading": "relay",
+    "code": "cr-kata8-426",
+    "index": 426
+  },
+  {
+    "surface": "ローラーコースター",
+    "reading": "rollercoaster",
+    "code": "cr-kata8-427",
+    "index": 427
+  },
+  {
+    "surface": "レバークーゼン",
+    "reading": "rebaakuuzen",
+    "code": "cr-kata8-428",
+    "index": 428
+  },
+  {
+    "surface": "レークジェニーバ",
+    "reading": "reekujeniiba",
+    "code": "cr-kata8-429",
+    "index": 429
+  },
+  {
+    "surface": "リウマチス",
+    "reading": "rheumatism",
+    "code": "cr-kata8-430",
+    "index": 430
+  },
+  {
+    "surface": "リピド",
+    "reading": "lipid",
+    "code": "cr-kata8-431",
+    "index": 431
+  },
+  {
+    "surface": "ライムギ",
+    "reading": "raimugi",
+    "code": "cr-kata8-432",
+    "index": 432
+  },
+  {
+    "surface": "リヴァディア",
+    "reading": "rivadear",
+    "code": "cr-kata8-433",
+    "index": 433
+  },
+  {
+    "surface": "レーゲンスブルク",
+    "reading": "regensburg",
+    "code": "cr-kata8-434",
+    "index": 434
+  },
+  {
+    "surface": "ロイアルティ",
+    "reading": "roiaruti",
+    "code": "cr-kata8-435",
+    "index": 435
+  },
+  {
+    "surface": "レヴォリューション",
+    "reading": "revolution",
+    "code": "cr-kata8-436",
+    "index": 436
+  },
+  {
+    "surface": "レビューワー",
+    "reading": "reviewwaa",
+    "code": "cr-kata8-437",
+    "index": 437
+  },
+  {
+    "surface": "ララミー",
+    "reading": "laramie",
+    "code": "cr-kata8-438",
+    "index": 438
+  },
+  {
+    "surface": "リベット",
+    "reading": "rivet",
+    "code": "cr-kata8-439",
+    "index": 439
+  },
+  {
+    "surface": "レイクハバスシティ",
+    "reading": "reikuhabasushiti",
+    "code": "cr-kata8-440",
+    "index": 440
+  },
+  {
+    "surface": "レニ",
+    "reading": "leni",
+    "code": "cr-kata8-441",
+    "index": 441
+  },
+  {
+    "surface": "リペアー",
+    "reading": "repair",
+    "code": "cr-kata8-442",
+    "index": 442
+  },
+  {
+    "surface": "ラブプレー",
+    "reading": "loveplay",
+    "code": "cr-kata8-443",
+    "index": 443
+  },
+  {
+    "surface": "ロスリーダー",
+    "reading": "lossleader",
+    "code": "cr-kata8-444",
+    "index": 444
+  },
+  {
+    "surface": "ロスト",
+    "reading": "lost",
+    "code": "cr-kata8-445",
+    "index": 445
+  },
+  {
+    "surface": "ライトアップ",
+    "reading": "raitoup",
+    "code": "cr-kata8-446",
+    "index": 446
+  },
+  {
+    "surface": "リッピング",
+    "reading": "rippingu",
+    "code": "cr-kata8-447",
+    "index": 447
+  },
+  {
+    "surface": "ロゼ",
+    "reading": "roze",
+    "code": "cr-kata8-448",
+    "index": 448
+  },
+  {
+    "surface": "ラジャー",
+    "reading": "roger",
+    "code": "cr-kata8-449",
+    "index": 449
+  },
+  {
+    "surface": "ランジェリー",
+    "reading": "lingerie",
+    "code": "cr-kata8-450",
+    "index": 450
+  },
+  {
+    "surface": "レビレート",
+    "reading": "levirate",
+    "code": "cr-kata8-451",
+    "index": 451
+  },
+  {
+    "surface": "レノベーション",
+    "reading": "renobeeshon",
+    "code": "cr-kata8-452",
+    "index": 452
+  },
+  {
+    "surface": "ライノー・レイクス",
+    "reading": "rainooreikusu",
+    "code": "cr-kata8-453",
+    "index": 453
+  },
+  {
+    "surface": "レングス",
+    "reading": "length",
+    "code": "cr-kata8-454",
+    "index": 454
+  },
+  {
+    "surface": "リカオン",
+    "reading": "lycaon",
+    "code": "cr-kata8-455",
+    "index": 455
+  },
+  {
+    "surface": "ロンド",
+    "reading": "rondo",
+    "code": "cr-kata8-456",
+    "index": 456
+  },
+  {
+    "surface": "リン",
+    "reading": "rin",
+    "code": "cr-kata8-457",
+    "index": 457
+  },
+  {
+    "surface": "レボルバー",
+    "reading": "revolver",
+    "code": "cr-kata8-458",
+    "index": 458
+  },
+  {
+    "surface": "レードーム",
+    "reading": "reedoomu",
+    "code": "cr-kata8-459",
+    "index": 459
+  },
+  {
+    "surface": "ルージュ",
+    "reading": "rouge",
+    "code": "cr-kata8-460",
+    "index": 460
+  },
+  {
+    "surface": "レドンドビーチ",
+    "reading": "redondobeach",
+    "code": "cr-kata8-461",
+    "index": 461
+  },
+  {
+    "surface": "リアクター",
+    "reading": "reactor",
+    "code": "cr-kata8-462",
+    "index": 462
+  },
+  {
+    "surface": "リフレクタ",
+    "reading": "reflationkuta",
+    "code": "cr-kata8-463",
+    "index": 463
+  },
+  {
+    "surface": "ライメン",
+    "reading": "raimen",
+    "code": "cr-kata8-464",
+    "index": 464
+  },
+  {
+    "surface": "リタッチ",
+    "reading": "retouch",
+    "code": "cr-kata8-465",
+    "index": 465
+  },
+  {
+    "surface": "ラジオカーボンデーティング",
+    "reading": "rajiokaabondeetingu",
+    "code": "cr-kata8-466",
+    "index": 466
+  },
+  {
+    "surface": "レーベル",
+    "reading": "label",
+    "code": "cr-kata8-467",
+    "index": 467
+  },
+  {
+    "surface": "リキサ",
+    "reading": "rikisa",
+    "code": "cr-kata8-468",
+    "index": 468
+  },
+  {
+    "surface": "ロールプレーイング",
+    "reading": "rollplaying",
+    "code": "cr-kata8-469",
+    "index": 469
+  },
+  {
+    "surface": "ルアンシャ",
+    "reading": "ruansha",
+    "code": "cr-kata8-470",
+    "index": 470
+  },
+  {
+    "surface": "ロクデナシ",
+    "reading": "rokudenashi",
+    "code": "cr-kata8-471",
+    "index": 471
+  },
+  {
+    "surface": "レモンチョウチョウウオ",
+    "reading": "remonchouchouuo",
+    "code": "cr-kata8-472",
+    "index": 472
+  },
+  {
+    "surface": "レニノゴルスク",
+    "reading": "reninogorusuku",
+    "code": "cr-kata8-473",
+    "index": 473
+  },
+  {
+    "surface": "ルイス・トリハート",
+    "reading": "lewistriheart",
+    "code": "cr-kata8-474",
+    "index": 474
+  },
+  {
+    "surface": "レセプション",
+    "reading": "reception",
+    "code": "cr-kata8-475",
+    "index": 475
+  },
+  {
+    "surface": "ラビー",
+    "reading": "rabii",
+    "code": "cr-kata8-476",
+    "index": 476
+  },
+  {
+    "surface": "リトラクト",
+    "reading": "retract",
+    "code": "cr-kata8-477",
+    "index": 477
+  },
+  {
+    "surface": "ロチェスター",
+    "reading": "rochester",
+    "code": "cr-kata8-478",
+    "index": 478
+  },
+  {
+    "surface": "ロウ",
+    "reading": "rou",
+    "code": "cr-kata8-479",
+    "index": 479
+  },
+  {
+    "surface": "レポート",
+    "reading": "report",
+    "code": "cr-kata8-480",
+    "index": 480
+  },
+  {
+    "surface": "ルマ",
+    "reading": "ruma",
+    "code": "cr-kata8-481",
+    "index": 481
+  },
+  {
+    "surface": "リストア",
+    "reading": "restore",
+    "code": "cr-kata8-482",
+    "index": 482
+  },
+  {
+    "surface": "リズム",
+    "reading": "rhythm",
+    "code": "cr-kata8-483",
+    "index": 483
+  },
+  {
+    "surface": "レパートリー",
+    "reading": "repertory",
+    "code": "cr-kata8-484",
+    "index": 484
+  },
+  {
+    "surface": "リーク",
+    "reading": "leak",
+    "code": "cr-kata8-485",
+    "index": 485
+  },
+  {
+    "surface": "ランチタイム",
+    "reading": "ranchitaimu",
+    "code": "cr-kata8-486",
+    "index": 486
+  },
+  {
+    "surface": "ル・ヴェジネ",
+    "reading": "ruvejine",
+    "code": "cr-kata8-487",
+    "index": 487
+  },
+  {
+    "surface": "レーザーメス",
+    "reading": "lasermes",
+    "code": "cr-kata8-488",
+    "index": 488
+  },
+  {
+    "surface": "ラッセル",
+    "reading": "rasselgerausch",
+    "code": "cr-kata8-489",
+    "index": 489
+  },
+  {
+    "surface": "ラグビー",
+    "reading": "rugby",
+    "code": "cr-kata8-490",
+    "index": 490
+  },
+  {
+    "surface": "レイシ",
+    "reading": "reishi",
+    "code": "cr-kata8-491",
+    "index": 491
+  },
+  {
+    "surface": "ランウエイ",
+    "reading": "runway",
+    "code": "cr-kata8-492",
+    "index": 492
+  },
+  {
+    "surface": "ローカライズ",
+    "reading": "localize",
+    "code": "cr-kata8-493",
+    "index": 493
+  },
+  {
+    "surface": "リプリケート",
+    "reading": "ripurikeeto",
+    "code": "cr-kata8-494",
+    "index": 494
+  },
+  {
+    "surface": "ラプチャーディスク",
+    "reading": "rapuchaadisuku",
+    "code": "cr-kata8-495",
+    "index": 495
+  },
+  {
+    "surface": "ラ・ロシェル",
+    "reading": "larochelle",
+    "code": "cr-kata8-496",
+    "index": 496
+  },
+  {
+    "surface": "リバースエンジニアリング",
+    "reading": "reverseengineering",
+    "code": "cr-kata8-497",
+    "index": 497
+  },
+  {
+    "surface": "レガース",
+    "reading": "regaasu",
+    "code": "cr-kata8-498",
+    "index": 498
+  },
+  {
+    "surface": "ローリングプラン",
+    "reading": "rollingplan",
+    "code": "cr-kata8-499",
+    "index": 499
+  },
+  {
+    "surface": "リプレゼンテーション",
+    "reading": "representation",
+    "code": "cr-kata8-500",
+    "index": 500
+  },
+  {
+    "surface": "リバティー",
+    "reading": "liberty",
+    "code": "cr-kata8-501",
+    "index": 501
+  },
+  {
+    "surface": "レット",
+    "reading": "rhett",
+    "code": "cr-kata8-502",
+    "index": 502
+  },
+  {
+    "surface": "ラジカリズム",
+    "reading": "radicalism",
+    "code": "cr-kata8-503",
+    "index": 503
+  },
+  {
+    "surface": "ルートセールス",
+    "reading": "routesales",
+    "code": "cr-kata8-504",
+    "index": 504
+  },
+  {
+    "surface": "リベラルアーツ",
+    "reading": "liberalart",
+    "code": "cr-kata8-505",
+    "index": 505
+  },
+  {
+    "surface": "リーズ",
+    "reading": "liz",
+    "code": "cr-kata8-506",
+    "index": 506
+  },
+  {
+    "surface": "リュフィリゼーション",
+    "reading": "ryufirizeeshon",
+    "code": "cr-kata8-507",
+    "index": 507
+  },
+  {
+    "surface": "レコメンデーション",
+    "reading": "rekomendeeshon",
+    "code": "cr-kata8-508",
+    "index": 508
+  },
+  {
+    "surface": "レインウエア",
+    "reading": "rainwear",
+    "code": "cr-kata8-509",
+    "index": 509
+  },
+  {
+    "surface": "ライトランチ",
+    "reading": "raitolunch",
+    "code": "cr-kata8-510",
+    "index": 510
+  },
+  {
+    "surface": "ロアノークラピッズ",
+    "reading": "roanookurapizzu",
+    "code": "cr-kata8-511",
+    "index": 511
+  },
+  {
+    "surface": "レーコン",
+    "reading": "reekon",
+    "code": "cr-kata8-512",
+    "index": 512
+  },
+  {
+    "surface": "ラタトゥーユ",
+    "reading": "ratatoyou",
+    "code": "cr-kata8-513",
+    "index": 513
+  },
+  {
+    "surface": "リインバースメント",
+    "reading": "riinbaasumento",
+    "code": "cr-kata8-514",
+    "index": 514
+  },
+  {
+    "surface": "レボルト",
+    "reading": "reboruto",
+    "code": "cr-kata8-515",
+    "index": 515
+  },
+  {
+    "surface": "ロイヤリティー",
+    "reading": "royalty",
+    "code": "cr-kata8-516",
+    "index": 516
+  },
+  {
+    "surface": "リッチ",
+    "reading": "rich",
+    "code": "cr-kata8-517",
+    "index": 517
+  },
+  {
+    "surface": "ラーカー",
+    "reading": "raacar",
+    "code": "cr-kata8-518",
+    "index": 518
+  },
+  {
+    "surface": "ラッキョ",
+    "reading": "rakkyo",
+    "code": "cr-kata8-519",
+    "index": 519
+  },
+  {
+    "surface": "ラスボス",
+    "reading": "lastboss",
+    "code": "cr-kata8-520",
+    "index": 520
+  },
+  {
+    "surface": "リール",
+    "reading": "reel",
+    "code": "cr-kata8-521",
+    "index": 521
+  },
+  {
+    "surface": "レジストリー",
+    "reading": "registry",
+    "code": "cr-kata8-522",
+    "index": 522
+  },
+  {
+    "surface": "ロンチ",
+    "reading": "ronchi",
+    "code": "cr-kata8-523",
+    "index": 523
+  },
+  {
+    "surface": "リューズ",
+    "reading": "ryuuzu",
+    "code": "cr-kata8-524",
+    "index": 524
+  },
+  {
+    "surface": "リリー",
+    "reading": "ririi",
+    "code": "cr-kata8-525",
+    "index": 525
+  },
+  {
+    "surface": "ラムスキン",
+    "reading": "lambskin",
+    "code": "cr-kata8-526",
+    "index": 526
+  },
+  {
+    "surface": "レーエン",
+    "reading": "reeen",
+    "code": "cr-kata8-527",
+    "index": 527
+  },
+  {
+    "surface": "ランタン",
+    "reading": "lantern",
+    "code": "cr-kata8-528",
+    "index": 528
+  },
+  {
+    "surface": "レポーター",
+    "reading": "reporter",
+    "code": "cr-kata8-529",
+    "index": 529
+  },
+  {
+    "surface": "ローライズ",
+    "reading": "lowrise",
+    "code": "cr-kata8-530",
+    "index": 530
+  },
+  {
+    "surface": "レンタカー",
+    "reading": "rentacar",
+    "code": "cr-kata8-531",
+    "index": 531
+  },
+  {
+    "surface": "ロングブーツ",
+    "reading": "longboots",
+    "code": "cr-kata8-532",
+    "index": 532
+  },
+  {
+    "surface": "リベラル",
+    "reading": "liberal",
+    "code": "cr-kata8-533",
+    "index": 533
+  },
+  {
+    "surface": "リッターカー",
+    "reading": "litrecar",
+    "code": "cr-kata8-534",
+    "index": 534
+  },
+  {
+    "surface": "レシツァ",
+    "reading": "reshitsa",
+    "code": "cr-kata8-535",
+    "index": 535
+  },
+  {
+    "surface": "ランニングコスト",
+    "reading": "runningcost",
+    "code": "cr-kata8-536",
+    "index": 536
+  },
+  {
+    "surface": "ラドン",
+    "reading": "radon",
+    "code": "cr-kata8-537",
+    "index": 537
+  },
+  {
+    "surface": "ロストボール",
+    "reading": "lostball",
+    "code": "cr-kata8-538",
+    "index": 538
+  },
+  {
+    "surface": "ランファン",
+    "reading": "runfan",
+    "code": "cr-kata8-539",
+    "index": 539
+  },
+  {
+    "surface": "レスキュー",
+    "reading": "rescue",
+    "code": "cr-kata8-540",
+    "index": 540
+  },
+  {
+    "surface": "レゾルシン",
+    "reading": "resorcin",
+    "code": "cr-kata8-541",
+    "index": 541
+  },
+  {
+    "surface": "リーガル",
+    "reading": "riigaru",
+    "code": "cr-kata8-542",
+    "index": 542
+  },
+  {
+    "surface": "ロマンティック",
+    "reading": "romantic",
+    "code": "cr-kata8-543",
+    "index": 543
+  },
+  {
+    "surface": "レフティー",
+    "reading": "lefty",
+    "code": "cr-kata8-544",
+    "index": 544
+  },
+  {
+    "surface": "ラーンシュタイン",
+    "reading": "learnstein",
+    "code": "cr-kata8-545",
+    "index": 545
+  },
+  {
+    "surface": "ロコモーティブ",
+    "reading": "rokomotive",
+    "code": "cr-kata8-546",
+    "index": 546
+  },
+  {
+    "surface": "リンダ",
+    "reading": "rinda",
+    "code": "cr-kata8-547",
+    "index": 547
+  },
+  {
+    "surface": "ラガー",
+    "reading": "lager",
+    "code": "cr-kata8-548",
+    "index": 548
+  },
+  {
+    "surface": "レブロン",
+    "reading": "revlon",
+    "code": "cr-kata8-549",
+    "index": 549
+  },
+  {
+    "surface": "レズ",
+    "reading": "lesbian",
+    "code": "cr-kata8-550",
+    "index": 550
+  },
+  {
+    "surface": "リレハンメル",
+    "reading": "rirehanmeru",
+    "code": "cr-kata8-551",
+    "index": 551
+  },
+  {
+    "surface": "ルック",
+    "reading": "look",
+    "code": "cr-kata8-552",
+    "index": 552
+  },
+  {
+    "surface": "ラワン",
+    "reading": "lauan",
+    "code": "cr-kata8-553",
+    "index": 553
+  },
+  {
+    "surface": "レストン",
+    "reading": "reston",
+    "code": "cr-kata8-554",
+    "index": 554
+  },
+  {
+    "surface": "リガ",
+    "reading": "riga",
+    "code": "cr-kata8-555",
+    "index": 555
+  },
+  {
+    "surface": "ランダムアクセス",
+    "reading": "randomaccess",
+    "code": "cr-kata8-556",
+    "index": 556
+  },
+  {
+    "surface": "リプレイス",
+    "reading": "replayreisu",
+    "code": "cr-kata8-557",
+    "index": 557
+  },
+  {
+    "surface": "レトロスペクティブ",
+    "reading": "retrospective",
+    "code": "cr-kata8-558",
+    "index": 558
+  },
+  {
+    "surface": "リムリック",
+    "reading": "rimrikku",
+    "code": "cr-kata8-559",
+    "index": 559
+  },
+  {
+    "surface": "ルーチングテーブル",
+    "reading": "rouxchingutable",
+    "code": "cr-kata8-560",
+    "index": 560
+  },
+  {
+    "surface": "レークサイド",
+    "reading": "lakeside",
+    "code": "cr-kata8-561",
+    "index": 561
+  },
+  {
+    "surface": "ロビーナ",
+    "reading": "lobbyna",
+    "code": "cr-kata8-562",
+    "index": 562
+  },
+  {
+    "surface": "リーア",
+    "reading": "leea",
+    "code": "cr-kata8-563",
+    "index": 563
+  },
+  {
+    "surface": "レストハウス",
+    "reading": "resthouse",
+    "code": "cr-kata8-564",
+    "index": 564
+  },
+  {
+    "surface": "ルリガイ",
+    "reading": "ruriguy",
+    "code": "cr-kata8-565",
+    "index": 565
+  },
+  {
+    "surface": "ロック",
+    "reading": "rokku",
+    "code": "cr-kata8-566",
+    "index": 566
+  },
+  {
+    "surface": "リエージュ",
+    "reading": "liege",
+    "code": "cr-kata8-567",
+    "index": 567
+  },
+  {
+    "surface": "ラブカ",
+    "reading": "rabuka",
+    "code": "cr-kata8-568",
+    "index": 568
+  },
+  {
+    "surface": "レスター",
+    "reading": "lester",
+    "code": "cr-kata8-569",
+    "index": 569
+  },
+  {
+    "surface": "リダイレクト",
+    "reading": "ridairekuto",
+    "code": "cr-kata8-570",
+    "index": 570
+  },
+  {
+    "surface": "ルーメン",
+    "reading": "lumen",
+    "code": "cr-kata8-571",
+    "index": 571
+  },
+  {
+    "surface": "リストッキングフィー",
+    "reading": "risutokkingufii",
+    "code": "cr-kata8-572",
+    "index": 572
+  },
+  {
+    "surface": "レスポンス",
+    "reading": "response",
+    "code": "cr-kata8-573",
+    "index": 573
+  },
+  {
+    "surface": "ロクセンスズメダイ",
+    "reading": "rokusensuzumedai",
+    "code": "cr-kata8-574",
+    "index": 574
+  },
+  {
+    "surface": "ラレド",
+    "reading": "laredo",
+    "code": "cr-kata8-575",
+    "index": 575
+  },
+  {
+    "surface": "リトルリーグ",
+    "reading": "littleleague",
+    "code": "cr-kata8-576",
+    "index": 576
+  },
+  {
+    "surface": "ログブック",
+    "reading": "logbook",
+    "code": "cr-kata8-577",
+    "index": 577
+  },
+  {
+    "surface": "レフェリーストップ",
+    "reading": "refereestop",
+    "code": "cr-kata8-578",
+    "index": 578
+  },
+  {
+    "surface": "レディース",
+    "reading": "lady",
+    "code": "cr-kata8-579",
+    "index": 579
+  },
+  {
+    "surface": "レニウム",
+    "reading": "rhenium",
+    "code": "cr-kata8-580",
+    "index": 580
+  },
+  {
+    "surface": "リアトリス",
+    "reading": "reartorisu",
+    "code": "cr-kata8-581",
+    "index": 581
+  },
+  {
+    "surface": "レコードコンサート",
+    "reading": "recordconcert",
+    "code": "cr-kata8-582",
+    "index": 582
+  },
+  {
+    "surface": "リンカニア",
+    "reading": "linkernear",
+    "code": "cr-kata8-583",
+    "index": 583
+  },
+  {
+    "surface": "リンケージ",
+    "reading": "linkage",
+    "code": "cr-kata8-584",
+    "index": 584
+  },
+  {
+    "surface": "ランダムサンプリング",
+    "reading": "randomsampling",
+    "code": "cr-kata8-585",
+    "index": 585
+  },
+  {
+    "surface": "ラタクンガ",
+    "reading": "ratakunga",
+    "code": "cr-kata8-586",
+    "index": 586
+  },
+  {
+    "surface": "ロザリオ",
+    "reading": "rosario",
+    "code": "cr-kata8-587",
+    "index": 587
+  },
+  {
+    "surface": "ロガリズム",
+    "reading": "logarithm",
+    "code": "cr-kata8-588",
+    "index": 588
+  },
+  {
+    "surface": "ラシーン",
+    "reading": "rasheen",
+    "code": "cr-kata8-589",
+    "index": 589
+  },
+  {
+    "surface": "レピート",
+    "reading": "repeat",
+    "code": "cr-kata8-590",
+    "index": 590
+  },
+  {
+    "surface": "ローダー",
+    "reading": "lauder",
+    "code": "cr-kata8-591",
+    "index": 591
+  },
+  {
+    "surface": "リヤド",
+    "reading": "riyad",
+    "code": "cr-kata8-592",
+    "index": 592
+  },
+  {
+    "surface": "リレーショナルデータベース",
+    "reading": "relationaldatabase",
+    "code": "cr-kata8-593",
+    "index": 593
+  },
+  {
+    "surface": "ルリツグミ",
+    "reading": "ruritsugumi",
+    "code": "cr-kata8-594",
+    "index": 594
+  },
+  {
+    "surface": "リポイド",
+    "reading": "lipoid",
+    "code": "cr-kata8-595",
+    "index": 595
+  },
+  {
+    "surface": "ラタトゥユ",
+    "reading": "ratatuyu",
+    "code": "cr-kata8-596",
+    "index": 596
+  },
+  {
+    "surface": "レイニー",
+    "reading": "reinii",
+    "code": "cr-kata8-597",
+    "index": 597
+  },
+  {
+    "surface": "ロングイェールビーン",
+    "reading": "longeerubean",
+    "code": "cr-kata8-598",
+    "index": 598
+  },
+  {
+    "surface": "ルイ",
+    "reading": "louis",
+    "code": "cr-kata8-599",
+    "index": 599
+  },
+  {
+    "surface": "ロマンス",
+    "reading": "romance",
+    "code": "cr-kata8-600",
+    "index": 600
+  },
+  {
+    "surface": "ラベンダー",
+    "reading": "lavender",
+    "code": "cr-kata8-601",
+    "index": 601
+  },
+  {
+    "surface": "リックロール",
+    "reading": "riccrawl",
+    "code": "cr-kata8-602",
+    "index": 602
+  },
+  {
+    "surface": "ラブローション",
+    "reading": "lovelotion",
+    "code": "cr-kata8-603",
+    "index": 603
+  },
+  {
+    "surface": "ラオカイ",
+    "reading": "raokai",
+    "code": "cr-kata8-604",
+    "index": 604
+  },
+  {
+    "surface": "リップル",
+    "reading": "ripple",
+    "code": "cr-kata8-605",
+    "index": 605
+  },
+  {
+    "surface": "ルガーノ",
+    "reading": "lugerno",
+    "code": "cr-kata8-606",
+    "index": 606
+  },
+  {
+    "surface": "ラーマナータプラム",
+    "reading": "raamanaatapuramu",
+    "code": "cr-kata8-607",
+    "index": 607
+  },
+  {
+    "surface": "ルレット",
+    "reading": "roulette",
+    "code": "cr-kata8-608",
+    "index": 608
+  },
+  {
+    "surface": "リアリスト",
+    "reading": "realist",
+    "code": "cr-kata8-609",
+    "index": 609
+  },
+  {
+    "surface": "リムランド",
+    "reading": "rimland",
+    "code": "cr-kata8-610",
+    "index": 610
+  },
+  {
+    "surface": "ロングセラー",
+    "reading": "longseller",
+    "code": "cr-kata8-611",
+    "index": 611
+  },
+  {
+    "surface": "ランサー",
+    "reading": "lancer",
+    "code": "cr-kata8-612",
+    "index": 612
+  },
+  {
+    "surface": "ライディングブリーチズ",
+    "reading": "raidinguburiichizu",
+    "code": "cr-kata8-613",
+    "index": 613
+  },
+  {
+    "surface": "ルックス",
+    "reading": "looks",
+    "code": "cr-kata8-614",
+    "index": 614
+  },
+  {
+    "surface": "ラジー",
+    "reading": "raji",
+    "code": "cr-kata8-615",
+    "index": 615
+  },
+  {
+    "surface": "リバタリアニズム",
+    "reading": "libertarianism",
+    "code": "cr-kata8-616",
+    "index": 616
+  },
+  {
+    "surface": "ラウ",
+    "reading": "rau",
+    "code": "cr-kata8-617",
+    "index": 617
+  },
+  {
+    "surface": "レリーズ",
+    "reading": "release",
+    "code": "cr-kata8-618",
+    "index": 618
+  },
+  {
+    "surface": "ローリング",
+    "reading": "rolling",
+    "code": "cr-kata8-619",
+    "index": 619
+  },
+  {
+    "surface": "ランニングストック",
+    "reading": "runningstock",
+    "code": "cr-kata8-620",
+    "index": 620
+  },
+  {
+    "surface": "ライタ",
+    "reading": "writer",
+    "code": "cr-kata8-621",
+    "index": 621
+  },
+  {
+    "surface": "ライマビーン",
+    "reading": "raimabiin",
+    "code": "cr-kata8-622",
+    "index": 622
+  },
+  {
+    "surface": "ラサ",
+    "reading": "lhasa",
+    "code": "cr-kata8-623",
+    "index": 623
+  },
+  {
+    "surface": "ルホヴィツィ",
+    "reading": "ruhovitsi",
+    "code": "cr-kata8-624",
+    "index": 624
+  },
+  {
+    "surface": "リボース",
+    "reading": "ribose",
+    "code": "cr-kata8-625",
+    "index": 625
+  },
+  {
+    "surface": "レイリア",
+    "reading": "reiria",
+    "code": "cr-kata8-626",
+    "index": 626
+  },
+  {
+    "surface": "ルート",
+    "reading": "route",
+    "code": "cr-kata8-627",
+    "index": 627
+  },
+  {
+    "surface": "ロット",
+    "reading": "lot",
+    "code": "cr-kata8-628",
+    "index": 628
+  },
+  {
+    "surface": "ラブロマンス",
+    "reading": "loveromance",
+    "code": "cr-kata8-629",
+    "index": 629
+  },
+  {
+    "surface": "ラージコット",
+    "reading": "largecot",
+    "code": "cr-kata8-630",
+    "index": 630
+  },
+  {
+    "surface": "リバウンド",
+    "reading": "rebound",
+    "code": "cr-kata8-631",
+    "index": 631
+  },
+  {
+    "surface": "ランニングステッチ",
+    "reading": "runningstitch",
+    "code": "cr-kata8-632",
+    "index": 632
+  },
+  {
+    "surface": "ロー",
+    "reading": "low",
+    "code": "cr-kata8-633",
+    "index": 633
+  },
+  {
+    "surface": "ラリットプール",
+    "reading": "rarittopuuru",
+    "code": "cr-kata8-634",
+    "index": 634
+  },
+  {
+    "surface": "リビング",
+    "reading": "living",
+    "code": "cr-kata8-635",
+    "index": 635
+  },
+  {
+    "surface": "リロード",
+    "reading": "riroodo",
+    "code": "cr-kata8-636",
+    "index": 636
+  },
+  {
+    "surface": "ローリエ",
+    "reading": "roorie",
+    "code": "cr-kata8-637",
+    "index": 637
+  },
+  {
+    "surface": "ラザニア",
+    "reading": "lasagna",
+    "code": "cr-kata8-638",
+    "index": 638
+  },
+  {
+    "surface": "ラボラトリ",
+    "reading": "raboratori",
+    "code": "cr-kata8-639",
+    "index": 639
+  },
+  {
+    "surface": "ラ・グレット",
+    "reading": "raguretto",
+    "code": "cr-kata8-640",
+    "index": 640
+  },
+  {
+    "surface": "レッドウッドシティ",
+    "reading": "redwoodcity",
+    "code": "cr-kata8-641",
+    "index": 641
+  },
+  {
+    "surface": "レッドシーバナーフィッシュ",
+    "reading": "redseabannerfish",
+    "code": "cr-kata8-642",
+    "index": 642
+  },
+  {
+    "surface": "ロマネスク",
+    "reading": "romanesque",
+    "code": "cr-kata8-643",
+    "index": 643
+  },
+  {
+    "surface": "ロールフィルム",
+    "reading": "rollfilm",
+    "code": "cr-kata8-644",
+    "index": 644
+  },
+  {
+    "surface": "ローレンツアトラクタ",
+    "reading": "roorentsuatorakuta",
+    "code": "cr-kata8-645",
+    "index": 645
+  },
+  {
+    "surface": "レベリオン",
+    "reading": "rebelion",
+    "code": "cr-kata8-646",
+    "index": 646
+  },
+  {
+    "surface": "リードオンリーメモリ",
+    "reading": "leadonlymemory",
+    "code": "cr-kata8-647",
+    "index": 647
+  },
+  {
+    "surface": "リブート",
+    "reading": "reboot",
+    "code": "cr-kata8-648",
+    "index": 648
+  },
+  {
+    "surface": "リリアン",
+    "reading": "ririan",
+    "code": "cr-kata8-649",
+    "index": 649
+  },
+  {
+    "surface": "ロスルナス",
+    "reading": "rosurunasu",
+    "code": "cr-kata8-650",
+    "index": 650
+  },
+  {
+    "surface": "リソスフェア",
+    "reading": "lithosphere",
+    "code": "cr-kata8-651",
+    "index": 651
+  },
+  {
+    "surface": "ラニーニャ",
+    "reading": "raniinya",
+    "code": "cr-kata8-652",
+    "index": 652
+  },
+  {
+    "surface": "レバーソーセージ",
+    "reading": "leversausage",
+    "code": "cr-kata8-653",
+    "index": 653
+  },
+  {
+    "surface": "ラバ",
+    "reading": "lava",
+    "code": "cr-kata8-654",
+    "index": 654
+  },
+  {
+    "surface": "リボルビング",
+    "reading": "revolving",
+    "code": "cr-kata8-655",
+    "index": 655
+  },
+  {
+    "surface": "リインホースメント",
+    "reading": "riinhoosumento",
+    "code": "cr-kata8-656",
+    "index": 656
+  },
+  {
+    "surface": "ラージ",
+    "reading": "large",
+    "code": "cr-kata8-657",
+    "index": 657
+  },
+  {
+    "surface": "レビュア",
+    "reading": "rebyua",
+    "code": "cr-kata8-658",
+    "index": 658
+  },
+  {
+    "surface": "リグ",
+    "reading": "rig",
+    "code": "cr-kata8-659",
+    "index": 659
+  },
+  {
+    "surface": "リラキシン",
+    "reading": "rirakishin",
+    "code": "cr-kata8-660",
+    "index": 660
+  },
+  {
+    "surface": "ラウンド",
+    "reading": "round",
+    "code": "cr-kata8-661",
+    "index": 661
+  },
+  {
+    "surface": "リップ",
+    "reading": "lip",
+    "code": "cr-kata8-662",
+    "index": 662
+  },
+  {
+    "surface": "ルワマガナ",
+    "reading": "ruwamagana",
+    "code": "cr-kata8-663",
+    "index": 663
+  },
+  {
+    "surface": "ロンゲ",
+    "reading": "ronge",
+    "code": "cr-kata8-664",
+    "index": 664
+  },
+  {
+    "surface": "レペラーエッチング",
+    "reading": "reperaaetchingu",
+    "code": "cr-kata8-665",
+    "index": 665
+  },
+  {
+    "surface": "ルサカ",
+    "reading": "lusaka",
+    "code": "cr-kata8-666",
+    "index": 666
+  },
+  {
+    "surface": "ロゾー",
+    "reading": "roseau",
+    "code": "cr-kata8-667",
+    "index": 667
+  },
+  {
+    "surface": "ラップ",
+    "reading": "wrap",
+    "code": "cr-kata8-668",
+    "index": 668
+  },
+  {
+    "surface": "ローズマウント",
+    "reading": "rosemount",
+    "code": "cr-kata8-669",
+    "index": 669
+  },
+  {
+    "surface": "ローワーハット",
+    "reading": "roowaahat",
+    "code": "cr-kata8-670",
+    "index": 670
+  },
+  {
+    "surface": "リング",
+    "reading": "ring",
+    "code": "cr-kata8-671",
+    "index": 671
+  },
+  {
+    "surface": "ロアノーク",
+    "reading": "roanoke",
+    "code": "cr-kata8-672",
+    "index": 672
+  },
+  {
+    "surface": "レジメンタルタイ",
+    "reading": "regimentaltie",
+    "code": "cr-kata8-673",
+    "index": 673
+  },
+  {
+    "surface": "ラムジェットエンジン",
+    "reading": "lambjetengine",
+    "code": "cr-kata8-674",
+    "index": 674
+  },
+  {
+    "surface": "リュウテンサザエ",
+    "reading": "ryuutensazae",
+    "code": "cr-kata8-675",
+    "index": 675
+  },
+  {
+    "surface": "ロジスティックス",
+    "reading": "logistic",
+    "code": "cr-kata8-676",
+    "index": 676
+  },
+  {
+    "surface": "ラ・パス",
+    "reading": "lapaz",
+    "code": "cr-kata8-677",
+    "index": 677
+  },
+  {
+    "surface": "リズム・アンド・ブルース",
+    "reading": "rhythmandburuusu",
+    "code": "cr-kata8-678",
+    "index": 678
+  },
+  {
+    "surface": "ライガン",
+    "reading": "raigan",
+    "code": "cr-kata8-679",
+    "index": 679
+  },
+  {
+    "surface": "ラグーン",
+    "reading": "lagoon",
+    "code": "cr-kata8-680",
+    "index": 680
+  },
+  {
+    "surface": "リビングウィル",
+    "reading": "livingwill",
+    "code": "cr-kata8-681",
+    "index": 681
+  },
+  {
+    "surface": "リバーブ",
+    "reading": "risverb",
+    "code": "cr-kata8-682",
+    "index": 682
+  },
+  {
+    "surface": "ラーニング",
+    "reading": "learning",
+    "code": "cr-kata8-683",
+    "index": 683
+  },
+  {
+    "surface": "ライチー",
+    "reading": "litchi",
+    "code": "cr-kata8-684",
+    "index": 684
+  },
+  {
+    "surface": "レシプロシティー",
+    "reading": "reciprocity",
+    "code": "cr-kata8-685",
+    "index": 685
+  },
+  {
+    "surface": "レジーム",
+    "reading": "regime",
+    "code": "cr-kata8-686",
+    "index": 686
+  },
+  {
+    "surface": "レイキャヴィーク",
+    "reading": "reikyaviiku",
+    "code": "cr-kata8-687",
+    "index": 687
+  },
+  {
+    "surface": "ランプウェイ",
+    "reading": "lampway",
+    "code": "cr-kata8-688",
+    "index": 688
+  },
+  {
+    "surface": "リーケージ",
+    "reading": "leakage",
+    "code": "cr-kata8-689",
+    "index": 689
+  },
+  {
+    "surface": "レタッチ",
+    "reading": "retouch",
+    "code": "cr-kata8-690",
+    "index": 690
+  },
+  {
+    "surface": "リプコボ",
+    "reading": "ripukobo",
+    "code": "cr-kata8-691",
+    "index": 691
+  },
+  {
+    "surface": "レーゼクネ",
+    "reading": "reezekune",
+    "code": "cr-kata8-692",
+    "index": 692
+  },
+  {
+    "surface": "ラーショー",
+    "reading": "raashow",
+    "code": "cr-kata8-693",
+    "index": 693
+  },
+  {
+    "surface": "ルシフェラ",
+    "reading": "rushifera",
+    "code": "cr-kata8-694",
+    "index": 694
+  },
+  {
+    "surface": "ラット",
+    "reading": "rat",
+    "code": "cr-kata8-695",
+    "index": 695
+  },
+  {
+    "surface": "ラジカル",
+    "reading": "radical",
+    "code": "cr-kata8-696",
+    "index": 696
+  },
+  {
+    "surface": "ラインドクロミス",
+    "reading": "raindokuromisu",
+    "code": "cr-kata8-697",
+    "index": 697
+  },
+  {
+    "surface": "レセプト",
+    "reading": "rezept",
+    "code": "cr-kata8-698",
+    "index": 698
+  },
+  {
+    "surface": "ラッシー",
+    "reading": "rasshii",
+    "code": "cr-kata8-699",
+    "index": 699
+  },
+  {
+    "surface": "レソザヴォーツク",
+    "reading": "resozavootsuku",
+    "code": "cr-kata8-700",
+    "index": 700
+  },
+  {
+    "surface": "ラクチン",
+    "reading": "rakuchin",
+    "code": "cr-kata8-701",
+    "index": 701
+  },
+  {
+    "surface": "ラクレット",
+    "reading": "rakuretto",
+    "code": "cr-kata8-702",
+    "index": 702
+  },
+  {
+    "surface": "リミッター",
+    "reading": "limiter",
+    "code": "cr-kata8-703",
+    "index": 703
+  },
+  {
+    "surface": "レビュアー",
+    "reading": "rebyuaa",
+    "code": "cr-kata8-704",
+    "index": 704
+  },
+  {
+    "surface": "レーピア",
+    "reading": "reepia",
+    "code": "cr-kata8-705",
+    "index": 705
+  },
+  {
+    "surface": "ラジオブイ",
+    "reading": "radiobuoy",
+    "code": "cr-kata8-706",
+    "index": 706
+  },
+  {
+    "surface": "リロケータブルコード",
+    "reading": "rirokeetaburukoodo",
+    "code": "cr-kata8-707",
+    "index": 707
+  },
+  {
+    "surface": "ロバーツ",
+    "reading": "roberts",
+    "code": "cr-kata8-708",
+    "index": 708
+  },
+  {
+    "surface": "ロマンチシズム",
+    "reading": "romanticism",
+    "code": "cr-kata8-709",
+    "index": 709
+  },
+  {
+    "surface": "ロッキング",
+    "reading": "rocking",
+    "code": "cr-kata8-710",
+    "index": 710
+  },
+  {
+    "surface": "ルチン",
+    "reading": "rutin",
+    "code": "cr-kata8-711",
+    "index": 711
+  },
+  {
+    "surface": "ローマンス",
+    "reading": "romance",
+    "code": "cr-kata8-712",
+    "index": 712
+  },
+  {
+    "surface": "レディス",
+    "reading": "lady",
+    "code": "cr-kata8-713",
+    "index": 713
+  },
+  {
+    "surface": "ラフィア",
+    "reading": "rafia",
+    "code": "cr-kata8-714",
+    "index": 714
+  },
+  {
+    "surface": "リンゲン",
+    "reading": "ringen",
+    "code": "cr-kata8-715",
+    "index": 715
+  },
+  {
+    "surface": "ルイル",
+    "reading": "louisle",
+    "code": "cr-kata8-716",
+    "index": 716
+  },
+  {
+    "surface": "レーオポルツヘーエ",
+    "reading": "reeoporutsuheee",
+    "code": "cr-kata8-717",
+    "index": 717
+  },
+  {
+    "surface": "ラングリー",
+    "reading": "runglee",
+    "code": "cr-kata8-718",
+    "index": 718
+  },
+  {
+    "surface": "リーダー",
+    "reading": "leader",
+    "code": "cr-kata8-719",
+    "index": 719
+  },
+  {
+    "surface": "レポジトリー",
+    "reading": "repojitorii",
+    "code": "cr-kata8-720",
+    "index": 720
+  },
+  {
+    "surface": "リーベ",
+    "reading": "liebe",
+    "code": "cr-kata8-721",
+    "index": 721
+  },
+  {
+    "surface": "リシン",
+    "reading": "ricin",
+    "code": "cr-kata8-722",
+    "index": 722
+  },
+  {
+    "surface": "ロンポク",
+    "reading": "ronpoku",
+    "code": "cr-kata8-723",
+    "index": 723
+  },
+  {
+    "surface": "ロード・マップ",
+    "reading": "roadmap",
+    "code": "cr-kata8-724",
+    "index": 724
+  },
+  {
+    "surface": "リビジョン",
+    "reading": "revision",
+    "code": "cr-kata8-725",
+    "index": 725
+  },
+  {
+    "surface": "ラ・アブラ",
+    "reading": "raabura",
+    "code": "cr-kata8-726",
+    "index": 726
+  },
+  {
+    "surface": "レオスタット",
+    "reading": "rheostat",
+    "code": "cr-kata8-727",
+    "index": 727
+  },
+  {
+    "surface": "ラッグ",
+    "reading": "raggu",
+    "code": "cr-kata8-728",
+    "index": 728
+  },
+  {
+    "surface": "ルリノジコ",
+    "reading": "rurinojiko",
+    "code": "cr-kata8-729",
+    "index": 729
+  },
+  {
+    "surface": "ラクラク",
+    "reading": "rakuraku",
+    "code": "cr-kata8-730",
+    "index": 730
+  },
+  {
+    "surface": "ラジオボタン",
+    "reading": "radiobutton",
+    "code": "cr-kata8-731",
+    "index": 731
+  },
+  {
+    "surface": "リソグラフィ",
+    "reading": "risogurafi",
+    "code": "cr-kata8-732",
+    "index": 732
+  },
+  {
+    "surface": "レイピア",
+    "reading": "rapier",
+    "code": "cr-kata8-733",
+    "index": 733
+  },
+  {
+    "surface": "ロサリオ",
+    "reading": "rosario",
+    "code": "cr-kata8-734",
+    "index": 734
+  },
+  {
+    "surface": "ラミー",
+    "reading": "ramii",
+    "code": "cr-kata8-735",
+    "index": 735
+  },
+  {
+    "surface": "ランプウエー",
+    "reading": "lampway",
+    "code": "cr-kata8-736",
+    "index": 736
+  },
+  {
+    "surface": "リトグラフィー",
+    "reading": "lithography",
+    "code": "cr-kata8-737",
+    "index": 737
+  },
+  {
+    "surface": "リャザン",
+    "reading": "ryazan",
+    "code": "cr-kata8-738",
+    "index": 738
+  },
+  {
+    "surface": "ローヤル",
+    "reading": "royal",
+    "code": "cr-kata8-739",
+    "index": 739
+  },
+  {
+    "surface": "リグレット",
+    "reading": "regret",
+    "code": "cr-kata8-740",
+    "index": 740
+  },
+  {
+    "surface": "レジオン・ドヌール",
+    "reading": "legiondhonneur",
+    "code": "cr-kata8-741",
+    "index": 741
+  },
+  {
+    "surface": "ローヤリティー",
+    "reading": "rooyaritii",
+    "code": "cr-kata8-742",
+    "index": 742
+  },
+  {
+    "surface": "ロジバン",
+    "reading": "rojiban",
+    "code": "cr-kata8-743",
+    "index": 743
+  },
+  {
+    "surface": "リグヴェーダ",
+    "reading": "rigveda",
+    "code": "cr-kata8-744",
+    "index": 744
+  },
+  {
+    "surface": "レート",
+    "reading": "rate",
+    "code": "cr-kata8-745",
+    "index": 745
+  },
+  {
+    "surface": "リヤ",
+    "reading": "rear",
+    "code": "cr-kata8-746",
+    "index": 746
+  },
+  {
+    "surface": "ラジオイムノアッセイ",
+    "reading": "rajioimunoassei",
+    "code": "cr-kata8-747",
+    "index": 747
+  },
+  {
+    "surface": "ロッジ",
+    "reading": "lodge",
+    "code": "cr-kata8-748",
+    "index": 748
+  },
+  {
+    "surface": "ラザニエ",
+    "reading": "razanie",
+    "code": "cr-kata8-749",
+    "index": 749
+  },
+  {
+    "surface": "レジャー",
+    "reading": "leisure",
+    "code": "cr-kata8-750",
+    "index": 750
+  },
+  {
+    "surface": "レザー",
+    "reading": "leather",
+    "code": "cr-kata8-751",
+    "index": 751
+  },
+  {
+    "surface": "リンネル",
+    "reading": "linen",
+    "code": "cr-kata8-752",
+    "index": 752
+  },
+  {
+    "surface": "ランク",
+    "reading": "rank",
+    "code": "cr-kata8-753",
+    "index": 753
+  },
+  {
+    "surface": "レフリー",
+    "reading": "referee",
+    "code": "cr-kata8-754",
+    "index": 754
+  },
+  {
+    "surface": "ルビン",
+    "reading": "rubin",
+    "code": "cr-kata8-755",
+    "index": 755
+  },
+  {
+    "surface": "レッチェ",
+    "reading": "leche",
+    "code": "cr-kata8-756",
+    "index": 756
+  },
+  {
+    "surface": "レイバー",
+    "reading": "reibaa",
+    "code": "cr-kata8-757",
+    "index": 757
+  },
+  {
+    "surface": "レモン",
+    "reading": "lemon",
+    "code": "cr-kata8-758",
+    "index": 758
+  },
+  {
+    "surface": "レディズコンパニオン",
+    "reading": "redizukonpanion",
+    "code": "cr-kata8-759",
+    "index": 759
+  },
+  {
+    "surface": "リムーア",
+    "reading": "rima",
+    "code": "cr-kata8-760",
+    "index": 760
+  },
+  {
+    "surface": "レリック",
+    "reading": "relic",
+    "code": "cr-kata8-761",
+    "index": 761
+  },
+  {
+    "surface": "ロケ",
+    "reading": "location",
+    "code": "cr-kata8-762",
+    "index": 762
+  },
+  {
+    "surface": "レアメタル",
+    "reading": "raremetal",
+    "code": "cr-kata8-763",
+    "index": 763
+  },
+  {
+    "surface": "レッドチークラス",
+    "reading": "redcheeklath",
+    "code": "cr-kata8-764",
+    "index": 764
+  },
+  {
+    "surface": "リピート",
+    "reading": "repeat",
+    "code": "cr-kata8-765",
+    "index": 765
+  },
+  {
+    "surface": "リジン",
+    "reading": "lysine",
+    "code": "cr-kata8-766",
+    "index": 766
+  },
+  {
+    "surface": "ローヤルゼリー",
+    "reading": "royaljelly",
+    "code": "cr-kata8-767",
+    "index": 767
+  },
+  {
+    "surface": "レコーディングスタジオ",
+    "reading": "recordingstudio",
+    "code": "cr-kata8-768",
+    "index": 768
+  },
+  {
+    "surface": "レンズフード",
+    "reading": "lensfood",
+    "code": "cr-kata8-769",
+    "index": 769
+  },
+  {
+    "surface": "ラジオゾンデ",
+    "reading": "radiosonde",
+    "code": "cr-kata8-770",
+    "index": 770
+  },
+  {
+    "surface": "ロゴデザイン",
+    "reading": "logotypedesign",
+    "code": "cr-kata8-771",
+    "index": 771
+  },
+  {
+    "surface": "レンズマメ",
+    "reading": "lensmame",
+    "code": "cr-kata8-772",
+    "index": 772
+  },
+  {
+    "surface": "レゲエ",
+    "reading": "reggae",
+    "code": "cr-kata8-773",
+    "index": 773
+  },
+  {
+    "surface": "ロックミュージック",
+    "reading": "rokkumusic",
+    "code": "cr-kata8-774",
+    "index": 774
+  },
+  {
+    "surface": "リスケジュール",
+    "reading": "reschedule",
+    "code": "cr-kata8-775",
+    "index": 775
+  },
+  {
+    "surface": "ラテルネ",
+    "reading": "latterune",
+    "code": "cr-kata8-776",
+    "index": 776
+  },
+  {
+    "surface": "レセフェール",
+    "reading": "resefeeru",
+    "code": "cr-kata8-777",
+    "index": 777
+  },
+  {
+    "surface": "ランタナ",
+    "reading": "lantana",
+    "code": "cr-kata8-778",
+    "index": 778
+  },
+  {
+    "surface": "ラジアン",
+    "reading": "radian",
+    "code": "cr-kata8-779",
+    "index": 779
+  },
+  {
+    "surface": "ライオンズ",
+    "reading": "lion",
+    "code": "cr-kata8-780",
+    "index": 780
+  },
+  {
+    "surface": "ロックフォード",
+    "reading": "rokkuford",
+    "code": "cr-kata8-781",
+    "index": 781
+  },
+  {
+    "surface": "レイプ",
+    "reading": "rape",
+    "code": "cr-kata8-782",
+    "index": 782
+  },
+  {
+    "surface": "ロングパス",
+    "reading": "longpass",
+    "code": "cr-kata8-783",
+    "index": 783
+  },
+  {
+    "surface": "ローカリゼーション",
+    "reading": "localization",
+    "code": "cr-kata8-784",
+    "index": 784
+  },
+  {
+    "surface": "ローバッテリー",
+    "reading": "lowbattery",
+    "code": "cr-kata8-785",
+    "index": 785
+  },
+  {
+    "surface": "ラエバレリ",
+    "reading": "raebareri",
+    "code": "cr-kata8-786",
+    "index": 786
+  },
+  {
+    "surface": "ロップ",
+    "reading": "rope",
+    "code": "cr-kata8-787",
+    "index": 787
+  },
+  {
+    "surface": "レガート",
+    "reading": "legato",
+    "code": "cr-kata8-788",
+    "index": 788
+  },
+  {
+    "surface": "ローラー",
+    "reading": "roller",
+    "code": "cr-kata8-789",
+    "index": 789
+  },
+  {
+    "surface": "ラッパー",
+    "reading": "rapper",
+    "code": "cr-kata8-790",
+    "index": 790
+  },
+  {
+    "surface": "ラジコン",
+    "reading": "rajikon",
+    "code": "cr-kata8-791",
+    "index": 791
+  },
+  {
+    "surface": "ラウソン",
+    "reading": "rauson",
+    "code": "cr-kata8-792",
+    "index": 792
+  },
+  {
+    "surface": "リエンジニアリング",
+    "reading": "reengineering",
+    "code": "cr-kata8-793",
+    "index": 793
+  },
+  {
+    "surface": "ロッククライミング",
+    "reading": "rokkuclimbing",
+    "code": "cr-kata8-794",
+    "index": 794
+  },
+  {
+    "surface": "ラップアラウンド",
+    "reading": "wraparound",
+    "code": "cr-kata8-795",
+    "index": 795
+  },
+  {
+    "surface": "リマーク",
+    "reading": "remark",
+    "code": "cr-kata8-796",
+    "index": 796
+  },
+  {
+    "surface": "ラジエータ",
+    "reading": "radiator",
+    "code": "cr-kata8-797",
+    "index": 797
+  },
+  {
+    "surface": "リノ",
+    "reading": "reno",
+    "code": "cr-kata8-798",
+    "index": 798
+  },
+  {
+    "surface": "ルズム",
+    "reading": "ruzumu",
+    "code": "cr-kata8-799",
+    "index": 799
+  },
+  {
+    "surface": "リューベック",
+    "reading": "lubeck",
+    "code": "cr-kata8-800",
+    "index": 800
+  },
+  {
+    "surface": "レイテンシー",
+    "reading": "latency",
+    "code": "cr-kata8-801",
+    "index": 801
+  },
+  {
+    "surface": "ラブセット",
+    "reading": "loveset",
+    "code": "cr-kata8-802",
+    "index": 802
+  },
+  {
+    "surface": "ランニングシューズ",
+    "reading": "runningshoes",
+    "code": "cr-kata8-803",
+    "index": 803
+  },
+  {
+    "surface": "レスコヴァツ",
+    "reading": "resukovatsu",
+    "code": "cr-kata8-804",
+    "index": 804
+  },
+  {
+    "surface": "レジャービル",
+    "reading": "leisurebuilding",
+    "code": "cr-kata8-805",
+    "index": 805
+  },
+  {
+    "surface": "レンダラ",
+    "reading": "renderer",
+    "code": "cr-kata8-806",
+    "index": 806
+  },
+  {
+    "surface": "ラジオ",
+    "reading": "radio",
+    "code": "cr-kata8-807",
+    "index": 807
+  },
+  {
+    "surface": "ラペル",
+    "reading": "lapel",
+    "code": "cr-kata8-808",
+    "index": 808
+  },
+  {
+    "surface": "ラアス・タンヌーラ",
+    "reading": "raasutannuura",
+    "code": "cr-kata8-809",
+    "index": 809
+  },
+  {
+    "surface": "ラクナウ",
+    "reading": "rakunow",
+    "code": "cr-kata8-810",
+    "index": 810
+  },
+  {
+    "surface": "ルポ",
+    "reading": "reportage",
+    "code": "cr-kata8-811",
+    "index": 811
+  },
+  {
+    "surface": "ラバー",
+    "reading": "rubber",
+    "code": "cr-kata8-812",
+    "index": 812
+  },
+  {
+    "surface": "レディメード",
+    "reading": "ladymaid",
+    "code": "cr-kata8-813",
+    "index": 813
+  },
+  {
+    "surface": "レンチル",
+    "reading": "wrenchle",
+    "code": "cr-kata8-814",
+    "index": 814
+  },
+  {
+    "surface": "リコンパイル",
+    "reading": "riscompile",
+    "code": "cr-kata8-815",
+    "index": 815
+  },
+  {
+    "surface": "ローヤルティ",
+    "reading": "royalti",
+    "code": "cr-kata8-816",
+    "index": 816
+  },
+  {
+    "surface": "ランチョ・コードヴァ",
+    "reading": "ranchocodeva",
+    "code": "cr-kata8-817",
+    "index": 817
+  },
+  {
+    "surface": "レコードキー",
+    "reading": "recordkey",
+    "code": "cr-kata8-818",
+    "index": 818
+  },
+  {
+    "surface": "ルールブック",
+    "reading": "rulebook",
+    "code": "cr-kata8-819",
+    "index": 819
+  },
+  {
+    "surface": "リューネン",
+    "reading": "ryuunen",
+    "code": "cr-kata8-820",
+    "index": 820
+  },
+  {
+    "surface": "ローカライゼーション",
+    "reading": "localization",
+    "code": "cr-kata8-821",
+    "index": 821
+  },
+  {
+    "surface": "ラジカセ",
+    "reading": "rajikase",
+    "code": "cr-kata8-822",
+    "index": 822
+  },
+  {
+    "surface": "レイクランド",
+    "reading": "reikurando",
+    "code": "cr-kata8-823",
+    "index": 823
+  },
+  {
+    "surface": "リゲル",
+    "reading": "rigeru",
+    "code": "cr-kata8-824",
+    "index": 824
+  },
+  {
+    "surface": "リバーシブル",
+    "reading": "reversible",
+    "code": "cr-kata8-825",
+    "index": 825
+  },
+  {
+    "surface": "レイト",
+    "reading": "late",
+    "code": "cr-kata8-826",
+    "index": 826
+  },
+  {
+    "surface": "ラウンドナンバー",
+    "reading": "roundnumber",
+    "code": "cr-kata8-827",
+    "index": 827
+  },
+  {
+    "surface": "ラックザー",
+    "reading": "rakkuthe",
+    "code": "cr-kata8-828",
+    "index": 828
+  },
+  {
+    "surface": "ローカルバス",
+    "reading": "localbus",
+    "code": "cr-kata8-829",
+    "index": 829
+  },
+  {
+    "surface": "ルーゴ",
+    "reading": "ruugo",
+    "code": "cr-kata8-830",
+    "index": 830
+  },
+  {
+    "surface": "ローリー",
+    "reading": "raleigh",
+    "code": "cr-kata8-831",
+    "index": 831
+  },
+  {
+    "surface": "リベッタ",
+    "reading": "riveter",
+    "code": "cr-kata8-832",
+    "index": 832
+  },
+  {
+    "surface": "レザーウェア",
+    "reading": "leatherwear",
+    "code": "cr-kata8-833",
+    "index": 833
+  },
+  {
+    "surface": "ライブショー",
+    "reading": "liveshow",
+    "code": "cr-kata8-834",
+    "index": 834
+  },
+  {
+    "surface": "ロス・アンゼルス",
+    "reading": "losangeles",
+    "code": "cr-kata8-835",
+    "index": 835
+  },
+  {
+    "surface": "ローカルバスグラフィックス",
+    "reading": "localbusgraphic",
+    "code": "cr-kata8-836",
+    "index": 836
+  },
+  {
+    "surface": "レシート",
+    "reading": "receipt",
+    "code": "cr-kata8-837",
+    "index": 837
+  },
+  {
+    "surface": "リアクタンス",
+    "reading": "reactance",
+    "code": "cr-kata8-838",
+    "index": 838
+  },
+  {
+    "surface": "レディ",
+    "reading": "lady",
+    "code": "cr-kata8-839",
+    "index": 839
+  },
+  {
+    "surface": "ラシュカルガー",
+    "reading": "rashukarugaa",
+    "code": "cr-kata8-840",
+    "index": 840
+  },
+  {
+    "surface": "ロケート",
+    "reading": "rokeeto",
+    "code": "cr-kata8-841",
+    "index": 841
+  },
+  {
+    "surface": "ルネッサーンス",
+    "reading": "renaissance",
+    "code": "cr-kata8-842",
+    "index": 842
+  },
+  {
+    "surface": "リュブリャナ",
+    "reading": "ljubljana",
+    "code": "cr-kata8-843",
+    "index": 843
+  },
+  {
+    "surface": "ロマンチシスト",
+    "reading": "romanticist",
+    "code": "cr-kata8-844",
+    "index": 844
+  },
+  {
+    "surface": "ランカスター",
+    "reading": "lancaster",
+    "code": "cr-kata8-845",
+    "index": 845
+  },
+  {
+    "surface": "ラケット",
+    "reading": "racket",
+    "code": "cr-kata8-846",
+    "index": 846
+  },
+  {
+    "surface": "リュウグウノツカイ",
+    "reading": "ryuuguunotsukai",
+    "code": "cr-kata8-847",
+    "index": 847
+  },
+  {
+    "surface": "ロッジング",
+    "reading": "lodging",
+    "code": "cr-kata8-848",
+    "index": 848
+  },
+  {
+    "surface": "レザーサージャンフィッシュ",
+    "reading": "rezaasaajanfisshu",
+    "code": "cr-kata8-849",
+    "index": 849
+  },
+  {
+    "surface": "リム",
+    "reading": "rim",
+    "code": "cr-kata8-850",
+    "index": 850
+  },
+  {
+    "surface": "ラジオコントロール",
+    "reading": "radiocontrol",
+    "code": "cr-kata8-851",
+    "index": 851
+  },
+  {
+    "surface": "リスボン",
+    "reading": "lisbon",
+    "code": "cr-kata8-852",
+    "index": 852
+  },
+  {
+    "surface": "レリドルプ",
+    "reading": "reridorupu",
+    "code": "cr-kata8-853",
+    "index": 853
+  },
+  {
+    "surface": "レーザーダイオード",
+    "reading": "laserdiode",
+    "code": "cr-kata8-854",
+    "index": 854
+  },
+  {
+    "surface": "ラスタ",
+    "reading": "rasuta",
+    "code": "cr-kata8-855",
+    "index": 855
+  },
+  {
+    "surface": "ルミネッセンス",
+    "reading": "luminesense",
+    "code": "cr-kata8-856",
+    "index": 856
+  },
+  {
+    "surface": "レー",
+    "reading": "ree",
+    "code": "cr-kata8-857",
+    "index": 857
+  },
+  {
+    "surface": "ローキー",
+    "reading": "lowkey",
+    "code": "cr-kata8-858",
+    "index": 858
+  },
+  {
+    "surface": "リンカ",
+    "reading": "linker",
+    "code": "cr-kata8-859",
+    "index": 859
+  },
+  {
+    "surface": "ローファット",
+    "reading": "lowfat",
+    "code": "cr-kata8-860",
+    "index": 860
+  },
+  {
+    "surface": "レディネス",
+    "reading": "readiness",
+    "code": "cr-kata8-861",
+    "index": 861
+  },
+  {
+    "surface": "ローカル",
+    "reading": "local",
+    "code": "cr-kata8-862",
+    "index": 862
+  },
+  {
+    "surface": "ラグタイム",
+    "reading": "lagtime",
+    "code": "cr-kata8-863",
+    "index": 863
+  },
+  {
+    "surface": "リフレーション",
+    "reading": "reflation",
+    "code": "cr-kata8-864",
+    "index": 864
+  },
+  {
+    "surface": "ロムカセット",
+    "reading": "romucassette",
+    "code": "cr-kata8-865",
+    "index": 865
+  },
+  {
+    "surface": "リストバンド",
+    "reading": "listbando",
+    "code": "cr-kata8-866",
+    "index": 866
+  },
+  {
+    "surface": "ラス・アル・ハイマ",
+    "reading": "lasaruhaima",
+    "code": "cr-kata8-867",
+    "index": 867
+  },
+  {
+    "surface": "レハビリ",
+    "reading": "rehabiri",
+    "code": "cr-kata8-868",
+    "index": 868
+  },
+  {
+    "surface": "ロデズ",
+    "reading": "rodezu",
+    "code": "cr-kata8-869",
+    "index": 869
+  },
+  {
+    "surface": "ラフティング",
+    "reading": "rafting",
+    "code": "cr-kata8-870",
+    "index": 870
+  },
+  {
+    "surface": "リーヴァ・デル・ガルダ",
+    "reading": "riivuderugaruda",
+    "code": "cr-kata8-871",
+    "index": 871
+  },
+  {
+    "surface": "ラーメーシュワラム",
+    "reading": "raameeshuwaramu",
+    "code": "cr-kata8-872",
+    "index": 872
+  },
+  {
+    "surface": "ラエ",
+    "reading": "rae",
+    "code": "cr-kata8-873",
+    "index": 873
+  },
+  {
+    "surface": "ランイチ",
+    "reading": "runichi",
+    "code": "cr-kata8-874",
+    "index": 874
+  },
+  {
+    "surface": "ラジウム",
+    "reading": "radium",
+    "code": "cr-kata8-875",
+    "index": 875
+  },
+  {
+    "surface": "ライティングデスク",
+    "reading": "writingdesk",
+    "code": "cr-kata8-876",
+    "index": 876
+  },
+  {
+    "surface": "レントラー",
+    "reading": "landler",
+    "code": "cr-kata8-877",
+    "index": 877
+  },
+  {
+    "surface": "レタリング",
+    "reading": "lettering",
+    "code": "cr-kata8-878",
+    "index": 878
+  },
+  {
+    "surface": "レスラ",
+    "reading": "resura",
+    "code": "cr-kata8-879",
+    "index": 879
+  },
+  {
+    "surface": "ライトツナフレーク",
+    "reading": "raitotunaflake",
+    "code": "cr-kata8-880",
+    "index": 880
+  },
+  {
+    "surface": "レクリエーション",
+    "reading": "recreation",
+    "code": "cr-kata8-881",
+    "index": 881
+  },
+  {
+    "surface": "レトリバー",
+    "reading": "retriever",
+    "code": "cr-kata8-882",
+    "index": 882
+  },
+  {
+    "surface": "レアアイテム",
+    "reading": "rareitem",
+    "code": "cr-kata8-883",
+    "index": 883
+  },
+  {
+    "surface": "リュウキュウイモ",
+    "reading": "ryuukyuuimo",
+    "code": "cr-kata8-884",
+    "index": 884
+  },
+  {
+    "surface": "ロルモン",
+    "reading": "rorumon",
+    "code": "cr-kata8-885",
+    "index": 885
+  },
+  {
+    "surface": "ランニングキャッチ",
+    "reading": "runningcatch",
+    "code": "cr-kata8-886",
+    "index": 886
+  },
+  {
+    "surface": "レソルシノール",
+    "reading": "resorcinol",
+    "code": "cr-kata8-887",
+    "index": 887
+  },
+  {
+    "surface": "ロホヤ",
+    "reading": "rohoya",
+    "code": "cr-kata8-888",
+    "index": 888
+  },
+  {
+    "surface": "リニアモーターカー",
+    "reading": "linearmotorcar",
+    "code": "cr-kata8-889",
+    "index": 889
+  },
+  {
+    "surface": "レコグニション",
+    "reading": "recognition",
+    "code": "cr-kata8-890",
+    "index": 890
+  },
+  {
+    "surface": "ランバレ",
+    "reading": "runbare",
+    "code": "cr-kata8-891",
+    "index": 891
+  },
+  {
+    "surface": "ライトニング",
+    "reading": "lightning",
+    "code": "cr-kata8-892",
+    "index": 892
+  },
+  {
+    "surface": "リアルタイム・システム",
+    "reading": "realtimesystem",
+    "code": "cr-kata8-893",
+    "index": 893
+  },
+  {
+    "surface": "リスザル",
+    "reading": "risuzaru",
+    "code": "cr-kata8-894",
+    "index": 894
+  },
+  {
+    "surface": "リオコロラド",
+    "reading": "riocolorado",
+    "code": "cr-kata8-895",
+    "index": 895
+  },
+  {
+    "surface": "ランブルサール",
+    "reading": "ramblesearle",
+    "code": "cr-kata8-896",
+    "index": 896
+  },
+  {
+    "surface": "リプレー",
+    "reading": "replay",
+    "code": "cr-kata8-897",
+    "index": 897
+  },
+  {
+    "surface": "ラバータイル",
+    "reading": "rubbertile",
+    "code": "cr-kata8-898",
+    "index": 898
+  },
+  {
+    "surface": "ロイヤル・レミントン・スパ",
+    "reading": "royalremingtonspa",
+    "code": "cr-kata8-899",
+    "index": 899
+  },
+  {
+    "surface": "ロトンダ",
+    "reading": "rotonda",
+    "code": "cr-kata8-900",
+    "index": 900
+  },
+  {
+    "surface": "レッツゴー",
+    "reading": "rettsugo",
+    "code": "cr-kata8-901",
+    "index": 901
+  },
+  {
+    "surface": "リヤール",
+    "reading": "riyal",
+    "code": "cr-kata8-902",
+    "index": 902
+  },
+  {
+    "surface": "ルバンゴ",
+    "reading": "rubango",
+    "code": "cr-kata8-903",
+    "index": 903
+  },
+  {
+    "surface": "ロードレース",
+    "reading": "roadreesu",
+    "code": "cr-kata8-904",
+    "index": 904
+  },
+  {
+    "surface": "リジュー",
+    "reading": "risjew",
+    "code": "cr-kata8-905",
+    "index": 905
+  },
+  {
+    "surface": "ルバシカ",
+    "reading": "rubashka",
+    "code": "cr-kata8-906",
+    "index": 906
+  },
+  {
+    "surface": "レシーブ",
+    "reading": "receive",
+    "code": "cr-kata8-907",
+    "index": 907
+  },
+  {
+    "surface": "リフトバック",
+    "reading": "liftback",
+    "code": "cr-kata8-908",
+    "index": 908
+  },
+  {
+    "surface": "ロート",
+    "reading": "rooto",
+    "code": "cr-kata8-909",
+    "index": 909
+  },
+  {
+    "surface": "リクード",
+    "reading": "likud",
+    "code": "cr-kata8-910",
+    "index": 910
+  },
+  {
+    "surface": "ルブリン",
+    "reading": "lublin",
+    "code": "cr-kata8-911",
+    "index": 911
+  },
+  {
+    "surface": "ロータリーエンジン",
+    "reading": "rotaryengine",
+    "code": "cr-kata8-912",
+    "index": 912
+  },
+  {
+    "surface": "ライトウィング",
+    "reading": "raitowing",
+    "code": "cr-kata8-913",
+    "index": 913
+  },
+  {
+    "surface": "リタイヤ",
+    "reading": "retire",
+    "code": "cr-kata8-914",
+    "index": 914
+  },
+  {
+    "surface": "ラクウショウ",
+    "reading": "rakuushou",
+    "code": "cr-kata8-915",
+    "index": 915
+  },
+  {
+    "surface": "ラマッラー",
+    "reading": "ramarra",
+    "code": "cr-kata8-916",
+    "index": 916
+  },
+  {
+    "surface": "リワインド",
+    "reading": "riwaindo",
+    "code": "cr-kata8-917",
+    "index": 917
+  },
+  {
+    "surface": "ロバー",
+    "reading": "roba",
+    "code": "cr-kata8-918",
+    "index": 918
+  },
+  {
+    "surface": "ロングモント",
+    "reading": "longmonto",
+    "code": "cr-kata8-919",
+    "index": 919
+  },
+  {
+    "surface": "ランチョクカモンガ",
+    "reading": "ranchokukamonga",
+    "code": "cr-kata8-920",
+    "index": 920
+  },
+  {
+    "surface": "レヴュー",
+    "reading": "review",
+    "code": "cr-kata8-921",
+    "index": 921
+  },
+  {
+    "surface": "ラトデロ",
+    "reading": "ratodero",
+    "code": "cr-kata8-922",
+    "index": 922
+  },
+  {
+    "surface": "レディーメード",
+    "reading": "ladymaid",
+    "code": "cr-kata8-923",
+    "index": 923
+  },
+  {
+    "surface": "レスラー",
+    "reading": "wrestler",
+    "code": "cr-kata8-924",
+    "index": 924
+  },
+  {
+    "surface": "ロム",
+    "reading": "romu",
+    "code": "cr-kata8-925",
+    "index": 925
+  },
+  {
+    "surface": "ラマ",
+    "reading": "lama",
+    "code": "cr-kata8-926",
+    "index": 926
+  },
+  {
+    "surface": "レソト",
+    "reading": "lesotho",
+    "code": "cr-kata8-927",
+    "index": 927
+  },
+  {
+    "surface": "レビラト",
+    "reading": "leviterato",
+    "code": "cr-kata8-928",
+    "index": 928
+  },
+  {
+    "surface": "ログアウト",
+    "reading": "logout",
+    "code": "cr-kata8-929",
+    "index": 929
+  },
+  {
+    "surface": "ルウ",
+    "reading": "roux",
+    "code": "cr-kata8-930",
+    "index": 930
+  },
+  {
+    "surface": "ライアー",
+    "reading": "liar",
+    "code": "cr-kata8-931",
+    "index": 931
+  },
+  {
+    "surface": "ルートディレクトリ",
+    "reading": "routedirectory",
+    "code": "cr-kata8-932",
+    "index": 932
+  },
+  {
+    "surface": "リーマン",
+    "reading": "salaryman",
+    "code": "cr-kata8-933",
+    "index": 933
+  },
+  {
+    "surface": "ラップエム",
+    "reading": "rapemu",
+    "code": "cr-kata8-934",
+    "index": 934
+  },
+  {
+    "surface": "リバランシング",
+    "reading": "rebalancing",
+    "code": "cr-kata8-935",
+    "index": 935
+  },
+  {
+    "surface": "ルポタージュ",
+    "reading": "lepotage",
+    "code": "cr-kata8-936",
+    "index": 936
+  },
+  {
+    "surface": "ロイヤルミルクティ",
+    "reading": "roiyarumirukuti",
+    "code": "cr-kata8-937",
+    "index": 937
+  },
+  {
+    "surface": "ランドバーグ",
+    "reading": "landvague",
+    "code": "cr-kata8-938",
+    "index": 938
+  },
+  {
+    "surface": "ラン",
+    "reading": "run",
+    "code": "cr-kata8-939",
+    "index": 939
+  },
+  {
+    "surface": "ルコラ",
+    "reading": "lecola",
+    "code": "cr-kata8-940",
+    "index": 940
+  },
+  {
+    "surface": "リベンジ",
+    "reading": "revenge",
+    "code": "cr-kata8-941",
+    "index": 941
+  },
+  {
+    "surface": "ルンド",
+    "reading": "rundo",
+    "code": "cr-kata8-942",
+    "index": 942
+  },
+  {
+    "surface": "リエゾン",
+    "reading": "liaison",
+    "code": "cr-kata8-943",
+    "index": 943
+  },
+  {
+    "surface": "レム",
+    "reading": "remu",
+    "code": "cr-kata8-944",
+    "index": 944
+  },
+  {
+    "surface": "ラムダ",
+    "reading": "lambda",
+    "code": "cr-kata8-945",
+    "index": 945
+  },
+  {
+    "surface": "ローラシア",
+    "reading": "roorashia",
+    "code": "cr-kata8-946",
+    "index": 946
+  },
+  {
+    "surface": "リオ",
+    "reading": "rio",
+    "code": "cr-kata8-947",
+    "index": 947
+  },
+  {
+    "surface": "ロシヤ",
+    "reading": "rossiya",
+    "code": "cr-kata8-948",
+    "index": 948
+  },
+  {
+    "surface": "レボリューション",
+    "reading": "revolution",
+    "code": "cr-kata8-949",
+    "index": 949
+  },
+  {
+    "surface": "ロックンロール",
+    "reading": "rokkunrooru",
+    "code": "cr-kata8-950",
+    "index": 950
+  },
+  {
+    "surface": "レッスン",
+    "reading": "lesson",
+    "code": "cr-kata8-951",
+    "index": 951
+  },
+  {
+    "surface": "ラーワルピンディー",
+    "reading": "raawarupindii",
+    "code": "cr-kata8-952",
+    "index": 952
+  },
+  {
+    "surface": "ルートヴィヒスハーフェン",
+    "reading": "ludwigshafen",
+    "code": "cr-kata8-953",
+    "index": 953
+  },
+  {
+    "surface": "ラッシュアワー",
+    "reading": "rushhour",
+    "code": "cr-kata8-954",
+    "index": 954
+  },
+  {
+    "surface": "レポ",
+    "reading": "report",
+    "code": "cr-kata8-955",
+    "index": 955
+  },
+  {
+    "surface": "ラザーニェ",
+    "reading": "razaane",
+    "code": "cr-kata8-956",
+    "index": 956
+  },
+  {
+    "surface": "リコンストラクション",
+    "reading": "reconstruction",
+    "code": "cr-kata8-957",
+    "index": 957
+  },
+  {
+    "surface": "ロンリネス",
+    "reading": "ronrinesu",
+    "code": "cr-kata8-958",
+    "index": 958
+  },
+  {
+    "surface": "ライノベ",
+    "reading": "rainobe",
+    "code": "cr-kata8-959",
+    "index": 959
+  },
+  {
+    "surface": "ロケタス・デ・マル",
+    "reading": "locationtasudesmal",
+    "code": "cr-kata8-960",
+    "index": 960
+  },
+  {
+    "surface": "ラングール",
+    "reading": "langur",
+    "code": "cr-kata8-961",
+    "index": 961
+  },
+  {
+    "surface": "ラド",
+    "reading": "rad",
+    "code": "cr-kata8-962",
+    "index": 962
+  },
+  {
+    "surface": "ラグーザ",
+    "reading": "ragusa",
+    "code": "cr-kata8-963",
+    "index": 963
+  },
+  {
+    "surface": "ロス",
+    "reading": "loss",
+    "code": "cr-kata8-964",
+    "index": 964
+  },
+  {
+    "surface": "ルリカケス",
+    "reading": "rurikakesu",
+    "code": "cr-kata8-965",
+    "index": 965
+  },
+  {
+    "surface": "リーブルヴィル",
+    "reading": "libreville",
+    "code": "cr-kata8-966",
+    "index": 966
+  },
+  {
+    "surface": "ログオフ",
+    "reading": "logoff",
+    "code": "cr-kata8-967",
+    "index": 967
+  },
+  {
+    "surface": "ロンデボッシュ",
+    "reading": "rondebosshu",
+    "code": "cr-kata8-968",
+    "index": 968
+  },
+  {
+    "surface": "ランプウェー",
+    "reading": "lampway",
+    "code": "cr-kata8-969",
+    "index": 969
+  },
+  {
+    "surface": "レンニン",
+    "reading": "rennin",
+    "code": "cr-kata8-970",
+    "index": 970
+  },
+  {
+    "surface": "ルリスズメダイ",
+    "reading": "rurisuzumedai",
+    "code": "cr-kata8-971",
+    "index": 971
+  },
+  {
+    "surface": "ルーシ",
+    "reading": "ruushi",
+    "code": "cr-kata8-972",
+    "index": 972
+  },
+  {
+    "surface": "ラディカリズム",
+    "reading": "radicalism",
+    "code": "cr-kata8-973",
+    "index": 973
+  },
+  {
+    "surface": "ランゲン",
+    "reading": "rangen",
+    "code": "cr-kata8-974",
+    "index": 974
+  },
+  {
+    "surface": "レスカ",
+    "reading": "lemonsquash",
+    "code": "cr-kata8-975",
+    "index": 975
+  },
+  {
+    "surface": "ルバート",
+    "reading": "rubato",
+    "code": "cr-kata8-976",
+    "index": 976
+  },
+  {
+    "surface": "ラテックス",
+    "reading": "latex",
+    "code": "cr-kata8-977",
+    "index": 977
+  },
+  {
+    "surface": "リッチモンドヒル",
+    "reading": "ritchimondohiru",
+    "code": "cr-kata8-978",
+    "index": 978
+  },
+  {
+    "surface": "リビア",
+    "reading": "libya",
+    "code": "cr-kata8-979",
+    "index": 979
+  },
+  {
+    "surface": "ラムラ",
+    "reading": "ramura",
+    "code": "cr-kata8-980",
+    "index": 980
+  },
+  {
+    "surface": "リドゥ",
+    "reading": "lido",
+    "code": "cr-kata8-981",
+    "index": 981
+  },
+  {
+    "surface": "ルポライター",
+    "reading": "ruporaitaa",
+    "code": "cr-kata8-982",
+    "index": 982
+  },
+  {
+    "surface": "ラフスケッチ",
+    "reading": "roughsketch",
+    "code": "cr-kata8-983",
+    "index": 983
+  },
+  {
+    "surface": "リリシズム",
+    "reading": "lyricism",
+    "code": "cr-kata8-984",
+    "index": 984
+  },
+  {
+    "surface": "レーン",
+    "reading": "lane",
+    "code": "cr-kata8-985",
+    "index": 985
+  },
+  {
+    "surface": "ローデシア",
+    "reading": "rhodesia",
+    "code": "cr-kata8-986",
+    "index": 986
+  },
+  {
+    "surface": "ラクトゲン",
+    "reading": "lactosegen",
+    "code": "cr-kata8-987",
+    "index": 987
+  },
+  {
+    "surface": "ラーメン",
+    "reading": "rahmen",
+    "code": "cr-kata8-988",
+    "index": 988
+  },
+  {
+    "surface": "ローン",
+    "reading": "loan",
+    "code": "cr-kata8-989",
+    "index": 989
+  },
+  {
+    "surface": "ラインハイム",
+    "reading": "linehaimu",
+    "code": "cr-kata8-990",
+    "index": 990
+  },
+  {
+    "surface": "レスポンシビリティー",
+    "reading": "responsibility",
+    "code": "cr-kata8-991",
+    "index": 991
+  },
+  {
+    "surface": "リダイヤル",
+    "reading": "redial",
+    "code": "cr-kata8-992",
+    "index": 992
+  },
+  {
+    "surface": "レタス",
+    "reading": "lettuce",
+    "code": "cr-kata8-993",
+    "index": 993
+  },
+  {
+    "surface": "ロスキレ",
+    "reading": "rosukire",
+    "code": "cr-kata8-994",
+    "index": 994
+  },
+  {
+    "surface": "リモートコントロール",
+    "reading": "remotecontrol",
+    "code": "cr-kata8-995",
+    "index": 995
+  },
+  {
+    "surface": "ルーミング",
+    "reading": "ruumingu",
+    "code": "cr-kata8-996",
+    "index": 996
+  },
+  {
+    "surface": "ラドム",
+    "reading": "radomu",
+    "code": "cr-kata8-997",
+    "index": 997
+  },
+  {
+    "surface": "レック",
+    "reading": "wreck",
+    "code": "cr-kata8-998",
+    "index": 998
+  },
+  {
+    "surface": "ラブホ",
+    "reading": "rabuho",
+    "code": "cr-kata8-999",
+    "index": 999
+  },
+  {
+    "surface": "レーニン",
+    "reading": "lenin",
+    "code": "cr-kata8-1000",
+    "index": 1000
+  },
+  {
+    "surface": "ランシー",
+    "reading": "runsea",
+    "code": "cr-kata8-1001",
+    "index": 1001
+  },
+  {
+    "surface": "ロチェスターヒルズ",
+    "reading": "rochesterhills",
+    "code": "cr-kata8-1002",
+    "index": 1002
+  },
+  {
+    "surface": "リスニングルーム",
+    "reading": "listeningroom",
+    "code": "cr-kata8-1003",
+    "index": 1003
+  },
+  {
+    "surface": "ロン",
+    "reading": "ron",
+    "code": "cr-kata8-1004",
+    "index": 1004
+  },
+  {
+    "surface": "ロシア",
+    "reading": "rossiya",
+    "code": "cr-kata8-1005",
+    "index": 1005
+  },
+  {
+    "surface": "レンタル",
+    "reading": "rental",
+    "code": "cr-kata8-1006",
+    "index": 1006
+  },
+  {
+    "surface": "リリーフ",
+    "reading": "relief",
+    "code": "cr-kata8-1007",
+    "index": 1007
+  },
+  {
+    "surface": "リシプロシティー",
+    "reading": "reciprocity",
+    "code": "cr-kata8-1008",
+    "index": 1008
+  },
+  {
+    "surface": "レーヴェン",
+    "reading": "reeven",
+    "code": "cr-kata8-1009",
+    "index": 1009
+  },
+  {
+    "surface": "ランディングギア",
+    "reading": "landinggear",
+    "code": "cr-kata8-1010",
+    "index": 1010
+  },
+  {
+    "surface": "リコメンデーション",
+    "reading": "recommendation",
+    "code": "cr-kata8-1011",
+    "index": 1011
+  },
+  {
+    "surface": "リトル・ロック",
+    "reading": "littlerokku",
+    "code": "cr-kata8-1012",
+    "index": 1012
+  },
+  {
+    "surface": "ロサンゼルス",
+    "reading": "losangeles",
+    "code": "cr-kata8-1013",
+    "index": 1013
+  },
+  {
+    "surface": "ライヒイ",
+    "reading": "raihii",
+    "code": "cr-kata8-1014",
+    "index": 1014
+  },
+  {
+    "surface": "ロックガーデン",
+    "reading": "rokkugarden",
+    "code": "cr-kata8-1015",
+    "index": 1015
+  },
+  {
+    "surface": "ロングブランチ",
+    "reading": "longbranch",
+    "code": "cr-kata8-1016",
+    "index": 1016
+  },
+  {
+    "surface": "ラムパートハイム",
+    "reading": "lambparthaimu",
+    "code": "cr-kata8-1017",
+    "index": 1017
+  },
+  {
+    "surface": "リュウグウベラ",
+    "reading": "ryuuguubera",
+    "code": "cr-kata8-1018",
+    "index": 1018
+  },
+  {
+    "surface": "ラフプレイ",
+    "reading": "roughplay",
+    "code": "cr-kata8-1019",
+    "index": 1019
+  },
+  {
+    "surface": "ロングレール",
+    "reading": "longrail",
+    "code": "cr-kata8-1020",
+    "index": 1020
+  },
+  {
+    "surface": "リンゴガリ",
+    "reading": "ringoghali",
+    "code": "cr-kata8-1021",
+    "index": 1021
+  },
+  {
+    "surface": "レバース",
+    "reading": "leversu",
+    "code": "cr-kata8-1022",
+    "index": 1022
+  },
+  {
+    "surface": "レッサーパンダ",
+    "reading": "lesserpanda",
+    "code": "cr-kata8-1023",
+    "index": 1023
+  },
+  {
+    "surface": "ルーズ",
+    "reading": "loose",
+    "code": "cr-kata8-1024",
+    "index": 1024
+  },
+  {
+    "surface": "ルーカン",
+    "reading": "ruukan",
+    "code": "cr-kata8-1025",
+    "index": 1025
+  },
+  {
+    "surface": "リバイブショップ",
+    "reading": "ribaibushoppu",
+    "code": "cr-kata8-1026",
+    "index": 1026
+  },
+  {
+    "surface": "リカバリーショット",
+    "reading": "rikabariishot",
+    "code": "cr-kata8-1027",
+    "index": 1027
+  },
+  {
+    "surface": "ルーイ",
+    "reading": "ruui",
+    "code": "cr-kata8-1028",
+    "index": 1028
+  },
+  {
+    "surface": "レイヨン",
+    "reading": "rayon",
+    "code": "cr-kata8-1029",
+    "index": 1029
+  },
+  {
+    "surface": "ラヴ",
+    "reading": "love",
+    "code": "cr-kata8-1030",
+    "index": 1030
+  },
+  {
+    "surface": "リンウッド",
+    "reading": "rinwood",
+    "code": "cr-kata8-1031",
+    "index": 1031
+  },
+  {
+    "surface": "リピータハブ",
+    "reading": "repeaterhave",
+    "code": "cr-kata8-1032",
+    "index": 1032
+  },
+  {
+    "surface": "レザペパ",
+    "reading": "rezapepa",
+    "code": "cr-kata8-1033",
+    "index": 1033
+  },
+  {
+    "surface": "レンギョウ",
+    "reading": "rengyou",
+    "code": "cr-kata8-1034",
+    "index": 1034
+  },
+  {
+    "surface": "レッグオブマトンスリーブ",
+    "reading": "legofmuttonsleeve",
+    "code": "cr-kata8-1035",
+    "index": 1035
+  },
+  {
+    "surface": "リボルバ",
+    "reading": "riboruba",
+    "code": "cr-kata8-1036",
+    "index": 1036
+  },
+  {
+    "surface": "ロールプレーイングゲーム",
+    "reading": "rollplayinggame",
+    "code": "cr-kata8-1037",
+    "index": 1037
+  },
+  {
+    "surface": "ルーコラ",
+    "reading": "rouxcola",
+    "code": "cr-kata8-1038",
+    "index": 1038
+  },
+  {
+    "surface": "ラピッドシティ",
+    "reading": "rapiddocity",
+    "code": "cr-kata8-1039",
+    "index": 1039
+  },
+  {
+    "surface": "ローファ",
+    "reading": "loaf",
+    "code": "cr-kata8-1040",
+    "index": 1040
+  },
+  {
+    "surface": "ロード",
+    "reading": "road",
+    "code": "cr-kata8-1041",
+    "index": 1041
+  },
+  {
+    "surface": "リスト",
+    "reading": "list",
+    "code": "cr-kata8-1042",
+    "index": 1042
+  },
+  {
+    "surface": "レガネス",
+    "reading": "reganesu",
+    "code": "cr-kata8-1043",
+    "index": 1043
+  },
+  {
+    "surface": "リノタイル",
+    "reading": "renotile",
+    "code": "cr-kata8-1044",
+    "index": 1044
+  },
+  {
+    "surface": "ロングヘア",
+    "reading": "longhair",
+    "code": "cr-kata8-1045",
+    "index": 1045
+  },
+  {
+    "surface": "リウマチ",
+    "reading": "rheumatism",
+    "code": "cr-kata8-1046",
+    "index": 1046
+  },
+  {
+    "surface": "リラックス",
+    "reading": "relax",
+    "code": "cr-kata8-1047",
+    "index": 1047
+  },
+  {
+    "surface": "レジメ",
+    "reading": "resume",
+    "code": "cr-kata8-1048",
+    "index": 1048
+  },
+  {
+    "surface": "ラハティ",
+    "reading": "rahati",
+    "code": "cr-kata8-1049",
+    "index": 1049
+  },
+  {
+    "surface": "ラメラ",
+    "reading": "lamella",
+    "code": "cr-kata8-1050",
+    "index": 1050
+  },
+  {
+    "surface": "リムジーン",
+    "reading": "rimgene",
+    "code": "cr-kata8-1051",
+    "index": 1051
+  },
+  {
+    "surface": "ロータス",
+    "reading": "lotus",
+    "code": "cr-kata8-1052",
+    "index": 1052
+  },
+  {
+    "surface": "ライフサイエンス",
+    "reading": "lifescience",
+    "code": "cr-kata8-1053",
+    "index": 1053
+  },
+  {
+    "surface": "ロードゲーム",
+    "reading": "roadgame",
+    "code": "cr-kata8-1054",
+    "index": 1054
+  },
+  {
+    "surface": "レーザープリンター",
+    "reading": "laserprinter",
+    "code": "cr-kata8-1055",
+    "index": 1055
+  },
+  {
+    "surface": "ラブコメ",
+    "reading": "lovecomedy",
+    "code": "cr-kata8-1056",
+    "index": 1056
+  },
+  {
+    "surface": "ライフ・ヒストリー",
+    "reading": "lifehistory",
+    "code": "cr-kata8-1057",
+    "index": 1057
+  },
+  {
+    "surface": "ラシャ",
+    "reading": "raxa",
+    "code": "cr-kata8-1058",
+    "index": 1058
+  },
+  {
+    "surface": "リスキー",
+    "reading": "risky",
+    "code": "cr-kata8-1059",
+    "index": 1059
+  },
+  {
+    "surface": "リボゾーム",
+    "reading": "ribosome",
+    "code": "cr-kata8-1060",
+    "index": 1060
+  },
+  {
+    "surface": "ラーマン",
+    "reading": "rahman",
+    "code": "cr-kata8-1061",
+    "index": 1061
+  },
+  {
+    "surface": "ロスタイム",
+    "reading": "losstime",
+    "code": "cr-kata8-1062",
+    "index": 1062
+  },
+  {
+    "surface": "リーダーシップ",
+    "reading": "leadership",
+    "code": "cr-kata8-1063",
+    "index": 1063
+  },
+  {
+    "surface": "リコーダ",
+    "reading": "ricohda",
+    "code": "cr-kata8-1064",
+    "index": 1064
+  },
+  {
+    "surface": "レンティーニ",
+    "reading": "rentiini",
+    "code": "cr-kata8-1065",
+    "index": 1065
+  },
+  {
+    "surface": "レキシコン",
+    "reading": "lexicon",
+    "code": "cr-kata8-1066",
+    "index": 1066
+  },
+  {
+    "surface": "ラストシーン",
+    "reading": "lastscene",
+    "code": "cr-kata8-1067",
+    "index": 1067
+  },
+  {
+    "surface": "リスクマネジメント",
+    "reading": "riskmanagement",
+    "code": "cr-kata8-1068",
+    "index": 1068
+  },
+  {
+    "surface": "ルームライト",
+    "reading": "roomraito",
+    "code": "cr-kata8-1069",
+    "index": 1069
+  },
+  {
+    "surface": "ロッキー",
+    "reading": "rokkii",
+    "code": "cr-kata8-1070",
+    "index": 1070
+  },
+  {
+    "surface": "ルィブニツァ",
+    "reading": "ribunitsa",
+    "code": "cr-kata8-1071",
+    "index": 1071
+  },
+  {
+    "surface": "レディッチ",
+    "reading": "reditchi",
+    "code": "cr-kata8-1072",
+    "index": 1072
+  },
+  {
+    "surface": "リンベ",
+    "reading": "rinbe",
+    "code": "cr-kata8-1073",
+    "index": 1073
+  },
+  {
+    "surface": "リセット",
+    "reading": "reset",
+    "code": "cr-kata8-1074",
+    "index": 1074
+  },
+  {
+    "surface": "ラポール",
+    "reading": "rapport",
+    "code": "cr-kata8-1075",
+    "index": 1075
+  },
+  {
+    "surface": "リファイン",
+    "reading": "refine",
+    "code": "cr-kata8-1076",
+    "index": 1076
+  },
+  {
+    "surface": "ロスパロス",
+    "reading": "rosuparos",
+    "code": "cr-kata8-1077",
+    "index": 1077
+  },
+  {
+    "surface": "ロケットランチャー",
+    "reading": "rocketlauncher",
+    "code": "cr-kata8-1078",
+    "index": 1078
+  },
+  {
+    "surface": "レリスタット",
+    "reading": "rerisutatto",
+    "code": "cr-kata8-1079",
+    "index": 1079
+  },
+  {
+    "surface": "リピータ",
+    "reading": "repeater",
+    "code": "cr-kata8-1080",
+    "index": 1080
+  },
+  {
+    "surface": "ルートヴィヒスブルク",
+    "reading": "ruutovihisuburuku",
+    "code": "cr-kata8-1081",
+    "index": 1081
+  },
+  {
+    "surface": "レーヨン",
+    "reading": "rayon",
+    "code": "cr-kata8-1082",
+    "index": 1082
+  },
+  {
+    "surface": "リアライズ",
+    "reading": "realize",
+    "code": "cr-kata8-1083",
+    "index": 1083
+  },
+  {
+    "surface": "レンタルシステム",
+    "reading": "rentalsystem",
+    "code": "cr-kata8-1084",
+    "index": 1084
+  },
+  {
+    "surface": "ラショナリゼーション",
+    "reading": "rashonarizeeshon",
+    "code": "cr-kata8-1085",
+    "index": 1085
+  },
+  {
+    "surface": "ライチャウ",
+    "reading": "raichau",
+    "code": "cr-kata8-1086",
+    "index": 1086
+  },
+  {
+    "surface": "リピートキー",
+    "reading": "repeatkey",
+    "code": "cr-kata8-1087",
+    "index": 1087
+  },
+  {
+    "surface": "レディズ",
+    "reading": "ladyzu",
+    "code": "cr-kata8-1088",
+    "index": 1088
+  },
+  {
+    "surface": "ロンジー",
+    "reading": "ronjii",
+    "code": "cr-kata8-1089",
+    "index": 1089
+  },
+  {
+    "surface": "リトル",
+    "reading": "little",
+    "code": "cr-kata8-1090",
+    "index": 1090
+  },
+  {
+    "surface": "ロードホールディング",
+    "reading": "roadholding",
+    "code": "cr-kata8-1091",
+    "index": 1091
+  },
+  {
+    "surface": "ロザラム",
+    "reading": "rozalamb",
+    "code": "cr-kata8-1092",
+    "index": 1092
+  },
+  {
+    "surface": "ロードミラー",
+    "reading": "roadmirror",
+    "code": "cr-kata8-1093",
+    "index": 1093
+  },
+  {
+    "surface": "レイクウェールズ",
+    "reading": "lakewales",
+    "code": "cr-kata8-1094",
+    "index": 1094
+  },
+  {
+    "surface": "レクチン",
+    "reading": "lectin",
+    "code": "cr-kata8-1095",
+    "index": 1095
+  },
+  {
+    "surface": "ロスケ",
+    "reading": "rosuke",
+    "code": "cr-kata8-1096",
+    "index": 1096
+  },
+  {
+    "surface": "ラッド",
+    "reading": "lad",
+    "code": "cr-kata8-1097",
+    "index": 1097
+  },
+  {
+    "surface": "リスポンシビリティ",
+    "reading": "responsibility",
+    "code": "cr-kata8-1098",
+    "index": 1098
+  },
+  {
+    "surface": "リラ",
+    "reading": "lilas",
+    "code": "cr-kata8-1099",
+    "index": 1099
+  },
+  {
+    "surface": "ロビト",
+    "reading": "lobito",
+    "code": "cr-kata8-1100",
+    "index": 1100
+  },
+  {
+    "surface": "リアルト",
+    "reading": "rialto",
+    "code": "cr-kata8-1101",
+    "index": 1101
+  },
+  {
+    "surface": "ラベル",
+    "reading": "label",
+    "code": "cr-kata8-1102",
+    "index": 1102
+  },
+  {
+    "surface": "ロリコン",
+    "reading": "rorikon",
+    "code": "cr-kata8-1103",
+    "index": 1103
+  },
+  {
+    "surface": "ルセ",
+    "reading": "ruse",
+    "code": "cr-kata8-1104",
+    "index": 1104
+  },
+  {
+    "surface": "ロングビーチ",
+    "reading": "longbeach",
+    "code": "cr-kata8-1105",
+    "index": 1105
+  },
+  {
+    "surface": "レイ",
+    "reading": "lay",
+    "code": "cr-kata8-1106",
+    "index": 1106
+  },
+  {
+    "surface": "ランチ",
+    "reading": "lunch",
+    "code": "cr-kata8-1107",
+    "index": 1107
+  },
+  {
+    "surface": "ルータ",
+    "reading": "router",
+    "code": "cr-kata8-1108",
+    "index": 1108
+  },
+  {
+    "surface": "ロアー",
+    "reading": "roa",
+    "code": "cr-kata8-1109",
+    "index": 1109
+  },
+  {
+    "surface": "リベレツ",
+    "reading": "riberetsu",
+    "code": "cr-kata8-1110",
+    "index": 1110
+  },
+  {
+    "surface": "リポソーム",
+    "reading": "liposome",
+    "code": "cr-kata8-1111",
+    "index": 1111
+  },
+  {
+    "surface": "レストルーム",
+    "reading": "restroom",
+    "code": "cr-kata8-1112",
+    "index": 1112
+  },
+  {
+    "surface": "ローラーベアリング",
+    "reading": "rollerbearing",
+    "code": "cr-kata8-1113",
+    "index": 1113
+  },
+  {
+    "surface": "リコール",
+    "reading": "recall",
+    "code": "cr-kata8-1114",
+    "index": 1114
+  },
+  {
+    "surface": "ラベリング",
+    "reading": "labeling",
+    "code": "cr-kata8-1115",
+    "index": 1115
+  },
+  {
+    "surface": "ロックスプリングス",
+    "reading": "rokkuspringsu",
+    "code": "cr-kata8-1116",
+    "index": 1116
+  },
+  {
+    "surface": "リッジクレスト",
+    "reading": "ridgecrest",
+    "code": "cr-kata8-1117",
+    "index": 1117
+  },
+  {
+    "surface": "レジデンシャルホテル",
+    "reading": "residentialhotel",
+    "code": "cr-kata8-1118",
+    "index": 1118
+  },
+  {
+    "surface": "ラ・グアイラ",
+    "reading": "raguaira",
+    "code": "cr-kata8-1119",
+    "index": 1119
+  },
+  {
+    "surface": "ルブリケーション",
+    "reading": "ruburikeeshon",
+    "code": "cr-kata8-1120",
+    "index": 1120
+  },
+  {
+    "surface": "ラメ",
+    "reading": "lame",
+    "code": "cr-kata8-1121",
+    "index": 1121
+  },
+  {
+    "surface": "ロブ",
+    "reading": "lob",
+    "code": "cr-kata8-1122",
+    "index": 1122
+  },
+  {
+    "surface": "リーズン",
+    "reading": "riizun",
+    "code": "cr-kata8-1123",
+    "index": 1123
+  },
+  {
+    "surface": "リミター",
+    "reading": "rimitaa",
+    "code": "cr-kata8-1124",
+    "index": 1124
+  },
+  {
+    "surface": "リハビリテーション",
+    "reading": "rehabilitation",
+    "code": "cr-kata8-1125",
+    "index": 1125
+  },
+  {
+    "surface": "レディメイド",
+    "reading": "ladymade",
+    "code": "cr-kata8-1126",
+    "index": 1126
+  },
+  {
+    "surface": "ロリータコンプレックス",
+    "reading": "lolitacomplex",
+    "code": "cr-kata8-1127",
+    "index": 1127
+  },
+  {
+    "surface": "ラッキィ",
+    "reading": "rakki",
+    "code": "cr-kata8-1128",
+    "index": 1128
+  },
+  {
+    "surface": "ランドールズクロミス",
+    "reading": "rundollclosmistake",
+    "code": "cr-kata8-1129",
+    "index": 1129
+  },
+  {
+    "surface": "リリーフカー",
+    "reading": "reliefcar",
+    "code": "cr-kata8-1130",
+    "index": 1130
+  },
+  {
+    "surface": "ライオン",
+    "reading": "lion",
+    "code": "cr-kata8-1131",
+    "index": 1131
+  },
+  {
+    "surface": "リバーサルフィルム",
+    "reading": "reversalfilm",
+    "code": "cr-kata8-1132",
+    "index": 1132
+  },
+  {
+    "surface": "レフティ",
+    "reading": "reflexti",
+    "code": "cr-kata8-1133",
+    "index": 1133
+  },
+  {
+    "surface": "リゴリスト",
+    "reading": "rigorist",
+    "code": "cr-kata8-1134",
+    "index": 1134
+  },
+  {
+    "surface": "ラトヴィア",
+    "reading": "latvia",
+    "code": "cr-kata8-1135",
+    "index": 1135
+  },
+  {
+    "surface": "ルシフェリン",
+    "reading": "luciferin",
+    "code": "cr-kata8-1136",
+    "index": 1136
+  },
+  {
+    "surface": "ラ・アスンシオン",
+    "reading": "raasuncion",
+    "code": "cr-kata8-1137",
+    "index": 1137
+  },
+  {
+    "surface": "リムクラッチ",
+    "reading": "rimclutch",
+    "code": "cr-kata8-1138",
+    "index": 1138
+  },
+  {
+    "surface": "ランパーン",
+    "reading": "ranpaan",
+    "code": "cr-kata8-1139",
+    "index": 1139
+  },
+  {
+    "surface": "リプル",
+    "reading": "ripple",
+    "code": "cr-kata8-1140",
+    "index": 1140
+  },
+  {
+    "surface": "ルピー",
+    "reading": "rupi",
+    "code": "cr-kata8-1141",
+    "index": 1141
+  },
+  {
+    "surface": "ランドサット",
+    "reading": "randosatto",
+    "code": "cr-kata8-1142",
+    "index": 1142
+  },
+  {
+    "surface": "レイチェル",
+    "reading": "reicheru",
+    "code": "cr-kata8-1143",
+    "index": 1143
+  },
+  {
+    "surface": "レジ",
+    "reading": "register",
+    "code": "cr-kata8-1144",
+    "index": 1144
+  },
+  {
+    "surface": "ロートガウ",
+    "reading": "rootogau",
+    "code": "cr-kata8-1145",
+    "index": 1145
+  },
+  {
+    "surface": "リウネ",
+    "reading": "riune",
+    "code": "cr-kata8-1146",
+    "index": 1146
+  },
+  {
+    "surface": "レター",
+    "reading": "letter",
+    "code": "cr-kata8-1147",
+    "index": 1147
+  },
+  {
+    "surface": "レグレッションテスト",
+    "reading": "reguresshontesuto",
+    "code": "cr-kata8-1148",
+    "index": 1148
+  },
+  {
+    "surface": "レオン",
+    "reading": "reon",
+    "code": "cr-kata8-1149",
+    "index": 1149
+  },
+  {
+    "surface": "ラ・セレナ",
+    "reading": "raserena",
+    "code": "cr-kata8-1150",
+    "index": 1150
+  },
+  {
+    "surface": "ルサンチマン",
+    "reading": "ressentiment",
+    "code": "cr-kata8-1151",
+    "index": 1151
+  },
+  {
+    "surface": "ルーベ",
+    "reading": "loubet",
+    "code": "cr-kata8-1152",
+    "index": 1152
+  },
+  {
+    "surface": "レース",
+    "reading": "reesu",
+    "code": "cr-kata8-1153",
+    "index": 1153
+  },
+  {
+    "surface": "ラハール",
+    "reading": "rahaaru",
+    "code": "cr-kata8-1154",
+    "index": 1154
+  },
+  {
+    "surface": "リマ",
+    "reading": "lima",
+    "code": "cr-kata8-1155",
+    "index": 1155
+  },
+  {
+    "surface": "レトロ",
+    "reading": "retro",
+    "code": "cr-kata8-1156",
+    "index": 1156
+  },
+  {
+    "surface": "ロードテスト",
+    "reading": "roadtest",
+    "code": "cr-kata8-1157",
+    "index": 1157
+  },
+  {
+    "surface": "ロメ",
+    "reading": "lome",
+    "code": "cr-kata8-1158",
+    "index": 1158
+  },
+  {
+    "surface": "リクルーター",
+    "reading": "recruiter",
+    "code": "cr-kata8-1159",
+    "index": 1159
+  },
+  {
+    "surface": "リードオンリー",
+    "reading": "leadonly",
+    "code": "cr-kata8-1160",
+    "index": 1160
+  },
+  {
+    "surface": "レギュラーメンバー",
+    "reading": "regularmember",
+    "code": "cr-kata8-1161",
+    "index": 1161
+  },
+  {
+    "surface": "ロージン",
+    "reading": "rosin",
+    "code": "cr-kata8-1162",
+    "index": 1162
+  },
+  {
+    "surface": "レイヤードルーチング",
+    "reading": "reiyaadorouxchingu",
+    "code": "cr-kata8-1163",
+    "index": 1163
+  },
+  {
+    "surface": "レズビアン",
+    "reading": "lesbian",
+    "code": "cr-kata8-1164",
+    "index": 1164
+  },
+  {
+    "surface": "ラドクリフ",
+    "reading": "radokurifu",
+    "code": "cr-kata8-1165",
+    "index": 1165
+  },
+  {
+    "surface": "ローサルファ",
+    "reading": "lowsulfa",
+    "code": "cr-kata8-1166",
+    "index": 1166
+  },
+  {
+    "surface": "ロンドン",
+    "reading": "london",
+    "code": "cr-kata8-1167",
+    "index": 1167
+  },
+  {
+    "surface": "リーヴヌィ",
+    "reading": "riivuni",
+    "code": "cr-kata8-1168",
+    "index": 1168
+  },
+  {
+    "surface": "レーガン",
+    "reading": "reagan",
+    "code": "cr-kata8-1169",
+    "index": 1169
+  },
+  {
+    "surface": "リトル・エルム",
+    "reading": "littleelm",
+    "code": "cr-kata8-1170",
+    "index": 1170
+  },
+  {
+    "surface": "レギュラー",
+    "reading": "regular",
+    "code": "cr-kata8-1171",
+    "index": 1171
+  },
+  {
+    "surface": "リンジー",
+    "reading": "rinjii",
+    "code": "cr-kata8-1172",
+    "index": 1172
+  },
+  {
+    "surface": "ローンテニス",
+    "reading": "loantennis",
+    "code": "cr-kata8-1173",
+    "index": 1173
+  },
+  {
+    "surface": "ロビー",
+    "reading": "lobby",
+    "code": "cr-kata8-1174",
+    "index": 1174
+  },
+  {
+    "surface": "ラダー",
+    "reading": "ladder",
+    "code": "cr-kata8-1175",
+    "index": 1175
+  },
+  {
+    "surface": "レギュレーション",
+    "reading": "regulation",
+    "code": "cr-kata8-1176",
+    "index": 1176
+  },
+  {
+    "surface": "レフトウィング",
+    "reading": "leftwing",
+    "code": "cr-kata8-1177",
+    "index": 1177
+  },
+  {
+    "surface": "レザーサージョンフィッシュ",
+    "reading": "rezaasaajonfisshu",
+    "code": "cr-kata8-1178",
+    "index": 1178
+  },
+  {
+    "surface": "ライフ",
+    "reading": "life",
+    "code": "cr-kata8-1179",
+    "index": 1179
+  },
+  {
+    "surface": "ライド",
+    "reading": "ride",
+    "code": "cr-kata8-1180",
+    "index": 1180
+  },
+  {
+    "surface": "リークディテクター",
+    "reading": "leakdetector",
+    "code": "cr-kata8-1181",
+    "index": 1181
+  },
+  {
+    "surface": "リーフ",
+    "reading": "leaf",
+    "code": "cr-kata8-1182",
+    "index": 1182
+  },
+  {
+    "surface": "ランツフート",
+    "reading": "landshut",
+    "code": "cr-kata8-1183",
+    "index": 1183
+  },
+  {
+    "surface": "ローカルバスビデオ",
+    "reading": "localbusvideo",
+    "code": "cr-kata8-1184",
+    "index": 1184
+  },
+  {
+    "surface": "ローガン",
+    "reading": "logan",
+    "code": "cr-kata8-1185",
+    "index": 1185
+  },
+  {
+    "surface": "レイク",
+    "reading": "lake",
+    "code": "cr-kata8-1186",
+    "index": 1186
+  },
+  {
+    "surface": "ロール",
+    "reading": "roll",
+    "code": "cr-kata8-1187",
+    "index": 1187
+  },
+  {
+    "surface": "ローネック",
+    "reading": "lowneck",
+    "code": "cr-kata8-1188",
+    "index": 1188
+  },
+  {
+    "surface": "ローパーテーション",
+    "reading": "lowpartition",
+    "code": "cr-kata8-1189",
+    "index": 1189
+  },
+  {
+    "surface": "ラジオアイソトープ",
+    "reading": "radioisotope",
+    "code": "cr-kata8-1190",
+    "index": 1190
+  },
+  {
+    "surface": "リインフォースメント",
+    "reading": "riinfoosumento",
+    "code": "cr-kata8-1191",
+    "index": 1191
+  },
+  {
+    "surface": "リョウブ",
+    "reading": "ryoubu",
+    "code": "cr-kata8-1192",
+    "index": 1192
+  },
+  {
+    "surface": "リストラチャリング",
+    "reading": "risutoracharingu",
+    "code": "cr-kata8-1193",
+    "index": 1193
+  },
+  {
+    "surface": "リヴィウ",
+    "reading": "riviu",
+    "code": "cr-kata8-1194",
+    "index": 1194
+  },
+  {
+    "surface": "ロビング",
+    "reading": "lobbing",
+    "code": "cr-kata8-1195",
+    "index": 1195
+  },
+  {
+    "surface": "ロストフ・ナ・ドヌ",
+    "reading": "rostovnadonu",
+    "code": "cr-kata8-1196",
+    "index": 1196
+  },
+  {
+    "surface": "ラジオドラマ",
+    "reading": "radiodrama",
+    "code": "cr-kata8-1197",
+    "index": 1197
+  },
+  {
+    "surface": "リズムアンドブルース",
+    "reading": "rhythmandblues",
+    "code": "cr-kata8-1198",
+    "index": 1198
+  },
+  {
+    "surface": "レキシントン",
+    "reading": "lexington",
+    "code": "cr-kata8-1199",
+    "index": 1199
+  },
+  {
+    "surface": "リードビリティー",
+    "reading": "riidobiritii",
+    "code": "cr-kata8-1200",
+    "index": 1200
+  },
+  {
+    "surface": "ラムズゲート",
+    "reading": "lambgate",
+    "code": "cr-kata8-1201",
+    "index": 1201
+  },
+  {
+    "surface": "リュネル",
+    "reading": "rueflannel",
+    "code": "cr-kata8-1202",
+    "index": 1202
+  },
+  {
+    "surface": "リスクヘッジ",
+    "reading": "riskhedge",
+    "code": "cr-kata8-1203",
+    "index": 1203
+  },
+  {
+    "surface": "ライン",
+    "reading": "line",
+    "code": "cr-kata8-1204",
+    "index": 1204
+  },
+  {
+    "surface": "ラノン",
+    "reading": "ranon",
+    "code": "cr-kata8-1205",
+    "index": 1205
+  },
+  {
+    "surface": "レオガン",
+    "reading": "leogan",
+    "code": "cr-kata8-1206",
+    "index": 1206
+  },
+  {
+    "surface": "ローンダリング",
+    "reading": "laundering",
+    "code": "cr-kata8-1207",
+    "index": 1207
+  },
+  {
+    "surface": "ルリジューズ",
+    "reading": "rurijew",
+    "code": "cr-kata8-1208",
+    "index": 1208
+  },
+  {
+    "surface": "ルクス",
+    "reading": "lux",
+    "code": "cr-kata8-1209",
+    "index": 1209
+  },
+  {
+    "surface": "リバーフォールズ",
+    "reading": "riverfall",
+    "code": "cr-kata8-1210",
+    "index": 1210
+  },
+  {
+    "surface": "レオパード",
+    "reading": "leopard",
+    "code": "cr-kata8-1211",
+    "index": 1211
+  },
+  {
+    "surface": "レクチュア",
+    "reading": "lecture",
+    "code": "cr-kata8-1212",
+    "index": 1212
+  },
+  {
+    "surface": "レドゥク",
+    "reading": "reduku",
+    "code": "cr-kata8-1213",
+    "index": 1213
+  },
+  {
+    "surface": "ロウニンアジ",
+    "reading": "rouninaji",
+    "code": "cr-kata8-1214",
+    "index": 1214
+  },
+  {
+    "surface": "リソルジメント",
+    "reading": "risorgimento",
+    "code": "cr-kata8-1215",
+    "index": 1215
+  },
+  {
+    "surface": "リーブ",
+    "reading": "leave",
+    "code": "cr-kata8-1216",
+    "index": 1216
+  },
+  {
+    "surface": "ロイヤル",
+    "reading": "royal",
+    "code": "cr-kata8-1217",
+    "index": 1217
+  },
+  {
+    "surface": "ラリベラ",
+    "reading": "larrybera",
+    "code": "cr-kata8-1218",
+    "index": 1218
+  },
+  {
+    "surface": "ラスタファリズム",
+    "reading": "rasutafarizumu",
+    "code": "cr-kata8-1219",
+    "index": 1219
+  },
+  {
+    "surface": "リアカー",
+    "reading": "rearcar",
+    "code": "cr-kata8-1220",
+    "index": 1220
+  },
+  {
+    "surface": "ラブ",
+    "reading": "love",
+    "code": "cr-kata8-1221",
+    "index": 1221
+  },
+  {
+    "surface": "リストラクチャリング",
+    "reading": "restructuring",
+    "code": "cr-kata8-1222",
+    "index": 1222
+  },
+  {
+    "surface": "ローカルエリアネットワーク",
+    "reading": "localareanetwork",
+    "code": "cr-kata8-1223",
+    "index": 1223
+  },
+  {
+    "surface": "リコンファーム",
+    "reading": "reconfirm",
+    "code": "cr-kata8-1224",
+    "index": 1224
+  },
+  {
+    "surface": "リマソール",
+    "reading": "limasooru",
+    "code": "cr-kata8-1225",
+    "index": 1225
+  },
+  {
+    "surface": "ログイン",
+    "reading": "login",
+    "code": "cr-kata8-1226",
+    "index": 1226
+  },
+  {
+    "surface": "ローズバーグ",
+    "reading": "rosevague",
+    "code": "cr-kata8-1227",
+    "index": 1227
+  },
+  {
+    "surface": "ロミオ",
+    "reading": "romio",
+    "code": "cr-kata8-1228",
+    "index": 1228
+  },
+  {
+    "surface": "リトミック",
+    "reading": "rythmique",
+    "code": "cr-kata8-1229",
+    "index": 1229
+  },
+  {
+    "surface": "ルフラン",
+    "reading": "refrain",
+    "code": "cr-kata8-1230",
+    "index": 1230
+  },
+  {
+    "surface": "ラグ",
+    "reading": "lag",
+    "code": "cr-kata8-1231",
+    "index": 1231
+  },
+  {
+    "surface": "リムル",
+    "reading": "rimuru",
+    "code": "cr-kata8-1232",
+    "index": 1232
+  },
+  {
+    "surface": "ローラースケート",
+    "reading": "rollerskate",
+    "code": "cr-kata8-1233",
+    "index": 1233
+  },
+  {
+    "surface": "リンクマン",
+    "reading": "rinkman",
+    "code": "cr-kata8-1234",
+    "index": 1234
+  },
+  {
+    "surface": "レッテル",
+    "reading": "letter",
+    "code": "cr-kata8-1235",
+    "index": 1235
+  },
+  {
+    "surface": "ロリアン",
+    "reading": "lorient",
+    "code": "cr-kata8-1236",
+    "index": 1236
+  },
+  {
+    "surface": "レシフェ",
+    "reading": "recife",
+    "code": "cr-kata8-1237",
+    "index": 1237
+  },
+  {
+    "surface": "リングイネ",
+    "reading": "ringine",
+    "code": "cr-kata8-1238",
+    "index": 1238
+  },
+  {
+    "surface": "ローギア",
+    "reading": "lowgear",
+    "code": "cr-kata8-1239",
+    "index": 1239
+  },
+  {
+    "surface": "リュックサック",
+    "reading": "rucksack",
+    "code": "cr-kata8-1240",
+    "index": 1240
+  },
+  {
+    "surface": "レーンボー",
+    "reading": "rainbow",
+    "code": "cr-kata8-1241",
+    "index": 1241
+  },
+  {
+    "surface": "レイトンストーン",
+    "reading": "leightonstone",
+    "code": "cr-kata8-1242",
+    "index": 1242
+  }
+]

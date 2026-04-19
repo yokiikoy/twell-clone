@@ -1,0 +1,7646 @@
+[
+  {
+    "surface": "モプティ",
+    "reading": "mopty",
+    "code": "cr-kata7-0",
+    "index": 0
+  },
+  {
+    "surface": "メイラ",
+    "reading": "mayra",
+    "code": "cr-kata7-1",
+    "index": 1
+  },
+  {
+    "surface": "マニファクチャラー",
+    "reading": "manifakucharaa",
+    "code": "cr-kata7-2",
+    "index": 2
+  },
+  {
+    "surface": "マッキントッシュ",
+    "reading": "macintosh",
+    "code": "cr-kata7-3",
+    "index": 3
+  },
+  {
+    "surface": "モナモンキー",
+    "reading": "monamonkey",
+    "code": "cr-kata7-4",
+    "index": 4
+  },
+  {
+    "surface": "ミズウオ",
+    "reading": "mizuuo",
+    "code": "cr-kata7-5",
+    "index": 5
+  },
+  {
+    "surface": "マニュファクチャ",
+    "reading": "manyufakucha",
+    "code": "cr-kata7-6",
+    "index": 6
+  },
+  {
+    "surface": "モアレ",
+    "reading": "moire",
+    "code": "cr-kata7-7",
+    "index": 7
+  },
+  {
+    "surface": "ムースリ",
+    "reading": "muusuri",
+    "code": "cr-kata7-8",
+    "index": 8
+  },
+  {
+    "surface": "マリネ",
+    "reading": "marine",
+    "code": "cr-kata7-9",
+    "index": 9
+  },
+  {
+    "surface": "マンネリ",
+    "reading": "mannerism",
+    "code": "cr-kata7-10",
+    "index": 10
+  },
+  {
+    "surface": "ミルガイ",
+    "reading": "mirugai",
+    "code": "cr-kata7-11",
+    "index": 11
+  },
+  {
+    "surface": "マルバアオダモ",
+    "reading": "marubaaodamo",
+    "code": "cr-kata7-12",
+    "index": 12
+  },
+  {
+    "surface": "ミニマルミュージック",
+    "reading": "minimalmusic",
+    "code": "cr-kata7-13",
+    "index": 13
+  },
+  {
+    "surface": "ムカムカ",
+    "reading": "mukamuka",
+    "code": "cr-kata7-14",
+    "index": 14
+  },
+  {
+    "surface": "モザンビーク",
+    "reading": "mozambique",
+    "code": "cr-kata7-15",
+    "index": 15
+  },
+  {
+    "surface": "メード",
+    "reading": "maid",
+    "code": "cr-kata7-16",
+    "index": 16
+  },
+  {
+    "surface": "モッコリ",
+    "reading": "mokkori",
+    "code": "cr-kata7-17",
+    "index": 17
+  },
+  {
+    "surface": "ミンチ",
+    "reading": "mince",
+    "code": "cr-kata7-18",
+    "index": 18
+  },
+  {
+    "surface": "モブシーン",
+    "reading": "mobuscene",
+    "code": "cr-kata7-19",
+    "index": 19
+  },
+  {
+    "surface": "マスワリ",
+    "reading": "masuwari",
+    "code": "cr-kata7-20",
+    "index": 20
+  },
+  {
+    "surface": "マンモグラフィ",
+    "reading": "mammography",
+    "code": "cr-kata7-21",
+    "index": 21
+  },
+  {
+    "surface": "マニアル",
+    "reading": "manual",
+    "code": "cr-kata7-22",
+    "index": 22
+  },
+  {
+    "surface": "モンチェゴルスク",
+    "reading": "monchegorusuku",
+    "code": "cr-kata7-23",
+    "index": 23
+  },
+  {
+    "surface": "モソモソ",
+    "reading": "mosomoso",
+    "code": "cr-kata7-24",
+    "index": 24
+  },
+  {
+    "surface": "ミナミシベツチョウ",
+    "reading": "minamishibetsuchou",
+    "code": "cr-kata7-25",
+    "index": 25
+  },
+  {
+    "surface": "モノチス",
+    "reading": "monotis",
+    "code": "cr-kata7-26",
+    "index": 26
+  },
+  {
+    "surface": "マイクロブリュワリー",
+    "reading": "maikuroburyuwarii",
+    "code": "cr-kata7-27",
+    "index": 27
+  },
+  {
+    "surface": "ムベンガ",
+    "reading": "mubenga",
+    "code": "cr-kata7-28",
+    "index": 28
+  },
+  {
+    "surface": "マネージ",
+    "reading": "manage",
+    "code": "cr-kata7-29",
+    "index": 29
+  },
+  {
+    "surface": "モッブ",
+    "reading": "mob",
+    "code": "cr-kata7-30",
+    "index": 30
+  },
+  {
+    "surface": "マニュスクリプト",
+    "reading": "manuscript",
+    "code": "cr-kata7-31",
+    "index": 31
+  },
+  {
+    "surface": "メビウス",
+    "reading": "mobius",
+    "code": "cr-kata7-32",
+    "index": 32
+  },
+  {
+    "surface": "マンスフィールド",
+    "reading": "mansfield",
+    "code": "cr-kata7-33",
+    "index": 33
+  },
+  {
+    "surface": "マン",
+    "reading": "man",
+    "code": "cr-kata7-34",
+    "index": 34
+  },
+  {
+    "surface": "マプト",
+    "reading": "maputo",
+    "code": "cr-kata7-35",
+    "index": 35
+  },
+  {
+    "surface": "モレナ",
+    "reading": "morena",
+    "code": "cr-kata7-36",
+    "index": 36
+  },
+  {
+    "surface": "モチベーションレサーチ",
+    "reading": "mochibeeshonresaachi",
+    "code": "cr-kata7-37",
+    "index": 37
+  },
+  {
+    "surface": "モリナ・デ・セグラ",
+    "reading": "morinadesegura",
+    "code": "cr-kata7-38",
+    "index": 38
+  },
+  {
+    "surface": "メガエレクトロンボルト",
+    "reading": "megaelectronbolt",
+    "code": "cr-kata7-39",
+    "index": 39
+  },
+  {
+    "surface": "メンバーシップ",
+    "reading": "membership",
+    "code": "cr-kata7-40",
+    "index": 40
+  },
+  {
+    "surface": "マレーグマ",
+    "reading": "malayguma",
+    "code": "cr-kata7-41",
+    "index": 41
+  },
+  {
+    "surface": "ムラサキクンシラン",
+    "reading": "murasakikunshiran",
+    "code": "cr-kata7-42",
+    "index": 42
+  },
+  {
+    "surface": "マヨネーズ",
+    "reading": "mayonnaise",
+    "code": "cr-kata7-43",
+    "index": 43
+  },
+  {
+    "surface": "ミル",
+    "reading": "mill",
+    "code": "cr-kata7-44",
+    "index": 44
+  },
+  {
+    "surface": "メガネクロハギ",
+    "reading": "meganekurohagi",
+    "code": "cr-kata7-45",
+    "index": 45
+  },
+  {
+    "surface": "ミキサ",
+    "reading": "mikisa",
+    "code": "cr-kata7-46",
+    "index": 46
+  },
+  {
+    "surface": "マゼンタ",
+    "reading": "magenta",
+    "code": "cr-kata7-47",
+    "index": 47
+  },
+  {
+    "surface": "メタリックカラー",
+    "reading": "metalliccolor",
+    "code": "cr-kata7-48",
+    "index": 48
+  },
+  {
+    "surface": "ミナス",
+    "reading": "minasu",
+    "code": "cr-kata7-49",
+    "index": 49
+  },
+  {
+    "surface": "メンコ",
+    "reading": "menko",
+    "code": "cr-kata7-50",
+    "index": 50
+  },
+  {
+    "surface": "メスコネクタ",
+    "reading": "mesconnector",
+    "code": "cr-kata7-51",
+    "index": 51
+  },
+  {
+    "surface": "マイクロプロセッサ",
+    "reading": "microprocessor",
+    "code": "cr-kata7-52",
+    "index": 52
+  },
+  {
+    "surface": "ミズ",
+    "reading": "mizu",
+    "code": "cr-kata7-53",
+    "index": 53
+  },
+  {
+    "surface": "モンシェリー",
+    "reading": "montsherry",
+    "code": "cr-kata7-54",
+    "index": 54
+  },
+  {
+    "surface": "マザーウェル",
+    "reading": "motherwell",
+    "code": "cr-kata7-55",
+    "index": 55
+  },
+  {
+    "surface": "マッピ",
+    "reading": "mouthpiece",
+    "code": "cr-kata7-56",
+    "index": 56
+  },
+  {
+    "surface": "マナカラ",
+    "reading": "manakara",
+    "code": "cr-kata7-57",
+    "index": 57
+  },
+  {
+    "surface": "マネキン",
+    "reading": "mannequin",
+    "code": "cr-kata7-58",
+    "index": 58
+  },
+  {
+    "surface": "モテ",
+    "reading": "mote",
+    "code": "cr-kata7-59",
+    "index": 59
+  },
+  {
+    "surface": "マノクワリ",
+    "reading": "manokwari",
+    "code": "cr-kata7-60",
+    "index": 60
+  },
+  {
+    "surface": "マフェテング",
+    "reading": "mafetengu",
+    "code": "cr-kata7-61",
+    "index": 61
+  },
+  {
+    "surface": "マリーノ",
+    "reading": "mariino",
+    "code": "cr-kata7-62",
+    "index": 62
+  },
+  {
+    "surface": "メニュー",
+    "reading": "menu",
+    "code": "cr-kata7-63",
+    "index": 63
+  },
+  {
+    "surface": "モナミ",
+    "reading": "monami",
+    "code": "cr-kata7-64",
+    "index": 64
+  },
+  {
+    "surface": "マウントプレザント",
+    "reading": "mauntopurezanto",
+    "code": "cr-kata7-65",
+    "index": 65
+  },
+  {
+    "surface": "ムアンフォンサワン",
+    "reading": "muanfonsawan",
+    "code": "cr-kata7-66",
+    "index": 66
+  },
+  {
+    "surface": "マリネード",
+    "reading": "marinade",
+    "code": "cr-kata7-67",
+    "index": 67
+  },
+  {
+    "surface": "マタディ",
+    "reading": "matadi",
+    "code": "cr-kata7-68",
+    "index": 68
+  },
+  {
+    "surface": "ミェイク",
+    "reading": "meiku",
+    "code": "cr-kata7-69",
+    "index": 69
+  },
+  {
+    "surface": "マーワ",
+    "reading": "maawa",
+    "code": "cr-kata7-70",
+    "index": 70
+  },
+  {
+    "surface": "マスビンゴ",
+    "reading": "massbingo",
+    "code": "cr-kata7-71",
+    "index": 71
+  },
+  {
+    "surface": "マル・デル・プラタ",
+    "reading": "malderuprata",
+    "code": "cr-kata7-72",
+    "index": 72
+  },
+  {
+    "surface": "マルチプロセッサー",
+    "reading": "maruchipurosessaa",
+    "code": "cr-kata7-73",
+    "index": 73
+  },
+  {
+    "surface": "ミリネジ",
+    "reading": "mirineji",
+    "code": "cr-kata7-74",
+    "index": 74
+  },
+  {
+    "surface": "メディケード",
+    "reading": "medicaid",
+    "code": "cr-kata7-75",
+    "index": 75
+  },
+  {
+    "surface": "メッセージ",
+    "reading": "message",
+    "code": "cr-kata7-76",
+    "index": 76
+  },
+  {
+    "surface": "メダカ",
+    "reading": "medaka",
+    "code": "cr-kata7-77",
+    "index": 77
+  },
+  {
+    "surface": "マグネティック",
+    "reading": "magunetikku",
+    "code": "cr-kata7-78",
+    "index": 78
+  },
+  {
+    "surface": "メジロ",
+    "reading": "mejiro",
+    "code": "cr-kata7-79",
+    "index": 79
+  },
+  {
+    "surface": "マンション",
+    "reading": "mansion",
+    "code": "cr-kata7-80",
+    "index": 80
+  },
+  {
+    "surface": "ムラサキヌタウナギ",
+    "reading": "murasakinutaunagi",
+    "code": "cr-kata7-81",
+    "index": 81
+  },
+  {
+    "surface": "マシーン",
+    "reading": "machine",
+    "code": "cr-kata7-82",
+    "index": 82
+  },
+  {
+    "surface": "マリ",
+    "reading": "mali",
+    "code": "cr-kata7-83",
+    "index": 83
+  },
+  {
+    "surface": "モロニ",
+    "reading": "moroni",
+    "code": "cr-kata7-84",
+    "index": 84
+  },
+  {
+    "surface": "メンバーズ",
+    "reading": "member",
+    "code": "cr-kata7-85",
+    "index": 85
+  },
+  {
+    "surface": "マイクロホン",
+    "reading": "microphone",
+    "code": "cr-kata7-86",
+    "index": 86
+  },
+  {
+    "surface": "ミニコミ",
+    "reading": "minikomi",
+    "code": "cr-kata7-87",
+    "index": 87
+  },
+  {
+    "surface": "マディソンビル",
+    "reading": "madisonbuilding",
+    "code": "cr-kata7-88",
+    "index": 88
+  },
+  {
+    "surface": "ムリダンガム",
+    "reading": "muridangamu",
+    "code": "cr-kata7-89",
+    "index": 89
+  },
+  {
+    "surface": "ミスト",
+    "reading": "mist",
+    "code": "cr-kata7-90",
+    "index": 90
+  },
+  {
+    "surface": "モノディー",
+    "reading": "monody",
+    "code": "cr-kata7-91",
+    "index": 91
+  },
+  {
+    "surface": "マスコミ",
+    "reading": "masukomi",
+    "code": "cr-kata7-92",
+    "index": 92
+  },
+  {
+    "surface": "モデレイト",
+    "reading": "modereito",
+    "code": "cr-kata7-93",
+    "index": 93
+  },
+  {
+    "surface": "マリンガ",
+    "reading": "maringa",
+    "code": "cr-kata7-94",
+    "index": 94
+  },
+  {
+    "surface": "ミト",
+    "reading": "mytho",
+    "code": "cr-kata7-95",
+    "index": 95
+  },
+  {
+    "surface": "マーケットアナリシス",
+    "reading": "marketanalysis",
+    "code": "cr-kata7-96",
+    "index": 96
+  },
+  {
+    "surface": "マフィア",
+    "reading": "mafia",
+    "code": "cr-kata7-97",
+    "index": 97
+  },
+  {
+    "surface": "ムブナ",
+    "reading": "mubuna",
+    "code": "cr-kata7-98",
+    "index": 98
+  },
+  {
+    "surface": "マントヴァ",
+    "reading": "mantova",
+    "code": "cr-kata7-99",
+    "index": 99
+  },
+  {
+    "surface": "マイクロコム",
+    "reading": "microcom",
+    "code": "cr-kata7-100",
+    "index": 100
+  },
+  {
+    "surface": "マドラスチェック",
+    "reading": "madrascheck",
+    "code": "cr-kata7-101",
+    "index": 101
+  },
+  {
+    "surface": "マイクロブルワリー",
+    "reading": "maikuroburuwarii",
+    "code": "cr-kata7-102",
+    "index": 102
+  },
+  {
+    "surface": "ミストラル",
+    "reading": "mistral",
+    "code": "cr-kata7-103",
+    "index": 103
+  },
+  {
+    "surface": "ムクドリ",
+    "reading": "mukudori",
+    "code": "cr-kata7-104",
+    "index": 104
+  },
+  {
+    "surface": "マイクロシーベルト",
+    "reading": "microsievert",
+    "code": "cr-kata7-105",
+    "index": 105
+  },
+  {
+    "surface": "マネージメントゲーム",
+    "reading": "managementgame",
+    "code": "cr-kata7-106",
+    "index": 106
+  },
+  {
+    "surface": "ムナジロカワガラス",
+    "reading": "munajirokawagarasu",
+    "code": "cr-kata7-107",
+    "index": 107
+  },
+  {
+    "surface": "メンテ",
+    "reading": "maintenance",
+    "code": "cr-kata7-108",
+    "index": 108
+  },
+  {
+    "surface": "ミヨー",
+    "reading": "milhaud",
+    "code": "cr-kata7-109",
+    "index": 109
+  },
+  {
+    "surface": "ミリリットル",
+    "reading": "millilitre",
+    "code": "cr-kata7-110",
+    "index": 110
+  },
+  {
+    "surface": "メット",
+    "reading": "met",
+    "code": "cr-kata7-111",
+    "index": 111
+  },
+  {
+    "surface": "モディフィケーション",
+    "reading": "modification",
+    "code": "cr-kata7-112",
+    "index": 112
+  },
+  {
+    "surface": "メリライト",
+    "reading": "melilite",
+    "code": "cr-kata7-113",
+    "index": 113
+  },
+  {
+    "surface": "ミネオラ",
+    "reading": "mineora",
+    "code": "cr-kata7-114",
+    "index": 114
+  },
+  {
+    "surface": "モイサラ",
+    "reading": "moisarah",
+    "code": "cr-kata7-115",
+    "index": 115
+  },
+  {
+    "surface": "メッシュ",
+    "reading": "mesh",
+    "code": "cr-kata7-116",
+    "index": 116
+  },
+  {
+    "surface": "メガルカヤ",
+    "reading": "megarukaya",
+    "code": "cr-kata7-117",
+    "index": 117
+  },
+  {
+    "surface": "モミ",
+    "reading": "momi",
+    "code": "cr-kata7-118",
+    "index": 118
+  },
+  {
+    "surface": "メートル",
+    "reading": "metre",
+    "code": "cr-kata7-119",
+    "index": 119
+  },
+  {
+    "surface": "ミズグモ",
+    "reading": "mizugumo",
+    "code": "cr-kata7-120",
+    "index": 120
+  },
+  {
+    "surface": "メガトン",
+    "reading": "megaton",
+    "code": "cr-kata7-121",
+    "index": 121
+  },
+  {
+    "surface": "ミッションビエホ",
+    "reading": "misshonbieho",
+    "code": "cr-kata7-122",
+    "index": 122
+  },
+  {
+    "surface": "マスターベイション",
+    "reading": "masutaabeishon",
+    "code": "cr-kata7-123",
+    "index": 123
+  },
+  {
+    "surface": "ミーカー",
+    "reading": "miicar",
+    "code": "cr-kata7-124",
+    "index": 124
+  },
+  {
+    "surface": "ミズワニ",
+    "reading": "mizuwani",
+    "code": "cr-kata7-125",
+    "index": 125
+  },
+  {
+    "surface": "マレット",
+    "reading": "mallet",
+    "code": "cr-kata7-126",
+    "index": 126
+  },
+  {
+    "surface": "ミランダ・デ・エブロ",
+    "reading": "mirandadeeburo",
+    "code": "cr-kata7-127",
+    "index": 127
+  },
+  {
+    "surface": "マッカ",
+    "reading": "makka",
+    "code": "cr-kata7-128",
+    "index": 128
+  },
+  {
+    "surface": "ミノキシジル",
+    "reading": "minoxidil",
+    "code": "cr-kata7-129",
+    "index": 129
+  },
+  {
+    "surface": "モロンダバ",
+    "reading": "morondaba",
+    "code": "cr-kata7-130",
+    "index": 130
+  },
+  {
+    "surface": "モルトウイスキー",
+    "reading": "maltwhisky",
+    "code": "cr-kata7-131",
+    "index": 131
+  },
+  {
+    "surface": "マッグ",
+    "reading": "maggu",
+    "code": "cr-kata7-132",
+    "index": 132
+  },
+  {
+    "surface": "モキシフロキサシン",
+    "reading": "moxifloxacin",
+    "code": "cr-kata7-133",
+    "index": 133
+  },
+  {
+    "surface": "モヨバンバ",
+    "reading": "moyobanba",
+    "code": "cr-kata7-134",
+    "index": 134
+  },
+  {
+    "surface": "メットイン",
+    "reading": "metin",
+    "code": "cr-kata7-135",
+    "index": 135
+  },
+  {
+    "surface": "ミディアムレア",
+    "reading": "mediumrate",
+    "code": "cr-kata7-136",
+    "index": 136
+  },
+  {
+    "surface": "モーゲッジファンド",
+    "reading": "moogejjifando",
+    "code": "cr-kata7-137",
+    "index": 137
+  },
+  {
+    "surface": "マーサー・ティドビル",
+    "reading": "maasaatidobiru",
+    "code": "cr-kata7-138",
+    "index": 138
+  },
+  {
+    "surface": "ムラ",
+    "reading": "mura",
+    "code": "cr-kata7-139",
+    "index": 139
+  },
+  {
+    "surface": "マオタイチュー",
+    "reading": "maotaichuu",
+    "code": "cr-kata7-140",
+    "index": 140
+  },
+  {
+    "surface": "ムショ",
+    "reading": "musho",
+    "code": "cr-kata7-141",
+    "index": 141
+  },
+  {
+    "surface": "モーモー",
+    "reading": "moomoo",
+    "code": "cr-kata7-142",
+    "index": 142
+  },
+  {
+    "surface": "マルチプレイヤ",
+    "reading": "multiplayya",
+    "code": "cr-kata7-143",
+    "index": 143
+  },
+  {
+    "surface": "モンテカティーニ・テルメ",
+    "reading": "montekatiiniterume",
+    "code": "cr-kata7-144",
+    "index": 144
+  },
+  {
+    "surface": "ミルクレープ",
+    "reading": "millcrepe",
+    "code": "cr-kata7-145",
+    "index": 145
+  },
+  {
+    "surface": "モノマニア",
+    "reading": "monomania",
+    "code": "cr-kata7-146",
+    "index": 146
+  },
+  {
+    "surface": "ミュールハイム・アム・マイン",
+    "reading": "mulehaimuamumein",
+    "code": "cr-kata7-147",
+    "index": 147
+  },
+  {
+    "surface": "ムッチリ",
+    "reading": "mutchiri",
+    "code": "cr-kata7-148",
+    "index": 148
+  },
+  {
+    "surface": "マユミ",
+    "reading": "mayumi",
+    "code": "cr-kata7-149",
+    "index": 149
+  },
+  {
+    "surface": "モリヒバリ",
+    "reading": "morihibari",
+    "code": "cr-kata7-150",
+    "index": 150
+  },
+  {
+    "surface": "モルデ",
+    "reading": "morudes",
+    "code": "cr-kata7-151",
+    "index": 151
+  },
+  {
+    "surface": "モカシン",
+    "reading": "moccasin",
+    "code": "cr-kata7-152",
+    "index": 152
+  },
+  {
+    "surface": "モデスト",
+    "reading": "modesuto",
+    "code": "cr-kata7-153",
+    "index": 153
+  },
+  {
+    "surface": "モスタガネム",
+    "reading": "mosutaganemu",
+    "code": "cr-kata7-154",
+    "index": 154
+  },
+  {
+    "surface": "ムカイエンガル",
+    "reading": "mukaiengaru",
+    "code": "cr-kata7-155",
+    "index": 155
+  },
+  {
+    "surface": "ミサゴ",
+    "reading": "misago",
+    "code": "cr-kata7-156",
+    "index": 156
+  },
+  {
+    "surface": "ムササビ",
+    "reading": "musasabi",
+    "code": "cr-kata7-157",
+    "index": 157
+  },
+  {
+    "surface": "マイクロメートル",
+    "reading": "micrometer",
+    "code": "cr-kata7-158",
+    "index": 158
+  },
+  {
+    "surface": "メイラン",
+    "reading": "mayrun",
+    "code": "cr-kata7-159",
+    "index": 159
+  },
+  {
+    "surface": "マーキュロクローム",
+    "reading": "mercurochrome",
+    "code": "cr-kata7-160",
+    "index": 160
+  },
+  {
+    "surface": "ミドル",
+    "reading": "middle",
+    "code": "cr-kata7-161",
+    "index": 161
+  },
+  {
+    "surface": "ムシケラ",
+    "reading": "mushikera",
+    "code": "cr-kata7-162",
+    "index": 162
+  },
+  {
+    "surface": "モジュラリゼーション",
+    "reading": "mojurarizeeshon",
+    "code": "cr-kata7-163",
+    "index": 163
+  },
+  {
+    "surface": "モンテカルロ",
+    "reading": "montekaruro",
+    "code": "cr-kata7-164",
+    "index": 164
+  },
+  {
+    "surface": "マススクリーニング",
+    "reading": "massscreening",
+    "code": "cr-kata7-165",
+    "index": 165
+  },
+  {
+    "surface": "モディスト",
+    "reading": "modisuto",
+    "code": "cr-kata7-166",
+    "index": 166
+  },
+  {
+    "surface": "メロ",
+    "reading": "melody",
+    "code": "cr-kata7-167",
+    "index": 167
+  },
+  {
+    "surface": "ミニフロッピーディスク",
+    "reading": "minifloppydisc",
+    "code": "cr-kata7-168",
+    "index": 168
+  },
+  {
+    "surface": "ムッソロ",
+    "reading": "mussolo",
+    "code": "cr-kata7-169",
+    "index": 169
+  },
+  {
+    "surface": "マルチキャリアパス",
+    "reading": "multicarrierpass",
+    "code": "cr-kata7-170",
+    "index": 170
+  },
+  {
+    "surface": "メガ",
+    "reading": "mega",
+    "code": "cr-kata7-171",
+    "index": 171
+  },
+  {
+    "surface": "メイプルシロップ",
+    "reading": "maplesiroop",
+    "code": "cr-kata7-172",
+    "index": 172
+  },
+  {
+    "surface": "モロゴロ",
+    "reading": "morogoro",
+    "code": "cr-kata7-173",
+    "index": 173
+  },
+  {
+    "surface": "ミアス",
+    "reading": "miasu",
+    "code": "cr-kata7-174",
+    "index": 174
+  },
+  {
+    "surface": "マセガキ",
+    "reading": "masegaki",
+    "code": "cr-kata7-175",
+    "index": 175
+  },
+  {
+    "surface": "マックス",
+    "reading": "makkusu",
+    "code": "cr-kata7-176",
+    "index": 176
+  },
+  {
+    "surface": "マルスダレガイ",
+    "reading": "marusudaregai",
+    "code": "cr-kata7-177",
+    "index": 177
+  },
+  {
+    "surface": "ムスリム",
+    "reading": "muslim",
+    "code": "cr-kata7-178",
+    "index": 178
+  },
+  {
+    "surface": "ミヒェルシュタット",
+    "reading": "michelstadt",
+    "code": "cr-kata7-179",
+    "index": 179
+  },
+  {
+    "surface": "メイドインジャパン",
+    "reading": "madeinjapan",
+    "code": "cr-kata7-180",
+    "index": 180
+  },
+  {
+    "surface": "マリリアーノ",
+    "reading": "maririaano",
+    "code": "cr-kata7-181",
+    "index": 181
+  },
+  {
+    "surface": "マイスター",
+    "reading": "meister",
+    "code": "cr-kata7-182",
+    "index": 182
+  },
+  {
+    "surface": "マルチポイント",
+    "reading": "multipoint",
+    "code": "cr-kata7-183",
+    "index": 183
+  },
+  {
+    "surface": "ミッシングリンク",
+    "reading": "missinglink",
+    "code": "cr-kata7-184",
+    "index": 184
+  },
+  {
+    "surface": "マスプロダクション",
+    "reading": "massproduction",
+    "code": "cr-kata7-185",
+    "index": 185
+  },
+  {
+    "surface": "マニオク",
+    "reading": "manioku",
+    "code": "cr-kata7-186",
+    "index": 186
+  },
+  {
+    "surface": "マレ",
+    "reading": "maree",
+    "code": "cr-kata7-187",
+    "index": 187
+  },
+  {
+    "surface": "マーシャラー",
+    "reading": "maasharaa",
+    "code": "cr-kata7-188",
+    "index": 188
+  },
+  {
+    "surface": "メンパオ",
+    "reading": "menpao",
+    "code": "cr-kata7-189",
+    "index": 189
+  },
+  {
+    "surface": "ミソハギ",
+    "reading": "misohagi",
+    "code": "cr-kata7-190",
+    "index": 190
+  },
+  {
+    "surface": "マペット",
+    "reading": "mapetto",
+    "code": "cr-kata7-191",
+    "index": 191
+  },
+  {
+    "surface": "ミトシ",
+    "reading": "mythoshi",
+    "code": "cr-kata7-192",
+    "index": 192
+  },
+  {
+    "surface": "マイコン",
+    "reading": "microcomputer",
+    "code": "cr-kata7-193",
+    "index": 193
+  },
+  {
+    "surface": "モノトナス",
+    "reading": "monotonous",
+    "code": "cr-kata7-194",
+    "index": 194
+  },
+  {
+    "surface": "モガ",
+    "reading": "moderngirl",
+    "code": "cr-kata7-195",
+    "index": 195
+  },
+  {
+    "surface": "ミゾハギ",
+    "reading": "mizohagi",
+    "code": "cr-kata7-196",
+    "index": 196
+  },
+  {
+    "surface": "モチノキ",
+    "reading": "mochinoki",
+    "code": "cr-kata7-197",
+    "index": 197
+  },
+  {
+    "surface": "ミハス",
+    "reading": "mihasu",
+    "code": "cr-kata7-198",
+    "index": 198
+  },
+  {
+    "surface": "ミドルズブラ",
+    "reading": "middlesbrough",
+    "code": "cr-kata7-199",
+    "index": 199
+  },
+  {
+    "surface": "マネジメント",
+    "reading": "management",
+    "code": "cr-kata7-200",
+    "index": 200
+  },
+  {
+    "surface": "ムザッファラバード",
+    "reading": "muzaffarabaado",
+    "code": "cr-kata7-201",
+    "index": 201
+  },
+  {
+    "surface": "モンキーポックス",
+    "reading": "monkiipokkusu",
+    "code": "cr-kata7-202",
+    "index": 202
+  },
+  {
+    "surface": "メロウ",
+    "reading": "mellow",
+    "code": "cr-kata7-203",
+    "index": 203
+  },
+  {
+    "surface": "マグネサイト",
+    "reading": "magnesite",
+    "code": "cr-kata7-204",
+    "index": 204
+  },
+  {
+    "surface": "ムビラ",
+    "reading": "muvilla",
+    "code": "cr-kata7-205",
+    "index": 205
+  },
+  {
+    "surface": "メジュドゥレチェンスク",
+    "reading": "mejudurechensuku",
+    "code": "cr-kata7-206",
+    "index": 206
+  },
+  {
+    "surface": "マイアミガーデンズ",
+    "reading": "miamigarden",
+    "code": "cr-kata7-207",
+    "index": 207
+  },
+  {
+    "surface": "ミエローマ",
+    "reading": "myeloma",
+    "code": "cr-kata7-208",
+    "index": 208
+  },
+  {
+    "surface": "メイス",
+    "reading": "meisu",
+    "code": "cr-kata7-209",
+    "index": 209
+  },
+  {
+    "surface": "メルバトースト",
+    "reading": "merubatoast",
+    "code": "cr-kata7-210",
+    "index": 210
+  },
+  {
+    "surface": "マグネトロン",
+    "reading": "magnetron",
+    "code": "cr-kata7-211",
+    "index": 211
+  },
+  {
+    "surface": "マーク",
+    "reading": "mark",
+    "code": "cr-kata7-212",
+    "index": 212
+  },
+  {
+    "surface": "メガロ",
+    "reading": "megaro",
+    "code": "cr-kata7-213",
+    "index": 213
+  },
+  {
+    "surface": "ミューズ",
+    "reading": "muse",
+    "code": "cr-kata7-214",
+    "index": 214
+  },
+  {
+    "surface": "マーモット",
+    "reading": "marmot",
+    "code": "cr-kata7-215",
+    "index": 215
+  },
+  {
+    "surface": "マリゴールド",
+    "reading": "maligold",
+    "code": "cr-kata7-216",
+    "index": 216
+  },
+  {
+    "surface": "マラハイド",
+    "reading": "marahyde",
+    "code": "cr-kata7-217",
+    "index": 217
+  },
+  {
+    "surface": "メモリアドレシング",
+    "reading": "memoriadoreshingu",
+    "code": "cr-kata7-218",
+    "index": 218
+  },
+  {
+    "surface": "ミニバン",
+    "reading": "miniban",
+    "code": "cr-kata7-219",
+    "index": 219
+  },
+  {
+    "surface": "マドモワゼル",
+    "reading": "mademoiselle",
+    "code": "cr-kata7-220",
+    "index": 220
+  },
+  {
+    "surface": "メタリック",
+    "reading": "metallic",
+    "code": "cr-kata7-221",
+    "index": 221
+  },
+  {
+    "surface": "ムキルテオ",
+    "reading": "mukiruteo",
+    "code": "cr-kata7-222",
+    "index": 222
+  },
+  {
+    "surface": "ミリメーター",
+    "reading": "millimeter",
+    "code": "cr-kata7-223",
+    "index": 223
+  },
+  {
+    "surface": "マヤ",
+    "reading": "maya",
+    "code": "cr-kata7-224",
+    "index": 224
+  },
+  {
+    "surface": "メーデー",
+    "reading": "mayday",
+    "code": "cr-kata7-225",
+    "index": 225
+  },
+  {
+    "surface": "モンス",
+    "reading": "monsu",
+    "code": "cr-kata7-226",
+    "index": 226
+  },
+  {
+    "surface": "マリン",
+    "reading": "marin",
+    "code": "cr-kata7-227",
+    "index": 227
+  },
+  {
+    "surface": "メディアム",
+    "reading": "mediam",
+    "code": "cr-kata7-228",
+    "index": 228
+  },
+  {
+    "surface": "ミンネザング",
+    "reading": "minnesang",
+    "code": "cr-kata7-229",
+    "index": 229
+  },
+  {
+    "surface": "マツリ",
+    "reading": "matsuri",
+    "code": "cr-kata7-230",
+    "index": 230
+  },
+  {
+    "surface": "モチ",
+    "reading": "mochi",
+    "code": "cr-kata7-231",
+    "index": 231
+  },
+  {
+    "surface": "メンツ",
+    "reading": "mentsu",
+    "code": "cr-kata7-232",
+    "index": 232
+  },
+  {
+    "surface": "ミスタイプ",
+    "reading": "mistaketype",
+    "code": "cr-kata7-233",
+    "index": 233
+  },
+  {
+    "surface": "ミニコン",
+    "reading": "minicomputer",
+    "code": "cr-kata7-234",
+    "index": 234
+  },
+  {
+    "surface": "モノクロ",
+    "reading": "monochrome",
+    "code": "cr-kata7-235",
+    "index": 235
+  },
+  {
+    "surface": "モビール",
+    "reading": "mobile",
+    "code": "cr-kata7-236",
+    "index": 236
+  },
+  {
+    "surface": "モノタイプ",
+    "reading": "monotype",
+    "code": "cr-kata7-237",
+    "index": 237
+  },
+  {
+    "surface": "マキ",
+    "reading": "maki",
+    "code": "cr-kata7-238",
+    "index": 238
+  },
+  {
+    "surface": "モテモテ",
+    "reading": "motemote",
+    "code": "cr-kata7-239",
+    "index": 239
+  },
+  {
+    "surface": "マス・プロダクション",
+    "reading": "massproduction",
+    "code": "cr-kata7-240",
+    "index": 240
+  },
+  {
+    "surface": "モンペリエ",
+    "reading": "montpellier",
+    "code": "cr-kata7-241",
+    "index": 241
+  },
+  {
+    "surface": "モミノキ",
+    "reading": "mominoki",
+    "code": "cr-kata7-242",
+    "index": 242
+  },
+  {
+    "surface": "マーキング",
+    "reading": "marking",
+    "code": "cr-kata7-243",
+    "index": 243
+  },
+  {
+    "surface": "メッ",
+    "reading": "me",
+    "code": "cr-kata7-244",
+    "index": 244
+  },
+  {
+    "surface": "ミルフィユ",
+    "reading": "millefeuille",
+    "code": "cr-kata7-245",
+    "index": 245
+  },
+  {
+    "surface": "モグモグ",
+    "reading": "mogumogu",
+    "code": "cr-kata7-246",
+    "index": 246
+  },
+  {
+    "surface": "メルヘン",
+    "reading": "marchen",
+    "code": "cr-kata7-247",
+    "index": 247
+  },
+  {
+    "surface": "メリンス",
+    "reading": "merinos",
+    "code": "cr-kata7-248",
+    "index": 248
+  },
+  {
+    "surface": "マーサーアイランド",
+    "reading": "maasaaisland",
+    "code": "cr-kata7-249",
+    "index": 249
+  },
+  {
+    "surface": "マガダン",
+    "reading": "magadan",
+    "code": "cr-kata7-250",
+    "index": 250
+  },
+  {
+    "surface": "ミクスト",
+    "reading": "mixed",
+    "code": "cr-kata7-251",
+    "index": 251
+  },
+  {
+    "surface": "マハタ",
+    "reading": "mahata",
+    "code": "cr-kata7-252",
+    "index": 252
+  },
+  {
+    "surface": "メンズウェア",
+    "reading": "manwear",
+    "code": "cr-kata7-253",
+    "index": 253
+  },
+  {
+    "surface": "マルーン",
+    "reading": "maroon",
+    "code": "cr-kata7-254",
+    "index": 254
+  },
+  {
+    "surface": "マイクロコンピュータ",
+    "reading": "microcomputer",
+    "code": "cr-kata7-255",
+    "index": 255
+  },
+  {
+    "surface": "メチルアルモキサン",
+    "reading": "mechiruarumokisan",
+    "code": "cr-kata7-256",
+    "index": 256
+  },
+  {
+    "surface": "ミラクル",
+    "reading": "miracle",
+    "code": "cr-kata7-257",
+    "index": 257
+  },
+  {
+    "surface": "ミュージックホール",
+    "reading": "musichall",
+    "code": "cr-kata7-258",
+    "index": 258
+  },
+  {
+    "surface": "マイルド",
+    "reading": "mild",
+    "code": "cr-kata7-259",
+    "index": 259
+  },
+  {
+    "surface": "マフィケング",
+    "reading": "mafikengu",
+    "code": "cr-kata7-260",
+    "index": 260
+  },
+  {
+    "surface": "マーティーニ",
+    "reading": "maatini",
+    "code": "cr-kata7-261",
+    "index": 261
+  },
+  {
+    "surface": "ミシュコルツ",
+    "reading": "mishukorutsu",
+    "code": "cr-kata7-262",
+    "index": 262
+  },
+  {
+    "surface": "モヤレ",
+    "reading": "moyare",
+    "code": "cr-kata7-263",
+    "index": 263
+  },
+  {
+    "surface": "メリーゴーランド",
+    "reading": "merrygoround",
+    "code": "cr-kata7-264",
+    "index": 264
+  },
+  {
+    "surface": "ミディ",
+    "reading": "midi",
+    "code": "cr-kata7-265",
+    "index": 265
+  },
+  {
+    "surface": "メガネモチノウオ",
+    "reading": "meganemochinouo",
+    "code": "cr-kata7-266",
+    "index": 266
+  },
+  {
+    "surface": "マイン",
+    "reading": "mein",
+    "code": "cr-kata7-267",
+    "index": 267
+  },
+  {
+    "surface": "メディアクラシー",
+    "reading": "mediaclarinetsea",
+    "code": "cr-kata7-268",
+    "index": 268
+  },
+  {
+    "surface": "メアド",
+    "reading": "meado",
+    "code": "cr-kata7-269",
+    "index": 269
+  },
+  {
+    "surface": "ムレハタタテダイ",
+    "reading": "murehatatatedai",
+    "code": "cr-kata7-270",
+    "index": 270
+  },
+  {
+    "surface": "マニトワック",
+    "reading": "manitowakku",
+    "code": "cr-kata7-271",
+    "index": 271
+  },
+  {
+    "surface": "マイクロスコピック",
+    "reading": "maikurosukopikku",
+    "code": "cr-kata7-272",
+    "index": 272
+  },
+  {
+    "surface": "モントリオール",
+    "reading": "montreal",
+    "code": "cr-kata7-273",
+    "index": 273
+  },
+  {
+    "surface": "メカ",
+    "reading": "mechanism",
+    "code": "cr-kata7-274",
+    "index": 274
+  },
+  {
+    "surface": "メードインジャパン",
+    "reading": "maidinjapan",
+    "code": "cr-kata7-275",
+    "index": 275
+  },
+  {
+    "surface": "マッタケ",
+    "reading": "mattake",
+    "code": "cr-kata7-276",
+    "index": 276
+  },
+  {
+    "surface": "モジモジ",
+    "reading": "mojimoji",
+    "code": "cr-kata7-277",
+    "index": 277
+  },
+  {
+    "surface": "マスデモクラシー",
+    "reading": "massdemocracy",
+    "code": "cr-kata7-278",
+    "index": 278
+  },
+  {
+    "surface": "ムロアジ",
+    "reading": "muroaji",
+    "code": "cr-kata7-279",
+    "index": 279
+  },
+  {
+    "surface": "マサカリ",
+    "reading": "masakari",
+    "code": "cr-kata7-280",
+    "index": 280
+  },
+  {
+    "surface": "メエ",
+    "reading": "mee",
+    "code": "cr-kata7-281",
+    "index": 281
+  },
+  {
+    "surface": "モル",
+    "reading": "moru",
+    "code": "cr-kata7-282",
+    "index": 282
+  },
+  {
+    "surface": "メリー・ゴー・ラウンド",
+    "reading": "meriigooround",
+    "code": "cr-kata7-283",
+    "index": 283
+  },
+  {
+    "surface": "メインストリート",
+    "reading": "mainstreet",
+    "code": "cr-kata7-284",
+    "index": 284
+  },
+  {
+    "surface": "マタガルパ",
+    "reading": "matagarupa",
+    "code": "cr-kata7-285",
+    "index": 285
+  },
+  {
+    "surface": "モクバ",
+    "reading": "mokuba",
+    "code": "cr-kata7-286",
+    "index": 286
+  },
+  {
+    "surface": "ムクゲ",
+    "reading": "mukuge",
+    "code": "cr-kata7-287",
+    "index": 287
+  },
+  {
+    "surface": "マニュファクチュラ",
+    "reading": "manyufakuchura",
+    "code": "cr-kata7-288",
+    "index": 288
+  },
+  {
+    "surface": "マネービル",
+    "reading": "moneybuilding",
+    "code": "cr-kata7-289",
+    "index": 289
+  },
+  {
+    "surface": "マロー",
+    "reading": "mallow",
+    "code": "cr-kata7-290",
+    "index": 290
+  },
+  {
+    "surface": "マクラメ",
+    "reading": "macrame",
+    "code": "cr-kata7-291",
+    "index": 291
+  },
+  {
+    "surface": "マニアック",
+    "reading": "maniac",
+    "code": "cr-kata7-292",
+    "index": 292
+  },
+  {
+    "surface": "マルハナバチ",
+    "reading": "maruhanabachi",
+    "code": "cr-kata7-293",
+    "index": 293
+  },
+  {
+    "surface": "ムベヤ",
+    "reading": "mbeya",
+    "code": "cr-kata7-294",
+    "index": 294
+  },
+  {
+    "surface": "メタン",
+    "reading": "methan",
+    "code": "cr-kata7-295",
+    "index": 295
+  },
+  {
+    "surface": "マッカイ",
+    "reading": "makkai",
+    "code": "cr-kata7-296",
+    "index": 296
+  },
+  {
+    "surface": "モノカルチャ",
+    "reading": "monoculture",
+    "code": "cr-kata7-297",
+    "index": 297
+  },
+  {
+    "surface": "メチルアルコール",
+    "reading": "methylalcohol",
+    "code": "cr-kata7-298",
+    "index": 298
+  },
+  {
+    "surface": "メールニュース",
+    "reading": "mailnews",
+    "code": "cr-kata7-299",
+    "index": 299
+  },
+  {
+    "surface": "モノスペースフォント",
+    "reading": "monospacefont",
+    "code": "cr-kata7-300",
+    "index": 300
+  },
+  {
+    "surface": "マコガレイ",
+    "reading": "makogarei",
+    "code": "cr-kata7-301",
+    "index": 301
+  },
+  {
+    "surface": "マルバノキ",
+    "reading": "marubanoki",
+    "code": "cr-kata7-302",
+    "index": 302
+  },
+  {
+    "surface": "マーティネズ",
+    "reading": "maatinezu",
+    "code": "cr-kata7-303",
+    "index": 303
+  },
+  {
+    "surface": "ムツェンスク",
+    "reading": "mutsensuku",
+    "code": "cr-kata7-304",
+    "index": 304
+  },
+  {
+    "surface": "モダンジャズ",
+    "reading": "modernjazz",
+    "code": "cr-kata7-305",
+    "index": 305
+  },
+  {
+    "surface": "モブ",
+    "reading": "mobu",
+    "code": "cr-kata7-306",
+    "index": 306
+  },
+  {
+    "surface": "ミネルヴァ",
+    "reading": "minerva",
+    "code": "cr-kata7-307",
+    "index": 307
+  },
+  {
+    "surface": "メリディアン",
+    "reading": "meridien",
+    "code": "cr-kata7-308",
+    "index": 308
+  },
+  {
+    "surface": "マルチプレキシング",
+    "reading": "maruchipurekishingu",
+    "code": "cr-kata7-309",
+    "index": 309
+  },
+  {
+    "surface": "モクズガニ",
+    "reading": "mokuzugani",
+    "code": "cr-kata7-310",
+    "index": 310
+  },
+  {
+    "surface": "マニトバ",
+    "reading": "manitoba",
+    "code": "cr-kata7-311",
+    "index": 311
+  },
+  {
+    "surface": "マンジニ",
+    "reading": "manjini",
+    "code": "cr-kata7-312",
+    "index": 312
+  },
+  {
+    "surface": "マスタード",
+    "reading": "mustard",
+    "code": "cr-kata7-313",
+    "index": 313
+  },
+  {
+    "surface": "メンマ",
+    "reading": "menma",
+    "code": "cr-kata7-314",
+    "index": 314
+  },
+  {
+    "surface": "メークイーン",
+    "reading": "mayqueen",
+    "code": "cr-kata7-315",
+    "index": 315
+  },
+  {
+    "surface": "マシンガン",
+    "reading": "machinegun",
+    "code": "cr-kata7-316",
+    "index": 316
+  },
+  {
+    "surface": "ムソマ",
+    "reading": "musommer",
+    "code": "cr-kata7-317",
+    "index": 317
+  },
+  {
+    "surface": "メールアド",
+    "reading": "mailaddress",
+    "code": "cr-kata7-318",
+    "index": 318
+  },
+  {
+    "surface": "ミレニアム",
+    "reading": "millennium",
+    "code": "cr-kata7-319",
+    "index": 319
+  },
+  {
+    "surface": "ミッチーナー",
+    "reading": "mitchiinaa",
+    "code": "cr-kata7-320",
+    "index": 320
+  },
+  {
+    "surface": "マスタリング",
+    "reading": "mastering",
+    "code": "cr-kata7-321",
+    "index": 321
+  },
+  {
+    "surface": "メガビット",
+    "reading": "megabit",
+    "code": "cr-kata7-322",
+    "index": 322
+  },
+  {
+    "surface": "モニ",
+    "reading": "moni",
+    "code": "cr-kata7-323",
+    "index": 323
+  },
+  {
+    "surface": "メンディ",
+    "reading": "mendi",
+    "code": "cr-kata7-324",
+    "index": 324
+  },
+  {
+    "surface": "マイタイ",
+    "reading": "mytie",
+    "code": "cr-kata7-325",
+    "index": 325
+  },
+  {
+    "surface": "ミサワ",
+    "reading": "misawa",
+    "code": "cr-kata7-326",
+    "index": 326
+  },
+  {
+    "surface": "マツ",
+    "reading": "matsu",
+    "code": "cr-kata7-327",
+    "index": 327
+  },
+  {
+    "surface": "マゲイ",
+    "reading": "magay",
+    "code": "cr-kata7-328",
+    "index": 328
+  },
+  {
+    "surface": "ミディコミ",
+    "reading": "midikomi",
+    "code": "cr-kata7-329",
+    "index": 329
+  },
+  {
+    "surface": "メカジキ",
+    "reading": "mekajiki",
+    "code": "cr-kata7-330",
+    "index": 330
+  },
+  {
+    "surface": "マイナーレーベル",
+    "reading": "minorlabel",
+    "code": "cr-kata7-331",
+    "index": 331
+  },
+  {
+    "surface": "モノカルチャー",
+    "reading": "monoculture",
+    "code": "cr-kata7-332",
+    "index": 332
+  },
+  {
+    "surface": "メロディー",
+    "reading": "melody",
+    "code": "cr-kata7-333",
+    "index": 333
+  },
+  {
+    "surface": "メミンゲン",
+    "reading": "memingen",
+    "code": "cr-kata7-334",
+    "index": 334
+  },
+  {
+    "surface": "モンテロス",
+    "reading": "monttelos",
+    "code": "cr-kata7-335",
+    "index": 335
+  },
+  {
+    "surface": "モノクローム",
+    "reading": "monochrome",
+    "code": "cr-kata7-336",
+    "index": 336
+  },
+  {
+    "surface": "モンロー",
+    "reading": "monroe",
+    "code": "cr-kata7-337",
+    "index": 337
+  },
+  {
+    "surface": "マンゴスチン",
+    "reading": "mangosteen",
+    "code": "cr-kata7-338",
+    "index": 338
+  },
+  {
+    "surface": "ミノムシ",
+    "reading": "minomushi",
+    "code": "cr-kata7-339",
+    "index": 339
+  },
+  {
+    "surface": "マロン",
+    "reading": "marron",
+    "code": "cr-kata7-340",
+    "index": 340
+  },
+  {
+    "surface": "マウン",
+    "reading": "maun",
+    "code": "cr-kata7-341",
+    "index": 341
+  },
+  {
+    "surface": "マジックミラー",
+    "reading": "magicmirror",
+    "code": "cr-kata7-342",
+    "index": 342
+  },
+  {
+    "surface": "マネ",
+    "reading": "mane",
+    "code": "cr-kata7-343",
+    "index": 343
+  },
+  {
+    "surface": "モデリング",
+    "reading": "modeling",
+    "code": "cr-kata7-344",
+    "index": 344
+  },
+  {
+    "surface": "メルシー",
+    "reading": "merci",
+    "code": "cr-kata7-345",
+    "index": 345
+  },
+  {
+    "surface": "ミグ",
+    "reading": "migu",
+    "code": "cr-kata7-346",
+    "index": 346
+  },
+  {
+    "surface": "メロディ",
+    "reading": "melody",
+    "code": "cr-kata7-347",
+    "index": 347
+  },
+  {
+    "surface": "メヘレン",
+    "reading": "meheren",
+    "code": "cr-kata7-348",
+    "index": 348
+  },
+  {
+    "surface": "ミーティングルーム",
+    "reading": "meetingroom",
+    "code": "cr-kata7-349",
+    "index": 349
+  },
+  {
+    "surface": "ミューズリー",
+    "reading": "muselee",
+    "code": "cr-kata7-350",
+    "index": 350
+  },
+  {
+    "surface": "マニサレス",
+    "reading": "manisaresponse",
+    "code": "cr-kata7-351",
+    "index": 351
+  },
+  {
+    "surface": "ミスアンダスタンディング",
+    "reading": "misuandasutandingu",
+    "code": "cr-kata7-352",
+    "index": 352
+  },
+  {
+    "surface": "モンタナ",
+    "reading": "montana",
+    "code": "cr-kata7-353",
+    "index": 353
+  },
+  {
+    "surface": "マフラー",
+    "reading": "muffler",
+    "code": "cr-kata7-354",
+    "index": 354
+  },
+  {
+    "surface": "マハラージャ",
+    "reading": "maharaja",
+    "code": "cr-kata7-355",
+    "index": 355
+  },
+  {
+    "surface": "メインフレーム",
+    "reading": "mainframe",
+    "code": "cr-kata7-356",
+    "index": 356
+  },
+  {
+    "surface": "マイドキュメント",
+    "reading": "mydocument",
+    "code": "cr-kata7-357",
+    "index": 357
+  },
+  {
+    "surface": "モジュロ",
+    "reading": "mojuro",
+    "code": "cr-kata7-358",
+    "index": 358
+  },
+  {
+    "surface": "モアンダ",
+    "reading": "moanda",
+    "code": "cr-kata7-359",
+    "index": 359
+  },
+  {
+    "surface": "モントーバン",
+    "reading": "montovan",
+    "code": "cr-kata7-360",
+    "index": 360
+  },
+  {
+    "surface": "メラニン",
+    "reading": "melanin",
+    "code": "cr-kata7-361",
+    "index": 361
+  },
+  {
+    "surface": "マイクロメータ",
+    "reading": "micrometer",
+    "code": "cr-kata7-362",
+    "index": 362
+  },
+  {
+    "surface": "マンガ",
+    "reading": "manga",
+    "code": "cr-kata7-363",
+    "index": 363
+  },
+  {
+    "surface": "マニヤ",
+    "reading": "mania",
+    "code": "cr-kata7-364",
+    "index": 364
+  },
+  {
+    "surface": "メヒシバ",
+    "reading": "mehishiba",
+    "code": "cr-kata7-365",
+    "index": 365
+  },
+  {
+    "surface": "マヒ",
+    "reading": "mahi",
+    "code": "cr-kata7-366",
+    "index": 366
+  },
+  {
+    "surface": "メル",
+    "reading": "mel",
+    "code": "cr-kata7-367",
+    "index": 367
+  },
+  {
+    "surface": "マラディ",
+    "reading": "maradi",
+    "code": "cr-kata7-368",
+    "index": 368
+  },
+  {
+    "surface": "マラウイ",
+    "reading": "malawi",
+    "code": "cr-kata7-369",
+    "index": 369
+  },
+  {
+    "surface": "マネジメントサイクル",
+    "reading": "managementcycle",
+    "code": "cr-kata7-370",
+    "index": 370
+  },
+  {
+    "surface": "メモリサイクルタイム",
+    "reading": "memorecycletime",
+    "code": "cr-kata7-371",
+    "index": 371
+  },
+  {
+    "surface": "メソン",
+    "reading": "meson",
+    "code": "cr-kata7-372",
+    "index": 372
+  },
+  {
+    "surface": "モア",
+    "reading": "more",
+    "code": "cr-kata7-373",
+    "index": 373
+  },
+  {
+    "surface": "モンロヴィア",
+    "reading": "monrovia",
+    "code": "cr-kata7-374",
+    "index": 374
+  },
+  {
+    "surface": "モンツァ",
+    "reading": "monza",
+    "code": "cr-kata7-375",
+    "index": 375
+  },
+  {
+    "surface": "ミズブカ",
+    "reading": "mizubuka",
+    "code": "cr-kata7-376",
+    "index": 376
+  },
+  {
+    "surface": "マンナン",
+    "reading": "mannan",
+    "code": "cr-kata7-377",
+    "index": 377
+  },
+  {
+    "surface": "ミイラ",
+    "reading": "mirra",
+    "code": "cr-kata7-378",
+    "index": 378
+  },
+  {
+    "surface": "マイナーバージョンアップ",
+    "reading": "minorversionup",
+    "code": "cr-kata7-379",
+    "index": 379
+  },
+  {
+    "surface": "メクネス",
+    "reading": "meknes",
+    "code": "cr-kata7-380",
+    "index": 380
+  },
+  {
+    "surface": "マハトラ",
+    "reading": "mahatora",
+    "code": "cr-kata7-381",
+    "index": 381
+  },
+  {
+    "surface": "マサーラ",
+    "reading": "masaara",
+    "code": "cr-kata7-382",
+    "index": 382
+  },
+  {
+    "surface": "メェル",
+    "reading": "mail",
+    "code": "cr-kata7-383",
+    "index": 383
+  },
+  {
+    "surface": "モワァーン",
+    "reading": "mowaan",
+    "code": "cr-kata7-384",
+    "index": 384
+  },
+  {
+    "surface": "マイクロウエーブ",
+    "reading": "microwave",
+    "code": "cr-kata7-385",
+    "index": 385
+  },
+  {
+    "surface": "メタキャラクタ",
+    "reading": "metacharacter",
+    "code": "cr-kata7-386",
+    "index": 386
+  },
+  {
+    "surface": "ミシン",
+    "reading": "sewingmachine",
+    "code": "cr-kata7-387",
+    "index": 387
+  },
+  {
+    "surface": "ママカリ",
+    "reading": "mamakari",
+    "code": "cr-kata7-388",
+    "index": 388
+  },
+  {
+    "surface": "ミルクセーキ",
+    "reading": "milkshake",
+    "code": "cr-kata7-389",
+    "index": 389
+  },
+  {
+    "surface": "マスターキー",
+    "reading": "masterkey",
+    "code": "cr-kata7-390",
+    "index": 390
+  },
+  {
+    "surface": "モウソウダケ",
+    "reading": "mousoudake",
+    "code": "cr-kata7-391",
+    "index": 391
+  },
+  {
+    "surface": "モンテジルヴァーノ",
+    "reading": "montejiruvaano",
+    "code": "cr-kata7-392",
+    "index": 392
+  },
+  {
+    "surface": "メサ",
+    "reading": "mesa",
+    "code": "cr-kata7-393",
+    "index": 393
+  },
+  {
+    "surface": "マーティンズバーグ",
+    "reading": "maatinzuvague",
+    "code": "cr-kata7-394",
+    "index": 394
+  },
+  {
+    "surface": "ミフェプリストン",
+    "reading": "mifepurisuton",
+    "code": "cr-kata7-395",
+    "index": 395
+  },
+  {
+    "surface": "マール",
+    "reading": "maaru",
+    "code": "cr-kata7-396",
+    "index": 396
+  },
+  {
+    "surface": "ミディオクラシー",
+    "reading": "midiokrasea",
+    "code": "cr-kata7-397",
+    "index": 397
+  },
+  {
+    "surface": "ミチバシリ",
+    "reading": "michibashiri",
+    "code": "cr-kata7-398",
+    "index": 398
+  },
+  {
+    "surface": "ミネラル・ウォーター",
+    "reading": "mineralwater",
+    "code": "cr-kata7-399",
+    "index": 399
+  },
+  {
+    "surface": "メージ",
+    "reading": "meeji",
+    "code": "cr-kata7-400",
+    "index": 400
+  },
+  {
+    "surface": "ミザントロープ",
+    "reading": "misanthrope",
+    "code": "cr-kata7-401",
+    "index": 401
+  },
+  {
+    "surface": "ミニマム・アクセス",
+    "reading": "minimumaccess",
+    "code": "cr-kata7-402",
+    "index": 402
+  },
+  {
+    "surface": "マシニングセンター",
+    "reading": "machiningcenter",
+    "code": "cr-kata7-403",
+    "index": 403
+  },
+  {
+    "surface": "マグレ",
+    "reading": "magret",
+    "code": "cr-kata7-404",
+    "index": 404
+  },
+  {
+    "surface": "モッツァレッラ",
+    "reading": "mozzarella",
+    "code": "cr-kata7-405",
+    "index": 405
+  },
+  {
+    "surface": "メーリング",
+    "reading": "mailing",
+    "code": "cr-kata7-406",
+    "index": 406
+  },
+  {
+    "surface": "マルキシスト",
+    "reading": "marxist",
+    "code": "cr-kata7-407",
+    "index": 407
+  },
+  {
+    "surface": "メリーランド",
+    "reading": "maryland",
+    "code": "cr-kata7-408",
+    "index": 408
+  },
+  {
+    "surface": "ミチュリンスク",
+    "reading": "michurinsuku",
+    "code": "cr-kata7-409",
+    "index": 409
+  },
+  {
+    "surface": "モダン・ジャズ",
+    "reading": "modernjazz",
+    "code": "cr-kata7-410",
+    "index": 410
+  },
+  {
+    "surface": "モスグレー",
+    "reading": "mossgray",
+    "code": "cr-kata7-411",
+    "index": 411
+  },
+  {
+    "surface": "ミヤザキシ",
+    "reading": "miyazakishi",
+    "code": "cr-kata7-412",
+    "index": 412
+  },
+  {
+    "surface": "マネージャ",
+    "reading": "manager",
+    "code": "cr-kata7-413",
+    "index": 413
+  },
+  {
+    "surface": "マタニティードレス",
+    "reading": "maternitydress",
+    "code": "cr-kata7-414",
+    "index": 414
+  },
+  {
+    "surface": "マスカット",
+    "reading": "muscat",
+    "code": "cr-kata7-415",
+    "index": 415
+  },
+  {
+    "surface": "ミニタワー",
+    "reading": "minitower",
+    "code": "cr-kata7-416",
+    "index": 416
+  },
+  {
+    "surface": "ミイデラゴミムシ",
+    "reading": "miideragomimushi",
+    "code": "cr-kata7-417",
+    "index": 417
+  },
+  {
+    "surface": "マニファクチャー",
+    "reading": "manifakuchaa",
+    "code": "cr-kata7-418",
+    "index": 418
+  },
+  {
+    "surface": "マシ",
+    "reading": "mashi",
+    "code": "cr-kata7-419",
+    "index": 419
+  },
+  {
+    "surface": "ムキムキ",
+    "reading": "mukimuki",
+    "code": "cr-kata7-420",
+    "index": 420
+  },
+  {
+    "surface": "ミミズク",
+    "reading": "mimizuku",
+    "code": "cr-kata7-421",
+    "index": 421
+  },
+  {
+    "surface": "マネジメントゲーム",
+    "reading": "managementgame",
+    "code": "cr-kata7-422",
+    "index": 422
+  },
+  {
+    "surface": "ミズイカ",
+    "reading": "mizuika",
+    "code": "cr-kata7-423",
+    "index": 423
+  },
+  {
+    "surface": "メディア",
+    "reading": "media",
+    "code": "cr-kata7-424",
+    "index": 424
+  },
+  {
+    "surface": "メイソン",
+    "reading": "meison",
+    "code": "cr-kata7-425",
+    "index": 425
+  },
+  {
+    "surface": "マンジュウガニ",
+    "reading": "manjuugani",
+    "code": "cr-kata7-426",
+    "index": 426
+  },
+  {
+    "surface": "マンコ",
+    "reading": "manko",
+    "code": "cr-kata7-427",
+    "index": 427
+  },
+  {
+    "surface": "マメゾウムシ",
+    "reading": "mamezoumushi",
+    "code": "cr-kata7-428",
+    "index": 428
+  },
+  {
+    "surface": "マーチ",
+    "reading": "march",
+    "code": "cr-kata7-429",
+    "index": 429
+  },
+  {
+    "surface": "ミサ",
+    "reading": "missa",
+    "code": "cr-kata7-430",
+    "index": 430
+  },
+  {
+    "surface": "メスティーソ",
+    "reading": "mestizo",
+    "code": "cr-kata7-431",
+    "index": 431
+  },
+  {
+    "surface": "メー",
+    "reading": "may",
+    "code": "cr-kata7-432",
+    "index": 432
+  },
+  {
+    "surface": "ムチ",
+    "reading": "muchi",
+    "code": "cr-kata7-433",
+    "index": 433
+  },
+  {
+    "surface": "マオ",
+    "reading": "mao",
+    "code": "cr-kata7-434",
+    "index": 434
+  },
+  {
+    "surface": "ミルピタス",
+    "reading": "mirupitasu",
+    "code": "cr-kata7-435",
+    "index": 435
+  },
+  {
+    "surface": "マジレス",
+    "reading": "majiresu",
+    "code": "cr-kata7-436",
+    "index": 436
+  },
+  {
+    "surface": "マスドライバー",
+    "reading": "massdriver",
+    "code": "cr-kata7-437",
+    "index": 437
+  },
+  {
+    "surface": "メロン",
+    "reading": "melon",
+    "code": "cr-kata7-438",
+    "index": 438
+  },
+  {
+    "surface": "メガロサウルス",
+    "reading": "megarosaurusu",
+    "code": "cr-kata7-439",
+    "index": 439
+  },
+  {
+    "surface": "モーグルスキー",
+    "reading": "mooguruski",
+    "code": "cr-kata7-440",
+    "index": 440
+  },
+  {
+    "surface": "マルクトレドヴィッツ",
+    "reading": "marukutoredovittsu",
+    "code": "cr-kata7-441",
+    "index": 441
+  },
+  {
+    "surface": "ミニコンポ",
+    "reading": "minikonpo",
+    "code": "cr-kata7-442",
+    "index": 442
+  },
+  {
+    "surface": "モービルホーム",
+    "reading": "mobilehome",
+    "code": "cr-kata7-443",
+    "index": 443
+  },
+  {
+    "surface": "マスカ",
+    "reading": "maska",
+    "code": "cr-kata7-444",
+    "index": 444
+  },
+  {
+    "surface": "メキメキ",
+    "reading": "mekimeki",
+    "code": "cr-kata7-445",
+    "index": 445
+  },
+  {
+    "surface": "モササウルス",
+    "reading": "mosasaurusu",
+    "code": "cr-kata7-446",
+    "index": 446
+  },
+  {
+    "surface": "メタシンタックス",
+    "reading": "metasyntax",
+    "code": "cr-kata7-447",
+    "index": 447
+  },
+  {
+    "surface": "モティベーション",
+    "reading": "motivation",
+    "code": "cr-kata7-448",
+    "index": 448
+  },
+  {
+    "surface": "ムババーネ",
+    "reading": "mubabaane",
+    "code": "cr-kata7-449",
+    "index": 449
+  },
+  {
+    "surface": "マーケティングリサーチ",
+    "reading": "marketingresearch",
+    "code": "cr-kata7-450",
+    "index": 450
+  },
+  {
+    "surface": "マイッタ",
+    "reading": "maitta",
+    "code": "cr-kata7-451",
+    "index": 451
+  },
+  {
+    "surface": "メーラト",
+    "reading": "meerato",
+    "code": "cr-kata7-452",
+    "index": 452
+  },
+  {
+    "surface": "ミュージックテープ",
+    "reading": "musictape",
+    "code": "cr-kata7-453",
+    "index": 453
+  },
+  {
+    "surface": "モー",
+    "reading": "moo",
+    "code": "cr-kata7-454",
+    "index": 454
+  },
+  {
+    "surface": "マーケットリサーチ",
+    "reading": "marketresearch",
+    "code": "cr-kata7-455",
+    "index": 455
+  },
+  {
+    "surface": "マルチプレーヤー",
+    "reading": "maruchipureeyaa",
+    "code": "cr-kata7-456",
+    "index": 456
+  },
+  {
+    "surface": "マッシュルーム",
+    "reading": "mushroom",
+    "code": "cr-kata7-457",
+    "index": 457
+  },
+  {
+    "surface": "マイクロプログラム",
+    "reading": "microprogram",
+    "code": "cr-kata7-458",
+    "index": 458
+  },
+  {
+    "surface": "マルクシズム",
+    "reading": "marxism",
+    "code": "cr-kata7-459",
+    "index": 459
+  },
+  {
+    "surface": "ミニディーブイディー",
+    "reading": "minidiibuidii",
+    "code": "cr-kata7-460",
+    "index": 460
+  },
+  {
+    "surface": "マセル",
+    "reading": "maseru",
+    "code": "cr-kata7-461",
+    "index": 461
+  },
+  {
+    "surface": "モモイロインコ",
+    "reading": "momoiroinko",
+    "code": "cr-kata7-462",
+    "index": 462
+  },
+  {
+    "surface": "マジックガラス",
+    "reading": "magicglass",
+    "code": "cr-kata7-463",
+    "index": 463
+  },
+  {
+    "surface": "マタラム",
+    "reading": "mataramu",
+    "code": "cr-kata7-464",
+    "index": 464
+  },
+  {
+    "surface": "マッチョ",
+    "reading": "macho",
+    "code": "cr-kata7-465",
+    "index": 465
+  },
+  {
+    "surface": "モデレーター",
+    "reading": "moderator",
+    "code": "cr-kata7-466",
+    "index": 466
+  },
+  {
+    "surface": "メンソール",
+    "reading": "menthol",
+    "code": "cr-kata7-467",
+    "index": 467
+  },
+  {
+    "surface": "マチズモ",
+    "reading": "machismo",
+    "code": "cr-kata7-468",
+    "index": 468
+  },
+  {
+    "surface": "モノ",
+    "reading": "mono",
+    "code": "cr-kata7-469",
+    "index": 469
+  },
+  {
+    "surface": "モノクル",
+    "reading": "monocle",
+    "code": "cr-kata7-470",
+    "index": 470
+  },
+  {
+    "surface": "ミルクティ",
+    "reading": "milkti",
+    "code": "cr-kata7-471",
+    "index": 471
+  },
+  {
+    "surface": "マリモ",
+    "reading": "marimo",
+    "code": "cr-kata7-472",
+    "index": 472
+  },
+  {
+    "surface": "メデゥーサ",
+    "reading": "meduusa",
+    "code": "cr-kata7-473",
+    "index": 473
+  },
+  {
+    "surface": "メイ",
+    "reading": "may",
+    "code": "cr-kata7-474",
+    "index": 474
+  },
+  {
+    "surface": "マルターゼ",
+    "reading": "maltase",
+    "code": "cr-kata7-475",
+    "index": 475
+  },
+  {
+    "surface": "モヘア",
+    "reading": "mohair",
+    "code": "cr-kata7-476",
+    "index": 476
+  },
+  {
+    "surface": "メーカー",
+    "reading": "maker",
+    "code": "cr-kata7-477",
+    "index": 477
+  },
+  {
+    "surface": "メーンフレーム",
+    "reading": "meenfureemu",
+    "code": "cr-kata7-478",
+    "index": 478
+  },
+  {
+    "surface": "ミミカキグサ",
+    "reading": "mimikakigusa",
+    "code": "cr-kata7-479",
+    "index": 479
+  },
+  {
+    "surface": "ムリ",
+    "reading": "muri",
+    "code": "cr-kata7-480",
+    "index": 480
+  },
+  {
+    "surface": "メコンデルタ",
+    "reading": "mekongderuta",
+    "code": "cr-kata7-481",
+    "index": 481
+  },
+  {
+    "surface": "ミルワーム",
+    "reading": "mealworm",
+    "code": "cr-kata7-482",
+    "index": 482
+  },
+  {
+    "surface": "メインキー",
+    "reading": "mainkey",
+    "code": "cr-kata7-483",
+    "index": 483
+  },
+  {
+    "surface": "マティアス・ロメロ",
+    "reading": "matiasuromero",
+    "code": "cr-kata7-484",
+    "index": 484
+  },
+  {
+    "surface": "モーゲージ",
+    "reading": "mortgage",
+    "code": "cr-kata7-485",
+    "index": 485
+  },
+  {
+    "surface": "マソヒズム",
+    "reading": "masohizumu",
+    "code": "cr-kata7-486",
+    "index": 486
+  },
+  {
+    "surface": "モンユワ",
+    "reading": "monyuwa",
+    "code": "cr-kata7-487",
+    "index": 487
+  },
+  {
+    "surface": "メンバー",
+    "reading": "member",
+    "code": "cr-kata7-488",
+    "index": 488
+  },
+  {
+    "surface": "モーターバイク",
+    "reading": "motorbike",
+    "code": "cr-kata7-489",
+    "index": 489
+  },
+  {
+    "surface": "ムホロニ",
+    "reading": "muhoroni",
+    "code": "cr-kata7-490",
+    "index": 490
+  },
+  {
+    "surface": "ミスマッチ",
+    "reading": "mismatch",
+    "code": "cr-kata7-491",
+    "index": 491
+  },
+  {
+    "surface": "メド",
+    "reading": "medo",
+    "code": "cr-kata7-492",
+    "index": 492
+  },
+  {
+    "surface": "マルシップ",
+    "reading": "malshippu",
+    "code": "cr-kata7-493",
+    "index": 493
+  },
+  {
+    "surface": "ママレード",
+    "reading": "marmalade",
+    "code": "cr-kata7-494",
+    "index": 494
+  },
+  {
+    "surface": "モペッド",
+    "reading": "moped",
+    "code": "cr-kata7-495",
+    "index": 495
+  },
+  {
+    "surface": "マナ",
+    "reading": "mana",
+    "code": "cr-kata7-496",
+    "index": 496
+  },
+  {
+    "surface": "ミドルネーム",
+    "reading": "middlename",
+    "code": "cr-kata7-497",
+    "index": 497
+  },
+  {
+    "surface": "マスターベーション",
+    "reading": "masturbation",
+    "code": "cr-kata7-498",
+    "index": 498
+  },
+  {
+    "surface": "マスキュリン",
+    "reading": "masculine",
+    "code": "cr-kata7-499",
+    "index": 499
+  },
+  {
+    "surface": "ミルクヘビ",
+    "reading": "milkhebi",
+    "code": "cr-kata7-500",
+    "index": 500
+  },
+  {
+    "surface": "マベガイ",
+    "reading": "mabegai",
+    "code": "cr-kata7-501",
+    "index": 501
+  },
+  {
+    "surface": "メガバイト",
+    "reading": "megaarbeit",
+    "code": "cr-kata7-502",
+    "index": 502
+  },
+  {
+    "surface": "ムーヴメント",
+    "reading": "movement",
+    "code": "cr-kata7-503",
+    "index": 503
+  },
+  {
+    "surface": "ミロ",
+    "reading": "miro",
+    "code": "cr-kata7-504",
+    "index": 504
+  },
+  {
+    "surface": "ミドリザル",
+    "reading": "midorizaru",
+    "code": "cr-kata7-505",
+    "index": 505
+  },
+  {
+    "surface": "メタファイル",
+    "reading": "metafile",
+    "code": "cr-kata7-506",
+    "index": 506
+  },
+  {
+    "surface": "メノナイト",
+    "reading": "menonight",
+    "code": "cr-kata7-507",
+    "index": 507
+  },
+  {
+    "surface": "ムシロ",
+    "reading": "mushiro",
+    "code": "cr-kata7-508",
+    "index": 508
+  },
+  {
+    "surface": "メリート・ディ・ナーポリ",
+    "reading": "meriitodinaapori",
+    "code": "cr-kata7-509",
+    "index": 509
+  },
+  {
+    "surface": "マドラス",
+    "reading": "madras",
+    "code": "cr-kata7-510",
+    "index": 510
+  },
+  {
+    "surface": "マリゴ",
+    "reading": "maligo",
+    "code": "cr-kata7-511",
+    "index": 511
+  },
+  {
+    "surface": "モースル",
+    "reading": "moosuru",
+    "code": "cr-kata7-512",
+    "index": 512
+  },
+  {
+    "surface": "マグニトゴルスク",
+    "reading": "magunitogorusuku",
+    "code": "cr-kata7-513",
+    "index": 513
+  },
+  {
+    "surface": "メコスジ",
+    "reading": "mekosuji",
+    "code": "cr-kata7-514",
+    "index": 514
+  },
+  {
+    "surface": "マトゥーン",
+    "reading": "matuun",
+    "code": "cr-kata7-515",
+    "index": 515
+  },
+  {
+    "surface": "モボ",
+    "reading": "mobo",
+    "code": "cr-kata7-516",
+    "index": 516
+  },
+  {
+    "surface": "メーンエベント",
+    "reading": "mainevent",
+    "code": "cr-kata7-517",
+    "index": 517
+  },
+  {
+    "surface": "ムジャーヒディーン",
+    "reading": "mujaahidiin",
+    "code": "cr-kata7-518",
+    "index": 518
+  },
+  {
+    "surface": "ミナミハタタテダイ",
+    "reading": "minamihatatatedai",
+    "code": "cr-kata7-519",
+    "index": 519
+  },
+  {
+    "surface": "マスク",
+    "reading": "mask",
+    "code": "cr-kata7-520",
+    "index": 520
+  },
+  {
+    "surface": "モツ",
+    "reading": "motsu",
+    "code": "cr-kata7-521",
+    "index": 521
+  },
+  {
+    "surface": "モウソウチク",
+    "reading": "mousouchiku",
+    "code": "cr-kata7-522",
+    "index": 522
+  },
+  {
+    "surface": "ミソクソ",
+    "reading": "misokuso",
+    "code": "cr-kata7-523",
+    "index": 523
+  },
+  {
+    "surface": "マフ",
+    "reading": "muff",
+    "code": "cr-kata7-524",
+    "index": 524
+  },
+  {
+    "surface": "ムツ",
+    "reading": "mutsu",
+    "code": "cr-kata7-525",
+    "index": 525
+  },
+  {
+    "surface": "マイラ・ローマ",
+    "reading": "mairaroma",
+    "code": "cr-kata7-526",
+    "index": 526
+  },
+  {
+    "surface": "マスターオブセレモニー",
+    "reading": "masterofceremony",
+    "code": "cr-kata7-527",
+    "index": 527
+  },
+  {
+    "surface": "ミズアブ",
+    "reading": "mizuabu",
+    "code": "cr-kata7-528",
+    "index": 528
+  },
+  {
+    "surface": "メイン",
+    "reading": "main",
+    "code": "cr-kata7-529",
+    "index": 529
+  },
+  {
+    "surface": "ミアノ",
+    "reading": "miano",
+    "code": "cr-kata7-530",
+    "index": 530
+  },
+  {
+    "surface": "ムニエル",
+    "reading": "meuniere",
+    "code": "cr-kata7-531",
+    "index": 531
+  },
+  {
+    "surface": "モノコックボディー",
+    "reading": "monocoquebody",
+    "code": "cr-kata7-532",
+    "index": 532
+  },
+  {
+    "surface": "マンネンタケ",
+    "reading": "mannentake",
+    "code": "cr-kata7-533",
+    "index": 533
+  },
+  {
+    "surface": "メッセ",
+    "reading": "messe",
+    "code": "cr-kata7-534",
+    "index": 534
+  },
+  {
+    "surface": "メテオロイド",
+    "reading": "meteoroid",
+    "code": "cr-kata7-535",
+    "index": 535
+  },
+  {
+    "surface": "マクロレンズ",
+    "reading": "macrolens",
+    "code": "cr-kata7-536",
+    "index": 536
+  },
+  {
+    "surface": "メンタリティー",
+    "reading": "mentality",
+    "code": "cr-kata7-537",
+    "index": 537
+  },
+  {
+    "surface": "モノグラム",
+    "reading": "monogram",
+    "code": "cr-kata7-538",
+    "index": 538
+  },
+  {
+    "surface": "マンツーマン",
+    "reading": "mantwoman",
+    "code": "cr-kata7-539",
+    "index": 539
+  },
+  {
+    "surface": "ミクサ",
+    "reading": "mixer",
+    "code": "cr-kata7-540",
+    "index": 540
+  },
+  {
+    "surface": "マッハ",
+    "reading": "mach",
+    "code": "cr-kata7-541",
+    "index": 541
+  },
+  {
+    "surface": "マーシャル",
+    "reading": "maasharu",
+    "code": "cr-kata7-542",
+    "index": 542
+  },
+  {
+    "surface": "マラ",
+    "reading": "mara",
+    "code": "cr-kata7-543",
+    "index": 543
+  },
+  {
+    "surface": "ミミズ",
+    "reading": "mimizu",
+    "code": "cr-kata7-544",
+    "index": 544
+  },
+  {
+    "surface": "マルジブ",
+    "reading": "maljib",
+    "code": "cr-kata7-545",
+    "index": 545
+  },
+  {
+    "surface": "モコモコ",
+    "reading": "mokomoko",
+    "code": "cr-kata7-546",
+    "index": 546
+  },
+  {
+    "surface": "モルダー",
+    "reading": "molder",
+    "code": "cr-kata7-547",
+    "index": 547
+  },
+  {
+    "surface": "メタボ",
+    "reading": "metabolic",
+    "code": "cr-kata7-548",
+    "index": 548
+  },
+  {
+    "surface": "マネジメントシステム",
+    "reading": "managementsystem",
+    "code": "cr-kata7-549",
+    "index": 549
+  },
+  {
+    "surface": "モチーフ",
+    "reading": "motif",
+    "code": "cr-kata7-550",
+    "index": 550
+  },
+  {
+    "surface": "マホービン",
+    "reading": "mahoobin",
+    "code": "cr-kata7-551",
+    "index": 551
+  },
+  {
+    "surface": "メタ",
+    "reading": "meta",
+    "code": "cr-kata7-552",
+    "index": 552
+  },
+  {
+    "surface": "マウス",
+    "reading": "mouse",
+    "code": "cr-kata7-553",
+    "index": 553
+  },
+  {
+    "surface": "マンモニスト",
+    "reading": "manmonisuto",
+    "code": "cr-kata7-554",
+    "index": 554
+  },
+  {
+    "surface": "ミドル・ヴィレッジ",
+    "reading": "middlevirejji",
+    "code": "cr-kata7-555",
+    "index": 555
+  },
+  {
+    "surface": "マディヤプル・ティミ",
+    "reading": "madiyapurutimi",
+    "code": "cr-kata7-556",
+    "index": 556
+  },
+  {
+    "surface": "マッキーズポート",
+    "reading": "makkiizupooto",
+    "code": "cr-kata7-557",
+    "index": 557
+  },
+  {
+    "surface": "ムカチェヴォ",
+    "reading": "mukachevo",
+    "code": "cr-kata7-558",
+    "index": 558
+  },
+  {
+    "surface": "ムアンノンタブリー",
+    "reading": "muannontaburii",
+    "code": "cr-kata7-559",
+    "index": 559
+  },
+  {
+    "surface": "メドハギ",
+    "reading": "medohagi",
+    "code": "cr-kata7-560",
+    "index": 560
+  },
+  {
+    "surface": "マッフィン",
+    "reading": "maffin",
+    "code": "cr-kata7-561",
+    "index": 561
+  },
+  {
+    "surface": "メスチゾ",
+    "reading": "mesuchizo",
+    "code": "cr-kata7-562",
+    "index": 562
+  },
+  {
+    "surface": "ミリセカンド",
+    "reading": "mirisekando",
+    "code": "cr-kata7-563",
+    "index": 563
+  },
+  {
+    "surface": "モケグア",
+    "reading": "mokegua",
+    "code": "cr-kata7-564",
+    "index": 564
+  },
+  {
+    "surface": "モーパイ",
+    "reading": "moopie",
+    "code": "cr-kata7-565",
+    "index": 565
+  },
+  {
+    "surface": "マウンテンゴリラ",
+    "reading": "mountaingorilla",
+    "code": "cr-kata7-566",
+    "index": 566
+  },
+  {
+    "surface": "ミモレ",
+    "reading": "mimole",
+    "code": "cr-kata7-567",
+    "index": 567
+  },
+  {
+    "surface": "モダン・アート",
+    "reading": "modernart",
+    "code": "cr-kata7-568",
+    "index": 568
+  },
+  {
+    "surface": "ミアキス",
+    "reading": "miakiss",
+    "code": "cr-kata7-569",
+    "index": 569
+  },
+  {
+    "surface": "メルシ",
+    "reading": "merushi",
+    "code": "cr-kata7-570",
+    "index": 570
+  },
+  {
+    "surface": "マシマロ",
+    "reading": "marshmallow",
+    "code": "cr-kata7-571",
+    "index": 571
+  },
+  {
+    "surface": "モール",
+    "reading": "mall",
+    "code": "cr-kata7-572",
+    "index": 572
+  },
+  {
+    "surface": "マティリアル",
+    "reading": "matiriaru",
+    "code": "cr-kata7-573",
+    "index": 573
+  },
+  {
+    "surface": "メエメエ",
+    "reading": "meemee",
+    "code": "cr-kata7-574",
+    "index": 574
+  },
+  {
+    "surface": "メンタリズム",
+    "reading": "mentharhythm",
+    "code": "cr-kata7-575",
+    "index": 575
+  },
+  {
+    "surface": "マルサバ",
+    "reading": "marusaba",
+    "code": "cr-kata7-576",
+    "index": 576
+  },
+  {
+    "surface": "マスカルチャー",
+    "reading": "massculture",
+    "code": "cr-kata7-577",
+    "index": 577
+  },
+  {
+    "surface": "ミョウガ",
+    "reading": "myouga",
+    "code": "cr-kata7-578",
+    "index": 578
+  },
+  {
+    "surface": "ミガキニシン",
+    "reading": "migakinishin",
+    "code": "cr-kata7-579",
+    "index": 579
+  },
+  {
+    "surface": "マニュキュア",
+    "reading": "manicure",
+    "code": "cr-kata7-580",
+    "index": 580
+  },
+  {
+    "surface": "マラスキノ",
+    "reading": "marasukino",
+    "code": "cr-kata7-581",
+    "index": 581
+  },
+  {
+    "surface": "マーキュリー",
+    "reading": "maakyurii",
+    "code": "cr-kata7-582",
+    "index": 582
+  },
+  {
+    "surface": "メディテーション",
+    "reading": "meditation",
+    "code": "cr-kata7-583",
+    "index": 583
+  },
+  {
+    "surface": "モンフォルテ・デ・レモス",
+    "reading": "monforutederemosu",
+    "code": "cr-kata7-584",
+    "index": 584
+  },
+  {
+    "surface": "マリエータ",
+    "reading": "malieta",
+    "code": "cr-kata7-585",
+    "index": 585
+  },
+  {
+    "surface": "マネロン",
+    "reading": "moneyron",
+    "code": "cr-kata7-586",
+    "index": 586
+  },
+  {
+    "surface": "モミガラ",
+    "reading": "momigara",
+    "code": "cr-kata7-587",
+    "index": 587
+  },
+  {
+    "surface": "ミンガチェヴィル",
+    "reading": "mingacheviru",
+    "code": "cr-kata7-588",
+    "index": 588
+  },
+  {
+    "surface": "メストレ",
+    "reading": "mestrain",
+    "code": "cr-kata7-589",
+    "index": 589
+  },
+  {
+    "surface": "マツユキソウ",
+    "reading": "matsuyukisou",
+    "code": "cr-kata7-590",
+    "index": 590
+  },
+  {
+    "surface": "ミンデロ",
+    "reading": "mindero",
+    "code": "cr-kata7-591",
+    "index": 591
+  },
+  {
+    "surface": "マルチメディア",
+    "reading": "multimedia",
+    "code": "cr-kata7-592",
+    "index": 592
+  },
+  {
+    "surface": "メキャベツ",
+    "reading": "mecabbage",
+    "code": "cr-kata7-593",
+    "index": 593
+  },
+  {
+    "surface": "モニン",
+    "reading": "monin",
+    "code": "cr-kata7-594",
+    "index": 594
+  },
+  {
+    "surface": "ミネザクラ",
+    "reading": "minezakura",
+    "code": "cr-kata7-595",
+    "index": 595
+  },
+  {
+    "surface": "ミネラルウォーター",
+    "reading": "mineralwater",
+    "code": "cr-kata7-596",
+    "index": 596
+  },
+  {
+    "surface": "メンタリスティック",
+    "reading": "mentarisutikku",
+    "code": "cr-kata7-597",
+    "index": 597
+  },
+  {
+    "surface": "マッサ",
+    "reading": "massa",
+    "code": "cr-kata7-598",
+    "index": 598
+  },
+  {
+    "surface": "メールアドレス",
+    "reading": "mailaddress",
+    "code": "cr-kata7-599",
+    "index": 599
+  },
+  {
+    "surface": "モーラ",
+    "reading": "mora",
+    "code": "cr-kata7-600",
+    "index": 600
+  },
+  {
+    "surface": "マチネー",
+    "reading": "matinee",
+    "code": "cr-kata7-601",
+    "index": 601
+  },
+  {
+    "surface": "モデルガン",
+    "reading": "modelgun",
+    "code": "cr-kata7-602",
+    "index": 602
+  },
+  {
+    "surface": "マテバラ",
+    "reading": "matebara",
+    "code": "cr-kata7-603",
+    "index": 603
+  },
+  {
+    "surface": "マジ",
+    "reading": "maji",
+    "code": "cr-kata7-604",
+    "index": 604
+  },
+  {
+    "surface": "マウスカーソル",
+    "reading": "mousecursor",
+    "code": "cr-kata7-605",
+    "index": 605
+  },
+  {
+    "surface": "マフラク",
+    "reading": "muffraku",
+    "code": "cr-kata7-606",
+    "index": 606
+  },
+  {
+    "surface": "モクマオウ",
+    "reading": "mokumaou",
+    "code": "cr-kata7-607",
+    "index": 607
+  },
+  {
+    "surface": "ムィティシ",
+    "reading": "mitishi",
+    "code": "cr-kata7-608",
+    "index": 608
+  },
+  {
+    "surface": "メゾピアノ",
+    "reading": "mezzopiano",
+    "code": "cr-kata7-609",
+    "index": 609
+  },
+  {
+    "surface": "マザーボード",
+    "reading": "motherboard",
+    "code": "cr-kata7-610",
+    "index": 610
+  },
+  {
+    "surface": "マイクロサージャリー",
+    "reading": "microsurgery",
+    "code": "cr-kata7-611",
+    "index": 611
+  },
+  {
+    "surface": "ミルクリーク",
+    "reading": "milkleak",
+    "code": "cr-kata7-612",
+    "index": 612
+  },
+  {
+    "surface": "ミカヅキツバメウオ",
+    "reading": "mikazukitsubameuo",
+    "code": "cr-kata7-613",
+    "index": 613
+  },
+  {
+    "surface": "マザーテープ",
+    "reading": "mothertape",
+    "code": "cr-kata7-614",
+    "index": 614
+  },
+  {
+    "surface": "マンニトール",
+    "reading": "mannitol",
+    "code": "cr-kata7-615",
+    "index": 615
+  },
+  {
+    "surface": "マサラニ",
+    "reading": "masalani",
+    "code": "cr-kata7-616",
+    "index": 616
+  },
+  {
+    "surface": "モンスター",
+    "reading": "monster",
+    "code": "cr-kata7-617",
+    "index": 617
+  },
+  {
+    "surface": "マーケットイン",
+    "reading": "marketin",
+    "code": "cr-kata7-618",
+    "index": 618
+  },
+  {
+    "surface": "ムシカリ",
+    "reading": "mushikari",
+    "code": "cr-kata7-619",
+    "index": 619
+  },
+  {
+    "surface": "ミュージカルショー",
+    "reading": "musicalshow",
+    "code": "cr-kata7-620",
+    "index": 620
+  },
+  {
+    "surface": "マーチャンダイザー",
+    "reading": "merchandiser",
+    "code": "cr-kata7-621",
+    "index": 621
+  },
+  {
+    "surface": "ムルシア",
+    "reading": "murushia",
+    "code": "cr-kata7-622",
+    "index": 622
+  },
+  {
+    "surface": "ムリヤリ",
+    "reading": "muriyari",
+    "code": "cr-kata7-623",
+    "index": 623
+  },
+  {
+    "surface": "ムーバー",
+    "reading": "mover",
+    "code": "cr-kata7-624",
+    "index": 624
+  },
+  {
+    "surface": "ミゾレチョウチョウウオ",
+    "reading": "mizorechouchouuo",
+    "code": "cr-kata7-625",
+    "index": 625
+  },
+  {
+    "surface": "メディシン・ハット",
+    "reading": "medicinehat",
+    "code": "cr-kata7-626",
+    "index": 626
+  },
+  {
+    "surface": "メヒカリ",
+    "reading": "mexicali",
+    "code": "cr-kata7-627",
+    "index": 627
+  },
+  {
+    "surface": "マツムシ",
+    "reading": "matsumushi",
+    "code": "cr-kata7-628",
+    "index": 628
+  },
+  {
+    "surface": "マクリーン",
+    "reading": "maclean",
+    "code": "cr-kata7-629",
+    "index": 629
+  },
+  {
+    "surface": "モーションジェーペッグ",
+    "reading": "mooshonjeepeggu",
+    "code": "cr-kata7-630",
+    "index": 630
+  },
+  {
+    "surface": "ミカンコミバエ",
+    "reading": "mikankomibae",
+    "code": "cr-kata7-631",
+    "index": 631
+  },
+  {
+    "surface": "マクロビオティック",
+    "reading": "macrobiotic",
+    "code": "cr-kata7-632",
+    "index": 632
+  },
+  {
+    "surface": "マブダチ",
+    "reading": "mabudachi",
+    "code": "cr-kata7-633",
+    "index": 633
+  },
+  {
+    "surface": "ムバララ",
+    "reading": "mubarara",
+    "code": "cr-kata7-634",
+    "index": 634
+  },
+  {
+    "surface": "マンハッタンビーチ",
+    "reading": "manhattanbeach",
+    "code": "cr-kata7-635",
+    "index": 635
+  },
+  {
+    "surface": "メンヒル",
+    "reading": "menhir",
+    "code": "cr-kata7-636",
+    "index": 636
+  },
+  {
+    "surface": "ミルフォード",
+    "reading": "mirufoodo",
+    "code": "cr-kata7-637",
+    "index": 637
+  },
+  {
+    "surface": "マインドコントロール",
+    "reading": "mindcontrol",
+    "code": "cr-kata7-638",
+    "index": 638
+  },
+  {
+    "surface": "メス",
+    "reading": "mes",
+    "code": "cr-kata7-639",
+    "index": 639
+  },
+  {
+    "surface": "ミニゴルフ",
+    "reading": "minigolf",
+    "code": "cr-kata7-640",
+    "index": 640
+  },
+  {
+    "surface": "ミラ",
+    "reading": "mira",
+    "code": "cr-kata7-641",
+    "index": 641
+  },
+  {
+    "surface": "ミルクプラント",
+    "reading": "milkplant",
+    "code": "cr-kata7-642",
+    "index": 642
+  },
+  {
+    "surface": "ミトコンドリアイブ",
+    "reading": "mitochondriaeve",
+    "code": "cr-kata7-643",
+    "index": 643
+  },
+  {
+    "surface": "ムードン",
+    "reading": "muudon",
+    "code": "cr-kata7-644",
+    "index": 644
+  },
+  {
+    "surface": "メトロポリタン",
+    "reading": "metropolitan",
+    "code": "cr-kata7-645",
+    "index": 645
+  },
+  {
+    "surface": "モタモタ",
+    "reading": "motamota",
+    "code": "cr-kata7-646",
+    "index": 646
+  },
+  {
+    "surface": "モータウン",
+    "reading": "mootown",
+    "code": "cr-kata7-647",
+    "index": 647
+  },
+  {
+    "surface": "マルチスクリーン",
+    "reading": "multiscreen",
+    "code": "cr-kata7-648",
+    "index": 648
+  },
+  {
+    "surface": "ミーリング",
+    "reading": "milling",
+    "code": "cr-kata7-649",
+    "index": 649
+  },
+  {
+    "surface": "メチルフェデート",
+    "reading": "mechirufedeeto",
+    "code": "cr-kata7-650",
+    "index": 650
+  },
+  {
+    "surface": "メリメリ",
+    "reading": "merimeri",
+    "code": "cr-kata7-651",
+    "index": 651
+  },
+  {
+    "surface": "マッチプレイ",
+    "reading": "matchiplay",
+    "code": "cr-kata7-652",
+    "index": 652
+  },
+  {
+    "surface": "モデレ",
+    "reading": "modere",
+    "code": "cr-kata7-653",
+    "index": 653
+  },
+  {
+    "surface": "メディアポリシー",
+    "reading": "mediapolicy",
+    "code": "cr-kata7-654",
+    "index": 654
+  },
+  {
+    "surface": "メタボリックシンドローム",
+    "reading": "metabolicsyndrome",
+    "code": "cr-kata7-655",
+    "index": 655
+  },
+  {
+    "surface": "ミニュエット",
+    "reading": "menuetto",
+    "code": "cr-kata7-656",
+    "index": 656
+  },
+  {
+    "surface": "モノマニアック",
+    "reading": "monomaniac",
+    "code": "cr-kata7-657",
+    "index": 657
+  },
+  {
+    "surface": "マイルカ",
+    "reading": "mairuka",
+    "code": "cr-kata7-658",
+    "index": 658
+  },
+  {
+    "surface": "モールデン",
+    "reading": "mallden",
+    "code": "cr-kata7-659",
+    "index": 659
+  },
+  {
+    "surface": "モケット",
+    "reading": "moquette",
+    "code": "cr-kata7-660",
+    "index": 660
+  },
+  {
+    "surface": "メタデータ",
+    "reading": "metadata",
+    "code": "cr-kata7-661",
+    "index": 661
+  },
+  {
+    "surface": "メールサーバ",
+    "reading": "mailserver",
+    "code": "cr-kata7-662",
+    "index": 662
+  },
+  {
+    "surface": "マインタール",
+    "reading": "meintar",
+    "code": "cr-kata7-663",
+    "index": 663
+  },
+  {
+    "surface": "ムシムシ",
+    "reading": "mushimushi",
+    "code": "cr-kata7-664",
+    "index": 664
+  },
+  {
+    "surface": "マドラー",
+    "reading": "muddler",
+    "code": "cr-kata7-665",
+    "index": 665
+  },
+  {
+    "surface": "マサラ",
+    "reading": "masala",
+    "code": "cr-kata7-666",
+    "index": 666
+  },
+  {
+    "surface": "モノマー",
+    "reading": "monomer",
+    "code": "cr-kata7-667",
+    "index": 667
+  },
+  {
+    "surface": "マダラ",
+    "reading": "madara",
+    "code": "cr-kata7-668",
+    "index": 668
+  },
+  {
+    "surface": "マニュファクチュラー",
+    "reading": "manyufakuchuraa",
+    "code": "cr-kata7-669",
+    "index": 669
+  },
+  {
+    "surface": "ミルク",
+    "reading": "milk",
+    "code": "cr-kata7-670",
+    "index": 670
+  },
+  {
+    "surface": "ミッドフィールダー",
+    "reading": "midfielder",
+    "code": "cr-kata7-671",
+    "index": 671
+  },
+  {
+    "surface": "モータードライブ",
+    "reading": "motordrive",
+    "code": "cr-kata7-672",
+    "index": 672
+  },
+  {
+    "surface": "マウントレイクテラス",
+    "reading": "mountlaketerrace",
+    "code": "cr-kata7-673",
+    "index": 673
+  },
+  {
+    "surface": "マナーモード",
+    "reading": "mannermode",
+    "code": "cr-kata7-674",
+    "index": 674
+  },
+  {
+    "surface": "ミドルマネージメント",
+    "reading": "middlemanagement",
+    "code": "cr-kata7-675",
+    "index": 675
+  },
+  {
+    "surface": "マルサーラ",
+    "reading": "marusaara",
+    "code": "cr-kata7-676",
+    "index": 676
+  },
+  {
+    "surface": "ミスアンドアウトレース",
+    "reading": "mistakeandoutreesu",
+    "code": "cr-kata7-677",
+    "index": 677
+  },
+  {
+    "surface": "マスターコース",
+    "reading": "mastercourse",
+    "code": "cr-kata7-678",
+    "index": 678
+  },
+  {
+    "surface": "マラガ",
+    "reading": "maraga",
+    "code": "cr-kata7-679",
+    "index": 679
+  },
+  {
+    "surface": "ムスカリン",
+    "reading": "muscarine",
+    "code": "cr-kata7-680",
+    "index": 680
+  },
+  {
+    "surface": "メインイベント",
+    "reading": "mainevent",
+    "code": "cr-kata7-681",
+    "index": 681
+  },
+  {
+    "surface": "メイコン",
+    "reading": "mayconcert",
+    "code": "cr-kata7-682",
+    "index": 682
+  },
+  {
+    "surface": "ミネルウァ",
+    "reading": "minerua",
+    "code": "cr-kata7-683",
+    "index": 683
+  },
+  {
+    "surface": "マチャコス",
+    "reading": "machakosu",
+    "code": "cr-kata7-684",
+    "index": 684
+  },
+  {
+    "surface": "メディカル",
+    "reading": "medical",
+    "code": "cr-kata7-685",
+    "index": 685
+  },
+  {
+    "surface": "マイクロサージェリー",
+    "reading": "microsurgery",
+    "code": "cr-kata7-686",
+    "index": 686
+  },
+  {
+    "surface": "メルコスル",
+    "reading": "merukosuru",
+    "code": "cr-kata7-687",
+    "index": 687
+  },
+  {
+    "surface": "マラドーナ",
+    "reading": "maradoona",
+    "code": "cr-kata7-688",
+    "index": 688
+  },
+  {
+    "surface": "メスカル",
+    "reading": "mescull",
+    "code": "cr-kata7-689",
+    "index": 689
+  },
+  {
+    "surface": "マニピュレーター",
+    "reading": "manipulator",
+    "code": "cr-kata7-690",
+    "index": 690
+  },
+  {
+    "surface": "マアナゴ",
+    "reading": "maanago",
+    "code": "cr-kata7-691",
+    "index": 691
+  },
+  {
+    "surface": "マイクログラビティー",
+    "reading": "maikurogurabitii",
+    "code": "cr-kata7-692",
+    "index": 692
+  },
+  {
+    "surface": "モノラルレコード",
+    "reading": "monauralrecord",
+    "code": "cr-kata7-693",
+    "index": 693
+  },
+  {
+    "surface": "ママー",
+    "reading": "mama",
+    "code": "cr-kata7-694",
+    "index": 694
+  },
+  {
+    "surface": "マグネシア",
+    "reading": "magnesia",
+    "code": "cr-kata7-695",
+    "index": 695
+  },
+  {
+    "surface": "モーガンタウン",
+    "reading": "morgantown",
+    "code": "cr-kata7-696",
+    "index": 696
+  },
+  {
+    "surface": "マイナー・レーベル",
+    "reading": "minorlabel",
+    "code": "cr-kata7-697",
+    "index": 697
+  },
+  {
+    "surface": "マラヤンクロミス",
+    "reading": "marayankuromisu",
+    "code": "cr-kata7-698",
+    "index": 698
+  },
+  {
+    "surface": "ムクムク",
+    "reading": "mukumuku",
+    "code": "cr-kata7-699",
+    "index": 699
+  },
+  {
+    "surface": "ムシャムシャ",
+    "reading": "mushamusha",
+    "code": "cr-kata7-700",
+    "index": 700
+  },
+  {
+    "surface": "モスキート",
+    "reading": "mosukiito",
+    "code": "cr-kata7-701",
+    "index": 701
+  },
+  {
+    "surface": "メタサーチ",
+    "reading": "metasearch",
+    "code": "cr-kata7-702",
+    "index": 702
+  },
+  {
+    "surface": "マイトマイシン",
+    "reading": "mitomycin",
+    "code": "cr-kata7-703",
+    "index": 703
+  },
+  {
+    "surface": "ミッドランド",
+    "reading": "midland",
+    "code": "cr-kata7-704",
+    "index": 704
+  },
+  {
+    "surface": "モービルハウス",
+    "reading": "mobilehouse",
+    "code": "cr-kata7-705",
+    "index": 705
+  },
+  {
+    "surface": "モノディ",
+    "reading": "monody",
+    "code": "cr-kata7-706",
+    "index": 706
+  },
+  {
+    "surface": "モネル",
+    "reading": "monel",
+    "code": "cr-kata7-707",
+    "index": 707
+  },
+  {
+    "surface": "マーチャンダイジング",
+    "reading": "merchandising",
+    "code": "cr-kata7-708",
+    "index": 708
+  },
+  {
+    "surface": "マル",
+    "reading": "maru",
+    "code": "cr-kata7-709",
+    "index": 709
+  },
+  {
+    "surface": "マンナール",
+    "reading": "mannaaru",
+    "code": "cr-kata7-710",
+    "index": 710
+  },
+  {
+    "surface": "メロデー",
+    "reading": "melodyday",
+    "code": "cr-kata7-711",
+    "index": 711
+  },
+  {
+    "surface": "マニュファクチュア",
+    "reading": "manufacture",
+    "code": "cr-kata7-712",
+    "index": 712
+  },
+  {
+    "surface": "ムシナ",
+    "reading": "mushina",
+    "code": "cr-kata7-713",
+    "index": 713
+  },
+  {
+    "surface": "ミサイル",
+    "reading": "missile",
+    "code": "cr-kata7-714",
+    "index": 714
+  },
+  {
+    "surface": "ミネラルウォタ",
+    "reading": "mineraruota",
+    "code": "cr-kata7-715",
+    "index": 715
+  },
+  {
+    "surface": "ミー",
+    "reading": "mi",
+    "code": "cr-kata7-716",
+    "index": 716
+  },
+  {
+    "surface": "ミラーボール",
+    "reading": "mirrorball",
+    "code": "cr-kata7-717",
+    "index": 717
+  },
+  {
+    "surface": "マリー",
+    "reading": "marii",
+    "code": "cr-kata7-718",
+    "index": 718
+  },
+  {
+    "surface": "ムージャン",
+    "reading": "muujean",
+    "code": "cr-kata7-719",
+    "index": 719
+  },
+  {
+    "surface": "マルチラテラリズム",
+    "reading": "maruchiraterarizumu",
+    "code": "cr-kata7-720",
+    "index": 720
+  },
+  {
+    "surface": "モヤシ",
+    "reading": "moyashi",
+    "code": "cr-kata7-721",
+    "index": 721
+  },
+  {
+    "surface": "ミスケ",
+    "reading": "misuke",
+    "code": "cr-kata7-722",
+    "index": 722
+  },
+  {
+    "surface": "メトロノーム",
+    "reading": "metronom",
+    "code": "cr-kata7-723",
+    "index": 723
+  },
+  {
+    "surface": "ムービー",
+    "reading": "movie",
+    "code": "cr-kata7-724",
+    "index": 724
+  },
+  {
+    "surface": "モーゼ",
+    "reading": "mooze",
+    "code": "cr-kata7-725",
+    "index": 725
+  },
+  {
+    "surface": "メイプル・グローヴ",
+    "reading": "mapleguroovu",
+    "code": "cr-kata7-726",
+    "index": 726
+  },
+  {
+    "surface": "マミジロ",
+    "reading": "mamijiro",
+    "code": "cr-kata7-727",
+    "index": 727
+  },
+  {
+    "surface": "ミネルバ",
+    "reading": "minerva",
+    "code": "cr-kata7-728",
+    "index": 728
+  },
+  {
+    "surface": "ミキサー",
+    "reading": "mixer",
+    "code": "cr-kata7-729",
+    "index": 729
+  },
+  {
+    "surface": "モルドバ",
+    "reading": "moldova",
+    "code": "cr-kata7-730",
+    "index": 730
+  },
+  {
+    "surface": "マゴグ",
+    "reading": "magog",
+    "code": "cr-kata7-731",
+    "index": 731
+  },
+  {
+    "surface": "マニア",
+    "reading": "mania",
+    "code": "cr-kata7-732",
+    "index": 732
+  },
+  {
+    "surface": "ミニカー",
+    "reading": "minikaa",
+    "code": "cr-kata7-733",
+    "index": 733
+  },
+  {
+    "surface": "マクロ",
+    "reading": "macro",
+    "code": "cr-kata7-734",
+    "index": 734
+  },
+  {
+    "surface": "マカジキ",
+    "reading": "makajiki",
+    "code": "cr-kata7-735",
+    "index": 735
+  },
+  {
+    "surface": "モダナイズ",
+    "reading": "modanaizu",
+    "code": "cr-kata7-736",
+    "index": 736
+  },
+  {
+    "surface": "メイプルリッジ",
+    "reading": "mapleridge",
+    "code": "cr-kata7-737",
+    "index": 737
+  },
+  {
+    "surface": "ミズスマシ",
+    "reading": "mizusumashi",
+    "code": "cr-kata7-738",
+    "index": 738
+  },
+  {
+    "surface": "マージャン",
+    "reading": "maajan",
+    "code": "cr-kata7-739",
+    "index": 739
+  },
+  {
+    "surface": "ミソ",
+    "reading": "miso",
+    "code": "cr-kata7-740",
+    "index": 740
+  },
+  {
+    "surface": "メリスマ",
+    "reading": "melisma",
+    "code": "cr-kata7-741",
+    "index": 741
+  },
+  {
+    "surface": "マタンサス",
+    "reading": "matansasu",
+    "code": "cr-kata7-742",
+    "index": 742
+  },
+  {
+    "surface": "ミートボール",
+    "reading": "miitobooru",
+    "code": "cr-kata7-743",
+    "index": 743
+  },
+  {
+    "surface": "メディスン",
+    "reading": "medicine",
+    "code": "cr-kata7-744",
+    "index": 744
+  },
+  {
+    "surface": "ミスティフィケーション",
+    "reading": "mystification",
+    "code": "cr-kata7-745",
+    "index": 745
+  },
+  {
+    "surface": "マルディブ",
+    "reading": "maldave",
+    "code": "cr-kata7-746",
+    "index": 746
+  },
+  {
+    "surface": "マッシュ",
+    "reading": "mash",
+    "code": "cr-kata7-747",
+    "index": 747
+  },
+  {
+    "surface": "ミシガンシティ",
+    "reading": "michigancity",
+    "code": "cr-kata7-748",
+    "index": 748
+  },
+  {
+    "surface": "モチベーション",
+    "reading": "motivation",
+    "code": "cr-kata7-749",
+    "index": 749
+  },
+  {
+    "surface": "モジュラー",
+    "reading": "modular",
+    "code": "cr-kata7-750",
+    "index": 750
+  },
+  {
+    "surface": "マルチパーパスカー",
+    "reading": "multipurposecar",
+    "code": "cr-kata7-751",
+    "index": 751
+  },
+  {
+    "surface": "モノマネ",
+    "reading": "monomane",
+    "code": "cr-kata7-752",
+    "index": 752
+  },
+  {
+    "surface": "モンキキンチャクフグ",
+    "reading": "monkikinchakufugu",
+    "code": "cr-kata7-753",
+    "index": 753
+  },
+  {
+    "surface": "メノモニー",
+    "reading": "menomonii",
+    "code": "cr-kata7-754",
+    "index": 754
+  },
+  {
+    "surface": "マンダリン",
+    "reading": "mandarin",
+    "code": "cr-kata7-755",
+    "index": 755
+  },
+  {
+    "surface": "マドガイ",
+    "reading": "madoguy",
+    "code": "cr-kata7-756",
+    "index": 756
+  },
+  {
+    "surface": "ムカデ",
+    "reading": "mukade",
+    "code": "cr-kata7-757",
+    "index": 757
+  },
+  {
+    "surface": "マユコ",
+    "reading": "mayuko",
+    "code": "cr-kata7-758",
+    "index": 758
+  },
+  {
+    "surface": "ミニオン",
+    "reading": "minion",
+    "code": "cr-kata7-759",
+    "index": 759
+  },
+  {
+    "surface": "メイジ",
+    "reading": "meiji",
+    "code": "cr-kata7-760",
+    "index": 760
+  },
+  {
+    "surface": "ミオシン",
+    "reading": "myosin",
+    "code": "cr-kata7-761",
+    "index": 761
+  },
+  {
+    "surface": "ミニスカート",
+    "reading": "miniskirt",
+    "code": "cr-kata7-762",
+    "index": 762
+  },
+  {
+    "surface": "メーティングコール",
+    "reading": "meetingukooru",
+    "code": "cr-kata7-763",
+    "index": 763
+  },
+  {
+    "surface": "モラトリアム",
+    "reading": "moratorium",
+    "code": "cr-kata7-764",
+    "index": 764
+  },
+  {
+    "surface": "メルアド",
+    "reading": "meruado",
+    "code": "cr-kata7-765",
+    "index": 765
+  },
+  {
+    "surface": "メタルフォーム",
+    "reading": "metalform",
+    "code": "cr-kata7-766",
+    "index": 766
+  },
+  {
+    "surface": "メルト",
+    "reading": "melt",
+    "code": "cr-kata7-767",
+    "index": 767
+  },
+  {
+    "surface": "マクロン",
+    "reading": "macron",
+    "code": "cr-kata7-768",
+    "index": 768
+  },
+  {
+    "surface": "メゾ",
+    "reading": "mezzo",
+    "code": "cr-kata7-769",
+    "index": 769
+  },
+  {
+    "surface": "マエバシ",
+    "reading": "maebashi",
+    "code": "cr-kata7-770",
+    "index": 770
+  },
+  {
+    "surface": "メクラ",
+    "reading": "mekura",
+    "code": "cr-kata7-771",
+    "index": 771
+  },
+  {
+    "surface": "メーター",
+    "reading": "meter",
+    "code": "cr-kata7-772",
+    "index": 772
+  },
+  {
+    "surface": "ミリオン・セラー",
+    "reading": "millionseller",
+    "code": "cr-kata7-773",
+    "index": 773
+  },
+  {
+    "surface": "メキシコシティ",
+    "reading": "mexicocity",
+    "code": "cr-kata7-774",
+    "index": 774
+  },
+  {
+    "surface": "メタファー",
+    "reading": "metaphor",
+    "code": "cr-kata7-775",
+    "index": 775
+  },
+  {
+    "surface": "マキアヴェッリズム",
+    "reading": "makiaverrizumu",
+    "code": "cr-kata7-776",
+    "index": 776
+  },
+  {
+    "surface": "マンビジ",
+    "reading": "manbiji",
+    "code": "cr-kata7-777",
+    "index": 777
+  },
+  {
+    "surface": "ミミガイ",
+    "reading": "mimiguy",
+    "code": "cr-kata7-778",
+    "index": 778
+  },
+  {
+    "surface": "マンボ",
+    "reading": "mambo",
+    "code": "cr-kata7-779",
+    "index": 779
+  },
+  {
+    "surface": "メンズ",
+    "reading": "man",
+    "code": "cr-kata7-780",
+    "index": 780
+  },
+  {
+    "surface": "メイク",
+    "reading": "make",
+    "code": "cr-kata7-781",
+    "index": 781
+  },
+  {
+    "surface": "メノングエ",
+    "reading": "menongue",
+    "code": "cr-kata7-782",
+    "index": 782
+  },
+  {
+    "surface": "マルキスト",
+    "reading": "marxist",
+    "code": "cr-kata7-783",
+    "index": 783
+  },
+  {
+    "surface": "モーツァルト",
+    "reading": "mozart",
+    "code": "cr-kata7-784",
+    "index": 784
+  },
+  {
+    "surface": "メルトン",
+    "reading": "melton",
+    "code": "cr-kata7-785",
+    "index": 785
+  },
+  {
+    "surface": "モグラ",
+    "reading": "mogura",
+    "code": "cr-kata7-786",
+    "index": 786
+  },
+  {
+    "surface": "ミドル・マネジメント",
+    "reading": "middlemanagement",
+    "code": "cr-kata7-787",
+    "index": 787
+  },
+  {
+    "surface": "ムザッファルナガル",
+    "reading": "muzaffarunagaru",
+    "code": "cr-kata7-788",
+    "index": 788
+  },
+  {
+    "surface": "モヤモヤ",
+    "reading": "moyamoya",
+    "code": "cr-kata7-789",
+    "index": 789
+  },
+  {
+    "surface": "マイラー",
+    "reading": "miler",
+    "code": "cr-kata7-790",
+    "index": 790
+  },
+  {
+    "surface": "マジリカ",
+    "reading": "majirika",
+    "code": "cr-kata7-791",
+    "index": 791
+  },
+  {
+    "surface": "モロ",
+    "reading": "moro",
+    "code": "cr-kata7-792",
+    "index": 792
+  },
+  {
+    "surface": "モモンガ",
+    "reading": "momonga",
+    "code": "cr-kata7-793",
+    "index": 793
+  },
+  {
+    "surface": "マガレイト",
+    "reading": "magareito",
+    "code": "cr-kata7-794",
+    "index": 794
+  },
+  {
+    "surface": "ミミック",
+    "reading": "mimic",
+    "code": "cr-kata7-795",
+    "index": 795
+  },
+  {
+    "surface": "ミッションスクール",
+    "reading": "missionschool",
+    "code": "cr-kata7-796",
+    "index": 796
+  },
+  {
+    "surface": "メナダ",
+    "reading": "menada",
+    "code": "cr-kata7-797",
+    "index": 797
+  },
+  {
+    "surface": "メドフォード",
+    "reading": "medoford",
+    "code": "cr-kata7-798",
+    "index": 798
+  },
+  {
+    "surface": "メゾティント",
+    "reading": "mezzotint",
+    "code": "cr-kata7-799",
+    "index": 799
+  },
+  {
+    "surface": "マエストロ",
+    "reading": "maestro",
+    "code": "cr-kata7-800",
+    "index": 800
+  },
+  {
+    "surface": "マハトマ",
+    "reading": "mahatma",
+    "code": "cr-kata7-801",
+    "index": 801
+  },
+  {
+    "surface": "ミス",
+    "reading": "mistake",
+    "code": "cr-kata7-802",
+    "index": 802
+  },
+  {
+    "surface": "ミュンスター",
+    "reading": "myunsutaa",
+    "code": "cr-kata7-803",
+    "index": 803
+  },
+  {
+    "surface": "メイキング",
+    "reading": "making",
+    "code": "cr-kata7-804",
+    "index": 804
+  },
+  {
+    "surface": "マムシ",
+    "reading": "mamushi",
+    "code": "cr-kata7-805",
+    "index": 805
+  },
+  {
+    "surface": "ミッシー",
+    "reading": "misshii",
+    "code": "cr-kata7-806",
+    "index": 806
+  },
+  {
+    "surface": "マリニャーヌ",
+    "reading": "marinyaanu",
+    "code": "cr-kata7-807",
+    "index": 807
+  },
+  {
+    "surface": "ミュンヘン",
+    "reading": "munchen",
+    "code": "cr-kata7-808",
+    "index": 808
+  },
+  {
+    "surface": "ムンムン",
+    "reading": "munmun",
+    "code": "cr-kata7-809",
+    "index": 809
+  },
+  {
+    "surface": "マツヨイグサ",
+    "reading": "matsuyoigusa",
+    "code": "cr-kata7-810",
+    "index": 810
+  },
+  {
+    "surface": "メダン",
+    "reading": "medan",
+    "code": "cr-kata7-811",
+    "index": 811
+  },
+  {
+    "surface": "ミネラルウオーター",
+    "reading": "mineralwater",
+    "code": "cr-kata7-812",
+    "index": 812
+  },
+  {
+    "surface": "メディカルエレクトロニクス",
+    "reading": "medicalelectronics",
+    "code": "cr-kata7-813",
+    "index": 813
+  },
+  {
+    "surface": "メレニャーノ",
+    "reading": "melegnano",
+    "code": "cr-kata7-814",
+    "index": 814
+  },
+  {
+    "surface": "ミッドナイトブルー",
+    "reading": "midnightblue",
+    "code": "cr-kata7-815",
+    "index": 815
+  },
+  {
+    "surface": "ミドル・マネージメント",
+    "reading": "middlemanagement",
+    "code": "cr-kata7-816",
+    "index": 816
+  },
+  {
+    "surface": "ミニサイクル",
+    "reading": "minicycle",
+    "code": "cr-kata7-817",
+    "index": 817
+  },
+  {
+    "surface": "メービウス",
+    "reading": "meebiusu",
+    "code": "cr-kata7-818",
+    "index": 818
+  },
+  {
+    "surface": "モデルルーム",
+    "reading": "modelroom",
+    "code": "cr-kata7-819",
+    "index": 819
+  },
+  {
+    "surface": "モズ",
+    "reading": "mozu",
+    "code": "cr-kata7-820",
+    "index": 820
+  },
+  {
+    "surface": "ムズムズ",
+    "reading": "muzumuzu",
+    "code": "cr-kata7-821",
+    "index": 821
+  },
+  {
+    "surface": "メタフォ",
+    "reading": "metafo",
+    "code": "cr-kata7-822",
+    "index": 822
+  },
+  {
+    "surface": "メガフェプス",
+    "reading": "megafepusu",
+    "code": "cr-kata7-823",
+    "index": 823
+  },
+  {
+    "surface": "ミニスカ",
+    "reading": "miniskirt",
+    "code": "cr-kata7-824",
+    "index": 824
+  },
+  {
+    "surface": "マーカンティリズム",
+    "reading": "mercantilism",
+    "code": "cr-kata7-825",
+    "index": 825
+  },
+  {
+    "surface": "メルマガ",
+    "reading": "merumaga",
+    "code": "cr-kata7-826",
+    "index": 826
+  },
+  {
+    "surface": "ムーリエル",
+    "reading": "muuriel",
+    "code": "cr-kata7-827",
+    "index": 827
+  },
+  {
+    "surface": "マスソサエティー",
+    "reading": "masssociety",
+    "code": "cr-kata7-828",
+    "index": 828
+  },
+  {
+    "surface": "ミドルウエア",
+    "reading": "middlewear",
+    "code": "cr-kata7-829",
+    "index": 829
+  },
+  {
+    "surface": "メヌエット",
+    "reading": "menuetto",
+    "code": "cr-kata7-830",
+    "index": 830
+  },
+  {
+    "surface": "マス・コミュニケーション",
+    "reading": "masscommunication",
+    "code": "cr-kata7-831",
+    "index": 831
+  },
+  {
+    "surface": "マニファクチャ",
+    "reading": "manifakucha",
+    "code": "cr-kata7-832",
+    "index": 832
+  },
+  {
+    "surface": "マニュファクチャリング",
+    "reading": "manufacturing",
+    "code": "cr-kata7-833",
+    "index": 833
+  },
+  {
+    "surface": "マルケサスコリス",
+    "reading": "marukesasukorisu",
+    "code": "cr-kata7-834",
+    "index": 834
+  },
+  {
+    "surface": "ムッシュー",
+    "reading": "monsieur",
+    "code": "cr-kata7-835",
+    "index": 835
+  },
+  {
+    "surface": "モンベリアル",
+    "reading": "monberiaru",
+    "code": "cr-kata7-836",
+    "index": 836
+  },
+  {
+    "surface": "ミード",
+    "reading": "miido",
+    "code": "cr-kata7-837",
+    "index": 837
+  },
+  {
+    "surface": "マナド",
+    "reading": "manado",
+    "code": "cr-kata7-838",
+    "index": 838
+  },
+  {
+    "surface": "ムタレ",
+    "reading": "mutalent",
+    "code": "cr-kata7-839",
+    "index": 839
+  },
+  {
+    "surface": "ムーンストーン",
+    "reading": "moonstone",
+    "code": "cr-kata7-840",
+    "index": 840
+  },
+  {
+    "surface": "メチャメチャ",
+    "reading": "mechamecha",
+    "code": "cr-kata7-841",
+    "index": 841
+  },
+  {
+    "surface": "メリハリ",
+    "reading": "merihari",
+    "code": "cr-kata7-842",
+    "index": 842
+  },
+  {
+    "surface": "メジューム",
+    "reading": "mejuumu",
+    "code": "cr-kata7-843",
+    "index": 843
+  },
+  {
+    "surface": "モションマジャローヴァール",
+    "reading": "moshonmajaroovaaru",
+    "code": "cr-kata7-844",
+    "index": 844
+  },
+  {
+    "surface": "モダンボーイ",
+    "reading": "modernboy",
+    "code": "cr-kata7-845",
+    "index": 845
+  },
+  {
+    "surface": "モダニティー",
+    "reading": "modanitii",
+    "code": "cr-kata7-846",
+    "index": 846
+  },
+  {
+    "surface": "マニホールド",
+    "reading": "manifold",
+    "code": "cr-kata7-847",
+    "index": 847
+  },
+  {
+    "surface": "メモ",
+    "reading": "memo",
+    "code": "cr-kata7-848",
+    "index": 848
+  },
+  {
+    "surface": "マルチタスク",
+    "reading": "maruchitasuku",
+    "code": "cr-kata7-849",
+    "index": 849
+  },
+  {
+    "surface": "マハーサラカム",
+    "reading": "mahaasalarycome",
+    "code": "cr-kata7-850",
+    "index": 850
+  },
+  {
+    "surface": "ミニコンピュータ",
+    "reading": "minicomputer",
+    "code": "cr-kata7-851",
+    "index": 851
+  },
+  {
+    "surface": "メルボルン",
+    "reading": "melbourne",
+    "code": "cr-kata7-852",
+    "index": 852
+  },
+  {
+    "surface": "メープル",
+    "reading": "maple",
+    "code": "cr-kata7-853",
+    "index": 853
+  },
+  {
+    "surface": "マオナガ",
+    "reading": "maonaga",
+    "code": "cr-kata7-854",
+    "index": 854
+  },
+  {
+    "surface": "マダラフルマカモメ",
+    "reading": "madarafurumakamome",
+    "code": "cr-kata7-855",
+    "index": 855
+  },
+  {
+    "surface": "マーカム",
+    "reading": "maakamu",
+    "code": "cr-kata7-856",
+    "index": 856
+  },
+  {
+    "surface": "モストレス",
+    "reading": "mostres",
+    "code": "cr-kata7-857",
+    "index": 857
+  },
+  {
+    "surface": "マゾ",
+    "reading": "masochist",
+    "code": "cr-kata7-858",
+    "index": 858
+  },
+  {
+    "surface": "モッツァレラチーズ",
+    "reading": "mozzarellacheese",
+    "code": "cr-kata7-859",
+    "index": 859
+  },
+  {
+    "surface": "メープルシロップ",
+    "reading": "maplesiroop",
+    "code": "cr-kata7-860",
+    "index": 860
+  },
+  {
+    "surface": "ミネストローネ",
+    "reading": "minestrone",
+    "code": "cr-kata7-861",
+    "index": 861
+  },
+  {
+    "surface": "メレンゲ",
+    "reading": "meringue",
+    "code": "cr-kata7-862",
+    "index": 862
+  },
+  {
+    "surface": "ムダメシ",
+    "reading": "mudameshi",
+    "code": "cr-kata7-863",
+    "index": 863
+  },
+  {
+    "surface": "メタフォント",
+    "reading": "metafont",
+    "code": "cr-kata7-864",
+    "index": 864
+  },
+  {
+    "surface": "メテリー",
+    "reading": "metelee",
+    "code": "cr-kata7-865",
+    "index": 865
+  },
+  {
+    "surface": "モリオカ",
+    "reading": "morioka",
+    "code": "cr-kata7-866",
+    "index": 866
+  },
+  {
+    "surface": "メゴチ",
+    "reading": "megochi",
+    "code": "cr-kata7-867",
+    "index": 867
+  },
+  {
+    "surface": "メガネ",
+    "reading": "megane",
+    "code": "cr-kata7-868",
+    "index": 868
+  },
+  {
+    "surface": "ムーディ",
+    "reading": "muudi",
+    "code": "cr-kata7-869",
+    "index": 869
+  },
+  {
+    "surface": "メーンディッシュ",
+    "reading": "maindish",
+    "code": "cr-kata7-870",
+    "index": 870
+  },
+  {
+    "surface": "ミュージックセラピー",
+    "reading": "musictherapy",
+    "code": "cr-kata7-871",
+    "index": 871
+  },
+  {
+    "surface": "メンス",
+    "reading": "menstruation",
+    "code": "cr-kata7-872",
+    "index": 872
+  },
+  {
+    "surface": "メディナ・デル・カンポ",
+    "reading": "medinaderucampo",
+    "code": "cr-kata7-873",
+    "index": 873
+  },
+  {
+    "surface": "ミゾゴイ",
+    "reading": "mizogoi",
+    "code": "cr-kata7-874",
+    "index": 874
+  },
+  {
+    "surface": "メニューバー",
+    "reading": "menubar",
+    "code": "cr-kata7-875",
+    "index": 875
+  },
+  {
+    "surface": "マキシミンルール",
+    "reading": "makishiminruuru",
+    "code": "cr-kata7-876",
+    "index": 876
+  },
+  {
+    "surface": "ミュータント",
+    "reading": "mutant",
+    "code": "cr-kata7-877",
+    "index": 877
+  },
+  {
+    "surface": "メダケ",
+    "reading": "medake",
+    "code": "cr-kata7-878",
+    "index": 878
+  },
+  {
+    "surface": "モンブラン",
+    "reading": "montblanc",
+    "code": "cr-kata7-879",
+    "index": 879
+  },
+  {
+    "surface": "ミスキャスト",
+    "reading": "miscast",
+    "code": "cr-kata7-880",
+    "index": 880
+  },
+  {
+    "surface": "モーニングショー",
+    "reading": "morningshow",
+    "code": "cr-kata7-881",
+    "index": 881
+  },
+  {
+    "surface": "メルセデス",
+    "reading": "merusedesu",
+    "code": "cr-kata7-882",
+    "index": 882
+  },
+  {
+    "surface": "ミップス",
+    "reading": "mippusu",
+    "code": "cr-kata7-883",
+    "index": 883
+  },
+  {
+    "surface": "モザレラ",
+    "reading": "mozarera",
+    "code": "cr-kata7-884",
+    "index": 884
+  },
+  {
+    "surface": "ムラムラ",
+    "reading": "muramura",
+    "code": "cr-kata7-885",
+    "index": 885
+  },
+  {
+    "surface": "マザコン",
+    "reading": "mothercomplex",
+    "code": "cr-kata7-886",
+    "index": 886
+  },
+  {
+    "surface": "マネーロンダリング",
+    "reading": "moneylaundering",
+    "code": "cr-kata7-887",
+    "index": 887
+  },
+  {
+    "surface": "マンゴ",
+    "reading": "mango",
+    "code": "cr-kata7-888",
+    "index": 888
+  },
+  {
+    "surface": "マディソン",
+    "reading": "madison",
+    "code": "cr-kata7-889",
+    "index": 889
+  },
+  {
+    "surface": "ミヤコワスレ",
+    "reading": "miyakowasure",
+    "code": "cr-kata7-890",
+    "index": 890
+  },
+  {
+    "surface": "マウア",
+    "reading": "maua",
+    "code": "cr-kata7-891",
+    "index": 891
+  },
+  {
+    "surface": "ミント",
+    "reading": "mint",
+    "code": "cr-kata7-892",
+    "index": 892
+  },
+  {
+    "surface": "マニファクチャリング",
+    "reading": "manifakucharingu",
+    "code": "cr-kata7-893",
+    "index": 893
+  },
+  {
+    "surface": "ミリグラム",
+    "reading": "miriguramu",
+    "code": "cr-kata7-894",
+    "index": 894
+  },
+  {
+    "surface": "モノーポリ",
+    "reading": "monopoly",
+    "code": "cr-kata7-895",
+    "index": 895
+  },
+  {
+    "surface": "マタウトゥ",
+    "reading": "matautu",
+    "code": "cr-kata7-896",
+    "index": 896
+  },
+  {
+    "surface": "ミナミイスズミ",
+    "reading": "minamiisuzumi",
+    "code": "cr-kata7-897",
+    "index": 897
+  },
+  {
+    "surface": "マリンルック",
+    "reading": "marinelook",
+    "code": "cr-kata7-898",
+    "index": 898
+  },
+  {
+    "surface": "ミスプリ",
+    "reading": "misupuri",
+    "code": "cr-kata7-899",
+    "index": 899
+  },
+  {
+    "surface": "マルメロ",
+    "reading": "marmelo",
+    "code": "cr-kata7-900",
+    "index": 900
+  },
+  {
+    "surface": "マイエン",
+    "reading": "myen",
+    "code": "cr-kata7-901",
+    "index": 901
+  },
+  {
+    "surface": "メリダ",
+    "reading": "merida",
+    "code": "cr-kata7-902",
+    "index": 902
+  },
+  {
+    "surface": "マツカサガイ",
+    "reading": "matsukasaguy",
+    "code": "cr-kata7-903",
+    "index": 903
+  },
+  {
+    "surface": "メジャー・レーベル",
+    "reading": "majorlabel",
+    "code": "cr-kata7-904",
+    "index": 904
+  },
+  {
+    "surface": "モウメンタム",
+    "reading": "moumentamu",
+    "code": "cr-kata7-905",
+    "index": 905
+  },
+  {
+    "surface": "マドレーヌ",
+    "reading": "madeleine",
+    "code": "cr-kata7-906",
+    "index": 906
+  },
+  {
+    "surface": "マルセイユ",
+    "reading": "marseille",
+    "code": "cr-kata7-907",
+    "index": 907
+  },
+  {
+    "surface": "マナヅル",
+    "reading": "manazuru",
+    "code": "cr-kata7-908",
+    "index": 908
+  },
+  {
+    "surface": "メバル",
+    "reading": "mebaru",
+    "code": "cr-kata7-909",
+    "index": 909
+  },
+  {
+    "surface": "メジ",
+    "reading": "meji",
+    "code": "cr-kata7-910",
+    "index": 910
+  },
+  {
+    "surface": "マック",
+    "reading": "makku",
+    "code": "cr-kata7-911",
+    "index": 911
+  },
+  {
+    "surface": "ミズナラ",
+    "reading": "mizunara",
+    "code": "cr-kata7-912",
+    "index": 912
+  },
+  {
+    "surface": "メカトロニクス",
+    "reading": "mekatoronikusu",
+    "code": "cr-kata7-913",
+    "index": 913
+  },
+  {
+    "surface": "モトリル",
+    "reading": "motoriru",
+    "code": "cr-kata7-914",
+    "index": 914
+  },
+  {
+    "surface": "ミクロトーム",
+    "reading": "microtome",
+    "code": "cr-kata7-915",
+    "index": 915
+  },
+  {
+    "surface": "マイカコンデンサー",
+    "reading": "micacondenser",
+    "code": "cr-kata7-916",
+    "index": 916
+  },
+  {
+    "surface": "モノーラル",
+    "reading": "monaural",
+    "code": "cr-kata7-917",
+    "index": 917
+  },
+  {
+    "surface": "ミズゴケ",
+    "reading": "mizugoke",
+    "code": "cr-kata7-918",
+    "index": 918
+  },
+  {
+    "surface": "ミーチャンハーチャン",
+    "reading": "miichanhaachan",
+    "code": "cr-kata7-919",
+    "index": 919
+  },
+  {
+    "surface": "モノローグ",
+    "reading": "monologue",
+    "code": "cr-kata7-920",
+    "index": 920
+  },
+  {
+    "surface": "マイクロプロセッサー",
+    "reading": "microprocessor",
+    "code": "cr-kata7-921",
+    "index": 921
+  },
+  {
+    "surface": "ミクロ",
+    "reading": "micro",
+    "code": "cr-kata7-922",
+    "index": 922
+  },
+  {
+    "surface": "ミステイク",
+    "reading": "mistaketake",
+    "code": "cr-kata7-923",
+    "index": 923
+  },
+  {
+    "surface": "モモ",
+    "reading": "momo",
+    "code": "cr-kata7-924",
+    "index": 924
+  },
+  {
+    "surface": "マジョリティー",
+    "reading": "majority",
+    "code": "cr-kata7-925",
+    "index": 925
+  },
+  {
+    "surface": "メーラー",
+    "reading": "mailer",
+    "code": "cr-kata7-926",
+    "index": 926
+  },
+  {
+    "surface": "メラメラ",
+    "reading": "meramera",
+    "code": "cr-kata7-927",
+    "index": 927
+  },
+  {
+    "surface": "メリッサ",
+    "reading": "merissa",
+    "code": "cr-kata7-928",
+    "index": 928
+  },
+  {
+    "surface": "マリボル",
+    "reading": "maliboru",
+    "code": "cr-kata7-929",
+    "index": 929
+  },
+  {
+    "surface": "メボウキ",
+    "reading": "mebouki",
+    "code": "cr-kata7-930",
+    "index": 930
+  },
+  {
+    "surface": "マドンナ",
+    "reading": "madonna",
+    "code": "cr-kata7-931",
+    "index": 931
+  },
+  {
+    "surface": "ミゾレフグ",
+    "reading": "mizorefugu",
+    "code": "cr-kata7-932",
+    "index": 932
+  },
+  {
+    "surface": "ムートン",
+    "reading": "mouton",
+    "code": "cr-kata7-933",
+    "index": 933
+  },
+  {
+    "surface": "モデルケース",
+    "reading": "modelcase",
+    "code": "cr-kata7-934",
+    "index": 934
+  },
+  {
+    "surface": "ムバイキ",
+    "reading": "mubaiki",
+    "code": "cr-kata7-935",
+    "index": 935
+  },
+  {
+    "surface": "ムーラン",
+    "reading": "moulin",
+    "code": "cr-kata7-936",
+    "index": 936
+  },
+  {
+    "surface": "ムジナ",
+    "reading": "mujina",
+    "code": "cr-kata7-937",
+    "index": 937
+  },
+  {
+    "surface": "マネーフロー",
+    "reading": "moneyflow",
+    "code": "cr-kata7-938",
+    "index": 938
+  },
+  {
+    "surface": "メーフラワー",
+    "reading": "mayflower",
+    "code": "cr-kata7-939",
+    "index": 939
+  },
+  {
+    "surface": "ミクロセル",
+    "reading": "microcell",
+    "code": "cr-kata7-940",
+    "index": 940
+  },
+  {
+    "surface": "ミディー",
+    "reading": "midi",
+    "code": "cr-kata7-941",
+    "index": 941
+  },
+  {
+    "surface": "マツモ",
+    "reading": "matsumo",
+    "code": "cr-kata7-942",
+    "index": 942
+  },
+  {
+    "surface": "マツクイムシ",
+    "reading": "matsukuimushi",
+    "code": "cr-kata7-943",
+    "index": 943
+  },
+  {
+    "surface": "メルツォ",
+    "reading": "merutso",
+    "code": "cr-kata7-944",
+    "index": 944
+  },
+  {
+    "surface": "メープルシュガー",
+    "reading": "maplesugar",
+    "code": "cr-kata7-945",
+    "index": 945
+  },
+  {
+    "surface": "メレンス",
+    "reading": "merensu",
+    "code": "cr-kata7-946",
+    "index": 946
+  },
+  {
+    "surface": "マーシュフィールド",
+    "reading": "maashufield",
+    "code": "cr-kata7-947",
+    "index": 947
+  },
+  {
+    "surface": "マーケットシェア",
+    "reading": "marketshare",
+    "code": "cr-kata7-948",
+    "index": 948
+  },
+  {
+    "surface": "マントル",
+    "reading": "mantle",
+    "code": "cr-kata7-949",
+    "index": 949
+  },
+  {
+    "surface": "マハチカラ",
+    "reading": "mahachikara",
+    "code": "cr-kata7-950",
+    "index": 950
+  },
+  {
+    "surface": "モング",
+    "reading": "mongu",
+    "code": "cr-kata7-951",
+    "index": 951
+  },
+  {
+    "surface": "モンク",
+    "reading": "monk",
+    "code": "cr-kata7-952",
+    "index": 952
+  },
+  {
+    "surface": "マメ",
+    "reading": "mame",
+    "code": "cr-kata7-953",
+    "index": 953
+  },
+  {
+    "surface": "モデラー",
+    "reading": "modeler",
+    "code": "cr-kata7-954",
+    "index": 954
+  },
+  {
+    "surface": "メダリスト",
+    "reading": "medalist",
+    "code": "cr-kata7-955",
+    "index": 955
+  },
+  {
+    "surface": "マッシュルームカット",
+    "reading": "mushroomcut",
+    "code": "cr-kata7-956",
+    "index": 956
+  },
+  {
+    "surface": "ミススペル",
+    "reading": "misspell",
+    "code": "cr-kata7-957",
+    "index": 957
+  },
+  {
+    "surface": "ムーヴィー",
+    "reading": "movie",
+    "code": "cr-kata7-958",
+    "index": 958
+  },
+  {
+    "surface": "マグウェー",
+    "reading": "mugway",
+    "code": "cr-kata7-959",
+    "index": 959
+  },
+  {
+    "surface": "ムトン",
+    "reading": "mouton",
+    "code": "cr-kata7-960",
+    "index": 960
+  },
+  {
+    "surface": "メヒルギ",
+    "reading": "mehirugi",
+    "code": "cr-kata7-961",
+    "index": 961
+  },
+  {
+    "surface": "ミスコン",
+    "reading": "misukon",
+    "code": "cr-kata7-962",
+    "index": 962
+  },
+  {
+    "surface": "マヂ",
+    "reading": "mazi",
+    "code": "cr-kata7-963",
+    "index": 963
+  },
+  {
+    "surface": "マンガン",
+    "reading": "mangan",
+    "code": "cr-kata7-964",
+    "index": 964
+  },
+  {
+    "surface": "マイタケ",
+    "reading": "maitake",
+    "code": "cr-kata7-965",
+    "index": 965
+  },
+  {
+    "surface": "マリンバ",
+    "reading": "marimba",
+    "code": "cr-kata7-966",
+    "index": 966
+  },
+  {
+    "surface": "モサド",
+    "reading": "mosado",
+    "code": "cr-kata7-967",
+    "index": 967
+  },
+  {
+    "surface": "ミクシィ",
+    "reading": "mikushi",
+    "code": "cr-kata7-968",
+    "index": 968
+  },
+  {
+    "surface": "メンタイ",
+    "reading": "mentai",
+    "code": "cr-kata7-969",
+    "index": 969
+  },
+  {
+    "surface": "ミキシング",
+    "reading": "mixing",
+    "code": "cr-kata7-970",
+    "index": 970
+  },
+  {
+    "surface": "マテーラ",
+    "reading": "matailor",
+    "code": "cr-kata7-971",
+    "index": 971
+  },
+  {
+    "surface": "モード",
+    "reading": "mode",
+    "code": "cr-kata7-972",
+    "index": 972
+  },
+  {
+    "surface": "メティ",
+    "reading": "mete",
+    "code": "cr-kata7-973",
+    "index": 973
+  },
+  {
+    "surface": "マタム",
+    "reading": "matamu",
+    "code": "cr-kata7-974",
+    "index": 974
+  },
+  {
+    "surface": "ミドルマネジメント",
+    "reading": "middlemanagement",
+    "code": "cr-kata7-975",
+    "index": 975
+  },
+  {
+    "surface": "メリアス",
+    "reading": "merias",
+    "code": "cr-kata7-976",
+    "index": 976
+  },
+  {
+    "surface": "ミュシー",
+    "reading": "myushii",
+    "code": "cr-kata7-977",
+    "index": 977
+  },
+  {
+    "surface": "マラボ",
+    "reading": "malabo",
+    "code": "cr-kata7-978",
+    "index": 978
+  },
+  {
+    "surface": "ミニスター",
+    "reading": "minister",
+    "code": "cr-kata7-979",
+    "index": 979
+  },
+  {
+    "surface": "メシ",
+    "reading": "meshi",
+    "code": "cr-kata7-980",
+    "index": 980
+  },
+  {
+    "surface": "メンタルトレーニング",
+    "reading": "mentaltraining",
+    "code": "cr-kata7-981",
+    "index": 981
+  },
+  {
+    "surface": "マスメディア",
+    "reading": "massmedia",
+    "code": "cr-kata7-982",
+    "index": 982
+  },
+  {
+    "surface": "メリケン",
+    "reading": "american",
+    "code": "cr-kata7-983",
+    "index": 983
+  },
+  {
+    "surface": "ムギュウ",
+    "reading": "mugyuu",
+    "code": "cr-kata7-984",
+    "index": 984
+  },
+  {
+    "surface": "モスタル",
+    "reading": "mosutaru",
+    "code": "cr-kata7-985",
+    "index": 985
+  },
+  {
+    "surface": "モメンタム",
+    "reading": "momentamu",
+    "code": "cr-kata7-986",
+    "index": 986
+  },
+  {
+    "surface": "ミリタリー",
+    "reading": "military",
+    "code": "cr-kata7-987",
+    "index": 987
+  },
+  {
+    "surface": "モリスビル",
+    "reading": "morrisbuilding",
+    "code": "cr-kata7-988",
+    "index": 988
+  },
+  {
+    "surface": "メイプル・ハイツ",
+    "reading": "mapleheights",
+    "code": "cr-kata7-989",
+    "index": 989
+  },
+  {
+    "surface": "ミエルクレア・チウク",
+    "reading": "mierukureachiuku",
+    "code": "cr-kata7-990",
+    "index": 990
+  },
+  {
+    "surface": "マナティー",
+    "reading": "manatee",
+    "code": "cr-kata7-991",
+    "index": 991
+  },
+  {
+    "surface": "ミスジチョウチョウウオ",
+    "reading": "misujichouchouuo",
+    "code": "cr-kata7-992",
+    "index": 992
+  },
+  {
+    "surface": "メガホン",
+    "reading": "megaphone",
+    "code": "cr-kata7-993",
+    "index": 993
+  },
+  {
+    "surface": "マス",
+    "reading": "mass",
+    "code": "cr-kata7-994",
+    "index": 994
+  },
+  {
+    "surface": "メソジスト",
+    "reading": "methodist",
+    "code": "cr-kata7-995",
+    "index": 995
+  },
+  {
+    "surface": "メイガ",
+    "reading": "meiga",
+    "code": "cr-kata7-996",
+    "index": 996
+  },
+  {
+    "surface": "ムーンライト",
+    "reading": "muunraito",
+    "code": "cr-kata7-997",
+    "index": 997
+  },
+  {
+    "surface": "マッポ",
+    "reading": "mappo",
+    "code": "cr-kata7-998",
+    "index": 998
+  },
+  {
+    "surface": "モンスーン",
+    "reading": "monsoon",
+    "code": "cr-kata7-999",
+    "index": 999
+  },
+  {
+    "surface": "メタメディア",
+    "reading": "metamedia",
+    "code": "cr-kata7-1000",
+    "index": 1000
+  },
+  {
+    "surface": "ミズーリ",
+    "reading": "missouri",
+    "code": "cr-kata7-1001",
+    "index": 1001
+  },
+  {
+    "surface": "メディシン",
+    "reading": "medicine",
+    "code": "cr-kata7-1002",
+    "index": 1002
+  },
+  {
+    "surface": "マイナス",
+    "reading": "minus",
+    "code": "cr-kata7-1003",
+    "index": 1003
+  },
+  {
+    "surface": "ミュージカル",
+    "reading": "musical",
+    "code": "cr-kata7-1004",
+    "index": 1004
+  },
+  {
+    "surface": "マジョラム",
+    "reading": "marjoram",
+    "code": "cr-kata7-1005",
+    "index": 1005
+  },
+  {
+    "surface": "マンダルヨン",
+    "reading": "mandaruyon",
+    "code": "cr-kata7-1006",
+    "index": 1006
+  },
+  {
+    "surface": "ムナグロ",
+    "reading": "munaguro",
+    "code": "cr-kata7-1007",
+    "index": 1007
+  },
+  {
+    "surface": "マロヤロスラヴェツ",
+    "reading": "maroyarosuravetsu",
+    "code": "cr-kata7-1008",
+    "index": 1008
+  },
+  {
+    "surface": "ミックスチュア",
+    "reading": "mikkusuchua",
+    "code": "cr-kata7-1009",
+    "index": 1009
+  },
+  {
+    "surface": "マヨラー",
+    "reading": "mayoraa",
+    "code": "cr-kata7-1010",
+    "index": 1010
+  },
+  {
+    "surface": "モヤ",
+    "reading": "moya",
+    "code": "cr-kata7-1011",
+    "index": 1011
+  },
+  {
+    "surface": "ミナミイソハゼ",
+    "reading": "minamiisohaze",
+    "code": "cr-kata7-1012",
+    "index": 1012
+  },
+  {
+    "surface": "マザーコンプレックス",
+    "reading": "mothercomplex",
+    "code": "cr-kata7-1013",
+    "index": 1013
+  },
+  {
+    "surface": "メロドラマ",
+    "reading": "melodrama",
+    "code": "cr-kata7-1014",
+    "index": 1014
+  },
+  {
+    "surface": "メグロ",
+    "reading": "meguro",
+    "code": "cr-kata7-1015",
+    "index": 1015
+  },
+  {
+    "surface": "モナミー",
+    "reading": "monami",
+    "code": "cr-kata7-1016",
+    "index": 1016
+  },
+  {
+    "surface": "ムッソリーニ",
+    "reading": "mussolini",
+    "code": "cr-kata7-1017",
+    "index": 1017
+  },
+  {
+    "surface": "マジメ",
+    "reading": "majime",
+    "code": "cr-kata7-1018",
+    "index": 1018
+  },
+  {
+    "surface": "モジュラ",
+    "reading": "modular",
+    "code": "cr-kata7-1019",
+    "index": 1019
+  },
+  {
+    "surface": "マニュファクチュアリング",
+    "reading": "manufacturing",
+    "code": "cr-kata7-1020",
+    "index": 1020
+  },
+  {
+    "surface": "ミゼラブル",
+    "reading": "miserable",
+    "code": "cr-kata7-1021",
+    "index": 1021
+  },
+  {
+    "surface": "モビラ",
+    "reading": "mobira",
+    "code": "cr-kata7-1022",
+    "index": 1022
+  },
+  {
+    "surface": "モレキュラーシーブ",
+    "reading": "morekyuraashiibu",
+    "code": "cr-kata7-1023",
+    "index": 1023
+  },
+  {
+    "surface": "モラリスト",
+    "reading": "moralist",
+    "code": "cr-kata7-1024",
+    "index": 1024
+  },
+  {
+    "surface": "ミステリー",
+    "reading": "mystery",
+    "code": "cr-kata7-1025",
+    "index": 1025
+  },
+  {
+    "surface": "マンネリズム",
+    "reading": "mannerism",
+    "code": "cr-kata7-1026",
+    "index": 1026
+  },
+  {
+    "surface": "マルコス・フアレス",
+    "reading": "marcosfuaresu",
+    "code": "cr-kata7-1027",
+    "index": 1027
+  },
+  {
+    "surface": "マハロ",
+    "reading": "mahalo",
+    "code": "cr-kata7-1028",
+    "index": 1028
+  },
+  {
+    "surface": "モンキーレンチ",
+    "reading": "monkeywrench",
+    "code": "cr-kata7-1029",
+    "index": 1029
+  },
+  {
+    "surface": "ミジンコ",
+    "reading": "mijinko",
+    "code": "cr-kata7-1030",
+    "index": 1030
+  },
+  {
+    "surface": "マネーサプライ",
+    "reading": "moneysupply",
+    "code": "cr-kata7-1031",
+    "index": 1031
+  },
+  {
+    "surface": "モラルハラスメント",
+    "reading": "moralharassment",
+    "code": "cr-kata7-1032",
+    "index": 1032
+  },
+  {
+    "surface": "メーカ",
+    "reading": "maker",
+    "code": "cr-kata7-1033",
+    "index": 1033
+  },
+  {
+    "surface": "マルガヒメオオトカゲ",
+    "reading": "marugahimeootokage",
+    "code": "cr-kata7-1034",
+    "index": 1034
+  },
+  {
+    "surface": "マルマンド",
+    "reading": "malmando",
+    "code": "cr-kata7-1035",
+    "index": 1035
+  },
+  {
+    "surface": "マネーローンダリング",
+    "reading": "moneylaundering",
+    "code": "cr-kata7-1036",
+    "index": 1036
+  },
+  {
+    "surface": "ミニ",
+    "reading": "mini",
+    "code": "cr-kata7-1037",
+    "index": 1037
+  },
+  {
+    "surface": "マウンド",
+    "reading": "mound",
+    "code": "cr-kata7-1038",
+    "index": 1038
+  },
+  {
+    "surface": "マルチバンクディーラム",
+    "reading": "maruchibankudiiramu",
+    "code": "cr-kata7-1039",
+    "index": 1039
+  },
+  {
+    "surface": "モンゼイ",
+    "reading": "montthey",
+    "code": "cr-kata7-1040",
+    "index": 1040
+  },
+  {
+    "surface": "モホーク",
+    "reading": "mohawk",
+    "code": "cr-kata7-1041",
+    "index": 1041
+  },
+  {
+    "surface": "メカニカル",
+    "reading": "mechanical",
+    "code": "cr-kata7-1042",
+    "index": 1042
+  },
+  {
+    "surface": "マンモス",
+    "reading": "mammoth",
+    "code": "cr-kata7-1043",
+    "index": 1043
+  },
+  {
+    "surface": "マッカリ",
+    "reading": "makkari",
+    "code": "cr-kata7-1044",
+    "index": 1044
+  },
+  {
+    "surface": "マラリア",
+    "reading": "malaria",
+    "code": "cr-kata7-1045",
+    "index": 1045
+  },
+  {
+    "surface": "モニュメンタル",
+    "reading": "monumental",
+    "code": "cr-kata7-1046",
+    "index": 1046
+  },
+  {
+    "surface": "マニューバ",
+    "reading": "manyuuba",
+    "code": "cr-kata7-1047",
+    "index": 1047
+  },
+  {
+    "surface": "メイトランド",
+    "reading": "mateland",
+    "code": "cr-kata7-1048",
+    "index": 1048
+  },
+  {
+    "surface": "ミアリー",
+    "reading": "mialee",
+    "code": "cr-kata7-1049",
+    "index": 1049
+  },
+  {
+    "surface": "ミッケリ",
+    "reading": "mikkeri",
+    "code": "cr-kata7-1050",
+    "index": 1050
+  },
+  {
+    "surface": "ミケ",
+    "reading": "mike",
+    "code": "cr-kata7-1051",
+    "index": 1051
+  },
+  {
+    "surface": "メリノ",
+    "reading": "merino",
+    "code": "cr-kata7-1052",
+    "index": 1052
+  },
+  {
+    "surface": "マレーシア",
+    "reading": "malaysia",
+    "code": "cr-kata7-1053",
+    "index": 1053
+  },
+  {
+    "surface": "マンツーマンディフェンス",
+    "reading": "mantwomandefense",
+    "code": "cr-kata7-1054",
+    "index": 1054
+  },
+  {
+    "surface": "マイクロコンピューター",
+    "reading": "microcomputer",
+    "code": "cr-kata7-1055",
+    "index": 1055
+  },
+  {
+    "surface": "ミノカサゴ",
+    "reading": "minokasago",
+    "code": "cr-kata7-1056",
+    "index": 1056
+  },
+  {
+    "surface": "マツエ",
+    "reading": "matsue",
+    "code": "cr-kata7-1057",
+    "index": 1057
+  },
+  {
+    "surface": "モク",
+    "reading": "moku",
+    "code": "cr-kata7-1058",
+    "index": 1058
+  },
+  {
+    "surface": "メティス",
+    "reading": "metisu",
+    "code": "cr-kata7-1059",
+    "index": 1059
+  },
+  {
+    "surface": "ムィスウォヴィツェ",
+    "reading": "misuovitse",
+    "code": "cr-kata7-1060",
+    "index": 1060
+  },
+  {
+    "surface": "メーメー",
+    "reading": "meemee",
+    "code": "cr-kata7-1061",
+    "index": 1061
+  },
+  {
+    "surface": "メダル",
+    "reading": "medal",
+    "code": "cr-kata7-1062",
+    "index": 1062
+  },
+  {
+    "surface": "ミニステート",
+    "reading": "ministate",
+    "code": "cr-kata7-1063",
+    "index": 1063
+  },
+  {
+    "surface": "メスフラスコ",
+    "reading": "mesfrasco",
+    "code": "cr-kata7-1064",
+    "index": 1064
+  },
+  {
+    "surface": "マーケットリーダー",
+    "reading": "marketleader",
+    "code": "cr-kata7-1065",
+    "index": 1065
+  },
+  {
+    "surface": "マラーノ・ディ・ナーポリ",
+    "reading": "marranosdinapoli",
+    "code": "cr-kata7-1066",
+    "index": 1066
+  },
+  {
+    "surface": "モーニングアフターピル",
+    "reading": "morningafterpill",
+    "code": "cr-kata7-1067",
+    "index": 1067
+  },
+  {
+    "surface": "マイナー",
+    "reading": "minor",
+    "code": "cr-kata7-1068",
+    "index": 1068
+  },
+  {
+    "surface": "モチベート",
+    "reading": "motivate",
+    "code": "cr-kata7-1069",
+    "index": 1069
+  },
+  {
+    "surface": "メスネジ",
+    "reading": "mesuneji",
+    "code": "cr-kata7-1070",
+    "index": 1070
+  },
+  {
+    "surface": "マリアカニ",
+    "reading": "mariakani",
+    "code": "cr-kata7-1071",
+    "index": 1071
+  },
+  {
+    "surface": "モクモク",
+    "reading": "mokumoku",
+    "code": "cr-kata7-1072",
+    "index": 1072
+  },
+  {
+    "surface": "マーケットプライス",
+    "reading": "marketprice",
+    "code": "cr-kata7-1073",
+    "index": 1073
+  },
+  {
+    "surface": "ミセル",
+    "reading": "micelle",
+    "code": "cr-kata7-1074",
+    "index": 1074
+  },
+  {
+    "surface": "ムラサキ",
+    "reading": "murasaki",
+    "code": "cr-kata7-1075",
+    "index": 1075
+  },
+  {
+    "surface": "モンバサ",
+    "reading": "mombasa",
+    "code": "cr-kata7-1076",
+    "index": 1076
+  },
+  {
+    "surface": "マリコパ",
+    "reading": "malicopa",
+    "code": "cr-kata7-1077",
+    "index": 1077
+  },
+  {
+    "surface": "ミスリード",
+    "reading": "mislead",
+    "code": "cr-kata7-1078",
+    "index": 1078
+  },
+  {
+    "surface": "モビリティー",
+    "reading": "mobility",
+    "code": "cr-kata7-1079",
+    "index": 1079
+  },
+  {
+    "surface": "ママ",
+    "reading": "mama",
+    "code": "cr-kata7-1080",
+    "index": 1080
+  },
+  {
+    "surface": "モッツァレラ",
+    "reading": "mozzarella",
+    "code": "cr-kata7-1081",
+    "index": 1081
+  },
+  {
+    "surface": "マザーリシャリーフ",
+    "reading": "mazaarishariifu",
+    "code": "cr-kata7-1082",
+    "index": 1082
+  },
+  {
+    "surface": "メイラー",
+    "reading": "mailer",
+    "code": "cr-kata7-1083",
+    "index": 1083
+  },
+  {
+    "surface": "モリアーノ・ヴェーネト",
+    "reading": "moriaanoveeneto",
+    "code": "cr-kata7-1084",
+    "index": 1084
+  },
+  {
+    "surface": "メコ",
+    "reading": "meko",
+    "code": "cr-kata7-1085",
+    "index": 1085
+  },
+  {
+    "surface": "マイ",
+    "reading": "my",
+    "code": "cr-kata7-1086",
+    "index": 1086
+  },
+  {
+    "surface": "マルチーズ",
+    "reading": "maltese",
+    "code": "cr-kata7-1087",
+    "index": 1087
+  },
+  {
+    "surface": "モニタリングポスト",
+    "reading": "monitoringposuto",
+    "code": "cr-kata7-1088",
+    "index": 1088
+  },
+  {
+    "surface": "マウント・ヴァーノン",
+    "reading": "mountvaanon",
+    "code": "cr-kata7-1089",
+    "index": 1089
+  },
+  {
+    "surface": "ミネラーリヌィエ・ヴォードィ",
+    "reading": "mineraarinievoodi",
+    "code": "cr-kata7-1090",
+    "index": 1090
+  },
+  {
+    "surface": "マルチクス",
+    "reading": "multikusu",
+    "code": "cr-kata7-1091",
+    "index": 1091
+  },
+  {
+    "surface": "モジュレーション",
+    "reading": "modulation",
+    "code": "cr-kata7-1092",
+    "index": 1092
+  },
+  {
+    "surface": "メモリ",
+    "reading": "memory",
+    "code": "cr-kata7-1093",
+    "index": 1093
+  },
+  {
+    "surface": "マントルピース",
+    "reading": "mantelpiece",
+    "code": "cr-kata7-1094",
+    "index": 1094
+  },
+  {
+    "surface": "マネタリスト",
+    "reading": "monetarist",
+    "code": "cr-kata7-1095",
+    "index": 1095
+  },
+  {
+    "surface": "ムーンフェイス",
+    "reading": "moonface",
+    "code": "cr-kata7-1096",
+    "index": 1096
+  },
+  {
+    "surface": "マワナ",
+    "reading": "mawana",
+    "code": "cr-kata7-1097",
+    "index": 1097
+  },
+  {
+    "surface": "マギ",
+    "reading": "magi",
+    "code": "cr-kata7-1098",
+    "index": 1098
+  },
+  {
+    "surface": "ムドール",
+    "reading": "mudor",
+    "code": "cr-kata7-1099",
+    "index": 1099
+  },
+  {
+    "surface": "マツバセ",
+    "reading": "matsubase",
+    "code": "cr-kata7-1100",
+    "index": 1100
+  },
+  {
+    "surface": "メシア",
+    "reading": "messiah",
+    "code": "cr-kata7-1101",
+    "index": 1101
+  },
+  {
+    "surface": "ミスク",
+    "reading": "mistakeku",
+    "code": "cr-kata7-1102",
+    "index": 1102
+  },
+  {
+    "surface": "マスター・プラン",
+    "reading": "masterplan",
+    "code": "cr-kata7-1103",
+    "index": 1103
+  },
+  {
+    "surface": "モカ",
+    "reading": "mocha",
+    "code": "cr-kata7-1104",
+    "index": 1104
+  },
+  {
+    "surface": "メガストラクチャー",
+    "reading": "megastructure",
+    "code": "cr-kata7-1105",
+    "index": 1105
+  },
+  {
+    "surface": "モサモサ",
+    "reading": "mosamosa",
+    "code": "cr-kata7-1106",
+    "index": 1106
+  },
+  {
+    "surface": "モシ",
+    "reading": "moshi",
+    "code": "cr-kata7-1107",
+    "index": 1107
+  },
+  {
+    "surface": "メタフィジカル",
+    "reading": "metaphysical",
+    "code": "cr-kata7-1108",
+    "index": 1108
+  },
+  {
+    "surface": "モニター",
+    "reading": "monitor",
+    "code": "cr-kata7-1109",
+    "index": 1109
+  },
+  {
+    "surface": "メイド・イン・ジャパン",
+    "reading": "madeinjapan",
+    "code": "cr-kata7-1110",
+    "index": 1110
+  },
+  {
+    "surface": "ムードミュージック",
+    "reading": "moodmusic",
+    "code": "cr-kata7-1111",
+    "index": 1111
+  },
+  {
+    "surface": "マニュファクチャー",
+    "reading": "manufacture",
+    "code": "cr-kata7-1112",
+    "index": 1112
+  },
+  {
+    "surface": "マルチティーティーハブ",
+    "reading": "maruchitiitiihabu",
+    "code": "cr-kata7-1113",
+    "index": 1113
+  },
+  {
+    "surface": "マクロエンジニアリング",
+    "reading": "macroengineering",
+    "code": "cr-kata7-1114",
+    "index": 1114
+  },
+  {
+    "surface": "メロー",
+    "reading": "mellow",
+    "code": "cr-kata7-1115",
+    "index": 1115
+  },
+  {
+    "surface": "メランコリック",
+    "reading": "melancholic",
+    "code": "cr-kata7-1116",
+    "index": 1116
+  },
+  {
+    "surface": "マント",
+    "reading": "manteau",
+    "code": "cr-kata7-1117",
+    "index": 1117
+  },
+  {
+    "surface": "モータリゼーション",
+    "reading": "motorization",
+    "code": "cr-kata7-1118",
+    "index": 1118
+  },
+  {
+    "surface": "メルトダウン",
+    "reading": "meltdown",
+    "code": "cr-kata7-1119",
+    "index": 1119
+  },
+  {
+    "surface": "モニタニング",
+    "reading": "monitaningu",
+    "code": "cr-kata7-1120",
+    "index": 1120
+  },
+  {
+    "surface": "ムーア",
+    "reading": "moore",
+    "code": "cr-kata7-1121",
+    "index": 1121
+  },
+  {
+    "surface": "マケドニア",
+    "reading": "macedonia",
+    "code": "cr-kata7-1122",
+    "index": 1122
+  },
+  {
+    "surface": "メード・イン・ジャパン",
+    "reading": "maidinjapan",
+    "code": "cr-kata7-1123",
+    "index": 1123
+  },
+  {
+    "surface": "マカダミアナッツ",
+    "reading": "macadamianuts",
+    "code": "cr-kata7-1124",
+    "index": 1124
+  },
+  {
+    "surface": "ミンネ",
+    "reading": "minne",
+    "code": "cr-kata7-1125",
+    "index": 1125
+  },
+  {
+    "surface": "マッツォー",
+    "reading": "mattsoo",
+    "code": "cr-kata7-1126",
+    "index": 1126
+  },
+  {
+    "surface": "モップ",
+    "reading": "mop",
+    "code": "cr-kata7-1127",
+    "index": 1127
+  },
+  {
+    "surface": "マスファッション",
+    "reading": "massfashion",
+    "code": "cr-kata7-1128",
+    "index": 1128
+  },
+  {
+    "surface": "マリオン",
+    "reading": "mullion",
+    "code": "cr-kata7-1129",
+    "index": 1129
+  },
+  {
+    "surface": "メラーノ",
+    "reading": "meraano",
+    "code": "cr-kata7-1130",
+    "index": 1130
+  },
+  {
+    "surface": "マランジェ",
+    "reading": "maranje",
+    "code": "cr-kata7-1131",
+    "index": 1131
+  },
+  {
+    "surface": "マンディヤ",
+    "reading": "mandyya",
+    "code": "cr-kata7-1132",
+    "index": 1132
+  },
+  {
+    "surface": "モデナ",
+    "reading": "modena",
+    "code": "cr-kata7-1133",
+    "index": 1133
+  },
+  {
+    "surface": "ムズ",
+    "reading": "muzu",
+    "code": "cr-kata7-1134",
+    "index": 1134
+  },
+  {
+    "surface": "ミュール",
+    "reading": "mule",
+    "code": "cr-kata7-1135",
+    "index": 1135
+  },
+  {
+    "surface": "マクベス",
+    "reading": "macbeth",
+    "code": "cr-kata7-1136",
+    "index": 1136
+  },
+  {
+    "surface": "メルティングポット",
+    "reading": "meltingpot",
+    "code": "cr-kata7-1137",
+    "index": 1137
+  },
+  {
+    "surface": "ミトス",
+    "reading": "mitoss",
+    "code": "cr-kata7-1138",
+    "index": 1138
+  },
+  {
+    "surface": "ミッション",
+    "reading": "mission",
+    "code": "cr-kata7-1139",
+    "index": 1139
+  },
+  {
+    "surface": "マンノース",
+    "reading": "mannose",
+    "code": "cr-kata7-1140",
+    "index": 1140
+  },
+  {
+    "surface": "ミカドチョウチョウウオ",
+    "reading": "mikadochouchouuo",
+    "code": "cr-kata7-1141",
+    "index": 1141
+  },
+  {
+    "surface": "ミルトン・キーンズ",
+    "reading": "miltonkeynes",
+    "code": "cr-kata7-1142",
+    "index": 1142
+  },
+  {
+    "surface": "ミズキンバイ",
+    "reading": "mizukinbai",
+    "code": "cr-kata7-1143",
+    "index": 1143
+  },
+  {
+    "surface": "ムスメベラ",
+    "reading": "musumebera",
+    "code": "cr-kata7-1144",
+    "index": 1144
+  },
+  {
+    "surface": "マナサス",
+    "reading": "manasuspension",
+    "code": "cr-kata7-1145",
+    "index": 1145
+  },
+  {
+    "surface": "モンツキアカヒメジ",
+    "reading": "montsukiakahimeji",
+    "code": "cr-kata7-1146",
+    "index": 1146
+  },
+  {
+    "surface": "ムカッパラ",
+    "reading": "mukappara",
+    "code": "cr-kata7-1147",
+    "index": 1147
+  },
+  {
+    "surface": "マキアベリズム",
+    "reading": "machiavellism",
+    "code": "cr-kata7-1148",
+    "index": 1148
+  },
+  {
+    "surface": "マルチコア",
+    "reading": "multicore",
+    "code": "cr-kata7-1149",
+    "index": 1149
+  },
+  {
+    "surface": "マスカラ",
+    "reading": "mascara",
+    "code": "cr-kata7-1150",
+    "index": 1150
+  },
+  {
+    "surface": "モンロービル",
+    "reading": "monroebuilding",
+    "code": "cr-kata7-1151",
+    "index": 1151
+  },
+  {
+    "surface": "メディエイタ",
+    "reading": "medieita",
+    "code": "cr-kata7-1152",
+    "index": 1152
+  },
+  {
+    "surface": "メリーゴーラウンド",
+    "reading": "merrygoround",
+    "code": "cr-kata7-1153",
+    "index": 1153
+  },
+  {
+    "surface": "マイクロフィルム",
+    "reading": "microfilm",
+    "code": "cr-kata7-1154",
+    "index": 1154
+  },
+  {
+    "surface": "メタセコイヤ",
+    "reading": "metasequoia",
+    "code": "cr-kata7-1155",
+    "index": 1155
+  },
+  {
+    "surface": "メッカ",
+    "reading": "mecca",
+    "code": "cr-kata7-1156",
+    "index": 1156
+  },
+  {
+    "surface": "マルドナド",
+    "reading": "maldonado",
+    "code": "cr-kata7-1157",
+    "index": 1157
+  },
+  {
+    "surface": "モロコシ",
+    "reading": "morokoshi",
+    "code": "cr-kata7-1158",
+    "index": 1158
+  },
+  {
+    "surface": "マヤグエス",
+    "reading": "mayaguesu",
+    "code": "cr-kata7-1159",
+    "index": 1159
+  },
+  {
+    "surface": "ミンブ",
+    "reading": "minbu",
+    "code": "cr-kata7-1160",
+    "index": 1160
+  },
+  {
+    "surface": "メカブ",
+    "reading": "mekabu",
+    "code": "cr-kata7-1161",
+    "index": 1161
+  },
+  {
+    "surface": "ムリダンガ",
+    "reading": "muridanga",
+    "code": "cr-kata7-1162",
+    "index": 1162
+  },
+  {
+    "surface": "メラミン",
+    "reading": "melamine",
+    "code": "cr-kata7-1163",
+    "index": 1163
+  },
+  {
+    "surface": "マスプロ",
+    "reading": "masupuro",
+    "code": "cr-kata7-1164",
+    "index": 1164
+  },
+  {
+    "surface": "ムスカリ",
+    "reading": "muscari",
+    "code": "cr-kata7-1165",
+    "index": 1165
+  },
+  {
+    "surface": "メギ",
+    "reading": "megi",
+    "code": "cr-kata7-1166",
+    "index": 1166
+  },
+  {
+    "surface": "マツバラン",
+    "reading": "matsubarun",
+    "code": "cr-kata7-1167",
+    "index": 1167
+  },
+  {
+    "surface": "マーキーズ",
+    "reading": "marquise",
+    "code": "cr-kata7-1168",
+    "index": 1168
+  },
+  {
+    "surface": "メチール",
+    "reading": "methyl",
+    "code": "cr-kata7-1169",
+    "index": 1169
+  },
+  {
+    "surface": "ミストレス",
+    "reading": "mistress",
+    "code": "cr-kata7-1170",
+    "index": 1170
+  },
+  {
+    "surface": "マニュファクチャラー",
+    "reading": "manufacturer",
+    "code": "cr-kata7-1171",
+    "index": 1171
+  },
+  {
+    "surface": "ミニコンピューター",
+    "reading": "minicomputer",
+    "code": "cr-kata7-1172",
+    "index": 1172
+  },
+  {
+    "surface": "マラータ",
+    "reading": "maraata",
+    "code": "cr-kata7-1173",
+    "index": 1173
+  },
+  {
+    "surface": "ミサンガ",
+    "reading": "micanga",
+    "code": "cr-kata7-1174",
+    "index": 1174
+  },
+  {
+    "surface": "ミキ",
+    "reading": "miki",
+    "code": "cr-kata7-1175",
+    "index": 1175
+  },
+  {
+    "surface": "モンテビデオ",
+    "reading": "montevideo",
+    "code": "cr-kata7-1176",
+    "index": 1176
+  },
+  {
+    "surface": "モダーン",
+    "reading": "modern",
+    "code": "cr-kata7-1177",
+    "index": 1177
+  },
+  {
+    "surface": "ミセズ",
+    "reading": "mrs",
+    "code": "cr-kata7-1178",
+    "index": 1178
+  },
+  {
+    "surface": "マヒマヒ",
+    "reading": "mahimahi",
+    "code": "cr-kata7-1179",
+    "index": 1179
+  },
+  {
+    "surface": "マーケティングコスト",
+    "reading": "marketingcost",
+    "code": "cr-kata7-1180",
+    "index": 1180
+  },
+  {
+    "surface": "マテハン",
+    "reading": "materialhandlig",
+    "code": "cr-kata7-1181",
+    "index": 1181
+  },
+  {
+    "surface": "ミッドナイト",
+    "reading": "midnight",
+    "code": "cr-kata7-1182",
+    "index": 1182
+  },
+  {
+    "surface": "メイフラワー",
+    "reading": "mayflower",
+    "code": "cr-kata7-1183",
+    "index": 1183
+  },
+  {
+    "surface": "モデル",
+    "reading": "model",
+    "code": "cr-kata7-1184",
+    "index": 1184
+  },
+  {
+    "surface": "モデレート",
+    "reading": "moderate",
+    "code": "cr-kata7-1185",
+    "index": 1185
+  },
+  {
+    "surface": "メリデン",
+    "reading": "meriden",
+    "code": "cr-kata7-1186",
+    "index": 1186
+  },
+  {
+    "surface": "マカーニ",
+    "reading": "macarne",
+    "code": "cr-kata7-1187",
+    "index": 1187
+  },
+  {
+    "surface": "メルロー",
+    "reading": "merlot",
+    "code": "cr-kata7-1188",
+    "index": 1188
+  },
+  {
+    "surface": "モーターカー",
+    "reading": "motorcar",
+    "code": "cr-kata7-1189",
+    "index": 1189
+  },
+  {
+    "surface": "マンナ",
+    "reading": "manna",
+    "code": "cr-kata7-1190",
+    "index": 1190
+  },
+  {
+    "surface": "メモリロケーション",
+    "reading": "memorelocation",
+    "code": "cr-kata7-1191",
+    "index": 1191
+  },
+  {
+    "surface": "メジャーバージョンアップ",
+    "reading": "majorversionup",
+    "code": "cr-kata7-1192",
+    "index": 1192
+  },
+  {
+    "surface": "ミニッツステーキ",
+    "reading": "minutesteak",
+    "code": "cr-kata7-1193",
+    "index": 1193
+  },
+  {
+    "surface": "ミュージック",
+    "reading": "music",
+    "code": "cr-kata7-1194",
+    "index": 1194
+  },
+  {
+    "surface": "モンゴメリー・ヴィレッジ",
+    "reading": "montgomeryvirejji",
+    "code": "cr-kata7-1195",
+    "index": 1195
+  },
+  {
+    "surface": "モスリム",
+    "reading": "muslim",
+    "code": "cr-kata7-1196",
+    "index": 1196
+  },
+  {
+    "surface": "メヴァセレト・シオン",
+    "reading": "mevaseretoshion",
+    "code": "cr-kata7-1197",
+    "index": 1197
+  },
+  {
+    "surface": "メソード",
+    "reading": "method",
+    "code": "cr-kata7-1198",
+    "index": 1198
+  },
+  {
+    "surface": "マーケット・シェア",
+    "reading": "marketshare",
+    "code": "cr-kata7-1199",
+    "index": 1199
+  },
+  {
+    "surface": "メンター",
+    "reading": "mentor",
+    "code": "cr-kata7-1200",
+    "index": 1200
+  },
+  {
+    "surface": "メトロ",
+    "reading": "metro",
+    "code": "cr-kata7-1201",
+    "index": 1201
+  },
+  {
+    "surface": "モノドラマ",
+    "reading": "monodrama",
+    "code": "cr-kata7-1202",
+    "index": 1202
+  },
+  {
+    "surface": "ミドリホソオオトカゲ",
+    "reading": "midorihosoootokage",
+    "code": "cr-kata7-1203",
+    "index": 1203
+  },
+  {
+    "surface": "マンデー",
+    "reading": "monday",
+    "code": "cr-kata7-1204",
+    "index": 1204
+  },
+  {
+    "surface": "マクロアセンブラ",
+    "reading": "makuroasenbura",
+    "code": "cr-kata7-1205",
+    "index": 1205
+  },
+  {
+    "surface": "モノティス",
+    "reading": "monotisu",
+    "code": "cr-kata7-1206",
+    "index": 1206
+  },
+  {
+    "surface": "ミツバチ",
+    "reading": "mitsubachi",
+    "code": "cr-kata7-1207",
+    "index": 1207
+  },
+  {
+    "surface": "ミルフイユ",
+    "reading": "mirufuiyu",
+    "code": "cr-kata7-1208",
+    "index": 1208
+  },
+  {
+    "surface": "モーゼスレイク",
+    "reading": "moozesulake",
+    "code": "cr-kata7-1209",
+    "index": 1209
+  },
+  {
+    "surface": "ミリタリズム",
+    "reading": "militarism",
+    "code": "cr-kata7-1210",
+    "index": 1210
+  },
+  {
+    "surface": "メインメモリー",
+    "reading": "mainmemory",
+    "code": "cr-kata7-1211",
+    "index": 1211
+  },
+  {
+    "surface": "モノクローナル",
+    "reading": "monokuroonaru",
+    "code": "cr-kata7-1212",
+    "index": 1212
+  },
+  {
+    "surface": "マツカサウオ",
+    "reading": "matsukasauo",
+    "code": "cr-kata7-1213",
+    "index": 1213
+  },
+  {
+    "surface": "モデラ",
+    "reading": "modeler",
+    "code": "cr-kata7-1214",
+    "index": 1214
+  },
+  {
+    "surface": "メーキング",
+    "reading": "making",
+    "code": "cr-kata7-1215",
+    "index": 1215
+  },
+  {
+    "surface": "マニピュレーション",
+    "reading": "manipulation",
+    "code": "cr-kata7-1216",
+    "index": 1216
+  },
+  {
+    "surface": "マサーラー",
+    "reading": "masaaraa",
+    "code": "cr-kata7-1217",
+    "index": 1217
+  },
+  {
+    "surface": "ミクロン",
+    "reading": "micron",
+    "code": "cr-kata7-1218",
+    "index": 1218
+  },
+  {
+    "surface": "ミッシング・リンク",
+    "reading": "missinglink",
+    "code": "cr-kata7-1219",
+    "index": 1219
+  },
+  {
+    "surface": "モンテロ",
+    "reading": "montterrorism",
+    "code": "cr-kata7-1220",
+    "index": 1220
+  },
+  {
+    "surface": "ムンプス",
+    "reading": "mumps",
+    "code": "cr-kata7-1221",
+    "index": 1221
+  },
+  {
+    "surface": "ミドルタウン",
+    "reading": "middletown",
+    "code": "cr-kata7-1222",
+    "index": 1222
+  },
+  {
+    "surface": "ミンミンゼミ",
+    "reading": "minminseminar",
+    "code": "cr-kata7-1223",
+    "index": 1223
+  },
+  {
+    "surface": "ムスコ",
+    "reading": "musuko",
+    "code": "cr-kata7-1224",
+    "index": 1224
+  },
+  {
+    "surface": "モデルノロジー",
+    "reading": "modernology",
+    "code": "cr-kata7-1225",
+    "index": 1225
+  },
+  {
+    "surface": "マスチフ",
+    "reading": "mastiff",
+    "code": "cr-kata7-1226",
+    "index": 1226
+  },
+  {
+    "surface": "ミンネゼンガー",
+    "reading": "minnnesanger",
+    "code": "cr-kata7-1227",
+    "index": 1227
+  },
+  {
+    "surface": "ミミクリ",
+    "reading": "mimiclitoris",
+    "code": "cr-kata7-1228",
+    "index": 1228
+  },
+  {
+    "surface": "モー・イ・ラーナ",
+    "reading": "mooiraana",
+    "code": "cr-kata7-1229",
+    "index": 1229
+  },
+  {
+    "surface": "マニュファクチャラ",
+    "reading": "manyufakuchara",
+    "code": "cr-kata7-1230",
+    "index": 1230
+  },
+  {
+    "surface": "メモリマップドアイオー",
+    "reading": "memorimappudoaioo",
+    "code": "cr-kata7-1231",
+    "index": 1231
+  },
+  {
+    "surface": "マリエッタ",
+    "reading": "marietta",
+    "code": "cr-kata7-1232",
+    "index": 1232
+  },
+  {
+    "surface": "マックスミンルール",
+    "reading": "makkusuminruuru",
+    "code": "cr-kata7-1233",
+    "index": 1233
+  },
+  {
+    "surface": "メリケンキアシシギ",
+    "reading": "merikenkiashishigi",
+    "code": "cr-kata7-1234",
+    "index": 1234
+  },
+  {
+    "surface": "マリアージュ",
+    "reading": "mariage",
+    "code": "cr-kata7-1235",
+    "index": 1235
+  },
+  {
+    "surface": "マジリアイゴ",
+    "reading": "majiriaigo",
+    "code": "cr-kata7-1236",
+    "index": 1236
+  },
+  {
+    "surface": "ミュオン",
+    "reading": "muon",
+    "code": "cr-kata7-1237",
+    "index": 1237
+  },
+  {
+    "surface": "マナーマ",
+    "reading": "mannerma",
+    "code": "cr-kata7-1238",
+    "index": 1238
+  },
+  {
+    "surface": "マカオ",
+    "reading": "macao",
+    "code": "cr-kata7-1239",
+    "index": 1239
+  },
+  {
+    "surface": "ミラマ",
+    "reading": "milama",
+    "code": "cr-kata7-1240",
+    "index": 1240
+  },
+  {
+    "surface": "マイクロカプセル",
+    "reading": "microkapsel",
+    "code": "cr-kata7-1241",
+    "index": 1241
+  },
+  {
+    "surface": "マスゲーム",
+    "reading": "massgame",
+    "code": "cr-kata7-1242",
+    "index": 1242
+  },
+  {
+    "surface": "マヒワ",
+    "reading": "mahiwa",
+    "code": "cr-kata7-1243",
+    "index": 1243
+  },
+  {
+    "surface": "ミメシス",
+    "reading": "mimesis",
+    "code": "cr-kata7-1244",
+    "index": 1244
+  },
+  {
+    "surface": "マキシム",
+    "reading": "maxim",
+    "code": "cr-kata7-1245",
+    "index": 1245
+  },
+  {
+    "surface": "モンツキテンジクザメ",
+    "reading": "montsukitenjikuzame",
+    "code": "cr-kata7-1246",
+    "index": 1246
+  },
+  {
+    "surface": "モディファイ",
+    "reading": "modify",
+    "code": "cr-kata7-1247",
+    "index": 1247
+  },
+  {
+    "surface": "ミノ",
+    "reading": "mino",
+    "code": "cr-kata7-1248",
+    "index": 1248
+  },
+  {
+    "surface": "マスコミュニケーション",
+    "reading": "masscommunication",
+    "code": "cr-kata7-1249",
+    "index": 1249
+  },
+  {
+    "surface": "メチレン",
+    "reading": "mechiren",
+    "code": "cr-kata7-1250",
+    "index": 1250
+  },
+  {
+    "surface": "マカキロ",
+    "reading": "macakilo",
+    "code": "cr-kata7-1251",
+    "index": 1251
+  },
+  {
+    "surface": "メバチ",
+    "reading": "mebachi",
+    "code": "cr-kata7-1252",
+    "index": 1252
+  },
+  {
+    "surface": "モーター",
+    "reading": "motor",
+    "code": "cr-kata7-1253",
+    "index": 1253
+  },
+  {
+    "surface": "ムダ",
+    "reading": "muda",
+    "code": "cr-kata7-1254",
+    "index": 1254
+  },
+  {
+    "surface": "マーケティング・リサーチ",
+    "reading": "marketingresearch",
+    "code": "cr-kata7-1255",
+    "index": 1255
+  },
+  {
+    "surface": "メンフィス",
+    "reading": "memphis",
+    "code": "cr-kata7-1256",
+    "index": 1256
+  },
+  {
+    "surface": "マチ",
+    "reading": "machi",
+    "code": "cr-kata7-1257",
+    "index": 1257
+  },
+  {
+    "surface": "モノラル",
+    "reading": "monaural",
+    "code": "cr-kata7-1258",
+    "index": 1258
+  },
+  {
+    "surface": "メータク",
+    "reading": "meetaku",
+    "code": "cr-kata7-1259",
+    "index": 1259
+  },
+  {
+    "surface": "モンパリ",
+    "reading": "monparis",
+    "code": "cr-kata7-1260",
+    "index": 1260
+  },
+  {
+    "surface": "メイロン",
+    "reading": "meiron",
+    "code": "cr-kata7-1261",
+    "index": 1261
+  },
+  {
+    "surface": "マスツーリズム",
+    "reading": "masstourism",
+    "code": "cr-kata7-1262",
+    "index": 1262
+  },
+  {
+    "surface": "ミステーク",
+    "reading": "mistake",
+    "code": "cr-kata7-1263",
+    "index": 1263
+  },
+  {
+    "surface": "メヌケ",
+    "reading": "menuke",
+    "code": "cr-kata7-1264",
+    "index": 1264
+  },
+  {
+    "surface": "モッズ",
+    "reading": "mods",
+    "code": "cr-kata7-1265",
+    "index": 1265
+  },
+  {
+    "surface": "マメハンミョウ",
+    "reading": "mamehanmyou",
+    "code": "cr-kata7-1266",
+    "index": 1266
+  },
+  {
+    "surface": "ムニャーノ・ディ・ナーポリ",
+    "reading": "munyaanodinaapori",
+    "code": "cr-kata7-1267",
+    "index": 1267
+  },
+  {
+    "surface": "マイノリティ",
+    "reading": "minority",
+    "code": "cr-kata7-1268",
+    "index": 1268
+  },
+  {
+    "surface": "メンヒェングラートバッハ",
+    "reading": "menhenguraatobahha",
+    "code": "cr-kata7-1269",
+    "index": 1269
+  },
+  {
+    "surface": "マンジュシャゲ",
+    "reading": "manjushage",
+    "code": "cr-kata7-1270",
+    "index": 1270
+  },
+  {
+    "surface": "マーモセット",
+    "reading": "marmoset",
+    "code": "cr-kata7-1271",
+    "index": 1271
+  },
+  {
+    "surface": "マグ",
+    "reading": "mug",
+    "code": "cr-kata7-1272",
+    "index": 1272
+  },
+  {
+    "surface": "ミリ",
+    "reading": "milli",
+    "code": "cr-kata7-1273",
+    "index": 1273
+  }
+]

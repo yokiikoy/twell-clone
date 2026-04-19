@@ -1,0 +1,36 @@
+# Machine-readable lane taxonomy v1 (human narrative: docs/cleanroom/lane-taxonomy-v1.md)
+version: 1
+lanes:
+  jou:
+    "1": { meaning_ja: "動詞", sudachi_pos0: "動詞" }
+    "2": { meaning_ja: "形容詞", sudachi_pos0: "形容詞" }
+    "3": { meaning_ja: "形容動詞", sudachi_pos0: "形状詞" }
+    "4": { meaning_ja: "名詞", sudachi_pos0: "名詞" }
+    "5": { meaning_ja: "副詞", sudachi_pos0: "副詞" }
+    "6": { meaning_ja: "連体詞", sudachi_pos0: "連体詞" }
+    "7": { meaning_ja: "接続詞", sudachi_pos0: "接続詞" }
+    "8": { meaning_ja: "感動詞", sudachi_pos0: "感動詞" }
+  kata:
+    "1": { row_ja: "アイウエオ" }
+    "2": { row_ja: "カキクケコ" }
+    "3": { row_ja: "サシスセソ" }
+    "4": { row_ja: "タチツテト" }
+    "5": { row_ja: "ナニヌネノ" }
+    "6": { row_ja: "ハヒフヘホ" }
+    "7": { row_ja: "マミムメモ" }
+    "8": { row_ja: "ラリルレロ" }
+    "9": { row_ja: "ヤユヨ" }
+    "10": { row_ja: "ワヲン" }
+    "11": { meaning_ja: "外国語地名", enrich_field: cr_kata_lane }
+  kan:
+    "1": { meaning_ja: "並立構造漢語", enrich_field: cr_kan_lane }
+    "2": { meaning_ja: "修飾構造漢語", enrich_field: cr_kan_lane }
+    "3": { meaning_ja: "述賓構造漢語", enrich_field: cr_kan_lane }
+    "4": { meaning_ja: "述補構造漢語", enrich_field: cr_kan_lane }
+    "5": { meaning_ja: "主謂構造漢語", enrich_field: cr_kan_lane }
+    "6": { meaning_ja: "難読地名", enrich_field: cr_kan_lane }
+  koto:
+    "1": { meaning_ja: "ことわざ", enrich_field: cr_koto_lane }
+    "2": { meaning_ja: "慣用句", enrich_field: cr_koto_lane }
+    "3": { meaning_ja: "故事成語", enrich_field: cr_koto_lane }
+    "4": { meaning_ja: "四字熟語", enrich_field: cr_koto_lane }

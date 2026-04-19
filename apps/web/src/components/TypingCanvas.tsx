@@ -27,9 +27,11 @@ import {
   type KeyboardLayout,
 } from "emiel";
 import { activateCompat } from "../lib/emielActivateCompat";
+import {
+  useAutomatonInputHandler,
+  type AutomatonInputHandler,
+} from "../lib/emielAutomatonInput";
 import { appendTrialSessionRecord } from "../lib/localStore";
-/** 語末「ん」→語間 Space: 400 打鍵・`nn`/`xn` 整合はラッパー側コメント参照 */
-import { inputWithNnBeforeSpaceIfNeeded } from "../lib/emielNsSpaceAssist";
 import {
   Module1ChartLadderRow,
   PracticeSettingsStubHub,
@@ -41,6 +43,14 @@ import { useCallback, useEffect, useReducer, useRef, useState } from "react";
 
 /** 国語Ｒ Web 版: 確定ストローク数（emiel `currentView().finishedStroke.length`） */
 const TRIAL_STROKES = 400;
+
+/** `NEXT_PUBLIC_WORDSET=cleanroom` のとき `public/cleanroom/twelljr-*.json` を読む */
+const WORDSET_PUBLIC_BASE =
+  process.env.NEXT_PUBLIC_WORDSET === "cleanroom" ? "/cleanroom" : "";
+
+function wordlistUrl(file: string): string {
+  return `${WORDSET_PUBLIC_BASE}/${file}`;
+}
 
 const COUNTDOWN_SECONDS = 3;
 const LAP_STROKE_INTERVAL = 50;
@@ -74,7 +84,20 @@ function wordIndexFromTypingProgress(
   return Math.max(0, segments.length - 1);
 }
 
-type DeckId =
+const IS_CLEANROOM_WORDSET =
+  process.env.NEXT_PUBLIC_WORDSET === "cleanroom";
+
+/** Canonical cleanroom lanes (29): matches `cleanroom_pipeline.cr_lanes.CR_LANE_SLUGS`. */
+const CR_LANE_SLUGS = [
+  ...Array.from({ length: 8 }, (_, i) => `cr-jou${i + 1}` as const),
+  ...Array.from({ length: 11 }, (_, i) => `cr-kata${i + 1}` as const),
+  ...Array.from({ length: 6 }, (_, i) => `cr-kan${i + 1}` as const),
+  ...Array.from({ length: 4 }, (_, i) => `cr-koto${i + 1}` as const),
+] as const;
+
+type CrDeckId = (typeof CR_LANE_SLUGS)[number];
+
+type LegacyDeckId =
   | "jou1"
   | "jou2"
   | "jou3"
@@ -87,6 +110,8 @@ type DeckId =
   | "koto1"
   | "koto2";
 
+type DeckId = LegacyDeckId | CrDeckId;
+
 type DeckSpec = {
   url: string;
   mode: GameMode;
@@ -95,79 +120,174 @@ type DeckSpec = {
   group: string;
 };
 
-const DECKS: Record<DeckId, DeckSpec> = {
+function crDeckMode(slug: CrDeckId): GameMode {
+  if (slug.startsWith("cr-jou")) return "kihon";
+  if (slug.startsWith("cr-kata")) return "katakana";
+  if (slug.startsWith("cr-kan")) return "kanji";
+  return "kanyoku";
+}
+
+function crDeckGroup(slug: CrDeckId): string {
+  if (slug.startsWith("cr-jou")) return "品詞（Sudachi）";
+  if (slug.startsWith("cr-kan")) return "漢語構造";
+  if (slug.startsWith("cr-kata")) return "カタカナ行";
+  return "熟語種別";
+}
+
+const CR_JOU_CAPTION: Record<string, string> = {
+  "cr-jou1": "動詞",
+  "cr-jou2": "形容詞",
+  "cr-jou3": "形容動詞（形状詞）",
+  "cr-jou4": "名詞",
+  "cr-jou5": "副詞",
+  "cr-jou6": "連体詞",
+  "cr-jou7": "接続詞",
+  "cr-jou8": "感動詞",
+};
+
+function crDeckCaption(slug: CrDeckId): string {
+  if (slug.startsWith("cr-jou")) {
+    return `${slug}（${CR_JOU_CAPTION[slug] ?? slug}）`;
+  }
+  if (slug.startsWith("cr-kata")) {
+    const n = Number(slug.slice("cr-kata".length));
+    if (n === 11) {
+      return `${slug}（外国語地名・cr_kata_lane 照合）`;
+    }
+    const rows = [
+      "ア行",
+      "カ行",
+      "サ行",
+      "タ行",
+      "ナ行",
+      "ハ行",
+      "マ行",
+      "ラ行",
+      "ヤ行",
+      "ワ行",
+    ];
+    return `${slug}（先頭カタカナ ${rows[n - 1] ?? slug}）`;
+  }
+  if (slug.startsWith("cr-kan")) {
+    const labels: Record<string, string> = {
+      "cr-kan1": "並立構造",
+      "cr-kan2": "修飾構造",
+      "cr-kan3": "述賓構造",
+      "cr-kan4": "述補構造",
+      "cr-kan5": "主謂構造",
+      "cr-kan6": "難読地名",
+    };
+    return `${slug}（${labels[slug] ?? slug}・enrich 照合）`;
+  }
+  const koto: Record<string, string> = {
+    "cr-koto1": "ことわざ",
+    "cr-koto2": "慣用句",
+    "cr-koto3": "故事成語",
+    "cr-koto4": "四字熟語",
+  };
+  return `${slug}（${koto[slug] ?? slug}・enrich 照合）`;
+}
+
+function crDeckSurfaceHint(slug: CrDeckId): string {
+  if (slug.startsWith("cr-jou")) {
+    return "Sudachi 単一形態素（sn_token_count=1）＋品詞 head に一致する表層。語の間はスペース。";
+  }
+  if (slug === "cr-kata11") {
+    return "master の cr_kata_lane 列（外国語地名ガゼット）と一致する行のみ。";
+  }
+  if (slug.startsWith("cr-kata")) {
+    return "単一形態素かつ表層全体がカタカナ連続体（長音・中点可）。先頭カタカナの五十音行で分類。混在表層は対象外。";
+  }
+  if (slug.startsWith("cr-kan")) {
+    return "master の cr_kan_lane 列（enrich-kan＋ライセンス付きガゼット）と一致する行のみ。語の間はスペース。";
+  }
+  return "master の cr_koto_lane 列（enrich-koto＋ライセンス付きリスト）と一致する行のみ。語の間はスペース。";
+}
+
+function cleanroomDeckSpec(slug: CrDeckId): DeckSpec {
+  const group = crDeckGroup(slug);
+  return {
+    url: wordlistUrl(`twelljr-${slug}.json`),
+    mode: crDeckMode(slug),
+    caption: crDeckCaption(slug),
+    surfaceHint: crDeckSurfaceHint(slug),
+    group,
+  };
+}
+
+const LEGACY_DECKS: Record<LegacyDeckId, DeckSpec> = {
   jou1: {
-    url: "/twelljr-jou1.json",
+    url: wordlistUrl("twelljr-jou1.json"),
     mode: "kihon",
     caption: "Jou1 常用",
     surfaceHint: "表層（ひらがな・語の間はスペース）",
     group: "基本常用",
   },
   jou2: {
-    url: "/twelljr-jou2.json",
+    url: wordlistUrl("twelljr-jou2.json"),
     mode: "kihon",
     caption: "Jou2 常用",
-    surfaceHint: "表層（ひらがな・語の間はスペース）",
+    surfaceHint: "表層（本家: 漢字混じり・熟語中心。ローマ字は kihon 経路）",
     group: "基本常用",
   },
   jou3: {
-    url: "/twelljr-jou3.json",
-    mode: "kihon",
+    url: wordlistUrl("twelljr-jou3.json"),
+    mode: "katakana",
     caption: "Jou3 常用",
-    surfaceHint: "表層（ひらがな・語の間はスペース）",
+    surfaceHint: "表層（本家: カタカナ外来語・オノマトペ中心）",
     group: "基本常用",
   },
   kan1: {
-    url: "/twelljr-kan1.json",
+    url: wordlistUrl("twelljr-kan1.json"),
     mode: "kanji",
     caption: "Kan1 漢字",
     surfaceHint: "表層（漢字・語の間はスペース）",
     group: "漢字",
   },
   kan2: {
-    url: "/twelljr-kan2.json",
+    url: wordlistUrl("twelljr-kan2.json"),
     mode: "kanji",
     caption: "Kan2 漢字",
     surfaceHint: "表層（漢字・語の間はスペース）",
     group: "漢字",
   },
   kan3: {
-    url: "/twelljr-kan3.json",
+    url: wordlistUrl("twelljr-kan3.json"),
     mode: "kanji",
     caption: "Kan3 漢字",
     surfaceHint: "表層（漢字・語の間はスペース）",
     group: "漢字",
   },
   kata1: {
-    url: "/twelljr-kata1.json",
+    url: wordlistUrl("twelljr-kata1.json"),
     mode: "katakana",
     caption: "Kata1 カタカナ",
     surfaceHint: "表層（カタカナ・語の間はスペース）",
     group: "カタカナ",
   },
   kata2: {
-    url: "/twelljr-kata2.json",
+    url: wordlistUrl("twelljr-kata2.json"),
     mode: "katakana",
     caption: "Kata2 カタカナ",
     surfaceHint: "表層（カタカナ・語の間はスペース）",
     group: "カタカナ",
   },
   kata3: {
-    url: "/twelljr-kata3.json",
+    url: wordlistUrl("twelljr-kata3.json"),
     mode: "katakana",
     caption: "Kata3 カタカナ",
     surfaceHint: "表層（カタカナ・語の間はスペース）",
     group: "カタカナ",
   },
   koto1: {
-    url: "/twelljr-koto1.json",
+    url: wordlistUrl("twelljr-koto1.json"),
     mode: "kanyoku",
     caption: "Koto1 慣用",
     surfaceHint: "表層（慣用句・語の間はスペース）",
     group: "慣用",
   },
   koto2: {
-    url: "/twelljr-koto2.json",
+    url: wordlistUrl("twelljr-koto2.json"),
     mode: "kanyoku",
     caption: "Koto2 慣用",
     surfaceHint: "表層（慣用句・語の間はスペース）",
@@ -175,13 +295,25 @@ const DECKS: Record<DeckId, DeckSpec> = {
   },
 };
 
-const DECK_IDS = Object.keys(DECKS) as DeckId[];
+const DECKS = (
+  IS_CLEANROOM_WORDSET
+    ? (Object.fromEntries(
+        CR_LANE_SLUGS.map((id) => [id, cleanroomDeckSpec(id)]),
+      ) as Record<DeckId, DeckSpec>)
+    : LEGACY_DECKS
+) as Record<DeckId, DeckSpec>;
+
+const DECK_IDS = (
+  IS_CLEANROOM_WORDSET ? [...CR_LANE_SLUGS] : (Object.keys(LEGACY_DECKS) as LegacyDeckId[])
+) as DeckId[];
+
+const DEFAULT_DECK_ID: DeckId = IS_CLEANROOM_WORDSET ? "cr-jou1" : "jou1";
 
 type MergedContentTab = "kihon" | "katakana" | "kanji" | "kanyoku";
 
 type DeckPickerView = "merged" | "single";
 
-const MERGED_SPECS: Record<
+type MergedSpecMap = Record<
   MergedContentTab,
   {
     tabLabel: string;
@@ -192,7 +324,9 @@ const MERGED_SPECS: Record<
     weights: MergedSurfaceLineWeightSpec;
     sources: readonly { url: string; deck: 1 | 2 | 3 }[];
   }
-> = {
+>;
+
+const LEGACY_MERGED_SPECS: MergedSpecMap = {
   kihon: {
     tabLabel: "常用",
     caption: "Jou1–3 合成（Deck 比率 約 2:2:1）",
@@ -201,9 +335,9 @@ const MERGED_SPECS: Record<
     mode: "kihon",
     weights: { kind: "three", weights: MERGED_WEIGHTS_KIHON },
     sources: [
-      { url: "/twelljr-jou1.json", deck: 1 },
-      { url: "/twelljr-jou2.json", deck: 2 },
-      { url: "/twelljr-jou3.json", deck: 3 },
+      { url: wordlistUrl("twelljr-jou1.json"), deck: 1 },
+      { url: wordlistUrl("twelljr-jou2.json"), deck: 2 },
+      { url: wordlistUrl("twelljr-jou3.json"), deck: 3 },
     ],
   },
   katakana: {
@@ -214,9 +348,9 @@ const MERGED_SPECS: Record<
     mode: "katakana",
     weights: { kind: "three", weights: MERGED_WEIGHTS_KATAKANA },
     sources: [
-      { url: "/twelljr-kata1.json", deck: 1 },
-      { url: "/twelljr-kata2.json", deck: 2 },
-      { url: "/twelljr-kata3.json", deck: 3 },
+      { url: wordlistUrl("twelljr-kata1.json"), deck: 1 },
+      { url: wordlistUrl("twelljr-kata2.json"), deck: 2 },
+      { url: wordlistUrl("twelljr-kata3.json"), deck: 3 },
     ],
   },
   kanji: {
@@ -227,9 +361,9 @@ const MERGED_SPECS: Record<
     mode: "kanji",
     weights: { kind: "three", weights: MERGED_WEIGHTS_KANJI },
     sources: [
-      { url: "/twelljr-kan1.json", deck: 1 },
-      { url: "/twelljr-kan2.json", deck: 2 },
-      { url: "/twelljr-kan3.json", deck: 3 },
+      { url: wordlistUrl("twelljr-kan1.json"), deck: 1 },
+      { url: wordlistUrl("twelljr-kan2.json"), deck: 2 },
+      { url: wordlistUrl("twelljr-kan3.json"), deck: 3 },
     ],
   },
   kanyoku: {
@@ -240,11 +374,71 @@ const MERGED_SPECS: Record<
     mode: "kanyoku",
     weights: { kind: "two", weights: MERGED_WEIGHTS_KANYOKU },
     sources: [
-      { url: "/twelljr-koto1.json", deck: 1 },
-      { url: "/twelljr-koto2.json", deck: 2 },
+      { url: wordlistUrl("twelljr-koto1.json"), deck: 1 },
+      { url: wordlistUrl("twelljr-koto2.json"), deck: 2 },
     ],
   },
 };
+
+const CLEANROOM_MERGED_SPECS: MergedSpecMap = {
+  kihon: {
+    tabLabel: "常用",
+    caption: "cr-jou1–3 合成（品詞: 動詞・形容詞・形容動詞/形状詞）",
+    group: "品詞（Sudachi）· 合成",
+    surfaceHint:
+      "Sudachi 単一形態素の品詞レーン（jou1=動詞, jou2=形容詞, jou3=形状詞）。語の間はスペース。",
+    mode: "kihon",
+    weights: { kind: "three", weights: MERGED_WEIGHTS_KIHON },
+    sources: [
+      { url: wordlistUrl("twelljr-cr-jou1.json"), deck: 1 },
+      { url: wordlistUrl("twelljr-cr-jou2.json"), deck: 2 },
+      { url: wordlistUrl("twelljr-cr-jou3.json"), deck: 3 },
+    ],
+  },
+  katakana: {
+    tabLabel: "カタカナ",
+    caption: "cr-kata1–3 合成（ア〜サ行の先頭カタカナ）",
+    group: "カタカナ行 · 合成",
+    surfaceHint:
+      "単一形態素かつ表層全体がカタカナ連続体のうち、先頭五十音がア〜サ行の語。語の間はスペース。",
+    mode: "katakana",
+    weights: { kind: "three", weights: MERGED_WEIGHTS_KATAKANA },
+    sources: [
+      { url: wordlistUrl("twelljr-cr-kata1.json"), deck: 1 },
+      { url: wordlistUrl("twelljr-cr-kata2.json"), deck: 2 },
+      { url: wordlistUrl("twelljr-cr-kata3.json"), deck: 3 },
+    ],
+  },
+  kanji: {
+    tabLabel: "漢字",
+    caption: "cr-kan1–3 合成（漢語構造・enrich 照合）",
+    group: "漢語構造 · 合成",
+    surfaceHint:
+      "cr_kan_lane が各レーンと一致する語（ガゼット未投入時は空になり得る）。語の間はスペース。",
+    mode: "kanji",
+    weights: { kind: "three", weights: MERGED_WEIGHTS_KANJI },
+    sources: [
+      { url: wordlistUrl("twelljr-cr-kan1.json"), deck: 1 },
+      { url: wordlistUrl("twelljr-cr-kan2.json"), deck: 2 },
+      { url: wordlistUrl("twelljr-cr-kan3.json"), deck: 3 },
+    ],
+  },
+  kanyoku: {
+    tabLabel: "慣用句",
+    caption: "cr-koto1–2 合成（ことわざ・慣用句）",
+    group: "熟語種別 · 合成",
+    surfaceHint:
+      "cr_koto_lane が各レーンと一致する語（リスト未投入時は空になり得る）。語の間はスペース。",
+    mode: "kanyoku",
+    weights: { kind: "two", weights: MERGED_WEIGHTS_KANYOKU },
+    sources: [
+      { url: wordlistUrl("twelljr-cr-koto1.json"), deck: 1 },
+      { url: wordlistUrl("twelljr-cr-koto2.json"), deck: 2 },
+    ],
+  },
+};
+
+const MERGED_SPECS = IS_CLEANROOM_WORDSET ? CLEANROOM_MERGED_SPECS : LEGACY_MERGED_SPECS;
 
 const MERGED_TAB_ORDER: readonly MergedContentTab[] = [
   "kihon",
@@ -375,7 +569,18 @@ function EmielTrialBody({
   );
 }
 
-export function TypingCanvas() {
+export type TypingCanvasProps = {
+  /** Context を上書き（単体テスト・挙動実験用）。未指定は {@link useAutomatonInputHandler} */
+  automatonInputHandler?: AutomatonInputHandler;
+};
+
+export function TypingCanvas({
+  automatonInputHandler: automatonInputHandlerOverride,
+}: TypingCanvasProps = {}) {
+  const automatonInputHandlerFromContext = useAutomatonInputHandler();
+  const applyAutomatonInput =
+    automatonInputHandlerOverride ?? automatonInputHandlerFromContext;
+
   const autoRef = useRef<Automaton | null>(null);
   const strokeEngRef = useRef<StrokeTrialEngine | null>(null);
   const trialWordsRef = useRef<WordEntry[]>([]);
@@ -402,7 +607,7 @@ export function TypingCanvas() {
     gameMode: "kihon",
   });
 
-  const [deck, setDeck] = useState<DeckId>("jou1");
+  const [deck, setDeck] = useState<DeckId>(DEFAULT_DECK_ID);
   const [pickerView, setPickerView] = useState<DeckPickerView>("merged");
   const [mergedTab, setMergedTab] = useState<MergedContentTab>("kihon");
   const [layout, setLayout] = useState<KeyboardLayout | null>(null);
@@ -454,7 +659,7 @@ export function TypingCanvas() {
       pendingWordsRef.current = picked;
       pendingLineRef.current = line;
     }
-  }, [pickerView, mergedTab, layout]);
+  }, [pickerView, mergedTab]);
 
   const goToLobby = useCallback(
     (opts?: { keepPending?: boolean }) => {
@@ -722,7 +927,7 @@ export function TypingCanvas() {
       if (e.input.type !== "keydown") return;
 
       const before = auto.currentView().finishedStroke.length;
-      const result = inputWithNnBeforeSpaceIfNeeded(auto, e);
+      const result = applyAutomatonInput(auto, e);
       const after = auto.currentView().finishedStroke.length;
       const now = performance.now();
       strokeEngRef.current?.applyEmielStep(now, before, after);
@@ -775,7 +980,7 @@ export function TypingCanvas() {
       forceRender();
     });
     return off;
-  }, [inputEpoch, runPhase, playClick, forceRender]);
+  }, [inputEpoch, runPhase, playClick, forceRender, applyAutomatonInput]);
 
   useEffect(() => {
     const prevent = (e: KeyboardEvent) => {

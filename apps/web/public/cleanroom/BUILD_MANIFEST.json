@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "created_at_utc": "2026-04-19T07:22:08.595497+00:00",
+  "steps": [
+    "build-corpus:60000",
+    "ingest:60000",
+    "jmdict-kata:50000",
+    "jmdict-kata11:60",
+    "geonames-kata11-tsv:7720",
+    "geonames-kata11-jsonl:7719",
+    "build-freq-tsv:47737",
+    "koto-draft:1884",
+    "koto-jsonl:1878",
+    "merge:117054",
+    "export:29-decks"
+  ],
+  "source_provenance": {
+    "fetched_at_utc": "2026-04-19T07:06:08.942735+00:00",
+    "dest": "C:\\Users\\hotwa\\dev\\type-cleanroom\\packages\\wordlists-v2\\.cache\\open_corpora",
+    "artifacts": [
+      {
+        "id": "wl2_tatoeba_jpn_sentences",
+        "url": "https://downloads.tatoeba.org/exports/per_language/jpn/jpn_sentences.tsv.bz2",
+        "license": "CC BY 2.0 FR — https://tatoeba.org/en/downloads",
+        "description": "Tatoeba Japanese sentence export (TSV, one sentence per line)",
+        "output": "C:\\Users\\hotwa\\dev\\type-cleanroom\\packages\\wordlists-v2\\.cache\\open_corpora\\tatoeba\\jpn_sentences.tsv",
+        "downloaded_bytes": 3410274
+      },
+      {
+        "id": "wl2_jmdict_eng_xml",
+        "url": "http://ftp.edrdg.org/pub/Nihongo/JMdict_e.gz",
+        "license": "EDRDG license — https://www.edrdg.org/edrdg/licence.html",
+        "description": "JMdict English-gloss subset (XML) from EDRDG FTP mirror",
+        "output": "C:\\Users\\hotwa\\dev\\type-cleanroom\\packages\\wordlists-v2\\.cache\\open_corpora\\jmdict\\JMdict_e.xml",
+        "downloaded_bytes": 10386038
+      },
+      {
+        "id": "wl2_geonames_cities15000",
+        "url": "https://download.geonames.org/export/dump/cities15000.zip",
+        "license": "CC BY 4.0 — https://www.geonames.org/",
+        "description": "GeoNames cities15000 (tab); CC-BY 4.0 with attribution to GeoNames",
+        "output": "C:\\Users\\hotwa\\dev\\type-cleanroom\\packages\\wordlists-v2\\.cache\\open_corpora\\geonames\\cities15000.txt",
+        "downloaded_bytes": 3258426
+      }
+    ]
+  },
+  "preview_dir": "C:\\Users\\hotwa\\dev\\type-cleanroom\\packages\\wordlists-v2\\output\\preview",
+  "max_rows_per_deck": 2000,
+  "freq_min_count": 1,
+  "skip_wiktionary": false
+}

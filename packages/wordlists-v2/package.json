@@ -1,0 +1,9 @@
+{
+  "name": "@typewell-jr/wordlists-v2",
+  "private": true,
+  "version": "0.1.0",
+  "description": "JP typing wordlists — v2 policy (data-first, license-tracked). Scaffold only.",
+  "scripts": {
+    "test": "python -m pytest tests -q"
+  }
+}

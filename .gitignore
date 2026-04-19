@@ -1,3 +1,6 @@
+.cache/
+__pycache__/
+*.pyc
 node_modules
 .next
 dist
@@ -25,3 +28,9 @@ twjrdecomp/*
 !twjrdecomp/README.md
 # CP932 抽出の機械生成物（語リストのコミットはライセンス確定後）
 packages/engine/test-fixtures/extracted-*.json
+# cleanroom-pipeline machine-local cache (corpus TSV / JSONL)
+packages/cleanroom-pipeline/.cache/
+packages/wordlists-v2/.cache/
+# LLM review bundle export (regenerate with scripts/export_llm_review_bundle.py)
+packages/wordlists-v2/output/llm_review/
+packages/wordlists-v2/output/notebooklm/

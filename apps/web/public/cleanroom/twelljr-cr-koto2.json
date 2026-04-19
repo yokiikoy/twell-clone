@@ -1,0 +1,1802 @@
+[
+  {
+    "surface": "俎上に載せる",
+    "reading": "sojouninoseru",
+    "code": "cr-koto2-0",
+    "index": 0
+  },
+  {
+    "surface": "気に入る",
+    "reading": "kinihairu",
+    "code": "cr-koto2-1",
+    "index": 1
+  },
+  {
+    "surface": "人目を引く",
+    "reading": "hitomewohiku",
+    "code": "cr-koto2-2",
+    "index": 2
+  },
+  {
+    "surface": "言うまでもない",
+    "reading": "iumademonai",
+    "code": "cr-koto2-3",
+    "index": 3
+  },
+  {
+    "surface": "取って代わる",
+    "reading": "tottekawaru",
+    "code": "cr-koto2-4",
+    "index": 4
+  },
+  {
+    "surface": "手に取るばかり",
+    "reading": "tenitorubakari",
+    "code": "cr-koto2-5",
+    "index": 5
+  },
+  {
+    "surface": "噂をすれば影",
+    "reading": "uwasawosurebakage",
+    "code": "cr-koto2-6",
+    "index": 6
+  },
+  {
+    "surface": "色をかえ品をかえ",
+    "reading": "irowokaeshinawokae",
+    "code": "cr-koto2-7",
+    "index": 7
+  },
+  {
+    "surface": "足を引っ張る",
+    "reading": "ashiwohipparu",
+    "code": "cr-koto2-8",
+    "index": 8
+  },
+  {
+    "surface": "喉から手が出る",
+    "reading": "nodokarategaderu",
+    "code": "cr-koto2-9",
+    "index": 9
+  },
+  {
+    "surface": "鯖を読む",
+    "reading": "sabawoyomu",
+    "code": "cr-koto2-10",
+    "index": 10
+  },
+  {
+    "surface": "実を結ぶ",
+    "reading": "jitsuwomusubu",
+    "code": "cr-koto2-11",
+    "index": 11
+  },
+  {
+    "surface": "気が利く",
+    "reading": "kigakiku",
+    "code": "cr-koto2-12",
+    "index": 12
+  },
+  {
+    "surface": "口を挟む",
+    "reading": "kuchiwohasamu",
+    "code": "cr-koto2-13",
+    "index": 13
+  },
+  {
+    "surface": "人目に余る",
+    "reading": "hitomeniamaru",
+    "code": "cr-koto2-14",
+    "index": 14
+  },
+  {
+    "surface": "脇が甘い",
+    "reading": "wakigaamai",
+    "code": "cr-koto2-15",
+    "index": 15
+  },
+  {
+    "surface": "手を切る",
+    "reading": "tewokiru",
+    "code": "cr-koto2-16",
+    "index": 16
+  },
+  {
+    "surface": "幸か不幸か",
+    "reading": "koukafukouka",
+    "code": "cr-koto2-17",
+    "index": 17
+  },
+  {
+    "surface": "止むに止まれず",
+    "reading": "yamunitomarezu",
+    "code": "cr-koto2-18",
+    "index": 18
+  },
+  {
+    "surface": "足が出る",
+    "reading": "ashigaderu",
+    "code": "cr-koto2-19",
+    "index": 19
+  },
+  {
+    "surface": "目を細める",
+    "reading": "mewohosomeru",
+    "code": "cr-koto2-20",
+    "index": 20
+  },
+  {
+    "surface": "棒に振る",
+    "reading": "bounifuru",
+    "code": "cr-koto2-21",
+    "index": 21
+  },
+  {
+    "surface": "無きにしも非ず",
+    "reading": "nakinishimohizu",
+    "code": "cr-koto2-22",
+    "index": 22
+  },
+  {
+    "surface": "カテゴリ:故事成語",
+    "reading": "categorykojiseigo",
+    "code": "cr-koto2-23",
+    "index": 23
+  },
+  {
+    "surface": "隅に置けない",
+    "reading": "suminiokenai",
+    "code": "cr-koto2-24",
+    "index": 24
+  },
+  {
+    "surface": "開いた口が塞がらない",
+    "reading": "hiraitakuchigafusagaranai",
+    "code": "cr-koto2-25",
+    "index": 25
+  },
+  {
+    "surface": "顔を出す",
+    "reading": "kaowodasu",
+    "code": "cr-koto2-26",
+    "index": 26
+  },
+  {
+    "surface": "聞きしに勝る",
+    "reading": "kikishinimasaru",
+    "code": "cr-koto2-27",
+    "index": 27
+  },
+  {
+    "surface": "胸が一杯になる",
+    "reading": "munegaippaininaru",
+    "code": "cr-koto2-28",
+    "index": 28
+  },
+  {
+    "surface": "売り言葉に買い言葉",
+    "reading": "urikotobanikaikotoba",
+    "code": "cr-koto2-29",
+    "index": 29
+  },
+  {
+    "surface": "くせに",
+    "reading": "kuseni",
+    "code": "cr-koto2-30",
+    "index": 30
+  },
+  {
+    "surface": "口にする",
+    "reading": "kuchinisuru",
+    "code": "cr-koto2-31",
+    "index": 31
+  },
+  {
+    "surface": "時間を費やす",
+    "reading": "jikanwotsuiyasu",
+    "code": "cr-koto2-32",
+    "index": 32
+  },
+  {
+    "surface": "肝に銘ずる",
+    "reading": "kimonimeizuru",
+    "code": "cr-koto2-33",
+    "index": 33
+  },
+  {
+    "surface": "心を奪う",
+    "reading": "kokorowoubau",
+    "code": "cr-koto2-34",
+    "index": 34
+  },
+  {
+    "surface": "鮑の貝の片想い",
+    "reading": "awabinokainokataomoi",
+    "code": "cr-koto2-35",
+    "index": 35
+  },
+  {
+    "surface": "頭が固い",
+    "reading": "atamagakatai",
+    "code": "cr-koto2-36",
+    "index": 36
+  },
+  {
+    "surface": "肌に粟を生ずる",
+    "reading": "hadaniawawoshouzuru",
+    "code": "cr-koto2-37",
+    "index": 37
+  },
+  {
+    "surface": "目もくれない",
+    "reading": "memokurenai",
+    "code": "cr-koto2-38",
+    "index": 38
+  },
+  {
+    "surface": "度を越す",
+    "reading": "dowokosu",
+    "code": "cr-koto2-39",
+    "index": 39
+  },
+  {
+    "surface": "韻を踏む",
+    "reading": "inwofumu",
+    "code": "cr-koto2-40",
+    "index": 40
+  },
+  {
+    "surface": "手を加える",
+    "reading": "tewokuwaeru",
+    "code": "cr-koto2-41",
+    "index": 41
+  },
+  {
+    "surface": "目で殺す",
+    "reading": "medekorosu",
+    "code": "cr-koto2-42",
+    "index": 42
+  },
+  {
+    "surface": "天にも昇る心地",
+    "reading": "tennimonoborukokochi",
+    "code": "cr-koto2-43",
+    "index": 43
+  },
+  {
+    "surface": "目尻を下げる",
+    "reading": "mejiriwosageru",
+    "code": "cr-koto2-44",
+    "index": 44
+  },
+  {
+    "surface": "種を宿す",
+    "reading": "shuwoyadosu",
+    "code": "cr-koto2-45",
+    "index": 45
+  },
+  {
+    "surface": "鯉口を切る",
+    "reading": "koiguchiwokiru",
+    "code": "cr-koto2-46",
+    "index": 46
+  },
+  {
+    "surface": "口を揃える",
+    "reading": "kuchiwosoroeru",
+    "code": "cr-koto2-47",
+    "index": 47
+  },
+  {
+    "surface": "屁でもない",
+    "reading": "hedemonai",
+    "code": "cr-koto2-48",
+    "index": 48
+  },
+  {
+    "surface": "気が緩む",
+    "reading": "kigayurumu",
+    "code": "cr-koto2-49",
+    "index": 49
+  },
+  {
+    "surface": "日が浅い",
+    "reading": "higaasai",
+    "code": "cr-koto2-50",
+    "index": 50
+  },
+  {
+    "surface": "鼻が曲がる",
+    "reading": "hanagamagaru",
+    "code": "cr-koto2-51",
+    "index": 51
+  },
+  {
+    "surface": "手を組む",
+    "reading": "tewokumu",
+    "code": "cr-koto2-52",
+    "index": 52
+  },
+  {
+    "surface": "めんくりだま",
+    "reading": "menkuridama",
+    "code": "cr-koto2-53",
+    "index": 53
+  },
+  {
+    "surface": "御茶の子さいさい",
+    "reading": "gochanokosaisai",
+    "code": "cr-koto2-54",
+    "index": 54
+  },
+  {
+    "surface": "気がある",
+    "reading": "kigaaru",
+    "code": "cr-koto2-55",
+    "index": 55
+  },
+  {
+    "surface": "取る物も取り敢えず",
+    "reading": "torumonomotoriaezu",
+    "code": "cr-koto2-56",
+    "index": 56
+  },
+  {
+    "surface": "痛し痒し",
+    "reading": "itashikayushi",
+    "code": "cr-koto2-57",
+    "index": 57
+  },
+  {
+    "surface": "度を過ごす",
+    "reading": "dowosugosu",
+    "code": "cr-koto2-58",
+    "index": 58
+  },
+  {
+    "surface": "胸を撫で下ろす",
+    "reading": "munewonadeorosu",
+    "code": "cr-koto2-59",
+    "index": 59
+  },
+  {
+    "surface": "骨を刺す",
+    "reading": "honewosasu",
+    "code": "cr-koto2-60",
+    "index": 60
+  },
+  {
+    "surface": "あしがはやい",
+    "reading": "ashigahayai",
+    "code": "cr-koto2-61",
+    "index": 61
+  },
+  {
+    "surface": "不幸中の幸い",
+    "reading": "fukouchuunosaiwai",
+    "code": "cr-koto2-62",
+    "index": 62
+  },
+  {
+    "surface": "何れにしても",
+    "reading": "izurenishitemo",
+    "code": "cr-koto2-63",
+    "index": 63
+  },
+  {
+    "surface": "目にする",
+    "reading": "menisuru",
+    "code": "cr-koto2-64",
+    "index": 64
+  },
+  {
+    "surface": "心を鬼にする",
+    "reading": "kokorowooninisuru",
+    "code": "cr-koto2-65",
+    "index": 65
+  },
+  {
+    "surface": "ボタンの掛け違い",
+    "reading": "buttonnokakechigai",
+    "code": "cr-koto2-66",
+    "index": 66
+  },
+  {
+    "surface": "幅を利かせる",
+    "reading": "habawokikaseru",
+    "code": "cr-koto2-67",
+    "index": 67
+  },
+  {
+    "surface": "心が晴れる",
+    "reading": "kokorogahareru",
+    "code": "cr-koto2-68",
+    "index": 68
+  },
+  {
+    "surface": "手を引く",
+    "reading": "tewohiku",
+    "code": "cr-koto2-69",
+    "index": 69
+  },
+  {
+    "surface": "めのくりだま",
+    "reading": "menokuridama",
+    "code": "cr-koto2-70",
+    "index": 70
+  },
+  {
+    "surface": "腹を立てる",
+    "reading": "harawotateru",
+    "code": "cr-koto2-71",
+    "index": 71
+  },
+  {
+    "surface": "寝返りを打つ",
+    "reading": "negaeriwoutsu",
+    "code": "cr-koto2-72",
+    "index": 72
+  },
+  {
+    "surface": "いつのまにか",
+    "reading": "itsunomanika",
+    "code": "cr-koto2-73",
+    "index": 73
+  },
+  {
+    "surface": "気が違う",
+    "reading": "kigachigau",
+    "code": "cr-koto2-74",
+    "index": 74
+  },
+  {
+    "surface": "口が重い",
+    "reading": "kuchigaomoi",
+    "code": "cr-koto2-75",
+    "index": 75
+  },
+  {
+    "surface": "推して知るべし",
+    "reading": "oshiteshirubeshi",
+    "code": "cr-koto2-76",
+    "index": 76
+  },
+  {
+    "surface": "引けを取る",
+    "reading": "hikewotoru",
+    "code": "cr-koto2-77",
+    "index": 77
+  },
+  {
+    "surface": "舌が回る",
+    "reading": "shitagamawaru",
+    "code": "cr-koto2-78",
+    "index": 78
+  },
+  {
+    "surface": "力になる",
+    "reading": "chikaraninaru",
+    "code": "cr-koto2-79",
+    "index": 79
+  },
+  {
+    "surface": "足を掬う",
+    "reading": "ashiwosukuu",
+    "code": "cr-koto2-80",
+    "index": 80
+  },
+  {
+    "surface": "名も無い",
+    "reading": "namonai",
+    "code": "cr-koto2-81",
+    "index": 81
+  },
+  {
+    "surface": "足元を見る",
+    "reading": "ashimotowomiru",
+    "code": "cr-koto2-82",
+    "index": 82
+  },
+  {
+    "surface": "尻目に懸ける",
+    "reading": "shirimenikakeru",
+    "code": "cr-koto2-83",
+    "index": 83
+  },
+  {
+    "surface": "口を開く",
+    "reading": "kuchiwohiraku",
+    "code": "cr-koto2-84",
+    "index": 84
+  },
+  {
+    "surface": "気を落とす",
+    "reading": "kiwootosu",
+    "code": "cr-koto2-85",
+    "index": 85
+  },
+  {
+    "surface": "人手に渡る",
+    "reading": "hitodeniwataru",
+    "code": "cr-koto2-86",
+    "index": 86
+  },
+  {
+    "surface": "恥と頭は掻きしだい",
+    "reading": "hajitoatamawakakishidai",
+    "code": "cr-koto2-87",
+    "index": 87
+  },
+  {
+    "surface": "血が騒ぐ",
+    "reading": "chigasawagu",
+    "code": "cr-koto2-88",
+    "index": 88
+  },
+  {
+    "surface": "鼻で笑う",
+    "reading": "hanadewarau",
+    "code": "cr-koto2-89",
+    "index": 89
+  },
+  {
+    "surface": "筆紙に尽くし難い",
+    "reading": "hisshinitsukushigatai",
+    "code": "cr-koto2-90",
+    "index": 90
+  },
+  {
+    "surface": "力を落とす",
+    "reading": "chikarawootosu",
+    "code": "cr-koto2-91",
+    "index": 91
+  },
+  {
+    "surface": "衣鉢を継ぐ",
+    "reading": "ihatsuwotsugu",
+    "code": "cr-koto2-92",
+    "index": 92
+  },
+  {
+    "surface": "横になる",
+    "reading": "yokoninaru",
+    "code": "cr-koto2-93",
+    "index": 93
+  },
+  {
+    "surface": "気が抜ける",
+    "reading": "kiganukeru",
+    "code": "cr-koto2-94",
+    "index": 94
+  },
+  {
+    "surface": "手を拱く",
+    "reading": "tewokomanuku",
+    "code": "cr-koto2-95",
+    "index": 95
+  },
+  {
+    "surface": "目に余る",
+    "reading": "meniamaru",
+    "code": "cr-koto2-96",
+    "index": 96
+  },
+  {
+    "surface": "ばつが悪い",
+    "reading": "batsugawarui",
+    "code": "cr-koto2-97",
+    "index": 97
+  },
+  {
+    "surface": "肝に銘じる",
+    "reading": "kimonimeijiru",
+    "code": "cr-koto2-98",
+    "index": 98
+  },
+  {
+    "surface": "肩を並べる",
+    "reading": "katawonaraberu",
+    "code": "cr-koto2-99",
+    "index": 99
+  },
+  {
+    "surface": "姿を消す",
+    "reading": "sugatawokesu",
+    "code": "cr-koto2-100",
+    "index": 100
+  },
+  {
+    "surface": "気を遣う",
+    "reading": "kiwotsukau",
+    "code": "cr-koto2-101",
+    "index": 101
+  },
+  {
+    "surface": "本日は晴天なり",
+    "reading": "honjitsuwaseitennari",
+    "code": "cr-koto2-102",
+    "index": 102
+  },
+  {
+    "surface": "気を失う",
+    "reading": "kiwoushinau",
+    "code": "cr-koto2-103",
+    "index": 103
+  },
+  {
+    "surface": "熱りが冷める",
+    "reading": "ikirigasameru",
+    "code": "cr-koto2-104",
+    "index": 104
+  },
+  {
+    "surface": "気を揉む",
+    "reading": "kiwomomu",
+    "code": "cr-koto2-105",
+    "index": 105
+  },
+  {
+    "surface": "鼻に掛ける",
+    "reading": "hananikakeru",
+    "code": "cr-koto2-106",
+    "index": 106
+  },
+  {
+    "surface": "見た所",
+    "reading": "mitatokoro",
+    "code": "cr-koto2-107",
+    "index": 107
+  },
+  {
+    "surface": "泣きを見る",
+    "reading": "nakiwomiru",
+    "code": "cr-koto2-108",
+    "index": 108
+  },
+  {
+    "surface": "気に食わない",
+    "reading": "kinikuwanai",
+    "code": "cr-koto2-109",
+    "index": 109
+  },
+  {
+    "surface": "暖を取る",
+    "reading": "danwotoru",
+    "code": "cr-koto2-110",
+    "index": 110
+  },
+  {
+    "surface": "鉄槌を下す",
+    "reading": "tettsuiwokudasu",
+    "code": "cr-koto2-111",
+    "index": 111
+  },
+  {
+    "surface": "慇懃を通ずる",
+    "reading": "inginwotsuuzuru",
+    "code": "cr-koto2-112",
+    "index": 112
+  },
+  {
+    "surface": "対岸の火事",
+    "reading": "taigannokaji",
+    "code": "cr-koto2-113",
+    "index": 113
+  },
+  {
+    "surface": "気が触れる",
+    "reading": "kigafureru",
+    "code": "cr-koto2-114",
+    "index": 114
+  },
+  {
+    "surface": "気が気でない",
+    "reading": "kigakidenai",
+    "code": "cr-koto2-115",
+    "index": 115
+  },
+  {
+    "surface": "決まりが悪い",
+    "reading": "kimarigawarui",
+    "code": "cr-koto2-116",
+    "index": 116
+  },
+  {
+    "surface": "心を痛める",
+    "reading": "kokorowoitameru",
+    "code": "cr-koto2-117",
+    "index": 117
+  },
+  {
+    "surface": "不問に付す",
+    "reading": "fumonnifusu",
+    "code": "cr-koto2-118",
+    "index": 118
+  },
+  {
+    "surface": "手に入れる",
+    "reading": "teniireru",
+    "code": "cr-koto2-119",
+    "index": 119
+  },
+  {
+    "surface": "鼻であしらう",
+    "reading": "hanadeashirau",
+    "code": "cr-koto2-120",
+    "index": 120
+  },
+  {
+    "surface": "轍を踏む",
+    "reading": "tetsuwofumu",
+    "code": "cr-koto2-121",
+    "index": 121
+  },
+  {
+    "surface": "骨が折れる",
+    "reading": "honegaoreru",
+    "code": "cr-koto2-122",
+    "index": 122
+  },
+  {
+    "surface": "口を酸っぱくする",
+    "reading": "kuchiwosuppakusuru",
+    "code": "cr-koto2-123",
+    "index": 123
+  },
+  {
+    "surface": "心を籠める",
+    "reading": "kokorowokomeru",
+    "code": "cr-koto2-124",
+    "index": 124
+  },
+  {
+    "surface": "息を抜く",
+    "reading": "ikiwonuku",
+    "code": "cr-koto2-125",
+    "index": 125
+  },
+  {
+    "surface": "息が長い",
+    "reading": "ikiganagai",
+    "code": "cr-koto2-126",
+    "index": 126
+  },
+  {
+    "surface": "さもありなん",
+    "reading": "samoarinan",
+    "code": "cr-koto2-127",
+    "index": 127
+  },
+  {
+    "surface": "目を留める",
+    "reading": "mewotomeru",
+    "code": "cr-koto2-128",
+    "index": 128
+  },
+  {
+    "surface": "気が狂う",
+    "reading": "kigakuruu",
+    "code": "cr-koto2-129",
+    "index": 129
+  },
+  {
+    "surface": "気に障る",
+    "reading": "kinisawaru",
+    "code": "cr-koto2-130",
+    "index": 130
+  },
+  {
+    "surface": "耳を貸す",
+    "reading": "mimiwokasu",
+    "code": "cr-koto2-131",
+    "index": 131
+  },
+  {
+    "surface": "血が流れる",
+    "reading": "chiganagareru",
+    "code": "cr-koto2-132",
+    "index": 132
+  },
+  {
+    "surface": "悪法も又法なり",
+    "reading": "akuhoumomatahounari",
+    "code": "cr-koto2-133",
+    "index": 133
+  },
+  {
+    "surface": "カテゴリ:四字熟語",
+    "reading": "categoryyonjijukugo",
+    "code": "cr-koto2-134",
+    "index": 134
+  },
+  {
+    "surface": "気に病む",
+    "reading": "kiniyamu",
+    "code": "cr-koto2-135",
+    "index": 135
+  },
+  {
+    "surface": "多勢に無勢",
+    "reading": "oozeinibuzei",
+    "code": "cr-koto2-136",
+    "index": 136
+  },
+  {
+    "surface": "血を流す",
+    "reading": "chiwonagasu",
+    "code": "cr-koto2-137",
+    "index": 137
+  },
+  {
+    "surface": "衆寡敵せず",
+    "reading": "shuukatekisezu",
+    "code": "cr-koto2-138",
+    "index": 138
+  },
+  {
+    "surface": "面目が立つ",
+    "reading": "menbokugatatsu",
+    "code": "cr-koto2-139",
+    "index": 139
+  },
+  {
+    "surface": "気を引く",
+    "reading": "kiwohiku",
+    "code": "cr-koto2-140",
+    "index": 140
+  },
+  {
+    "surface": "手をかえ品をかえ",
+    "reading": "tewokaeshinawokae",
+    "code": "cr-koto2-141",
+    "index": 141
+  },
+  {
+    "surface": "数え切れない",
+    "reading": "kazoekirenai",
+    "code": "cr-koto2-142",
+    "index": 142
+  },
+  {
+    "surface": "手を抜く",
+    "reading": "tewonuku",
+    "code": "cr-koto2-143",
+    "index": 143
+  },
+  {
+    "surface": "気に掛ける",
+    "reading": "kinikakeru",
+    "code": "cr-koto2-144",
+    "index": 144
+  },
+  {
+    "surface": "一から十まで",
+    "reading": "ichikarajuumade",
+    "code": "cr-koto2-145",
+    "index": 145
+  },
+  {
+    "surface": "砂漠の船",
+    "reading": "sabakunofune",
+    "code": "cr-koto2-146",
+    "index": 146
+  },
+  {
+    "surface": "小田原評定",
+    "reading": "odawarahyoujou",
+    "code": "cr-koto2-147",
+    "index": 147
+  },
+  {
+    "surface": "先を争う",
+    "reading": "sakiwoarasou",
+    "code": "cr-koto2-148",
+    "index": 148
+  },
+  {
+    "surface": "胸糞が悪い",
+    "reading": "munakusogawarui",
+    "code": "cr-koto2-149",
+    "index": 149
+  },
+  {
+    "surface": "慣用句",
+    "reading": "kanyouku",
+    "code": "cr-koto2-150",
+    "index": 150
+  },
+  {
+    "surface": "骨を折る",
+    "reading": "honewooru",
+    "code": "cr-koto2-151",
+    "index": 151
+  },
+  {
+    "surface": "夢枕に立つ",
+    "reading": "yumemakuranitatsu",
+    "code": "cr-koto2-152",
+    "index": 152
+  },
+  {
+    "surface": "気に掛かる",
+    "reading": "kinikakaru",
+    "code": "cr-koto2-153",
+    "index": 153
+  },
+  {
+    "surface": "手を変え品を変え",
+    "reading": "tewokaeshinawokae",
+    "code": "cr-koto2-154",
+    "index": 154
+  },
+  {
+    "surface": "巨星墜つ",
+    "reading": "kyoseitsu",
+    "code": "cr-koto2-155",
+    "index": 155
+  },
+  {
+    "surface": "年貢を納める",
+    "reading": "nenguwoosameru",
+    "code": "cr-koto2-156",
+    "index": 156
+  },
+  {
+    "surface": "天寿を全うする",
+    "reading": "tenjuwomattousuru",
+    "code": "cr-koto2-157",
+    "index": 157
+  },
+  {
+    "surface": "一緒になる",
+    "reading": "isshoninaru",
+    "code": "cr-koto2-158",
+    "index": 158
+  },
+  {
+    "surface": "青菜に塩",
+    "reading": "aonanishio",
+    "code": "cr-koto2-159",
+    "index": 159
+  },
+  {
+    "surface": "吝ん坊の柿の種",
+    "reading": "shiwanbounokakinotane",
+    "code": "cr-koto2-160",
+    "index": 160
+  },
+  {
+    "surface": "気が小さい",
+    "reading": "kigachiisai",
+    "code": "cr-koto2-161",
+    "index": 161
+  },
+  {
+    "surface": "無服の殤",
+    "reading": "mufukuno",
+    "code": "cr-koto2-162",
+    "index": 162
+  },
+  {
+    "surface": "眉を顰める",
+    "reading": "mayuwoshikameru",
+    "code": "cr-koto2-163",
+    "index": 163
+  },
+  {
+    "surface": "目に付く",
+    "reading": "menitsuku",
+    "code": "cr-koto2-164",
+    "index": 164
+  },
+  {
+    "surface": "鼻を突く",
+    "reading": "hanawotsuku",
+    "code": "cr-koto2-165",
+    "index": 165
+  },
+  {
+    "surface": "耳に残る",
+    "reading": "mimininokoru",
+    "code": "cr-koto2-166",
+    "index": 166
+  },
+  {
+    "surface": "根も葉もない",
+    "reading": "nemohamonai",
+    "code": "cr-koto2-167",
+    "index": 167
+  },
+  {
+    "surface": "太鼓判を捺す",
+    "reading": "taikohanwoosu",
+    "code": "cr-koto2-168",
+    "index": 168
+  },
+  {
+    "surface": "首を切る",
+    "reading": "kubiwokiru",
+    "code": "cr-koto2-169",
+    "index": 169
+  },
+  {
+    "surface": "非の打ち所が無い",
+    "reading": "hinouchidokoroganai",
+    "code": "cr-koto2-170",
+    "index": 170
+  },
+  {
+    "surface": "水と油",
+    "reading": "mizutoabura",
+    "code": "cr-koto2-171",
+    "index": 171
+  },
+  {
+    "surface": "力を入れる",
+    "reading": "chikarawoireru",
+    "code": "cr-koto2-172",
+    "index": 172
+  },
+  {
+    "surface": "大船に乗ったよう",
+    "reading": "oobuneninottayou",
+    "code": "cr-koto2-173",
+    "index": 173
+  },
+  {
+    "surface": "一事が万事",
+    "reading": "ichijigabanji",
+    "code": "cr-koto2-174",
+    "index": 174
+  },
+  {
+    "surface": "三日にあげず",
+    "reading": "mikkaniagezu",
+    "code": "cr-koto2-175",
+    "index": 175
+  },
+  {
+    "surface": "腰を掛ける",
+    "reading": "koshiwokakeru",
+    "code": "cr-koto2-176",
+    "index": 176
+  },
+  {
+    "surface": "さばを読む",
+    "reading": "sabawoyomu",
+    "code": "cr-koto2-177",
+    "index": 177
+  },
+  {
+    "surface": "とおのむかし",
+    "reading": "toonomukashi",
+    "code": "cr-koto2-178",
+    "index": 178
+  },
+  {
+    "surface": "鳩に豆鉄砲",
+    "reading": "hatonimameteppou",
+    "code": "cr-koto2-179",
+    "index": 179
+  },
+  {
+    "surface": "奇を衒う",
+    "reading": "kiwoterau",
+    "code": "cr-koto2-180",
+    "index": 180
+  },
+  {
+    "surface": "薬餌に親しむ",
+    "reading": "yakujinishitashimu",
+    "code": "cr-koto2-181",
+    "index": 181
+  },
+  {
+    "surface": "手を焼く",
+    "reading": "tewoyaku",
+    "code": "cr-koto2-182",
+    "index": 182
+  },
+  {
+    "surface": "首を出す",
+    "reading": "kubiwodasu",
+    "code": "cr-koto2-183",
+    "index": 183
+  },
+  {
+    "surface": "袖にする",
+    "reading": "sodenisuru",
+    "code": "cr-koto2-184",
+    "index": 184
+  },
+  {
+    "surface": "恥と頭は搔きしだい",
+    "reading": "hajitoatamawakakishidai",
+    "code": "cr-koto2-185",
+    "index": 185
+  },
+  {
+    "surface": "娑婆で見た弥三郎",
+    "reading": "sahademitayasaburou",
+    "code": "cr-koto2-186",
+    "index": 186
+  },
+  {
+    "surface": "陣門に降る",
+    "reading": "jinmonnifuru",
+    "code": "cr-koto2-187",
+    "index": 187
+  },
+  {
+    "surface": "天狗になる",
+    "reading": "tenguninaru",
+    "code": "cr-koto2-188",
+    "index": 188
+  },
+  {
+    "surface": "無にする",
+    "reading": "munisuru",
+    "code": "cr-koto2-189",
+    "index": 189
+  },
+  {
+    "surface": "耳にする",
+    "reading": "miminisuru",
+    "code": "cr-koto2-190",
+    "index": 190
+  },
+  {
+    "surface": "気が乗る",
+    "reading": "kiganoru",
+    "code": "cr-koto2-191",
+    "index": 191
+  },
+  {
+    "surface": "鵜の目鷹の目",
+    "reading": "unometakanome",
+    "code": "cr-koto2-192",
+    "index": 192
+  },
+  {
+    "surface": "業を煮やす",
+    "reading": "gouwoniyasu",
+    "code": "cr-koto2-193",
+    "index": 193
+  },
+  {
+    "surface": "血の気が引く",
+    "reading": "chinokegahiku",
+    "code": "cr-koto2-194",
+    "index": 194
+  },
+  {
+    "surface": "焼きを入れる",
+    "reading": "yakiwoireru",
+    "code": "cr-koto2-195",
+    "index": 195
+  },
+  {
+    "surface": "最初で最後",
+    "reading": "saishodesaigo",
+    "code": "cr-koto2-196",
+    "index": 196
+  },
+  {
+    "surface": "梃子でも動かない",
+    "reading": "tekodemougokanai",
+    "code": "cr-koto2-197",
+    "index": 197
+  },
+  {
+    "surface": "猫の額",
+    "reading": "nekonogaku",
+    "code": "cr-koto2-198",
+    "index": 198
+  },
+  {
+    "surface": "念を押す",
+    "reading": "nenwoosu",
+    "code": "cr-koto2-199",
+    "index": 199
+  },
+  {
+    "surface": "目が眩む",
+    "reading": "megakuramu",
+    "code": "cr-koto2-200",
+    "index": 200
+  },
+  {
+    "surface": "雀の涙",
+    "reading": "suzumenonamida",
+    "code": "cr-koto2-201",
+    "index": 201
+  },
+  {
+    "surface": "既往は咎めず",
+    "reading": "kiouwatogamezu",
+    "code": "cr-koto2-202",
+    "index": 202
+  },
+  {
+    "surface": "路頭に迷う",
+    "reading": "rotounimayou",
+    "code": "cr-koto2-203",
+    "index": 203
+  },
+  {
+    "surface": "腑に落ちない",
+    "reading": "funiochinai",
+    "code": "cr-koto2-204",
+    "index": 204
+  },
+  {
+    "surface": "口が酸っぱくなる",
+    "reading": "kuchigasuppakunaru",
+    "code": "cr-koto2-205",
+    "index": 205
+  },
+  {
+    "surface": "気に留める",
+    "reading": "kinitomeru",
+    "code": "cr-koto2-206",
+    "index": 206
+  },
+  {
+    "surface": "猫の手も借りたい",
+    "reading": "nekonotemokaritai",
+    "code": "cr-koto2-207",
+    "index": 207
+  },
+  {
+    "surface": "足元を掬う",
+    "reading": "ashimotowosukuu",
+    "code": "cr-koto2-208",
+    "index": 208
+  },
+  {
+    "surface": "念頭に置く",
+    "reading": "nentounioku",
+    "code": "cr-koto2-209",
+    "index": 209
+  },
+  {
+    "surface": "気が変わる",
+    "reading": "kigakawaru",
+    "code": "cr-koto2-210",
+    "index": 210
+  },
+  {
+    "surface": "あてにならない",
+    "reading": "ateninaranai",
+    "code": "cr-koto2-211",
+    "index": 211
+  },
+  {
+    "surface": "徒党を組む",
+    "reading": "totouwokumu",
+    "code": "cr-koto2-212",
+    "index": 212
+  },
+  {
+    "surface": "とかげの尻尾切り",
+    "reading": "tokagenoshippokiri",
+    "code": "cr-koto2-213",
+    "index": 213
+  },
+  {
+    "surface": "計り知れない",
+    "reading": "hakarishirenai",
+    "code": "cr-koto2-214",
+    "index": 214
+  },
+  {
+    "surface": "踵を接する",
+    "reading": "kakatowosessuru",
+    "code": "cr-koto2-215",
+    "index": 215
+  },
+  {
+    "surface": "手も足も出ない",
+    "reading": "temoashimodenai",
+    "code": "cr-koto2-216",
+    "index": 216
+  },
+  {
+    "surface": "気が大きい",
+    "reading": "kigaookii",
+    "code": "cr-koto2-217",
+    "index": 217
+  },
+  {
+    "surface": "本を正す",
+    "reading": "honwotadasu",
+    "code": "cr-koto2-218",
+    "index": 218
+  },
+  {
+    "surface": "目が泳ぐ",
+    "reading": "megaoyogu",
+    "code": "cr-koto2-219",
+    "index": 219
+  },
+  {
+    "surface": "血と汗",
+    "reading": "chitoase",
+    "code": "cr-koto2-220",
+    "index": 220
+  },
+  {
+    "surface": "気が引ける",
+    "reading": "kigahikeru",
+    "code": "cr-koto2-221",
+    "index": 221
+  },
+  {
+    "surface": "法螺を吹く",
+    "reading": "horawofuku",
+    "code": "cr-koto2-222",
+    "index": 222
+  },
+  {
+    "surface": "呉牛月に喘ぐ",
+    "reading": "kureushitsukiniaegu",
+    "code": "cr-koto2-223",
+    "index": 223
+  },
+  {
+    "surface": "ボタンを掛け違える",
+    "reading": "buttonwokakechigaeru",
+    "code": "cr-koto2-224",
+    "index": 224
+  },
+  {
+    "surface": "気が知れない",
+    "reading": "kigashirenai",
+    "code": "cr-koto2-225",
+    "index": 225
+  },
+  {
+    "surface": "手を出す",
+    "reading": "tewodasu",
+    "code": "cr-koto2-226",
+    "index": 226
+  },
+  {
+    "surface": "私腹を肥やす",
+    "reading": "shifukuwokoyasu",
+    "code": "cr-koto2-227",
+    "index": 227
+  },
+  {
+    "surface": "おそかれはやかれ",
+    "reading": "osokarewayakare",
+    "code": "cr-koto2-228",
+    "index": 228
+  },
+  {
+    "surface": "骨を埋める",
+    "reading": "honewoumeru",
+    "code": "cr-koto2-229",
+    "index": 229
+  },
+  {
+    "surface": "頼みの綱",
+    "reading": "tanominotsuna",
+    "code": "cr-koto2-230",
+    "index": 230
+  },
+  {
+    "surface": "暗礁に乗り上げる",
+    "reading": "anshouninoriageru",
+    "code": "cr-koto2-231",
+    "index": 231
+  },
+  {
+    "surface": "血も涙もない",
+    "reading": "chimonamidamonai",
+    "code": "cr-koto2-232",
+    "index": 232
+  },
+  {
+    "surface": "目を配る",
+    "reading": "mewokubaru",
+    "code": "cr-koto2-233",
+    "index": 233
+  },
+  {
+    "surface": "百年の計",
+    "reading": "hyakunennokei",
+    "code": "cr-koto2-234",
+    "index": 234
+  },
+  {
+    "surface": "手を替え品を替え",
+    "reading": "tewokaeshinawokae",
+    "code": "cr-koto2-235",
+    "index": 235
+  },
+  {
+    "surface": "気が早い",
+    "reading": "kigahayai",
+    "code": "cr-koto2-236",
+    "index": 236
+  },
+  {
+    "surface": "手にする",
+    "reading": "tenisuru",
+    "code": "cr-koto2-237",
+    "index": 237
+  },
+  {
+    "surface": "烏の行水",
+    "reading": "karasunogyouzui",
+    "code": "cr-koto2-238",
+    "index": 238
+  },
+  {
+    "surface": "気を配る",
+    "reading": "kiwokubaru",
+    "code": "cr-koto2-239",
+    "index": 239
+  },
+  {
+    "surface": "気を抜く",
+    "reading": "kiwonuku",
+    "code": "cr-koto2-240",
+    "index": 240
+  },
+  {
+    "surface": "奥歯に物が挟まる",
+    "reading": "okubanimonogahasamaru",
+    "code": "cr-koto2-241",
+    "index": 241
+  },
+  {
+    "surface": "気を取られる",
+    "reading": "kiwotorareru",
+    "code": "cr-koto2-242",
+    "index": 242
+  },
+  {
+    "surface": "ばかにする",
+    "reading": "bakanisuru",
+    "code": "cr-koto2-243",
+    "index": 243
+  },
+  {
+    "surface": "力を貸す",
+    "reading": "chikarawokasu",
+    "code": "cr-koto2-244",
+    "index": 244
+  },
+  {
+    "surface": "ゆきつもどりつ",
+    "reading": "yukitsumodoritsu",
+    "code": "cr-koto2-245",
+    "index": 245
+  },
+  {
+    "surface": "我を忘れる",
+    "reading": "warewowasureru",
+    "code": "cr-koto2-246",
+    "index": 246
+  },
+  {
+    "surface": "気を許す",
+    "reading": "kiwoyurusu",
+    "code": "cr-koto2-247",
+    "index": 247
+  },
+  {
+    "surface": "磯の鮑の片思い",
+    "reading": "isonoawabinokataomoi",
+    "code": "cr-koto2-248",
+    "index": 248
+  },
+  {
+    "surface": "虫の知らせ",
+    "reading": "mushinoshirase",
+    "code": "cr-koto2-249",
+    "index": 249
+  },
+  {
+    "surface": "ぞっとしない",
+    "reading": "zottoshinai",
+    "code": "cr-koto2-250",
+    "index": 250
+  },
+  {
+    "surface": "好事魔多し",
+    "reading": "kouzumaooshi",
+    "code": "cr-koto2-251",
+    "index": 251
+  },
+  {
+    "surface": "息を引き取る",
+    "reading": "ikiwohikitoru",
+    "code": "cr-koto2-252",
+    "index": 252
+  },
+  {
+    "surface": "薄紙を剥ぐよう",
+    "reading": "usugamiwohaguyou",
+    "code": "cr-koto2-253",
+    "index": 253
+  },
+  {
+    "surface": "空気を読む",
+    "reading": "kuukiwoyomu",
+    "code": "cr-koto2-254",
+    "index": 254
+  },
+  {
+    "surface": "手をこまねく",
+    "reading": "tewokomaneku",
+    "code": "cr-koto2-255",
+    "index": 255
+  },
+  {
+    "surface": "大船に乗る",
+    "reading": "oobuneninoru",
+    "code": "cr-koto2-256",
+    "index": 256
+  },
+  {
+    "surface": "天秤に掛ける",
+    "reading": "tenbinnikakeru",
+    "code": "cr-koto2-257",
+    "index": 257
+  },
+  {
+    "surface": "気がする",
+    "reading": "kigasuru",
+    "code": "cr-koto2-258",
+    "index": 258
+  },
+  {
+    "surface": "人の道",
+    "reading": "hitonomichi",
+    "code": "cr-koto2-259",
+    "index": 259
+  },
+  {
+    "surface": "息を呑む",
+    "reading": "ikiwonomu",
+    "code": "cr-koto2-260",
+    "index": 260
+  },
+  {
+    "surface": "舌の根も乾かぬうち",
+    "reading": "shitanonemokawakanuuchi",
+    "code": "cr-koto2-261",
+    "index": 261
+  },
+  {
+    "surface": "手を動かす",
+    "reading": "tewougokasu",
+    "code": "cr-koto2-262",
+    "index": 262
+  },
+  {
+    "surface": "手をこまぬく",
+    "reading": "tewokomanuku",
+    "code": "cr-koto2-263",
+    "index": 263
+  },
+  {
+    "surface": "笠の台",
+    "reading": "kasanodai",
+    "code": "cr-koto2-264",
+    "index": 264
+  },
+  {
+    "surface": "とうのむかし",
+    "reading": "tounomukashi",
+    "code": "cr-koto2-265",
+    "index": 265
+  },
+  {
+    "surface": "夢を見る",
+    "reading": "yumewomiru",
+    "code": "cr-koto2-266",
+    "index": 266
+  },
+  {
+    "surface": "我に返る",
+    "reading": "warenikaeru",
+    "code": "cr-koto2-267",
+    "index": 267
+  },
+  {
+    "surface": "手に取る",
+    "reading": "tenitoru",
+    "code": "cr-koto2-268",
+    "index": 268
+  },
+  {
+    "surface": "首を長くする",
+    "reading": "kubiwonagakusuru",
+    "code": "cr-koto2-269",
+    "index": 269
+  },
+  {
+    "surface": "気にする",
+    "reading": "kinisuru",
+    "code": "cr-koto2-270",
+    "index": 270
+  },
+  {
+    "surface": "面倒を見る",
+    "reading": "mendouwomiru",
+    "code": "cr-koto2-271",
+    "index": 271
+  },
+  {
+    "surface": "手に取るよう",
+    "reading": "tenitoruyou",
+    "code": "cr-koto2-272",
+    "index": 272
+  },
+  {
+    "surface": "別れを告げる",
+    "reading": "wakarewotsugeru",
+    "code": "cr-koto2-273",
+    "index": 273
+  },
+  {
+    "surface": "気になる",
+    "reading": "kininaru",
+    "code": "cr-koto2-274",
+    "index": 274
+  },
+  {
+    "surface": "赤子の手を捻る",
+    "reading": "akagonotewohineru",
+    "code": "cr-koto2-275",
+    "index": 275
+  },
+  {
+    "surface": "死んで花実が咲くものか",
+    "reading": "shindekajitsugasakumonoka",
+    "code": "cr-koto2-276",
+    "index": 276
+  },
+  {
+    "surface": "腹が立つ",
+    "reading": "haragatatsu",
+    "code": "cr-koto2-277",
+    "index": 277
+  },
+  {
+    "surface": "犬猿の仲",
+    "reading": "kenennonaka",
+    "code": "cr-koto2-278",
+    "index": 278
+  },
+  {
+    "surface": "馬鹿の一つ覚え",
+    "reading": "bakanohitotsuoboe",
+    "code": "cr-koto2-279",
+    "index": 279
+  },
+  {
+    "surface": "渡りに船",
+    "reading": "watarinifune",
+    "code": "cr-koto2-280",
+    "index": 280
+  },
+  {
+    "surface": "口が堅い",
+    "reading": "kuchigakatai",
+    "code": "cr-koto2-281",
+    "index": 281
+  },
+  {
+    "surface": "勿怪の幸い",
+    "reading": "mokkenosaiwai",
+    "code": "cr-koto2-282",
+    "index": 282
+  },
+  {
+    "surface": "頭を下げる",
+    "reading": "atamawosageru",
+    "code": "cr-koto2-283",
+    "index": 283
+  },
+  {
+    "surface": "道草を食う",
+    "reading": "michikusawokuu",
+    "code": "cr-koto2-284",
+    "index": 284
+  },
+  {
+    "surface": "呱呱の声をあげる",
+    "reading": "nokoewoageru",
+    "code": "cr-koto2-285",
+    "index": 285
+  },
+  {
+    "surface": "決河の勢い",
+    "reading": "kekkanoikioi",
+    "code": "cr-koto2-286",
+    "index": 286
+  },
+  {
+    "surface": "負んぶに抱っこ",
+    "reading": "onbunidakko",
+    "code": "cr-koto2-287",
+    "index": 287
+  },
+  {
+    "surface": "あにはからん",
+    "reading": "anihakaran",
+    "code": "cr-koto2-288",
+    "index": 288
+  },
+  {
+    "surface": "危ない橋を渡る",
+    "reading": "abunaihashiwowataru",
+    "code": "cr-koto2-289",
+    "index": 289
+  },
+  {
+    "surface": "梯子を外す",
+    "reading": "hashigowohazusu",
+    "code": "cr-koto2-290",
+    "index": 290
+  },
+  {
+    "surface": "恐れ入谷の鬼子母神",
+    "reading": "osoreiriyanokishimokami",
+    "code": "cr-koto2-291",
+    "index": 291
+  },
+  {
+    "surface": "目を掛ける",
+    "reading": "mewokakeru",
+    "code": "cr-koto2-292",
+    "index": 292
+  },
+  {
+    "surface": "兜を脱ぐ",
+    "reading": "kabutowonugu",
+    "code": "cr-koto2-293",
+    "index": 293
+  },
+  {
+    "surface": "気が向く",
+    "reading": "kigamuku",
+    "code": "cr-koto2-294",
+    "index": 294
+  },
+  {
+    "surface": "恋に落ちる",
+    "reading": "koiniochiru",
+    "code": "cr-koto2-295",
+    "index": 295
+  },
+  {
+    "surface": "心を寄せる",
+    "reading": "kokorowoyoseru",
+    "code": "cr-koto2-296",
+    "index": 296
+  },
+  {
+    "surface": "知る由も無い",
+    "reading": "shiruyoshimonai",
+    "code": "cr-koto2-297",
+    "index": 297
+  },
+  {
+    "surface": "頭に入れる",
+    "reading": "atamaniireru",
+    "code": "cr-koto2-298",
+    "index": 298
+  },
+  {
+    "surface": "気が重い",
+    "reading": "kigaomoi",
+    "code": "cr-koto2-299",
+    "index": 299
+  }
+]

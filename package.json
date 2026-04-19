@@ -7,6 +7,7 @@
     "apps/*"
   ],
   "scripts": {
+    "postinstall": "node packages/engine/scripts/patch-emiel-valibot.mjs",
     "test": "npm run test -w @typewell-jr/engine",
     "dev:web": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/dev-web.ps1",
     "fix:npm-ps": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/fix-powershell-npm.ps1",
@@ -14,7 +15,13 @@
     "build:workspace": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/build-workspace.ps1",
     "build": "npm run build -w @typewell-jr/engine && npm run build -w web",
     "dictionary:parse": "tsx scripts/dictionary/parse-detail-log.ts",
-    "gen:tsuikyo-roma": "node scripts/twelljr/gen-tsuikyo-roma-pairs.mjs"
+    "gen:tsuikyo-roma": "node scripts/twelljr/gen-tsuikyo-roma-pairs.mjs",
+    "cleanroom:join-strokes": "npm run cleanroom:join-strokes -w @typewell-jr/engine",
+    "cleanroom:gen-wordlists": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/cleanroom/generate-wordlists.ps1",
+    "cleanroom:report": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/cleanroom/cleanroom-report.ps1",
+    "wordlists:v2:test": "npm run test -w @typewell-jr/wordlists-v2",
+    "wordlists:v2:fetch": "python -m pip install -q -e packages/wordlists-v2 && python -m wordlists_v2 fetch --dest packages/wordlists-v2/.cache/open_corpora",
+    "wordlists:v2:build": "python -m pip install -q -e packages/wordlists-v2 && python -m wordlists_v2 pipeline --deploy"
   },
   "devDependencies": {
     "tsx": "^4.19.2"

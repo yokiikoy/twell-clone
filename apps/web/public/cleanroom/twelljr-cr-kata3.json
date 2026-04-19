@@ -1,0 +1,9422 @@
+[
+  {
+    "surface": "ジャスティファイ",
+    "reading": "justify",
+    "code": "cr-kata3-0",
+    "index": 0
+  },
+  {
+    "surface": "ジジ",
+    "reading": "jiji",
+    "code": "cr-kata3-1",
+    "index": 1
+  },
+  {
+    "surface": "ジン",
+    "reading": "gin",
+    "code": "cr-kata3-2",
+    "index": 2
+  },
+  {
+    "surface": "ジャイロスコープ",
+    "reading": "gyroscope",
+    "code": "cr-kata3-3",
+    "index": 3
+  },
+  {
+    "surface": "スケルツォ",
+    "reading": "scherzo",
+    "code": "cr-kata3-4",
+    "index": 4
+  },
+  {
+    "surface": "ザブザブ",
+    "reading": "zabuzabu",
+    "code": "cr-kata3-5",
+    "index": 5
+  },
+  {
+    "surface": "ソネット",
+    "reading": "sonnet",
+    "code": "cr-kata3-6",
+    "index": 6
+  },
+  {
+    "surface": "シン",
+    "reading": "shin",
+    "code": "cr-kata3-7",
+    "index": 7
+  },
+  {
+    "surface": "サステナブル",
+    "reading": "sasutenaburu",
+    "code": "cr-kata3-8",
+    "index": 8
+  },
+  {
+    "surface": "ソーティング",
+    "reading": "sorting",
+    "code": "cr-kata3-9",
+    "index": 9
+  },
+  {
+    "surface": "スケート",
+    "reading": "skate",
+    "code": "cr-kata3-10",
+    "index": 10
+  },
+  {
+    "surface": "ジボ",
+    "reading": "jibo",
+    "code": "cr-kata3-11",
+    "index": 11
+  },
+  {
+    "surface": "ゼブ",
+    "reading": "zebu",
+    "code": "cr-kata3-12",
+    "index": 12
+  },
+  {
+    "surface": "ズボラ",
+    "reading": "zubora",
+    "code": "cr-kata3-13",
+    "index": 13
+  },
+  {
+    "surface": "スーパーレディー",
+    "reading": "superlady",
+    "code": "cr-kata3-14",
+    "index": 14
+  },
+  {
+    "surface": "シルヴァンシャー",
+    "reading": "sillvinshah",
+    "code": "cr-kata3-15",
+    "index": 15
+  },
+  {
+    "surface": "ジェルジンスク",
+    "reading": "geljinsuku",
+    "code": "cr-kata3-16",
+    "index": 16
+  },
+  {
+    "surface": "スライム",
+    "reading": "suraimu",
+    "code": "cr-kata3-17",
+    "index": 17
+  },
+  {
+    "surface": "ジワネング",
+    "reading": "jiwanengu",
+    "code": "cr-kata3-18",
+    "index": 18
+  },
+  {
+    "surface": "シュガー",
+    "reading": "sugar",
+    "code": "cr-kata3-19",
+    "index": 19
+  },
+  {
+    "surface": "ジュース",
+    "reading": "juice",
+    "code": "cr-kata3-20",
+    "index": 20
+  },
+  {
+    "surface": "セロリアック",
+    "reading": "celeriac",
+    "code": "cr-kata3-21",
+    "index": 21
+  },
+  {
+    "surface": "スタティスティックス",
+    "reading": "statistic",
+    "code": "cr-kata3-22",
+    "index": 22
+  },
+  {
+    "surface": "ショップ",
+    "reading": "shop",
+    "code": "cr-kata3-23",
+    "index": 23
+  },
+  {
+    "surface": "スキェルニェヴィツェ",
+    "reading": "sukerunevitse",
+    "code": "cr-kata3-24",
+    "index": 24
+  },
+  {
+    "surface": "シギ",
+    "reading": "shigi",
+    "code": "cr-kata3-25",
+    "index": 25
+  },
+  {
+    "surface": "シックナー",
+    "reading": "thickener",
+    "code": "cr-kata3-26",
+    "index": 26
+  },
+  {
+    "surface": "スライディングシート",
+    "reading": "slidingsheet",
+    "code": "cr-kata3-27",
+    "index": 27
+  },
+  {
+    "surface": "シャンデリヤ",
+    "reading": "chandelier",
+    "code": "cr-kata3-28",
+    "index": 28
+  },
+  {
+    "surface": "スタンドレスリング",
+    "reading": "standwrestling",
+    "code": "cr-kata3-29",
+    "index": 29
+  },
+  {
+    "surface": "サブコン",
+    "reading": "subcontrol",
+    "code": "cr-kata3-30",
+    "index": 30
+  },
+  {
+    "surface": "セルフ",
+    "reading": "self",
+    "code": "cr-kata3-31",
+    "index": 31
+  },
+  {
+    "surface": "ジャズ",
+    "reading": "jazz",
+    "code": "cr-kata3-32",
+    "index": 32
+  },
+  {
+    "surface": "ソメイヨシノ",
+    "reading": "someiyoshino",
+    "code": "cr-kata3-33",
+    "index": 33
+  },
+  {
+    "surface": "ズシリ",
+    "reading": "zushiri",
+    "code": "cr-kata3-34",
+    "index": 34
+  },
+  {
+    "surface": "ササニシキ",
+    "reading": "sasanishiki",
+    "code": "cr-kata3-35",
+    "index": 35
+  },
+  {
+    "surface": "シナシナ",
+    "reading": "shinashina",
+    "code": "cr-kata3-36",
+    "index": 36
+  },
+  {
+    "surface": "ジンセン",
+    "reading": "ginseng",
+    "code": "cr-kata3-37",
+    "index": 37
+  },
+  {
+    "surface": "ストロー",
+    "reading": "straw",
+    "code": "cr-kata3-38",
+    "index": 38
+  },
+  {
+    "surface": "サブアド",
+    "reading": "subaddress",
+    "code": "cr-kata3-39",
+    "index": 39
+  },
+  {
+    "surface": "ザボン",
+    "reading": "zamboa",
+    "code": "cr-kata3-40",
+    "index": 40
+  },
+  {
+    "surface": "シボイガン",
+    "reading": "shiboigan",
+    "code": "cr-kata3-41",
+    "index": 41
+  },
+  {
+    "surface": "ジャワサイ",
+    "reading": "javasai",
+    "code": "cr-kata3-42",
+    "index": 42
+  },
+  {
+    "surface": "サン・ジュゼッペ・ヴェズヴィアーノ",
+    "reading": "sunjuzeppevezuviaano",
+    "code": "cr-kata3-43",
+    "index": 43
+  },
+  {
+    "surface": "ステレオ",
+    "reading": "stereo",
+    "code": "cr-kata3-44",
+    "index": 44
+  },
+  {
+    "surface": "シンクロ",
+    "reading": "synchro",
+    "code": "cr-kata3-45",
+    "index": 45
+  },
+  {
+    "surface": "サフォーク",
+    "reading": "suffolk",
+    "code": "cr-kata3-46",
+    "index": 46
+  },
+  {
+    "surface": "シャアペン",
+    "reading": "shaapen",
+    "code": "cr-kata3-47",
+    "index": 47
+  },
+  {
+    "surface": "シェイプトキャンバス",
+    "reading": "sheiputokyanbasu",
+    "code": "cr-kata3-48",
+    "index": 48
+  },
+  {
+    "surface": "システムアナリスト",
+    "reading": "systemanalyst",
+    "code": "cr-kata3-49",
+    "index": 49
+  },
+  {
+    "surface": "シェアウエア",
+    "reading": "sharewear",
+    "code": "cr-kata3-50",
+    "index": 50
+  },
+  {
+    "surface": "スタンフォード・ヒル",
+    "reading": "stanfordhill",
+    "code": "cr-kata3-51",
+    "index": 51
+  },
+  {
+    "surface": "ジンファンデル",
+    "reading": "ginfandel",
+    "code": "cr-kata3-52",
+    "index": 52
+  },
+  {
+    "surface": "サン・ペドロ・デ・ラ・パス",
+    "reading": "sunpedrodeslapaz",
+    "code": "cr-kata3-53",
+    "index": 53
+  },
+  {
+    "surface": "ソーセージ",
+    "reading": "sausage",
+    "code": "cr-kata3-54",
+    "index": 54
+  },
+  {
+    "surface": "スカイ・ブルー",
+    "reading": "skyblue",
+    "code": "cr-kata3-55",
+    "index": 55
+  },
+  {
+    "surface": "ジンデルフィンゲン",
+    "reading": "sindelfingen",
+    "code": "cr-kata3-56",
+    "index": 56
+  },
+  {
+    "surface": "サブカルチャー",
+    "reading": "subculture",
+    "code": "cr-kata3-57",
+    "index": 57
+  },
+  {
+    "surface": "ストラテジー",
+    "reading": "strategy",
+    "code": "cr-kata3-58",
+    "index": 58
+  },
+  {
+    "surface": "ザスラーウエ",
+    "reading": "zasuraaue",
+    "code": "cr-kata3-59",
+    "index": 59
+  },
+  {
+    "surface": "ジメチルグリオキシム",
+    "reading": "jimechiruguriokishimu",
+    "code": "cr-kata3-60",
+    "index": 60
+  },
+  {
+    "surface": "シミーズ",
+    "reading": "chemise",
+    "code": "cr-kata3-61",
+    "index": 61
+  },
+  {
+    "surface": "ゼネラルコントラクタ",
+    "reading": "zenerarukontorakuta",
+    "code": "cr-kata3-62",
+    "index": 62
+  },
+  {
+    "surface": "ソロ",
+    "reading": "solo",
+    "code": "cr-kata3-63",
+    "index": 63
+  },
+  {
+    "surface": "サーダナ",
+    "reading": "saadana",
+    "code": "cr-kata3-64",
+    "index": 64
+  },
+  {
+    "surface": "サランダ",
+    "reading": "saranda",
+    "code": "cr-kata3-65",
+    "index": 65
+  },
+  {
+    "surface": "シャフト",
+    "reading": "shaft",
+    "code": "cr-kata3-66",
+    "index": 66
+  },
+  {
+    "surface": "スカーフェイスブレニー",
+    "reading": "sukaafeisuburenii",
+    "code": "cr-kata3-67",
+    "index": 67
+  },
+  {
+    "surface": "シェイプドキャンバス",
+    "reading": "sheipudokyanbasu",
+    "code": "cr-kata3-68",
+    "index": 68
+  },
+  {
+    "surface": "スィルヴァーサー",
+    "reading": "siruvaasaa",
+    "code": "cr-kata3-69",
+    "index": 69
+  },
+  {
+    "surface": "シビリアン・コントロール",
+    "reading": "civiliancontrol",
+    "code": "cr-kata3-70",
+    "index": 70
+  },
+  {
+    "surface": "ジャスティフィケーション",
+    "reading": "jasutifikeeshon",
+    "code": "cr-kata3-71",
+    "index": 71
+  },
+  {
+    "surface": "スリーカードモンテ",
+    "reading": "suriikaadomonte",
+    "code": "cr-kata3-72",
+    "index": 72
+  },
+  {
+    "surface": "ジュヌヴィリエ",
+    "reading": "junuvirie",
+    "code": "cr-kata3-73",
+    "index": 73
+  },
+  {
+    "surface": "スダレチョウチョウウオ",
+    "reading": "sudarechouchouuo",
+    "code": "cr-kata3-74",
+    "index": 74
+  },
+  {
+    "surface": "ジュー",
+    "reading": "jew",
+    "code": "cr-kata3-75",
+    "index": 75
+  },
+  {
+    "surface": "ショートカット",
+    "reading": "shortcut",
+    "code": "cr-kata3-76",
+    "index": 76
+  },
+  {
+    "surface": "ジャパニーズスマイル",
+    "reading": "japanesesmile",
+    "code": "cr-kata3-77",
+    "index": 77
+  },
+  {
+    "surface": "スポークスウーマン",
+    "reading": "supookusuuuman",
+    "code": "cr-kata3-78",
+    "index": 78
+  },
+  {
+    "surface": "ステップスカルプチャ",
+    "reading": "stepscalpcha",
+    "code": "cr-kata3-79",
+    "index": 79
+  },
+  {
+    "surface": "サロ",
+    "reading": "salo",
+    "code": "cr-kata3-80",
+    "index": 80
+  },
+  {
+    "surface": "サラディーリョ",
+    "reading": "saradiiryo",
+    "code": "cr-kata3-81",
+    "index": 81
+  },
+  {
+    "surface": "スウェットパンツ",
+    "reading": "sweatpants",
+    "code": "cr-kata3-82",
+    "index": 82
+  },
+  {
+    "surface": "シャーシ",
+    "reading": "chassis",
+    "code": "cr-kata3-83",
+    "index": 83
+  },
+  {
+    "surface": "ショウブ",
+    "reading": "shoubu",
+    "code": "cr-kata3-84",
+    "index": 84
+  },
+  {
+    "surface": "スパニッシュ・ハーレム",
+    "reading": "spanishharem",
+    "code": "cr-kata3-85",
+    "index": 85
+  },
+  {
+    "surface": "サン・ジョルジョ・ア・クレマーノ",
+    "reading": "sunjorujoakuremaano",
+    "code": "cr-kata3-86",
+    "index": 86
+  },
+  {
+    "surface": "ジャパニメーション",
+    "reading": "japanimeeshon",
+    "code": "cr-kata3-87",
+    "index": 87
+  },
+  {
+    "surface": "シーサーペント",
+    "reading": "seaserpent",
+    "code": "cr-kata3-88",
+    "index": 88
+  },
+  {
+    "surface": "セールスエンジニア",
+    "reading": "salesengineer",
+    "code": "cr-kata3-89",
+    "index": 89
+  },
+  {
+    "surface": "シュタットアレンドルフ",
+    "reading": "shutattoarendorufu",
+    "code": "cr-kata3-90",
+    "index": 90
+  },
+  {
+    "surface": "ザギン",
+    "reading": "thegin",
+    "code": "cr-kata3-91",
+    "index": 91
+  },
+  {
+    "surface": "シミ",
+    "reading": "shimi",
+    "code": "cr-kata3-92",
+    "index": 92
+  },
+  {
+    "surface": "シンクロナスディーラム",
+    "reading": "synchronasudiiramu",
+    "code": "cr-kata3-93",
+    "index": 93
+  },
+  {
+    "surface": "シルバーグレー",
+    "reading": "silvergray",
+    "code": "cr-kata3-94",
+    "index": 94
+  },
+  {
+    "surface": "ソロバン",
+    "reading": "soroban",
+    "code": "cr-kata3-95",
+    "index": 95
+  },
+  {
+    "surface": "スガイ",
+    "reading": "sugai",
+    "code": "cr-kata3-96",
+    "index": 96
+  },
+  {
+    "surface": "サキシトキシン",
+    "reading": "saxitoxin",
+    "code": "cr-kata3-97",
+    "index": 97
+  },
+  {
+    "surface": "ソフトエネルギーパス",
+    "reading": "softenergypass",
+    "code": "cr-kata3-98",
+    "index": 98
+  },
+  {
+    "surface": "スプリト",
+    "reading": "supurito",
+    "code": "cr-kata3-99",
+    "index": 99
+  },
+  {
+    "surface": "シノア",
+    "reading": "shinoa",
+    "code": "cr-kata3-100",
+    "index": 100
+  },
+  {
+    "surface": "システムソフトウェア",
+    "reading": "systemsoftware",
+    "code": "cr-kata3-101",
+    "index": 101
+  },
+  {
+    "surface": "ゼイラ",
+    "reading": "zeira",
+    "code": "cr-kata3-102",
+    "index": 102
+  },
+  {
+    "surface": "ゼラチン",
+    "reading": "gelatin",
+    "code": "cr-kata3-103",
+    "index": 103
+  },
+  {
+    "surface": "サーキットトレーニング",
+    "reading": "circuittraining",
+    "code": "cr-kata3-104",
+    "index": 104
+  },
+  {
+    "surface": "ショックアブソーバー",
+    "reading": "shockabsorber",
+    "code": "cr-kata3-105",
+    "index": 105
+  },
+  {
+    "surface": "サービスロード",
+    "reading": "serviceroad",
+    "code": "cr-kata3-106",
+    "index": 106
+  },
+  {
+    "surface": "ソルガム",
+    "reading": "sorghum",
+    "code": "cr-kata3-107",
+    "index": 107
+  },
+  {
+    "surface": "サケ",
+    "reading": "sake",
+    "code": "cr-kata3-108",
+    "index": 108
+  },
+  {
+    "surface": "ソルノク",
+    "reading": "sorunoku",
+    "code": "cr-kata3-109",
+    "index": 109
+  },
+  {
+    "surface": "ザマ",
+    "reading": "zama",
+    "code": "cr-kata3-110",
+    "index": 110
+  },
+  {
+    "surface": "サレプル",
+    "reading": "sarepuru",
+    "code": "cr-kata3-111",
+    "index": 111
+  },
+  {
+    "surface": "サージン",
+    "reading": "sergen",
+    "code": "cr-kata3-112",
+    "index": 112
+  },
+  {
+    "surface": "センドゥワ",
+    "reading": "senduwa",
+    "code": "cr-kata3-113",
+    "index": 113
+  },
+  {
+    "surface": "シウダー・レアル",
+    "reading": "shiudaarearu",
+    "code": "cr-kata3-114",
+    "index": 114
+  },
+  {
+    "surface": "スポットフィンホッグフィッシュ",
+    "reading": "supottofinhoggufisshu",
+    "code": "cr-kata3-115",
+    "index": 115
+  },
+  {
+    "surface": "スタビリティー",
+    "reading": "stability",
+    "code": "cr-kata3-116",
+    "index": 116
+  },
+  {
+    "surface": "ショートストップ",
+    "reading": "shortstop",
+    "code": "cr-kata3-117",
+    "index": 117
+  },
+  {
+    "surface": "ストアドプロシジャー",
+    "reading": "sutoadopuroshijaa",
+    "code": "cr-kata3-118",
+    "index": 118
+  },
+  {
+    "surface": "サンプル",
+    "reading": "sample",
+    "code": "cr-kata3-119",
+    "index": 119
+  },
+  {
+    "surface": "ズエラット",
+    "reading": "zueratto",
+    "code": "cr-kata3-120",
+    "index": 120
+  },
+  {
+    "surface": "ショート",
+    "reading": "short",
+    "code": "cr-kata3-121",
+    "index": 121
+  },
+  {
+    "surface": "ゼプト",
+    "reading": "zeputo",
+    "code": "cr-kata3-122",
+    "index": 122
+  },
+  {
+    "surface": "スピコン",
+    "reading": "supikon",
+    "code": "cr-kata3-123",
+    "index": 123
+  },
+  {
+    "surface": "スポイラー",
+    "reading": "spoiler",
+    "code": "cr-kata3-124",
+    "index": 124
+  },
+  {
+    "surface": "セルフケア",
+    "reading": "selfcare",
+    "code": "cr-kata3-125",
+    "index": 125
+  },
+  {
+    "surface": "サルファイトパルプ",
+    "reading": "sarufightpulp",
+    "code": "cr-kata3-126",
+    "index": 126
+  },
+  {
+    "surface": "ジャッカル",
+    "reading": "jackal",
+    "code": "cr-kata3-127",
+    "index": 127
+  },
+  {
+    "surface": "サンデー",
+    "reading": "sunday",
+    "code": "cr-kata3-128",
+    "index": 128
+  },
+  {
+    "surface": "シチセンスズメダイ",
+    "reading": "shichisensuzumedai",
+    "code": "cr-kata3-129",
+    "index": 129
+  },
+  {
+    "surface": "スターター",
+    "reading": "starter",
+    "code": "cr-kata3-130",
+    "index": 130
+  },
+  {
+    "surface": "サザナミトサカハギ",
+    "reading": "sazanamitosakahagi",
+    "code": "cr-kata3-131",
+    "index": 131
+  },
+  {
+    "surface": "スパット",
+    "reading": "supatto",
+    "code": "cr-kata3-132",
+    "index": 132
+  },
+  {
+    "surface": "シラー",
+    "reading": "schiller",
+    "code": "cr-kata3-133",
+    "index": 133
+  },
+  {
+    "surface": "シリカ",
+    "reading": "silica",
+    "code": "cr-kata3-134",
+    "index": 134
+  },
+  {
+    "surface": "サイクリック",
+    "reading": "cyclic",
+    "code": "cr-kata3-135",
+    "index": 135
+  },
+  {
+    "surface": "サイベネティックス",
+    "reading": "saibenetikkusu",
+    "code": "cr-kata3-136",
+    "index": 136
+  },
+  {
+    "surface": "ショッピングセンター",
+    "reading": "shoppingcenter",
+    "code": "cr-kata3-137",
+    "index": 137
+  },
+  {
+    "surface": "スペキュレーション",
+    "reading": "speculation",
+    "code": "cr-kata3-138",
+    "index": 138
+  },
+  {
+    "surface": "サブソサイエティ",
+    "reading": "subsociety",
+    "code": "cr-kata3-139",
+    "index": 139
+  },
+  {
+    "surface": "ジルバ",
+    "reading": "jitterbug",
+    "code": "cr-kata3-140",
+    "index": 140
+  },
+  {
+    "surface": "サラダ",
+    "reading": "salad",
+    "code": "cr-kata3-141",
+    "index": 141
+  },
+  {
+    "surface": "スサ",
+    "reading": "susa",
+    "code": "cr-kata3-142",
+    "index": 142
+  },
+  {
+    "surface": "シドロモドロ",
+    "reading": "shidoromodoro",
+    "code": "cr-kata3-143",
+    "index": 143
+  },
+  {
+    "surface": "ソルトレイクシティ",
+    "reading": "sorutoreikucity",
+    "code": "cr-kata3-144",
+    "index": 144
+  },
+  {
+    "surface": "ズオティ",
+    "reading": "zuoti",
+    "code": "cr-kata3-145",
+    "index": 145
+  },
+  {
+    "surface": "スリ",
+    "reading": "suri",
+    "code": "cr-kata3-146",
+    "index": 146
+  },
+  {
+    "surface": "サムットプラーカーン",
+    "reading": "samuttopuraakaan",
+    "code": "cr-kata3-147",
+    "index": 147
+  },
+  {
+    "surface": "スヴラン",
+    "reading": "suvurun",
+    "code": "cr-kata3-148",
+    "index": 148
+  },
+  {
+    "surface": "サカタザメ",
+    "reading": "sakatazame",
+    "code": "cr-kata3-149",
+    "index": 149
+  },
+  {
+    "surface": "シングルサインオン",
+    "reading": "singlesignon",
+    "code": "cr-kata3-150",
+    "index": 150
+  },
+  {
+    "surface": "スクワッター",
+    "reading": "squatter",
+    "code": "cr-kata3-151",
+    "index": 151
+  },
+  {
+    "surface": "シベニク",
+    "reading": "shibeniku",
+    "code": "cr-kata3-152",
+    "index": 152
+  },
+  {
+    "surface": "ショールダーバッグ",
+    "reading": "shoorudaabaggu",
+    "code": "cr-kata3-153",
+    "index": 153
+  },
+  {
+    "surface": "シーディープレイヤー",
+    "reading": "seadeeplayer",
+    "code": "cr-kata3-154",
+    "index": 154
+  },
+  {
+    "surface": "ジエチレングリコール",
+    "reading": "diethyleneglykol",
+    "code": "cr-kata3-155",
+    "index": 155
+  },
+  {
+    "surface": "スーパースケーラ",
+    "reading": "suupaasukeera",
+    "code": "cr-kata3-156",
+    "index": 156
+  },
+  {
+    "surface": "シュトルムウントドランク",
+    "reading": "stormunddrang",
+    "code": "cr-kata3-157",
+    "index": 157
+  },
+  {
+    "surface": "シェークスピア",
+    "reading": "shakespeare",
+    "code": "cr-kata3-158",
+    "index": 158
+  },
+  {
+    "surface": "シフォン",
+    "reading": "chiffon",
+    "code": "cr-kata3-159",
+    "index": 159
+  },
+  {
+    "surface": "シネラマ",
+    "reading": "cinerama",
+    "code": "cr-kata3-160",
+    "index": 160
+  },
+  {
+    "surface": "シダレザクラ",
+    "reading": "shidarezakura",
+    "code": "cr-kata3-161",
+    "index": 161
+  },
+  {
+    "surface": "センターベンツ",
+    "reading": "centerbenz",
+    "code": "cr-kata3-162",
+    "index": 162
+  },
+  {
+    "surface": "サラリー",
+    "reading": "salary",
+    "code": "cr-kata3-163",
+    "index": 163
+  },
+  {
+    "surface": "サーチャー",
+    "reading": "searcher",
+    "code": "cr-kata3-164",
+    "index": 164
+  },
+  {
+    "surface": "シック",
+    "reading": "chic",
+    "code": "cr-kata3-165",
+    "index": 165
+  },
+  {
+    "surface": "スペルマ",
+    "reading": "sperma",
+    "code": "cr-kata3-166",
+    "index": 166
+  },
+  {
+    "surface": "シナプス",
+    "reading": "synapse",
+    "code": "cr-kata3-167",
+    "index": 167
+  },
+  {
+    "surface": "スターチ",
+    "reading": "starch",
+    "code": "cr-kata3-168",
+    "index": 168
+  },
+  {
+    "surface": "セキ",
+    "reading": "seki",
+    "code": "cr-kata3-169",
+    "index": 169
+  },
+  {
+    "surface": "シュンガ",
+    "reading": "shunga",
+    "code": "cr-kata3-170",
+    "index": 170
+  },
+  {
+    "surface": "サン・ジョヴァンニ・ア・テドゥッチョ",
+    "reading": "sunjovanniatedutcho",
+    "code": "cr-kata3-171",
+    "index": 171
+  },
+  {
+    "surface": "シロン",
+    "reading": "shiron",
+    "code": "cr-kata3-172",
+    "index": 172
+  },
+  {
+    "surface": "スーパーマーケット",
+    "reading": "supermarket",
+    "code": "cr-kata3-173",
+    "index": 173
+  },
+  {
+    "surface": "スト",
+    "reading": "strike",
+    "code": "cr-kata3-174",
+    "index": 174
+  },
+  {
+    "surface": "ソーシャルワーカー",
+    "reading": "socialworker",
+    "code": "cr-kata3-175",
+    "index": 175
+  },
+  {
+    "surface": "スクリブルドエンゼル",
+    "reading": "sukuriburudoenzeru",
+    "code": "cr-kata3-176",
+    "index": 176
+  },
+  {
+    "surface": "サーチエンジン",
+    "reading": "searchengine",
+    "code": "cr-kata3-177",
+    "index": 177
+  },
+  {
+    "surface": "ササゲ",
+    "reading": "sasage",
+    "code": "cr-kata3-178",
+    "index": 178
+  },
+  {
+    "surface": "スーパーリアリズム",
+    "reading": "superrealism",
+    "code": "cr-kata3-179",
+    "index": 179
+  },
+  {
+    "surface": "シュールレアリスム",
+    "reading": "surrealisme",
+    "code": "cr-kata3-180",
+    "index": 180
+  },
+  {
+    "surface": "スクラムトライ",
+    "reading": "scrumtry",
+    "code": "cr-kata3-181",
+    "index": 181
+  },
+  {
+    "surface": "サイクル",
+    "reading": "cycle",
+    "code": "cr-kata3-182",
+    "index": 182
+  },
+  {
+    "surface": "シャーク",
+    "reading": "shark",
+    "code": "cr-kata3-183",
+    "index": 183
+  },
+  {
+    "surface": "ジョブエンリッチメント",
+    "reading": "jobuenritchimento",
+    "code": "cr-kata3-184",
+    "index": 184
+  },
+  {
+    "surface": "ジンジン",
+    "reading": "jinjin",
+    "code": "cr-kata3-185",
+    "index": 185
+  },
+  {
+    "surface": "サーチパス",
+    "reading": "searchpass",
+    "code": "cr-kata3-186",
+    "index": 186
+  },
+  {
+    "surface": "シェルタードハウジング",
+    "reading": "sherutaadohaujingu",
+    "code": "cr-kata3-187",
+    "index": 187
+  },
+  {
+    "surface": "ショッピングモール",
+    "reading": "shoppingmall",
+    "code": "cr-kata3-188",
+    "index": 188
+  },
+  {
+    "surface": "スパナー",
+    "reading": "spanner",
+    "code": "cr-kata3-189",
+    "index": 189
+  },
+  {
+    "surface": "セントラル・リーグ",
+    "reading": "centralleague",
+    "code": "cr-kata3-190",
+    "index": 190
+  },
+  {
+    "surface": "システマティック",
+    "reading": "systematic",
+    "code": "cr-kata3-191",
+    "index": 191
+  },
+  {
+    "surface": "ソチ",
+    "reading": "sovietchi",
+    "code": "cr-kata3-192",
+    "index": 192
+  },
+  {
+    "surface": "ソロルド",
+    "reading": "sororudo",
+    "code": "cr-kata3-193",
+    "index": 193
+  },
+  {
+    "surface": "シュモクザメ",
+    "reading": "shumokuzame",
+    "code": "cr-kata3-194",
+    "index": 194
+  },
+  {
+    "surface": "スナガニ",
+    "reading": "sunagani",
+    "code": "cr-kata3-195",
+    "index": 195
+  },
+  {
+    "surface": "シネシネ",
+    "reading": "cinemacinema",
+    "code": "cr-kata3-196",
+    "index": 196
+  },
+  {
+    "surface": "ズタズタ",
+    "reading": "zutazuta",
+    "code": "cr-kata3-197",
+    "index": 197
+  },
+  {
+    "surface": "シンパシー",
+    "reading": "sympathy",
+    "code": "cr-kata3-198",
+    "index": 198
+  },
+  {
+    "surface": "シングルジャストロー",
+    "reading": "singlejustlow",
+    "code": "cr-kata3-199",
+    "index": 199
+  },
+  {
+    "surface": "スッゴイ",
+    "reading": "suggoi",
+    "code": "cr-kata3-200",
+    "index": 200
+  },
+  {
+    "surface": "スイミングクラブ",
+    "reading": "swimmingclub",
+    "code": "cr-kata3-201",
+    "index": 201
+  },
+  {
+    "surface": "ステラーカイギュウ",
+    "reading": "suteraakaigyuu",
+    "code": "cr-kata3-202",
+    "index": 202
+  },
+  {
+    "surface": "スーパーコンピューター",
+    "reading": "supercomputer",
+    "code": "cr-kata3-203",
+    "index": 203
+  },
+  {
+    "surface": "サッシ",
+    "reading": "sash",
+    "code": "cr-kata3-204",
+    "index": 204
+  },
+  {
+    "surface": "スポドリ",
+    "reading": "supodori",
+    "code": "cr-kata3-205",
+    "index": 205
+  },
+  {
+    "surface": "ソード",
+    "reading": "sword",
+    "code": "cr-kata3-206",
+    "index": 206
+  },
+  {
+    "surface": "ストイチズム",
+    "reading": "sutoichizumu",
+    "code": "cr-kata3-207",
+    "index": 207
+  },
+  {
+    "surface": "シャレコウベ",
+    "reading": "sharekoube",
+    "code": "cr-kata3-208",
+    "index": 208
+  },
+  {
+    "surface": "スーラト",
+    "reading": "suurato",
+    "code": "cr-kata3-209",
+    "index": 209
+  },
+  {
+    "surface": "スリースポットクロミス",
+    "reading": "suriisupottokuromisu",
+    "code": "cr-kata3-210",
+    "index": 210
+  },
+  {
+    "surface": "スタータ",
+    "reading": "starter",
+    "code": "cr-kata3-211",
+    "index": 211
+  },
+  {
+    "surface": "スノーガン",
+    "reading": "snowgun",
+    "code": "cr-kata3-212",
+    "index": 212
+  },
+  {
+    "surface": "シザーズパス",
+    "reading": "scissorpass",
+    "code": "cr-kata3-213",
+    "index": 213
+  },
+  {
+    "surface": "サブウエー",
+    "reading": "subway",
+    "code": "cr-kata3-214",
+    "index": 214
+  },
+  {
+    "surface": "ジャパニーズボブテイル",
+    "reading": "japanesebobtail",
+    "code": "cr-kata3-215",
+    "index": 215
+  },
+  {
+    "surface": "シビリアンコントロール",
+    "reading": "civiliancontrol",
+    "code": "cr-kata3-216",
+    "index": 216
+  },
+  {
+    "surface": "シー",
+    "reading": "sea",
+    "code": "cr-kata3-217",
+    "index": 217
+  },
+  {
+    "surface": "サウスサンフランシスコ",
+    "reading": "southsanfuranshisuko",
+    "code": "cr-kata3-218",
+    "index": 218
+  },
+  {
+    "surface": "シレット",
+    "reading": "shiretto",
+    "code": "cr-kata3-219",
+    "index": 219
+  },
+  {
+    "surface": "シイタケ",
+    "reading": "shiitake",
+    "code": "cr-kata3-220",
+    "index": 220
+  },
+  {
+    "surface": "ソニックブーム",
+    "reading": "sonicboom",
+    "code": "cr-kata3-221",
+    "index": 221
+  },
+  {
+    "surface": "セナスジベラ",
+    "reading": "senasujibera",
+    "code": "cr-kata3-222",
+    "index": 222
+  },
+  {
+    "surface": "ストロン",
+    "reading": "strikeron",
+    "code": "cr-kata3-223",
+    "index": 223
+  },
+  {
+    "surface": "スチールカン",
+    "reading": "steelkhan",
+    "code": "cr-kata3-224",
+    "index": 224
+  },
+  {
+    "surface": "シーラーズ",
+    "reading": "shiiraazu",
+    "code": "cr-kata3-225",
+    "index": 225
+  },
+  {
+    "surface": "スーベニアショップ",
+    "reading": "souvenirshop",
+    "code": "cr-kata3-226",
+    "index": 226
+  },
+  {
+    "surface": "ソンブレロ",
+    "reading": "sombrero",
+    "code": "cr-kata3-227",
+    "index": 227
+  },
+  {
+    "surface": "スタンドカラー",
+    "reading": "standcolor",
+    "code": "cr-kata3-228",
+    "index": 228
+  },
+  {
+    "surface": "ソバ",
+    "reading": "soba",
+    "code": "cr-kata3-229",
+    "index": 229
+  },
+  {
+    "surface": "スダジイ",
+    "reading": "sudajii",
+    "code": "cr-kata3-230",
+    "index": 230
+  },
+  {
+    "surface": "セルロイド",
+    "reading": "celluloid",
+    "code": "cr-kata3-231",
+    "index": 231
+  },
+  {
+    "surface": "サルバトールモニター",
+    "reading": "sarubatoorumonitaa",
+    "code": "cr-kata3-232",
+    "index": 232
+  },
+  {
+    "surface": "セット",
+    "reading": "set",
+    "code": "cr-kata3-233",
+    "index": 233
+  },
+  {
+    "surface": "ジオシンセティックス",
+    "reading": "jioshinsetikkusu",
+    "code": "cr-kata3-234",
+    "index": 234
+  },
+  {
+    "surface": "システムアプローチ",
+    "reading": "systemapproach",
+    "code": "cr-kata3-235",
+    "index": 235
+  },
+  {
+    "surface": "サキソフォン",
+    "reading": "saxophone",
+    "code": "cr-kata3-236",
+    "index": 236
+  },
+  {
+    "surface": "サンジャシント",
+    "reading": "sanjashinto",
+    "code": "cr-kata3-237",
+    "index": 237
+  },
+  {
+    "surface": "シザース",
+    "reading": "scissor",
+    "code": "cr-kata3-238",
+    "index": 238
+  },
+  {
+    "surface": "シチセンチョウチョウウオ",
+    "reading": "shichisenchouchouuo",
+    "code": "cr-kata3-239",
+    "index": 239
+  },
+  {
+    "surface": "シルスイキツツキ",
+    "reading": "shirusuikitsutsuki",
+    "code": "cr-kata3-240",
+    "index": 240
+  },
+  {
+    "surface": "サブスクライバ",
+    "reading": "sabusukuraiba",
+    "code": "cr-kata3-241",
+    "index": 241
+  },
+  {
+    "surface": "スーパーオーディオシーディー",
+    "reading": "suupaaoodioshiidii",
+    "code": "cr-kata3-242",
+    "index": 242
+  },
+  {
+    "surface": "スケ",
+    "reading": "suke",
+    "code": "cr-kata3-243",
+    "index": 243
+  },
+  {
+    "surface": "サープラス",
+    "reading": "surplus",
+    "code": "cr-kata3-244",
+    "index": 244
+  },
+  {
+    "surface": "サイエンティフィック",
+    "reading": "scientific",
+    "code": "cr-kata3-245",
+    "index": 245
+  },
+  {
+    "surface": "ジュリア",
+    "reading": "juria",
+    "code": "cr-kata3-246",
+    "index": 246
+  },
+  {
+    "surface": "スクリム",
+    "reading": "scream",
+    "code": "cr-kata3-247",
+    "index": 247
+  },
+  {
+    "surface": "ソフィスティケート",
+    "reading": "sophisticate",
+    "code": "cr-kata3-248",
+    "index": 248
+  },
+  {
+    "surface": "シクロホスファミド",
+    "reading": "cyclophosphamide",
+    "code": "cr-kata3-249",
+    "index": 249
+  },
+  {
+    "surface": "シンボル",
+    "reading": "symbol",
+    "code": "cr-kata3-250",
+    "index": 250
+  },
+  {
+    "surface": "ステーションブレイク",
+    "reading": "stationbreak",
+    "code": "cr-kata3-251",
+    "index": 251
+  },
+  {
+    "surface": "シルト",
+    "reading": "silt",
+    "code": "cr-kata3-252",
+    "index": 252
+  },
+  {
+    "surface": "サン・ホセ・デ・オコア",
+    "reading": "sunjosedeokoa",
+    "code": "cr-kata3-253",
+    "index": 253
+  },
+  {
+    "surface": "スカ",
+    "reading": "ska",
+    "code": "cr-kata3-254",
+    "index": 254
+  },
+  {
+    "surface": "サーターアンダギー",
+    "reading": "saataaandagii",
+    "code": "cr-kata3-255",
+    "index": 255
+  },
+  {
+    "surface": "スカンピ",
+    "reading": "scampo",
+    "code": "cr-kata3-256",
+    "index": 256
+  },
+  {
+    "surface": "スイマー",
+    "reading": "swimmer",
+    "code": "cr-kata3-257",
+    "index": 257
+  },
+  {
+    "surface": "ジョイント・ベンチャー",
+    "reading": "jointventure",
+    "code": "cr-kata3-258",
+    "index": 258
+  },
+  {
+    "surface": "シボリ",
+    "reading": "shibori",
+    "code": "cr-kata3-259",
+    "index": 259
+  },
+  {
+    "surface": "ジャフナ",
+    "reading": "jafuna",
+    "code": "cr-kata3-260",
+    "index": 260
+  },
+  {
+    "surface": "シブ",
+    "reading": "shibu",
+    "code": "cr-kata3-261",
+    "index": 261
+  },
+  {
+    "surface": "スノーブリッジ",
+    "reading": "snowbridge",
+    "code": "cr-kata3-262",
+    "index": 262
+  },
+  {
+    "surface": "サンファンバウティスタ",
+    "reading": "sanfanbautista",
+    "code": "cr-kata3-263",
+    "index": 263
+  },
+  {
+    "surface": "シラコバト",
+    "reading": "shirakobato",
+    "code": "cr-kata3-264",
+    "index": 264
+  },
+  {
+    "surface": "セックスレス",
+    "reading": "sexless",
+    "code": "cr-kata3-265",
+    "index": 265
+  },
+  {
+    "surface": "スケルトン",
+    "reading": "skeleton",
+    "code": "cr-kata3-266",
+    "index": 266
+  },
+  {
+    "surface": "セロ・デ・パスコ",
+    "reading": "cellodespasuko",
+    "code": "cr-kata3-267",
+    "index": 267
+  },
+  {
+    "surface": "スポーク",
+    "reading": "spoke",
+    "code": "cr-kata3-268",
+    "index": 268
+  },
+  {
+    "surface": "スペ",
+    "reading": "special",
+    "code": "cr-kata3-269",
+    "index": 269
+  },
+  {
+    "surface": "ソルダム",
+    "reading": "soldum",
+    "code": "cr-kata3-270",
+    "index": 270
+  },
+  {
+    "surface": "ストップウォッチ",
+    "reading": "stopwatch",
+    "code": "cr-kata3-271",
+    "index": 271
+  },
+  {
+    "surface": "スリット",
+    "reading": "slit",
+    "code": "cr-kata3-272",
+    "index": 272
+  },
+  {
+    "surface": "ジーエイチキュー",
+    "reading": "jiieichikyuu",
+    "code": "cr-kata3-273",
+    "index": 273
+  },
+  {
+    "surface": "サムホール",
+    "reading": "samuhooru",
+    "code": "cr-kata3-274",
+    "index": 274
+  },
+  {
+    "surface": "スリング",
+    "reading": "sling",
+    "code": "cr-kata3-275",
+    "index": 275
+  },
+  {
+    "surface": "スクリーマー",
+    "reading": "schoolingreamer",
+    "code": "cr-kata3-276",
+    "index": 276
+  },
+  {
+    "surface": "ジューン・ブライド",
+    "reading": "juneburaido",
+    "code": "cr-kata3-277",
+    "index": 277
+  },
+  {
+    "surface": "ジーパン",
+    "reading": "jeanspants",
+    "code": "cr-kata3-278",
+    "index": 278
+  },
+  {
+    "surface": "スタート",
+    "reading": "start",
+    "code": "cr-kata3-279",
+    "index": 279
+  },
+  {
+    "surface": "サモラ",
+    "reading": "zamora",
+    "code": "cr-kata3-280",
+    "index": 280
+  },
+  {
+    "surface": "スズメガ",
+    "reading": "suzumega",
+    "code": "cr-kata3-281",
+    "index": 281
+  },
+  {
+    "surface": "セイヨウヤマハッカ",
+    "reading": "sayyouyamahakka",
+    "code": "cr-kata3-282",
+    "index": 282
+  },
+  {
+    "surface": "シェルパ",
+    "reading": "sherpa",
+    "code": "cr-kata3-283",
+    "index": 283
+  },
+  {
+    "surface": "サン・フアン・デ・ラ・マグアナ",
+    "reading": "sunjuanderamaguana",
+    "code": "cr-kata3-284",
+    "index": 284
+  },
+  {
+    "surface": "サウスポートランド",
+    "reading": "southpootorando",
+    "code": "cr-kata3-285",
+    "index": 285
+  },
+  {
+    "surface": "ショート・ショート",
+    "reading": "shootoshort",
+    "code": "cr-kata3-286",
+    "index": 286
+  },
+  {
+    "surface": "ソフィスティケーション",
+    "reading": "sophistication",
+    "code": "cr-kata3-287",
+    "index": 287
+  },
+  {
+    "surface": "ゾーンディフェンス",
+    "reading": "zonedefense",
+    "code": "cr-kata3-288",
+    "index": 288
+  },
+  {
+    "surface": "ジャケツ",
+    "reading": "jacket",
+    "code": "cr-kata3-289",
+    "index": 289
+  },
+  {
+    "surface": "サンザシ",
+    "reading": "sanzashi",
+    "code": "cr-kata3-290",
+    "index": 290
+  },
+  {
+    "surface": "ショウズク",
+    "reading": "showzuku",
+    "code": "cr-kata3-291",
+    "index": 291
+  },
+  {
+    "surface": "サンライズ",
+    "reading": "sunrise",
+    "code": "cr-kata3-292",
+    "index": 292
+  },
+  {
+    "surface": "スワット",
+    "reading": "suwatto",
+    "code": "cr-kata3-293",
+    "index": 293
+  },
+  {
+    "surface": "ショッキング",
+    "reading": "shocking",
+    "code": "cr-kata3-294",
+    "index": 294
+  },
+  {
+    "surface": "スウェル",
+    "reading": "swell",
+    "code": "cr-kata3-295",
+    "index": 295
+  },
+  {
+    "surface": "スパ",
+    "reading": "spa",
+    "code": "cr-kata3-296",
+    "index": 296
+  },
+  {
+    "surface": "シンジケート・ローン",
+    "reading": "syndicateloan",
+    "code": "cr-kata3-297",
+    "index": 297
+  },
+  {
+    "surface": "ソレダド",
+    "reading": "soredado",
+    "code": "cr-kata3-298",
+    "index": 298
+  },
+  {
+    "surface": "サンタナ・ド・リヴラメント",
+    "reading": "santanadorivuramento",
+    "code": "cr-kata3-299",
+    "index": 299
+  },
+  {
+    "surface": "サイクリックエーエムピー",
+    "reading": "cycliceeemupea",
+    "code": "cr-kata3-300",
+    "index": 300
+  },
+  {
+    "surface": "ジェネレータ",
+    "reading": "generator",
+    "code": "cr-kata3-301",
+    "index": 301
+  },
+  {
+    "surface": "ジェームス",
+    "reading": "james",
+    "code": "cr-kata3-302",
+    "index": 302
+  },
+  {
+    "surface": "ストーンウオッシュ",
+    "reading": "stonewash",
+    "code": "cr-kata3-303",
+    "index": 303
+  },
+  {
+    "surface": "ソング",
+    "reading": "song",
+    "code": "cr-kata3-304",
+    "index": 304
+  },
+  {
+    "surface": "ショップインショップ",
+    "reading": "shopinshop",
+    "code": "cr-kata3-305",
+    "index": 305
+  },
+  {
+    "surface": "ソアリング",
+    "reading": "soaring",
+    "code": "cr-kata3-306",
+    "index": 306
+  },
+  {
+    "surface": "ジャイアントピグミーゴビー",
+    "reading": "jaiantopigumiigobii",
+    "code": "cr-kata3-307",
+    "index": 307
+  },
+  {
+    "surface": "セル",
+    "reading": "cell",
+    "code": "cr-kata3-308",
+    "index": 308
+  },
+  {
+    "surface": "シベリアンハスキー",
+    "reading": "siberianhasukii",
+    "code": "cr-kata3-309",
+    "index": 309
+  },
+  {
+    "surface": "セゾン",
+    "reading": "sezon",
+    "code": "cr-kata3-310",
+    "index": 310
+  },
+  {
+    "surface": "サマーソルトターン",
+    "reading": "samaasorutotaan",
+    "code": "cr-kata3-311",
+    "index": 311
+  },
+  {
+    "surface": "サブザック",
+    "reading": "subsack",
+    "code": "cr-kata3-312",
+    "index": 312
+  },
+  {
+    "surface": "セルフメディケーション",
+    "reading": "selfmedication",
+    "code": "cr-kata3-313",
+    "index": 313
+  },
+  {
+    "surface": "ソハールサージョンフィッシュ",
+    "reading": "sohaarusaajonfisshu",
+    "code": "cr-kata3-314",
+    "index": 314
+  },
+  {
+    "surface": "ザールルイ",
+    "reading": "zaallouis",
+    "code": "cr-kata3-315",
+    "index": 315
+  },
+  {
+    "surface": "セーブル",
+    "reading": "sable",
+    "code": "cr-kata3-316",
+    "index": 316
+  },
+  {
+    "surface": "サットン・コールドフィールド",
+    "reading": "sattonkoorudofiirudo",
+    "code": "cr-kata3-317",
+    "index": 317
+  },
+  {
+    "surface": "サマータイム",
+    "reading": "summertime",
+    "code": "cr-kata3-318",
+    "index": 318
+  },
+  {
+    "surface": "スノーボート",
+    "reading": "snowboat",
+    "code": "cr-kata3-319",
+    "index": 319
+  },
+  {
+    "surface": "シュルーズベリー",
+    "reading": "shuruuzuberii",
+    "code": "cr-kata3-320",
+    "index": 320
+  },
+  {
+    "surface": "ジャンセニズム",
+    "reading": "jansenizumu",
+    "code": "cr-kata3-321",
+    "index": 321
+  },
+  {
+    "surface": "スラング",
+    "reading": "slang",
+    "code": "cr-kata3-322",
+    "index": 322
+  },
+  {
+    "surface": "シモツケソウ",
+    "reading": "shimotsukesou",
+    "code": "cr-kata3-323",
+    "index": 323
+  },
+  {
+    "surface": "ザプレシチ",
+    "reading": "zapureshichi",
+    "code": "cr-kata3-324",
+    "index": 324
+  },
+  {
+    "surface": "スピーディ",
+    "reading": "speedy",
+    "code": "cr-kata3-325",
+    "index": 325
+  },
+  {
+    "surface": "サファイアー",
+    "reading": "sapphire",
+    "code": "cr-kata3-326",
+    "index": 326
+  },
+  {
+    "surface": "ソックス",
+    "reading": "socks",
+    "code": "cr-kata3-327",
+    "index": 327
+  },
+  {
+    "surface": "サラドレ",
+    "reading": "saladore",
+    "code": "cr-kata3-328",
+    "index": 328
+  },
+  {
+    "surface": "ジョニー",
+    "reading": "jonii",
+    "code": "cr-kata3-329",
+    "index": 329
+  },
+  {
+    "surface": "サントラ",
+    "reading": "santora",
+    "code": "cr-kata3-330",
+    "index": 330
+  },
+  {
+    "surface": "スケベ",
+    "reading": "sukebe",
+    "code": "cr-kata3-331",
+    "index": 331
+  },
+  {
+    "surface": "サブプロセス",
+    "reading": "subprocess",
+    "code": "cr-kata3-332",
+    "index": 332
+  },
+  {
+    "surface": "スターシステム",
+    "reading": "starsystem",
+    "code": "cr-kata3-333",
+    "index": 333
+  },
+  {
+    "surface": "ジムナスティックス",
+    "reading": "gymnastic",
+    "code": "cr-kata3-334",
+    "index": 334
+  },
+  {
+    "surface": "ソリ",
+    "reading": "sori",
+    "code": "cr-kata3-335",
+    "index": 335
+  },
+  {
+    "surface": "ステノグラフィー",
+    "reading": "stenography",
+    "code": "cr-kata3-336",
+    "index": 336
+  },
+  {
+    "surface": "シマウマ",
+    "reading": "shimauma",
+    "code": "cr-kata3-337",
+    "index": 337
+  },
+  {
+    "surface": "ソムリエ",
+    "reading": "sommelier",
+    "code": "cr-kata3-338",
+    "index": 338
+  },
+  {
+    "surface": "ジャーマンシェパードドッグ",
+    "reading": "jaamanshepaadodoggu",
+    "code": "cr-kata3-339",
+    "index": 339
+  },
+  {
+    "surface": "スクリーンキャプチャ",
+    "reading": "screencapture",
+    "code": "cr-kata3-340",
+    "index": 340
+  },
+  {
+    "surface": "ソースパン",
+    "reading": "saucepao",
+    "code": "cr-kata3-341",
+    "index": 341
+  },
+  {
+    "surface": "スファントゥ・ゲオルゲ",
+    "reading": "sufantugeoruge",
+    "code": "cr-kata3-342",
+    "index": 342
+  },
+  {
+    "surface": "ストラッグル",
+    "reading": "struggle",
+    "code": "cr-kata3-343",
+    "index": 343
+  },
+  {
+    "surface": "ジェファーソンシティ",
+    "reading": "jeffersoncity",
+    "code": "cr-kata3-344",
+    "index": 344
+  },
+  {
+    "surface": "セキュリティーホール",
+    "reading": "securityhall",
+    "code": "cr-kata3-345",
+    "index": 345
+  },
+  {
+    "surface": "ソマトスタチン",
+    "reading": "somatostatin",
+    "code": "cr-kata3-346",
+    "index": 346
+  },
+  {
+    "surface": "スー",
+    "reading": "suu",
+    "code": "cr-kata3-347",
+    "index": 347
+  },
+  {
+    "surface": "ステップ・バイ・ステップ",
+    "reading": "stepbystep",
+    "code": "cr-kata3-348",
+    "index": 348
+  },
+  {
+    "surface": "ソーズ",
+    "reading": "soozu",
+    "code": "cr-kata3-349",
+    "index": 349
+  },
+  {
+    "surface": "スチルブ",
+    "reading": "stilb",
+    "code": "cr-kata3-350",
+    "index": 350
+  },
+  {
+    "surface": "セントポーリア",
+    "reading": "saintpaulia",
+    "code": "cr-kata3-351",
+    "index": 351
+  },
+  {
+    "surface": "セクシュアルハラスメント",
+    "reading": "sexualharassment",
+    "code": "cr-kata3-352",
+    "index": 352
+  },
+  {
+    "surface": "サーフボード",
+    "reading": "surfboard",
+    "code": "cr-kata3-353",
+    "index": 353
+  },
+  {
+    "surface": "ソラニン",
+    "reading": "solanine",
+    "code": "cr-kata3-354",
+    "index": 354
+  },
+  {
+    "surface": "ズシ",
+    "reading": "zushi",
+    "code": "cr-kata3-355",
+    "index": 355
+  },
+  {
+    "surface": "セトモノ",
+    "reading": "setomono",
+    "code": "cr-kata3-356",
+    "index": 356
+  },
+  {
+    "surface": "ジー",
+    "reading": "jii",
+    "code": "cr-kata3-357",
+    "index": 357
+  },
+  {
+    "surface": "サンクチュアリー",
+    "reading": "sanctuary",
+    "code": "cr-kata3-358",
+    "index": 358
+  },
+  {
+    "surface": "センターフォワード",
+    "reading": "centerforward",
+    "code": "cr-kata3-359",
+    "index": 359
+  },
+  {
+    "surface": "サーキット・トレーニング",
+    "reading": "circuittraining",
+    "code": "cr-kata3-360",
+    "index": 360
+  },
+  {
+    "surface": "スプライサー",
+    "reading": "splicer",
+    "code": "cr-kata3-361",
+    "index": 361
+  },
+  {
+    "surface": "スペツナズ",
+    "reading": "supetsunazu",
+    "code": "cr-kata3-362",
+    "index": 362
+  },
+  {
+    "surface": "ショウリョウバッタモドキ",
+    "reading": "shouryoubattamodoki",
+    "code": "cr-kata3-363",
+    "index": 363
+  },
+  {
+    "surface": "シケイン",
+    "reading": "chicane",
+    "code": "cr-kata3-364",
+    "index": 364
+  },
+  {
+    "surface": "サクランボ",
+    "reading": "sakuranbo",
+    "code": "cr-kata3-365",
+    "index": 365
+  },
+  {
+    "surface": "センチメンタル",
+    "reading": "sentimental",
+    "code": "cr-kata3-366",
+    "index": 366
+  },
+  {
+    "surface": "スカンディナヴィア",
+    "reading": "scandinavia",
+    "code": "cr-kata3-367",
+    "index": 367
+  },
+  {
+    "surface": "ジムカデ",
+    "reading": "jimukade",
+    "code": "cr-kata3-368",
+    "index": 368
+  },
+  {
+    "surface": "サビ",
+    "reading": "sabi",
+    "code": "cr-kata3-369",
+    "index": 369
+  },
+  {
+    "surface": "スツール",
+    "reading": "stool",
+    "code": "cr-kata3-370",
+    "index": 370
+  },
+  {
+    "surface": "スキマー",
+    "reading": "skimmer",
+    "code": "cr-kata3-371",
+    "index": 371
+  },
+  {
+    "surface": "ストルイ",
+    "reading": "sutorui",
+    "code": "cr-kata3-372",
+    "index": 372
+  },
+  {
+    "surface": "ストローハット",
+    "reading": "strawhat",
+    "code": "cr-kata3-373",
+    "index": 373
+  },
+  {
+    "surface": "スイング",
+    "reading": "swing",
+    "code": "cr-kata3-374",
+    "index": 374
+  },
+  {
+    "surface": "セッティモ・トリネーゼ",
+    "reading": "settimotorineeze",
+    "code": "cr-kata3-375",
+    "index": 375
+  },
+  {
+    "surface": "サギ",
+    "reading": "sagi",
+    "code": "cr-kata3-376",
+    "index": 376
+  },
+  {
+    "surface": "セイジ",
+    "reading": "seiji",
+    "code": "cr-kata3-377",
+    "index": 377
+  },
+  {
+    "surface": "シウダービクトリア",
+    "reading": "shiudaabikutoria",
+    "code": "cr-kata3-378",
+    "index": 378
+  },
+  {
+    "surface": "シンポジウム",
+    "reading": "symposium",
+    "code": "cr-kata3-379",
+    "index": 379
+  },
+  {
+    "surface": "スタッフ",
+    "reading": "staff",
+    "code": "cr-kata3-380",
+    "index": 380
+  },
+  {
+    "surface": "セロハン",
+    "reading": "cellophane",
+    "code": "cr-kata3-381",
+    "index": 381
+  },
+  {
+    "surface": "サイクリングコース",
+    "reading": "cyclingcourse",
+    "code": "cr-kata3-382",
+    "index": 382
+  },
+  {
+    "surface": "シノワ",
+    "reading": "chinois",
+    "code": "cr-kata3-383",
+    "index": 383
+  },
+  {
+    "surface": "ゾルダー・サーキット",
+    "reading": "soldadecircuit",
+    "code": "cr-kata3-384",
+    "index": 384
+  },
+  {
+    "surface": "スリーピングバッグ",
+    "reading": "sleepingbag",
+    "code": "cr-kata3-385",
+    "index": 385
+  },
+  {
+    "surface": "ゼネラルコントラクター",
+    "reading": "generalcontractor",
+    "code": "cr-kata3-386",
+    "index": 386
+  },
+  {
+    "surface": "スモレンスク",
+    "reading": "smolensk",
+    "code": "cr-kata3-387",
+    "index": 387
+  },
+  {
+    "surface": "サンルーカル・デ・バラメーダ",
+    "reading": "sanruukarudesbarameeda",
+    "code": "cr-kata3-388",
+    "index": 388
+  },
+  {
+    "surface": "スクラップ",
+    "reading": "scrap",
+    "code": "cr-kata3-389",
+    "index": 389
+  },
+  {
+    "surface": "スチレン",
+    "reading": "styrene",
+    "code": "cr-kata3-390",
+    "index": 390
+  },
+  {
+    "surface": "ソナグラム",
+    "reading": "sonagram",
+    "code": "cr-kata3-391",
+    "index": 391
+  },
+  {
+    "surface": "ソロン",
+    "reading": "solon",
+    "code": "cr-kata3-392",
+    "index": 392
+  },
+  {
+    "surface": "ススイロアホウドリ",
+    "reading": "susuiroahoudori",
+    "code": "cr-kata3-393",
+    "index": 393
+  },
+  {
+    "surface": "シャリシャリ",
+    "reading": "sharishari",
+    "code": "cr-kata3-394",
+    "index": 394
+  },
+  {
+    "surface": "サムヌア",
+    "reading": "samunua",
+    "code": "cr-kata3-395",
+    "index": 395
+  },
+  {
+    "surface": "スターリングハイツ",
+    "reading": "sterlingheights",
+    "code": "cr-kata3-396",
+    "index": 396
+  },
+  {
+    "surface": "シャイシャイ",
+    "reading": "shyshy",
+    "code": "cr-kata3-397",
+    "index": 397
+  },
+  {
+    "surface": "スーツケース",
+    "reading": "suitcase",
+    "code": "cr-kata3-398",
+    "index": 398
+  },
+  {
+    "surface": "サウス・カロライナ",
+    "reading": "southkaroraina",
+    "code": "cr-kata3-399",
+    "index": 399
+  },
+  {
+    "surface": "セーケシュフェヘールヴァール",
+    "reading": "seekeshufeheeruvaaru",
+    "code": "cr-kata3-400",
+    "index": 400
+  },
+  {
+    "surface": "サーキュラースカート",
+    "reading": "circularskirt",
+    "code": "cr-kata3-401",
+    "index": 401
+  },
+  {
+    "surface": "ジモルホラミン",
+    "reading": "dimorpholamine",
+    "code": "cr-kata3-402",
+    "index": 402
+  },
+  {
+    "surface": "シニック",
+    "reading": "cynic",
+    "code": "cr-kata3-403",
+    "index": 403
+  },
+  {
+    "surface": "セイタカシギ",
+    "reading": "seitakashigi",
+    "code": "cr-kata3-404",
+    "index": 404
+  },
+  {
+    "surface": "シェイプ",
+    "reading": "shape",
+    "code": "cr-kata3-405",
+    "index": 405
+  },
+  {
+    "surface": "ソアラー",
+    "reading": "soarer",
+    "code": "cr-kata3-406",
+    "index": 406
+  },
+  {
+    "surface": "シリアルイーイープロム",
+    "reading": "shiriaruiiiipuromu",
+    "code": "cr-kata3-407",
+    "index": 407
+  },
+  {
+    "surface": "サプライチェーン",
+    "reading": "supplychain",
+    "code": "cr-kata3-408",
+    "index": 408
+  },
+  {
+    "surface": "スペック",
+    "reading": "spec",
+    "code": "cr-kata3-409",
+    "index": 409
+  },
+  {
+    "surface": "ジアゼパム",
+    "reading": "diazepam",
+    "code": "cr-kata3-410",
+    "index": 410
+  },
+  {
+    "surface": "サーモ",
+    "reading": "thermo",
+    "code": "cr-kata3-411",
+    "index": 411
+  },
+  {
+    "surface": "スアララ",
+    "reading": "suarara",
+    "code": "cr-kata3-412",
+    "index": 412
+  },
+  {
+    "surface": "ジュズモ",
+    "reading": "juzumo",
+    "code": "cr-kata3-413",
+    "index": 413
+  },
+  {
+    "surface": "ズルナ",
+    "reading": "zurna",
+    "code": "cr-kata3-414",
+    "index": 414
+  },
+  {
+    "surface": "シャーロット・アマリー",
+    "reading": "shaarottoamateurlee",
+    "code": "cr-kata3-415",
+    "index": 415
+  },
+  {
+    "surface": "サン・ジョヴァンニ・ヴァルダルノ",
+    "reading": "sunjovannivarudaruno",
+    "code": "cr-kata3-416",
+    "index": 416
+  },
+  {
+    "surface": "ステノグラファー",
+    "reading": "stenograsfur",
+    "code": "cr-kata3-417",
+    "index": 417
+  },
+  {
+    "surface": "スゴロク",
+    "reading": "sugoroku",
+    "code": "cr-kata3-418",
+    "index": 418
+  },
+  {
+    "surface": "シメ",
+    "reading": "shime",
+    "code": "cr-kata3-419",
+    "index": 419
+  },
+  {
+    "surface": "ソーシャリゼーション",
+    "reading": "socialization",
+    "code": "cr-kata3-420",
+    "index": 420
+  },
+  {
+    "surface": "サラバンド",
+    "reading": "sarabande",
+    "code": "cr-kata3-421",
+    "index": 421
+  },
+  {
+    "surface": "スカウト",
+    "reading": "scout",
+    "code": "cr-kata3-422",
+    "index": 422
+  },
+  {
+    "surface": "スマホ",
+    "reading": "sumaho",
+    "code": "cr-kata3-423",
+    "index": 423
+  },
+  {
+    "surface": "セレナータ",
+    "reading": "serenata",
+    "code": "cr-kata3-424",
+    "index": 424
+  },
+  {
+    "surface": "セロ",
+    "reading": "cello",
+    "code": "cr-kata3-425",
+    "index": 425
+  },
+  {
+    "surface": "シカンダラーバード",
+    "reading": "shikandollarbird",
+    "code": "cr-kata3-426",
+    "index": 426
+  },
+  {
+    "surface": "セヴェルスコドネツク",
+    "reading": "severusukodonetsuku",
+    "code": "cr-kata3-427",
+    "index": 427
+  },
+  {
+    "surface": "スンツヴァル",
+    "reading": "suntsuvaru",
+    "code": "cr-kata3-428",
+    "index": 428
+  },
+  {
+    "surface": "ジューサー",
+    "reading": "juicer",
+    "code": "cr-kata3-429",
+    "index": 429
+  },
+  {
+    "surface": "シネラリヤ",
+    "reading": "shinerariya",
+    "code": "cr-kata3-430",
+    "index": 430
+  },
+  {
+    "surface": "シドニージョウゴグモ",
+    "reading": "shidoniijougogumo",
+    "code": "cr-kata3-431",
+    "index": 431
+  },
+  {
+    "surface": "スコアレスドロー",
+    "reading": "scorelessdraw",
+    "code": "cr-kata3-432",
+    "index": 432
+  },
+  {
+    "surface": "スタグネーション",
+    "reading": "stagnation",
+    "code": "cr-kata3-433",
+    "index": 433
+  },
+  {
+    "surface": "ジェー",
+    "reading": "je",
+    "code": "cr-kata3-434",
+    "index": 434
+  },
+  {
+    "surface": "サンルイスオビスポ",
+    "reading": "sanruisuovispo",
+    "code": "cr-kata3-435",
+    "index": 435
+  },
+  {
+    "surface": "セイタカアワダチソウ",
+    "reading": "saytakaawadachisou",
+    "code": "cr-kata3-436",
+    "index": 436
+  },
+  {
+    "surface": "サイバネティックス",
+    "reading": "cybernetic",
+    "code": "cr-kata3-437",
+    "index": 437
+  },
+  {
+    "surface": "シカソ",
+    "reading": "shikasoviet",
+    "code": "cr-kata3-438",
+    "index": 438
+  },
+  {
+    "surface": "スタヴロポリ",
+    "reading": "stavropol",
+    "code": "cr-kata3-439",
+    "index": 439
+  },
+  {
+    "surface": "センド",
+    "reading": "send",
+    "code": "cr-kata3-440",
+    "index": 440
+  },
+  {
+    "surface": "シウダー・フアレス",
+    "reading": "shiudaafuaresu",
+    "code": "cr-kata3-441",
+    "index": 441
+  },
+  {
+    "surface": "ジョンストン",
+    "reading": "jonsuton",
+    "code": "cr-kata3-442",
+    "index": 442
+  },
+  {
+    "surface": "スッポン",
+    "reading": "suppon",
+    "code": "cr-kata3-443",
+    "index": 443
+  },
+  {
+    "surface": "シゲシゲ",
+    "reading": "shigeshige",
+    "code": "cr-kata3-444",
+    "index": 444
+  },
+  {
+    "surface": "シロギス",
+    "reading": "shirogisu",
+    "code": "cr-kata3-445",
+    "index": 445
+  },
+  {
+    "surface": "サイアザイド",
+    "reading": "saiazaido",
+    "code": "cr-kata3-446",
+    "index": 446
+  },
+  {
+    "surface": "サラヴァト",
+    "reading": "saravato",
+    "code": "cr-kata3-447",
+    "index": 447
+  },
+  {
+    "surface": "シューズ",
+    "reading": "shoes",
+    "code": "cr-kata3-448",
+    "index": 448
+  },
+  {
+    "surface": "スパンブリー",
+    "reading": "spanbully",
+    "code": "cr-kata3-449",
+    "index": 449
+  },
+  {
+    "surface": "ソツ",
+    "reading": "sotsu",
+    "code": "cr-kata3-450",
+    "index": 450
+  },
+  {
+    "surface": "スカート",
+    "reading": "skirt",
+    "code": "cr-kata3-451",
+    "index": 451
+  },
+  {
+    "surface": "シコクビエ",
+    "reading": "shikokubie",
+    "code": "cr-kata3-452",
+    "index": 452
+  },
+  {
+    "surface": "スイ",
+    "reading": "sui",
+    "code": "cr-kata3-453",
+    "index": 453
+  },
+  {
+    "surface": "シュラスコ",
+    "reading": "churrasco",
+    "code": "cr-kata3-454",
+    "index": 454
+  },
+  {
+    "surface": "センシトメトリー",
+    "reading": "senshitometorii",
+    "code": "cr-kata3-455",
+    "index": 455
+  },
+  {
+    "surface": "セーター",
+    "reading": "sweater",
+    "code": "cr-kata3-456",
+    "index": 456
+  },
+  {
+    "surface": "スター",
+    "reading": "star",
+    "code": "cr-kata3-457",
+    "index": 457
+  },
+  {
+    "surface": "ジンス",
+    "reading": "jinsu",
+    "code": "cr-kata3-458",
+    "index": 458
+  },
+  {
+    "surface": "ザル",
+    "reading": "zaru",
+    "code": "cr-kata3-459",
+    "index": 459
+  },
+  {
+    "surface": "スタンダード",
+    "reading": "standard",
+    "code": "cr-kata3-460",
+    "index": 460
+  },
+  {
+    "surface": "ステージダンス",
+    "reading": "stagedance",
+    "code": "cr-kata3-461",
+    "index": 461
+  },
+  {
+    "surface": "スクリユー",
+    "reading": "screw",
+    "code": "cr-kata3-462",
+    "index": 462
+  },
+  {
+    "surface": "サワギキョウ",
+    "reading": "sawagikyou",
+    "code": "cr-kata3-463",
+    "index": 463
+  },
+  {
+    "surface": "ジャイアントパンダ",
+    "reading": "giantpanda",
+    "code": "cr-kata3-464",
+    "index": 464
+  },
+  {
+    "surface": "サウス・パサディナ",
+    "reading": "southpasadena",
+    "code": "cr-kata3-465",
+    "index": 465
+  },
+  {
+    "surface": "シロガネツバメウオ",
+    "reading": "shiroganetsubameuo",
+    "code": "cr-kata3-466",
+    "index": 466
+  },
+  {
+    "surface": "シュレアリスム",
+    "reading": "shurealism",
+    "code": "cr-kata3-467",
+    "index": 467
+  },
+  {
+    "surface": "シマハタタテダイ",
+    "reading": "shimahatatatedai",
+    "code": "cr-kata3-468",
+    "index": 468
+  },
+  {
+    "surface": "サイテー",
+    "reading": "saitee",
+    "code": "cr-kata3-469",
+    "index": 469
+  },
+  {
+    "surface": "ソウゲンライチョウ",
+    "reading": "sougenraichou",
+    "code": "cr-kata3-470",
+    "index": 470
+  },
+  {
+    "surface": "シーニュ",
+    "reading": "signe",
+    "code": "cr-kata3-471",
+    "index": 471
+  },
+  {
+    "surface": "サンバーストバタフライフィッシュ",
+    "reading": "sunburstbutterflyfish",
+    "code": "cr-kata3-472",
+    "index": 472
+  },
+  {
+    "surface": "システム",
+    "reading": "system",
+    "code": "cr-kata3-473",
+    "index": 473
+  },
+  {
+    "surface": "セコンディ・タコラディ",
+    "reading": "sekonditakoradi",
+    "code": "cr-kata3-474",
+    "index": 474
+  },
+  {
+    "surface": "サドル",
+    "reading": "saddle",
+    "code": "cr-kata3-475",
+    "index": 475
+  },
+  {
+    "surface": "ズリセン",
+    "reading": "zurisen",
+    "code": "cr-kata3-476",
+    "index": 476
+  },
+  {
+    "surface": "ストライキ",
+    "reading": "strike",
+    "code": "cr-kata3-477",
+    "index": 477
+  },
+  {
+    "surface": "サンタフェ",
+    "reading": "santafe",
+    "code": "cr-kata3-478",
+    "index": 478
+  },
+  {
+    "surface": "シチュー",
+    "reading": "stew",
+    "code": "cr-kata3-479",
+    "index": 479
+  },
+  {
+    "surface": "スタグフレーション",
+    "reading": "stagflation",
+    "code": "cr-kata3-480",
+    "index": 480
+  },
+  {
+    "surface": "ジンマシン",
+    "reading": "djimmahshin",
+    "code": "cr-kata3-481",
+    "index": 481
+  },
+  {
+    "surface": "ザーニャー",
+    "reading": "zaanyaa",
+    "code": "cr-kata3-482",
+    "index": 482
+  },
+  {
+    "surface": "サブシェル",
+    "reading": "subshell",
+    "code": "cr-kata3-483",
+    "index": 483
+  },
+  {
+    "surface": "ソープ",
+    "reading": "soap",
+    "code": "cr-kata3-484",
+    "index": 484
+  },
+  {
+    "surface": "ジュライ",
+    "reading": "july",
+    "code": "cr-kata3-485",
+    "index": 485
+  },
+  {
+    "surface": "サーマル",
+    "reading": "thermal",
+    "code": "cr-kata3-486",
+    "index": 486
+  },
+  {
+    "surface": "サイドスリップ",
+    "reading": "sideslip",
+    "code": "cr-kata3-487",
+    "index": 487
+  },
+  {
+    "surface": "シェムリアップ",
+    "reading": "siemreap",
+    "code": "cr-kata3-488",
+    "index": 488
+  },
+  {
+    "surface": "スタンド",
+    "reading": "stand",
+    "code": "cr-kata3-489",
+    "index": 489
+  },
+  {
+    "surface": "シャーリー",
+    "reading": "shirley",
+    "code": "cr-kata3-490",
+    "index": 490
+  },
+  {
+    "surface": "セットインスリーブ",
+    "reading": "setinsleeve",
+    "code": "cr-kata3-491",
+    "index": 491
+  },
+  {
+    "surface": "スライドグラス",
+    "reading": "slideglass",
+    "code": "cr-kata3-492",
+    "index": 492
+  },
+  {
+    "surface": "セントロイド",
+    "reading": "centroid",
+    "code": "cr-kata3-493",
+    "index": 493
+  },
+  {
+    "surface": "サブスティチューション",
+    "reading": "sabusutichuushon",
+    "code": "cr-kata3-494",
+    "index": 494
+  },
+  {
+    "surface": "ソヴィェツク",
+    "reading": "sovietsuku",
+    "code": "cr-kata3-495",
+    "index": 495
+  },
+  {
+    "surface": "スペル",
+    "reading": "spell",
+    "code": "cr-kata3-496",
+    "index": 496
+  },
+  {
+    "surface": "スッポンタケ",
+    "reading": "suppontake",
+    "code": "cr-kata3-497",
+    "index": 497
+  },
+  {
+    "surface": "スクリーンキャプチャー",
+    "reading": "screencapture",
+    "code": "cr-kata3-498",
+    "index": 498
+  },
+  {
+    "surface": "ジョギングシューズ",
+    "reading": "joggingshoes",
+    "code": "cr-kata3-499",
+    "index": 499
+  },
+  {
+    "surface": "スカイダイバー",
+    "reading": "skydiver",
+    "code": "cr-kata3-500",
+    "index": 500
+  },
+  {
+    "surface": "ソーラーコレクター",
+    "reading": "solarcollector",
+    "code": "cr-kata3-501",
+    "index": 501
+  },
+  {
+    "surface": "スタチック",
+    "reading": "sutatic",
+    "code": "cr-kata3-502",
+    "index": 502
+  },
+  {
+    "surface": "サスカチュワン",
+    "reading": "sasukachuwan",
+    "code": "cr-kata3-503",
+    "index": 503
+  },
+  {
+    "surface": "シュトゥットガルト",
+    "reading": "stuttgart",
+    "code": "cr-kata3-504",
+    "index": 504
+  },
+  {
+    "surface": "シリコーン",
+    "reading": "silicone",
+    "code": "cr-kata3-505",
+    "index": 505
+  },
+  {
+    "surface": "サンポウカン",
+    "reading": "sanpoukan",
+    "code": "cr-kata3-506",
+    "index": 506
+  },
+  {
+    "surface": "シングルプレーヤー",
+    "reading": "singleplayer",
+    "code": "cr-kata3-507",
+    "index": 507
+  },
+  {
+    "surface": "スポーツキャスター",
+    "reading": "sportcaster",
+    "code": "cr-kata3-508",
+    "index": 508
+  },
+  {
+    "surface": "センターオブエクセレンス",
+    "reading": "centerofexcellence",
+    "code": "cr-kata3-509",
+    "index": 509
+  },
+  {
+    "surface": "シミエンジャッカル",
+    "reading": "shimienjakkaru",
+    "code": "cr-kata3-510",
+    "index": 510
+  },
+  {
+    "surface": "スローダウン",
+    "reading": "slowdown",
+    "code": "cr-kata3-511",
+    "index": 511
+  },
+  {
+    "surface": "セクター",
+    "reading": "sector",
+    "code": "cr-kata3-512",
+    "index": 512
+  },
+  {
+    "surface": "シーズ",
+    "reading": "sea",
+    "code": "cr-kata3-513",
+    "index": 513
+  },
+  {
+    "surface": "シェルビー",
+    "reading": "chezruby",
+    "code": "cr-kata3-514",
+    "index": 514
+  },
+  {
+    "surface": "セントラル・ポイント",
+    "reading": "centralpoint",
+    "code": "cr-kata3-515",
+    "index": 515
+  },
+  {
+    "surface": "サーモン",
+    "reading": "salmon",
+    "code": "cr-kata3-516",
+    "index": 516
+  },
+  {
+    "surface": "シュノーケリング",
+    "reading": "snorkeling",
+    "code": "cr-kata3-517",
+    "index": 517
+  },
+  {
+    "surface": "サポーター",
+    "reading": "supporter",
+    "code": "cr-kata3-518",
+    "index": 518
+  },
+  {
+    "surface": "スキャナ",
+    "reading": "scanner",
+    "code": "cr-kata3-519",
+    "index": 519
+  },
+  {
+    "surface": "スターティングメンバー",
+    "reading": "startingmember",
+    "code": "cr-kata3-520",
+    "index": 520
+  },
+  {
+    "surface": "スルファニルアミド",
+    "reading": "sulfanilamide",
+    "code": "cr-kata3-521",
+    "index": 521
+  },
+  {
+    "surface": "サングレ・グランデ",
+    "reading": "sanguregrandet",
+    "code": "cr-kata3-522",
+    "index": 522
+  },
+  {
+    "surface": "シーピーアイ",
+    "reading": "seapeaeye",
+    "code": "cr-kata3-523",
+    "index": 523
+  },
+  {
+    "surface": "ジンジャーエール",
+    "reading": "gingeryell",
+    "code": "cr-kata3-524",
+    "index": 524
+  },
+  {
+    "surface": "ジアスターゼ",
+    "reading": "diastase",
+    "code": "cr-kata3-525",
+    "index": 525
+  },
+  {
+    "surface": "サージャント",
+    "reading": "sargent",
+    "code": "cr-kata3-526",
+    "index": 526
+  },
+  {
+    "surface": "ソーサームサーイ",
+    "reading": "soosaamusaai",
+    "code": "cr-kata3-527",
+    "index": 527
+  },
+  {
+    "surface": "サイエンスフィクション",
+    "reading": "sciencefiction",
+    "code": "cr-kata3-528",
+    "index": 528
+  },
+  {
+    "surface": "サドルシューズ",
+    "reading": "saddleshoes",
+    "code": "cr-kata3-529",
+    "index": 529
+  },
+  {
+    "surface": "ジットラ",
+    "reading": "jittora",
+    "code": "cr-kata3-530",
+    "index": 530
+  },
+  {
+    "surface": "ジレッタント",
+    "reading": "dilettante",
+    "code": "cr-kata3-531",
+    "index": 531
+  },
+  {
+    "surface": "サイレントインフェクション",
+    "reading": "sairentoinfekushon",
+    "code": "cr-kata3-532",
+    "index": 532
+  },
+  {
+    "surface": "サプライズ",
+    "reading": "surprise",
+    "code": "cr-kata3-533",
+    "index": 533
+  },
+  {
+    "surface": "シノブ",
+    "reading": "shiknob",
+    "code": "cr-kata3-534",
+    "index": 534
+  },
+  {
+    "surface": "サンクスギビングデー",
+    "reading": "thanksgivingday",
+    "code": "cr-kata3-535",
+    "index": 535
+  },
+  {
+    "surface": "シャープノーズパファー",
+    "reading": "sharpnoozupafaa",
+    "code": "cr-kata3-536",
+    "index": 536
+  },
+  {
+    "surface": "ストマック",
+    "reading": "sutomakku",
+    "code": "cr-kata3-537",
+    "index": 537
+  },
+  {
+    "surface": "ゼロハン",
+    "reading": "zerohan",
+    "code": "cr-kata3-538",
+    "index": 538
+  },
+  {
+    "surface": "ストーンウォッシュ",
+    "reading": "stonewashed",
+    "code": "cr-kata3-539",
+    "index": 539
+  },
+  {
+    "surface": "サファリジャケット",
+    "reading": "safarijacket",
+    "code": "cr-kata3-540",
+    "index": 540
+  },
+  {
+    "surface": "ストラクチャー",
+    "reading": "structure",
+    "code": "cr-kata3-541",
+    "index": 541
+  },
+  {
+    "surface": "シダ",
+    "reading": "shida",
+    "code": "cr-kata3-542",
+    "index": 542
+  },
+  {
+    "surface": "ジェットストリーム",
+    "reading": "jetsutoriimu",
+    "code": "cr-kata3-543",
+    "index": 543
+  },
+  {
+    "surface": "スプリットランテスト",
+    "reading": "splitruntest",
+    "code": "cr-kata3-544",
+    "index": 544
+  },
+  {
+    "surface": "ジャカード",
+    "reading": "jacquard",
+    "code": "cr-kata3-545",
+    "index": 545
+  },
+  {
+    "surface": "シモン",
+    "reading": "simon",
+    "code": "cr-kata3-546",
+    "index": 546
+  },
+  {
+    "surface": "サズ",
+    "reading": "sazu",
+    "code": "cr-kata3-547",
+    "index": 547
+  },
+  {
+    "surface": "ジョン",
+    "reading": "john",
+    "code": "cr-kata3-548",
+    "index": 548
+  },
+  {
+    "surface": "ジャテツ",
+    "reading": "jatetsu",
+    "code": "cr-kata3-549",
+    "index": 549
+  },
+  {
+    "surface": "シリコン",
+    "reading": "silicon",
+    "code": "cr-kata3-550",
+    "index": 550
+  },
+  {
+    "surface": "シマヘビ",
+    "reading": "shimahebi",
+    "code": "cr-kata3-551",
+    "index": 551
+  },
+  {
+    "surface": "ストリング",
+    "reading": "string",
+    "code": "cr-kata3-552",
+    "index": 552
+  },
+  {
+    "surface": "サスケネ",
+    "reading": "sasukene",
+    "code": "cr-kata3-553",
+    "index": 553
+  },
+  {
+    "surface": "セグメンテーション",
+    "reading": "segmentation",
+    "code": "cr-kata3-554",
+    "index": 554
+  },
+  {
+    "surface": "シャフリサブス",
+    "reading": "shafurisabusu",
+    "code": "cr-kata3-555",
+    "index": 555
+  },
+  {
+    "surface": "サルバドール",
+    "reading": "sarubadooru",
+    "code": "cr-kata3-556",
+    "index": 556
+  },
+  {
+    "surface": "サステイニングプログラム",
+    "reading": "sasuteiningupuroguramu",
+    "code": "cr-kata3-557",
+    "index": 557
+  },
+  {
+    "surface": "ズウォチ",
+    "reading": "zloty",
+    "code": "cr-kata3-558",
+    "index": 558
+  },
+  {
+    "surface": "シム",
+    "reading": "shimu",
+    "code": "cr-kata3-559",
+    "index": 559
+  },
+  {
+    "surface": "サルセド",
+    "reading": "sarusedo",
+    "code": "cr-kata3-560",
+    "index": 560
+  },
+  {
+    "surface": "シウダーグアヤナ",
+    "reading": "shiudaaguayana",
+    "code": "cr-kata3-561",
+    "index": 561
+  },
+  {
+    "surface": "スパム",
+    "reading": "spam",
+    "code": "cr-kata3-562",
+    "index": 562
+  },
+  {
+    "surface": "スティープルチェイス",
+    "reading": "steeplechase",
+    "code": "cr-kata3-563",
+    "index": 563
+  },
+  {
+    "surface": "ソフィア",
+    "reading": "sophia",
+    "code": "cr-kata3-564",
+    "index": 564
+  },
+  {
+    "surface": "ステガノグラフィー",
+    "reading": "suteganogurafii",
+    "code": "cr-kata3-565",
+    "index": 565
+  },
+  {
+    "surface": "シリーズ",
+    "reading": "series",
+    "code": "cr-kata3-566",
+    "index": 566
+  },
+  {
+    "surface": "ジス",
+    "reading": "jisu",
+    "code": "cr-kata3-567",
+    "index": 567
+  },
+  {
+    "surface": "ストーン",
+    "reading": "stone",
+    "code": "cr-kata3-568",
+    "index": 568
+  },
+  {
+    "surface": "ズレ",
+    "reading": "zure",
+    "code": "cr-kata3-569",
+    "index": 569
+  },
+  {
+    "surface": "セリア",
+    "reading": "seria",
+    "code": "cr-kata3-570",
+    "index": 570
+  },
+  {
+    "surface": "スタートアップディスク",
+    "reading": "startupdisc",
+    "code": "cr-kata3-571",
+    "index": 571
+  },
+  {
+    "surface": "ステンレススチール",
+    "reading": "stainlesssteel",
+    "code": "cr-kata3-572",
+    "index": 572
+  },
+  {
+    "surface": "ゼリーノ",
+    "reading": "jellyno",
+    "code": "cr-kata3-573",
+    "index": 573
+  },
+  {
+    "surface": "サンチ",
+    "reading": "sanchi",
+    "code": "cr-kata3-574",
+    "index": 574
+  },
+  {
+    "surface": "シングルアイティーハブ",
+    "reading": "singleaitiihave",
+    "code": "cr-kata3-575",
+    "index": 575
+  },
+  {
+    "surface": "サルファダイアジン",
+    "reading": "sulfadiazine",
+    "code": "cr-kata3-576",
+    "index": 576
+  },
+  {
+    "surface": "ジオメトリ",
+    "reading": "geometry",
+    "code": "cr-kata3-577",
+    "index": 577
+  },
+  {
+    "surface": "ジェイ・アール",
+    "reading": "jayart",
+    "code": "cr-kata3-578",
+    "index": 578
+  },
+  {
+    "surface": "シュヴァルムシュタット",
+    "reading": "shuvarumushutatto",
+    "code": "cr-kata3-579",
+    "index": 579
+  },
+  {
+    "surface": "サブチャンネル",
+    "reading": "subchannel",
+    "code": "cr-kata3-580",
+    "index": 580
+  },
+  {
+    "surface": "シュンギク",
+    "reading": "shungiku",
+    "code": "cr-kata3-581",
+    "index": 581
+  },
+  {
+    "surface": "セーリング",
+    "reading": "sailing",
+    "code": "cr-kata3-582",
+    "index": 582
+  },
+  {
+    "surface": "セメンタイト",
+    "reading": "cementite",
+    "code": "cr-kata3-583",
+    "index": 583
+  },
+  {
+    "surface": "スラップスティック",
+    "reading": "slapstick",
+    "code": "cr-kata3-584",
+    "index": 584
+  },
+  {
+    "surface": "ソマトトロピン",
+    "reading": "somatotropin",
+    "code": "cr-kata3-585",
+    "index": 585
+  },
+  {
+    "surface": "スクリメージ",
+    "reading": "scrimage",
+    "code": "cr-kata3-586",
+    "index": 586
+  },
+  {
+    "surface": "スカリフィケーション",
+    "reading": "sukarifikeeshon",
+    "code": "cr-kata3-587",
+    "index": 587
+  },
+  {
+    "surface": "スフム",
+    "reading": "staplefibremu",
+    "code": "cr-kata3-588",
+    "index": 588
+  },
+  {
+    "surface": "サンペドロデフフイ",
+    "reading": "sanpedorodefufui",
+    "code": "cr-kata3-589",
+    "index": 589
+  },
+  {
+    "surface": "サン・フェルナンド",
+    "reading": "sunferunando",
+    "code": "cr-kata3-590",
+    "index": 590
+  },
+  {
+    "surface": "ジャックオーランタン",
+    "reading": "jakkuoorantan",
+    "code": "cr-kata3-591",
+    "index": 591
+  },
+  {
+    "surface": "サンクトペテルブルク",
+    "reading": "sankutopeteruburuku",
+    "code": "cr-kata3-592",
+    "index": 592
+  },
+  {
+    "surface": "セコイ",
+    "reading": "sekoi",
+    "code": "cr-kata3-593",
+    "index": 593
+  },
+  {
+    "surface": "センダイハギ",
+    "reading": "sendaihagi",
+    "code": "cr-kata3-594",
+    "index": 594
+  },
+  {
+    "surface": "ゼミ",
+    "reading": "seminar",
+    "code": "cr-kata3-595",
+    "index": 595
+  },
+  {
+    "surface": "ソイソース",
+    "reading": "soisauce",
+    "code": "cr-kata3-596",
+    "index": 596
+  },
+  {
+    "surface": "サイレントマジョリティー",
+    "reading": "silentmajority",
+    "code": "cr-kata3-597",
+    "index": 597
+  },
+  {
+    "surface": "サフランボル",
+    "reading": "safranbolu",
+    "code": "cr-kata3-598",
+    "index": 598
+  },
+  {
+    "surface": "ショートサーキット",
+    "reading": "shortcircuit",
+    "code": "cr-kata3-599",
+    "index": 599
+  },
+  {
+    "surface": "スラブチッチ",
+    "reading": "surabuchitchi",
+    "code": "cr-kata3-600",
+    "index": 600
+  },
+  {
+    "surface": "スリースポットグラミー",
+    "reading": "suriisupottoguramii",
+    "code": "cr-kata3-601",
+    "index": 601
+  },
+  {
+    "surface": "シージー",
+    "reading": "seajii",
+    "code": "cr-kata3-602",
+    "index": 602
+  },
+  {
+    "surface": "スナッフ",
+    "reading": "snuff",
+    "code": "cr-kata3-603",
+    "index": 603
+  },
+  {
+    "surface": "ジョブスケジューラ",
+    "reading": "jobusukejuura",
+    "code": "cr-kata3-604",
+    "index": 604
+  },
+  {
+    "surface": "セルフコントロール",
+    "reading": "selfcontrol",
+    "code": "cr-kata3-605",
+    "index": 605
+  },
+  {
+    "surface": "ソーシャル・ワーカー",
+    "reading": "socialworker",
+    "code": "cr-kata3-606",
+    "index": 606
+  },
+  {
+    "surface": "セスト・サン・ジョヴァンニ",
+    "reading": "sesutosanjovanni",
+    "code": "cr-kata3-607",
+    "index": 607
+  },
+  {
+    "surface": "サプリメント",
+    "reading": "supplement",
+    "code": "cr-kata3-608",
+    "index": 608
+  },
+  {
+    "surface": "センスンテペケ",
+    "reading": "sensuntepeke",
+    "code": "cr-kata3-609",
+    "index": 609
+  },
+  {
+    "surface": "セーワン・シャリフ",
+    "reading": "seeonesharifu",
+    "code": "cr-kata3-610",
+    "index": 610
+  },
+  {
+    "surface": "シェレフテオ",
+    "reading": "sherefuteo",
+    "code": "cr-kata3-611",
+    "index": 611
+  },
+  {
+    "surface": "スラック",
+    "reading": "slack",
+    "code": "cr-kata3-612",
+    "index": 612
+  },
+  {
+    "surface": "ジェイド",
+    "reading": "jeido",
+    "code": "cr-kata3-613",
+    "index": 613
+  },
+  {
+    "surface": "ショッピングカート",
+    "reading": "shoppingcart",
+    "code": "cr-kata3-614",
+    "index": 614
+  },
+  {
+    "surface": "シンクタンク",
+    "reading": "thinktank",
+    "code": "cr-kata3-615",
+    "index": 615
+  },
+  {
+    "surface": "ジスマーク",
+    "reading": "jisumark",
+    "code": "cr-kata3-616",
+    "index": 616
+  },
+  {
+    "surface": "サニタリー",
+    "reading": "sanitary",
+    "code": "cr-kata3-617",
+    "index": 617
+  },
+  {
+    "surface": "シュムペルク",
+    "reading": "shumuperuku",
+    "code": "cr-kata3-618",
+    "index": 618
+  },
+  {
+    "surface": "シンガ",
+    "reading": "singha",
+    "code": "cr-kata3-619",
+    "index": 619
+  },
+  {
+    "surface": "サスペンデッドゲーム",
+    "reading": "suspendedgame",
+    "code": "cr-kata3-620",
+    "index": 620
+  },
+  {
+    "surface": "ジブ",
+    "reading": "jib",
+    "code": "cr-kata3-621",
+    "index": 621
+  },
+  {
+    "surface": "セロリ",
+    "reading": "celery",
+    "code": "cr-kata3-622",
+    "index": 622
+  },
+  {
+    "surface": "サブサハラアフリカ",
+    "reading": "sabusaharaafurika",
+    "code": "cr-kata3-623",
+    "index": 623
+  },
+  {
+    "surface": "サムネ",
+    "reading": "samne",
+    "code": "cr-kata3-624",
+    "index": 624
+  },
+  {
+    "surface": "シワ",
+    "reading": "shiwa",
+    "code": "cr-kata3-625",
+    "index": 625
+  },
+  {
+    "surface": "シエゴ・デ・アビラ",
+    "reading": "shiegodeabira",
+    "code": "cr-kata3-626",
+    "index": 626
+  },
+  {
+    "surface": "ジェットフォイル",
+    "reading": "jetfoil",
+    "code": "cr-kata3-627",
+    "index": 627
+  },
+  {
+    "surface": "シマ",
+    "reading": "shima",
+    "code": "cr-kata3-628",
+    "index": 628
+  },
+  {
+    "surface": "ソケット",
+    "reading": "socket",
+    "code": "cr-kata3-629",
+    "index": 629
+  },
+  {
+    "surface": "スダチ",
+    "reading": "sudachi",
+    "code": "cr-kata3-630",
+    "index": 630
+  },
+  {
+    "surface": "ショッピングバッグ",
+    "reading": "shoppingbag",
+    "code": "cr-kata3-631",
+    "index": 631
+  },
+  {
+    "surface": "ジャイアントホッグフィッシュ",
+    "reading": "jaiantohoggufisshu",
+    "code": "cr-kata3-632",
+    "index": 632
+  },
+  {
+    "surface": "シメジ",
+    "reading": "shimeji",
+    "code": "cr-kata3-633",
+    "index": 633
+  },
+  {
+    "surface": "ジャーマン",
+    "reading": "german",
+    "code": "cr-kata3-634",
+    "index": 634
+  },
+  {
+    "surface": "セッツェ",
+    "reading": "sets",
+    "code": "cr-kata3-635",
+    "index": 635
+  },
+  {
+    "surface": "ジンゲル",
+    "reading": "singer",
+    "code": "cr-kata3-636",
+    "index": 636
+  },
+  {
+    "surface": "サークル",
+    "reading": "circle",
+    "code": "cr-kata3-637",
+    "index": 637
+  },
+  {
+    "surface": "ジアン",
+    "reading": "jian",
+    "code": "cr-kata3-638",
+    "index": 638
+  },
+  {
+    "surface": "シリトゲオオトカゲ",
+    "reading": "shiritogeootokage",
+    "code": "cr-kata3-639",
+    "index": 639
+  },
+  {
+    "surface": "ストロンチウム",
+    "reading": "strontium",
+    "code": "cr-kata3-640",
+    "index": 640
+  },
+  {
+    "surface": "サンフスト",
+    "reading": "sunfust",
+    "code": "cr-kata3-641",
+    "index": 641
+  },
+  {
+    "surface": "ジュグー",
+    "reading": "jegood",
+    "code": "cr-kata3-642",
+    "index": 642
+  },
+  {
+    "surface": "サント・アドリアー・ダ・バゾス",
+    "reading": "sainteadoriaadabazosu",
+    "code": "cr-kata3-643",
+    "index": 643
+  },
+  {
+    "surface": "ジャックオランタン",
+    "reading": "jakkuorantan",
+    "code": "cr-kata3-644",
+    "index": 644
+  },
+  {
+    "surface": "ストレイン",
+    "reading": "strain",
+    "code": "cr-kata3-645",
+    "index": 645
+  },
+  {
+    "surface": "スクリュードライバー",
+    "reading": "screwdriver",
+    "code": "cr-kata3-646",
+    "index": 646
+  },
+  {
+    "surface": "スヴャトシン",
+    "reading": "suvyatoshin",
+    "code": "cr-kata3-647",
+    "index": 647
+  },
+  {
+    "surface": "スルファグアニジン",
+    "reading": "sulfaguanidine",
+    "code": "cr-kata3-648",
+    "index": 648
+  },
+  {
+    "surface": "ズドン",
+    "reading": "zudon",
+    "code": "cr-kata3-649",
+    "index": 649
+  },
+  {
+    "surface": "セクシュアル・ハラスメント",
+    "reading": "sexualharassment",
+    "code": "cr-kata3-650",
+    "index": 650
+  },
+  {
+    "surface": "サンアントニオオエステ",
+    "reading": "sanantoniooestation",
+    "code": "cr-kata3-651",
+    "index": 651
+  },
+  {
+    "surface": "スリー",
+    "reading": "three",
+    "code": "cr-kata3-652",
+    "index": 652
+  },
+  {
+    "surface": "セルフチェッキング",
+    "reading": "serufuchekkingu",
+    "code": "cr-kata3-653",
+    "index": 653
+  },
+  {
+    "surface": "サマリー",
+    "reading": "summary",
+    "code": "cr-kata3-654",
+    "index": 654
+  },
+  {
+    "surface": "セコイヤ",
+    "reading": "sequoia",
+    "code": "cr-kata3-655",
+    "index": 655
+  },
+  {
+    "surface": "サッサリ",
+    "reading": "sassari",
+    "code": "cr-kata3-656",
+    "index": 656
+  },
+  {
+    "surface": "サンド",
+    "reading": "sandwich",
+    "code": "cr-kata3-657",
+    "index": 657
+  },
+  {
+    "surface": "シーディーエムエー",
+    "reading": "shiidiiemuee",
+    "code": "cr-kata3-658",
+    "index": 658
+  },
+  {
+    "surface": "シンセサイザ",
+    "reading": "synthesizer",
+    "code": "cr-kata3-659",
+    "index": 659
+  },
+  {
+    "surface": "サルバレオン・デ・イグエイ",
+    "reading": "sarubareondeiguei",
+    "code": "cr-kata3-660",
+    "index": 660
+  },
+  {
+    "surface": "スミレ",
+    "reading": "sumire",
+    "code": "cr-kata3-661",
+    "index": 661
+  },
+  {
+    "surface": "ジャヤプラ",
+    "reading": "jayapura",
+    "code": "cr-kata3-662",
+    "index": 662
+  },
+  {
+    "surface": "シャルルロワ",
+    "reading": "sharururowa",
+    "code": "cr-kata3-663",
+    "index": 663
+  },
+  {
+    "surface": "ジローナ",
+    "reading": "jiroona",
+    "code": "cr-kata3-664",
+    "index": 664
+  },
+  {
+    "surface": "シンセサイザー",
+    "reading": "synthesizer",
+    "code": "cr-kata3-665",
+    "index": 665
+  },
+  {
+    "surface": "セージ",
+    "reading": "sage",
+    "code": "cr-kata3-666",
+    "index": 666
+  },
+  {
+    "surface": "ストライカー",
+    "reading": "striker",
+    "code": "cr-kata3-667",
+    "index": 667
+  },
+  {
+    "surface": "サン・マロ",
+    "reading": "sunmalot",
+    "code": "cr-kata3-668",
+    "index": 668
+  },
+  {
+    "surface": "ストーリテラー",
+    "reading": "sutooriteraa",
+    "code": "cr-kata3-669",
+    "index": 669
+  },
+  {
+    "surface": "スコットランド",
+    "reading": "scotland",
+    "code": "cr-kata3-670",
+    "index": 670
+  },
+  {
+    "surface": "サンディスプリングス",
+    "reading": "sandisupuringusu",
+    "code": "cr-kata3-671",
+    "index": 671
+  },
+  {
+    "surface": "セキュア",
+    "reading": "sekyua",
+    "code": "cr-kata3-672",
+    "index": 672
+  },
+  {
+    "surface": "スポットアド",
+    "reading": "spotaddress",
+    "code": "cr-kata3-673",
+    "index": 673
+  },
+  {
+    "surface": "スチームヒーター",
+    "reading": "steamheater",
+    "code": "cr-kata3-674",
+    "index": 674
+  },
+  {
+    "surface": "サラセミア",
+    "reading": "thalassemia",
+    "code": "cr-kata3-675",
+    "index": 675
+  },
+  {
+    "surface": "サンチュール",
+    "reading": "ceinture",
+    "code": "cr-kata3-676",
+    "index": 676
+  },
+  {
+    "surface": "ストーカー",
+    "reading": "stalker",
+    "code": "cr-kata3-677",
+    "index": 677
+  },
+  {
+    "surface": "サン・ルイス・ポトシ",
+    "reading": "sunlewispotosi",
+    "code": "cr-kata3-678",
+    "index": 678
+  },
+  {
+    "surface": "スリッカー",
+    "reading": "surikkaa",
+    "code": "cr-kata3-679",
+    "index": 679
+  },
+  {
+    "surface": "シンセレホ",
+    "reading": "shinsereho",
+    "code": "cr-kata3-680",
+    "index": 680
+  },
+  {
+    "surface": "ソフト",
+    "reading": "soft",
+    "code": "cr-kata3-681",
+    "index": 681
+  },
+  {
+    "surface": "シロ",
+    "reading": "shiro",
+    "code": "cr-kata3-682",
+    "index": 682
+  },
+  {
+    "surface": "サンクスギビングデイ",
+    "reading": "thanksgivingday",
+    "code": "cr-kata3-683",
+    "index": 683
+  },
+  {
+    "surface": "シャムロ",
+    "reading": "siamro",
+    "code": "cr-kata3-684",
+    "index": 684
+  },
+  {
+    "surface": "シャッターチャンス",
+    "reading": "shutterchance",
+    "code": "cr-kata3-685",
+    "index": 685
+  },
+  {
+    "surface": "スリップ",
+    "reading": "slip",
+    "code": "cr-kata3-686",
+    "index": 686
+  },
+  {
+    "surface": "サンタナスタジーア",
+    "reading": "santanasutajiia",
+    "code": "cr-kata3-687",
+    "index": 687
+  },
+  {
+    "surface": "サメ",
+    "reading": "same",
+    "code": "cr-kata3-688",
+    "index": 688
+  },
+  {
+    "surface": "セルレートアルゴリズム",
+    "reading": "cellratealgorithm",
+    "code": "cr-kata3-689",
+    "index": 689
+  },
+  {
+    "surface": "サンバヴァ",
+    "reading": "sambava",
+    "code": "cr-kata3-690",
+    "index": 690
+  },
+  {
+    "surface": "サトウヤシ",
+    "reading": "satouyashi",
+    "code": "cr-kata3-691",
+    "index": 691
+  },
+  {
+    "surface": "シス",
+    "reading": "sith",
+    "code": "cr-kata3-692",
+    "index": 692
+  },
+  {
+    "surface": "サギフエ",
+    "reading": "sagihue",
+    "code": "cr-kata3-693",
+    "index": 693
+  },
+  {
+    "surface": "ソフィ",
+    "reading": "sofi",
+    "code": "cr-kata3-694",
+    "index": 694
+  },
+  {
+    "surface": "ジャムセッション",
+    "reading": "jamsession",
+    "code": "cr-kata3-695",
+    "index": 695
+  },
+  {
+    "surface": "サブタイトル",
+    "reading": "subtitle",
+    "code": "cr-kata3-696",
+    "index": 696
+  },
+  {
+    "surface": "ソレ",
+    "reading": "sore",
+    "code": "cr-kata3-697",
+    "index": 697
+  },
+  {
+    "surface": "サッポロシ",
+    "reading": "sapporoshi",
+    "code": "cr-kata3-698",
+    "index": 698
+  },
+  {
+    "surface": "ジャベリン",
+    "reading": "javelin",
+    "code": "cr-kata3-699",
+    "index": 699
+  },
+  {
+    "surface": "ジャイアント・パンダ",
+    "reading": "giantpanda",
+    "code": "cr-kata3-700",
+    "index": 700
+  },
+  {
+    "surface": "センセーショナル",
+    "reading": "sensational",
+    "code": "cr-kata3-701",
+    "index": 701
+  },
+  {
+    "surface": "シュコドラ",
+    "reading": "shukodora",
+    "code": "cr-kata3-702",
+    "index": 702
+  },
+  {
+    "surface": "シビリアン",
+    "reading": "civilian",
+    "code": "cr-kata3-703",
+    "index": 703
+  },
+  {
+    "surface": "サーキットブレーカー",
+    "reading": "circuitbreaker",
+    "code": "cr-kata3-704",
+    "index": 704
+  },
+  {
+    "surface": "ジラ",
+    "reading": "jira",
+    "code": "cr-kata3-705",
+    "index": 705
+  },
+  {
+    "surface": "セルフタイマー",
+    "reading": "selftimer",
+    "code": "cr-kata3-706",
+    "index": 706
+  },
+  {
+    "surface": "セメント",
+    "reading": "cement",
+    "code": "cr-kata3-707",
+    "index": 707
+  },
+  {
+    "surface": "ソサイエティー",
+    "reading": "society",
+    "code": "cr-kata3-708",
+    "index": 708
+  },
+  {
+    "surface": "サバティカル",
+    "reading": "sabbatical",
+    "code": "cr-kata3-709",
+    "index": 709
+  },
+  {
+    "surface": "スコットランドヤード",
+    "reading": "scotlandyard",
+    "code": "cr-kata3-710",
+    "index": 710
+  },
+  {
+    "surface": "サーズディ",
+    "reading": "saazudi",
+    "code": "cr-kata3-711",
+    "index": 711
+  },
+  {
+    "surface": "サウスバーリントン",
+    "reading": "southburlington",
+    "code": "cr-kata3-712",
+    "index": 712
+  },
+  {
+    "surface": "シャーロッツビル",
+    "reading": "shaarottsubiru",
+    "code": "cr-kata3-713",
+    "index": 713
+  },
+  {
+    "surface": "スイミングスクール",
+    "reading": "swimmingschool",
+    "code": "cr-kata3-714",
+    "index": 714
+  },
+  {
+    "surface": "ソシアリスム",
+    "reading": "socialism",
+    "code": "cr-kata3-715",
+    "index": 715
+  },
+  {
+    "surface": "ストロフルス",
+    "reading": "strophulus",
+    "code": "cr-kata3-716",
+    "index": 716
+  },
+  {
+    "surface": "セレブ",
+    "reading": "serebu",
+    "code": "cr-kata3-717",
+    "index": 717
+  },
+  {
+    "surface": "サラブレット",
+    "reading": "thoroughbred",
+    "code": "cr-kata3-718",
+    "index": 718
+  },
+  {
+    "surface": "シロサイ",
+    "reading": "shirosai",
+    "code": "cr-kata3-719",
+    "index": 719
+  },
+  {
+    "surface": "センタ",
+    "reading": "center",
+    "code": "cr-kata3-720",
+    "index": 720
+  },
+  {
+    "surface": "シープラスプラス",
+    "reading": "seaplusplus",
+    "code": "cr-kata3-721",
+    "index": 721
+  },
+  {
+    "surface": "センター",
+    "reading": "center",
+    "code": "cr-kata3-722",
+    "index": 722
+  },
+  {
+    "surface": "シュトラールズント",
+    "reading": "shutoraaruzunto",
+    "code": "cr-kata3-723",
+    "index": 723
+  },
+  {
+    "surface": "セイント・チャールズ",
+    "reading": "saintcharles",
+    "code": "cr-kata3-724",
+    "index": 724
+  },
+  {
+    "surface": "スペシャリスト",
+    "reading": "specialist",
+    "code": "cr-kata3-725",
+    "index": 725
+  },
+  {
+    "surface": "シャリ",
+    "reading": "shari",
+    "code": "cr-kata3-726",
+    "index": 726
+  },
+  {
+    "surface": "シアン",
+    "reading": "cyan",
+    "code": "cr-kata3-727",
+    "index": 727
+  },
+  {
+    "surface": "スズ",
+    "reading": "suzu",
+    "code": "cr-kata3-728",
+    "index": 728
+  },
+  {
+    "surface": "ショーリャヴァンダーン",
+    "reading": "shooryavandaan",
+    "code": "cr-kata3-729",
+    "index": 729
+  },
+  {
+    "surface": "シーエスブイ",
+    "reading": "seaesbuoy",
+    "code": "cr-kata3-730",
+    "index": 730
+  },
+  {
+    "surface": "サテライトオフィス",
+    "reading": "satelliteoffice",
+    "code": "cr-kata3-731",
+    "index": 731
+  },
+  {
+    "surface": "サラ",
+    "reading": "sarah",
+    "code": "cr-kata3-732",
+    "index": 732
+  },
+  {
+    "surface": "ジャン・サダー",
+    "reading": "jeansada",
+    "code": "cr-kata3-733",
+    "index": 733
+  },
+  {
+    "surface": "ソーダファウンテン",
+    "reading": "sodafountain",
+    "code": "cr-kata3-734",
+    "index": 734
+  },
+  {
+    "surface": "ササウシノシタ",
+    "reading": "sasaushinoshita",
+    "code": "cr-kata3-735",
+    "index": 735
+  },
+  {
+    "surface": "ジョーズ",
+    "reading": "jaw",
+    "code": "cr-kata3-736",
+    "index": 736
+  },
+  {
+    "surface": "ステーツマン",
+    "reading": "statesman",
+    "code": "cr-kata3-737",
+    "index": 737
+  },
+  {
+    "surface": "シトラス",
+    "reading": "citrus",
+    "code": "cr-kata3-738",
+    "index": 738
+  },
+  {
+    "surface": "シファーシュタット",
+    "reading": "shifaashutatto",
+    "code": "cr-kata3-739",
+    "index": 739
+  },
+  {
+    "surface": "シーティースキャナー",
+    "reading": "seateascanner",
+    "code": "cr-kata3-740",
+    "index": 740
+  },
+  {
+    "surface": "スタンス",
+    "reading": "stance",
+    "code": "cr-kata3-741",
+    "index": 741
+  },
+  {
+    "surface": "サイアミン",
+    "reading": "thiamine",
+    "code": "cr-kata3-742",
+    "index": 742
+  },
+  {
+    "surface": "スタンプ",
+    "reading": "stamp",
+    "code": "cr-kata3-743",
+    "index": 743
+  },
+  {
+    "surface": "センセーショナリズム",
+    "reading": "sensationalism",
+    "code": "cr-kata3-744",
+    "index": 744
+  },
+  {
+    "surface": "ジッヘル",
+    "reading": "sicherung",
+    "code": "cr-kata3-745",
+    "index": 745
+  },
+  {
+    "surface": "シフィエントフウォヴィツェ",
+    "reading": "shifientofuovitse",
+    "code": "cr-kata3-746",
+    "index": 746
+  },
+  {
+    "surface": "ジェオデシック",
+    "reading": "jeodeshikku",
+    "code": "cr-kata3-747",
+    "index": 747
+  },
+  {
+    "surface": "ズル",
+    "reading": "zuru",
+    "code": "cr-kata3-748",
+    "index": 748
+  },
+  {
+    "surface": "ステアプシン",
+    "reading": "suteapushin",
+    "code": "cr-kata3-749",
+    "index": 749
+  },
+  {
+    "surface": "ジャンスキー",
+    "reading": "jansukii",
+    "code": "cr-kata3-750",
+    "index": 750
+  },
+  {
+    "surface": "サクサク",
+    "reading": "sakusaku",
+    "code": "cr-kata3-751",
+    "index": 751
+  },
+  {
+    "surface": "サクラエビ",
+    "reading": "sakuraebi",
+    "code": "cr-kata3-752",
+    "index": 752
+  },
+  {
+    "surface": "サビイロオオトカゲ",
+    "reading": "sabiiroootokage",
+    "code": "cr-kata3-753",
+    "index": 753
+  },
+  {
+    "surface": "ジェットコースター",
+    "reading": "jetcoaster",
+    "code": "cr-kata3-754",
+    "index": 754
+  },
+  {
+    "surface": "シャンパン",
+    "reading": "champagne",
+    "code": "cr-kata3-755",
+    "index": 755
+  },
+  {
+    "surface": "スポット",
+    "reading": "spot",
+    "code": "cr-kata3-756",
+    "index": 756
+  },
+  {
+    "surface": "ショートリリーフ",
+    "reading": "shortrelief",
+    "code": "cr-kata3-757",
+    "index": 757
+  },
+  {
+    "surface": "ゼネラル",
+    "reading": "general",
+    "code": "cr-kata3-758",
+    "index": 758
+  },
+  {
+    "surface": "ザック",
+    "reading": "zakku",
+    "code": "cr-kata3-759",
+    "index": 759
+  },
+  {
+    "surface": "ストラスブール",
+    "reading": "strasbourg",
+    "code": "cr-kata3-760",
+    "index": 760
+  },
+  {
+    "surface": "スニッファ",
+    "reading": "suniffa",
+    "code": "cr-kata3-761",
+    "index": 761
+  },
+  {
+    "surface": "ジョージ",
+    "reading": "george",
+    "code": "cr-kata3-762",
+    "index": 762
+  },
+  {
+    "surface": "セラミド",
+    "reading": "ceramide",
+    "code": "cr-kata3-763",
+    "index": 763
+  },
+  {
+    "surface": "シナノキ",
+    "reading": "shinanoki",
+    "code": "cr-kata3-764",
+    "index": 764
+  },
+  {
+    "surface": "サウスヘイブン",
+    "reading": "southhaven",
+    "code": "cr-kata3-765",
+    "index": 765
+  },
+  {
+    "surface": "スリーヴ",
+    "reading": "sleeve",
+    "code": "cr-kata3-766",
+    "index": 766
+  },
+  {
+    "surface": "シエール",
+    "reading": "shiyell",
+    "code": "cr-kata3-767",
+    "index": 767
+  },
+  {
+    "surface": "サスティーン",
+    "reading": "suspensionteen",
+    "code": "cr-kata3-768",
+    "index": 768
+  },
+  {
+    "surface": "スモールアイラビットフィッシュ",
+    "reading": "smalleyerabbitfish",
+    "code": "cr-kata3-769",
+    "index": 769
+  },
+  {
+    "surface": "センターリング",
+    "reading": "centerring",
+    "code": "cr-kata3-770",
+    "index": 770
+  },
+  {
+    "surface": "シビヤ",
+    "reading": "shibiya",
+    "code": "cr-kata3-771",
+    "index": 771
+  },
+  {
+    "surface": "スナッチ",
+    "reading": "snatch",
+    "code": "cr-kata3-772",
+    "index": 772
+  },
+  {
+    "surface": "シュリーナガル",
+    "reading": "shuriinagaru",
+    "code": "cr-kata3-773",
+    "index": 773
+  },
+  {
+    "surface": "ジョルィ",
+    "reading": "joru",
+    "code": "cr-kata3-774",
+    "index": 774
+  },
+  {
+    "surface": "ソーサー",
+    "reading": "saucer",
+    "code": "cr-kata3-775",
+    "index": 775
+  },
+  {
+    "surface": "スペクター",
+    "reading": "spector",
+    "code": "cr-kata3-776",
+    "index": 776
+  },
+  {
+    "surface": "スプリングフィールド",
+    "reading": "springfield",
+    "code": "cr-kata3-777",
+    "index": 777
+  },
+  {
+    "surface": "ジュイス・デ・フォーラ",
+    "reading": "juisudefoora",
+    "code": "cr-kata3-778",
+    "index": 778
+  },
+  {
+    "surface": "サカテコルカ",
+    "reading": "sakatekoruka",
+    "code": "cr-kata3-779",
+    "index": 779
+  },
+  {
+    "surface": "ジハード",
+    "reading": "jihad",
+    "code": "cr-kata3-780",
+    "index": 780
+  },
+  {
+    "surface": "サンホセデジャチャル",
+    "reading": "sanhosedejacharu",
+    "code": "cr-kata3-781",
+    "index": 781
+  },
+  {
+    "surface": "ショーロ",
+    "reading": "choro",
+    "code": "cr-kata3-782",
+    "index": 782
+  },
+  {
+    "surface": "スリア",
+    "reading": "suria",
+    "code": "cr-kata3-783",
+    "index": 783
+  },
+  {
+    "surface": "スモッキング",
+    "reading": "smocking",
+    "code": "cr-kata3-784",
+    "index": 784
+  },
+  {
+    "surface": "サブウーファ",
+    "reading": "sabuuufa",
+    "code": "cr-kata3-785",
+    "index": 785
+  },
+  {
+    "surface": "ザモシチ",
+    "reading": "zamoshichi",
+    "code": "cr-kata3-786",
+    "index": 786
+  },
+  {
+    "surface": "スコアリングポジション",
+    "reading": "scoringposition",
+    "code": "cr-kata3-787",
+    "index": 787
+  },
+  {
+    "surface": "サヨーナラ",
+    "reading": "sayoonara",
+    "code": "cr-kata3-788",
+    "index": 788
+  },
+  {
+    "surface": "ステレオフォニック",
+    "reading": "sutereofonikku",
+    "code": "cr-kata3-789",
+    "index": 789
+  },
+  {
+    "surface": "シルフ",
+    "reading": "shylph",
+    "code": "cr-kata3-790",
+    "index": 790
+  },
+  {
+    "surface": "スコッチウィスキー",
+    "reading": "scotchwhisky",
+    "code": "cr-kata3-791",
+    "index": 791
+  },
+  {
+    "surface": "ジェイエムティーアール",
+    "reading": "jeiemutiiaaru",
+    "code": "cr-kata3-792",
+    "index": 792
+  },
+  {
+    "surface": "サソリ",
+    "reading": "sasori",
+    "code": "cr-kata3-793",
+    "index": 793
+  },
+  {
+    "surface": "スヴェルドロフスク",
+    "reading": "sverdlovsk",
+    "code": "cr-kata3-794",
+    "index": 794
+  },
+  {
+    "surface": "スポットキャンペーン",
+    "reading": "spotcampaign",
+    "code": "cr-kata3-795",
+    "index": 795
+  },
+  {
+    "surface": "セコハン",
+    "reading": "secondhand",
+    "code": "cr-kata3-796",
+    "index": 796
+  },
+  {
+    "surface": "スラヴォンスキ・ブロド",
+    "reading": "suravonsukiburodo",
+    "code": "cr-kata3-797",
+    "index": 797
+  },
+  {
+    "surface": "ズレニャニン",
+    "reading": "zurenyanin",
+    "code": "cr-kata3-798",
+    "index": 798
+  },
+  {
+    "surface": "サブスティチュート",
+    "reading": "sabusutichuuto",
+    "code": "cr-kata3-799",
+    "index": 799
+  },
+  {
+    "surface": "セルフサービス",
+    "reading": "serufusaabisu",
+    "code": "cr-kata3-800",
+    "index": 800
+  },
+  {
+    "surface": "ソフトランディング",
+    "reading": "softlanding",
+    "code": "cr-kata3-801",
+    "index": 801
+  },
+  {
+    "surface": "シャソン",
+    "reading": "shason",
+    "code": "cr-kata3-802",
+    "index": 802
+  },
+  {
+    "surface": "セクシュアリティー",
+    "reading": "sexuality",
+    "code": "cr-kata3-803",
+    "index": 803
+  },
+  {
+    "surface": "ストリップミル",
+    "reading": "stripmill",
+    "code": "cr-kata3-804",
+    "index": 804
+  },
+  {
+    "surface": "サッカラーゼ",
+    "reading": "saccharase",
+    "code": "cr-kata3-805",
+    "index": 805
+  },
+  {
+    "surface": "サスプロ",
+    "reading": "suspensionpro",
+    "code": "cr-kata3-806",
+    "index": 806
+  },
+  {
+    "surface": "シミー",
+    "reading": "shimi",
+    "code": "cr-kata3-807",
+    "index": 807
+  },
+  {
+    "surface": "ジャスミン",
+    "reading": "jasmine",
+    "code": "cr-kata3-808",
+    "index": 808
+  },
+  {
+    "surface": "シボリキンチャクフグ",
+    "reading": "shiborikinchakufugu",
+    "code": "cr-kata3-809",
+    "index": 809
+  },
+  {
+    "surface": "サルファー",
+    "reading": "sulfa",
+    "code": "cr-kata3-810",
+    "index": 810
+  },
+  {
+    "surface": "シネコン",
+    "reading": "cinemacomplex",
+    "code": "cr-kata3-811",
+    "index": 811
+  },
+  {
+    "surface": "シェイバー",
+    "reading": "shaver",
+    "code": "cr-kata3-812",
+    "index": 812
+  },
+  {
+    "surface": "スギナ",
+    "reading": "sugina",
+    "code": "cr-kata3-813",
+    "index": 813
+  },
+  {
+    "surface": "サンドウェッジ",
+    "reading": "sandwichwedge",
+    "code": "cr-kata3-814",
+    "index": 814
+  },
+  {
+    "surface": "セミオートマチック",
+    "reading": "semiautomatic",
+    "code": "cr-kata3-815",
+    "index": 815
+  },
+  {
+    "surface": "サンパブロ",
+    "reading": "sanpablo",
+    "code": "cr-kata3-816",
+    "index": 816
+  },
+  {
+    "surface": "サラトフ",
+    "reading": "saratov",
+    "code": "cr-kata3-817",
+    "index": 817
+  },
+  {
+    "surface": "スサビノリ",
+    "reading": "susabinori",
+    "code": "cr-kata3-818",
+    "index": 818
+  },
+  {
+    "surface": "ジグ",
+    "reading": "jig",
+    "code": "cr-kata3-819",
+    "index": 819
+  },
+  {
+    "surface": "サイアベンダゾール",
+    "reading": "saiabendazooru",
+    "code": "cr-kata3-820",
+    "index": 820
+  },
+  {
+    "surface": "スパニッシュ・タウン",
+    "reading": "spanishtown",
+    "code": "cr-kata3-821",
+    "index": 821
+  },
+  {
+    "surface": "スキュー",
+    "reading": "sucue",
+    "code": "cr-kata3-822",
+    "index": 822
+  },
+  {
+    "surface": "シロクジャク",
+    "reading": "shirokujaku",
+    "code": "cr-kata3-823",
+    "index": 823
+  },
+  {
+    "surface": "ジオデシックドーム",
+    "reading": "jiodeshikkudoomu",
+    "code": "cr-kata3-824",
+    "index": 824
+  },
+  {
+    "surface": "サイ",
+    "reading": "sai",
+    "code": "cr-kata3-825",
+    "index": 825
+  },
+  {
+    "surface": "サン・フェルナンド・デ・アプーレ",
+    "reading": "sunferunandodesapoulet",
+    "code": "cr-kata3-826",
+    "index": 826
+  },
+  {
+    "surface": "シンシア",
+    "reading": "cynthia",
+    "code": "cr-kata3-827",
+    "index": 827
+  },
+  {
+    "surface": "シニシズム",
+    "reading": "cynicism",
+    "code": "cr-kata3-828",
+    "index": 828
+  },
+  {
+    "surface": "ゾロ",
+    "reading": "zorro",
+    "code": "cr-kata3-829",
+    "index": 829
+  },
+  {
+    "surface": "シダレウメ",
+    "reading": "shidareume",
+    "code": "cr-kata3-830",
+    "index": 830
+  },
+  {
+    "surface": "ザイェチャル",
+    "reading": "zaecharu",
+    "code": "cr-kata3-831",
+    "index": 831
+  },
+  {
+    "surface": "スペイン",
+    "reading": "spain",
+    "code": "cr-kata3-832",
+    "index": 832
+  },
+  {
+    "surface": "シーラカンス",
+    "reading": "coelacanth",
+    "code": "cr-kata3-833",
+    "index": 833
+  },
+  {
+    "surface": "スペーシング",
+    "reading": "spacing",
+    "code": "cr-kata3-834",
+    "index": 834
+  },
+  {
+    "surface": "スタテル",
+    "reading": "sutateru",
+    "code": "cr-kata3-835",
+    "index": 835
+  },
+  {
+    "surface": "ストロベリ",
+    "reading": "sutoroberi",
+    "code": "cr-kata3-836",
+    "index": 836
+  },
+  {
+    "surface": "ゼスイット",
+    "reading": "zesuitto",
+    "code": "cr-kata3-837",
+    "index": 837
+  },
+  {
+    "surface": "サーカス",
+    "reading": "circus",
+    "code": "cr-kata3-838",
+    "index": 838
+  },
+  {
+    "surface": "シムケント",
+    "reading": "shimukento",
+    "code": "cr-kata3-839",
+    "index": 839
+  },
+  {
+    "surface": "サン・ホセ・デル・グアビアレ",
+    "reading": "sunjosederuguabiare",
+    "code": "cr-kata3-840",
+    "index": 840
+  },
+  {
+    "surface": "システムキャレット",
+    "reading": "shisutemukyaretto",
+    "code": "cr-kata3-841",
+    "index": 841
+  },
+  {
+    "surface": "スワガーコート",
+    "reading": "suwagaakooto",
+    "code": "cr-kata3-842",
+    "index": 842
+  },
+  {
+    "surface": "シーラブ",
+    "reading": "sealove",
+    "code": "cr-kata3-843",
+    "index": 843
+  },
+  {
+    "surface": "サーカムスクリプション",
+    "reading": "saakamusukuripushon",
+    "code": "cr-kata3-844",
+    "index": 844
+  },
+  {
+    "surface": "シリア",
+    "reading": "syria",
+    "code": "cr-kata3-845",
+    "index": 845
+  },
+  {
+    "surface": "ジャンピングスティルト",
+    "reading": "janpingusutiruto",
+    "code": "cr-kata3-846",
+    "index": 846
+  },
+  {
+    "surface": "ジフェニル",
+    "reading": "diphenyl",
+    "code": "cr-kata3-847",
+    "index": 847
+  },
+  {
+    "surface": "シャンツァイ",
+    "reading": "shantsai",
+    "code": "cr-kata3-848",
+    "index": 848
+  },
+  {
+    "surface": "ザグアン",
+    "reading": "zaguan",
+    "code": "cr-kata3-849",
+    "index": 849
+  },
+  {
+    "surface": "スキーマ",
+    "reading": "schema",
+    "code": "cr-kata3-850",
+    "index": 850
+  },
+  {
+    "surface": "シヌソイド",
+    "reading": "shinusoido",
+    "code": "cr-kata3-851",
+    "index": 851
+  },
+  {
+    "surface": "ステロイドホルモン",
+    "reading": "steroidhormon",
+    "code": "cr-kata3-852",
+    "index": 852
+  },
+  {
+    "surface": "スタウト",
+    "reading": "stout",
+    "code": "cr-kata3-853",
+    "index": 853
+  },
+  {
+    "surface": "ジシアン",
+    "reading": "dicyan",
+    "code": "cr-kata3-854",
+    "index": 854
+  },
+  {
+    "surface": "サンフォライズ",
+    "reading": "sanforaizu",
+    "code": "cr-kata3-855",
+    "index": 855
+  },
+  {
+    "surface": "ササスズメダイ",
+    "reading": "sasasuzumedai",
+    "code": "cr-kata3-856",
+    "index": 856
+  },
+  {
+    "surface": "シバナ",
+    "reading": "sivana",
+    "code": "cr-kata3-857",
+    "index": 857
+  },
+  {
+    "surface": "セレンディピティー",
+    "reading": "serendipity",
+    "code": "cr-kata3-858",
+    "index": 858
+  },
+  {
+    "surface": "ソリスト",
+    "reading": "soliste",
+    "code": "cr-kata3-859",
+    "index": 859
+  },
+  {
+    "surface": "スペースシップ",
+    "reading": "spaceship",
+    "code": "cr-kata3-860",
+    "index": 860
+  },
+  {
+    "surface": "ジジイ",
+    "reading": "jijii",
+    "code": "cr-kata3-861",
+    "index": 861
+  },
+  {
+    "surface": "スモカー",
+    "reading": "sumoka",
+    "code": "cr-kata3-862",
+    "index": 862
+  },
+  {
+    "surface": "サミット",
+    "reading": "summit",
+    "code": "cr-kata3-863",
+    "index": 863
+  },
+  {
+    "surface": "ストロマトライト",
+    "reading": "stromatolite",
+    "code": "cr-kata3-864",
+    "index": 864
+  },
+  {
+    "surface": "ソウルミュージック",
+    "reading": "sourumusic",
+    "code": "cr-kata3-865",
+    "index": 865
+  },
+  {
+    "surface": "サンティアゴ・デ・ベラグアス",
+    "reading": "santiagodeberaguasu",
+    "code": "cr-kata3-866",
+    "index": 866
+  },
+  {
+    "surface": "ジゴ",
+    "reading": "jigo",
+    "code": "cr-kata3-867",
+    "index": 867
+  },
+  {
+    "surface": "サフィックス",
+    "reading": "suffix",
+    "code": "cr-kata3-868",
+    "index": 868
+  },
+  {
+    "surface": "シーホース",
+    "reading": "seahorse",
+    "code": "cr-kata3-869",
+    "index": 869
+  },
+  {
+    "surface": "スクリーンセーバー",
+    "reading": "screensaver",
+    "code": "cr-kata3-870",
+    "index": 870
+  },
+  {
+    "surface": "ショッピング・センター",
+    "reading": "shoppingcenter",
+    "code": "cr-kata3-871",
+    "index": 871
+  },
+  {
+    "surface": "シャリーア",
+    "reading": "shariah",
+    "code": "cr-kata3-872",
+    "index": 872
+  },
+  {
+    "surface": "シュールレアリスト",
+    "reading": "surrealist",
+    "code": "cr-kata3-873",
+    "index": 873
+  },
+  {
+    "surface": "スポンジ",
+    "reading": "sponge",
+    "code": "cr-kata3-874",
+    "index": 874
+  },
+  {
+    "surface": "シンママ",
+    "reading": "shinmama",
+    "code": "cr-kata3-875",
+    "index": 875
+  },
+  {
+    "surface": "サーヴァント",
+    "reading": "saavanto",
+    "code": "cr-kata3-876",
+    "index": 876
+  },
+  {
+    "surface": "シャドウ",
+    "reading": "shadow",
+    "code": "cr-kata3-877",
+    "index": 877
+  },
+  {
+    "surface": "ザコ",
+    "reading": "zako",
+    "code": "cr-kata3-878",
+    "index": 878
+  },
+  {
+    "surface": "シロカジキ",
+    "reading": "shirokajiki",
+    "code": "cr-kata3-879",
+    "index": 879
+  },
+  {
+    "surface": "スキムミルク",
+    "reading": "skimmilk",
+    "code": "cr-kata3-880",
+    "index": 880
+  },
+  {
+    "surface": "サルナ",
+    "reading": "saruna",
+    "code": "cr-kata3-881",
+    "index": 881
+  },
+  {
+    "surface": "シテ",
+    "reading": "shite",
+    "code": "cr-kata3-882",
+    "index": 882
+  },
+  {
+    "surface": "サプライヤ",
+    "reading": "supplyya",
+    "code": "cr-kata3-883",
+    "index": 883
+  },
+  {
+    "surface": "シエスタ",
+    "reading": "siesta",
+    "code": "cr-kata3-884",
+    "index": 884
+  },
+  {
+    "surface": "スケッチ",
+    "reading": "sketch",
+    "code": "cr-kata3-885",
+    "index": 885
+  },
+  {
+    "surface": "サテライト・スタジオ",
+    "reading": "satellitestudio",
+    "code": "cr-kata3-886",
+    "index": 886
+  },
+  {
+    "surface": "ストン",
+    "reading": "suton",
+    "code": "cr-kata3-887",
+    "index": 887
+  },
+  {
+    "surface": "センコウ",
+    "reading": "senkou",
+    "code": "cr-kata3-888",
+    "index": 888
+  },
+  {
+    "surface": "スーフィー",
+    "reading": "suufii",
+    "code": "cr-kata3-889",
+    "index": 889
+  },
+  {
+    "surface": "スコッター",
+    "reading": "sucotter",
+    "code": "cr-kata3-890",
+    "index": 890
+  },
+  {
+    "surface": "スイープ",
+    "reading": "sweep",
+    "code": "cr-kata3-891",
+    "index": 891
+  },
+  {
+    "surface": "サキ",
+    "reading": "saki",
+    "code": "cr-kata3-892",
+    "index": 892
+  },
+  {
+    "surface": "ストレートパンチ",
+    "reading": "straightpunch",
+    "code": "cr-kata3-893",
+    "index": 893
+  },
+  {
+    "surface": "ソバカス",
+    "reading": "sobakasu",
+    "code": "cr-kata3-894",
+    "index": 894
+  },
+  {
+    "surface": "シェービングクリーム",
+    "reading": "shavingcream",
+    "code": "cr-kata3-895",
+    "index": 895
+  },
+  {
+    "surface": "サブウーハ",
+    "reading": "sabuuuha",
+    "code": "cr-kata3-896",
+    "index": 896
+  },
+  {
+    "surface": "サウスキングスタウン",
+    "reading": "southkingtown",
+    "code": "cr-kata3-897",
+    "index": 897
+  },
+  {
+    "surface": "スタンザ",
+    "reading": "stanza",
+    "code": "cr-kata3-898",
+    "index": 898
+  },
+  {
+    "surface": "スイベル",
+    "reading": "swivel",
+    "code": "cr-kata3-899",
+    "index": 899
+  },
+  {
+    "surface": "スパーラ",
+    "reading": "supaara",
+    "code": "cr-kata3-900",
+    "index": 900
+  },
+  {
+    "surface": "シマフグ",
+    "reading": "shimafugu",
+    "code": "cr-kata3-901",
+    "index": 901
+  },
+  {
+    "surface": "ジャンクディーエヌエー",
+    "reading": "jankudiienuee",
+    "code": "cr-kata3-902",
+    "index": 902
+  },
+  {
+    "surface": "シュプレッヒコール",
+    "reading": "shupurehhikooru",
+    "code": "cr-kata3-903",
+    "index": 903
+  },
+  {
+    "surface": "スパームバンク",
+    "reading": "supaamubanku",
+    "code": "cr-kata3-904",
+    "index": 904
+  },
+  {
+    "surface": "シャイ",
+    "reading": "shy",
+    "code": "cr-kata3-905",
+    "index": 905
+  },
+  {
+    "surface": "スフ",
+    "reading": "staplefibre",
+    "code": "cr-kata3-906",
+    "index": 906
+  },
+  {
+    "surface": "サバサバ",
+    "reading": "sabasaba",
+    "code": "cr-kata3-907",
+    "index": 907
+  },
+  {
+    "surface": "ステーションワゴン",
+    "reading": "stationwagon",
+    "code": "cr-kata3-908",
+    "index": 908
+  },
+  {
+    "surface": "スタジアムジャンパー",
+    "reading": "stadiumjumper",
+    "code": "cr-kata3-909",
+    "index": 909
+  },
+  {
+    "surface": "ソル",
+    "reading": "sol",
+    "code": "cr-kata3-910",
+    "index": 910
+  },
+  {
+    "surface": "ゾウガメ",
+    "reading": "zougame",
+    "code": "cr-kata3-911",
+    "index": 911
+  },
+  {
+    "surface": "スス",
+    "reading": "susu",
+    "code": "cr-kata3-912",
+    "index": 912
+  },
+  {
+    "surface": "ジンテーゼ",
+    "reading": "synthese",
+    "code": "cr-kata3-913",
+    "index": 913
+  },
+  {
+    "surface": "シェパード",
+    "reading": "shepard",
+    "code": "cr-kata3-914",
+    "index": 914
+  },
+  {
+    "surface": "ジョーウチ・ヴォーディ",
+    "reading": "joouchivoodi",
+    "code": "cr-kata3-915",
+    "index": 915
+  },
+  {
+    "surface": "セダン",
+    "reading": "sedan",
+    "code": "cr-kata3-916",
+    "index": 916
+  },
+  {
+    "surface": "スラブ",
+    "reading": "slav",
+    "code": "cr-kata3-917",
+    "index": 917
+  },
+  {
+    "surface": "シマハイイロギツネ",
+    "reading": "shimahaiirogitsune",
+    "code": "cr-kata3-918",
+    "index": 918
+  },
+  {
+    "surface": "ザルツブルク",
+    "reading": "salzburg",
+    "code": "cr-kata3-919",
+    "index": 919
+  },
+  {
+    "surface": "シーエーティーブイインターネット",
+    "reading": "shiieetiibuiintaanetto",
+    "code": "cr-kata3-920",
+    "index": 920
+  },
+  {
+    "surface": "サウジ",
+    "reading": "saudi",
+    "code": "cr-kata3-921",
+    "index": 921
+  },
+  {
+    "surface": "ジパング",
+    "reading": "japan",
+    "code": "cr-kata3-922",
+    "index": 922
+  },
+  {
+    "surface": "ステータスシンボル",
+    "reading": "statussymbol",
+    "code": "cr-kata3-923",
+    "index": 923
+  },
+  {
+    "surface": "シェケル",
+    "reading": "sheqel",
+    "code": "cr-kata3-924",
+    "index": 924
+  },
+  {
+    "surface": "ゾウ",
+    "reading": "zou",
+    "code": "cr-kata3-925",
+    "index": 925
+  },
+  {
+    "surface": "シープ",
+    "reading": "sheep",
+    "code": "cr-kata3-926",
+    "index": 926
+  },
+  {
+    "surface": "サー",
+    "reading": "saa",
+    "code": "cr-kata3-927",
+    "index": 927
+  },
+  {
+    "surface": "ジョブエンラージメント",
+    "reading": "jobuenraajimento",
+    "code": "cr-kata3-928",
+    "index": 928
+  },
+  {
+    "surface": "シカ",
+    "reading": "shika",
+    "code": "cr-kata3-929",
+    "index": 929
+  },
+  {
+    "surface": "ソトイワシ",
+    "reading": "sotoiwashi",
+    "code": "cr-kata3-930",
+    "index": 930
+  },
+  {
+    "surface": "サフィ",
+    "reading": "safu",
+    "code": "cr-kata3-931",
+    "index": 931
+  },
+  {
+    "surface": "ズヴェニゴロド",
+    "reading": "zuvenigorodo",
+    "code": "cr-kata3-932",
+    "index": 932
+  },
+  {
+    "surface": "スターズ",
+    "reading": "star",
+    "code": "cr-kata3-933",
+    "index": 933
+  },
+  {
+    "surface": "スピリチュアリズム",
+    "reading": "spiritualism",
+    "code": "cr-kata3-934",
+    "index": 934
+  },
+  {
+    "surface": "ショック",
+    "reading": "shock",
+    "code": "cr-kata3-935",
+    "index": 935
+  },
+  {
+    "surface": "ザーッ",
+    "reading": "zaa",
+    "code": "cr-kata3-936",
+    "index": 936
+  },
+  {
+    "surface": "ソフト・ランディング",
+    "reading": "softlanding",
+    "code": "cr-kata3-937",
+    "index": 937
+  },
+  {
+    "surface": "サン",
+    "reading": "sun",
+    "code": "cr-kata3-938",
+    "index": 938
+  },
+  {
+    "surface": "サン・アンドゥレス・チョルラ",
+    "reading": "sunanduresuchorura",
+    "code": "cr-kata3-939",
+    "index": 939
+  },
+  {
+    "surface": "スジ",
+    "reading": "suji",
+    "code": "cr-kata3-940",
+    "index": 940
+  },
+  {
+    "surface": "サーキュレーション",
+    "reading": "circulation",
+    "code": "cr-kata3-941",
+    "index": 941
+  },
+  {
+    "surface": "セントラル・アイスリップ",
+    "reading": "centraleyeslip",
+    "code": "cr-kata3-942",
+    "index": 942
+  },
+  {
+    "surface": "スタッコ",
+    "reading": "stucco",
+    "code": "cr-kata3-943",
+    "index": 943
+  },
+  {
+    "surface": "ジャガイモ",
+    "reading": "jagaimo",
+    "code": "cr-kata3-944",
+    "index": 944
+  },
+  {
+    "surface": "サオラ",
+    "reading": "saora",
+    "code": "cr-kata3-945",
+    "index": 945
+  },
+  {
+    "surface": "スキンヘッド",
+    "reading": "skinhead",
+    "code": "cr-kata3-946",
+    "index": 946
+  },
+  {
+    "surface": "セールスプロモーション",
+    "reading": "salespromotion",
+    "code": "cr-kata3-947",
+    "index": 947
+  },
+  {
+    "surface": "スイフトギツネ",
+    "reading": "suifutogitsune",
+    "code": "cr-kata3-948",
+    "index": 948
+  },
+  {
+    "surface": "サンシャインコースト",
+    "reading": "sunshinecoast",
+    "code": "cr-kata3-949",
+    "index": 949
+  },
+  {
+    "surface": "ゼラニウム",
+    "reading": "geranium",
+    "code": "cr-kata3-950",
+    "index": 950
+  },
+  {
+    "surface": "ソップ",
+    "reading": "soup",
+    "code": "cr-kata3-951",
+    "index": 951
+  },
+  {
+    "surface": "スクエアー",
+    "reading": "square",
+    "code": "cr-kata3-952",
+    "index": 952
+  },
+  {
+    "surface": "セイラー",
+    "reading": "seiraa",
+    "code": "cr-kata3-953",
+    "index": 953
+  },
+  {
+    "surface": "サイバースクワッティング",
+    "reading": "saibaasukuwattingu",
+    "code": "cr-kata3-954",
+    "index": 954
+  },
+  {
+    "surface": "ソハール",
+    "reading": "sohar",
+    "code": "cr-kata3-955",
+    "index": 955
+  },
+  {
+    "surface": "ストップモーション",
+    "reading": "stopmotion",
+    "code": "cr-kata3-956",
+    "index": 956
+  },
+  {
+    "surface": "サボ",
+    "reading": "sabo",
+    "code": "cr-kata3-957",
+    "index": 957
+  },
+  {
+    "surface": "シャワーカーテン",
+    "reading": "showercurtain",
+    "code": "cr-kata3-958",
+    "index": 958
+  },
+  {
+    "surface": "シニョン",
+    "reading": "chignon",
+    "code": "cr-kata3-959",
+    "index": 959
+  },
+  {
+    "surface": "スカンポ",
+    "reading": "scampo",
+    "code": "cr-kata3-960",
+    "index": 960
+  },
+  {
+    "surface": "サーティフィケイト",
+    "reading": "saatifikeito",
+    "code": "cr-kata3-961",
+    "index": 961
+  },
+  {
+    "surface": "スミツキトノサマダイ",
+    "reading": "sumitsukitonosamadai",
+    "code": "cr-kata3-962",
+    "index": 962
+  },
+  {
+    "surface": "シモツケ",
+    "reading": "shimotsuke",
+    "code": "cr-kata3-963",
+    "index": 963
+  },
+  {
+    "surface": "ジャズフェスティバル",
+    "reading": "jazzfestival",
+    "code": "cr-kata3-964",
+    "index": 964
+  },
+  {
+    "surface": "スピロヘータ",
+    "reading": "spirochate",
+    "code": "cr-kata3-965",
+    "index": 965
+  },
+  {
+    "surface": "スィッチ",
+    "reading": "switch",
+    "code": "cr-kata3-966",
+    "index": 966
+  },
+  {
+    "surface": "ショコラ",
+    "reading": "chocolat",
+    "code": "cr-kata3-967",
+    "index": 967
+  },
+  {
+    "surface": "サウザンドオークス",
+    "reading": "thousandoak",
+    "code": "cr-kata3-968",
+    "index": 968
+  },
+  {
+    "surface": "サラウンド",
+    "reading": "surround",
+    "code": "cr-kata3-969",
+    "index": 969
+  },
+  {
+    "surface": "ステークホルダー",
+    "reading": "stakeholder",
+    "code": "cr-kata3-970",
+    "index": 970
+  },
+  {
+    "surface": "ジューテリウム",
+    "reading": "juuteriumu",
+    "code": "cr-kata3-971",
+    "index": 971
+  },
+  {
+    "surface": "サブスクリプション",
+    "reading": "subscription",
+    "code": "cr-kata3-972",
+    "index": 972
+  },
+  {
+    "surface": "ソーラーカー",
+    "reading": "solarcar",
+    "code": "cr-kata3-973",
+    "index": 973
+  },
+  {
+    "surface": "シーピーエム",
+    "reading": "seapiiemu",
+    "code": "cr-kata3-974",
+    "index": 974
+  },
+  {
+    "surface": "スカラー",
+    "reading": "scalar",
+    "code": "cr-kata3-975",
+    "index": 975
+  },
+  {
+    "surface": "シュタットハーゲン",
+    "reading": "shutattohaagen",
+    "code": "cr-kata3-976",
+    "index": 976
+  },
+  {
+    "surface": "ショートパンツ",
+    "reading": "shortpants",
+    "code": "cr-kata3-977",
+    "index": 977
+  },
+  {
+    "surface": "ジャイブ",
+    "reading": "jive",
+    "code": "cr-kata3-978",
+    "index": 978
+  },
+  {
+    "surface": "ザラ",
+    "reading": "zara",
+    "code": "cr-kata3-979",
+    "index": 979
+  },
+  {
+    "surface": "スリッパ",
+    "reading": "slipper",
+    "code": "cr-kata3-980",
+    "index": 980
+  },
+  {
+    "surface": "セッシ",
+    "reading": "sesshi",
+    "code": "cr-kata3-981",
+    "index": 981
+  },
+  {
+    "surface": "ステアリングコミッティー",
+    "reading": "steeringcommittee",
+    "code": "cr-kata3-982",
+    "index": 982
+  },
+  {
+    "surface": "サンセリフ",
+    "reading": "sunserif",
+    "code": "cr-kata3-983",
+    "index": 983
+  },
+  {
+    "surface": "ジノテガ",
+    "reading": "jinotega",
+    "code": "cr-kata3-984",
+    "index": 984
+  },
+  {
+    "surface": "シュハスコ",
+    "reading": "shuhasuko",
+    "code": "cr-kata3-985",
+    "index": 985
+  },
+  {
+    "surface": "サプライヤー",
+    "reading": "supplier",
+    "code": "cr-kata3-986",
+    "index": 986
+  },
+  {
+    "surface": "スパチュラ",
+    "reading": "supachura",
+    "code": "cr-kata3-987",
+    "index": 987
+  },
+  {
+    "surface": "シャポー",
+    "reading": "chapeau",
+    "code": "cr-kata3-988",
+    "index": 988
+  },
+  {
+    "surface": "サジズム",
+    "reading": "sajizumu",
+    "code": "cr-kata3-989",
+    "index": 989
+  },
+  {
+    "surface": "シビア",
+    "reading": "severe",
+    "code": "cr-kata3-990",
+    "index": 990
+  },
+  {
+    "surface": "シンタックスチェッカ",
+    "reading": "shintakkusuchekka",
+    "code": "cr-kata3-991",
+    "index": 991
+  },
+  {
+    "surface": "セグー",
+    "reading": "segu",
+    "code": "cr-kata3-992",
+    "index": 992
+  },
+  {
+    "surface": "ジヴィエツ",
+    "reading": "jivietsu",
+    "code": "cr-kata3-993",
+    "index": 993
+  },
+  {
+    "surface": "シャン",
+    "reading": "shan",
+    "code": "cr-kata3-994",
+    "index": 994
+  },
+  {
+    "surface": "セコンド",
+    "reading": "sekondo",
+    "code": "cr-kata3-995",
+    "index": 995
+  },
+  {
+    "surface": "ジデオキシシチジン",
+    "reading": "dideoxycytidine",
+    "code": "cr-kata3-996",
+    "index": 996
+  },
+  {
+    "surface": "ソドミー",
+    "reading": "sodomy",
+    "code": "cr-kata3-997",
+    "index": 997
+  },
+  {
+    "surface": "シグ",
+    "reading": "shigu",
+    "code": "cr-kata3-998",
+    "index": 998
+  },
+  {
+    "surface": "スタンダードナンバー",
+    "reading": "standardnumber",
+    "code": "cr-kata3-999",
+    "index": 999
+  },
+  {
+    "surface": "セション",
+    "reading": "seshon",
+    "code": "cr-kata3-1000",
+    "index": 1000
+  },
+  {
+    "surface": "シュタイアー",
+    "reading": "shutaiaa",
+    "code": "cr-kata3-1001",
+    "index": 1001
+  },
+  {
+    "surface": "セラピー",
+    "reading": "therapy",
+    "code": "cr-kata3-1002",
+    "index": 1002
+  },
+  {
+    "surface": "スポーツトレーナー",
+    "reading": "sporttrainer",
+    "code": "cr-kata3-1003",
+    "index": 1003
+  },
+  {
+    "surface": "スプートニク",
+    "reading": "sputnik",
+    "code": "cr-kata3-1004",
+    "index": 1004
+  },
+  {
+    "surface": "シイ",
+    "reading": "shii",
+    "code": "cr-kata3-1005",
+    "index": 1005
+  },
+  {
+    "surface": "ストロークプレー",
+    "reading": "strokeplay",
+    "code": "cr-kata3-1006",
+    "index": 1006
+  },
+  {
+    "surface": "サン・アントニオ・デ・パドゥア",
+    "reading": "sunantoniodespadova",
+    "code": "cr-kata3-1007",
+    "index": 1007
+  },
+  {
+    "surface": "ジャザーサイズ",
+    "reading": "jazaasaizu",
+    "code": "cr-kata3-1008",
+    "index": 1008
+  },
+  {
+    "surface": "セクシャルハラスメント",
+    "reading": "sexualharassment",
+    "code": "cr-kata3-1009",
+    "index": 1009
+  },
+  {
+    "surface": "シェービング",
+    "reading": "shaving",
+    "code": "cr-kata3-1010",
+    "index": 1010
+  },
+  {
+    "surface": "ジョウロ",
+    "reading": "jorro",
+    "code": "cr-kata3-1011",
+    "index": 1011
+  },
+  {
+    "surface": "システム・エンジニア",
+    "reading": "systemengineer",
+    "code": "cr-kata3-1012",
+    "index": 1012
+  },
+  {
+    "surface": "サカバ",
+    "reading": "sakaba",
+    "code": "cr-kata3-1013",
+    "index": 1013
+  },
+  {
+    "surface": "ショットキーダイオード",
+    "reading": "shotkeydiode",
+    "code": "cr-kata3-1014",
+    "index": 1014
+  },
+  {
+    "surface": "ジエチルエーテル",
+    "reading": "jiechiruether",
+    "code": "cr-kata3-1015",
+    "index": 1015
+  },
+  {
+    "surface": "シュヴェービッシュ・ハル",
+    "reading": "shuveebisshuharu",
+    "code": "cr-kata3-1016",
+    "index": 1016
+  },
+  {
+    "surface": "ジャーナリスティック",
+    "reading": "journalistic",
+    "code": "cr-kata3-1017",
+    "index": 1017
+  },
+  {
+    "surface": "スルファダイアジン",
+    "reading": "surufadaiajin",
+    "code": "cr-kata3-1018",
+    "index": 1018
+  },
+  {
+    "surface": "セントラルキッチン",
+    "reading": "centralkitchen",
+    "code": "cr-kata3-1019",
+    "index": 1019
+  },
+  {
+    "surface": "シェアードハブ",
+    "reading": "sharedhave",
+    "code": "cr-kata3-1020",
+    "index": 1020
+  },
+  {
+    "surface": "シカゴハイツ",
+    "reading": "chicagoheights",
+    "code": "cr-kata3-1021",
+    "index": 1021
+  },
+  {
+    "surface": "シンミリ",
+    "reading": "shinmiri",
+    "code": "cr-kata3-1022",
+    "index": 1022
+  },
+  {
+    "surface": "シロザケ",
+    "reading": "shirozake",
+    "code": "cr-kata3-1023",
+    "index": 1023
+  },
+  {
+    "surface": "ジャイアントクロミス",
+    "reading": "giantclosmistake",
+    "code": "cr-kata3-1024",
+    "index": 1024
+  },
+  {
+    "surface": "シロビタイジョウビタキ",
+    "reading": "shirobitaijoubitaki",
+    "code": "cr-kata3-1025",
+    "index": 1025
+  },
+  {
+    "surface": "サンセベリア",
+    "reading": "sansevieria",
+    "code": "cr-kata3-1026",
+    "index": 1026
+  },
+  {
+    "surface": "サンプラー",
+    "reading": "sanpuraa",
+    "code": "cr-kata3-1027",
+    "index": 1027
+  },
+  {
+    "surface": "ステイツビル",
+    "reading": "staytsubuilding",
+    "code": "cr-kata3-1028",
+    "index": 1028
+  },
+  {
+    "surface": "ジメジメ",
+    "reading": "jimejime",
+    "code": "cr-kata3-1029",
+    "index": 1029
+  },
+  {
+    "surface": "ゾンビー",
+    "reading": "zombie",
+    "code": "cr-kata3-1030",
+    "index": 1030
+  },
+  {
+    "surface": "スタンフォード",
+    "reading": "stanford",
+    "code": "cr-kata3-1031",
+    "index": 1031
+  },
+  {
+    "surface": "サムヒャ",
+    "reading": "samhya",
+    "code": "cr-kata3-1032",
+    "index": 1032
+  },
+  {
+    "surface": "シュードラ",
+    "reading": "sudra",
+    "code": "cr-kata3-1033",
+    "index": 1033
+  },
+  {
+    "surface": "ソフトウェアディベロッパキット",
+    "reading": "sofutoeadiberoppakitto",
+    "code": "cr-kata3-1034",
+    "index": 1034
+  },
+  {
+    "surface": "シマキンチャクフグ",
+    "reading": "shimakinchakufugu",
+    "code": "cr-kata3-1035",
+    "index": 1035
+  },
+  {
+    "surface": "シュナウツァー",
+    "reading": "shunowtsar",
+    "code": "cr-kata3-1036",
+    "index": 1036
+  },
+  {
+    "surface": "サツ",
+    "reading": "satsu",
+    "code": "cr-kata3-1037",
+    "index": 1037
+  },
+  {
+    "surface": "サゴ",
+    "reading": "sago",
+    "code": "cr-kata3-1038",
+    "index": 1038
+  },
+  {
+    "surface": "サータアンダーギー",
+    "reading": "saataandaagii",
+    "code": "cr-kata3-1039",
+    "index": 1039
+  },
+  {
+    "surface": "セントラルヒーティング",
+    "reading": "centralhiitingu",
+    "code": "cr-kata3-1040",
+    "index": 1040
+  },
+  {
+    "surface": "ジュリー",
+    "reading": "jurii",
+    "code": "cr-kata3-1041",
+    "index": 1041
+  },
+  {
+    "surface": "サイクロセリン",
+    "reading": "cycloserine",
+    "code": "cr-kata3-1042",
+    "index": 1042
+  },
+  {
+    "surface": "ゾースト",
+    "reading": "soest",
+    "code": "cr-kata3-1043",
+    "index": 1043
+  },
+  {
+    "surface": "セリガボ",
+    "reading": "serigabo",
+    "code": "cr-kata3-1044",
+    "index": 1044
+  },
+  {
+    "surface": "スチェルダールシャルセン",
+    "reading": "sucherudaarusharusen",
+    "code": "cr-kata3-1045",
+    "index": 1045
+  },
+  {
+    "surface": "スーザフォーン",
+    "reading": "suuthephone",
+    "code": "cr-kata3-1046",
+    "index": 1046
+  },
+  {
+    "surface": "シロハヤブサ",
+    "reading": "shirohayabusa",
+    "code": "cr-kata3-1047",
+    "index": 1047
+  },
+  {
+    "surface": "ショハム",
+    "reading": "shohamu",
+    "code": "cr-kata3-1048",
+    "index": 1048
+  },
+  {
+    "surface": "スコリア",
+    "reading": "scoria",
+    "code": "cr-kata3-1049",
+    "index": 1049
+  },
+  {
+    "surface": "ジュート",
+    "reading": "jute",
+    "code": "cr-kata3-1050",
+    "index": 1050
+  },
+  {
+    "surface": "スピア",
+    "reading": "supia",
+    "code": "cr-kata3-1051",
+    "index": 1051
+  },
+  {
+    "surface": "シラビソ",
+    "reading": "shirabiso",
+    "code": "cr-kata3-1052",
+    "index": 1052
+  },
+  {
+    "surface": "ストーレッジ",
+    "reading": "sutoorejji",
+    "code": "cr-kata3-1053",
+    "index": 1053
+  },
+  {
+    "surface": "サバ",
+    "reading": "saba",
+    "code": "cr-kata3-1054",
+    "index": 1054
+  },
+  {
+    "surface": "シーエーティーブイ",
+    "reading": "shiieetiibui",
+    "code": "cr-kata3-1055",
+    "index": 1055
+  },
+  {
+    "surface": "サイドポケット",
+    "reading": "sidepocket",
+    "code": "cr-kata3-1056",
+    "index": 1056
+  },
+  {
+    "surface": "サバンナ",
+    "reading": "savanna",
+    "code": "cr-kata3-1057",
+    "index": 1057
+  },
+  {
+    "surface": "サーズ",
+    "reading": "saazu",
+    "code": "cr-kata3-1058",
+    "index": 1058
+  },
+  {
+    "surface": "セイカ",
+    "reading": "sayka",
+    "code": "cr-kata3-1059",
+    "index": 1059
+  },
+  {
+    "surface": "セパレートアドレッシング",
+    "reading": "separeetoadoresshingu",
+    "code": "cr-kata3-1060",
+    "index": 1060
+  },
+  {
+    "surface": "スウツク",
+    "reading": "suutsuku",
+    "code": "cr-kata3-1061",
+    "index": 1061
+  },
+  {
+    "surface": "ソリハシセイタカシギ",
+    "reading": "sorihashiseitakashigi",
+    "code": "cr-kata3-1062",
+    "index": 1062
+  },
+  {
+    "surface": "スーパースケーラー",
+    "reading": "suupaasukeeraa",
+    "code": "cr-kata3-1063",
+    "index": 1063
+  },
+  {
+    "surface": "セルフタッピングネジ",
+    "reading": "serufutappinguneji",
+    "code": "cr-kata3-1064",
+    "index": 1064
+  },
+  {
+    "surface": "セイヨウキヌヤナギ",
+    "reading": "sayyoukinuyanagi",
+    "code": "cr-kata3-1065",
+    "index": 1065
+  },
+  {
+    "surface": "シーエン",
+    "reading": "shiien",
+    "code": "cr-kata3-1066",
+    "index": 1066
+  },
+  {
+    "surface": "ジル",
+    "reading": "jiru",
+    "code": "cr-kata3-1067",
+    "index": 1067
+  },
+  {
+    "surface": "サンルイスデルパルマル",
+    "reading": "sanruisuderuparumaru",
+    "code": "cr-kata3-1068",
+    "index": 1068
+  },
+  {
+    "surface": "サシガメ",
+    "reading": "sashigame",
+    "code": "cr-kata3-1069",
+    "index": 1069
+  },
+  {
+    "surface": "シメトリー",
+    "reading": "symmetry",
+    "code": "cr-kata3-1070",
+    "index": 1070
+  },
+  {
+    "surface": "ズトフェン",
+    "reading": "zutofen",
+    "code": "cr-kata3-1071",
+    "index": 1071
+  },
+  {
+    "surface": "シーカヤック",
+    "reading": "seakayak",
+    "code": "cr-kata3-1072",
+    "index": 1072
+  },
+  {
+    "surface": "サクラメント",
+    "reading": "sacrament",
+    "code": "cr-kata3-1073",
+    "index": 1073
+  },
+  {
+    "surface": "シュタインバッハ",
+    "reading": "shutainbahha",
+    "code": "cr-kata3-1074",
+    "index": 1074
+  },
+  {
+    "surface": "サクラ",
+    "reading": "sakura",
+    "code": "cr-kata3-1075",
+    "index": 1075
+  },
+  {
+    "surface": "シェービングフォーム",
+    "reading": "shavingform",
+    "code": "cr-kata3-1076",
+    "index": 1076
+  },
+  {
+    "surface": "シラカシ",
+    "reading": "shirakashi",
+    "code": "cr-kata3-1077",
+    "index": 1077
+  },
+  {
+    "surface": "スイレン",
+    "reading": "suiren",
+    "code": "cr-kata3-1078",
+    "index": 1078
+  },
+  {
+    "surface": "シャルワール",
+    "reading": "shalwar",
+    "code": "cr-kata3-1079",
+    "index": 1079
+  },
+  {
+    "surface": "スノー",
+    "reading": "snow",
+    "code": "cr-kata3-1080",
+    "index": 1080
+  },
+  {
+    "surface": "ソンクラーン",
+    "reading": "sonclan",
+    "code": "cr-kata3-1081",
+    "index": 1081
+  },
+  {
+    "surface": "システムオペレーター",
+    "reading": "systemoperator",
+    "code": "cr-kata3-1082",
+    "index": 1082
+  },
+  {
+    "surface": "ソワソン",
+    "reading": "soissons",
+    "code": "cr-kata3-1083",
+    "index": 1083
+  },
+  {
+    "surface": "ジャウフ",
+    "reading": "jaufu",
+    "code": "cr-kata3-1084",
+    "index": 1084
+  },
+  {
+    "surface": "ゼリービーンズ",
+    "reading": "jellybean",
+    "code": "cr-kata3-1085",
+    "index": 1085
+  },
+  {
+    "surface": "スティラコサウルス",
+    "reading": "styracosaurus",
+    "code": "cr-kata3-1086",
+    "index": 1086
+  },
+  {
+    "surface": "ソノグラフ",
+    "reading": "sonograph",
+    "code": "cr-kata3-1087",
+    "index": 1087
+  },
+  {
+    "surface": "スパーリングパートナー",
+    "reading": "sparringpartner",
+    "code": "cr-kata3-1088",
+    "index": 1088
+  },
+  {
+    "surface": "ジーン",
+    "reading": "gene",
+    "code": "cr-kata3-1089",
+    "index": 1089
+  },
+  {
+    "surface": "ジャンボジェット",
+    "reading": "jumbojet",
+    "code": "cr-kata3-1090",
+    "index": 1090
+  },
+  {
+    "surface": "ステップバイステップ",
+    "reading": "stepbystep",
+    "code": "cr-kata3-1091",
+    "index": 1091
+  },
+  {
+    "surface": "サン・フアン・デ・ロス・モロス",
+    "reading": "sunjuandesrossmorrosu",
+    "code": "cr-kata3-1092",
+    "index": 1092
+  },
+  {
+    "surface": "ジェネラル・サントス",
+    "reading": "generalsantosu",
+    "code": "cr-kata3-1093",
+    "index": 1093
+  },
+  {
+    "surface": "ゾーリンゲン",
+    "reading": "solingen",
+    "code": "cr-kata3-1094",
+    "index": 1094
+  },
+  {
+    "surface": "シータック",
+    "reading": "seatakku",
+    "code": "cr-kata3-1095",
+    "index": 1095
+  },
+  {
+    "surface": "サブコンパクトカー",
+    "reading": "subcompactcar",
+    "code": "cr-kata3-1096",
+    "index": 1096
+  },
+  {
+    "surface": "スキッパー",
+    "reading": "skipper",
+    "code": "cr-kata3-1097",
+    "index": 1097
+  },
+  {
+    "surface": "スダレガイ",
+    "reading": "sudareguy",
+    "code": "cr-kata3-1098",
+    "index": 1098
+  },
+  {
+    "surface": "システムデザイナー",
+    "reading": "systemdesigner",
+    "code": "cr-kata3-1099",
+    "index": 1099
+  },
+  {
+    "surface": "シャドーキャビネット",
+    "reading": "shadowcabinet",
+    "code": "cr-kata3-1100",
+    "index": 1100
+  },
+  {
+    "surface": "セルアニメーション",
+    "reading": "cellanimation",
+    "code": "cr-kata3-1101",
+    "index": 1101
+  },
+  {
+    "surface": "ジュール",
+    "reading": "joule",
+    "code": "cr-kata3-1102",
+    "index": 1102
+  },
+  {
+    "surface": "シミュレーション",
+    "reading": "simulation",
+    "code": "cr-kata3-1103",
+    "index": 1103
+  },
+  {
+    "surface": "サオナー",
+    "reading": "saonaa",
+    "code": "cr-kata3-1104",
+    "index": 1104
+  },
+  {
+    "surface": "スペースコロニー",
+    "reading": "spacecolony",
+    "code": "cr-kata3-1105",
+    "index": 1105
+  },
+  {
+    "surface": "サム",
+    "reading": "sam",
+    "code": "cr-kata3-1106",
+    "index": 1106
+  },
+  {
+    "surface": "ソフトコーラル",
+    "reading": "softcoral",
+    "code": "cr-kata3-1107",
+    "index": 1107
+  },
+  {
+    "surface": "スピーカーユニット",
+    "reading": "speakerunit",
+    "code": "cr-kata3-1108",
+    "index": 1108
+  },
+  {
+    "surface": "ショーマン",
+    "reading": "showman",
+    "code": "cr-kata3-1109",
+    "index": 1109
+  },
+  {
+    "surface": "ゾロトゥルン",
+    "reading": "zoroturun",
+    "code": "cr-kata3-1110",
+    "index": 1110
+  },
+  {
+    "surface": "スタイル",
+    "reading": "style",
+    "code": "cr-kata3-1111",
+    "index": 1111
+  },
+  {
+    "surface": "シートパイル",
+    "reading": "sheetpile",
+    "code": "cr-kata3-1112",
+    "index": 1112
+  },
+  {
+    "surface": "サヴォーナ",
+    "reading": "savoona",
+    "code": "cr-kata3-1113",
+    "index": 1113
+  },
+  {
+    "surface": "スタッフドオリーブ",
+    "reading": "staffdoolive",
+    "code": "cr-kata3-1114",
+    "index": 1114
+  },
+  {
+    "surface": "ジョークラッシャー",
+    "reading": "joocrusher",
+    "code": "cr-kata3-1115",
+    "index": 1115
+  },
+  {
+    "surface": "ショット",
+    "reading": "shot",
+    "code": "cr-kata3-1116",
+    "index": 1116
+  },
+  {
+    "surface": "スキー",
+    "reading": "ski",
+    "code": "cr-kata3-1117",
+    "index": 1117
+  },
+  {
+    "surface": "サラダス",
+    "reading": "salarydas",
+    "code": "cr-kata3-1118",
+    "index": 1118
+  },
+  {
+    "surface": "ザイスト",
+    "reading": "theist",
+    "code": "cr-kata3-1119",
+    "index": 1119
+  },
+  {
+    "surface": "ゼネスト",
+    "reading": "generalstrike",
+    "code": "cr-kata3-1120",
+    "index": 1120
+  },
+  {
+    "surface": "ゼネラルストライキ",
+    "reading": "generalstrike",
+    "code": "cr-kata3-1121",
+    "index": 1121
+  },
+  {
+    "surface": "ソマ",
+    "reading": "sommer",
+    "code": "cr-kata3-1122",
+    "index": 1122
+  },
+  {
+    "surface": "シェイパ",
+    "reading": "sheipa",
+    "code": "cr-kata3-1123",
+    "index": 1123
+  },
+  {
+    "surface": "スカルプチャ",
+    "reading": "scalpcha",
+    "code": "cr-kata3-1124",
+    "index": 1124
+  },
+  {
+    "surface": "ジャガード",
+    "reading": "jacquard",
+    "code": "cr-kata3-1125",
+    "index": 1125
+  },
+  {
+    "surface": "サンドバーシャーク",
+    "reading": "sandwichbarshark",
+    "code": "cr-kata3-1126",
+    "index": 1126
+  },
+  {
+    "surface": "サイバネーション",
+    "reading": "saibaneeshon",
+    "code": "cr-kata3-1127",
+    "index": 1127
+  },
+  {
+    "surface": "スパンオブコントロール",
+    "reading": "spanofcontrol",
+    "code": "cr-kata3-1128",
+    "index": 1128
+  },
+  {
+    "surface": "シルバースプリング",
+    "reading": "silverspring",
+    "code": "cr-kata3-1129",
+    "index": 1129
+  },
+  {
+    "surface": "シーディーロム",
+    "reading": "shiidiiromu",
+    "code": "cr-kata3-1130",
+    "index": 1130
+  },
+  {
+    "surface": "シックスティ",
+    "reading": "sixty",
+    "code": "cr-kata3-1131",
+    "index": 1131
+  },
+  {
+    "surface": "シュダラ",
+    "reading": "shudara",
+    "code": "cr-kata3-1132",
+    "index": 1132
+  },
+  {
+    "surface": "ジアセチルモルヒネ",
+    "reading": "jiasechirumoruhine",
+    "code": "cr-kata3-1133",
+    "index": 1133
+  },
+  {
+    "surface": "スタンドプレイ",
+    "reading": "standplay",
+    "code": "cr-kata3-1134",
+    "index": 1134
+  },
+  {
+    "surface": "スターリングエンジン",
+    "reading": "sterlingengine",
+    "code": "cr-kata3-1135",
+    "index": 1135
+  },
+  {
+    "surface": "ズノイモ",
+    "reading": "zunoimo",
+    "code": "cr-kata3-1136",
+    "index": 1136
+  },
+  {
+    "surface": "サーセン",
+    "reading": "sarsen",
+    "code": "cr-kata3-1137",
+    "index": 1137
+  },
+  {
+    "surface": "ジョブローテーション",
+    "reading": "jobrotation",
+    "code": "cr-kata3-1138",
+    "index": 1138
+  },
+  {
+    "surface": "セメンテーション",
+    "reading": "cementation",
+    "code": "cr-kata3-1139",
+    "index": 1139
+  },
+  {
+    "surface": "セキュリティポリス",
+    "reading": "securitypolice",
+    "code": "cr-kata3-1140",
+    "index": 1140
+  },
+  {
+    "surface": "サレー",
+    "reading": "saree",
+    "code": "cr-kata3-1141",
+    "index": 1141
+  },
+  {
+    "surface": "サジー",
+    "reading": "saji",
+    "code": "cr-kata3-1142",
+    "index": 1142
+  },
+  {
+    "surface": "サブロン",
+    "reading": "subron",
+    "code": "cr-kata3-1143",
+    "index": 1143
+  },
+  {
+    "surface": "サッカル",
+    "reading": "sakkaru",
+    "code": "cr-kata3-1144",
+    "index": 1144
+  },
+  {
+    "surface": "スコスコ",
+    "reading": "sukosuko",
+    "code": "cr-kata3-1145",
+    "index": 1145
+  },
+  {
+    "surface": "システムプログラム",
+    "reading": "systemprogram",
+    "code": "cr-kata3-1146",
+    "index": 1146
+  },
+  {
+    "surface": "スピーキング",
+    "reading": "speaking",
+    "code": "cr-kata3-1147",
+    "index": 1147
+  },
+  {
+    "surface": "シマザメ",
+    "reading": "shimazame",
+    "code": "cr-kata3-1148",
+    "index": 1148
+  },
+  {
+    "surface": "システムエンジニア",
+    "reading": "systemengineer",
+    "code": "cr-kata3-1149",
+    "index": 1149
+  },
+  {
+    "surface": "セクステット",
+    "reading": "sextet",
+    "code": "cr-kata3-1150",
+    "index": 1150
+  },
+  {
+    "surface": "ステッカー",
+    "reading": "sticker",
+    "code": "cr-kata3-1151",
+    "index": 1151
+  },
+  {
+    "surface": "セメダイン",
+    "reading": "cemedine",
+    "code": "cr-kata3-1152",
+    "index": 1152
+  },
+  {
+    "surface": "サン・ペドゥロ・チョルラ",
+    "reading": "sunpedurochorura",
+    "code": "cr-kata3-1153",
+    "index": 1153
+  },
+  {
+    "surface": "ジャミング",
+    "reading": "jamming",
+    "code": "cr-kata3-1154",
+    "index": 1154
+  },
+  {
+    "surface": "セミドライソーセージ",
+    "reading": "semidrysausage",
+    "code": "cr-kata3-1155",
+    "index": 1155
+  },
+  {
+    "surface": "シロッコ",
+    "reading": "sirocco",
+    "code": "cr-kata3-1156",
+    "index": 1156
+  },
+  {
+    "surface": "ゼラニューム",
+    "reading": "geranium",
+    "code": "cr-kata3-1157",
+    "index": 1157
+  },
+  {
+    "surface": "シーフォード",
+    "reading": "seaford",
+    "code": "cr-kata3-1158",
+    "index": 1158
+  },
+  {
+    "surface": "シメニアジャッカル",
+    "reading": "shimeniajakkaru",
+    "code": "cr-kata3-1159",
+    "index": 1159
+  },
+  {
+    "surface": "システムインテグレーター",
+    "reading": "systemintegrator",
+    "code": "cr-kata3-1160",
+    "index": 1160
+  },
+  {
+    "surface": "ジトリ",
+    "reading": "jitori",
+    "code": "cr-kata3-1161",
+    "index": 1161
+  },
+  {
+    "surface": "ステーションブレーク",
+    "reading": "stationbreak",
+    "code": "cr-kata3-1162",
+    "index": 1162
+  },
+  {
+    "surface": "ジザフ",
+    "reading": "jizafu",
+    "code": "cr-kata3-1163",
+    "index": 1163
+  },
+  {
+    "surface": "シーエム",
+    "reading": "shiiemu",
+    "code": "cr-kata3-1164",
+    "index": 1164
+  },
+  {
+    "surface": "サプライア",
+    "reading": "supplya",
+    "code": "cr-kata3-1165",
+    "index": 1165
+  },
+  {
+    "surface": "ストロファンチン",
+    "reading": "strophanthin",
+    "code": "cr-kata3-1166",
+    "index": 1166
+  },
+  {
+    "surface": "ショベル",
+    "reading": "shovel",
+    "code": "cr-kata3-1167",
+    "index": 1167
+  },
+  {
+    "surface": "シウダーコンスティトゥシオン",
+    "reading": "shiudaakonsutitushion",
+    "code": "cr-kata3-1168",
+    "index": 1168
+  },
+  {
+    "surface": "スピーカー",
+    "reading": "speaker",
+    "code": "cr-kata3-1169",
+    "index": 1169
+  },
+  {
+    "surface": "シウダー・デル・エステ",
+    "reading": "shiudaaderuesute",
+    "code": "cr-kata3-1170",
+    "index": 1170
+  },
+  {
+    "surface": "サシ",
+    "reading": "sashi",
+    "code": "cr-kata3-1171",
+    "index": 1171
+  },
+  {
+    "surface": "ソウ",
+    "reading": "sou",
+    "code": "cr-kata3-1172",
+    "index": 1172
+  },
+  {
+    "surface": "セクションペーパー",
+    "reading": "sectionpaper",
+    "code": "cr-kata3-1173",
+    "index": 1173
+  },
+  {
+    "surface": "ジーンバンク",
+    "reading": "genebank",
+    "code": "cr-kata3-1174",
+    "index": 1174
+  },
+  {
+    "surface": "ショッピング・カート",
+    "reading": "shoppingkaato",
+    "code": "cr-kata3-1175",
+    "index": 1175
+  },
+  {
+    "surface": "サミング",
+    "reading": "thumbing",
+    "code": "cr-kata3-1176",
+    "index": 1176
+  },
+  {
+    "surface": "スペリオル",
+    "reading": "superior",
+    "code": "cr-kata3-1177",
+    "index": 1177
+  },
+  {
+    "surface": "スタン",
+    "reading": "stun",
+    "code": "cr-kata3-1178",
+    "index": 1178
+  },
+  {
+    "surface": "スポットチェック",
+    "reading": "spotcheck",
+    "code": "cr-kata3-1179",
+    "index": 1179
+  },
+  {
+    "surface": "シマミミズ",
+    "reading": "shimamimizu",
+    "code": "cr-kata3-1180",
+    "index": 1180
+  },
+  {
+    "surface": "サブ",
+    "reading": "sub",
+    "code": "cr-kata3-1181",
+    "index": 1181
+  },
+  {
+    "surface": "システムエンジニアリング",
+    "reading": "systemengineering",
+    "code": "cr-kata3-1182",
+    "index": 1182
+  },
+  {
+    "surface": "スタティサイダ",
+    "reading": "sutatisaida",
+    "code": "cr-kata3-1183",
+    "index": 1183
+  },
+  {
+    "surface": "ソルタヴァラ",
+    "reading": "sorutavara",
+    "code": "cr-kata3-1184",
+    "index": 1184
+  },
+  {
+    "surface": "シャー・アラム",
+    "reading": "shaaaramu",
+    "code": "cr-kata3-1185",
+    "index": 1185
+  },
+  {
+    "surface": "ジンマ",
+    "reading": "jinma",
+    "code": "cr-kata3-1186",
+    "index": 1186
+  },
+  {
+    "surface": "セラー",
+    "reading": "seller",
+    "code": "cr-kata3-1187",
+    "index": 1187
+  },
+  {
+    "surface": "スジメヒメオオトカゲ",
+    "reading": "sujimehimeootokage",
+    "code": "cr-kata3-1188",
+    "index": 1188
+  },
+  {
+    "surface": "ジョイント・コンサート",
+    "reading": "jointconcert",
+    "code": "cr-kata3-1189",
+    "index": 1189
+  },
+  {
+    "surface": "シューベルト",
+    "reading": "schubert",
+    "code": "cr-kata3-1190",
+    "index": 1190
+  },
+  {
+    "surface": "サード",
+    "reading": "third",
+    "code": "cr-kata3-1191",
+    "index": 1191
+  },
+  {
+    "surface": "ソンマ・ヴェズヴィアーナ",
+    "reading": "sommavezuviaana",
+    "code": "cr-kata3-1192",
+    "index": 1192
+  },
+  {
+    "surface": "スペシャルティーカー",
+    "reading": "specialteacar",
+    "code": "cr-kata3-1193",
+    "index": 1193
+  },
+  {
+    "surface": "ジャイアント",
+    "reading": "giant",
+    "code": "cr-kata3-1194",
+    "index": 1194
+  },
+  {
+    "surface": "シンギダ",
+    "reading": "shingida",
+    "code": "cr-kata3-1195",
+    "index": 1195
+  },
+  {
+    "surface": "サン・サルバドール・デ・フフイ",
+    "reading": "sunsarubadoorudesjujuy",
+    "code": "cr-kata3-1196",
+    "index": 1196
+  },
+  {
+    "surface": "シンガー・ソングライター",
+    "reading": "singersongwriter",
+    "code": "cr-kata3-1197",
+    "index": 1197
+  },
+  {
+    "surface": "シーズニング",
+    "reading": "seasoning",
+    "code": "cr-kata3-1198",
+    "index": 1198
+  },
+  {
+    "surface": "シュチェチン",
+    "reading": "stettin",
+    "code": "cr-kata3-1199",
+    "index": 1199
+  },
+  {
+    "surface": "セヴェロドネツィク",
+    "reading": "severodonetsiku",
+    "code": "cr-kata3-1200",
+    "index": 1200
+  },
+  {
+    "surface": "サル",
+    "reading": "saru",
+    "code": "cr-kata3-1201",
+    "index": 1201
+  },
+  {
+    "surface": "シロハラトウゾクカモメ",
+    "reading": "shiroharatouzokukamome",
+    "code": "cr-kata3-1202",
+    "index": 1202
+  },
+  {
+    "surface": "サン・ホセ・デ・ラス・ラハス",
+    "reading": "sunjosederasurahasu",
+    "code": "cr-kata3-1203",
+    "index": 1203
+  },
+  {
+    "surface": "ジャンダルム",
+    "reading": "gendarme",
+    "code": "cr-kata3-1204",
+    "index": 1204
+  },
+  {
+    "surface": "サハラ",
+    "reading": "sahara",
+    "code": "cr-kata3-1205",
+    "index": 1205
+  },
+  {
+    "surface": "ズンゲル",
+    "reading": "zungel",
+    "code": "cr-kata3-1206",
+    "index": 1206
+  },
+  {
+    "surface": "セーフティーネット",
+    "reading": "safetynet",
+    "code": "cr-kata3-1207",
+    "index": 1207
+  },
+  {
+    "surface": "スレーキ",
+    "reading": "sleek",
+    "code": "cr-kata3-1208",
+    "index": 1208
+  },
+  {
+    "surface": "セントトーマス",
+    "reading": "saintthomas",
+    "code": "cr-kata3-1209",
+    "index": 1209
+  },
+  {
+    "surface": "スケベイ",
+    "reading": "sukebay",
+    "code": "cr-kata3-1210",
+    "index": 1210
+  },
+  {
+    "surface": "サイホン",
+    "reading": "siphon",
+    "code": "cr-kata3-1211",
+    "index": 1211
+  },
+  {
+    "surface": "サルファ",
+    "reading": "sulfa",
+    "code": "cr-kata3-1212",
+    "index": 1212
+  },
+  {
+    "surface": "シマバエ",
+    "reading": "shimabae",
+    "code": "cr-kata3-1213",
+    "index": 1213
+  },
+  {
+    "surface": "サイコー",
+    "reading": "saikou",
+    "code": "cr-kata3-1214",
+    "index": 1214
+  },
+  {
+    "surface": "シュラフ",
+    "reading": "schlaf",
+    "code": "cr-kata3-1215",
+    "index": 1215
+  },
+  {
+    "surface": "スライゴ",
+    "reading": "slygo",
+    "code": "cr-kata3-1216",
+    "index": 1216
+  },
+  {
+    "surface": "セカンドベース",
+    "reading": "sekandobase",
+    "code": "cr-kata3-1217",
+    "index": 1217
+  },
+  {
+    "surface": "サカイ",
+    "reading": "sakai",
+    "code": "cr-kata3-1218",
+    "index": 1218
+  },
+  {
+    "surface": "スルタン",
+    "reading": "sultan",
+    "code": "cr-kata3-1219",
+    "index": 1219
+  },
+  {
+    "surface": "スコピエ",
+    "reading": "sukopie",
+    "code": "cr-kata3-1220",
+    "index": 1220
+  },
+  {
+    "surface": "シッチャカメッチャカ",
+    "reading": "shitchakametchaka",
+    "code": "cr-kata3-1221",
+    "index": 1221
+  },
+  {
+    "surface": "シェルフ",
+    "reading": "shelf",
+    "code": "cr-kata3-1222",
+    "index": 1222
+  },
+  {
+    "surface": "シミュレータ",
+    "reading": "simulator",
+    "code": "cr-kata3-1223",
+    "index": 1223
+  },
+  {
+    "surface": "シャクシギ",
+    "reading": "shakushigi",
+    "code": "cr-kata3-1224",
+    "index": 1224
+  },
+  {
+    "surface": "セミロング",
+    "reading": "semirongu",
+    "code": "cr-kata3-1225",
+    "index": 1225
+  },
+  {
+    "surface": "スマフォ",
+    "reading": "sumafo",
+    "code": "cr-kata3-1226",
+    "index": 1226
+  },
+  {
+    "surface": "ソハールサージャンフィッシュ",
+    "reading": "sohaarusaajanfisshu",
+    "code": "cr-kata3-1227",
+    "index": 1227
+  },
+  {
+    "surface": "スガモ",
+    "reading": "sugamo",
+    "code": "cr-kata3-1228",
+    "index": 1228
+  },
+  {
+    "surface": "サイクロン",
+    "reading": "cyclon",
+    "code": "cr-kata3-1229",
+    "index": 1229
+  },
+  {
+    "surface": "サクラガイ",
+    "reading": "sakuragai",
+    "code": "cr-kata3-1230",
+    "index": 1230
+  },
+  {
+    "surface": "スキューバダイビング",
+    "reading": "scubadiving",
+    "code": "cr-kata3-1231",
+    "index": 1231
+  },
+  {
+    "surface": "サバヒー",
+    "reading": "sabahii",
+    "code": "cr-kata3-1232",
+    "index": 1232
+  },
+  {
+    "surface": "シェイク",
+    "reading": "sheiku",
+    "code": "cr-kata3-1233",
+    "index": 1233
+  },
+  {
+    "surface": "シュプレマティスム",
+    "reading": "shupurematisumu",
+    "code": "cr-kata3-1234",
+    "index": 1234
+  },
+  {
+    "surface": "セリ",
+    "reading": "seri",
+    "code": "cr-kata3-1235",
+    "index": 1235
+  },
+  {
+    "surface": "サーカムフレックス",
+    "reading": "sircomefurekkusu",
+    "code": "cr-kata3-1236",
+    "index": 1236
+  },
+  {
+    "surface": "サンプリングレート",
+    "reading": "samplingrate",
+    "code": "cr-kata3-1237",
+    "index": 1237
+  },
+  {
+    "surface": "ソリッドモデル",
+    "reading": "solidmodel",
+    "code": "cr-kata3-1238",
+    "index": 1238
+  },
+  {
+    "surface": "スタッドレスタイヤ",
+    "reading": "studlesstire",
+    "code": "cr-kata3-1239",
+    "index": 1239
+  },
+  {
+    "surface": "スピリチュアリティー",
+    "reading": "spirituality",
+    "code": "cr-kata3-1240",
+    "index": 1240
+  },
+  {
+    "surface": "シャープ",
+    "reading": "sharp",
+    "code": "cr-kata3-1241",
+    "index": 1241
+  },
+  {
+    "surface": "セールストーク",
+    "reading": "salestork",
+    "code": "cr-kata3-1242",
+    "index": 1242
+  },
+  {
+    "surface": "スエット",
+    "reading": "sweat",
+    "code": "cr-kata3-1243",
+    "index": 1243
+  },
+  {
+    "surface": "ショートプログラム",
+    "reading": "shortprogram",
+    "code": "cr-kata3-1244",
+    "index": 1244
+  },
+  {
+    "surface": "シャット",
+    "reading": "shut",
+    "code": "cr-kata3-1245",
+    "index": 1245
+  },
+  {
+    "surface": "サン・ホセ・デ・マヨ",
+    "reading": "sunjosedesmayonnaise",
+    "code": "cr-kata3-1246",
+    "index": 1246
+  },
+  {
+    "surface": "シソ",
+    "reading": "shiso",
+    "code": "cr-kata3-1247",
+    "index": 1247
+  },
+  {
+    "surface": "シャーウッドパーク",
+    "reading": "sherwoodpark",
+    "code": "cr-kata3-1248",
+    "index": 1248
+  },
+  {
+    "surface": "セレモニー",
+    "reading": "ceremony",
+    "code": "cr-kata3-1249",
+    "index": 1249
+  },
+  {
+    "surface": "ジャズバンド",
+    "reading": "jazzbando",
+    "code": "cr-kata3-1250",
+    "index": 1250
+  },
+  {
+    "surface": "ジャパノロジスト",
+    "reading": "japanology",
+    "code": "cr-kata3-1251",
+    "index": 1251
+  },
+  {
+    "surface": "シャッタ",
+    "reading": "shutter",
+    "code": "cr-kata3-1252",
+    "index": 1252
+  },
+  {
+    "surface": "スパーリング・パートナー",
+    "reading": "sparringpartner",
+    "code": "cr-kata3-1253",
+    "index": 1253
+  },
+  {
+    "surface": "スポットコマーシャル",
+    "reading": "spotcommercial",
+    "code": "cr-kata3-1254",
+    "index": 1254
+  },
+  {
+    "surface": "シングルズ",
+    "reading": "singles",
+    "code": "cr-kata3-1255",
+    "index": 1255
+  },
+  {
+    "surface": "セトゥーバル",
+    "reading": "setobaru",
+    "code": "cr-kata3-1256",
+    "index": 1256
+  },
+  {
+    "surface": "ステキ",
+    "reading": "suteki",
+    "code": "cr-kata3-1257",
+    "index": 1257
+  },
+  {
+    "surface": "システムアドミニストレータ",
+    "reading": "systemadministrator",
+    "code": "cr-kata3-1258",
+    "index": 1258
+  },
+  {
+    "surface": "ジャム・セッション",
+    "reading": "jamsession",
+    "code": "cr-kata3-1259",
+    "index": 1259
+  },
+  {
+    "surface": "セパレーツ",
+    "reading": "separates",
+    "code": "cr-kata3-1260",
+    "index": 1260
+  },
+  {
+    "surface": "シナリオ",
+    "reading": "scenario",
+    "code": "cr-kata3-1261",
+    "index": 1261
+  },
+  {
+    "surface": "サザンクロス",
+    "reading": "southerncross",
+    "code": "cr-kata3-1262",
+    "index": 1262
+  },
+  {
+    "surface": "ジャーナリズム",
+    "reading": "journalism",
+    "code": "cr-kata3-1263",
+    "index": 1263
+  },
+  {
+    "surface": "スパニッシュホッグフィッシュ",
+    "reading": "supanisshuhoggufisshu",
+    "code": "cr-kata3-1264",
+    "index": 1264
+  },
+  {
+    "surface": "スイバル",
+    "reading": "suibaru",
+    "code": "cr-kata3-1265",
+    "index": 1265
+  },
+  {
+    "surface": "ストックオプション",
+    "reading": "stockoption",
+    "code": "cr-kata3-1266",
+    "index": 1266
+  },
+  {
+    "surface": "システムアドミニストレーター",
+    "reading": "systemadministrator",
+    "code": "cr-kata3-1267",
+    "index": 1267
+  },
+  {
+    "surface": "スコポフィリー",
+    "reading": "scopophilia",
+    "code": "cr-kata3-1268",
+    "index": 1268
+  },
+  {
+    "surface": "シャープペン",
+    "reading": "sharppen",
+    "code": "cr-kata3-1269",
+    "index": 1269
+  },
+  {
+    "surface": "シューメイカースパインフット",
+    "reading": "shuumeikaasupainfutto",
+    "code": "cr-kata3-1270",
+    "index": 1270
+  },
+  {
+    "surface": "スタント",
+    "reading": "stunt",
+    "code": "cr-kata3-1271",
+    "index": 1271
+  },
+  {
+    "surface": "ゼタ",
+    "reading": "zeta",
+    "code": "cr-kata3-1272",
+    "index": 1272
+  },
+  {
+    "surface": "スーパーコンピュータ",
+    "reading": "supercomputer",
+    "code": "cr-kata3-1273",
+    "index": 1273
+  },
+  {
+    "surface": "シャジクソウ",
+    "reading": "shajikusou",
+    "code": "cr-kata3-1274",
+    "index": 1274
+  },
+  {
+    "surface": "スペンサー",
+    "reading": "spenser",
+    "code": "cr-kata3-1275",
+    "index": 1275
+  },
+  {
+    "surface": "シウダ・オブレゴン",
+    "reading": "shiudaoburegon",
+    "code": "cr-kata3-1276",
+    "index": 1276
+  },
+  {
+    "surface": "ゾンデ",
+    "reading": "sonde",
+    "code": "cr-kata3-1277",
+    "index": 1277
+  },
+  {
+    "surface": "ソリトン",
+    "reading": "soliton",
+    "code": "cr-kata3-1278",
+    "index": 1278
+  },
+  {
+    "surface": "ゾウオロジー",
+    "reading": "zouorojii",
+    "code": "cr-kata3-1279",
+    "index": 1279
+  },
+  {
+    "surface": "ザリンジャイ",
+    "reading": "zarinjai",
+    "code": "cr-kata3-1280",
+    "index": 1280
+  },
+  {
+    "surface": "サブスティテュート",
+    "reading": "sabusutityuuto",
+    "code": "cr-kata3-1281",
+    "index": 1281
+  },
+  {
+    "surface": "サイトメガロウイルス",
+    "reading": "cytomegalovirus",
+    "code": "cr-kata3-1282",
+    "index": 1282
+  },
+  {
+    "surface": "ジャン",
+    "reading": "jean",
+    "code": "cr-kata3-1283",
+    "index": 1283
+  },
+  {
+    "surface": "サントメ・プリンシペ",
+    "reading": "saotomeeprincipe",
+    "code": "cr-kata3-1284",
+    "index": 1284
+  },
+  {
+    "surface": "スーパ",
+    "reading": "super",
+    "code": "cr-kata3-1285",
+    "index": 1285
+  },
+  {
+    "surface": "ショプインショップ",
+    "reading": "shopuinshoppu",
+    "code": "cr-kata3-1286",
+    "index": 1286
+  },
+  {
+    "surface": "スバ",
+    "reading": "suva",
+    "code": "cr-kata3-1287",
+    "index": 1287
+  },
+  {
+    "surface": "サーモスタット",
+    "reading": "thermostat",
+    "code": "cr-kata3-1288",
+    "index": 1288
+  },
+  {
+    "surface": "ショーン",
+    "reading": "sean",
+    "code": "cr-kata3-1289",
+    "index": 1289
+  },
+  {
+    "surface": "スクリュープロペラ",
+    "reading": "screwpropeller",
+    "code": "cr-kata3-1290",
+    "index": 1290
+  },
+  {
+    "surface": "スランプフレーション",
+    "reading": "suranpufureeshon",
+    "code": "cr-kata3-1291",
+    "index": 1291
+  },
+  {
+    "surface": "スクレッパー",
+    "reading": "sukureppaa",
+    "code": "cr-kata3-1292",
+    "index": 1292
+  },
+  {
+    "surface": "シングル・ヒット",
+    "reading": "singlehit",
+    "code": "cr-kata3-1293",
+    "index": 1293
+  },
+  {
+    "surface": "スペキュレーター",
+    "reading": "specialcurator",
+    "code": "cr-kata3-1294",
+    "index": 1294
+  },
+  {
+    "surface": "ジリジリ",
+    "reading": "jirijiri",
+    "code": "cr-kata3-1295",
+    "index": 1295
+  },
+  {
+    "surface": "ストー",
+    "reading": "stowe",
+    "code": "cr-kata3-1296",
+    "index": 1296
+  },
+  {
+    "surface": "スポケーン・ヴァレー",
+    "reading": "supokeenvaree",
+    "code": "cr-kata3-1297",
+    "index": 1297
+  },
+  {
+    "surface": "セミ",
+    "reading": "semi",
+    "code": "cr-kata3-1298",
+    "index": 1298
+  },
+  {
+    "surface": "ショーツ",
+    "reading": "shorts",
+    "code": "cr-kata3-1299",
+    "index": 1299
+  },
+  {
+    "surface": "ジャグジー",
+    "reading": "jacuzzi",
+    "code": "cr-kata3-1300",
+    "index": 1300
+  },
+  {
+    "surface": "シナ",
+    "reading": "shina",
+    "code": "cr-kata3-1301",
+    "index": 1301
+  },
+  {
+    "surface": "セレクト",
+    "reading": "select",
+    "code": "cr-kata3-1302",
+    "index": 1302
+  },
+  {
+    "surface": "ストック・オプション",
+    "reading": "stockoption",
+    "code": "cr-kata3-1303",
+    "index": 1303
+  },
+  {
+    "surface": "シリアス",
+    "reading": "serious",
+    "code": "cr-kata3-1304",
+    "index": 1304
+  },
+  {
+    "surface": "スカイダイビング",
+    "reading": "skydiving",
+    "code": "cr-kata3-1305",
+    "index": 1305
+  },
+  {
+    "surface": "センチメント",
+    "reading": "sentiment",
+    "code": "cr-kata3-1306",
+    "index": 1306
+  },
+  {
+    "surface": "シノノメサカタザメ",
+    "reading": "shinonomesakatazame",
+    "code": "cr-kata3-1307",
+    "index": 1307
+  },
+  {
+    "surface": "スギ",
+    "reading": "sugi",
+    "code": "cr-kata3-1308",
+    "index": 1308
+  },
+  {
+    "surface": "スリカタ",
+    "reading": "suricate",
+    "code": "cr-kata3-1309",
+    "index": 1309
+  },
+  {
+    "surface": "スリーブ",
+    "reading": "sleeve",
+    "code": "cr-kata3-1310",
+    "index": 1310
+  },
+  {
+    "surface": "セミフォーマル",
+    "reading": "semiformal",
+    "code": "cr-kata3-1311",
+    "index": 1311
+  },
+  {
+    "surface": "スギト",
+    "reading": "sugito",
+    "code": "cr-kata3-1312",
+    "index": 1312
+  },
+  {
+    "surface": "ジム",
+    "reading": "gym",
+    "code": "cr-kata3-1313",
+    "index": 1313
+  },
+  {
+    "surface": "サブコマンド",
+    "reading": "subcommand",
+    "code": "cr-kata3-1314",
+    "index": 1314
+  },
+  {
+    "surface": "スペアキー",
+    "reading": "sparekey",
+    "code": "cr-kata3-1315",
+    "index": 1315
+  },
+  {
+    "surface": "サーロインステーキ",
+    "reading": "sirloinsteak",
+    "code": "cr-kata3-1316",
+    "index": 1316
+  },
+  {
+    "surface": "セレス",
+    "reading": "seresu",
+    "code": "cr-kata3-1317",
+    "index": 1317
+  },
+  {
+    "surface": "シロハラ",
+    "reading": "shirohara",
+    "code": "cr-kata3-1318",
+    "index": 1318
+  },
+  {
+    "surface": "サティスファクション",
+    "reading": "satisfaction",
+    "code": "cr-kata3-1319",
+    "index": 1319
+  },
+  {
+    "surface": "サラプル",
+    "reading": "salarypull",
+    "code": "cr-kata3-1320",
+    "index": 1320
+  },
+  {
+    "surface": "サウンドエフェクト",
+    "reading": "soundeffect",
+    "code": "cr-kata3-1321",
+    "index": 1321
+  },
+  {
+    "surface": "セグロチョウチョウウオ",
+    "reading": "segurochouchouuo",
+    "code": "cr-kata3-1322",
+    "index": 1322
+  },
+  {
+    "surface": "シフィノウイシチェ",
+    "reading": "shifinouishiche",
+    "code": "cr-kata3-1323",
+    "index": 1323
+  },
+  {
+    "surface": "スプリング・バレー",
+    "reading": "springvolley",
+    "code": "cr-kata3-1324",
+    "index": 1324
+  },
+  {
+    "surface": "スカンピン",
+    "reading": "sukanpin",
+    "code": "cr-kata3-1325",
+    "index": 1325
+  },
+  {
+    "surface": "ジレ",
+    "reading": "gilet",
+    "code": "cr-kata3-1326",
+    "index": 1326
+  },
+  {
+    "surface": "サン・カルロス・デ・バリローチェ",
+    "reading": "suncarlosdebarirooche",
+    "code": "cr-kata3-1327",
+    "index": 1327
+  },
+  {
+    "surface": "サヨナラ",
+    "reading": "sayonara",
+    "code": "cr-kata3-1328",
+    "index": 1328
+  },
+  {
+    "surface": "サステナビリティ",
+    "reading": "sustainability",
+    "code": "cr-kata3-1329",
+    "index": 1329
+  },
+  {
+    "surface": "ステップ",
+    "reading": "step",
+    "code": "cr-kata3-1330",
+    "index": 1330
+  },
+  {
+    "surface": "ザカタラ",
+    "reading": "zakatara",
+    "code": "cr-kata3-1331",
+    "index": 1331
+  },
+  {
+    "surface": "スチコン",
+    "reading": "suchikon",
+    "code": "cr-kata3-1332",
+    "index": 1332
+  },
+  {
+    "surface": "スコッチ",
+    "reading": "scotch",
+    "code": "cr-kata3-1333",
+    "index": 1333
+  },
+  {
+    "surface": "シーサイド",
+    "reading": "seaside",
+    "code": "cr-kata3-1334",
+    "index": 1334
+  },
+  {
+    "surface": "サプライチェーンマネジメント",
+    "reading": "supplychainmanagement",
+    "code": "cr-kata3-1335",
+    "index": 1335
+  },
+  {
+    "surface": "シュトルムウントドラング",
+    "reading": "stormunddrang",
+    "code": "cr-kata3-1336",
+    "index": 1336
+  },
+  {
+    "surface": "ザラザラ",
+    "reading": "zarazara",
+    "code": "cr-kata3-1337",
+    "index": 1337
+  },
+  {
+    "surface": "スパーク",
+    "reading": "spark",
+    "code": "cr-kata3-1338",
+    "index": 1338
+  },
+  {
+    "surface": "ゼニ",
+    "reading": "zeni",
+    "code": "cr-kata3-1339",
+    "index": 1339
+  },
+  {
+    "surface": "セントラルフォールズ",
+    "reading": "centralfall",
+    "code": "cr-kata3-1340",
+    "index": 1340
+  },
+  {
+    "surface": "サーモメーター",
+    "reading": "thermometer",
+    "code": "cr-kata3-1341",
+    "index": 1341
+  },
+  {
+    "surface": "サステイナビリティ",
+    "reading": "sustainability",
+    "code": "cr-kata3-1342",
+    "index": 1342
+  },
+  {
+    "surface": "セディ",
+    "reading": "sedi",
+    "code": "cr-kata3-1343",
+    "index": 1343
+  },
+  {
+    "surface": "ゼネラル・ストライキ",
+    "reading": "generalstrike",
+    "code": "cr-kata3-1344",
+    "index": 1344
+  },
+  {
+    "surface": "シネマコンプレックス",
+    "reading": "cinemacomplex",
+    "code": "cr-kata3-1345",
+    "index": 1345
+  },
+  {
+    "surface": "ジルコニウム",
+    "reading": "zirconium",
+    "code": "cr-kata3-1346",
+    "index": 1346
+  },
+  {
+    "surface": "ソーシャルスキル",
+    "reading": "socialskill",
+    "code": "cr-kata3-1347",
+    "index": 1347
+  },
+  {
+    "surface": "ズームレンズ",
+    "reading": "zoomlens",
+    "code": "cr-kata3-1348",
+    "index": 1348
+  },
+  {
+    "surface": "シケモク",
+    "reading": "shikemoku",
+    "code": "cr-kata3-1349",
+    "index": 1349
+  },
+  {
+    "surface": "サタデイ",
+    "reading": "saturday",
+    "code": "cr-kata3-1350",
+    "index": 1350
+  },
+  {
+    "surface": "スモッグ",
+    "reading": "smog",
+    "code": "cr-kata3-1351",
+    "index": 1351
+  },
+  {
+    "surface": "セントジョン",
+    "reading": "sentojon",
+    "code": "cr-kata3-1352",
+    "index": 1352
+  },
+  {
+    "surface": "サテライトスタジオ",
+    "reading": "satellitestudio",
+    "code": "cr-kata3-1353",
+    "index": 1353
+  },
+  {
+    "surface": "シェル",
+    "reading": "shell",
+    "code": "cr-kata3-1354",
+    "index": 1354
+  },
+  {
+    "surface": "ゼーリゲンシュタット",
+    "reading": "zeerigenshutatto",
+    "code": "cr-kata3-1355",
+    "index": 1355
+  },
+  {
+    "surface": "スリラー",
+    "reading": "thriller",
+    "code": "cr-kata3-1356",
+    "index": 1356
+  },
+  {
+    "surface": "シチュエーション",
+    "reading": "situation",
+    "code": "cr-kata3-1357",
+    "index": 1357
+  },
+  {
+    "surface": "シュラーフザック",
+    "reading": "schlafsack",
+    "code": "cr-kata3-1358",
+    "index": 1358
+  },
+  {
+    "surface": "サントメプリンシペ",
+    "reading": "santomepurinshipe",
+    "code": "cr-kata3-1359",
+    "index": 1359
+  },
+  {
+    "surface": "ソシアルワーカー",
+    "reading": "socialworker",
+    "code": "cr-kata3-1360",
+    "index": 1360
+  },
+  {
+    "surface": "サンタ・クルス・デ・テネリフェ",
+    "reading": "saintkurusudetenerife",
+    "code": "cr-kata3-1361",
+    "index": 1361
+  },
+  {
+    "surface": "ストレッチング",
+    "reading": "stretching",
+    "code": "cr-kata3-1362",
+    "index": 1362
+  },
+  {
+    "surface": "サプレッションプール",
+    "reading": "sapuresshonpuuru",
+    "code": "cr-kata3-1363",
+    "index": 1363
+  },
+  {
+    "surface": "サン・ジョアン・デル・レイ",
+    "reading": "sunjoanderulay",
+    "code": "cr-kata3-1364",
+    "index": 1364
+  },
+  {
+    "surface": "スウィフトカレント",
+    "reading": "swiftcurrent",
+    "code": "cr-kata3-1365",
+    "index": 1365
+  },
+  {
+    "surface": "ジャガン",
+    "reading": "jagan",
+    "code": "cr-kata3-1366",
+    "index": 1366
+  },
+  {
+    "surface": "セルラーホン",
+    "reading": "cellularphone",
+    "code": "cr-kata3-1367",
+    "index": 1367
+  },
+  {
+    "surface": "シクロデキストリン",
+    "reading": "cyclodextrin",
+    "code": "cr-kata3-1368",
+    "index": 1368
+  },
+  {
+    "surface": "ステープルファイバー",
+    "reading": "staplefiber",
+    "code": "cr-kata3-1369",
+    "index": 1369
+  },
+  {
+    "surface": "サウンドトラック",
+    "reading": "soundtruck",
+    "code": "cr-kata3-1370",
+    "index": 1370
+  },
+  {
+    "surface": "シュア",
+    "reading": "sure",
+    "code": "cr-kata3-1371",
+    "index": 1371
+  },
+  {
+    "surface": "スティールパン",
+    "reading": "steelpao",
+    "code": "cr-kata3-1372",
+    "index": 1372
+  },
+  {
+    "surface": "シンジケートローン",
+    "reading": "syndicateloan",
+    "code": "cr-kata3-1373",
+    "index": 1373
+  },
+  {
+    "surface": "サンボ",
+    "reading": "sambo",
+    "code": "cr-kata3-1374",
+    "index": 1374
+  },
+  {
+    "surface": "スギアヤチョウチョウウオ",
+    "reading": "sugiayachouchouuo",
+    "code": "cr-kata3-1375",
+    "index": 1375
+  },
+  {
+    "surface": "サントドミンゴエステ",
+    "reading": "santodomingoaesthetic",
+    "code": "cr-kata3-1376",
+    "index": 1376
+  },
+  {
+    "surface": "スタンプコレクション",
+    "reading": "stampcollection",
+    "code": "cr-kata3-1377",
+    "index": 1377
+  },
+  {
+    "surface": "シャンピニオン",
+    "reading": "champignon",
+    "code": "cr-kata3-1378",
+    "index": 1378
+  },
+  {
+    "surface": "スヴァイリエン",
+    "reading": "suvairien",
+    "code": "cr-kata3-1379",
+    "index": 1379
+  },
+  {
+    "surface": "シナモン",
+    "reading": "cinnamon",
+    "code": "cr-kata3-1380",
+    "index": 1380
+  },
+  {
+    "surface": "スノブ",
+    "reading": "suknob",
+    "code": "cr-kata3-1381",
+    "index": 1381
+  },
+  {
+    "surface": "セント・ピーター・ポート",
+    "reading": "saintpeterport",
+    "code": "cr-kata3-1382",
+    "index": 1382
+  },
+  {
+    "surface": "セキュリタイゼーション",
+    "reading": "securitization",
+    "code": "cr-kata3-1383",
+    "index": 1383
+  },
+  {
+    "surface": "ソシアリズム",
+    "reading": "socialism",
+    "code": "cr-kata3-1384",
+    "index": 1384
+  },
+  {
+    "surface": "ゼッケン",
+    "reading": "decke",
+    "code": "cr-kata3-1385",
+    "index": 1385
+  },
+  {
+    "surface": "ジンジャ",
+    "reading": "jinja",
+    "code": "cr-kata3-1386",
+    "index": 1386
+  },
+  {
+    "surface": "セキュリティホール",
+    "reading": "securityhall",
+    "code": "cr-kata3-1387",
+    "index": 1387
+  },
+  {
+    "surface": "ザンクト・ガレン",
+    "reading": "zankutogaren",
+    "code": "cr-kata3-1388",
+    "index": 1388
+  },
+  {
+    "surface": "シワクチャ",
+    "reading": "shiwakucha",
+    "code": "cr-kata3-1389",
+    "index": 1389
+  },
+  {
+    "surface": "ストリートファニチュア",
+    "reading": "sutoriitofanichua",
+    "code": "cr-kata3-1390",
+    "index": 1390
+  },
+  {
+    "surface": "ジタバタ",
+    "reading": "jitabata",
+    "code": "cr-kata3-1391",
+    "index": 1391
+  },
+  {
+    "surface": "スポットアナウンス",
+    "reading": "spotannounce",
+    "code": "cr-kata3-1392",
+    "index": 1392
+  },
+  {
+    "surface": "スミレグサ",
+    "reading": "sumiregusa",
+    "code": "cr-kata3-1393",
+    "index": 1393
+  },
+  {
+    "surface": "スコーフィールド・バラックス",
+    "reading": "sukoofiirudobarakkusu",
+    "code": "cr-kata3-1394",
+    "index": 1394
+  },
+  {
+    "surface": "スローモー",
+    "reading": "suroomoo",
+    "code": "cr-kata3-1395",
+    "index": 1395
+  },
+  {
+    "surface": "スンゴイ",
+    "reading": "sungoi",
+    "code": "cr-kata3-1396",
+    "index": 1396
+  },
+  {
+    "surface": "セコンディリャーノ",
+    "reading": "sekondiryaano",
+    "code": "cr-kata3-1397",
+    "index": 1397
+  },
+  {
+    "surface": "スケルマースデール",
+    "reading": "sukerumaasudeeru",
+    "code": "cr-kata3-1398",
+    "index": 1398
+  },
+  {
+    "surface": "ズラ",
+    "reading": "zura",
+    "code": "cr-kata3-1399",
+    "index": 1399
+  },
+  {
+    "surface": "ゼロ",
+    "reading": "zero",
+    "code": "cr-kata3-1400",
+    "index": 1400
+  },
+  {
+    "surface": "スパイク",
+    "reading": "spike",
+    "code": "cr-kata3-1401",
+    "index": 1401
+  },
+  {
+    "surface": "サウンド",
+    "reading": "sound",
+    "code": "cr-kata3-1402",
+    "index": 1402
+  },
+  {
+    "surface": "セパレート",
+    "reading": "separate",
+    "code": "cr-kata3-1403",
+    "index": 1403
+  },
+  {
+    "surface": "サムットソンクラム",
+    "reading": "samuttosonkuramu",
+    "code": "cr-kata3-1404",
+    "index": 1404
+  },
+  {
+    "surface": "サラダドレッシング",
+    "reading": "saladdressing",
+    "code": "cr-kata3-1405",
+    "index": 1405
+  },
+  {
+    "surface": "セルフ・コントロール",
+    "reading": "selfcontrol",
+    "code": "cr-kata3-1406",
+    "index": 1406
+  },
+  {
+    "surface": "シラップ",
+    "reading": "shirap",
+    "code": "cr-kata3-1407",
+    "index": 1407
+  },
+  {
+    "surface": "サタン",
+    "reading": "satan",
+    "code": "cr-kata3-1408",
+    "index": 1408
+  },
+  {
+    "surface": "ジェルファ",
+    "reading": "jerufu",
+    "code": "cr-kata3-1409",
+    "index": 1409
+  },
+  {
+    "surface": "セモリナ",
+    "reading": "semolina",
+    "code": "cr-kata3-1410",
+    "index": 1410
+  },
+  {
+    "surface": "スギゴケ",
+    "reading": "sugigoke",
+    "code": "cr-kata3-1411",
+    "index": 1411
+  },
+  {
+    "surface": "スリーピース",
+    "reading": "threepiece",
+    "code": "cr-kata3-1412",
+    "index": 1412
+  },
+  {
+    "surface": "セミナー",
+    "reading": "seminar",
+    "code": "cr-kata3-1413",
+    "index": 1413
+  },
+  {
+    "surface": "シロボシスズメダイ",
+    "reading": "shiroboshisuzumedai",
+    "code": "cr-kata3-1414",
+    "index": 1414
+  },
+  {
+    "surface": "ショーダービジョン",
+    "reading": "shoodaabijon",
+    "code": "cr-kata3-1415",
+    "index": 1415
+  },
+  {
+    "surface": "シュールリアリズム",
+    "reading": "surrealismerealism",
+    "code": "cr-kata3-1416",
+    "index": 1416
+  },
+  {
+    "surface": "シムカード",
+    "reading": "shimucard",
+    "code": "cr-kata3-1417",
+    "index": 1417
+  },
+  {
+    "surface": "スカイジャック",
+    "reading": "skyjack",
+    "code": "cr-kata3-1418",
+    "index": 1418
+  },
+  {
+    "surface": "ストレートフラッシュ",
+    "reading": "straightflash",
+    "code": "cr-kata3-1419",
+    "index": 1419
+  },
+  {
+    "surface": "セサミ",
+    "reading": "sesame",
+    "code": "cr-kata3-1420",
+    "index": 1420
+  },
+  {
+    "surface": "スネークウッド",
+    "reading": "snakewood",
+    "code": "cr-kata3-1421",
+    "index": 1421
+  },
+  {
+    "surface": "セイナヨキ",
+    "reading": "saynayoki",
+    "code": "cr-kata3-1422",
+    "index": 1422
+  },
+  {
+    "surface": "スタロガルド・グダニスキ",
+    "reading": "sutarogarudogudanisuki",
+    "code": "cr-kata3-1423",
+    "index": 1423
+  },
+  {
+    "surface": "スケーラビリティー",
+    "reading": "sukeerabiritii",
+    "code": "cr-kata3-1424",
+    "index": 1424
+  },
+  {
+    "surface": "サン・セヴェーロ",
+    "reading": "sunseveero",
+    "code": "cr-kata3-1425",
+    "index": 1425
+  },
+  {
+    "surface": "セファロスポリン",
+    "reading": "cephalosporin",
+    "code": "cr-kata3-1426",
+    "index": 1426
+  },
+  {
+    "surface": "シャンハイガニ",
+    "reading": "shanhaigani",
+    "code": "cr-kata3-1427",
+    "index": 1427
+  },
+  {
+    "surface": "ソースプログラム",
+    "reading": "sauceprogram",
+    "code": "cr-kata3-1428",
+    "index": 1428
+  },
+  {
+    "surface": "サーターアンダーギー",
+    "reading": "saataaandaagii",
+    "code": "cr-kata3-1429",
+    "index": 1429
+  },
+  {
+    "surface": "スレ",
+    "reading": "thread",
+    "code": "cr-kata3-1430",
+    "index": 1430
+  },
+  {
+    "surface": "ジャンジャウィード",
+    "reading": "jeanjaweed",
+    "code": "cr-kata3-1431",
+    "index": 1431
+  },
+  {
+    "surface": "セホーレ",
+    "reading": "sehoore",
+    "code": "cr-kata3-1432",
+    "index": 1432
+  },
+  {
+    "surface": "シュプレマティズム",
+    "reading": "suprematism",
+    "code": "cr-kata3-1433",
+    "index": 1433
+  },
+  {
+    "surface": "サン・ペドロ・スーラ",
+    "reading": "sunpedrosuura",
+    "code": "cr-kata3-1434",
+    "index": 1434
+  },
+  {
+    "surface": "シイノキ",
+    "reading": "shiinoki",
+    "code": "cr-kata3-1435",
+    "index": 1435
+  },
+  {
+    "surface": "スルグト",
+    "reading": "suruguto",
+    "code": "cr-kata3-1436",
+    "index": 1436
+  },
+  {
+    "surface": "スキャンダラス",
+    "reading": "scandalous",
+    "code": "cr-kata3-1437",
+    "index": 1437
+  },
+  {
+    "surface": "シオニスト",
+    "reading": "zionist",
+    "code": "cr-kata3-1438",
+    "index": 1438
+  },
+  {
+    "surface": "ズミ",
+    "reading": "zumi",
+    "code": "cr-kata3-1439",
+    "index": 1439
+  },
+  {
+    "surface": "サイコオンコロジー",
+    "reading": "psychooncology",
+    "code": "cr-kata3-1440",
+    "index": 1440
+  },
+  {
+    "surface": "シーダー・フォルス",
+    "reading": "cedarforusu",
+    "code": "cr-kata3-1441",
+    "index": 1441
+  },
+  {
+    "surface": "シェアウェア",
+    "reading": "sharewear",
+    "code": "cr-kata3-1442",
+    "index": 1442
+  },
+  {
+    "surface": "サルーン",
+    "reading": "saloon",
+    "code": "cr-kata3-1443",
+    "index": 1443
+  },
+  {
+    "surface": "スパナ",
+    "reading": "spanner",
+    "code": "cr-kata3-1444",
+    "index": 1444
+  },
+  {
+    "surface": "ジャクソン・ハイツ",
+    "reading": "jacksonheights",
+    "code": "cr-kata3-1445",
+    "index": 1445
+  },
+  {
+    "surface": "ジャバ",
+    "reading": "java",
+    "code": "cr-kata3-1446",
+    "index": 1446
+  },
+  {
+    "surface": "シェパートン",
+    "reading": "shepaaton",
+    "code": "cr-kata3-1447",
+    "index": 1447
+  },
+  {
+    "surface": "シークレット・サービス",
+    "reading": "secretservice",
+    "code": "cr-kata3-1448",
+    "index": 1448
+  },
+  {
+    "surface": "サイリスタ",
+    "reading": "thyristor",
+    "code": "cr-kata3-1449",
+    "index": 1449
+  },
+  {
+    "surface": "シャンペーン",
+    "reading": "champagne",
+    "code": "cr-kata3-1450",
+    "index": 1450
+  },
+  {
+    "surface": "スリーキ",
+    "reading": "threeki",
+    "code": "cr-kata3-1451",
+    "index": 1451
+  },
+  {
+    "surface": "ササ",
+    "reading": "sasa",
+    "code": "cr-kata3-1452",
+    "index": 1452
+  },
+  {
+    "surface": "スィーツ",
+    "reading": "sweet",
+    "code": "cr-kata3-1453",
+    "index": 1453
+  },
+  {
+    "surface": "シロザメ",
+    "reading": "shirozame",
+    "code": "cr-kata3-1454",
+    "index": 1454
+  },
+  {
+    "surface": "セクスィー",
+    "reading": "sectorsee",
+    "code": "cr-kata3-1455",
+    "index": 1455
+  },
+  {
+    "surface": "スクリーン",
+    "reading": "screen",
+    "code": "cr-kata3-1456",
+    "index": 1456
+  },
+  {
+    "surface": "シロンボ",
+    "reading": "shironbo",
+    "code": "cr-kata3-1457",
+    "index": 1457
+  },
+  {
+    "surface": "スピード",
+    "reading": "speed",
+    "code": "cr-kata3-1458",
+    "index": 1458
+  },
+  {
+    "surface": "サンタ・クルス・デ・バラホナ",
+    "reading": "saintkurusudebarahona",
+    "code": "cr-kata3-1459",
+    "index": 1459
+  },
+  {
+    "surface": "ザンクト・ペルテン",
+    "reading": "sanktpolten",
+    "code": "cr-kata3-1460",
+    "index": 1460
+  },
+  {
+    "surface": "スピリトーソ",
+    "reading": "supiritooso",
+    "code": "cr-kata3-1461",
+    "index": 1461
+  },
+  {
+    "surface": "セレブリティー",
+    "reading": "celebrity",
+    "code": "cr-kata3-1462",
+    "index": 1462
+  },
+  {
+    "surface": "スケープゴーティング",
+    "reading": "scapegoating",
+    "code": "cr-kata3-1463",
+    "index": 1463
+  },
+  {
+    "surface": "スピリチュアリティ",
+    "reading": "spirituality",
+    "code": "cr-kata3-1464",
+    "index": 1464
+  },
+  {
+    "surface": "ジョワイ",
+    "reading": "jowai",
+    "code": "cr-kata3-1465",
+    "index": 1465
+  },
+  {
+    "surface": "シイラ",
+    "reading": "shiira",
+    "code": "cr-kata3-1466",
+    "index": 1466
+  },
+  {
+    "surface": "ステロール",
+    "reading": "sterol",
+    "code": "cr-kata3-1467",
+    "index": 1467
+  },
+  {
+    "surface": "シリアルエーティーエー",
+    "reading": "shiriarueetiiee",
+    "code": "cr-kata3-1468",
+    "index": 1468
+  },
+  {
+    "surface": "シンガーソングライター",
+    "reading": "singersongwriter",
+    "code": "cr-kata3-1469",
+    "index": 1469
+  },
+  {
+    "surface": "ゼエゼエ",
+    "reading": "zeezee",
+    "code": "cr-kata3-1470",
+    "index": 1470
+  },
+  {
+    "surface": "ストレプトマイシン",
+    "reading": "streptomycin",
+    "code": "cr-kata3-1471",
+    "index": 1471
+  },
+  {
+    "surface": "サマーラ",
+    "reading": "samara",
+    "code": "cr-kata3-1472",
+    "index": 1472
+  },
+  {
+    "surface": "スクリーンプロセス",
+    "reading": "screenprocess",
+    "code": "cr-kata3-1473",
+    "index": 1473
+  },
+  {
+    "surface": "シンクロニシティー",
+    "reading": "synchronicity",
+    "code": "cr-kata3-1474",
+    "index": 1474
+  },
+  {
+    "surface": "サーメン",
+    "reading": "saamen",
+    "code": "cr-kata3-1475",
+    "index": 1475
+  },
+  {
+    "surface": "ジットリ",
+    "reading": "jittori",
+    "code": "cr-kata3-1476",
+    "index": 1476
+  },
+  {
+    "surface": "サーティフィケート",
+    "reading": "certificate",
+    "code": "cr-kata3-1477",
+    "index": 1477
+  },
+  {
+    "surface": "シリアゲムシ",
+    "reading": "shiriagemushi",
+    "code": "cr-kata3-1478",
+    "index": 1478
+  },
+  {
+    "surface": "シーディーディーエー",
+    "reading": "shiidiidiiee",
+    "code": "cr-kata3-1479",
+    "index": 1479
+  },
+  {
+    "surface": "ジャンケット",
+    "reading": "junket",
+    "code": "cr-kata3-1480",
+    "index": 1480
+  },
+  {
+    "surface": "ジャーン",
+    "reading": "jaan",
+    "code": "cr-kata3-1481",
+    "index": 1481
+  },
+  {
+    "surface": "ストーブ",
+    "reading": "stove",
+    "code": "cr-kata3-1482",
+    "index": 1482
+  },
+  {
+    "surface": "シリアナ",
+    "reading": "shiriannouncer",
+    "code": "cr-kata3-1483",
+    "index": 1483
+  },
+  {
+    "surface": "ストアドプロシジャ",
+    "reading": "sutoadopuroshija",
+    "code": "cr-kata3-1484",
+    "index": 1484
+  },
+  {
+    "surface": "シャドーストライプ",
+    "reading": "shadowstripe",
+    "code": "cr-kata3-1485",
+    "index": 1485
+  },
+  {
+    "surface": "ジンジャントロプス",
+    "reading": "jinjantoropusu",
+    "code": "cr-kata3-1486",
+    "index": 1486
+  },
+  {
+    "surface": "ゾル",
+    "reading": "sol",
+    "code": "cr-kata3-1487",
+    "index": 1487
+  },
+  {
+    "surface": "シャンペンサイダー",
+    "reading": "champagnecider",
+    "code": "cr-kata3-1488",
+    "index": 1488
+  },
+  {
+    "surface": "サン・マウロ・トリネーゼ",
+    "reading": "sunmaurotorineeze",
+    "code": "cr-kata3-1489",
+    "index": 1489
+  },
+  {
+    "surface": "ジェロントクラシー",
+    "reading": "gerontocracy",
+    "code": "cr-kata3-1490",
+    "index": 1490
+  },
+  {
+    "surface": "スモーカー",
+    "reading": "smoker",
+    "code": "cr-kata3-1491",
+    "index": 1491
+  },
+  {
+    "surface": "サンタントーニオ・アバーテ",
+    "reading": "santantoonioabaate",
+    "code": "cr-kata3-1492",
+    "index": 1492
+  },
+  {
+    "surface": "ソルバー",
+    "reading": "solver",
+    "code": "cr-kata3-1493",
+    "index": 1493
+  },
+  {
+    "surface": "シャリア",
+    "reading": "shariah",
+    "code": "cr-kata3-1494",
+    "index": 1494
+  },
+  {
+    "surface": "シメサバ",
+    "reading": "shimesaba",
+    "code": "cr-kata3-1495",
+    "index": 1495
+  },
+  {
+    "surface": "ソラミミ",
+    "reading": "soramimi",
+    "code": "cr-kata3-1496",
+    "index": 1496
+  },
+  {
+    "surface": "ソーガム",
+    "reading": "sawgum",
+    "code": "cr-kata3-1497",
+    "index": 1497
+  },
+  {
+    "surface": "ソフトコンタクトレンズ",
+    "reading": "softcontactlens",
+    "code": "cr-kata3-1498",
+    "index": 1498
+  },
+  {
+    "surface": "スゲ",
+    "reading": "suge",
+    "code": "cr-kata3-1499",
+    "index": 1499
+  },
+  {
+    "surface": "シロナガスクジラ",
+    "reading": "shironagasukujira",
+    "code": "cr-kata3-1500",
+    "index": 1500
+  },
+  {
+    "surface": "ススキ",
+    "reading": "susuki",
+    "code": "cr-kata3-1501",
+    "index": 1501
+  },
+  {
+    "surface": "ション",
+    "reading": "shon",
+    "code": "cr-kata3-1502",
+    "index": 1502
+  },
+  {
+    "surface": "セルリレーサービス",
+    "reading": "cellrelayservice",
+    "code": "cr-kata3-1503",
+    "index": 1503
+  },
+  {
+    "surface": "サン・セバスティアン",
+    "reading": "sunsebastian",
+    "code": "cr-kata3-1504",
+    "index": 1504
+  },
+  {
+    "surface": "センキュ",
+    "reading": "senkyu",
+    "code": "cr-kata3-1505",
+    "index": 1505
+  },
+  {
+    "surface": "サガ",
+    "reading": "saga",
+    "code": "cr-kata3-1506",
+    "index": 1506
+  },
+  {
+    "surface": "スクショ",
+    "reading": "schoolingsho",
+    "code": "cr-kata3-1507",
+    "index": 1507
+  },
+  {
+    "surface": "サド",
+    "reading": "sadist",
+    "code": "cr-kata3-1508",
+    "index": 1508
+  },
+  {
+    "surface": "サイクロイド",
+    "reading": "cycloid",
+    "code": "cr-kata3-1509",
+    "index": 1509
+  },
+  {
+    "surface": "セントキャサリンズ",
+    "reading": "stcatharines",
+    "code": "cr-kata3-1510",
+    "index": 1510
+  },
+  {
+    "surface": "シタール",
+    "reading": "sitar",
+    "code": "cr-kata3-1511",
+    "index": 1511
+  },
+  {
+    "surface": "スタンドバイクレジット",
+    "reading": "standbycredit",
+    "code": "cr-kata3-1512",
+    "index": 1512
+  },
+  {
+    "surface": "スネイク",
+    "reading": "suneiku",
+    "code": "cr-kata3-1513",
+    "index": 1513
+  },
+  {
+    "surface": "シュチエーション",
+    "reading": "shuchieeshon",
+    "code": "cr-kata3-1514",
+    "index": 1514
+  },
+  {
+    "surface": "サルスベリ",
+    "reading": "sarusuberi",
+    "code": "cr-kata3-1515",
+    "index": 1515
+  },
+  {
+    "surface": "セカンドオピニオン",
+    "reading": "sekandoopinion",
+    "code": "cr-kata3-1516",
+    "index": 1516
+  },
+  {
+    "surface": "シグネチャ",
+    "reading": "signature",
+    "code": "cr-kata3-1517",
+    "index": 1517
+  },
+  {
+    "surface": "ササヅカ",
+    "reading": "sasazuka",
+    "code": "cr-kata3-1518",
+    "index": 1518
+  },
+  {
+    "surface": "サブダクションゾーン",
+    "reading": "sabudakushonzoon",
+    "code": "cr-kata3-1519",
+    "index": 1519
+  },
+  {
+    "surface": "サルゴーダー",
+    "reading": "sarugoodaa",
+    "code": "cr-kata3-1520",
+    "index": 1520
+  },
+  {
+    "surface": "スピネーア",
+    "reading": "supineea",
+    "code": "cr-kata3-1521",
+    "index": 1521
+  },
+  {
+    "surface": "システムインテグレータ",
+    "reading": "systemintegrator",
+    "code": "cr-kata3-1522",
+    "index": 1522
+  },
+  {
+    "surface": "セレスタ",
+    "reading": "seresuta",
+    "code": "cr-kata3-1523",
+    "index": 1523
+  },
+  {
+    "surface": "サラトガスプリング",
+    "reading": "saratogaspring",
+    "code": "cr-kata3-1524",
+    "index": 1524
+  },
+  {
+    "surface": "サントル・ド・フラック",
+    "reading": "santoldofurakku",
+    "code": "cr-kata3-1525",
+    "index": 1525
+  },
+  {
+    "surface": "セミクジラ",
+    "reading": "semikujira",
+    "code": "cr-kata3-1526",
+    "index": 1526
+  },
+  {
+    "surface": "シラスゲ",
+    "reading": "shirasuge",
+    "code": "cr-kata3-1527",
+    "index": 1527
+  },
+  {
+    "surface": "スワヒリ",
+    "reading": "suwahiri",
+    "code": "cr-kata3-1528",
+    "index": 1528
+  },
+  {
+    "surface": "シマリス",
+    "reading": "shimarisu",
+    "code": "cr-kata3-1529",
+    "index": 1529
+  },
+  {
+    "surface": "スリン",
+    "reading": "surin",
+    "code": "cr-kata3-1530",
+    "index": 1530
+  },
+  {
+    "surface": "ステコミ",
+    "reading": "stationkomi",
+    "code": "cr-kata3-1531",
+    "index": 1531
+  },
+  {
+    "surface": "スクランブルエッグ",
+    "reading": "scrambleegg",
+    "code": "cr-kata3-1532",
+    "index": 1532
+  },
+  {
+    "surface": "システムリソース",
+    "reading": "systemresource",
+    "code": "cr-kata3-1533",
+    "index": 1533
+  },
+  {
+    "surface": "ズバリ",
+    "reading": "zubari",
+    "code": "cr-kata3-1534",
+    "index": 1534
+  },
+  {
+    "surface": "シップ",
+    "reading": "shippu",
+    "code": "cr-kata3-1535",
+    "index": 1535
+  },
+  {
+    "surface": "スバシリ",
+    "reading": "suvashiri",
+    "code": "cr-kata3-1536",
+    "index": 1536
+  },
+  {
+    "surface": "スウィフトギツネ",
+    "reading": "suifutogitsune",
+    "code": "cr-kata3-1537",
+    "index": 1537
+  },
+  {
+    "surface": "サルビア",
+    "reading": "salvia",
+    "code": "cr-kata3-1538",
+    "index": 1538
+  },
+  {
+    "surface": "スラスター",
+    "reading": "surasutaa",
+    "code": "cr-kata3-1539",
+    "index": 1539
+  },
+  {
+    "surface": "サヤ",
+    "reading": "saya",
+    "code": "cr-kata3-1540",
+    "index": 1540
+  },
+  {
+    "surface": "セミドキュメンタリー",
+    "reading": "semidocumentary",
+    "code": "cr-kata3-1541",
+    "index": 1541
+  },
+  {
+    "surface": "ジロカストラ",
+    "reading": "jirokasutora",
+    "code": "cr-kata3-1542",
+    "index": 1542
+  },
+  {
+    "surface": "サランスク",
+    "reading": "saranschooling",
+    "code": "cr-kata3-1543",
+    "index": 1543
+  },
+  {
+    "surface": "シリウスベニハゼ",
+    "reading": "shiriusubenihaze",
+    "code": "cr-kata3-1544",
+    "index": 1544
+  },
+  {
+    "surface": "ジュベナイル",
+    "reading": "jubenairu",
+    "code": "cr-kata3-1545",
+    "index": 1545
+  },
+  {
+    "surface": "シモイグサ",
+    "reading": "shimoigusa",
+    "code": "cr-kata3-1546",
+    "index": 1546
+  },
+  {
+    "surface": "ショートショート",
+    "reading": "shortshort",
+    "code": "cr-kata3-1547",
+    "index": 1547
+  },
+  {
+    "surface": "サンバー",
+    "reading": "sambar",
+    "code": "cr-kata3-1548",
+    "index": 1548
+  },
+  {
+    "surface": "スタントマン",
+    "reading": "stuntman",
+    "code": "cr-kata3-1549",
+    "index": 1549
+  },
+  {
+    "surface": "サビロイ",
+    "reading": "saveloy",
+    "code": "cr-kata3-1550",
+    "index": 1550
+  },
+  {
+    "surface": "スタンレー",
+    "reading": "stanley",
+    "code": "cr-kata3-1551",
+    "index": 1551
+  },
+  {
+    "surface": "ジャム",
+    "reading": "jam",
+    "code": "cr-kata3-1552",
+    "index": 1552
+  },
+  {
+    "surface": "ストーク・オン・トレント",
+    "reading": "storkontorrent",
+    "code": "cr-kata3-1553",
+    "index": 1553
+  },
+  {
+    "surface": "サン・ジョゼー・ド・リオ・プレト",
+    "reading": "sunjozedoriopureto",
+    "code": "cr-kata3-1554",
+    "index": 1554
+  },
+  {
+    "surface": "サイネリア",
+    "reading": "cineraria",
+    "code": "cr-kata3-1555",
+    "index": 1555
+  },
+  {
+    "surface": "スタディアム",
+    "reading": "studyam",
+    "code": "cr-kata3-1556",
+    "index": 1556
+  },
+  {
+    "surface": "ザラクビオオトカゲ",
+    "reading": "zarakubiootokage",
+    "code": "cr-kata3-1557",
+    "index": 1557
+  },
+  {
+    "surface": "シメトリック",
+    "reading": "shimetrik",
+    "code": "cr-kata3-1558",
+    "index": 1558
+  },
+  {
+    "surface": "ジゴロ",
+    "reading": "gigolo",
+    "code": "cr-kata3-1559",
+    "index": 1559
+  },
+  {
+    "surface": "サブネットワークアドレス",
+    "reading": "subnetworkaddress",
+    "code": "cr-kata3-1560",
+    "index": 1560
+  },
+  {
+    "surface": "サン・クリストバル",
+    "reading": "suncristobal",
+    "code": "cr-kata3-1561",
+    "index": 1561
+  },
+  {
+    "surface": "スポークスパーソン",
+    "reading": "spokesperson",
+    "code": "cr-kata3-1562",
+    "index": 1562
+  },
+  {
+    "surface": "サワガニ",
+    "reading": "sawagani",
+    "code": "cr-kata3-1563",
+    "index": 1563
+  },
+  {
+    "surface": "セクシャル・ハラスメント",
+    "reading": "sexualharassment",
+    "code": "cr-kata3-1564",
+    "index": 1564
+  },
+  {
+    "surface": "ズロース",
+    "reading": "drawers",
+    "code": "cr-kata3-1565",
+    "index": 1565
+  },
+  {
+    "surface": "サイロームスプリングス",
+    "reading": "sairoomusupuringusu",
+    "code": "cr-kata3-1566",
+    "index": 1566
+  },
+  {
+    "surface": "シークレット",
+    "reading": "secret",
+    "code": "cr-kata3-1567",
+    "index": 1567
+  },
+  {
+    "surface": "シャルム・エル・シェイク",
+    "reading": "charmeerusheiku",
+    "code": "cr-kata3-1568",
+    "index": 1568
+  },
+  {
+    "surface": "ジオラマ",
+    "reading": "diorama",
+    "code": "cr-kata3-1569",
+    "index": 1569
+  }
+]
