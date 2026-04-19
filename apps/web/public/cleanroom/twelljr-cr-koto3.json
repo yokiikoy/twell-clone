@@ -1,0 +1,1208 @@
+[
+  {
+    "surface": "騎虎の勢い",
+    "reading": "kikonoikioi",
+    "code": "cr-koto3-0",
+    "index": 0
+  },
+  {
+    "surface": "一将功成りて万骨枯る",
+    "reading": "isshoukounaritebankotsukareru",
+    "code": "cr-koto3-1",
+    "index": 1
+  },
+  {
+    "surface": "カテゴリ:由来 孟子",
+    "reading": "categoryyuraimoushi",
+    "code": "cr-koto3-2",
+    "index": 2
+  },
+  {
+    "surface": "名を竹帛に垂る",
+    "reading": "nawochikuhakunishideru",
+    "code": "cr-koto3-3",
+    "index": 3
+  },
+  {
+    "surface": "功名を竹帛に垂る",
+    "reading": "koumyouwochikuhakunishideru",
+    "code": "cr-koto3-4",
+    "index": 4
+  },
+  {
+    "surface": "当たらずと雖も遠からず",
+    "reading": "atarazutoiedomotookarazu",
+    "code": "cr-koto3-5",
+    "index": 5
+  },
+  {
+    "surface": "五十にして天命を知る",
+    "reading": "gojuunishitetenmeiwoshiru",
+    "code": "cr-koto3-6",
+    "index": 6
+  },
+  {
+    "surface": "鼎の軽重を問う",
+    "reading": "kanaenokeijuuwotou",
+    "code": "cr-koto3-7",
+    "index": 7
+  },
+  {
+    "surface": "鶏肋",
+    "reading": "keiroku",
+    "code": "cr-koto3-8",
+    "index": 8
+  },
+  {
+    "surface": "破鏡重円",
+    "reading": "hakyoujuuen",
+    "code": "cr-koto3-9",
+    "index": 9
+  },
+  {
+    "surface": "浩然の気",
+    "reading": "kouzennoki",
+    "code": "cr-koto3-10",
+    "index": 10
+  },
+  {
+    "surface": "弱冠",
+    "reading": "jakkan",
+    "code": "cr-koto3-11",
+    "index": 11
+  },
+  {
+    "surface": "不通水火",
+    "reading": "futsuusuika",
+    "code": "cr-koto3-12",
+    "index": 12
+  },
+  {
+    "surface": "カテゴリ:由来 戦国策",
+    "reading": "categoryyuraisenkokusaku",
+    "code": "cr-koto3-13",
+    "index": 13
+  },
+  {
+    "surface": "騎虎之勢",
+    "reading": "kikonoikioi",
+    "code": "cr-koto3-14",
+    "index": 14
+  },
+  {
+    "surface": "カテゴリ:由来 漢書",
+    "reading": "categoryyuraikanjo",
+    "code": "cr-koto3-15",
+    "index": 15
+  },
+  {
+    "surface": "多多益益弁ず",
+    "reading": "tatamasumasubenzu",
+    "code": "cr-koto3-16",
+    "index": 16
+  },
+  {
+    "surface": "漁夫の利",
+    "reading": "gyofunori",
+    "code": "cr-koto3-17",
+    "index": 17
+  },
+  {
+    "surface": "一敗地に塗れる",
+    "reading": "ichihaichinimamireru",
+    "code": "cr-koto3-18",
+    "index": 18
+  },
+  {
+    "surface": "カテゴリ:由来 墨子",
+    "reading": "categoryyuraibokushi",
+    "code": "cr-koto3-19",
+    "index": 19
+  },
+  {
+    "surface": "青は藍より出でて藍より青し",
+    "reading": "aowaaiyoriideteaiyoriaoshi",
+    "code": "cr-koto3-20",
+    "index": 20
+  },
+  {
+    "surface": "抜本塞源",
+    "reading": "bapponsokugen",
+    "code": "cr-koto3-21",
+    "index": 21
+  },
+  {
+    "surface": "夜を日に継ぐ",
+    "reading": "yoruwohinitsugu",
+    "code": "cr-koto3-22",
+    "index": 22
+  },
+  {
+    "surface": "曲学阿世",
+    "reading": "kyokugakuasei",
+    "code": "cr-koto3-23",
+    "index": 23
+  },
+  {
+    "surface": "怒髪冠を衝く",
+    "reading": "dohatsukanwotsuku",
+    "code": "cr-koto3-24",
+    "index": 24
+  },
+  {
+    "surface": "流連荒亡",
+    "reading": "ryuurenkoubou",
+    "code": "cr-koto3-25",
+    "index": 25
+  },
+  {
+    "surface": "カテゴリ:由来 韓愈",
+    "reading": "categoryyuraikanyu",
+    "code": "cr-koto3-26",
+    "index": 26
+  },
+  {
+    "surface": "濫觴",
+    "reading": "ranshou",
+    "code": "cr-koto3-27",
+    "index": 27
+  },
+  {
+    "surface": "馬牛襟裾",
+    "reading": "bagyuuerisuso",
+    "code": "cr-koto3-28",
+    "index": 28
+  },
+  {
+    "surface": "カテゴリ:由来 孔子家語",
+    "reading": "categoryyuraikoushikago",
+    "code": "cr-koto3-29",
+    "index": 29
+  },
+  {
+    "surface": "握髪吐哺",
+    "reading": "akuhatsuhaki",
+    "code": "cr-koto3-30",
+    "index": 30
+  },
+  {
+    "surface": "四面楚歌",
+    "reading": "shimensoka",
+    "code": "cr-koto3-31",
+    "index": 31
+  },
+  {
+    "surface": "抜山蓋世",
+    "reading": "batsuzangaisei",
+    "code": "cr-koto3-32",
+    "index": 32
+  },
+  {
+    "surface": "獅子奮迅",
+    "reading": "shishifunjin",
+    "code": "cr-koto3-33",
+    "index": 33
+  },
+  {
+    "surface": "太公望",
+    "reading": "taikoubou",
+    "code": "cr-koto3-34",
+    "index": 34
+  },
+  {
+    "surface": "夜郎自大",
+    "reading": "yaroujidai",
+    "code": "cr-koto3-35",
+    "index": 35
+  },
+  {
+    "surface": "四分五裂",
+    "reading": "yonfungoretsu",
+    "code": "cr-koto3-36",
+    "index": 36
+  },
+  {
+    "surface": "カテゴリ:由来 その他漢籍",
+    "reading": "categoryyuraisonotakanseki",
+    "code": "cr-koto3-37",
+    "index": 37
+  },
+  {
+    "surface": "カテゴリ:由来 論語",
+    "reading": "categoryyurairongo",
+    "code": "cr-koto3-38",
+    "index": 38
+  },
+  {
+    "surface": "言うは易く行なうは難し",
+    "reading": "yuuwayasukuokonauwamuzukashi",
+    "code": "cr-koto3-39",
+    "index": 39
+  },
+  {
+    "surface": "一挙両得",
+    "reading": "ikkyoryoutoku",
+    "code": "cr-koto3-40",
+    "index": 40
+  },
+  {
+    "surface": "九牛の一毛",
+    "reading": "kyuugyuunoichimou",
+    "code": "cr-koto3-41",
+    "index": 41
+  },
+  {
+    "surface": "愚公山を移す",
+    "reading": "gukousanwoutsusu",
+    "code": "cr-koto3-42",
+    "index": 42
+  },
+  {
+    "surface": "金甌無欠",
+    "reading": "kinoumuketsu",
+    "code": "cr-koto3-43",
+    "index": 43
+  },
+  {
+    "surface": "株を削り根を掘る",
+    "reading": "kabuwokezurinewohoru",
+    "code": "cr-koto3-44",
+    "index": 44
+  },
+  {
+    "surface": "宋襄の仁",
+    "reading": "soujounohitoshi",
+    "code": "cr-koto3-45",
+    "index": 45
+  },
+  {
+    "surface": "七十にして矩を踰えず",
+    "reading": "nanajuunishitenoriwokoezu",
+    "code": "cr-koto3-46",
+    "index": 46
+  },
+  {
+    "surface": "孟母断機",
+    "reading": "moubodanki",
+    "code": "cr-koto3-47",
+    "index": 47
+  },
+  {
+    "surface": "七歩の才",
+    "reading": "nanahonosai",
+    "code": "cr-koto3-48",
+    "index": 48
+  },
+  {
+    "surface": "三十にして立つ",
+    "reading": "sanjuunishitetatsu",
+    "code": "cr-koto3-49",
+    "index": 49
+  },
+  {
+    "surface": "五里霧中",
+    "reading": "gorimuchuu",
+    "code": "cr-koto3-50",
+    "index": 50
+  },
+  {
+    "surface": "鷸蚌の争い",
+    "reading": "noarasoi",
+    "code": "cr-koto3-51",
+    "index": 51
+  },
+  {
+    "surface": "破竹の勢い",
+    "reading": "hachikunoikioi",
+    "code": "cr-koto3-52",
+    "index": 52
+  },
+  {
+    "surface": "席巻",
+    "reading": "sekken",
+    "code": "cr-koto3-53",
+    "index": 53
+  },
+  {
+    "surface": "Wiktionary:執筆依頼",
+    "reading": "wiktionaryshippitsuirai",
+    "code": "cr-koto3-54",
+    "index": 54
+  },
+  {
+    "surface": "竹馬の友",
+    "reading": "chikubanotomo",
+    "code": "cr-koto3-55",
+    "index": 55
+  },
+  {
+    "surface": "石に立つ矢",
+    "reading": "ishinitatsuya",
+    "code": "cr-koto3-56",
+    "index": 56
+  },
+  {
+    "surface": "血で血を洗う",
+    "reading": "chidechiwoarau",
+    "code": "cr-koto3-57",
+    "index": 57
+  },
+  {
+    "surface": "顰みに効う",
+    "reading": "hisominikaiu",
+    "code": "cr-koto3-58",
+    "index": 58
+  },
+  {
+    "surface": "知足",
+    "reading": "chisoku",
+    "code": "cr-koto3-59",
+    "index": 59
+  },
+  {
+    "surface": "禹行舜趨",
+    "reading": "uikishunsuu",
+    "code": "cr-koto3-60",
+    "index": 60
+  },
+  {
+    "surface": "髀肉の嘆",
+    "reading": "hinikunotan",
+    "code": "cr-koto3-61",
+    "index": 61
+  },
+  {
+    "surface": "カテゴリ:由来 李白",
+    "reading": "categoryyurairihaku",
+    "code": "cr-koto3-62",
+    "index": 62
+  },
+  {
+    "surface": "断腸の思い",
+    "reading": "danchounoomoi",
+    "code": "cr-koto3-63",
+    "index": 63
+  },
+  {
+    "surface": "満を持す",
+    "reading": "manwomotasu",
+    "code": "cr-koto3-64",
+    "index": 64
+  },
+  {
+    "surface": "カテゴリ:由来 淮南子",
+    "reading": "categoryyuraiwainanko",
+    "code": "cr-koto3-65",
+    "index": 65
+  },
+  {
+    "surface": "画竜点睛",
+    "reading": "garyoutensei",
+    "code": "cr-koto3-66",
+    "index": 66
+  },
+  {
+    "surface": "用行舎蔵",
+    "reading": "yougyoushazou",
+    "code": "cr-koto3-67",
+    "index": 67
+  },
+  {
+    "surface": "嚢中の錐",
+    "reading": "nouchuunosui",
+    "code": "cr-koto3-68",
+    "index": 68
+  },
+  {
+    "surface": "能事畢矣",
+    "reading": "noujihitsu",
+    "code": "cr-koto3-69",
+    "index": 69
+  },
+  {
+    "surface": "望蜀",
+    "reading": "boushoku",
+    "code": "cr-koto3-70",
+    "index": 70
+  },
+  {
+    "surface": "泰山鴻毛",
+    "reading": "taizankoumou",
+    "code": "cr-koto3-71",
+    "index": 71
+  },
+  {
+    "surface": "食指が動く",
+    "reading": "shokushigaugoku",
+    "code": "cr-koto3-72",
+    "index": 72
+  },
+  {
+    "surface": "述而不作",
+    "reading": "jutsujifusaku",
+    "code": "cr-koto3-73",
+    "index": 73
+  },
+  {
+    "surface": "韋編三絶",
+    "reading": "ihensanzetsu",
+    "code": "cr-koto3-74",
+    "index": 74
+  },
+  {
+    "surface": "一刀両断",
+    "reading": "ichitouryoudan",
+    "code": "cr-koto3-75",
+    "index": 75
+  },
+  {
+    "surface": "カテゴリ:由来 三国志",
+    "reading": "categoryyuraisankokushi",
+    "code": "cr-koto3-76",
+    "index": 76
+  },
+  {
+    "surface": "暴虎馮河",
+    "reading": "boukohyouga",
+    "code": "cr-koto3-77",
+    "index": 77
+  },
+  {
+    "surface": "火を見るよりも明らか",
+    "reading": "hiwomiruyorimoakiraka",
+    "code": "cr-koto3-78",
+    "index": 78
+  },
+  {
+    "surface": "鼓腹撃壌",
+    "reading": "kofukugekijou",
+    "code": "cr-koto3-79",
+    "index": 79
+  },
+  {
+    "surface": "漱石枕流",
+    "reading": "sousekimakuraryuu",
+    "code": "cr-koto3-80",
+    "index": 80
+  },
+  {
+    "surface": "入境問禁",
+    "reading": "nyuukyoumonkin",
+    "code": "cr-koto3-81",
+    "index": 81
+  },
+  {
+    "surface": "金声玉振",
+    "reading": "kinseitamaburi",
+    "code": "cr-koto3-82",
+    "index": 82
+  },
+  {
+    "surface": "他山の石",
+    "reading": "tazannoishi",
+    "code": "cr-koto3-83",
+    "index": 83
+  },
+  {
+    "surface": "乱臣賊子",
+    "reading": "ranshinzokushi",
+    "code": "cr-koto3-84",
+    "index": 84
+  },
+  {
+    "surface": "逆鱗に触れる",
+    "reading": "gekirinnifureru",
+    "code": "cr-koto3-85",
+    "index": 85
+  },
+  {
+    "surface": "鞭声粛粛",
+    "reading": "benseishukushuku",
+    "code": "cr-koto3-86",
+    "index": 86
+  },
+  {
+    "surface": "豆を煮るにその萁を燃く",
+    "reading": "mamewonirunisonowonenku",
+    "code": "cr-koto3-87",
+    "index": 87
+  },
+  {
+    "surface": "白眉",
+    "reading": "hakubi",
+    "code": "cr-koto3-88",
+    "index": 88
+  },
+  {
+    "surface": "登竜門",
+    "reading": "touryuumon",
+    "code": "cr-koto3-89",
+    "index": 89
+  },
+  {
+    "surface": "夜雨対牀",
+    "reading": "yautaiyuka",
+    "code": "cr-koto3-90",
+    "index": 90
+  },
+  {
+    "surface": "法三章",
+    "reading": "housanshou",
+    "code": "cr-koto3-91",
+    "index": 91
+  },
+  {
+    "surface": "鰥寡孤独",
+    "reading": "yamomeyamomekodoku",
+    "code": "cr-koto3-92",
+    "index": 92
+  },
+  {
+    "surface": "カテゴリ:由来 詩経",
+    "reading": "categoryyuraishikyou",
+    "code": "cr-koto3-93",
+    "index": 93
+  },
+  {
+    "surface": "カテゴリ:由来 国語",
+    "reading": "categoryyuraikokugo",
+    "code": "cr-koto3-94",
+    "index": 94
+  },
+  {
+    "surface": "守株待兎",
+    "reading": "shushumachito",
+    "code": "cr-koto3-95",
+    "index": 95
+  },
+  {
+    "surface": "カテゴリ:由来 後漢書",
+    "reading": "categoryyuraigokanjo",
+    "code": "cr-koto3-96",
+    "index": 96
+  },
+  {
+    "surface": "虎穴虎子",
+    "reading": "koketsukoji",
+    "code": "cr-koto3-97",
+    "index": 97
+  },
+  {
+    "surface": "酒池肉林",
+    "reading": "shuchinikurin",
+    "code": "cr-koto3-98",
+    "index": 98
+  },
+  {
+    "surface": "カテゴリ:由来 晏子春秋",
+    "reading": "categoryyuraianshishunjuu",
+    "code": "cr-koto3-99",
+    "index": 99
+  },
+  {
+    "surface": "朝令暮改",
+    "reading": "choureibokai",
+    "code": "cr-koto3-100",
+    "index": 100
+  },
+  {
+    "surface": "輿論",
+    "reading": "yoron",
+    "code": "cr-koto3-101",
+    "index": 101
+  },
+  {
+    "surface": "市虎",
+    "reading": "shitora",
+    "code": "cr-koto3-102",
+    "index": 102
+  },
+  {
+    "surface": "臥薪嘗胆",
+    "reading": "gashinshoutan",
+    "code": "cr-koto3-103",
+    "index": 103
+  },
+  {
+    "surface": "カテゴリ:由来 楚辞",
+    "reading": "categoryyuraisoji",
+    "code": "cr-koto3-104",
+    "index": 104
+  },
+  {
+    "surface": "鶏鳴狗盗",
+    "reading": "keimeikutou",
+    "code": "cr-koto3-105",
+    "index": 105
+  },
+  {
+    "surface": "カテゴリ:由来 易経",
+    "reading": "categoryyuraiekikyou",
+    "code": "cr-koto3-106",
+    "index": 106
+  },
+  {
+    "surface": "太山鴻毛",
+    "reading": "taizankoumou",
+    "code": "cr-koto3-107",
+    "index": 107
+  },
+  {
+    "surface": "悪木盗泉",
+    "reading": "akumokutousen",
+    "code": "cr-koto3-108",
+    "index": 108
+  },
+  {
+    "surface": "大同小異",
+    "reading": "daidoushoui",
+    "code": "cr-koto3-109",
+    "index": 109
+  },
+  {
+    "surface": "合従連衡",
+    "reading": "gasshourenkou",
+    "code": "cr-koto3-110",
+    "index": 110
+  },
+  {
+    "surface": "カテゴリ:由来 杜甫",
+    "reading": "categoryyuraitoho",
+    "code": "cr-koto3-111",
+    "index": 111
+  },
+  {
+    "surface": "糟糠の妻",
+    "reading": "soukounotsuma",
+    "code": "cr-koto3-112",
+    "index": 112
+  },
+  {
+    "surface": "喪家の狗",
+    "reading": "soukanoinu",
+    "code": "cr-koto3-113",
+    "index": 113
+  },
+  {
+    "surface": "カテゴリ:由来 韓非子",
+    "reading": "categoryyuraikanhiko",
+    "code": "cr-koto3-114",
+    "index": 114
+  },
+  {
+    "surface": "破天荒",
+    "reading": "hatenkou",
+    "code": "cr-koto3-115",
+    "index": 115
+  },
+  {
+    "surface": "六十にして耳順う",
+    "reading": "rokujuunishitejijunu",
+    "code": "cr-koto3-116",
+    "index": 116
+  },
+  {
+    "surface": "カテゴリ:由来 老子",
+    "reading": "categoryyurairoushi",
+    "code": "cr-koto3-117",
+    "index": 117
+  },
+  {
+    "surface": "羊頭狗肉",
+    "reading": "youtoukuniku",
+    "code": "cr-koto3-118",
+    "index": 118
+  },
+  {
+    "surface": "容貌魁偉",
+    "reading": "youboukaii",
+    "code": "cr-koto3-119",
+    "index": 119
+  },
+  {
+    "surface": "十有五にして学を志す",
+    "reading": "juuyuugonishitegakuwokokorozasu",
+    "code": "cr-koto3-120",
+    "index": 120
+  },
+  {
+    "surface": "道聴塗説",
+    "reading": "douchoutosetsu",
+    "code": "cr-koto3-121",
+    "index": 121
+  },
+  {
+    "surface": "顔厚忸怩",
+    "reading": "kaoatsujikuji",
+    "code": "cr-koto3-122",
+    "index": 122
+  },
+  {
+    "surface": "唇亡びて歯寒し",
+    "reading": "kuchibiruhorobiteshikanshi",
+    "code": "cr-koto3-123",
+    "index": 123
+  },
+  {
+    "surface": "不世出",
+    "reading": "fuseishutsu",
+    "code": "cr-koto3-124",
+    "index": 124
+  },
+  {
+    "surface": "カテゴリ:由来 管子",
+    "reading": "categoryyuraikanshi",
+    "code": "cr-koto3-125",
+    "index": 125
+  },
+  {
+    "surface": "カテゴリ:由来 礼記",
+    "reading": "categoryyurairaiki",
+    "code": "cr-koto3-126",
+    "index": 126
+  },
+  {
+    "surface": "玉石混淆",
+    "reading": "gyokusekikonkou",
+    "code": "cr-koto3-127",
+    "index": 127
+  },
+  {
+    "surface": "井の中の蛙",
+    "reading": "inonakanokawazu",
+    "code": "cr-koto3-128",
+    "index": 128
+  },
+  {
+    "surface": "三顧の礼",
+    "reading": "sankonorei",
+    "code": "cr-koto3-129",
+    "index": 129
+  },
+  {
+    "surface": "逆鱗",
+    "reading": "gekirin",
+    "code": "cr-koto3-130",
+    "index": 130
+  },
+  {
+    "surface": "推敲",
+    "reading": "suikou",
+    "code": "cr-koto3-131",
+    "index": 131
+  },
+  {
+    "surface": "積羽沈舟",
+    "reading": "tsumoruwachinfune",
+    "code": "cr-koto3-132",
+    "index": 132
+  },
+  {
+    "surface": "狂瀾を既倒に廻らす",
+    "reading": "kyouranwokitounimegurasu",
+    "code": "cr-koto3-133",
+    "index": 133
+  },
+  {
+    "surface": "掣肘",
+    "reading": "seichuu",
+    "code": "cr-koto3-134",
+    "index": 134
+  },
+  {
+    "surface": "直情径行",
+    "reading": "chokujoukeikou",
+    "code": "cr-koto3-135",
+    "index": 135
+  },
+  {
+    "surface": "臨池",
+    "reading": "rinchi",
+    "code": "cr-koto3-136",
+    "index": 136
+  },
+  {
+    "surface": "洛陽紙価",
+    "reading": "rakuyoushika",
+    "code": "cr-koto3-137",
+    "index": 137
+  },
+  {
+    "surface": "隗より始めよ",
+    "reading": "kaiyorihajimeyo",
+    "code": "cr-koto3-138",
+    "index": 138
+  },
+  {
+    "surface": "カテゴリ:由来 十八史略",
+    "reading": "categoryyuraijuuhachishiryaku",
+    "code": "cr-koto3-139",
+    "index": 139
+  },
+  {
+    "surface": "カテゴリ:由来 世説新語",
+    "reading": "categoryyuraisesetsushingo",
+    "code": "cr-koto3-140",
+    "index": 140
+  },
+  {
+    "surface": "四十にして惑わず",
+    "reading": "yonjuunishitemadowazu",
+    "code": "cr-koto3-141",
+    "index": 141
+  },
+  {
+    "surface": "紅一点",
+    "reading": "kouitten",
+    "code": "cr-koto3-142",
+    "index": 142
+  },
+  {
+    "surface": "用管窺天",
+    "reading": "youkankiten",
+    "code": "cr-koto3-143",
+    "index": 143
+  },
+  {
+    "surface": "命長ければ恥多し",
+    "reading": "inochinagakerebahajiooshi",
+    "code": "cr-koto3-144",
+    "index": 144
+  },
+  {
+    "surface": "鶏口牛後",
+    "reading": "keikougyuugo",
+    "code": "cr-koto3-145",
+    "index": 145
+  },
+  {
+    "surface": "亡羊補牢",
+    "reading": "bouyouhorou",
+    "code": "cr-koto3-146",
+    "index": 146
+  },
+  {
+    "surface": "杜撰",
+    "reading": "zusan",
+    "code": "cr-koto3-147",
+    "index": 147
+  },
+  {
+    "surface": "文質彬彬",
+    "reading": "bunshitsuakiraakira",
+    "code": "cr-koto3-148",
+    "index": 148
+  },
+  {
+    "surface": "殷鑑遠からず",
+    "reading": "inkantookarazu",
+    "code": "cr-koto3-149",
+    "index": 149
+  },
+  {
+    "surface": "席捲",
+    "reading": "sekken",
+    "code": "cr-koto3-150",
+    "index": 150
+  },
+  {
+    "surface": "画餅",
+    "reading": "gabei",
+    "code": "cr-koto3-151",
+    "index": 151
+  },
+  {
+    "surface": "火を見るより明らか",
+    "reading": "hiwomiruyoriakiraka",
+    "code": "cr-koto3-152",
+    "index": 152
+  },
+  {
+    "surface": "陶犬瓦鶏",
+    "reading": "toukenkawaraniwatori",
+    "code": "cr-koto3-153",
+    "index": 153
+  },
+  {
+    "surface": "一暴十寒",
+    "reading": "ichiboujuukan",
+    "code": "cr-koto3-154",
+    "index": 154
+  },
+  {
+    "surface": "作俑",
+    "reading": "sakuyou",
+    "code": "cr-koto3-155",
+    "index": 155
+  },
+  {
+    "surface": "カテゴリ:由来 史記",
+    "reading": "categoryyuraishiki",
+    "code": "cr-koto3-156",
+    "index": 156
+  },
+  {
+    "surface": "唇亡歯寒",
+    "reading": "shinboushikan",
+    "code": "cr-koto3-157",
+    "index": 157
+  },
+  {
+    "surface": "吹塵",
+    "reading": "fukigomi",
+    "code": "cr-koto3-158",
+    "index": 158
+  },
+  {
+    "surface": "遠水は近火を救わず",
+    "reading": "toomizuwakinkawosukuwazu",
+    "code": "cr-koto3-159",
+    "index": 159
+  },
+  {
+    "surface": "切歯扼腕",
+    "reading": "sesshiyakuwan",
+    "code": "cr-koto3-160",
+    "index": 160
+  },
+  {
+    "surface": "カテゴリ:由来 春秋左氏伝",
+    "reading": "categoryyuraishunjuusashiden",
+    "code": "cr-koto3-161",
+    "index": 161
+  },
+  {
+    "surface": "カテゴリ:由来 孫子",
+    "reading": "categoryyuraimagoko",
+    "code": "cr-koto3-162",
+    "index": 162
+  },
+  {
+    "surface": "助長",
+    "reading": "jochou",
+    "code": "cr-koto3-163",
+    "index": 163
+  },
+  {
+    "surface": "カテゴリ:由来 荀子",
+    "reading": "categoryyuraijunshi",
+    "code": "cr-koto3-164",
+    "index": 164
+  },
+  {
+    "surface": "牛耳る",
+    "reading": "gyuujiru",
+    "code": "cr-koto3-165",
+    "index": 165
+  },
+  {
+    "surface": "カテゴリ:由来 蘇軾",
+    "reading": "categoryyuraisoshoku",
+    "code": "cr-koto3-166",
+    "index": 166
+  },
+  {
+    "surface": "助長抜苗",
+    "reading": "jochounukenae",
+    "code": "cr-koto3-167",
+    "index": 167
+  },
+  {
+    "surface": "カテゴリ:由来 説苑",
+    "reading": "categoryyuraizeien",
+    "code": "cr-koto3-168",
+    "index": 168
+  },
+  {
+    "surface": "九鼎大呂",
+    "reading": "kyuukanaedairyo",
+    "code": "cr-koto3-169",
+    "index": 169
+  },
+  {
+    "surface": "故事成語",
+    "reading": "kojiseigo",
+    "code": "cr-koto3-170",
+    "index": 170
+  },
+  {
+    "surface": "三人虎を成す",
+    "reading": "sanjinkowonasu",
+    "code": "cr-koto3-171",
+    "index": 171
+  },
+  {
+    "surface": "無名の師",
+    "reading": "mumeinoshi",
+    "code": "cr-koto3-172",
+    "index": 172
+  },
+  {
+    "surface": "朝三暮四",
+    "reading": "chousanboshi",
+    "code": "cr-koto3-173",
+    "index": 173
+  },
+  {
+    "surface": "繭糸",
+    "reading": "kenshi",
+    "code": "cr-koto3-174",
+    "index": 174
+  },
+  {
+    "surface": "カテゴリ:由来 荘子",
+    "reading": "categoryyuraisoushi",
+    "code": "cr-koto3-175",
+    "index": 175
+  },
+  {
+    "surface": "李下に冠を正さず",
+    "reading": "rikanikanmuriwotadasazu",
+    "code": "cr-koto3-176",
+    "index": 176
+  },
+  {
+    "surface": "傾国",
+    "reading": "keikoku",
+    "code": "cr-koto3-177",
+    "index": 177
+  },
+  {
+    "surface": "冒雨剪韭",
+    "reading": "bouu",
+    "code": "cr-koto3-178",
+    "index": 178
+  },
+  {
+    "surface": "カテゴリ:由来 列女伝",
+    "reading": "categoryyurairetsujoden",
+    "code": "cr-koto3-179",
+    "index": 179
+  },
+  {
+    "surface": "博学多才",
+    "reading": "hakugakutasai",
+    "code": "cr-koto3-180",
+    "index": 180
+  },
+  {
+    "surface": "高材疾足",
+    "reading": "kouzaishitsuashi",
+    "code": "cr-koto3-181",
+    "index": 181
+  },
+  {
+    "surface": "毛を吹いて疵を求む",
+    "reading": "kewofuitekizuwomotomu",
+    "code": "cr-koto3-182",
+    "index": 182
+  },
+  {
+    "surface": "遠交近攻",
+    "reading": "enkoukinkou",
+    "code": "cr-koto3-183",
+    "index": 183
+  },
+  {
+    "surface": "晏子の御",
+    "reading": "anshinoo",
+    "code": "cr-koto3-184",
+    "index": 184
+  },
+  {
+    "surface": "安宅正路",
+    "reading": "atakeseiro",
+    "code": "cr-koto3-185",
+    "index": 185
+  },
+  {
+    "surface": "蛇足",
+    "reading": "dasoku",
+    "code": "cr-koto3-186",
+    "index": 186
+  },
+  {
+    "surface": "孟母三遷",
+    "reading": "moubosansen",
+    "code": "cr-koto3-187",
+    "index": 187
+  },
+  {
+    "surface": "烏合の衆",
+    "reading": "ugounoshuu",
+    "code": "cr-koto3-188",
+    "index": 188
+  },
+  {
+    "surface": "伏竜鳳雛",
+    "reading": "fukuryouhousuu",
+    "code": "cr-koto3-189",
+    "index": 189
+  },
+  {
+    "surface": "カテゴリ:由来 列子",
+    "reading": "categoryyurairesshi",
+    "code": "cr-koto3-190",
+    "index": 190
+  },
+  {
+    "surface": "カテゴリ:由来 漢詩",
+    "reading": "categoryyuraikanshi",
+    "code": "cr-koto3-191",
+    "index": 191
+  },
+  {
+    "surface": "偕老同穴",
+    "reading": "kairoudouketsu",
+    "code": "cr-koto3-192",
+    "index": 192
+  },
+  {
+    "surface": "カテゴリ:由来 書経",
+    "reading": "categoryyuraishokyou",
+    "code": "cr-koto3-193",
+    "index": 193
+  },
+  {
+    "surface": "奇貨居くべし",
+    "reading": "kikaikubeshi",
+    "code": "cr-koto3-194",
+    "index": 194
+  },
+  {
+    "surface": "堅忍不抜",
+    "reading": "kenninfubatsu",
+    "code": "cr-koto3-195",
+    "index": 195
+  },
+  {
+    "surface": "呉越同舟",
+    "reading": "goetsudoushuu",
+    "code": "cr-koto3-196",
+    "index": 196
+  },
+  {
+    "surface": "カテゴリ:由来 晋書",
+    "reading": "categoryyuraishinjo",
+    "code": "cr-koto3-197",
+    "index": 197
+  },
+  {
+    "surface": "圧巻",
+    "reading": "akkan",
+    "code": "cr-koto3-198",
+    "index": 198
+  },
+  {
+    "surface": "刀折れ矢尽きる",
+    "reading": "katanaoreyatsukiru",
+    "code": "cr-koto3-199",
+    "index": 199
+  },
+  {
+    "surface": "洛陽の紙価貴し",
+    "reading": "rakuyounoshikatoutoshi",
+    "code": "cr-koto3-200",
+    "index": 200
+  }
+]

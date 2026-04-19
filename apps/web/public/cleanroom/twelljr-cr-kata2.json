@@ -1,0 +1,9734 @@
+[
+  {
+    "surface": "クロアシカコミスル",
+    "reading": "kuroashikakomisuru",
+    "code": "cr-kata2-0",
+    "index": 0
+  },
+  {
+    "surface": "ココム",
+    "reading": "kokomu",
+    "code": "cr-kata2-1",
+    "index": 1
+  },
+  {
+    "surface": "キシュ",
+    "reading": "quiche",
+    "code": "cr-kata2-2",
+    "index": 2
+  },
+  {
+    "surface": "カイガラムシ",
+    "reading": "kaigaramushi",
+    "code": "cr-kata2-3",
+    "index": 3
+  },
+  {
+    "surface": "キバ",
+    "reading": "kiba",
+    "code": "cr-kata2-4",
+    "index": 4
+  },
+  {
+    "surface": "コイ",
+    "reading": "coi",
+    "code": "cr-kata2-5",
+    "index": 5
+  },
+  {
+    "surface": "グッドナイト",
+    "reading": "goodnight",
+    "code": "cr-kata2-6",
+    "index": 6
+  },
+  {
+    "surface": "キャパシティ",
+    "reading": "capacity",
+    "code": "cr-kata2-7",
+    "index": 7
+  },
+  {
+    "surface": "クスコ",
+    "reading": "cuzco",
+    "code": "cr-kata2-8",
+    "index": 8
+  },
+  {
+    "surface": "コンピューターアート",
+    "reading": "computerart",
+    "code": "cr-kata2-9",
+    "index": 9
+  },
+  {
+    "surface": "コロネル",
+    "reading": "koroflannel",
+    "code": "cr-kata2-10",
+    "index": 10
+  },
+  {
+    "surface": "ガガーリン",
+    "reading": "gagarin",
+    "code": "cr-kata2-11",
+    "index": 11
+  },
+  {
+    "surface": "カバー",
+    "reading": "cover",
+    "code": "cr-kata2-12",
+    "index": 12
+  },
+  {
+    "surface": "カルメン・デ・パタゴネス",
+    "reading": "carmendepatagonesu",
+    "code": "cr-kata2-13",
+    "index": 13
+  },
+  {
+    "surface": "コンスタンティーヌ",
+    "reading": "konsutantiinu",
+    "code": "cr-kata2-14",
+    "index": 14
+  },
+  {
+    "surface": "ガツ",
+    "reading": "gut",
+    "code": "cr-kata2-15",
+    "index": 15
+  },
+  {
+    "surface": "ゲイルズバーグ",
+    "reading": "geiruzubaagu",
+    "code": "cr-kata2-16",
+    "index": 16
+  },
+  {
+    "surface": "キャンディー",
+    "reading": "candy",
+    "code": "cr-kata2-17",
+    "index": 17
+  },
+  {
+    "surface": "コンシャス",
+    "reading": "conscious",
+    "code": "cr-kata2-18",
+    "index": 18
+  },
+  {
+    "surface": "クラドノ",
+    "reading": "kuradono",
+    "code": "cr-kata2-19",
+    "index": 19
+  },
+  {
+    "surface": "キャンドソフトウェア",
+    "reading": "kyandosofutoea",
+    "code": "cr-kata2-20",
+    "index": 20
+  },
+  {
+    "surface": "クォーターファイナル",
+    "reading": "quarterfinal",
+    "code": "cr-kata2-21",
+    "index": 21
+  },
+  {
+    "surface": "カノ",
+    "reading": "kano",
+    "code": "cr-kata2-22",
+    "index": 22
+  },
+  {
+    "surface": "カンガル",
+    "reading": "kangale",
+    "code": "cr-kata2-23",
+    "index": 23
+  },
+  {
+    "surface": "コピーアンドペースト",
+    "reading": "copyandpaste",
+    "code": "cr-kata2-24",
+    "index": 24
+  },
+  {
+    "surface": "コストパーサウザンド",
+    "reading": "costparthousand",
+    "code": "cr-kata2-25",
+    "index": 25
+  },
+  {
+    "surface": "ゲタ",
+    "reading": "geta",
+    "code": "cr-kata2-26",
+    "index": 26
+  },
+  {
+    "surface": "クリエーティビティー",
+    "reading": "creativity",
+    "code": "cr-kata2-27",
+    "index": 27
+  },
+  {
+    "surface": "カキ",
+    "reading": "kaki",
+    "code": "cr-kata2-28",
+    "index": 28
+  },
+  {
+    "surface": "ケイドロ",
+    "reading": "kaydoro",
+    "code": "cr-kata2-29",
+    "index": 29
+  },
+  {
+    "surface": "コテ",
+    "reading": "kote",
+    "code": "cr-kata2-30",
+    "index": 30
+  },
+  {
+    "surface": "クリエーティビティ",
+    "reading": "kurieetibiti",
+    "code": "cr-kata2-31",
+    "index": 31
+  },
+  {
+    "surface": "キュタヒヤ",
+    "reading": "kyutahiya",
+    "code": "cr-kata2-32",
+    "index": 32
+  },
+  {
+    "surface": "カルク",
+    "reading": "karuku",
+    "code": "cr-kata2-33",
+    "index": 33
+  },
+  {
+    "surface": "クオピオ",
+    "reading": "kuopio",
+    "code": "cr-kata2-34",
+    "index": 34
+  },
+  {
+    "surface": "コーネリアエ",
+    "reading": "kooneriae",
+    "code": "cr-kata2-35",
+    "index": 35
+  },
+  {
+    "surface": "クラリオン",
+    "reading": "clarion",
+    "code": "cr-kata2-36",
+    "index": 36
+  },
+  {
+    "surface": "カチッ",
+    "reading": "kachi",
+    "code": "cr-kata2-37",
+    "index": 37
+  },
+  {
+    "surface": "コーヒースタンド",
+    "reading": "coffeestand",
+    "code": "cr-kata2-38",
+    "index": 38
+  },
+  {
+    "surface": "コンプリション",
+    "reading": "konpurishon",
+    "code": "cr-kata2-39",
+    "index": 39
+  },
+  {
+    "surface": "グッジョブ",
+    "reading": "goodjob",
+    "code": "cr-kata2-40",
+    "index": 40
+  },
+  {
+    "surface": "クライストチャーチ",
+    "reading": "christchurch",
+    "code": "cr-kata2-41",
+    "index": 41
+  },
+  {
+    "surface": "コンサートホール",
+    "reading": "concerthall",
+    "code": "cr-kata2-42",
+    "index": 42
+  },
+  {
+    "surface": "コーリー",
+    "reading": "koorii",
+    "code": "cr-kata2-43",
+    "index": 43
+  },
+  {
+    "surface": "クサンテン",
+    "reading": "kusanten",
+    "code": "cr-kata2-44",
+    "index": 44
+  },
+  {
+    "surface": "キルメス",
+    "reading": "killmes",
+    "code": "cr-kata2-45",
+    "index": 45
+  },
+  {
+    "surface": "コポリマー",
+    "reading": "kopolymer",
+    "code": "cr-kata2-46",
+    "index": 46
+  },
+  {
+    "surface": "ギャップ",
+    "reading": "gap",
+    "code": "cr-kata2-47",
+    "index": 47
+  },
+  {
+    "surface": "キャリコ",
+    "reading": "calico",
+    "code": "cr-kata2-48",
+    "index": 48
+  },
+  {
+    "surface": "クレアトゥール",
+    "reading": "createur",
+    "code": "cr-kata2-49",
+    "index": 49
+  },
+  {
+    "surface": "クェスチョンマーク",
+    "reading": "kesuchonmaaku",
+    "code": "cr-kata2-50",
+    "index": 50
+  },
+  {
+    "surface": "クロヘリメジロ",
+    "reading": "kuroherimejiro",
+    "code": "cr-kata2-51",
+    "index": 51
+  },
+  {
+    "surface": "カッパ",
+    "reading": "kappa",
+    "code": "cr-kata2-52",
+    "index": 52
+  },
+  {
+    "surface": "カラーセパレーション",
+    "reading": "karaasepareeshon",
+    "code": "cr-kata2-53",
+    "index": 53
+  },
+  {
+    "surface": "クリスチャンズバーグ",
+    "reading": "kurisuchanzubaagu",
+    "code": "cr-kata2-54",
+    "index": 54
+  },
+  {
+    "surface": "ゲンソウ",
+    "reading": "gensou",
+    "code": "cr-kata2-55",
+    "index": 55
+  },
+  {
+    "surface": "ゴックン",
+    "reading": "gokkun",
+    "code": "cr-kata2-56",
+    "index": 56
+  },
+  {
+    "surface": "カルダス・ダ・ライーニャ",
+    "reading": "karudasudaraiinya",
+    "code": "cr-kata2-57",
+    "index": 57
+  },
+  {
+    "surface": "カーブフォロア",
+    "reading": "curvefollowa",
+    "code": "cr-kata2-58",
+    "index": 58
+  },
+  {
+    "surface": "ココノホシギンザメ",
+    "reading": "kokonohoshiginzame",
+    "code": "cr-kata2-59",
+    "index": 59
+  },
+  {
+    "surface": "コトヌー",
+    "reading": "kotognu",
+    "code": "cr-kata2-60",
+    "index": 60
+  },
+  {
+    "surface": "グランデ",
+    "reading": "grand",
+    "code": "cr-kata2-61",
+    "index": 61
+  },
+  {
+    "surface": "コーム",
+    "reading": "comb",
+    "code": "cr-kata2-62",
+    "index": 62
+  },
+  {
+    "surface": "コミュニーケーション",
+    "reading": "komyuniikeeshon",
+    "code": "cr-kata2-63",
+    "index": 63
+  },
+  {
+    "surface": "コーフン",
+    "reading": "koofun",
+    "code": "cr-kata2-64",
+    "index": 64
+  },
+  {
+    "surface": "クリ",
+    "reading": "clitoris",
+    "code": "cr-kata2-65",
+    "index": 65
+  },
+  {
+    "surface": "キツネナス",
+    "reading": "kitsunenasu",
+    "code": "cr-kata2-66",
+    "index": 66
+  },
+  {
+    "surface": "コリュフェイ",
+    "reading": "koryufei",
+    "code": "cr-kata2-67",
+    "index": 67
+  },
+  {
+    "surface": "キミ",
+    "reading": "kimi",
+    "code": "cr-kata2-68",
+    "index": 68
+  },
+  {
+    "surface": "カニウ",
+    "reading": "kaniu",
+    "code": "cr-kata2-69",
+    "index": 69
+  },
+  {
+    "surface": "ガキ",
+    "reading": "gaki",
+    "code": "cr-kata2-70",
+    "index": 70
+  },
+  {
+    "surface": "コンサルテーション",
+    "reading": "consultation",
+    "code": "cr-kata2-71",
+    "index": 71
+  },
+  {
+    "surface": "クリプトスポリジウム",
+    "reading": "cryptosporidium",
+    "code": "cr-kata2-72",
+    "index": 72
+  },
+  {
+    "surface": "コンビニエンスストア",
+    "reading": "conveniencestore",
+    "code": "cr-kata2-73",
+    "index": 73
+  },
+  {
+    "surface": "クタ",
+    "reading": "kuta",
+    "code": "cr-kata2-74",
+    "index": 74
+  },
+  {
+    "surface": "クロクビコブラ",
+    "reading": "kurokubikobura",
+    "code": "cr-kata2-75",
+    "index": 75
+  },
+  {
+    "surface": "ギタリスト",
+    "reading": "guitarist",
+    "code": "cr-kata2-76",
+    "index": 76
+  },
+  {
+    "surface": "グアテマラシティ",
+    "reading": "guatemalacity",
+    "code": "cr-kata2-77",
+    "index": 77
+  },
+  {
+    "surface": "コーガン",
+    "reading": "koogan",
+    "code": "cr-kata2-78",
+    "index": 78
+  },
+  {
+    "surface": "クリトリス",
+    "reading": "clitoris",
+    "code": "cr-kata2-79",
+    "index": 79
+  },
+  {
+    "surface": "コミュニケーションギャップ",
+    "reading": "communicationgap",
+    "code": "cr-kata2-80",
+    "index": 80
+  },
+  {
+    "surface": "カーンチャナブリー",
+    "reading": "khanchanabully",
+    "code": "cr-kata2-81",
+    "index": 81
+  },
+  {
+    "surface": "ゴーゴー",
+    "reading": "gougou",
+    "code": "cr-kata2-82",
+    "index": 82
+  },
+  {
+    "surface": "カンムリヅル",
+    "reading": "kanmurizuru",
+    "code": "cr-kata2-83",
+    "index": 83
+  },
+  {
+    "surface": "キンホシイソハゼ",
+    "reading": "kinhoshiisohaze",
+    "code": "cr-kata2-84",
+    "index": 84
+  },
+  {
+    "surface": "コンバージェンス",
+    "reading": "convergence",
+    "code": "cr-kata2-85",
+    "index": 85
+  },
+  {
+    "surface": "グレーター・ノイダ",
+    "reading": "graternoida",
+    "code": "cr-kata2-86",
+    "index": 86
+  },
+  {
+    "surface": "クラウディングアウト",
+    "reading": "crowdingout",
+    "code": "cr-kata2-87",
+    "index": 87
+  },
+  {
+    "surface": "カンポス・ド・ジョルドン",
+    "reading": "kanposudojorudon",
+    "code": "cr-kata2-88",
+    "index": 88
+  },
+  {
+    "surface": "クロビ",
+    "reading": "kurobi",
+    "code": "cr-kata2-89",
+    "index": 89
+  },
+  {
+    "surface": "グラフィックカード",
+    "reading": "graphiccard",
+    "code": "cr-kata2-90",
+    "index": 90
+  },
+  {
+    "surface": "コレウス",
+    "reading": "coleus",
+    "code": "cr-kata2-91",
+    "index": 91
+  },
+  {
+    "surface": "ガス",
+    "reading": "gas",
+    "code": "cr-kata2-92",
+    "index": 92
+  },
+  {
+    "surface": "ガム",
+    "reading": "gum",
+    "code": "cr-kata2-93",
+    "index": 93
+  },
+  {
+    "surface": "ガイドピン",
+    "reading": "guidepin",
+    "code": "cr-kata2-94",
+    "index": 94
+  },
+  {
+    "surface": "コムソモール",
+    "reading": "komusomooru",
+    "code": "cr-kata2-95",
+    "index": 95
+  },
+  {
+    "surface": "クルガム・テーシル",
+    "reading": "kurugamuteeshiru",
+    "code": "cr-kata2-96",
+    "index": 96
+  },
+  {
+    "surface": "コウチ",
+    "reading": "kouchi",
+    "code": "cr-kata2-97",
+    "index": 97
+  },
+  {
+    "surface": "グッドレッツヴィル",
+    "reading": "goodrettsuvill",
+    "code": "cr-kata2-98",
+    "index": 98
+  },
+  {
+    "surface": "クンピア・トゥルジー",
+    "reading": "kunpiaturujii",
+    "code": "cr-kata2-99",
+    "index": 99
+  },
+  {
+    "surface": "クロラミン",
+    "reading": "chloramine",
+    "code": "cr-kata2-100",
+    "index": 100
+  },
+  {
+    "surface": "コマールノ",
+    "reading": "komaaruno",
+    "code": "cr-kata2-101",
+    "index": 101
+  },
+  {
+    "surface": "キャロルトン",
+    "reading": "kyaroruton",
+    "code": "cr-kata2-102",
+    "index": 102
+  },
+  {
+    "surface": "コーポレートガバナンス",
+    "reading": "corporategovernance",
+    "code": "cr-kata2-103",
+    "index": 103
+  },
+  {
+    "surface": "クレープ",
+    "reading": "crepe",
+    "code": "cr-kata2-104",
+    "index": 104
+  },
+  {
+    "surface": "コールレート",
+    "reading": "callrate",
+    "code": "cr-kata2-105",
+    "index": 105
+  },
+  {
+    "surface": "コーディネート",
+    "reading": "coordinate",
+    "code": "cr-kata2-106",
+    "index": 106
+  },
+  {
+    "surface": "コールマネー",
+    "reading": "callmoney",
+    "code": "cr-kata2-107",
+    "index": 107
+  },
+  {
+    "surface": "ガチン",
+    "reading": "gachin",
+    "code": "cr-kata2-108",
+    "index": 108
+  },
+  {
+    "surface": "カハマ",
+    "reading": "kahama",
+    "code": "cr-kata2-109",
+    "index": 109
+  },
+  {
+    "surface": "コイントス",
+    "reading": "cointoss",
+    "code": "cr-kata2-110",
+    "index": 110
+  },
+  {
+    "surface": "ガチンコ",
+    "reading": "gachinko",
+    "code": "cr-kata2-111",
+    "index": 111
+  },
+  {
+    "surface": "コメディアン",
+    "reading": "comedian",
+    "code": "cr-kata2-112",
+    "index": 112
+  },
+  {
+    "surface": "ガール",
+    "reading": "girl",
+    "code": "cr-kata2-113",
+    "index": 113
+  },
+  {
+    "surface": "クリスマスパーティー",
+    "reading": "christmasparty",
+    "code": "cr-kata2-114",
+    "index": 114
+  },
+  {
+    "surface": "ゴー",
+    "reading": "go",
+    "code": "cr-kata2-115",
+    "index": 115
+  },
+  {
+    "surface": "カタギ",
+    "reading": "katagi",
+    "code": "cr-kata2-116",
+    "index": 116
+  },
+  {
+    "surface": "カンタリス",
+    "reading": "cantharis",
+    "code": "cr-kata2-117",
+    "index": 117
+  },
+  {
+    "surface": "ガムテ",
+    "reading": "gumtea",
+    "code": "cr-kata2-118",
+    "index": 118
+  },
+  {
+    "surface": "カストマ",
+    "reading": "customer",
+    "code": "cr-kata2-119",
+    "index": 119
+  },
+  {
+    "surface": "グランドプレーリー",
+    "reading": "grandprairie",
+    "code": "cr-kata2-120",
+    "index": 120
+  },
+  {
+    "surface": "クオリティーペーパー",
+    "reading": "qualitypaper",
+    "code": "cr-kata2-121",
+    "index": 121
+  },
+  {
+    "surface": "カピカピ",
+    "reading": "kapikapi",
+    "code": "cr-kata2-122",
+    "index": 122
+  },
+  {
+    "surface": "カレッジ・ポイント",
+    "reading": "collegepoint",
+    "code": "cr-kata2-123",
+    "index": 123
+  },
+  {
+    "surface": "カワムツ",
+    "reading": "kawamutsu",
+    "code": "cr-kata2-124",
+    "index": 124
+  },
+  {
+    "surface": "コショー",
+    "reading": "koshoo",
+    "code": "cr-kata2-125",
+    "index": 125
+  },
+  {
+    "surface": "キープ",
+    "reading": "keep",
+    "code": "cr-kata2-126",
+    "index": 126
+  },
+  {
+    "surface": "クリチバ",
+    "reading": "curitiba",
+    "code": "cr-kata2-127",
+    "index": 127
+  },
+  {
+    "surface": "コイネー",
+    "reading": "koine",
+    "code": "cr-kata2-128",
+    "index": 128
+  },
+  {
+    "surface": "グレー",
+    "reading": "gray",
+    "code": "cr-kata2-129",
+    "index": 129
+  },
+  {
+    "surface": "グチャグチャ",
+    "reading": "guchagucha",
+    "code": "cr-kata2-130",
+    "index": 130
+  },
+  {
+    "surface": "グアナコ",
+    "reading": "guanaco",
+    "code": "cr-kata2-131",
+    "index": 131
+  },
+  {
+    "surface": "カヤック",
+    "reading": "kayak",
+    "code": "cr-kata2-132",
+    "index": 132
+  },
+  {
+    "surface": "コラム",
+    "reading": "column",
+    "code": "cr-kata2-133",
+    "index": 133
+  },
+  {
+    "surface": "カモガヤ",
+    "reading": "kamogaya",
+    "code": "cr-kata2-134",
+    "index": 134
+  },
+  {
+    "surface": "コンチネンタルプラン",
+    "reading": "continentalplan",
+    "code": "cr-kata2-135",
+    "index": 135
+  },
+  {
+    "surface": "カルタゴ",
+    "reading": "carthago",
+    "code": "cr-kata2-136",
+    "index": 136
+  },
+  {
+    "surface": "ゲジ",
+    "reading": "geji",
+    "code": "cr-kata2-137",
+    "index": 137
+  },
+  {
+    "surface": "ギャフン",
+    "reading": "gyafun",
+    "code": "cr-kata2-138",
+    "index": 138
+  },
+  {
+    "surface": "コンテンツプロバイダ",
+    "reading": "contentsprovider",
+    "code": "cr-kata2-139",
+    "index": 139
+  },
+  {
+    "surface": "ケイティ",
+    "reading": "keiti",
+    "code": "cr-kata2-140",
+    "index": 140
+  },
+  {
+    "surface": "カルシ",
+    "reading": "karushi",
+    "code": "cr-kata2-141",
+    "index": 141
+  },
+  {
+    "surface": "キンギセップ",
+    "reading": "kingiseppu",
+    "code": "cr-kata2-142",
+    "index": 142
+  },
+  {
+    "surface": "コンヘソル",
+    "reading": "confessor",
+    "code": "cr-kata2-143",
+    "index": 143
+  },
+  {
+    "surface": "カカシ",
+    "reading": "kakashi",
+    "code": "cr-kata2-144",
+    "index": 144
+  },
+  {
+    "surface": "カゴノキ",
+    "reading": "kagonoki",
+    "code": "cr-kata2-145",
+    "index": 145
+  },
+  {
+    "surface": "ガイエリ",
+    "reading": "guyeri",
+    "code": "cr-kata2-146",
+    "index": 146
+  },
+  {
+    "surface": "カッサーノ・ダッダ",
+    "reading": "cassanodadda",
+    "code": "cr-kata2-147",
+    "index": 147
+  },
+  {
+    "surface": "カウンターカルチャー",
+    "reading": "counterculture",
+    "code": "cr-kata2-148",
+    "index": 148
+  },
+  {
+    "surface": "グルタミン",
+    "reading": "glutamine",
+    "code": "cr-kata2-149",
+    "index": 149
+  },
+  {
+    "surface": "カタルニャ",
+    "reading": "catalonia",
+    "code": "cr-kata2-150",
+    "index": 150
+  },
+  {
+    "surface": "グランサム",
+    "reading": "grandsum",
+    "code": "cr-kata2-151",
+    "index": 151
+  },
+  {
+    "surface": "コンソリデーション",
+    "reading": "konsorideeshon",
+    "code": "cr-kata2-152",
+    "index": 152
+  },
+  {
+    "surface": "カードバス",
+    "reading": "cardbus",
+    "code": "cr-kata2-153",
+    "index": 153
+  },
+  {
+    "surface": "カブトガニ",
+    "reading": "kabutogani",
+    "code": "cr-kata2-154",
+    "index": 154
+  },
+  {
+    "surface": "クロスヘッド",
+    "reading": "clothhead",
+    "code": "cr-kata2-155",
+    "index": 155
+  },
+  {
+    "surface": "コリア・デル・リオ",
+    "reading": "koreaderurio",
+    "code": "cr-kata2-156",
+    "index": 156
+  },
+  {
+    "surface": "キュビズム",
+    "reading": "cubism",
+    "code": "cr-kata2-157",
+    "index": 157
+  },
+  {
+    "surface": "コンサルテイション",
+    "reading": "konsaruteishon",
+    "code": "cr-kata2-158",
+    "index": 158
+  },
+  {
+    "surface": "カー・ステレオ",
+    "reading": "carstereo",
+    "code": "cr-kata2-159",
+    "index": 159
+  },
+  {
+    "surface": "ゲイツ",
+    "reading": "geitsu",
+    "code": "cr-kata2-160",
+    "index": 160
+  },
+  {
+    "surface": "キャッチー",
+    "reading": "catchy",
+    "code": "cr-kata2-161",
+    "index": 161
+  },
+  {
+    "surface": "キプシ",
+    "reading": "kipushi",
+    "code": "cr-kata2-162",
+    "index": 162
+  },
+  {
+    "surface": "キビ",
+    "reading": "kibi",
+    "code": "cr-kata2-163",
+    "index": 163
+  },
+  {
+    "surface": "カプセル",
+    "reading": "kapsel",
+    "code": "cr-kata2-164",
+    "index": 164
+  },
+  {
+    "surface": "キャッシュオンデリバリー",
+    "reading": "cashondelivery",
+    "code": "cr-kata2-165",
+    "index": 165
+  },
+  {
+    "surface": "ゴスプラン",
+    "reading": "gosupuran",
+    "code": "cr-kata2-166",
+    "index": 166
+  },
+  {
+    "surface": "クンフー",
+    "reading": "kunfuu",
+    "code": "cr-kata2-167",
+    "index": 167
+  },
+  {
+    "surface": "ガレージ",
+    "reading": "garage",
+    "code": "cr-kata2-168",
+    "index": 168
+  },
+  {
+    "surface": "ゲルゼンキルヒェン",
+    "reading": "geruzenkiruhen",
+    "code": "cr-kata2-169",
+    "index": 169
+  },
+  {
+    "surface": "カルロヴァツ",
+    "reading": "karurovatsu",
+    "code": "cr-kata2-170",
+    "index": 170
+  },
+  {
+    "surface": "コントラクトブリッジ",
+    "reading": "contractbridge",
+    "code": "cr-kata2-171",
+    "index": 171
+  },
+  {
+    "surface": "キャペリン",
+    "reading": "kyaperin",
+    "code": "cr-kata2-172",
+    "index": 172
+  },
+  {
+    "surface": "ゴールデンレトリバー",
+    "reading": "goldenretriever",
+    "code": "cr-kata2-173",
+    "index": 173
+  },
+  {
+    "surface": "コルーチン",
+    "reading": "koroutine",
+    "code": "cr-kata2-174",
+    "index": 174
+  },
+  {
+    "surface": "カルチャーショック",
+    "reading": "cultureshock",
+    "code": "cr-kata2-175",
+    "index": 175
+  },
+  {
+    "surface": "グリーク",
+    "reading": "greek",
+    "code": "cr-kata2-176",
+    "index": 176
+  },
+  {
+    "surface": "キャッツアイ",
+    "reading": "cateye",
+    "code": "cr-kata2-177",
+    "index": 177
+  },
+  {
+    "surface": "クロケット",
+    "reading": "croquette",
+    "code": "cr-kata2-178",
+    "index": 178
+  },
+  {
+    "surface": "クロスターノイブルク",
+    "reading": "kurosutaanoiburuku",
+    "code": "cr-kata2-179",
+    "index": 179
+  },
+  {
+    "surface": "コンサバティヴ",
+    "reading": "konsabativu",
+    "code": "cr-kata2-180",
+    "index": 180
+  },
+  {
+    "surface": "コールユーブンゲン",
+    "reading": "chorubungen",
+    "code": "cr-kata2-181",
+    "index": 181
+  },
+  {
+    "surface": "コンフィギュレーション",
+    "reading": "configuration",
+    "code": "cr-kata2-182",
+    "index": 182
+  },
+  {
+    "surface": "コナーベーション",
+    "reading": "conurbation",
+    "code": "cr-kata2-183",
+    "index": 183
+  },
+  {
+    "surface": "グループディスカッション",
+    "reading": "groupdiscussion",
+    "code": "cr-kata2-184",
+    "index": 184
+  },
+  {
+    "surface": "カチャカチャ",
+    "reading": "kachakacha",
+    "code": "cr-kata2-185",
+    "index": 185
+  },
+  {
+    "surface": "クニャクニャ",
+    "reading": "kunyakunya",
+    "code": "cr-kata2-186",
+    "index": 186
+  },
+  {
+    "surface": "コーディネイション",
+    "reading": "codycodeynation",
+    "code": "cr-kata2-187",
+    "index": 187
+  },
+  {
+    "surface": "コンシステンシ",
+    "reading": "konshisutenshi",
+    "code": "cr-kata2-188",
+    "index": 188
+  },
+  {
+    "surface": "キスロヴォツク",
+    "reading": "kisurovotsuku",
+    "code": "cr-kata2-189",
+    "index": 189
+  },
+  {
+    "surface": "キムラグモ",
+    "reading": "kimuragumo",
+    "code": "cr-kata2-190",
+    "index": 190
+  },
+  {
+    "surface": "カンファレンシング",
+    "reading": "kanfarenshingu",
+    "code": "cr-kata2-191",
+    "index": 191
+  },
+  {
+    "surface": "クオリティオブライフ",
+    "reading": "qualityoflife",
+    "code": "cr-kata2-192",
+    "index": 192
+  },
+  {
+    "surface": "キャッシュディスペンサ",
+    "reading": "kyasshudisupensa",
+    "code": "cr-kata2-193",
+    "index": 193
+  },
+  {
+    "surface": "カーミン",
+    "reading": "carmine",
+    "code": "cr-kata2-194",
+    "index": 194
+  },
+  {
+    "surface": "クランチ",
+    "reading": "crunch",
+    "code": "cr-kata2-195",
+    "index": 195
+  },
+  {
+    "surface": "ゲバルト",
+    "reading": "gewalt",
+    "code": "cr-kata2-196",
+    "index": 196
+  },
+  {
+    "surface": "クロテングギンザメ",
+    "reading": "kurotenguginzame",
+    "code": "cr-kata2-197",
+    "index": 197
+  },
+  {
+    "surface": "カランバ",
+    "reading": "kraanba",
+    "code": "cr-kata2-198",
+    "index": 198
+  },
+  {
+    "surface": "カルーガ",
+    "reading": "karuuga",
+    "code": "cr-kata2-199",
+    "index": 199
+  },
+  {
+    "surface": "カシケイタイ",
+    "reading": "kashikeitai",
+    "code": "cr-kata2-200",
+    "index": 200
+  },
+  {
+    "surface": "クロンボ",
+    "reading": "kuronbo",
+    "code": "cr-kata2-201",
+    "index": 201
+  },
+  {
+    "surface": "カスケード",
+    "reading": "cascade",
+    "code": "cr-kata2-202",
+    "index": 202
+  },
+  {
+    "surface": "コタ",
+    "reading": "kota",
+    "code": "cr-kata2-203",
+    "index": 203
+  },
+  {
+    "surface": "カリカチュア",
+    "reading": "caricature",
+    "code": "cr-kata2-204",
+    "index": 204
+  },
+  {
+    "surface": "コックバーンタウン",
+    "reading": "cookbahntown",
+    "code": "cr-kata2-205",
+    "index": 205
+  },
+  {
+    "surface": "クコ",
+    "reading": "kuko",
+    "code": "cr-kata2-206",
+    "index": 206
+  },
+  {
+    "surface": "ガソリンスタンド",
+    "reading": "gasolinestand",
+    "code": "cr-kata2-207",
+    "index": 207
+  },
+  {
+    "surface": "キジハタ",
+    "reading": "kijihata",
+    "code": "cr-kata2-208",
+    "index": 208
+  },
+  {
+    "surface": "クロヘリメジロザメ",
+    "reading": "kuroherimejirozame",
+    "code": "cr-kata2-209",
+    "index": 209
+  },
+  {
+    "surface": "コンデンス・ミルク",
+    "reading": "condensemilk",
+    "code": "cr-kata2-210",
+    "index": 210
+  },
+  {
+    "surface": "ケイバン",
+    "reading": "keivan",
+    "code": "cr-kata2-211",
+    "index": 211
+  },
+  {
+    "surface": "キュー",
+    "reading": "cue",
+    "code": "cr-kata2-212",
+    "index": 212
+  },
+  {
+    "surface": "キャッチアップ",
+    "reading": "catchup",
+    "code": "cr-kata2-213",
+    "index": 213
+  },
+  {
+    "surface": "グー",
+    "reading": "good",
+    "code": "cr-kata2-214",
+    "index": 214
+  },
+  {
+    "surface": "コンピュータシステム",
+    "reading": "computersystem",
+    "code": "cr-kata2-215",
+    "index": 215
+  },
+  {
+    "surface": "ケミカルパルプ",
+    "reading": "chemicalpulp",
+    "code": "cr-kata2-216",
+    "index": 216
+  },
+  {
+    "surface": "カウントダウン",
+    "reading": "countdown",
+    "code": "cr-kata2-217",
+    "index": 217
+  },
+  {
+    "surface": "キロ",
+    "reading": "kilo",
+    "code": "cr-kata2-218",
+    "index": 218
+  },
+  {
+    "surface": "コミュニケーション",
+    "reading": "communication",
+    "code": "cr-kata2-219",
+    "index": 219
+  },
+  {
+    "surface": "クローブ",
+    "reading": "clove",
+    "code": "cr-kata2-220",
+    "index": 220
+  },
+  {
+    "surface": "コミュニティーケア",
+    "reading": "communitycare",
+    "code": "cr-kata2-221",
+    "index": 221
+  },
+  {
+    "surface": "コマーシャルフィルム",
+    "reading": "commercialfilm",
+    "code": "cr-kata2-222",
+    "index": 222
+  },
+  {
+    "surface": "カヴァ",
+    "reading": "cover",
+    "code": "cr-kata2-223",
+    "index": 223
+  },
+  {
+    "surface": "カッペラス・コーヴ",
+    "reading": "kappelathkoovu",
+    "code": "cr-kata2-224",
+    "index": 224
+  },
+  {
+    "surface": "カニダマシ",
+    "reading": "kanidamashi",
+    "code": "cr-kata2-225",
+    "index": 225
+  },
+  {
+    "surface": "キューレット",
+    "reading": "curette",
+    "code": "cr-kata2-226",
+    "index": 226
+  },
+  {
+    "surface": "コト",
+    "reading": "koto",
+    "code": "cr-kata2-227",
+    "index": 227
+  },
+  {
+    "surface": "ゲレイン",
+    "reading": "gerein",
+    "code": "cr-kata2-228",
+    "index": 228
+  },
+  {
+    "surface": "ギフトショップ",
+    "reading": "giftshop",
+    "code": "cr-kata2-229",
+    "index": 229
+  },
+  {
+    "surface": "コチョウラン",
+    "reading": "kochourun",
+    "code": "cr-kata2-230",
+    "index": 230
+  },
+  {
+    "surface": "キル",
+    "reading": "kill",
+    "code": "cr-kata2-231",
+    "index": 231
+  },
+  {
+    "surface": "コンセショナリーチェーン",
+    "reading": "konseshonariicheen",
+    "code": "cr-kata2-232",
+    "index": 232
+  },
+  {
+    "surface": "ゴマチョウチョウウオ",
+    "reading": "gomachouchouuo",
+    "code": "cr-kata2-233",
+    "index": 233
+  },
+  {
+    "surface": "グロッソラリア",
+    "reading": "gurossoraria",
+    "code": "cr-kata2-234",
+    "index": 234
+  },
+  {
+    "surface": "コンセプシオン",
+    "reading": "konsepushion",
+    "code": "cr-kata2-235",
+    "index": 235
+  },
+  {
+    "surface": "コリンウッド",
+    "reading": "cholinewood",
+    "code": "cr-kata2-236",
+    "index": 236
+  },
+  {
+    "surface": "カントリーアンドウェスタン",
+    "reading": "countryandwestern",
+    "code": "cr-kata2-237",
+    "index": 237
+  },
+  {
+    "surface": "クレープシャツ",
+    "reading": "crepeshirt",
+    "code": "cr-kata2-238",
+    "index": 238
+  },
+  {
+    "surface": "ガルフサージョンフィッシュ",
+    "reading": "garufusaajonfisshu",
+    "code": "cr-kata2-239",
+    "index": 239
+  },
+  {
+    "surface": "ギプス",
+    "reading": "gips",
+    "code": "cr-kata2-240",
+    "index": 240
+  },
+  {
+    "surface": "コミュニティースクール",
+    "reading": "communityschool",
+    "code": "cr-kata2-241",
+    "index": 241
+  },
+  {
+    "surface": "ガベージインガベージアウト",
+    "reading": "gabeejiingabeejiauto",
+    "code": "cr-kata2-242",
+    "index": 242
+  },
+  {
+    "surface": "クロスベルト",
+    "reading": "clothbelt",
+    "code": "cr-kata2-243",
+    "index": 243
+  },
+  {
+    "surface": "ゲレ",
+    "reading": "gere",
+    "code": "cr-kata2-244",
+    "index": 244
+  },
+  {
+    "surface": "クアーティー",
+    "reading": "kuaatii",
+    "code": "cr-kata2-245",
+    "index": 245
+  },
+  {
+    "surface": "コジェネレーション",
+    "reading": "cogeneration",
+    "code": "cr-kata2-246",
+    "index": 246
+  },
+  {
+    "surface": "コンサート・ホール",
+    "reading": "concerthall",
+    "code": "cr-kata2-247",
+    "index": 247
+  },
+  {
+    "surface": "ギャモン",
+    "reading": "gyamon",
+    "code": "cr-kata2-248",
+    "index": 248
+  },
+  {
+    "surface": "コンクリート・ジャングル",
+    "reading": "concretejungle",
+    "code": "cr-kata2-249",
+    "index": 249
+  },
+  {
+    "surface": "クロホソオオトカゲ",
+    "reading": "kurohosoootokage",
+    "code": "cr-kata2-250",
+    "index": 250
+  },
+  {
+    "surface": "カタカナ",
+    "reading": "katakana",
+    "code": "cr-kata2-251",
+    "index": 251
+  },
+  {
+    "surface": "ゴーフル",
+    "reading": "gaufre",
+    "code": "cr-kata2-252",
+    "index": 252
+  },
+  {
+    "surface": "コテコテ",
+    "reading": "kotekote",
+    "code": "cr-kata2-253",
+    "index": 253
+  },
+  {
+    "surface": "クロカビ",
+    "reading": "kurokabi",
+    "code": "cr-kata2-254",
+    "index": 254
+  },
+  {
+    "surface": "キッチンドリンカー",
+    "reading": "kitchendrinker",
+    "code": "cr-kata2-255",
+    "index": 255
+  },
+  {
+    "surface": "ガチ",
+    "reading": "gachi",
+    "code": "cr-kata2-256",
+    "index": 256
+  },
+  {
+    "surface": "コジイ",
+    "reading": "kojii",
+    "code": "cr-kata2-257",
+    "index": 257
+  },
+  {
+    "surface": "ゲル",
+    "reading": "gel",
+    "code": "cr-kata2-258",
+    "index": 258
+  },
+  {
+    "surface": "コリンエステラーゼ",
+    "reading": "cholinesterase",
+    "code": "cr-kata2-259",
+    "index": 259
+  },
+  {
+    "surface": "キュリー",
+    "reading": "curie",
+    "code": "cr-kata2-260",
+    "index": 260
+  },
+  {
+    "surface": "クロロプレン",
+    "reading": "chloroprene",
+    "code": "cr-kata2-261",
+    "index": 261
+  },
+  {
+    "surface": "コンクリートパネル",
+    "reading": "concretepanel",
+    "code": "cr-kata2-262",
+    "index": 262
+  },
+  {
+    "surface": "キツイ",
+    "reading": "kitsui",
+    "code": "cr-kata2-263",
+    "index": 263
+  },
+  {
+    "surface": "コア・サイダンシャー",
+    "reading": "coresaidanshaa",
+    "code": "cr-kata2-264",
+    "index": 264
+  },
+  {
+    "surface": "コントロール",
+    "reading": "control",
+    "code": "cr-kata2-265",
+    "index": 265
+  },
+  {
+    "surface": "コルニス",
+    "reading": "korunisu",
+    "code": "cr-kata2-266",
+    "index": 266
+  },
+  {
+    "surface": "コンセルバトアール",
+    "reading": "conservatoire",
+    "code": "cr-kata2-267",
+    "index": 267
+  },
+  {
+    "surface": "クバ",
+    "reading": "kuba",
+    "code": "cr-kata2-268",
+    "index": 268
+  },
+  {
+    "surface": "カピチュレーション",
+    "reading": "capitulation",
+    "code": "cr-kata2-269",
+    "index": 269
+  },
+  {
+    "surface": "グローブ",
+    "reading": "glove",
+    "code": "cr-kata2-270",
+    "index": 270
+  },
+  {
+    "surface": "コンディショニング",
+    "reading": "conditioning",
+    "code": "cr-kata2-271",
+    "index": 271
+  },
+  {
+    "surface": "コンスティトゥシオン",
+    "reading": "konsutitushion",
+    "code": "cr-kata2-272",
+    "index": 272
+  },
+  {
+    "surface": "クロスレファレンス",
+    "reading": "clothreference",
+    "code": "cr-kata2-273",
+    "index": 273
+  },
+  {
+    "surface": "カステリョン・デ・ラ・プラナ",
+    "reading": "kasuteryonderapurana",
+    "code": "cr-kata2-274",
+    "index": 274
+  },
+  {
+    "surface": "コビントン",
+    "reading": "kobinton",
+    "code": "cr-kata2-275",
+    "index": 275
+  },
+  {
+    "surface": "カップリングシュガー",
+    "reading": "couplingsugar",
+    "code": "cr-kata2-276",
+    "index": 276
+  },
+  {
+    "surface": "ケチンボ",
+    "reading": "kechinbo",
+    "code": "cr-kata2-277",
+    "index": 277
+  },
+  {
+    "surface": "ケイ",
+    "reading": "kay",
+    "code": "cr-kata2-278",
+    "index": 278
+  },
+  {
+    "surface": "キジ",
+    "reading": "kiji",
+    "code": "cr-kata2-279",
+    "index": 279
+  },
+  {
+    "surface": "コマーシャルアート",
+    "reading": "commercialart",
+    "code": "cr-kata2-280",
+    "index": 280
+  },
+  {
+    "surface": "コレラタケ",
+    "reading": "choleratake",
+    "code": "cr-kata2-281",
+    "index": 281
+  },
+  {
+    "surface": "コウフ",
+    "reading": "koufu",
+    "code": "cr-kata2-282",
+    "index": 282
+  },
+  {
+    "surface": "コドレア",
+    "reading": "kodorea",
+    "code": "cr-kata2-283",
+    "index": 283
+  },
+  {
+    "surface": "キャラジ",
+    "reading": "kyaraji",
+    "code": "cr-kata2-284",
+    "index": 284
+  },
+  {
+    "surface": "ゴッホ",
+    "reading": "gogh",
+    "code": "cr-kata2-285",
+    "index": 285
+  },
+  {
+    "surface": "ガロン",
+    "reading": "gallon",
+    "code": "cr-kata2-286",
+    "index": 286
+  },
+  {
+    "surface": "コケモモ",
+    "reading": "kokemomo",
+    "code": "cr-kata2-287",
+    "index": 287
+  },
+  {
+    "surface": "キッシンググラミー",
+    "reading": "kisshinguguramii",
+    "code": "cr-kata2-288",
+    "index": 288
+  },
+  {
+    "surface": "カミナ",
+    "reading": "kamina",
+    "code": "cr-kata2-289",
+    "index": 289
+  },
+  {
+    "surface": "カプア",
+    "reading": "kapua",
+    "code": "cr-kata2-290",
+    "index": 290
+  },
+  {
+    "surface": "ケプラー",
+    "reading": "kepler",
+    "code": "cr-kata2-291",
+    "index": 291
+  },
+  {
+    "surface": "キム",
+    "reading": "kimu",
+    "code": "cr-kata2-292",
+    "index": 292
+  },
+  {
+    "surface": "カバ",
+    "reading": "kaba",
+    "code": "cr-kata2-293",
+    "index": 293
+  },
+  {
+    "surface": "カフェテリア",
+    "reading": "cafeteria",
+    "code": "cr-kata2-294",
+    "index": 294
+  },
+  {
+    "surface": "キリシタンパテレン",
+    "reading": "christaoputtyren",
+    "code": "cr-kata2-295",
+    "index": 295
+  },
+  {
+    "surface": "コーヤンブットゥール",
+    "reading": "kooyanbuttuuru",
+    "code": "cr-kata2-296",
+    "index": 296
+  },
+  {
+    "surface": "グアノ",
+    "reading": "guano",
+    "code": "cr-kata2-297",
+    "index": 297
+  },
+  {
+    "surface": "コミ",
+    "reading": "komi",
+    "code": "cr-kata2-298",
+    "index": 298
+  },
+  {
+    "surface": "クサフグ",
+    "reading": "kusafugu",
+    "code": "cr-kata2-299",
+    "index": 299
+  },
+  {
+    "surface": "コクリ",
+    "reading": "kokuri",
+    "code": "cr-kata2-300",
+    "index": 300
+  },
+  {
+    "surface": "ゲー",
+    "reading": "game",
+    "code": "cr-kata2-301",
+    "index": 301
+  },
+  {
+    "surface": "ココポ",
+    "reading": "cocopo",
+    "code": "cr-kata2-302",
+    "index": 302
+  },
+  {
+    "surface": "カーナビゲーション",
+    "reading": "carnavigation",
+    "code": "cr-kata2-303",
+    "index": 303
+  },
+  {
+    "surface": "グレーター",
+    "reading": "grater",
+    "code": "cr-kata2-304",
+    "index": 304
+  },
+  {
+    "surface": "ガベッジコレクション",
+    "reading": "gabejjikorekushon",
+    "code": "cr-kata2-305",
+    "index": 305
+  },
+  {
+    "surface": "コンティンジェンシー",
+    "reading": "contingency",
+    "code": "cr-kata2-306",
+    "index": 306
+  },
+  {
+    "surface": "カメラオブスキュラ",
+    "reading": "cameraobscura",
+    "code": "cr-kata2-307",
+    "index": 307
+  },
+  {
+    "surface": "クエスチョンマーク",
+    "reading": "questionmark",
+    "code": "cr-kata2-308",
+    "index": 308
+  },
+  {
+    "surface": "ケア",
+    "reading": "care",
+    "code": "cr-kata2-309",
+    "index": 309
+  },
+  {
+    "surface": "ゴマテングハギモドキ",
+    "reading": "gomatenguhagimodoki",
+    "code": "cr-kata2-310",
+    "index": 310
+  },
+  {
+    "surface": "クリプトン",
+    "reading": "krypton",
+    "code": "cr-kata2-311",
+    "index": 311
+  },
+  {
+    "surface": "グリーンアスパラガス",
+    "reading": "greenasparagus",
+    "code": "cr-kata2-312",
+    "index": 312
+  },
+  {
+    "surface": "コモドーロ・リバダビア",
+    "reading": "komodoororibadabia",
+    "code": "cr-kata2-313",
+    "index": 313
+  },
+  {
+    "surface": "カスザメ",
+    "reading": "kasuzame",
+    "code": "cr-kata2-314",
+    "index": 314
+  },
+  {
+    "surface": "ゴスバンク",
+    "reading": "gothicbank",
+    "code": "cr-kata2-315",
+    "index": 315
+  },
+  {
+    "surface": "コオペラティヴシステム",
+    "reading": "kooperativushisutemu",
+    "code": "cr-kata2-316",
+    "index": 316
+  },
+  {
+    "surface": "コバルトブルー",
+    "reading": "cobaltblue",
+    "code": "cr-kata2-317",
+    "index": 317
+  },
+  {
+    "surface": "ゲフィルテフィッシュ",
+    "reading": "gefirutefisshu",
+    "code": "cr-kata2-318",
+    "index": 318
+  },
+  {
+    "surface": "ケン",
+    "reading": "ken",
+    "code": "cr-kata2-319",
+    "index": 319
+  },
+  {
+    "surface": "コンピュータサイエンス",
+    "reading": "computerscience",
+    "code": "cr-kata2-320",
+    "index": 320
+  },
+  {
+    "surface": "キナ",
+    "reading": "kina",
+    "code": "cr-kata2-321",
+    "index": 321
+  },
+  {
+    "surface": "カレントディレクトリ",
+    "reading": "currentdirectory",
+    "code": "cr-kata2-322",
+    "index": 322
+  },
+  {
+    "surface": "コネ",
+    "reading": "connection",
+    "code": "cr-kata2-323",
+    "index": 323
+  },
+  {
+    "surface": "ゲコ",
+    "reading": "geko",
+    "code": "cr-kata2-324",
+    "index": 324
+  },
+  {
+    "surface": "クレイトン",
+    "reading": "clayton",
+    "code": "cr-kata2-325",
+    "index": 325
+  },
+  {
+    "surface": "キリリク",
+    "reading": "cruzriku",
+    "code": "cr-kata2-326",
+    "index": 326
+  },
+  {
+    "surface": "ゲイ",
+    "reading": "gay",
+    "code": "cr-kata2-327",
+    "index": 327
+  },
+  {
+    "surface": "キダル",
+    "reading": "kidull",
+    "code": "cr-kata2-328",
+    "index": 328
+  },
+  {
+    "surface": "クランクイン",
+    "reading": "crankin",
+    "code": "cr-kata2-329",
+    "index": 329
+  },
+  {
+    "surface": "クオリティ",
+    "reading": "quality",
+    "code": "cr-kata2-330",
+    "index": 330
+  },
+  {
+    "surface": "カナキン",
+    "reading": "canequim",
+    "code": "cr-kata2-331",
+    "index": 331
+  },
+  {
+    "surface": "コンサルタンツ",
+    "reading": "consultant",
+    "code": "cr-kata2-332",
+    "index": 332
+  },
+  {
+    "surface": "クラッド",
+    "reading": "clad",
+    "code": "cr-kata2-333",
+    "index": 333
+  },
+  {
+    "surface": "ギブ",
+    "reading": "give",
+    "code": "cr-kata2-334",
+    "index": 334
+  },
+  {
+    "surface": "カジノ",
+    "reading": "casino",
+    "code": "cr-kata2-335",
+    "index": 335
+  },
+  {
+    "surface": "クソ",
+    "reading": "kuso",
+    "code": "cr-kata2-336",
+    "index": 336
+  },
+  {
+    "surface": "クマノヴォ",
+    "reading": "kumanovo",
+    "code": "cr-kata2-337",
+    "index": 337
+  },
+  {
+    "surface": "ゴルゴンゾーラ",
+    "reading": "gorugonzoora",
+    "code": "cr-kata2-338",
+    "index": 338
+  },
+  {
+    "surface": "クロオビスズメダイ",
+    "reading": "kuroobisuzumedai",
+    "code": "cr-kata2-339",
+    "index": 339
+  },
+  {
+    "surface": "ゴルシ",
+    "reading": "gorushi",
+    "code": "cr-kata2-340",
+    "index": 340
+  },
+  {
+    "surface": "カーワックス",
+    "reading": "carwax",
+    "code": "cr-kata2-341",
+    "index": 341
+  },
+  {
+    "surface": "コルセット",
+    "reading": "corset",
+    "code": "cr-kata2-342",
+    "index": 342
+  },
+  {
+    "surface": "カサンガティ",
+    "reading": "kasangati",
+    "code": "cr-kata2-343",
+    "index": 343
+  },
+  {
+    "surface": "カウベル",
+    "reading": "cowbell",
+    "code": "cr-kata2-344",
+    "index": 344
+  },
+  {
+    "surface": "クラミジア",
+    "reading": "chlamydia",
+    "code": "cr-kata2-345",
+    "index": 345
+  },
+  {
+    "surface": "カソード",
+    "reading": "cathode",
+    "code": "cr-kata2-346",
+    "index": 346
+  },
+  {
+    "surface": "カリカチュライズ",
+    "reading": "karikachuraizu",
+    "code": "cr-kata2-347",
+    "index": 347
+  },
+  {
+    "surface": "カディス",
+    "reading": "cadiz",
+    "code": "cr-kata2-348",
+    "index": 348
+  },
+  {
+    "surface": "ガラ",
+    "reading": "gala",
+    "code": "cr-kata2-349",
+    "index": 349
+  },
+  {
+    "surface": "コーナー",
+    "reading": "corner",
+    "code": "cr-kata2-350",
+    "index": 350
+  },
+  {
+    "surface": "ガスコンロ",
+    "reading": "gaskonro",
+    "code": "cr-kata2-351",
+    "index": 351
+  },
+  {
+    "surface": "ギンドロ",
+    "reading": "gindoro",
+    "code": "cr-kata2-352",
+    "index": 352
+  },
+  {
+    "surface": "ギャロッピングインフレ",
+    "reading": "gyaroppinguinfure",
+    "code": "cr-kata2-353",
+    "index": 353
+  },
+  {
+    "surface": "キーホールジャーナリズム",
+    "reading": "keyhalljournalism",
+    "code": "cr-kata2-354",
+    "index": 354
+  },
+  {
+    "surface": "グループワーク",
+    "reading": "groupwork",
+    "code": "cr-kata2-355",
+    "index": 355
+  },
+  {
+    "surface": "カリブー",
+    "reading": "caribou",
+    "code": "cr-kata2-356",
+    "index": 356
+  },
+  {
+    "surface": "グチャ",
+    "reading": "gucha",
+    "code": "cr-kata2-357",
+    "index": 357
+  },
+  {
+    "surface": "クロス・カントリー",
+    "reading": "clothcountry",
+    "code": "cr-kata2-358",
+    "index": 358
+  },
+  {
+    "surface": "クリアリングハウス",
+    "reading": "clearinghouse",
+    "code": "cr-kata2-359",
+    "index": 359
+  },
+  {
+    "surface": "クルム",
+    "reading": "kurumu",
+    "code": "cr-kata2-360",
+    "index": 360
+  },
+  {
+    "surface": "コーベル",
+    "reading": "koubell",
+    "code": "cr-kata2-361",
+    "index": 361
+  },
+  {
+    "surface": "クロイスター",
+    "reading": "cloister",
+    "code": "cr-kata2-362",
+    "index": 362
+  },
+  {
+    "surface": "コンピューターサイエンス",
+    "reading": "computerscience",
+    "code": "cr-kata2-363",
+    "index": 363
+  },
+  {
+    "surface": "カウント",
+    "reading": "count",
+    "code": "cr-kata2-364",
+    "index": 364
+  },
+  {
+    "surface": "クラカケチョウチョウウオ",
+    "reading": "kurakakechouchouuo",
+    "code": "cr-kata2-365",
+    "index": 365
+  },
+  {
+    "surface": "コロリ",
+    "reading": "korori",
+    "code": "cr-kata2-366",
+    "index": 366
+  },
+  {
+    "surface": "キャステリャ",
+    "reading": "kyasuterya",
+    "code": "cr-kata2-367",
+    "index": 367
+  },
+  {
+    "surface": "クダモノトケイソウ",
+    "reading": "kudamonotokeisou",
+    "code": "cr-kata2-368",
+    "index": 368
+  },
+  {
+    "surface": "ゲートウエイ",
+    "reading": "gateway",
+    "code": "cr-kata2-369",
+    "index": 369
+  },
+  {
+    "surface": "コツ",
+    "reading": "kotsu",
+    "code": "cr-kata2-370",
+    "index": 370
+  },
+  {
+    "surface": "コノハヅク",
+    "reading": "konohazuku",
+    "code": "cr-kata2-371",
+    "index": 371
+  },
+  {
+    "surface": "ゴキヅル",
+    "reading": "gokizuru",
+    "code": "cr-kata2-372",
+    "index": 372
+  },
+  {
+    "surface": "クィーンズランド",
+    "reading": "queenland",
+    "code": "cr-kata2-373",
+    "index": 373
+  },
+  {
+    "surface": "コングロマーチャント",
+    "reading": "konguromaachanto",
+    "code": "cr-kata2-374",
+    "index": 374
+  },
+  {
+    "surface": "クロトウゾクカモメ",
+    "reading": "kurotouzokukamome",
+    "code": "cr-kata2-375",
+    "index": 375
+  },
+  {
+    "surface": "コクチバス",
+    "reading": "kokuchibus",
+    "code": "cr-kata2-376",
+    "index": 376
+  },
+  {
+    "surface": "コミューン",
+    "reading": "commune",
+    "code": "cr-kata2-377",
+    "index": 377
+  },
+  {
+    "surface": "カイザー",
+    "reading": "geyser",
+    "code": "cr-kata2-378",
+    "index": 378
+  },
+  {
+    "surface": "コンコルダート",
+    "reading": "konkordat",
+    "code": "cr-kata2-379",
+    "index": 379
+  },
+  {
+    "surface": "コシャリン",
+    "reading": "kosharin",
+    "code": "cr-kata2-380",
+    "index": 380
+  },
+  {
+    "surface": "ガスタンク",
+    "reading": "gastank",
+    "code": "cr-kata2-381",
+    "index": 381
+  },
+  {
+    "surface": "クラフティ",
+    "reading": "clafoutis",
+    "code": "cr-kata2-382",
+    "index": 382
+  },
+  {
+    "surface": "クズ",
+    "reading": "kuzu",
+    "code": "cr-kata2-383",
+    "index": 383
+  },
+  {
+    "surface": "カトレア",
+    "reading": "cattleya",
+    "code": "cr-kata2-384",
+    "index": 384
+  },
+  {
+    "surface": "キサンガニ",
+    "reading": "kisangani",
+    "code": "cr-kata2-385",
+    "index": 385
+  },
+  {
+    "surface": "コヤギ",
+    "reading": "koyagi",
+    "code": "cr-kata2-386",
+    "index": 386
+  },
+  {
+    "surface": "コブミカン",
+    "reading": "kobumikan",
+    "code": "cr-kata2-387",
+    "index": 387
+  },
+  {
+    "surface": "クルミ",
+    "reading": "kurumi",
+    "code": "cr-kata2-388",
+    "index": 388
+  },
+  {
+    "surface": "キラー",
+    "reading": "killer",
+    "code": "cr-kata2-389",
+    "index": 389
+  },
+  {
+    "surface": "ゴミ",
+    "reading": "gomi",
+    "code": "cr-kata2-390",
+    "index": 390
+  },
+  {
+    "surface": "グローバリゼーション",
+    "reading": "globalization",
+    "code": "cr-kata2-391",
+    "index": 391
+  },
+  {
+    "surface": "ゴム",
+    "reading": "gom",
+    "code": "cr-kata2-392",
+    "index": 392
+  },
+  {
+    "surface": "クリスチャンネーム",
+    "reading": "christianname",
+    "code": "cr-kata2-393",
+    "index": 393
+  },
+  {
+    "surface": "コソ",
+    "reading": "koso",
+    "code": "cr-kata2-394",
+    "index": 394
+  },
+  {
+    "surface": "ゴルゴンゾラ",
+    "reading": "gorugonzora",
+    "code": "cr-kata2-395",
+    "index": 395
+  },
+  {
+    "surface": "ガストロノミスト",
+    "reading": "gasutoronomisuto",
+    "code": "cr-kata2-396",
+    "index": 396
+  },
+  {
+    "surface": "キノホルム",
+    "reading": "chinoform",
+    "code": "cr-kata2-397",
+    "index": 397
+  },
+  {
+    "surface": "ゴツェ・デルチェフ",
+    "reading": "gotsederuchefu",
+    "code": "cr-kata2-398",
+    "index": 398
+  },
+  {
+    "surface": "カーソルコントロールキー",
+    "reading": "cursorcontrolkey",
+    "code": "cr-kata2-399",
+    "index": 399
+  },
+  {
+    "surface": "コスキン",
+    "reading": "kosukin",
+    "code": "cr-kata2-400",
+    "index": 400
+  },
+  {
+    "surface": "クマナ",
+    "reading": "kumana",
+    "code": "cr-kata2-401",
+    "index": 401
+  },
+  {
+    "surface": "カイロプラクティック",
+    "reading": "chiropractic",
+    "code": "cr-kata2-402",
+    "index": 402
+  },
+  {
+    "surface": "カクテルパーティー",
+    "reading": "cocktailparty",
+    "code": "cr-kata2-403",
+    "index": 403
+  },
+  {
+    "surface": "クロスステッチ",
+    "reading": "clothstitch",
+    "code": "cr-kata2-404",
+    "index": 404
+  },
+  {
+    "surface": "クマゲラ",
+    "reading": "kumagera",
+    "code": "cr-kata2-405",
+    "index": 405
+  },
+  {
+    "surface": "キンバリー",
+    "reading": "kimberley",
+    "code": "cr-kata2-406",
+    "index": 406
+  },
+  {
+    "surface": "クエリ",
+    "reading": "query",
+    "code": "cr-kata2-407",
+    "index": 407
+  },
+  {
+    "surface": "ゴイゴル",
+    "reading": "goigoru",
+    "code": "cr-kata2-408",
+    "index": 408
+  },
+  {
+    "surface": "ケガ",
+    "reading": "kega",
+    "code": "cr-kata2-409",
+    "index": 409
+  },
+  {
+    "surface": "ガントリークレーン",
+    "reading": "gantoriikureen",
+    "code": "cr-kata2-410",
+    "index": 410
+  },
+  {
+    "surface": "カラゲナン",
+    "reading": "carrageenan",
+    "code": "cr-kata2-411",
+    "index": 411
+  },
+  {
+    "surface": "コンクリートプレーサー",
+    "reading": "concreteplaysir",
+    "code": "cr-kata2-412",
+    "index": 412
+  },
+  {
+    "surface": "ガリバー",
+    "reading": "gulliver",
+    "code": "cr-kata2-413",
+    "index": 413
+  },
+  {
+    "surface": "ガナ",
+    "reading": "gana",
+    "code": "cr-kata2-414",
+    "index": 414
+  },
+  {
+    "surface": "キャリブレーション",
+    "reading": "calibration",
+    "code": "cr-kata2-415",
+    "index": 415
+  },
+  {
+    "surface": "コクテンサザナミハギ",
+    "reading": "kokutensazanamihagi",
+    "code": "cr-kata2-416",
+    "index": 416
+  },
+  {
+    "surface": "ゴマキ",
+    "reading": "gomaki",
+    "code": "cr-kata2-417",
+    "index": 417
+  },
+  {
+    "surface": "コンセント",
+    "reading": "consent",
+    "code": "cr-kata2-418",
+    "index": 418
+  },
+  {
+    "surface": "コテージグローブ",
+    "reading": "cottageglove",
+    "code": "cr-kata2-419",
+    "index": 419
+  },
+  {
+    "surface": "コンタミネーション",
+    "reading": "contamination",
+    "code": "cr-kata2-420",
+    "index": 420
+  },
+  {
+    "surface": "カクレガニ",
+    "reading": "kakuregani",
+    "code": "cr-kata2-421",
+    "index": 421
+  },
+  {
+    "surface": "ギュイヤンクール",
+    "reading": "gyuiyankuuru",
+    "code": "cr-kata2-422",
+    "index": 422
+  },
+  {
+    "surface": "キヘリキンチャクダイ",
+    "reading": "kiherikinchakudai",
+    "code": "cr-kata2-423",
+    "index": 423
+  },
+  {
+    "surface": "キュウセン",
+    "reading": "kyuusen",
+    "code": "cr-kata2-424",
+    "index": 424
+  },
+  {
+    "surface": "コースオブスタディ",
+    "reading": "courseofstudy",
+    "code": "cr-kata2-425",
+    "index": 425
+  },
+  {
+    "surface": "クォリティーオブライフ",
+    "reading": "qualityoflife",
+    "code": "cr-kata2-426",
+    "index": 426
+  },
+  {
+    "surface": "ギャング",
+    "reading": "gang",
+    "code": "cr-kata2-427",
+    "index": 427
+  },
+  {
+    "surface": "カルカヤ",
+    "reading": "karukaya",
+    "code": "cr-kata2-428",
+    "index": 428
+  },
+  {
+    "surface": "キーインダストリー",
+    "reading": "keyindustry",
+    "code": "cr-kata2-429",
+    "index": 429
+  },
+  {
+    "surface": "カラバノヴォ",
+    "reading": "karabanovo",
+    "code": "cr-kata2-430",
+    "index": 430
+  },
+  {
+    "surface": "コクン",
+    "reading": "kokun",
+    "code": "cr-kata2-431",
+    "index": 431
+  },
+  {
+    "surface": "カンボディア",
+    "reading": "cambodia",
+    "code": "cr-kata2-432",
+    "index": 432
+  },
+  {
+    "surface": "ケイサツ",
+    "reading": "keisatsu",
+    "code": "cr-kata2-433",
+    "index": 433
+  },
+  {
+    "surface": "グワカモーレ",
+    "reading": "guwakamoore",
+    "code": "cr-kata2-434",
+    "index": 434
+  },
+  {
+    "surface": "グルココルチコイド",
+    "reading": "glucocorticoids",
+    "code": "cr-kata2-435",
+    "index": 435
+  },
+  {
+    "surface": "コア・カリキュラム",
+    "reading": "corecurriculum",
+    "code": "cr-kata2-436",
+    "index": 436
+  },
+  {
+    "surface": "グリーンバレー",
+    "reading": "greenvolley",
+    "code": "cr-kata2-437",
+    "index": 437
+  },
+  {
+    "surface": "クンドゥーズ",
+    "reading": "kunduuzu",
+    "code": "cr-kata2-438",
+    "index": 438
+  },
+  {
+    "surface": "カタバミ",
+    "reading": "katabami",
+    "code": "cr-kata2-439",
+    "index": 439
+  },
+  {
+    "surface": "カスタードプディング",
+    "reading": "custardpudding",
+    "code": "cr-kata2-440",
+    "index": 440
+  },
+  {
+    "surface": "コンピュータリゼーション",
+    "reading": "computerization",
+    "code": "cr-kata2-441",
+    "index": 441
+  },
+  {
+    "surface": "カシ",
+    "reading": "kashi",
+    "code": "cr-kata2-442",
+    "index": 442
+  },
+  {
+    "surface": "クロムギ",
+    "reading": "kuromugi",
+    "code": "cr-kata2-443",
+    "index": 443
+  },
+  {
+    "surface": "グラス",
+    "reading": "glass",
+    "code": "cr-kata2-444",
+    "index": 444
+  },
+  {
+    "surface": "ガメイ",
+    "reading": "gamay",
+    "code": "cr-kata2-445",
+    "index": 445
+  },
+  {
+    "surface": "キツネザル",
+    "reading": "kitsunezaru",
+    "code": "cr-kata2-446",
+    "index": 446
+  },
+  {
+    "surface": "カイロウドウケツ",
+    "reading": "kairoudouketsu",
+    "code": "cr-kata2-447",
+    "index": 447
+  },
+  {
+    "surface": "グエルマ",
+    "reading": "gueruma",
+    "code": "cr-kata2-448",
+    "index": 448
+  },
+  {
+    "surface": "ガウチョ",
+    "reading": "gaucho",
+    "code": "cr-kata2-449",
+    "index": 449
+  },
+  {
+    "surface": "カスタム",
+    "reading": "custom",
+    "code": "cr-kata2-450",
+    "index": 450
+  },
+  {
+    "surface": "カーボナタイト",
+    "reading": "kaabonataito",
+    "code": "cr-kata2-451",
+    "index": 451
+  },
+  {
+    "surface": "クモ",
+    "reading": "kumo",
+    "code": "cr-kata2-452",
+    "index": 452
+  },
+  {
+    "surface": "ギギ",
+    "reading": "gigi",
+    "code": "cr-kata2-453",
+    "index": 453
+  },
+  {
+    "surface": "キャンドルサービス",
+    "reading": "candleservice",
+    "code": "cr-kata2-454",
+    "index": 454
+  },
+  {
+    "surface": "クライアントサーバー",
+    "reading": "clientserver",
+    "code": "cr-kata2-455",
+    "index": 455
+  },
+  {
+    "surface": "キャッチャーボート",
+    "reading": "catcherboat",
+    "code": "cr-kata2-456",
+    "index": 456
+  },
+  {
+    "surface": "コーポレイション",
+    "reading": "corporation",
+    "code": "cr-kata2-457",
+    "index": 457
+  },
+  {
+    "surface": "コイヘルペスウイルス",
+    "reading": "coiherpesvirus",
+    "code": "cr-kata2-458",
+    "index": 458
+  },
+  {
+    "surface": "ケーブルテレビ",
+    "reading": "cabletelevision",
+    "code": "cr-kata2-459",
+    "index": 459
+  },
+  {
+    "surface": "ケルシュ",
+    "reading": "kerushu",
+    "code": "cr-kata2-460",
+    "index": 460
+  },
+  {
+    "surface": "カイ",
+    "reading": "kai",
+    "code": "cr-kata2-461",
+    "index": 461
+  },
+  {
+    "surface": "ケツァール",
+    "reading": "quetzal",
+    "code": "cr-kata2-462",
+    "index": 462
+  },
+  {
+    "surface": "カイムガンジ",
+    "reading": "kaimuganji",
+    "code": "cr-kata2-463",
+    "index": 463
+  },
+  {
+    "surface": "クリーミー",
+    "reading": "creamy",
+    "code": "cr-kata2-464",
+    "index": 464
+  },
+  {
+    "surface": "コスティアンティニフカ",
+    "reading": "kosutiantinifuka",
+    "code": "cr-kata2-465",
+    "index": 465
+  },
+  {
+    "surface": "クロニクル",
+    "reading": "chronicle",
+    "code": "cr-kata2-466",
+    "index": 466
+  },
+  {
+    "surface": "コシ",
+    "reading": "koshi",
+    "code": "cr-kata2-467",
+    "index": 467
+  },
+  {
+    "surface": "ガスパチョ",
+    "reading": "gazpacho",
+    "code": "cr-kata2-468",
+    "index": 468
+  },
+  {
+    "surface": "キゴマ",
+    "reading": "kigoma",
+    "code": "cr-kata2-469",
+    "index": 469
+  },
+  {
+    "surface": "ガバナー",
+    "reading": "governor",
+    "code": "cr-kata2-470",
+    "index": 470
+  },
+  {
+    "surface": "クサレ",
+    "reading": "kusare",
+    "code": "cr-kata2-471",
+    "index": 471
+  },
+  {
+    "surface": "コロンビア・ハイツ",
+    "reading": "columbiaheights",
+    "code": "cr-kata2-472",
+    "index": 472
+  },
+  {
+    "surface": "カトリシズム",
+    "reading": "catholicism",
+    "code": "cr-kata2-473",
+    "index": 473
+  },
+  {
+    "surface": "ゴルファー",
+    "reading": "golfer",
+    "code": "cr-kata2-474",
+    "index": 474
+  },
+  {
+    "surface": "ガラコンサート",
+    "reading": "galaconcert",
+    "code": "cr-kata2-475",
+    "index": 475
+  },
+  {
+    "surface": "コンプレッション",
+    "reading": "compression",
+    "code": "cr-kata2-476",
+    "index": 476
+  },
+  {
+    "surface": "クロキンチャクダイ",
+    "reading": "kurokinchakudai",
+    "code": "cr-kata2-477",
+    "index": 477
+  },
+  {
+    "surface": "ゴーサイン",
+    "reading": "gosign",
+    "code": "cr-kata2-478",
+    "index": 478
+  },
+  {
+    "surface": "グルートフォンテイン",
+    "reading": "guruutofontein",
+    "code": "cr-kata2-479",
+    "index": 479
+  },
+  {
+    "surface": "クワガタ",
+    "reading": "kuwagata",
+    "code": "cr-kata2-480",
+    "index": 480
+  },
+  {
+    "surface": "クワイ",
+    "reading": "kuwai",
+    "code": "cr-kata2-481",
+    "index": 481
+  },
+  {
+    "surface": "キャリア・ウーマン",
+    "reading": "careerwoman",
+    "code": "cr-kata2-482",
+    "index": 482
+  },
+  {
+    "surface": "カツカツ",
+    "reading": "katsukatsu",
+    "code": "cr-kata2-483",
+    "index": 483
+  },
+  {
+    "surface": "ゲートウエー",
+    "reading": "gateway",
+    "code": "cr-kata2-484",
+    "index": 484
+  },
+  {
+    "surface": "カリガラス",
+    "reading": "kaliglass",
+    "code": "cr-kata2-485",
+    "index": 485
+  },
+  {
+    "surface": "コントロールタワー",
+    "reading": "controltower",
+    "code": "cr-kata2-486",
+    "index": 486
+  },
+  {
+    "surface": "クレマティス",
+    "reading": "kurematisu",
+    "code": "cr-kata2-487",
+    "index": 487
+  },
+  {
+    "surface": "ギッシリ",
+    "reading": "gisshiri",
+    "code": "cr-kata2-488",
+    "index": 488
+  },
+  {
+    "surface": "グルマン",
+    "reading": "gourmand",
+    "code": "cr-kata2-489",
+    "index": 489
+  },
+  {
+    "surface": "カロモ",
+    "reading": "karomo",
+    "code": "cr-kata2-490",
+    "index": 490
+  },
+  {
+    "surface": "ケイワン",
+    "reading": "keione",
+    "code": "cr-kata2-491",
+    "index": 491
+  },
+  {
+    "surface": "クジ",
+    "reading": "kuji",
+    "code": "cr-kata2-492",
+    "index": 492
+  },
+  {
+    "surface": "キャップスロックキー",
+    "reading": "kyappusurokkukey",
+    "code": "cr-kata2-493",
+    "index": 493
+  },
+  {
+    "surface": "クレジットホリック",
+    "reading": "credithorikku",
+    "code": "cr-kata2-494",
+    "index": 494
+  },
+  {
+    "surface": "コスモポリタニズム",
+    "reading": "cosmopolitanism",
+    "code": "cr-kata2-495",
+    "index": 495
+  },
+  {
+    "surface": "ガー",
+    "reading": "gaa",
+    "code": "cr-kata2-496",
+    "index": 496
+  },
+  {
+    "surface": "カダヒー",
+    "reading": "kadahii",
+    "code": "cr-kata2-497",
+    "index": 497
+  },
+  {
+    "surface": "ガリッサ",
+    "reading": "garissa",
+    "code": "cr-kata2-498",
+    "index": 498
+  },
+  {
+    "surface": "キャロル",
+    "reading": "carroll",
+    "code": "cr-kata2-499",
+    "index": 499
+  },
+  {
+    "surface": "クライテリア",
+    "reading": "criteria",
+    "code": "cr-kata2-500",
+    "index": 500
+  },
+  {
+    "surface": "コア",
+    "reading": "core",
+    "code": "cr-kata2-501",
+    "index": 501
+  },
+  {
+    "surface": "キャデラック",
+    "reading": "kyaderakku",
+    "code": "cr-kata2-502",
+    "index": 502
+  },
+  {
+    "surface": "カッティングボード",
+    "reading": "cuttingboard",
+    "code": "cr-kata2-503",
+    "index": 503
+  },
+  {
+    "surface": "コムボルチャ",
+    "reading": "komuborucha",
+    "code": "cr-kata2-504",
+    "index": 504
+  },
+  {
+    "surface": "ゴーイングマイウエー",
+    "reading": "goingmyway",
+    "code": "cr-kata2-505",
+    "index": 505
+  },
+  {
+    "surface": "カンボジア",
+    "reading": "cambodia",
+    "code": "cr-kata2-506",
+    "index": 506
+  },
+  {
+    "surface": "カレント",
+    "reading": "current",
+    "code": "cr-kata2-507",
+    "index": 507
+  },
+  {
+    "surface": "クリエイティビティー",
+    "reading": "creativity",
+    "code": "cr-kata2-508",
+    "index": 508
+  },
+  {
+    "surface": "カズワル",
+    "reading": "kazuwaru",
+    "code": "cr-kata2-509",
+    "index": 509
+  },
+  {
+    "surface": "ケート",
+    "reading": "keeto",
+    "code": "cr-kata2-510",
+    "index": 510
+  },
+  {
+    "surface": "ケースワーク",
+    "reading": "casework",
+    "code": "cr-kata2-511",
+    "index": 511
+  },
+  {
+    "surface": "カタストロフィ",
+    "reading": "catastrophe",
+    "code": "cr-kata2-512",
+    "index": 512
+  },
+  {
+    "surface": "キャッチャー",
+    "reading": "catcher",
+    "code": "cr-kata2-513",
+    "index": 513
+  },
+  {
+    "surface": "カルキン",
+    "reading": "culkin",
+    "code": "cr-kata2-514",
+    "index": 514
+  },
+  {
+    "surface": "ゴマダレ",
+    "reading": "gomadare",
+    "code": "cr-kata2-515",
+    "index": 515
+  },
+  {
+    "surface": "ゴータ",
+    "reading": "goota",
+    "code": "cr-kata2-516",
+    "index": 516
+  },
+  {
+    "surface": "カゴ",
+    "reading": "kago",
+    "code": "cr-kata2-517",
+    "index": 517
+  },
+  {
+    "surface": "ガサ",
+    "reading": "gasa",
+    "code": "cr-kata2-518",
+    "index": 518
+  },
+  {
+    "surface": "クルナ",
+    "reading": "kuruna",
+    "code": "cr-kata2-519",
+    "index": 519
+  },
+  {
+    "surface": "カナディアンカヌー",
+    "reading": "canadiancanoe",
+    "code": "cr-kata2-520",
+    "index": 520
+  },
+  {
+    "surface": "クマドリキンチャクフグ",
+    "reading": "kumadorikinchakufugu",
+    "code": "cr-kata2-521",
+    "index": 521
+  },
+  {
+    "surface": "ケファリン",
+    "reading": "kephalin",
+    "code": "cr-kata2-522",
+    "index": 522
+  },
+  {
+    "surface": "キュビット",
+    "reading": "cubit",
+    "code": "cr-kata2-523",
+    "index": 523
+  },
+  {
+    "surface": "ゴールデンディスク",
+    "reading": "goldendisc",
+    "code": "cr-kata2-524",
+    "index": 524
+  },
+  {
+    "surface": "ココナッツ・グローヴ",
+    "reading": "coconutguroovu",
+    "code": "cr-kata2-525",
+    "index": 525
+  },
+  {
+    "surface": "カサガイ",
+    "reading": "kasagai",
+    "code": "cr-kata2-526",
+    "index": 526
+  },
+  {
+    "surface": "コネクション",
+    "reading": "connection",
+    "code": "cr-kata2-527",
+    "index": 527
+  },
+  {
+    "surface": "クラーレ",
+    "reading": "curare",
+    "code": "cr-kata2-528",
+    "index": 528
+  },
+  {
+    "surface": "カム",
+    "reading": "come",
+    "code": "cr-kata2-529",
+    "index": 529
+  },
+  {
+    "surface": "クネクネ",
+    "reading": "kunekune",
+    "code": "cr-kata2-530",
+    "index": 530
+  },
+  {
+    "surface": "カンジキ",
+    "reading": "kanjiki",
+    "code": "cr-kata2-531",
+    "index": 531
+  },
+  {
+    "surface": "グラフィック・デザイナー",
+    "reading": "graphicdesigner",
+    "code": "cr-kata2-532",
+    "index": 532
+  },
+  {
+    "surface": "ガトー",
+    "reading": "gateau",
+    "code": "cr-kata2-533",
+    "index": 533
+  },
+  {
+    "surface": "キューバリブレ",
+    "reading": "kyuubaribure",
+    "code": "cr-kata2-534",
+    "index": 534
+  },
+  {
+    "surface": "キャッチホン",
+    "reading": "catchphone",
+    "code": "cr-kata2-535",
+    "index": 535
+  },
+  {
+    "surface": "ゴバビス",
+    "reading": "gobabisu",
+    "code": "cr-kata2-536",
+    "index": 536
+  },
+  {
+    "surface": "コロシント",
+    "reading": "colocynth",
+    "code": "cr-kata2-537",
+    "index": 537
+  },
+  {
+    "surface": "コデイン",
+    "reading": "codeine",
+    "code": "cr-kata2-538",
+    "index": 538
+  },
+  {
+    "surface": "グリュイエール",
+    "reading": "gruyere",
+    "code": "cr-kata2-539",
+    "index": 539
+  },
+  {
+    "surface": "ケリ",
+    "reading": "keri",
+    "code": "cr-kata2-540",
+    "index": 540
+  },
+  {
+    "surface": "コピーペースト",
+    "reading": "copypaste",
+    "code": "cr-kata2-541",
+    "index": 541
+  },
+  {
+    "surface": "コール",
+    "reading": "call",
+    "code": "cr-kata2-542",
+    "index": 542
+  },
+  {
+    "surface": "コアツァコアルコス",
+    "reading": "koatsakoarukosu",
+    "code": "cr-kata2-543",
+    "index": 543
+  },
+  {
+    "surface": "ガニョア",
+    "reading": "ganyoa",
+    "code": "cr-kata2-544",
+    "index": 544
+  },
+  {
+    "surface": "コルチャ",
+    "reading": "kolucha",
+    "code": "cr-kata2-545",
+    "index": 545
+  },
+  {
+    "surface": "カンダーラ",
+    "reading": "kandaara",
+    "code": "cr-kata2-546",
+    "index": 546
+  },
+  {
+    "surface": "コースオブスタディー",
+    "reading": "courseofstudy",
+    "code": "cr-kata2-547",
+    "index": 547
+  },
+  {
+    "surface": "カップル",
+    "reading": "couple",
+    "code": "cr-kata2-548",
+    "index": 548
+  },
+  {
+    "surface": "ゲソ",
+    "reading": "geso",
+    "code": "cr-kata2-549",
+    "index": 549
+  },
+  {
+    "surface": "クルジャリ",
+    "reading": "kurujari",
+    "code": "cr-kata2-550",
+    "index": 550
+  },
+  {
+    "surface": "グロリオーサ",
+    "reading": "gloriosa",
+    "code": "cr-kata2-551",
+    "index": 551
+  },
+  {
+    "surface": "カフェナポリターノ",
+    "reading": "kafenaporitaano",
+    "code": "cr-kata2-552",
+    "index": 552
+  },
+  {
+    "surface": "カーボンニュートラル",
+    "reading": "carbonneutral",
+    "code": "cr-kata2-553",
+    "index": 553
+  },
+  {
+    "surface": "カマド",
+    "reading": "kamado",
+    "code": "cr-kata2-554",
+    "index": 554
+  },
+  {
+    "surface": "カフラマンマラシュ",
+    "reading": "kafuramanmarashu",
+    "code": "cr-kata2-555",
+    "index": 555
+  },
+  {
+    "surface": "カンパニア",
+    "reading": "campania",
+    "code": "cr-kata2-556",
+    "index": 556
+  },
+  {
+    "surface": "キャスク",
+    "reading": "cask",
+    "code": "cr-kata2-557",
+    "index": 557
+  },
+  {
+    "surface": "コージェネレーション",
+    "reading": "cogeneration",
+    "code": "cr-kata2-558",
+    "index": 558
+  },
+  {
+    "surface": "クロミスキネラセンス",
+    "reading": "kuromisukinerasensu",
+    "code": "cr-kata2-559",
+    "index": 559
+  },
+  {
+    "surface": "クロソラスズメダイ",
+    "reading": "kurosorasuzumedai",
+    "code": "cr-kata2-560",
+    "index": 560
+  },
+  {
+    "surface": "クロラムフェニコール",
+    "reading": "chloramphenicol",
+    "code": "cr-kata2-561",
+    "index": 561
+  },
+  {
+    "surface": "クワシオルコル",
+    "reading": "kuwashiorukoru",
+    "code": "cr-kata2-562",
+    "index": 562
+  },
+  {
+    "surface": "コッコン",
+    "reading": "kokkon",
+    "code": "cr-kata2-563",
+    "index": 563
+  },
+  {
+    "surface": "ケレス",
+    "reading": "keresu",
+    "code": "cr-kata2-564",
+    "index": 564
+  },
+  {
+    "surface": "コリアンダー",
+    "reading": "coriander",
+    "code": "cr-kata2-565",
+    "index": 565
+  },
+  {
+    "surface": "クヌーセンセル",
+    "reading": "kunuusenseru",
+    "code": "cr-kata2-566",
+    "index": 566
+  },
+  {
+    "surface": "カンプトサウルス",
+    "reading": "camptosaurus",
+    "code": "cr-kata2-567",
+    "index": 567
+  },
+  {
+    "surface": "キリヤット・シュモナ",
+    "reading": "kiriyattoshumona",
+    "code": "cr-kata2-568",
+    "index": 568
+  },
+  {
+    "surface": "クオーテーションマーク",
+    "reading": "quotationmark",
+    "code": "cr-kata2-569",
+    "index": 569
+  },
+  {
+    "surface": "コワモテ",
+    "reading": "kowamote",
+    "code": "cr-kata2-570",
+    "index": 570
+  },
+  {
+    "surface": "コンバーターレンズ",
+    "reading": "converterlens",
+    "code": "cr-kata2-571",
+    "index": 571
+  },
+  {
+    "surface": "グズ",
+    "reading": "guzu",
+    "code": "cr-kata2-572",
+    "index": 572
+  },
+  {
+    "surface": "ガーデンパーティー",
+    "reading": "gardenparty",
+    "code": "cr-kata2-573",
+    "index": 573
+  },
+  {
+    "surface": "クロム",
+    "reading": "chrome",
+    "code": "cr-kata2-574",
+    "index": 574
+  },
+  {
+    "surface": "クルージュ・ナポカ",
+    "reading": "kuruujunapoka",
+    "code": "cr-kata2-575",
+    "index": 575
+  },
+  {
+    "surface": "コロネル・ファブリシアーノ",
+    "reading": "koronerufaburishiaano",
+    "code": "cr-kata2-576",
+    "index": 576
+  },
+  {
+    "surface": "コールドクリーム",
+    "reading": "calledcream",
+    "code": "cr-kata2-577",
+    "index": 577
+  },
+  {
+    "surface": "ゲジゲジ",
+    "reading": "gejigeji",
+    "code": "cr-kata2-578",
+    "index": 578
+  },
+  {
+    "surface": "コマーシャル",
+    "reading": "commercial",
+    "code": "cr-kata2-579",
+    "index": 579
+  },
+  {
+    "surface": "ガンジナガル",
+    "reading": "ganjinagaru",
+    "code": "cr-kata2-580",
+    "index": 580
+  },
+  {
+    "surface": "コンシダレーション",
+    "reading": "consideration",
+    "code": "cr-kata2-581",
+    "index": 581
+  },
+  {
+    "surface": "カウリング",
+    "reading": "cowling",
+    "code": "cr-kata2-582",
+    "index": 582
+  },
+  {
+    "surface": "コリスフォルモーサ",
+    "reading": "korisuforumoosa",
+    "code": "cr-kata2-583",
+    "index": 583
+  },
+  {
+    "surface": "キャンピングカー",
+    "reading": "campingcar",
+    "code": "cr-kata2-584",
+    "index": 584
+  },
+  {
+    "surface": "キャラメル",
+    "reading": "caramel",
+    "code": "cr-kata2-585",
+    "index": 585
+  },
+  {
+    "surface": "クワ",
+    "reading": "kuwa",
+    "code": "cr-kata2-586",
+    "index": 586
+  },
+  {
+    "surface": "キャンブリック",
+    "reading": "cambric",
+    "code": "cr-kata2-587",
+    "index": 587
+  },
+  {
+    "surface": "カメ",
+    "reading": "kame",
+    "code": "cr-kata2-588",
+    "index": 588
+  },
+  {
+    "surface": "クタイシ",
+    "reading": "kutaishi",
+    "code": "cr-kata2-589",
+    "index": 589
+  },
+  {
+    "surface": "グレート・ヤーマス",
+    "reading": "greatjamass",
+    "code": "cr-kata2-590",
+    "index": 590
+  },
+  {
+    "surface": "キンパ",
+    "reading": "kinpa",
+    "code": "cr-kata2-591",
+    "index": 591
+  },
+  {
+    "surface": "クソババー",
+    "reading": "kusobaba",
+    "code": "cr-kata2-592",
+    "index": 592
+  },
+  {
+    "surface": "コトコト",
+    "reading": "kotokoto",
+    "code": "cr-kata2-593",
+    "index": 593
+  },
+  {
+    "surface": "カツラ",
+    "reading": "katsura",
+    "code": "cr-kata2-594",
+    "index": 594
+  },
+  {
+    "surface": "クパンドゥ",
+    "reading": "kupandu",
+    "code": "cr-kata2-595",
+    "index": 595
+  },
+  {
+    "surface": "ケース・バイ・ケース",
+    "reading": "casebycase",
+    "code": "cr-kata2-596",
+    "index": 596
+  },
+  {
+    "surface": "コミンフォルム",
+    "reading": "cominform",
+    "code": "cr-kata2-597",
+    "index": 597
+  },
+  {
+    "surface": "コリーヴィル",
+    "reading": "collyvill",
+    "code": "cr-kata2-598",
+    "index": 598
+  },
+  {
+    "surface": "カボ",
+    "reading": "kabo",
+    "code": "cr-kata2-599",
+    "index": 599
+  },
+  {
+    "surface": "ガスボイラー",
+    "reading": "gasboiler",
+    "code": "cr-kata2-600",
+    "index": 600
+  },
+  {
+    "surface": "ギャラクシー",
+    "reading": "galaxy",
+    "code": "cr-kata2-601",
+    "index": 601
+  },
+  {
+    "surface": "クロハギ",
+    "reading": "kurohagi",
+    "code": "cr-kata2-602",
+    "index": 602
+  },
+  {
+    "surface": "カイギュウ",
+    "reading": "kaigyuu",
+    "code": "cr-kata2-603",
+    "index": 603
+  },
+  {
+    "surface": "ゴギョウ",
+    "reading": "gogyou",
+    "code": "cr-kata2-604",
+    "index": 604
+  },
+  {
+    "surface": "クリコ",
+    "reading": "clicquot",
+    "code": "cr-kata2-605",
+    "index": 605
+  },
+  {
+    "surface": "クシャミ",
+    "reading": "kushami",
+    "code": "cr-kata2-606",
+    "index": 606
+  },
+  {
+    "surface": "クロホシイソハゼ",
+    "reading": "kurohoshiisohaze",
+    "code": "cr-kata2-607",
+    "index": 607
+  },
+  {
+    "surface": "ガシッ",
+    "reading": "gashi",
+    "code": "cr-kata2-608",
+    "index": 608
+  },
+  {
+    "surface": "カトゴラ",
+    "reading": "katogora",
+    "code": "cr-kata2-609",
+    "index": 609
+  },
+  {
+    "surface": "グチ",
+    "reading": "guchi",
+    "code": "cr-kata2-610",
+    "index": 610
+  },
+  {
+    "surface": "コロラドスプリングス",
+    "reading": "kororadosupuringusu",
+    "code": "cr-kata2-611",
+    "index": 611
+  },
+  {
+    "surface": "キーズボロ",
+    "reading": "keysboro",
+    "code": "cr-kata2-612",
+    "index": 612
+  },
+  {
+    "surface": "クルシェヴァツ",
+    "reading": "kurushevatsu",
+    "code": "cr-kata2-613",
+    "index": 613
+  },
+  {
+    "surface": "ガスクロマトグラフ",
+    "reading": "gaschromatograph",
+    "code": "cr-kata2-614",
+    "index": 614
+  },
+  {
+    "surface": "コンプ",
+    "reading": "konpu",
+    "code": "cr-kata2-615",
+    "index": 615
+  },
+  {
+    "surface": "クロトーネ",
+    "reading": "krotone",
+    "code": "cr-kata2-616",
+    "index": 616
+  },
+  {
+    "surface": "コトドリ",
+    "reading": "kotodori",
+    "code": "cr-kata2-617",
+    "index": 617
+  },
+  {
+    "surface": "コイアイケ",
+    "reading": "coieicke",
+    "code": "cr-kata2-618",
+    "index": 618
+  },
+  {
+    "surface": "カペッリダンジェロ",
+    "reading": "kaperridanjero",
+    "code": "cr-kata2-619",
+    "index": 619
+  },
+  {
+    "surface": "クルセーダ",
+    "reading": "kuruseeda",
+    "code": "cr-kata2-620",
+    "index": 620
+  },
+  {
+    "surface": "キャットウオーク",
+    "reading": "catwalk",
+    "code": "cr-kata2-621",
+    "index": 621
+  },
+  {
+    "surface": "コネリアーノ",
+    "reading": "koneriaano",
+    "code": "cr-kata2-622",
+    "index": 622
+  },
+  {
+    "surface": "カグラジシ",
+    "reading": "kagurajishi",
+    "code": "cr-kata2-623",
+    "index": 623
+  },
+  {
+    "surface": "コロニー",
+    "reading": "colony",
+    "code": "cr-kata2-624",
+    "index": 624
+  },
+  {
+    "surface": "コングラチュレーションズ",
+    "reading": "kongurachureeshonzu",
+    "code": "cr-kata2-625",
+    "index": 625
+  },
+  {
+    "surface": "カブスカウト",
+    "reading": "cubscout",
+    "code": "cr-kata2-626",
+    "index": 626
+  },
+  {
+    "surface": "キモ",
+    "reading": "kimo",
+    "code": "cr-kata2-627",
+    "index": 627
+  },
+  {
+    "surface": "コケコッコー",
+    "reading": "kokekokkoo",
+    "code": "cr-kata2-628",
+    "index": 628
+  },
+  {
+    "surface": "カストロ",
+    "reading": "castro",
+    "code": "cr-kata2-629",
+    "index": 629
+  },
+  {
+    "surface": "ケーブルテレビジョン",
+    "reading": "cabletelevision",
+    "code": "cr-kata2-630",
+    "index": 630
+  },
+  {
+    "surface": "コントロール・パネル",
+    "reading": "controlpanel",
+    "code": "cr-kata2-631",
+    "index": 631
+  },
+  {
+    "surface": "コーク",
+    "reading": "coke",
+    "code": "cr-kata2-632",
+    "index": 632
+  },
+  {
+    "surface": "クラスノズナメンスク",
+    "reading": "kurasunozunamensuku",
+    "code": "cr-kata2-633",
+    "index": 633
+  },
+  {
+    "surface": "グラウンドキーパー",
+    "reading": "groundkeeper",
+    "code": "cr-kata2-634",
+    "index": 634
+  },
+  {
+    "surface": "カタログ",
+    "reading": "catalog",
+    "code": "cr-kata2-635",
+    "index": 635
+  },
+  {
+    "surface": "クラウン",
+    "reading": "crown",
+    "code": "cr-kata2-636",
+    "index": 636
+  },
+  {
+    "surface": "カスタードプリン",
+    "reading": "custardpudding",
+    "code": "cr-kata2-637",
+    "index": 637
+  },
+  {
+    "surface": "コミュニティカレッジ",
+    "reading": "communitycollege",
+    "code": "cr-kata2-638",
+    "index": 638
+  },
+  {
+    "surface": "クリスマス・カード",
+    "reading": "christmascard",
+    "code": "cr-kata2-639",
+    "index": 639
+  },
+  {
+    "surface": "コンパネ",
+    "reading": "controlpanel",
+    "code": "cr-kata2-640",
+    "index": 640
+  },
+  {
+    "surface": "カンブリア・ハイツ",
+    "reading": "cambriaheights",
+    "code": "cr-kata2-641",
+    "index": 641
+  },
+  {
+    "surface": "ガリ",
+    "reading": "ghali",
+    "code": "cr-kata2-642",
+    "index": 642
+  },
+  {
+    "surface": "ケー",
+    "reading": "kay",
+    "code": "cr-kata2-643",
+    "index": 643
+  },
+  {
+    "surface": "キルワ・マソコ",
+    "reading": "kilwamasoko",
+    "code": "cr-kata2-644",
+    "index": 644
+  },
+  {
+    "surface": "クラフトデザイン",
+    "reading": "craftdesign",
+    "code": "cr-kata2-645",
+    "index": 645
+  },
+  {
+    "surface": "コネクティングロッド",
+    "reading": "connectingrod",
+    "code": "cr-kata2-646",
+    "index": 646
+  },
+  {
+    "surface": "グロバライゼーション",
+    "reading": "gurobaraizeeshon",
+    "code": "cr-kata2-647",
+    "index": 647
+  },
+  {
+    "surface": "カガミチョウチョウウオ",
+    "reading": "kagamichouchouuo",
+    "code": "cr-kata2-648",
+    "index": 648
+  },
+  {
+    "surface": "グランドアイランド",
+    "reading": "grandisland",
+    "code": "cr-kata2-649",
+    "index": 649
+  },
+  {
+    "surface": "ギョッ",
+    "reading": "gyo",
+    "code": "cr-kata2-650",
+    "index": 650
+  },
+  {
+    "surface": "キオビスズメダイ",
+    "reading": "kiobisuzumedai",
+    "code": "cr-kata2-651",
+    "index": 651
+  },
+  {
+    "surface": "カステルヴェトラーノ",
+    "reading": "kasuteruvetoraano",
+    "code": "cr-kata2-652",
+    "index": 652
+  },
+  {
+    "surface": "キタモト",
+    "reading": "kitamoto",
+    "code": "cr-kata2-653",
+    "index": 653
+  },
+  {
+    "surface": "キングヒメオオトカゲ",
+    "reading": "kinguhimeootokage",
+    "code": "cr-kata2-654",
+    "index": 654
+  },
+  {
+    "surface": "ガルフサージャンフィッシュ",
+    "reading": "garufusaajanfisshu",
+    "code": "cr-kata2-655",
+    "index": 655
+  },
+  {
+    "surface": "コングロマリット",
+    "reading": "conglomerate",
+    "code": "cr-kata2-656",
+    "index": 656
+  },
+  {
+    "surface": "ギルダー",
+    "reading": "gilda",
+    "code": "cr-kata2-657",
+    "index": 657
+  },
+  {
+    "surface": "キスジゲンロクダイ",
+    "reading": "kisujigenrokudai",
+    "code": "cr-kata2-658",
+    "index": 658
+  },
+  {
+    "surface": "コントラファゴット",
+    "reading": "contrafagotto",
+    "code": "cr-kata2-659",
+    "index": 659
+  },
+  {
+    "surface": "グライフスヴァルト",
+    "reading": "greifswald",
+    "code": "cr-kata2-660",
+    "index": 660
+  },
+  {
+    "surface": "ガソール",
+    "reading": "gasooru",
+    "code": "cr-kata2-661",
+    "index": 661
+  },
+  {
+    "surface": "カラブラク",
+    "reading": "karaburaku",
+    "code": "cr-kata2-662",
+    "index": 662
+  },
+  {
+    "surface": "ガセ",
+    "reading": "gase",
+    "code": "cr-kata2-663",
+    "index": 663
+  },
+  {
+    "surface": "コミミズク",
+    "reading": "komimizuku",
+    "code": "cr-kata2-664",
+    "index": 664
+  },
+  {
+    "surface": "クルンジンガーズクロミス",
+    "reading": "kurunjingaazukuromisu",
+    "code": "cr-kata2-665",
+    "index": 665
+  },
+  {
+    "surface": "キャッチコピー",
+    "reading": "catchcopy",
+    "code": "cr-kata2-666",
+    "index": 666
+  },
+  {
+    "surface": "カジ",
+    "reading": "kaji",
+    "code": "cr-kata2-667",
+    "index": 667
+  },
+  {
+    "surface": "コロニア・デル・サクラメント",
+    "reading": "coloniaderusacrament",
+    "code": "cr-kata2-668",
+    "index": 668
+  },
+  {
+    "surface": "コンピュニケーション",
+    "reading": "konpyunikeeshon",
+    "code": "cr-kata2-669",
+    "index": 669
+  },
+  {
+    "surface": "グロリア",
+    "reading": "guroria",
+    "code": "cr-kata2-670",
+    "index": 670
+  },
+  {
+    "surface": "コッペパン",
+    "reading": "koppepao",
+    "code": "cr-kata2-671",
+    "index": 671
+  },
+  {
+    "surface": "コンキスタドーレス",
+    "reading": "konkisutadooresu",
+    "code": "cr-kata2-672",
+    "index": 672
+  },
+  {
+    "surface": "ケレース",
+    "reading": "kereesu",
+    "code": "cr-kata2-673",
+    "index": 673
+  },
+  {
+    "surface": "ゴリ",
+    "reading": "gori",
+    "code": "cr-kata2-674",
+    "index": 674
+  },
+  {
+    "surface": "キルンド",
+    "reading": "kirundo",
+    "code": "cr-kata2-675",
+    "index": 675
+  },
+  {
+    "surface": "ガザ",
+    "reading": "gaza",
+    "code": "cr-kata2-676",
+    "index": 676
+  },
+  {
+    "surface": "コム",
+    "reading": "com",
+    "code": "cr-kata2-677",
+    "index": 677
+  },
+  {
+    "surface": "ガストロ",
+    "reading": "gastoro",
+    "code": "cr-kata2-678",
+    "index": 678
+  },
+  {
+    "surface": "クザーノ・ミラニーノ",
+    "reading": "kuzaanomiraniino",
+    "code": "cr-kata2-679",
+    "index": 679
+  },
+  {
+    "surface": "クッカイ",
+    "reading": "kukkai",
+    "code": "cr-kata2-680",
+    "index": 680
+  },
+  {
+    "surface": "カルージュ",
+    "reading": "karooju",
+    "code": "cr-kata2-681",
+    "index": 681
+  },
+  {
+    "surface": "クス",
+    "reading": "kusu",
+    "code": "cr-kata2-682",
+    "index": 682
+  },
+  {
+    "surface": "グッモーニン",
+    "reading": "goodmoonin",
+    "code": "cr-kata2-683",
+    "index": 683
+  },
+  {
+    "surface": "カボス",
+    "reading": "kabosu",
+    "code": "cr-kata2-684",
+    "index": 684
+  },
+  {
+    "surface": "ギアチェンジ",
+    "reading": "gearchange",
+    "code": "cr-kata2-685",
+    "index": 685
+  },
+  {
+    "surface": "キチョウ",
+    "reading": "kichou",
+    "code": "cr-kata2-686",
+    "index": 686
+  },
+  {
+    "surface": "グランス",
+    "reading": "guransu",
+    "code": "cr-kata2-687",
+    "index": 687
+  },
+  {
+    "surface": "コリオグラフィー",
+    "reading": "koriogurafii",
+    "code": "cr-kata2-688",
+    "index": 688
+  },
+  {
+    "surface": "クエ",
+    "reading": "kue",
+    "code": "cr-kata2-689",
+    "index": 689
+  },
+  {
+    "surface": "カオラン",
+    "reading": "kaorun",
+    "code": "cr-kata2-690",
+    "index": 690
+  },
+  {
+    "surface": "クォリティーペーパー",
+    "reading": "qualitypaper",
+    "code": "cr-kata2-691",
+    "index": 691
+  },
+  {
+    "surface": "キンカン",
+    "reading": "kinkan",
+    "code": "cr-kata2-692",
+    "index": 692
+  },
+  {
+    "surface": "グリーンベイ",
+    "reading": "greenbay",
+    "code": "cr-kata2-693",
+    "index": 693
+  },
+  {
+    "surface": "コブクロ",
+    "reading": "kobukuro",
+    "code": "cr-kata2-694",
+    "index": 694
+  },
+  {
+    "surface": "クギベラ",
+    "reading": "kugibera",
+    "code": "cr-kata2-695",
+    "index": 695
+  },
+  {
+    "surface": "コミュニケイション",
+    "reading": "communication",
+    "code": "cr-kata2-696",
+    "index": 696
+  },
+  {
+    "surface": "ギロリ",
+    "reading": "girori",
+    "code": "cr-kata2-697",
+    "index": 697
+  },
+  {
+    "surface": "カン",
+    "reading": "kan",
+    "code": "cr-kata2-698",
+    "index": 698
+  },
+  {
+    "surface": "ゲイボーイ",
+    "reading": "gayboy",
+    "code": "cr-kata2-699",
+    "index": 699
+  },
+  {
+    "surface": "クローナ",
+    "reading": "krona",
+    "code": "cr-kata2-700",
+    "index": 700
+  },
+  {
+    "surface": "ケシ",
+    "reading": "keshi",
+    "code": "cr-kata2-701",
+    "index": 701
+  },
+  {
+    "surface": "キブライ",
+    "reading": "kiburai",
+    "code": "cr-kata2-702",
+    "index": 702
+  },
+  {
+    "surface": "クワス",
+    "reading": "kvas",
+    "code": "cr-kata2-703",
+    "index": 703
+  },
+  {
+    "surface": "キアイ",
+    "reading": "kiai",
+    "code": "cr-kata2-704",
+    "index": 704
+  },
+  {
+    "surface": "コネクショニストモデル",
+    "reading": "konekushonisutomoderu",
+    "code": "cr-kata2-705",
+    "index": 705
+  },
+  {
+    "surface": "ケロイド",
+    "reading": "keloid",
+    "code": "cr-kata2-706",
+    "index": 706
+  },
+  {
+    "surface": "ガスカーボン",
+    "reading": "gascarbon",
+    "code": "cr-kata2-707",
+    "index": 707
+  },
+  {
+    "surface": "キャスト",
+    "reading": "cast",
+    "code": "cr-kata2-708",
+    "index": 708
+  },
+  {
+    "surface": "カズ",
+    "reading": "kazu",
+    "code": "cr-kata2-709",
+    "index": 709
+  },
+  {
+    "surface": "ゴキカブリ",
+    "reading": "gokicabri",
+    "code": "cr-kata2-710",
+    "index": 710
+  },
+  {
+    "surface": "ケサディラ",
+    "reading": "kesadira",
+    "code": "cr-kata2-711",
+    "index": 711
+  },
+  {
+    "surface": "ゴールデン",
+    "reading": "golden",
+    "code": "cr-kata2-712",
+    "index": 712
+  },
+  {
+    "surface": "コンプリート",
+    "reading": "complete",
+    "code": "cr-kata2-713",
+    "index": 713
+  },
+  {
+    "surface": "クシ",
+    "reading": "kushi",
+    "code": "cr-kata2-714",
+    "index": 714
+  },
+  {
+    "surface": "ゲロ",
+    "reading": "gero",
+    "code": "cr-kata2-715",
+    "index": 715
+  },
+  {
+    "surface": "カンカン",
+    "reading": "kankan",
+    "code": "cr-kata2-716",
+    "index": 716
+  },
+  {
+    "surface": "クルマバツクバネソウ",
+    "reading": "kurumabatsukubanesou",
+    "code": "cr-kata2-717",
+    "index": 717
+  },
+  {
+    "surface": "コチニール",
+    "reading": "cochineal",
+    "code": "cr-kata2-718",
+    "index": 718
+  },
+  {
+    "surface": "カリフラワー",
+    "reading": "cauliflower",
+    "code": "cr-kata2-719",
+    "index": 719
+  },
+  {
+    "surface": "グラニャーノ",
+    "reading": "guranyaano",
+    "code": "cr-kata2-720",
+    "index": 720
+  },
+  {
+    "surface": "ガジガジ",
+    "reading": "gajigaji",
+    "code": "cr-kata2-721",
+    "index": 721
+  },
+  {
+    "surface": "コーポラティブハウス",
+    "reading": "cooperativehouse",
+    "code": "cr-kata2-722",
+    "index": 722
+  },
+  {
+    "surface": "ゴールエリア",
+    "reading": "goalarea",
+    "code": "cr-kata2-723",
+    "index": 723
+  },
+  {
+    "surface": "コイン・ランドリー",
+    "reading": "coinlaundry",
+    "code": "cr-kata2-724",
+    "index": 724
+  },
+  {
+    "surface": "キタカワヒメマス",
+    "reading": "kitakawahimemasu",
+    "code": "cr-kata2-725",
+    "index": 725
+  },
+  {
+    "surface": "ギブアンドテイク",
+    "reading": "giveandtake",
+    "code": "cr-kata2-726",
+    "index": 726
+  },
+  {
+    "surface": "キャプスロックキー",
+    "reading": "kyapusurokkukii",
+    "code": "cr-kata2-727",
+    "index": 727
+  },
+  {
+    "surface": "カリプソ",
+    "reading": "calypso",
+    "code": "cr-kata2-728",
+    "index": 728
+  },
+  {
+    "surface": "コフテペケ",
+    "reading": "kofutepeke",
+    "code": "cr-kata2-729",
+    "index": 729
+  },
+  {
+    "surface": "コンストラクション",
+    "reading": "construction",
+    "code": "cr-kata2-730",
+    "index": 730
+  },
+  {
+    "surface": "ゲームメーカー",
+    "reading": "gamemaker",
+    "code": "cr-kata2-731",
+    "index": 731
+  },
+  {
+    "surface": "グロース",
+    "reading": "growth",
+    "code": "cr-kata2-732",
+    "index": 732
+  },
+  {
+    "surface": "コルチコステロイド",
+    "reading": "koruchikosuteroido",
+    "code": "cr-kata2-733",
+    "index": 733
+  },
+  {
+    "surface": "クズカゴ",
+    "reading": "kuzukago",
+    "code": "cr-kata2-734",
+    "index": 734
+  },
+  {
+    "surface": "キーディスク",
+    "reading": "keydisc",
+    "code": "cr-kata2-735",
+    "index": 735
+  },
+  {
+    "surface": "ケミ",
+    "reading": "kemi",
+    "code": "cr-kata2-736",
+    "index": 736
+  },
+  {
+    "surface": "カットーリカ",
+    "reading": "cutrika",
+    "code": "cr-kata2-737",
+    "index": 737
+  },
+  {
+    "surface": "カーディフ",
+    "reading": "cardiff",
+    "code": "cr-kata2-738",
+    "index": 738
+  },
+  {
+    "surface": "コマーシャルベース",
+    "reading": "commercialbase",
+    "code": "cr-kata2-739",
+    "index": 739
+  },
+  {
+    "surface": "クレメモ",
+    "reading": "kurememo",
+    "code": "cr-kata2-740",
+    "index": 740
+  },
+  {
+    "surface": "クラマスフォールズ",
+    "reading": "kuramasufooruzu",
+    "code": "cr-kata2-741",
+    "index": 741
+  },
+  {
+    "surface": "カペッリーニ",
+    "reading": "kaperriini",
+    "code": "cr-kata2-742",
+    "index": 742
+  },
+  {
+    "surface": "グルクマ",
+    "reading": "gurukuma",
+    "code": "cr-kata2-743",
+    "index": 743
+  },
+  {
+    "surface": "カギ",
+    "reading": "kagi",
+    "code": "cr-kata2-744",
+    "index": 744
+  },
+  {
+    "surface": "ギニー",
+    "reading": "guinea",
+    "code": "cr-kata2-745",
+    "index": 745
+  },
+  {
+    "surface": "カットゥマンナルコイル",
+    "reading": "kattumannarukoiru",
+    "code": "cr-kata2-746",
+    "index": 746
+  },
+  {
+    "surface": "カイヤン",
+    "reading": "kaijan",
+    "code": "cr-kata2-747",
+    "index": 747
+  },
+  {
+    "surface": "ゴロ",
+    "reading": "grounder",
+    "code": "cr-kata2-748",
+    "index": 748
+  },
+  {
+    "surface": "キレ",
+    "reading": "kire",
+    "code": "cr-kata2-749",
+    "index": 749
+  },
+  {
+    "surface": "ゴチャクチャ",
+    "reading": "gochakucha",
+    "code": "cr-kata2-750",
+    "index": 750
+  },
+  {
+    "surface": "キャッシュレジスター",
+    "reading": "cashregister",
+    "code": "cr-kata2-751",
+    "index": 751
+  },
+  {
+    "surface": "コスタ・リカ",
+    "reading": "costarica",
+    "code": "cr-kata2-752",
+    "index": 752
+  },
+  {
+    "surface": "グルグル",
+    "reading": "guruguru",
+    "code": "cr-kata2-753",
+    "index": 753
+  },
+  {
+    "surface": "キチゲェ",
+    "reading": "kichige",
+    "code": "cr-kata2-754",
+    "index": 754
+  },
+  {
+    "surface": "キダチヒャクリコウ",
+    "reading": "kidachihyakurikou",
+    "code": "cr-kata2-755",
+    "index": 755
+  },
+  {
+    "surface": "クォリティオブライフ",
+    "reading": "qualityoflife",
+    "code": "cr-kata2-756",
+    "index": 756
+  },
+  {
+    "surface": "ガードケーブル",
+    "reading": "guardcable",
+    "code": "cr-kata2-757",
+    "index": 757
+  },
+  {
+    "surface": "ギア",
+    "reading": "gear",
+    "code": "cr-kata2-758",
+    "index": 758
+  },
+  {
+    "surface": "ガンクラブチェック",
+    "reading": "gunclubcheck",
+    "code": "cr-kata2-759",
+    "index": 759
+  },
+  {
+    "surface": "カナリー・ワーフ",
+    "reading": "kanariwharf",
+    "code": "cr-kata2-760",
+    "index": 760
+  },
+  {
+    "surface": "クエロン",
+    "reading": "kueron",
+    "code": "cr-kata2-761",
+    "index": 761
+  },
+  {
+    "surface": "ゴーレム",
+    "reading": "golem",
+    "code": "cr-kata2-762",
+    "index": 762
+  },
+  {
+    "surface": "キス",
+    "reading": "kiss",
+    "code": "cr-kata2-763",
+    "index": 763
+  },
+  {
+    "surface": "コチドリ",
+    "reading": "kochidori",
+    "code": "cr-kata2-764",
+    "index": 764
+  },
+  {
+    "surface": "クエスチョン・マーク",
+    "reading": "questionmark",
+    "code": "cr-kata2-765",
+    "index": 765
+  },
+  {
+    "surface": "カウンタ",
+    "reading": "counter",
+    "code": "cr-kata2-766",
+    "index": 766
+  },
+  {
+    "surface": "コールタン",
+    "reading": "calltongue",
+    "code": "cr-kata2-767",
+    "index": 767
+  },
+  {
+    "surface": "ギンポ",
+    "reading": "ginpo",
+    "code": "cr-kata2-768",
+    "index": 768
+  },
+  {
+    "surface": "ガリガリ",
+    "reading": "garigari",
+    "code": "cr-kata2-769",
+    "index": 769
+  },
+  {
+    "surface": "クツ",
+    "reading": "kutsu",
+    "code": "cr-kata2-770",
+    "index": 770
+  },
+  {
+    "surface": "キモグラフ",
+    "reading": "kymograph",
+    "code": "cr-kata2-771",
+    "index": 771
+  },
+  {
+    "surface": "カモジマチョウジョウゲジマ",
+    "reading": "kamojimachoujougejima",
+    "code": "cr-kata2-772",
+    "index": 772
+  },
+  {
+    "surface": "クライマックス",
+    "reading": "climax",
+    "code": "cr-kata2-773",
+    "index": 773
+  },
+  {
+    "surface": "カリガネ",
+    "reading": "kaligane",
+    "code": "cr-kata2-774",
+    "index": 774
+  },
+  {
+    "surface": "クリスマス・ツリー",
+    "reading": "christmastree",
+    "code": "cr-kata2-775",
+    "index": 775
+  },
+  {
+    "surface": "カルロヴィ・ヴァリ",
+    "reading": "karurovivari",
+    "code": "cr-kata2-776",
+    "index": 776
+  },
+  {
+    "surface": "ガザミ",
+    "reading": "gazami",
+    "code": "cr-kata2-777",
+    "index": 777
+  },
+  {
+    "surface": "クアラ・クブ・バル",
+    "reading": "kuarakububaru",
+    "code": "cr-kata2-778",
+    "index": 778
+  },
+  {
+    "surface": "キロ・メートル",
+    "reading": "kilometre",
+    "code": "cr-kata2-779",
+    "index": 779
+  },
+  {
+    "surface": "コアキシャルスピーカー",
+    "reading": "koakisharusupiikaa",
+    "code": "cr-kata2-780",
+    "index": 780
+  },
+  {
+    "surface": "カシアス・ド・スル",
+    "reading": "kashiasudosuru",
+    "code": "cr-kata2-781",
+    "index": 781
+  },
+  {
+    "surface": "カップラ",
+    "reading": "cupra",
+    "code": "cr-kata2-782",
+    "index": 782
+  },
+  {
+    "surface": "コーチ",
+    "reading": "coach",
+    "code": "cr-kata2-783",
+    "index": 783
+  },
+  {
+    "surface": "グリン",
+    "reading": "green",
+    "code": "cr-kata2-784",
+    "index": 784
+  },
+  {
+    "surface": "コクシエラバーネッティ",
+    "reading": "kokushierabaanetti",
+    "code": "cr-kata2-785",
+    "index": 785
+  },
+  {
+    "surface": "コード",
+    "reading": "code",
+    "code": "cr-kata2-786",
+    "index": 786
+  },
+  {
+    "surface": "グラハムブレッド",
+    "reading": "grahambread",
+    "code": "cr-kata2-787",
+    "index": 787
+  },
+  {
+    "surface": "コミニュケーション",
+    "reading": "communication",
+    "code": "cr-kata2-788",
+    "index": 788
+  },
+  {
+    "surface": "カリャリ",
+    "reading": "karyari",
+    "code": "cr-kata2-789",
+    "index": 789
+  },
+  {
+    "surface": "クレンジングクリーム",
+    "reading": "cleansingcream",
+    "code": "cr-kata2-790",
+    "index": 790
+  },
+  {
+    "surface": "ゴールポスト",
+    "reading": "goalpost",
+    "code": "cr-kata2-791",
+    "index": 791
+  },
+  {
+    "surface": "ゲージ",
+    "reading": "gauge",
+    "code": "cr-kata2-792",
+    "index": 792
+  },
+  {
+    "surface": "ガーヒンク・バイ・ミュンヘン",
+    "reading": "gaahinkubymunchen",
+    "code": "cr-kata2-793",
+    "index": 793
+  },
+  {
+    "surface": "ガンガン",
+    "reading": "gangan",
+    "code": "cr-kata2-794",
+    "index": 794
+  },
+  {
+    "surface": "クォリティ",
+    "reading": "quality",
+    "code": "cr-kata2-795",
+    "index": 795
+  },
+  {
+    "surface": "ゲストハウス",
+    "reading": "gesutohausu",
+    "code": "cr-kata2-796",
+    "index": 796
+  },
+  {
+    "surface": "ケイパー",
+    "reading": "caper",
+    "code": "cr-kata2-797",
+    "index": 797
+  },
+  {
+    "surface": "クソゲー",
+    "reading": "kusogame",
+    "code": "cr-kata2-798",
+    "index": 798
+  },
+  {
+    "surface": "カウンターパーチェス",
+    "reading": "counterpurchase",
+    "code": "cr-kata2-799",
+    "index": 799
+  },
+  {
+    "surface": "カワイイ",
+    "reading": "kawaii",
+    "code": "cr-kata2-800",
+    "index": 800
+  },
+  {
+    "surface": "キバシリ",
+    "reading": "kibashiri",
+    "code": "cr-kata2-801",
+    "index": 801
+  },
+  {
+    "surface": "カニバリズム",
+    "reading": "cannibalism",
+    "code": "cr-kata2-802",
+    "index": 802
+  },
+  {
+    "surface": "コスパ",
+    "reading": "kosupa",
+    "code": "cr-kata2-803",
+    "index": 803
+  },
+  {
+    "surface": "コッソリ",
+    "reading": "kossori",
+    "code": "cr-kata2-804",
+    "index": 804
+  },
+  {
+    "surface": "キニン",
+    "reading": "kinin",
+    "code": "cr-kata2-805",
+    "index": 805
+  },
+  {
+    "surface": "クボタ",
+    "reading": "kubota",
+    "code": "cr-kata2-806",
+    "index": 806
+  },
+  {
+    "surface": "ガルバニャーテ・ミラネーゼ",
+    "reading": "garubanyaatemiraneeze",
+    "code": "cr-kata2-807",
+    "index": 807
+  },
+  {
+    "surface": "キャンドルーチン",
+    "reading": "candlechin",
+    "code": "cr-kata2-808",
+    "index": 808
+  },
+  {
+    "surface": "コンピュータグラフィクス",
+    "reading": "computergraphic",
+    "code": "cr-kata2-809",
+    "index": 809
+  },
+  {
+    "surface": "グローバライゼーション",
+    "reading": "globalization",
+    "code": "cr-kata2-810",
+    "index": 810
+  },
+  {
+    "surface": "キィキィ",
+    "reading": "kiki",
+    "code": "cr-kata2-811",
+    "index": 811
+  },
+  {
+    "surface": "クシクラゲ",
+    "reading": "kushikurage",
+    "code": "cr-kata2-812",
+    "index": 812
+  },
+  {
+    "surface": "キャビネットフロントドア",
+    "reading": "cabinetfrontdoor",
+    "code": "cr-kata2-813",
+    "index": 813
+  },
+  {
+    "surface": "コンフェクショナリー",
+    "reading": "confectionery",
+    "code": "cr-kata2-814",
+    "index": 814
+  },
+  {
+    "surface": "クレジット・カード",
+    "reading": "creditcard",
+    "code": "cr-kata2-815",
+    "index": 815
+  },
+  {
+    "surface": "クリスマス・カロル",
+    "reading": "christmascarroll",
+    "code": "cr-kata2-816",
+    "index": 816
+  },
+  {
+    "surface": "ゲート",
+    "reading": "gate",
+    "code": "cr-kata2-817",
+    "index": 817
+  },
+  {
+    "surface": "グラフィクス",
+    "reading": "graphic",
+    "code": "cr-kata2-818",
+    "index": 818
+  },
+  {
+    "surface": "コンパニオン",
+    "reading": "companion",
+    "code": "cr-kata2-819",
+    "index": 819
+  },
+  {
+    "surface": "カビ",
+    "reading": "kabi",
+    "code": "cr-kata2-820",
+    "index": 820
+  },
+  {
+    "surface": "クサイチゴ",
+    "reading": "kusaichigo",
+    "code": "cr-kata2-821",
+    "index": 821
+  },
+  {
+    "surface": "ケドゥグー",
+    "reading": "keduguu",
+    "code": "cr-kata2-822",
+    "index": 822
+  },
+  {
+    "surface": "キャンバス",
+    "reading": "canvas",
+    "code": "cr-kata2-823",
+    "index": 823
+  },
+  {
+    "surface": "キーテクノロジー",
+    "reading": "keytechnology",
+    "code": "cr-kata2-824",
+    "index": 824
+  },
+  {
+    "surface": "カンバーノールド",
+    "reading": "kanbaanoorudo",
+    "code": "cr-kata2-825",
+    "index": 825
+  },
+  {
+    "surface": "コンクリートパイル",
+    "reading": "concretepile",
+    "code": "cr-kata2-826",
+    "index": 826
+  },
+  {
+    "surface": "カンバン",
+    "reading": "kanban",
+    "code": "cr-kata2-827",
+    "index": 827
+  },
+  {
+    "surface": "コンプライアンス",
+    "reading": "compliance",
+    "code": "cr-kata2-828",
+    "index": 828
+  },
+  {
+    "surface": "カジメ",
+    "reading": "kajime",
+    "code": "cr-kata2-829",
+    "index": 829
+  },
+  {
+    "surface": "クラッカー",
+    "reading": "cracker",
+    "code": "cr-kata2-830",
+    "index": 830
+  },
+  {
+    "surface": "カバレッジ",
+    "reading": "coverage",
+    "code": "cr-kata2-831",
+    "index": 831
+  },
+  {
+    "surface": "クレジットカード",
+    "reading": "creditcard",
+    "code": "cr-kata2-832",
+    "index": 832
+  },
+  {
+    "surface": "カーリーヘア",
+    "reading": "curlyhair",
+    "code": "cr-kata2-833",
+    "index": 833
+  },
+  {
+    "surface": "ケルビム",
+    "reading": "cherubim",
+    "code": "cr-kata2-834",
+    "index": 834
+  },
+  {
+    "surface": "ギーザ",
+    "reading": "giza",
+    "code": "cr-kata2-835",
+    "index": 835
+  },
+  {
+    "surface": "カデンツ",
+    "reading": "cadenza",
+    "code": "cr-kata2-836",
+    "index": 836
+  },
+  {
+    "surface": "カージナル",
+    "reading": "kaajinaru",
+    "code": "cr-kata2-837",
+    "index": 837
+  },
+  {
+    "surface": "コラ",
+    "reading": "kora",
+    "code": "cr-kata2-838",
+    "index": 838
+  },
+  {
+    "surface": "ケツ",
+    "reading": "ketsu",
+    "code": "cr-kata2-839",
+    "index": 839
+  },
+  {
+    "surface": "クレステッドホーンシャーク",
+    "reading": "kuresuteddohoonshaaku",
+    "code": "cr-kata2-840",
+    "index": 840
+  },
+  {
+    "surface": "コナー",
+    "reading": "konaa",
+    "code": "cr-kata2-841",
+    "index": 841
+  },
+  {
+    "surface": "クルス・デル・エヘ",
+    "reading": "cruzderuehe",
+    "code": "cr-kata2-842",
+    "index": 842
+  },
+  {
+    "surface": "ケンデール・レイクス",
+    "reading": "kendeerureikusu",
+    "code": "cr-kata2-843",
+    "index": 843
+  },
+  {
+    "surface": "キャンピング",
+    "reading": "camping",
+    "code": "cr-kata2-844",
+    "index": 844
+  },
+  {
+    "surface": "ガルベストン",
+    "reading": "garubesuton",
+    "code": "cr-kata2-845",
+    "index": 845
+  },
+  {
+    "surface": "コードバン",
+    "reading": "cordovan",
+    "code": "cr-kata2-846",
+    "index": 846
+  },
+  {
+    "surface": "コケ",
+    "reading": "koke",
+    "code": "cr-kata2-847",
+    "index": 847
+  },
+  {
+    "surface": "キルト",
+    "reading": "quilt",
+    "code": "cr-kata2-848",
+    "index": 848
+  },
+  {
+    "surface": "ガタイ",
+    "reading": "gatai",
+    "code": "cr-kata2-849",
+    "index": 849
+  },
+  {
+    "surface": "コンビニ",
+    "reading": "convenience",
+    "code": "cr-kata2-850",
+    "index": 850
+  },
+  {
+    "surface": "コルテツレインボーラス",
+    "reading": "korutetsureinboorasu",
+    "code": "cr-kata2-851",
+    "index": 851
+  },
+  {
+    "surface": "ガメ",
+    "reading": "game",
+    "code": "cr-kata2-852",
+    "index": 852
+  },
+  {
+    "surface": "カー・レース",
+    "reading": "carreesu",
+    "code": "cr-kata2-853",
+    "index": 853
+  },
+  {
+    "surface": "コンセルバトワール",
+    "reading": "conservatoire",
+    "code": "cr-kata2-854",
+    "index": 854
+  },
+  {
+    "surface": "コペラ",
+    "reading": "kopera",
+    "code": "cr-kata2-855",
+    "index": 855
+  },
+  {
+    "surface": "クストヴォ",
+    "reading": "kusutovo",
+    "code": "cr-kata2-856",
+    "index": 856
+  },
+  {
+    "surface": "グッビ",
+    "reading": "gubbi",
+    "code": "cr-kata2-857",
+    "index": 857
+  },
+  {
+    "surface": "キタマクラ",
+    "reading": "kitamakura",
+    "code": "cr-kata2-858",
+    "index": 858
+  },
+  {
+    "surface": "クッキング",
+    "reading": "cooking",
+    "code": "cr-kata2-859",
+    "index": 859
+  },
+  {
+    "surface": "カリシュ",
+    "reading": "kalishu",
+    "code": "cr-kata2-860",
+    "index": 860
+  },
+  {
+    "surface": "ココ",
+    "reading": "koko",
+    "code": "cr-kata2-861",
+    "index": 861
+  },
+  {
+    "surface": "クジェレード",
+    "reading": "kujereedo",
+    "code": "cr-kata2-862",
+    "index": 862
+  },
+  {
+    "surface": "カステロ・ブランコ",
+    "reading": "kasuterrorismburanko",
+    "code": "cr-kata2-863",
+    "index": 863
+  },
+  {
+    "surface": "キャスチングボート",
+    "reading": "castingboat",
+    "code": "cr-kata2-864",
+    "index": 864
+  },
+  {
+    "surface": "ガタ",
+    "reading": "gata",
+    "code": "cr-kata2-865",
+    "index": 865
+  },
+  {
+    "surface": "クラッシャー",
+    "reading": "crusher",
+    "code": "cr-kata2-866",
+    "index": 866
+  },
+  {
+    "surface": "カルシュ",
+    "reading": "karushu",
+    "code": "cr-kata2-867",
+    "index": 867
+  },
+  {
+    "surface": "コントーション",
+    "reading": "kontorsion",
+    "code": "cr-kata2-868",
+    "index": 868
+  },
+  {
+    "surface": "クルップ",
+    "reading": "croup",
+    "code": "cr-kata2-869",
+    "index": 869
+  },
+  {
+    "surface": "ケベック・シティー",
+    "reading": "quebeccity",
+    "code": "cr-kata2-870",
+    "index": 870
+  },
+  {
+    "surface": "クギ",
+    "reading": "kugi",
+    "code": "cr-kata2-871",
+    "index": 871
+  },
+  {
+    "surface": "コーサージ",
+    "reading": "corsage",
+    "code": "cr-kata2-872",
+    "index": 872
+  },
+  {
+    "surface": "ゲルフ",
+    "reading": "guelph",
+    "code": "cr-kata2-873",
+    "index": 873
+  },
+  {
+    "surface": "ガベージコレクション",
+    "reading": "gabeejikorekushon",
+    "code": "cr-kata2-874",
+    "index": 874
+  },
+  {
+    "surface": "キタゾウアザラシ",
+    "reading": "kitazouazarashi",
+    "code": "cr-kata2-875",
+    "index": 875
+  },
+  {
+    "surface": "ガオ",
+    "reading": "gao",
+    "code": "cr-kata2-876",
+    "index": 876
+  },
+  {
+    "surface": "グレーンウイスキー",
+    "reading": "grainwhisky",
+    "code": "cr-kata2-877",
+    "index": 877
+  },
+  {
+    "surface": "ケダモノ",
+    "reading": "kedamono",
+    "code": "cr-kata2-878",
+    "index": 878
+  },
+  {
+    "surface": "コンコルディア",
+    "reading": "konkorudia",
+    "code": "cr-kata2-879",
+    "index": 879
+  },
+  {
+    "surface": "クイックタブ",
+    "reading": "quicktab",
+    "code": "cr-kata2-880",
+    "index": 880
+  },
+  {
+    "surface": "クライアント",
+    "reading": "client",
+    "code": "cr-kata2-881",
+    "index": 881
+  },
+  {
+    "surface": "カラスアゲハ",
+    "reading": "karasuageha",
+    "code": "cr-kata2-882",
+    "index": 882
+  },
+  {
+    "surface": "クラブサン",
+    "reading": "clubsan",
+    "code": "cr-kata2-883",
+    "index": 883
+  },
+  {
+    "surface": "ゴロツキ",
+    "reading": "gorotsuki",
+    "code": "cr-kata2-884",
+    "index": 884
+  },
+  {
+    "surface": "クリティカルパス",
+    "reading": "criticalpass",
+    "code": "cr-kata2-885",
+    "index": 885
+  },
+  {
+    "surface": "キスアンドライド",
+    "reading": "kissandride",
+    "code": "cr-kata2-886",
+    "index": 886
+  },
+  {
+    "surface": "カレンダ",
+    "reading": "karenda",
+    "code": "cr-kata2-887",
+    "index": 887
+  },
+  {
+    "surface": "キーウィーフルーツ",
+    "reading": "keywefruit",
+    "code": "cr-kata2-888",
+    "index": 888
+  },
+  {
+    "surface": "コンピューターシステム",
+    "reading": "computersystem",
+    "code": "cr-kata2-889",
+    "index": 889
+  },
+  {
+    "surface": "カイト",
+    "reading": "kite",
+    "code": "cr-kata2-890",
+    "index": 890
+  },
+  {
+    "surface": "キャリアウーマン",
+    "reading": "careerwoman",
+    "code": "cr-kata2-891",
+    "index": 891
+  },
+  {
+    "surface": "ガレージセール",
+    "reading": "garagesale",
+    "code": "cr-kata2-892",
+    "index": 892
+  },
+  {
+    "surface": "ゴルノ・アルタイスク",
+    "reading": "gorunoarutaisuku",
+    "code": "cr-kata2-893",
+    "index": 893
+  },
+  {
+    "surface": "ガイ",
+    "reading": "guy",
+    "code": "cr-kata2-894",
+    "index": 894
+  },
+  {
+    "surface": "コンビッシリ",
+    "reading": "konbisshiri",
+    "code": "cr-kata2-895",
+    "index": 895
+  },
+  {
+    "surface": "カシーラ",
+    "reading": "kashiira",
+    "code": "cr-kata2-896",
+    "index": 896
+  },
+  {
+    "surface": "グロ",
+    "reading": "guro",
+    "code": "cr-kata2-897",
+    "index": 897
+  },
+  {
+    "surface": "クリムソン",
+    "reading": "crimson",
+    "code": "cr-kata2-898",
+    "index": 898
+  },
+  {
+    "surface": "グミ",
+    "reading": "gummi",
+    "code": "cr-kata2-899",
+    "index": 899
+  },
+  {
+    "surface": "カイネシクス",
+    "reading": "kaineshikusu",
+    "code": "cr-kata2-900",
+    "index": 900
+  },
+  {
+    "surface": "コピーライター",
+    "reading": "copywriter",
+    "code": "cr-kata2-901",
+    "index": 901
+  },
+  {
+    "surface": "グループインタビュー",
+    "reading": "groupinterview",
+    "code": "cr-kata2-902",
+    "index": 902
+  },
+  {
+    "surface": "グル",
+    "reading": "guru",
+    "code": "cr-kata2-903",
+    "index": 903
+  },
+  {
+    "surface": "ゴマ",
+    "reading": "goma",
+    "code": "cr-kata2-904",
+    "index": 904
+  },
+  {
+    "surface": "クッキングスクール",
+    "reading": "cookingschool",
+    "code": "cr-kata2-905",
+    "index": 905
+  },
+  {
+    "surface": "ゲッター",
+    "reading": "getter",
+    "code": "cr-kata2-906",
+    "index": 906
+  },
+  {
+    "surface": "キッパー",
+    "reading": "kippa",
+    "code": "cr-kata2-907",
+    "index": 907
+  },
+  {
+    "surface": "クイン",
+    "reading": "queen",
+    "code": "cr-kata2-908",
+    "index": 908
+  },
+  {
+    "surface": "コリーナ",
+    "reading": "collyna",
+    "code": "cr-kata2-909",
+    "index": 909
+  },
+  {
+    "surface": "コールドチェーン",
+    "reading": "calledchain",
+    "code": "cr-kata2-910",
+    "index": 910
+  },
+  {
+    "surface": "グッドアフタヌーン",
+    "reading": "goodafternoon",
+    "code": "cr-kata2-911",
+    "index": 911
+  },
+  {
+    "surface": "コーサージュ",
+    "reading": "koosaje",
+    "code": "cr-kata2-912",
+    "index": 912
+  },
+  {
+    "surface": "キックオフ",
+    "reading": "kickoff",
+    "code": "cr-kata2-913",
+    "index": 913
+  },
+  {
+    "surface": "キーエスクロー",
+    "reading": "keyescrow",
+    "code": "cr-kata2-914",
+    "index": 914
+  },
+  {
+    "surface": "コモロ",
+    "reading": "comoro",
+    "code": "cr-kata2-915",
+    "index": 915
+  },
+  {
+    "surface": "コアシステム",
+    "reading": "coresystem",
+    "code": "cr-kata2-916",
+    "index": 916
+  },
+  {
+    "surface": "ギヨチン",
+    "reading": "guillotine",
+    "code": "cr-kata2-917",
+    "index": 917
+  },
+  {
+    "surface": "コセカント",
+    "reading": "cosecant",
+    "code": "cr-kata2-918",
+    "index": 918
+  },
+  {
+    "surface": "ケントシン",
+    "reading": "kentshin",
+    "code": "cr-kata2-919",
+    "index": 919
+  },
+  {
+    "surface": "コージェライト",
+    "reading": "koojeraito",
+    "code": "cr-kata2-920",
+    "index": 920
+  },
+  {
+    "surface": "コスプレーヤー",
+    "reading": "kosuplayer",
+    "code": "cr-kata2-921",
+    "index": 921
+  },
+  {
+    "surface": "グァテマラ",
+    "reading": "guatemala",
+    "code": "cr-kata2-922",
+    "index": 922
+  },
+  {
+    "surface": "コウホネ",
+    "reading": "kouhone",
+    "code": "cr-kata2-923",
+    "index": 923
+  },
+  {
+    "surface": "ゴシゴシ",
+    "reading": "goshigoshi",
+    "code": "cr-kata2-924",
+    "index": 924
+  },
+  {
+    "surface": "カラマ",
+    "reading": "kalama",
+    "code": "cr-kata2-925",
+    "index": 925
+  },
+  {
+    "surface": "ギンヤンマ",
+    "reading": "ginyanma",
+    "code": "cr-kata2-926",
+    "index": 926
+  },
+  {
+    "surface": "ゴルゴー",
+    "reading": "gorugo",
+    "code": "cr-kata2-927",
+    "index": 927
+  },
+  {
+    "surface": "カドリール",
+    "reading": "quadrille",
+    "code": "cr-kata2-928",
+    "index": 928
+  },
+  {
+    "surface": "グロバリゼイション",
+    "reading": "gurobarizeishon",
+    "code": "cr-kata2-929",
+    "index": 929
+  },
+  {
+    "surface": "キャンプファイヤー",
+    "reading": "campfire",
+    "code": "cr-kata2-930",
+    "index": 930
+  },
+  {
+    "surface": "コンサートマスター",
+    "reading": "concertmaster",
+    "code": "cr-kata2-931",
+    "index": 931
+  },
+  {
+    "surface": "カヴィテ",
+    "reading": "kavite",
+    "code": "cr-kata2-932",
+    "index": 932
+  },
+  {
+    "surface": "コルチコイド",
+    "reading": "corticoid",
+    "code": "cr-kata2-933",
+    "index": 933
+  },
+  {
+    "surface": "カンヌ",
+    "reading": "cannes",
+    "code": "cr-kata2-934",
+    "index": 934
+  },
+  {
+    "surface": "クラスビーアイピーアドレス",
+    "reading": "kurasubiiaipiiadoresu",
+    "code": "cr-kata2-935",
+    "index": 935
+  },
+  {
+    "surface": "キロアンペア",
+    "reading": "kiroanpea",
+    "code": "cr-kata2-936",
+    "index": 936
+  },
+  {
+    "surface": "クロオオアリ",
+    "reading": "kuroooari",
+    "code": "cr-kata2-937",
+    "index": 937
+  },
+  {
+    "surface": "ガラパゴスリクイグアナ",
+    "reading": "galapagosrikuiguana",
+    "code": "cr-kata2-938",
+    "index": 938
+  },
+  {
+    "surface": "カルパス",
+    "reading": "karupass",
+    "code": "cr-kata2-939",
+    "index": 939
+  },
+  {
+    "surface": "カルミン",
+    "reading": "karmijn",
+    "code": "cr-kata2-940",
+    "index": 940
+  },
+  {
+    "surface": "クマアリ",
+    "reading": "kumaari",
+    "code": "cr-kata2-941",
+    "index": 941
+  },
+  {
+    "surface": "コミケ",
+    "reading": "komike",
+    "code": "cr-kata2-942",
+    "index": 942
+  },
+  {
+    "surface": "クリーベッジ",
+    "reading": "kuriibejji",
+    "code": "cr-kata2-943",
+    "index": 943
+  },
+  {
+    "surface": "クエン",
+    "reading": "kuen",
+    "code": "cr-kata2-944",
+    "index": 944
+  },
+  {
+    "surface": "カタニョ",
+    "reading": "katanyo",
+    "code": "cr-kata2-945",
+    "index": 945
+  },
+  {
+    "surface": "ガベージ",
+    "reading": "gabeeji",
+    "code": "cr-kata2-946",
+    "index": 946
+  },
+  {
+    "surface": "コメ",
+    "reading": "kome",
+    "code": "cr-kata2-947",
+    "index": 947
+  },
+  {
+    "surface": "カマイタチ",
+    "reading": "kamaitachi",
+    "code": "cr-kata2-948",
+    "index": 948
+  },
+  {
+    "surface": "ゴスロリ",
+    "reading": "gosurori",
+    "code": "cr-kata2-949",
+    "index": 949
+  },
+  {
+    "surface": "キーパンチャー",
+    "reading": "keypuncher",
+    "code": "cr-kata2-950",
+    "index": 950
+  },
+  {
+    "surface": "コンパクトディスク",
+    "reading": "compactdisc",
+    "code": "cr-kata2-951",
+    "index": 951
+  },
+  {
+    "surface": "キーンコーンカーンコーン",
+    "reading": "kiinkoonkaankoon",
+    "code": "cr-kata2-952",
+    "index": 952
+  },
+  {
+    "surface": "カードローン",
+    "reading": "cardloan",
+    "code": "cr-kata2-953",
+    "index": 953
+  },
+  {
+    "surface": "コスメティック",
+    "reading": "cosmetic",
+    "code": "cr-kata2-954",
+    "index": 954
+  },
+  {
+    "surface": "キメエ",
+    "reading": "kimee",
+    "code": "cr-kata2-955",
+    "index": 955
+  },
+  {
+    "surface": "キンバイ",
+    "reading": "kinbai",
+    "code": "cr-kata2-956",
+    "index": 956
+  },
+  {
+    "surface": "ガーベージコレクション",
+    "reading": "gaabeejikorekushon",
+    "code": "cr-kata2-957",
+    "index": 957
+  },
+  {
+    "surface": "ガッカリ",
+    "reading": "gakkari",
+    "code": "cr-kata2-958",
+    "index": 958
+  },
+  {
+    "surface": "キャンドルスティック",
+    "reading": "candlestick",
+    "code": "cr-kata2-959",
+    "index": 959
+  },
+  {
+    "surface": "キムチ",
+    "reading": "chimchi",
+    "code": "cr-kata2-960",
+    "index": 960
+  },
+  {
+    "surface": "ゴールド・コースト",
+    "reading": "goldcoast",
+    "code": "cr-kata2-961",
+    "index": 961
+  },
+  {
+    "surface": "グラーツ",
+    "reading": "graz",
+    "code": "cr-kata2-962",
+    "index": 962
+  },
+  {
+    "surface": "コルンバ",
+    "reading": "corumba",
+    "code": "cr-kata2-963",
+    "index": 963
+  },
+  {
+    "surface": "クルマエビ",
+    "reading": "kurumaebi",
+    "code": "cr-kata2-964",
+    "index": 964
+  },
+  {
+    "surface": "コンボリューション",
+    "reading": "convolution",
+    "code": "cr-kata2-965",
+    "index": 965
+  },
+  {
+    "surface": "カイゼル",
+    "reading": "kaiser",
+    "code": "cr-kata2-966",
+    "index": 966
+  },
+  {
+    "surface": "クリスマスキャロル",
+    "reading": "christmascarol",
+    "code": "cr-kata2-967",
+    "index": 967
+  },
+  {
+    "surface": "ケッチ",
+    "reading": "ketch",
+    "code": "cr-kata2-968",
+    "index": 968
+  },
+  {
+    "surface": "コンチネンタルタンゴ",
+    "reading": "continentaltango",
+    "code": "cr-kata2-969",
+    "index": 969
+  },
+  {
+    "surface": "カイマン",
+    "reading": "caiman",
+    "code": "cr-kata2-970",
+    "index": 970
+  },
+  {
+    "surface": "グレート・ブリテン",
+    "reading": "greatbritten",
+    "code": "cr-kata2-971",
+    "index": 971
+  },
+  {
+    "surface": "コンソーシアム",
+    "reading": "consortium",
+    "code": "cr-kata2-972",
+    "index": 972
+  },
+  {
+    "surface": "グリーンバードマウスラス",
+    "reading": "greenbirdmouselath",
+    "code": "cr-kata2-973",
+    "index": 973
+  },
+  {
+    "surface": "ゲン",
+    "reading": "gen",
+    "code": "cr-kata2-974",
+    "index": 974
+  },
+  {
+    "surface": "コンチネンタル・タンゴ",
+    "reading": "continentaltango",
+    "code": "cr-kata2-975",
+    "index": 975
+  },
+  {
+    "surface": "グレートフォールズ",
+    "reading": "greatfall",
+    "code": "cr-kata2-976",
+    "index": 976
+  },
+  {
+    "surface": "コントリビューション",
+    "reading": "contribution",
+    "code": "cr-kata2-977",
+    "index": 977
+  },
+  {
+    "surface": "コロネル・スアレス",
+    "reading": "koronerusuaresu",
+    "code": "cr-kata2-978",
+    "index": 978
+  },
+  {
+    "surface": "クックスハーフェン",
+    "reading": "kukkusuhaafen",
+    "code": "cr-kata2-979",
+    "index": 979
+  },
+  {
+    "surface": "クオリティーオブライフ",
+    "reading": "qualityoflife",
+    "code": "cr-kata2-980",
+    "index": 980
+  },
+  {
+    "surface": "クローヴィス",
+    "reading": "clovis",
+    "code": "cr-kata2-981",
+    "index": 981
+  },
+  {
+    "surface": "カンクン",
+    "reading": "kankun",
+    "code": "cr-kata2-982",
+    "index": 982
+  },
+  {
+    "surface": "クリスマス",
+    "reading": "christmas",
+    "code": "cr-kata2-983",
+    "index": 983
+  },
+  {
+    "surface": "カーフェリー",
+    "reading": "carferry",
+    "code": "cr-kata2-984",
+    "index": 984
+  },
+  {
+    "surface": "コンマ",
+    "reading": "comma",
+    "code": "cr-kata2-985",
+    "index": 985
+  },
+  {
+    "surface": "グリセルアルデヒド",
+    "reading": "glyceraldehyde",
+    "code": "cr-kata2-986",
+    "index": 986
+  },
+  {
+    "surface": "カラーテ・ブリアンツァ",
+    "reading": "colorteaburiantsa",
+    "code": "cr-kata2-987",
+    "index": 987
+  },
+  {
+    "surface": "カールスタード",
+    "reading": "kaarusutaado",
+    "code": "cr-kata2-988",
+    "index": 988
+  },
+  {
+    "surface": "コサイン",
+    "reading": "cosine",
+    "code": "cr-kata2-989",
+    "index": 989
+  },
+  {
+    "surface": "ギンリョウソウモドキ",
+    "reading": "ginryousoumodoki",
+    "code": "cr-kata2-990",
+    "index": 990
+  },
+  {
+    "surface": "クラフトパルプ",
+    "reading": "craftpulp",
+    "code": "cr-kata2-991",
+    "index": 991
+  },
+  {
+    "surface": "コンピューターウィルス",
+    "reading": "computervirus",
+    "code": "cr-kata2-992",
+    "index": 992
+  },
+  {
+    "surface": "ガヤガヤ",
+    "reading": "gayagaya",
+    "code": "cr-kata2-993",
+    "index": 993
+  },
+  {
+    "surface": "カー",
+    "reading": "car",
+    "code": "cr-kata2-994",
+    "index": 994
+  },
+  {
+    "surface": "クビ",
+    "reading": "kubi",
+    "code": "cr-kata2-995",
+    "index": 995
+  },
+  {
+    "surface": "コンピュータグラフィックス",
+    "reading": "computergraphic",
+    "code": "cr-kata2-996",
+    "index": 996
+  },
+  {
+    "surface": "キャディ",
+    "reading": "caddie",
+    "code": "cr-kata2-997",
+    "index": 997
+  },
+  {
+    "surface": "カモマイル",
+    "reading": "chamomile",
+    "code": "cr-kata2-998",
+    "index": 998
+  },
+  {
+    "surface": "ココリス",
+    "reading": "cocorisu",
+    "code": "cr-kata2-999",
+    "index": 999
+  },
+  {
+    "surface": "グルシトール",
+    "reading": "gurushitooru",
+    "code": "cr-kata2-1000",
+    "index": 1000
+  },
+  {
+    "surface": "グレア",
+    "reading": "glare",
+    "code": "cr-kata2-1001",
+    "index": 1001
+  },
+  {
+    "surface": "キー",
+    "reading": "key",
+    "code": "cr-kata2-1002",
+    "index": 1002
+  },
+  {
+    "surface": "キャリアディテクト",
+    "reading": "kyariaditekuto",
+    "code": "cr-kata2-1003",
+    "index": 1003
+  },
+  {
+    "surface": "コモンウェルスデー",
+    "reading": "commonwealthday",
+    "code": "cr-kata2-1004",
+    "index": 1004
+  },
+  {
+    "surface": "キニラ",
+    "reading": "kinira",
+    "code": "cr-kata2-1005",
+    "index": 1005
+  },
+  {
+    "surface": "カスリモヨウベニハゼ",
+    "reading": "kasurimoyoubenihaze",
+    "code": "cr-kata2-1006",
+    "index": 1006
+  },
+  {
+    "surface": "コムソモリスク・ナ・アムーレ",
+    "reading": "komsomolskonamur",
+    "code": "cr-kata2-1007",
+    "index": 1007
+  },
+  {
+    "surface": "カウンシルブラフス",
+    "reading": "kaunshiruburafusu",
+    "code": "cr-kata2-1008",
+    "index": 1008
+  },
+  {
+    "surface": "コンセントレーター",
+    "reading": "concentrator",
+    "code": "cr-kata2-1009",
+    "index": 1009
+  },
+  {
+    "surface": "コーンスープ",
+    "reading": "cornsoup",
+    "code": "cr-kata2-1010",
+    "index": 1010
+  },
+  {
+    "surface": "ケッタイ",
+    "reading": "kettai",
+    "code": "cr-kata2-1011",
+    "index": 1011
+  },
+  {
+    "surface": "ギヨチーヌ",
+    "reading": "giyochiinu",
+    "code": "cr-kata2-1012",
+    "index": 1012
+  },
+  {
+    "surface": "カルジオスコープ",
+    "reading": "cardioscope",
+    "code": "cr-kata2-1013",
+    "index": 1013
+  },
+  {
+    "surface": "カシム・エル・ジルバ",
+    "reading": "kashimuerujitterbug",
+    "code": "cr-kata2-1014",
+    "index": 1014
+  },
+  {
+    "surface": "キャビネ",
+    "reading": "cabinet",
+    "code": "cr-kata2-1015",
+    "index": 1015
+  },
+  {
+    "surface": "カラッケツ",
+    "reading": "karakketsu",
+    "code": "cr-kata2-1016",
+    "index": 1016
+  },
+  {
+    "surface": "ゴールデンウィーク",
+    "reading": "goldenweek",
+    "code": "cr-kata2-1017",
+    "index": 1017
+  },
+  {
+    "surface": "コンセッショナリー",
+    "reading": "konsesshonarii",
+    "code": "cr-kata2-1018",
+    "index": 1018
+  },
+  {
+    "surface": "カイロプラクチック",
+    "reading": "kairopurakuchikku",
+    "code": "cr-kata2-1019",
+    "index": 1019
+  },
+  {
+    "surface": "カセロール",
+    "reading": "kaseroll",
+    "code": "cr-kata2-1020",
+    "index": 1020
+  },
+  {
+    "surface": "グロッシー",
+    "reading": "glossy",
+    "code": "cr-kata2-1021",
+    "index": 1021
+  },
+  {
+    "surface": "グリンピース",
+    "reading": "greenpiece",
+    "code": "cr-kata2-1022",
+    "index": 1022
+  },
+  {
+    "surface": "クマノミ",
+    "reading": "kumanomi",
+    "code": "cr-kata2-1023",
+    "index": 1023
+  },
+  {
+    "surface": "カナペ",
+    "reading": "kanape",
+    "code": "cr-kata2-1024",
+    "index": 1024
+  },
+  {
+    "surface": "キンパツ",
+    "reading": "kinpatsu",
+    "code": "cr-kata2-1025",
+    "index": 1025
+  },
+  {
+    "surface": "コンベンショナリズム",
+    "reading": "conventionalism",
+    "code": "cr-kata2-1026",
+    "index": 1026
+  },
+  {
+    "surface": "キャセロール",
+    "reading": "casserole",
+    "code": "cr-kata2-1027",
+    "index": 1027
+  },
+  {
+    "surface": "コクリコ",
+    "reading": "coquelicot",
+    "code": "cr-kata2-1028",
+    "index": 1028
+  },
+  {
+    "surface": "クタクタ",
+    "reading": "kutakuta",
+    "code": "cr-kata2-1029",
+    "index": 1029
+  },
+  {
+    "surface": "クマツヅラ",
+    "reading": "kumatsuzura",
+    "code": "cr-kata2-1030",
+    "index": 1030
+  },
+  {
+    "surface": "クラビア",
+    "reading": "clavia",
+    "code": "cr-kata2-1031",
+    "index": 1031
+  },
+  {
+    "surface": "コンベア",
+    "reading": "conveyor",
+    "code": "cr-kata2-1032",
+    "index": 1032
+  },
+  {
+    "surface": "コスト・パフォーマンス",
+    "reading": "costperformance",
+    "code": "cr-kata2-1033",
+    "index": 1033
+  },
+  {
+    "surface": "コマユミ",
+    "reading": "komayumi",
+    "code": "cr-kata2-1034",
+    "index": 1034
+  },
+  {
+    "surface": "コンパレータ",
+    "reading": "comparator",
+    "code": "cr-kata2-1035",
+    "index": 1035
+  },
+  {
+    "surface": "カンペン",
+    "reading": "kanpen",
+    "code": "cr-kata2-1036",
+    "index": 1036
+  },
+  {
+    "surface": "クリスマス・キャロル",
+    "reading": "christmascarroll",
+    "code": "cr-kata2-1037",
+    "index": 1037
+  },
+  {
+    "surface": "クロロフルオロカーボン",
+    "reading": "chlorofluorocarbon",
+    "code": "cr-kata2-1038",
+    "index": 1038
+  },
+  {
+    "surface": "カザフ",
+    "reading": "qazaq",
+    "code": "cr-kata2-1039",
+    "index": 1039
+  },
+  {
+    "surface": "コバカ",
+    "reading": "kobaka",
+    "code": "cr-kata2-1040",
+    "index": 1040
+  },
+  {
+    "surface": "コンフィデンシャル",
+    "reading": "confidential",
+    "code": "cr-kata2-1041",
+    "index": 1041
+  },
+  {
+    "surface": "キャビンアテンダント",
+    "reading": "cabinattendant",
+    "code": "cr-kata2-1042",
+    "index": 1042
+  },
+  {
+    "surface": "コストパフォーマンス",
+    "reading": "costperformance",
+    "code": "cr-kata2-1043",
+    "index": 1043
+  },
+  {
+    "surface": "クライアントサーバ",
+    "reading": "clientserver",
+    "code": "cr-kata2-1044",
+    "index": 1044
+  },
+  {
+    "surface": "コンセルヴァトワール",
+    "reading": "conservatoire",
+    "code": "cr-kata2-1045",
+    "index": 1045
+  },
+  {
+    "surface": "コックローチ",
+    "reading": "cockroach",
+    "code": "cr-kata2-1046",
+    "index": 1046
+  },
+  {
+    "surface": "コンロ",
+    "reading": "konro",
+    "code": "cr-kata2-1047",
+    "index": 1047
+  },
+  {
+    "surface": "クスノキ",
+    "reading": "kusunoki",
+    "code": "cr-kata2-1048",
+    "index": 1048
+  },
+  {
+    "surface": "ギヤ",
+    "reading": "gear",
+    "code": "cr-kata2-1049",
+    "index": 1049
+  },
+  {
+    "surface": "グリーンビル",
+    "reading": "greenbuilding",
+    "code": "cr-kata2-1050",
+    "index": 1050
+  },
+  {
+    "surface": "クロスワード・パズル",
+    "reading": "crosswordpuzzle",
+    "code": "cr-kata2-1051",
+    "index": 1051
+  },
+  {
+    "surface": "カフェ",
+    "reading": "cafe",
+    "code": "cr-kata2-1052",
+    "index": 1052
+  },
+  {
+    "surface": "コルミ",
+    "reading": "korumi",
+    "code": "cr-kata2-1053",
+    "index": 1053
+  },
+  {
+    "surface": "コンタクトレンズ",
+    "reading": "contactlens",
+    "code": "cr-kata2-1054",
+    "index": 1054
+  },
+  {
+    "surface": "グロスオプティマイザ",
+    "reading": "gurosuoputimaiza",
+    "code": "cr-kata2-1055",
+    "index": 1055
+  },
+  {
+    "surface": "キャラフェ",
+    "reading": "carafe",
+    "code": "cr-kata2-1056",
+    "index": 1056
+  },
+  {
+    "surface": "ケレン",
+    "reading": "keren",
+    "code": "cr-kata2-1057",
+    "index": 1057
+  },
+  {
+    "surface": "ゲラ",
+    "reading": "galley",
+    "code": "cr-kata2-1058",
+    "index": 1058
+  },
+  {
+    "surface": "カニバル",
+    "reading": "kanibaru",
+    "code": "cr-kata2-1059",
+    "index": 1059
+  },
+  {
+    "surface": "カゴシマ",
+    "reading": "kagoshima",
+    "code": "cr-kata2-1060",
+    "index": 1060
+  },
+  {
+    "surface": "ケーパビリティー",
+    "reading": "capability",
+    "code": "cr-kata2-1061",
+    "index": 1061
+  },
+  {
+    "surface": "カモ",
+    "reading": "kamo",
+    "code": "cr-kata2-1062",
+    "index": 1062
+  },
+  {
+    "surface": "クリエイティビティ",
+    "reading": "creativity",
+    "code": "cr-kata2-1063",
+    "index": 1063
+  },
+  {
+    "surface": "ガンジスメジロザメ",
+    "reading": "ganjisumejirozame",
+    "code": "cr-kata2-1064",
+    "index": 1064
+  },
+  {
+    "surface": "カギカッコ",
+    "reading": "kagikakko",
+    "code": "cr-kata2-1065",
+    "index": 1065
+  },
+  {
+    "surface": "グリル",
+    "reading": "grille",
+    "code": "cr-kata2-1066",
+    "index": 1066
+  },
+  {
+    "surface": "クワーティ",
+    "reading": "kuwaati",
+    "code": "cr-kata2-1067",
+    "index": 1067
+  },
+  {
+    "surface": "コッカースパニエル",
+    "reading": "cockerspaniel",
+    "code": "cr-kata2-1068",
+    "index": 1068
+  },
+  {
+    "surface": "カバノキ",
+    "reading": "kabanoki",
+    "code": "cr-kata2-1069",
+    "index": 1069
+  },
+  {
+    "surface": "カテゴリィ",
+    "reading": "category",
+    "code": "cr-kata2-1070",
+    "index": 1070
+  },
+  {
+    "surface": "キズ",
+    "reading": "kizu",
+    "code": "cr-kata2-1071",
+    "index": 1071
+  },
+  {
+    "surface": "クロシュ",
+    "reading": "closshu",
+    "code": "cr-kata2-1072",
+    "index": 1072
+  },
+  {
+    "surface": "カラーネガフィルム",
+    "reading": "colornegafilm",
+    "code": "cr-kata2-1073",
+    "index": 1073
+  },
+  {
+    "surface": "コウロエンカワヒバリガイ",
+    "reading": "kouroenkawahibarigai",
+    "code": "cr-kata2-1074",
+    "index": 1074
+  },
+  {
+    "surface": "カブ",
+    "reading": "kabu",
+    "code": "cr-kata2-1075",
+    "index": 1075
+  },
+  {
+    "surface": "ガンディー",
+    "reading": "gandhi",
+    "code": "cr-kata2-1076",
+    "index": 1076
+  },
+  {
+    "surface": "コンティニュイティー",
+    "reading": "continuity",
+    "code": "cr-kata2-1077",
+    "index": 1077
+  },
+  {
+    "surface": "キイロショウジョウバエ",
+    "reading": "kiiroshoujoubae",
+    "code": "cr-kata2-1078",
+    "index": 1078
+  },
+  {
+    "surface": "キャム",
+    "reading": "kyamu",
+    "code": "cr-kata2-1079",
+    "index": 1079
+  },
+  {
+    "surface": "カワマス",
+    "reading": "kawamasu",
+    "code": "cr-kata2-1080",
+    "index": 1080
+  },
+  {
+    "surface": "カササギ",
+    "reading": "kasasagi",
+    "code": "cr-kata2-1081",
+    "index": 1081
+  },
+  {
+    "surface": "ガマ",
+    "reading": "gama",
+    "code": "cr-kata2-1082",
+    "index": 1082
+  },
+  {
+    "surface": "コンシューマ",
+    "reading": "consumer",
+    "code": "cr-kata2-1083",
+    "index": 1083
+  },
+  {
+    "surface": "グイ",
+    "reading": "gui",
+    "code": "cr-kata2-1084",
+    "index": 1084
+  },
+  {
+    "surface": "コムカデ",
+    "reading": "komukade",
+    "code": "cr-kata2-1085",
+    "index": 1085
+  },
+  {
+    "surface": "クグ",
+    "reading": "kugu",
+    "code": "cr-kata2-1086",
+    "index": 1086
+  },
+  {
+    "surface": "コンヴァージョン",
+    "reading": "konversion",
+    "code": "cr-kata2-1087",
+    "index": 1087
+  },
+  {
+    "surface": "ガイド",
+    "reading": "guide",
+    "code": "cr-kata2-1088",
+    "index": 1088
+  },
+  {
+    "surface": "キングスウィンフォード",
+    "reading": "kingwinford",
+    "code": "cr-kata2-1089",
+    "index": 1089
+  },
+  {
+    "surface": "コンポーネントステレオ",
+    "reading": "componentstereo",
+    "code": "cr-kata2-1090",
+    "index": 1090
+  },
+  {
+    "surface": "ケメロヴォ",
+    "reading": "kemerovo",
+    "code": "cr-kata2-1091",
+    "index": 1091
+  },
+  {
+    "surface": "カナガシラ",
+    "reading": "kanagashira",
+    "code": "cr-kata2-1092",
+    "index": 1092
+  },
+  {
+    "surface": "ケリマネ",
+    "reading": "kerimane",
+    "code": "cr-kata2-1093",
+    "index": 1093
+  },
+  {
+    "surface": "カワエビ",
+    "reading": "kawaebi",
+    "code": "cr-kata2-1094",
+    "index": 1094
+  },
+  {
+    "surface": "コミュニティセンター",
+    "reading": "communitycenter",
+    "code": "cr-kata2-1095",
+    "index": 1095
+  },
+  {
+    "surface": "ゲルマン",
+    "reading": "germane",
+    "code": "cr-kata2-1096",
+    "index": 1096
+  },
+  {
+    "surface": "コンティニュイティ",
+    "reading": "continuity",
+    "code": "cr-kata2-1097",
+    "index": 1097
+  },
+  {
+    "surface": "ククー",
+    "reading": "kukuu",
+    "code": "cr-kata2-1098",
+    "index": 1098
+  },
+  {
+    "surface": "コンフリクト",
+    "reading": "conflict",
+    "code": "cr-kata2-1099",
+    "index": 1099
+  },
+  {
+    "surface": "クミッラ",
+    "reading": "kumirra",
+    "code": "cr-kata2-1100",
+    "index": 1100
+  },
+  {
+    "surface": "カワラバト",
+    "reading": "kawarabato",
+    "code": "cr-kata2-1101",
+    "index": 1101
+  },
+  {
+    "surface": "クルクル",
+    "reading": "kurukuru",
+    "code": "cr-kata2-1102",
+    "index": 1102
+  },
+  {
+    "surface": "ゲデレー",
+    "reading": "gederee",
+    "code": "cr-kata2-1103",
+    "index": 1103
+  },
+  {
+    "surface": "カーボングラファイト",
+    "reading": "carbongraphite",
+    "code": "cr-kata2-1104",
+    "index": 1104
+  },
+  {
+    "surface": "ガウス",
+    "reading": "gauss",
+    "code": "cr-kata2-1105",
+    "index": 1105
+  },
+  {
+    "surface": "カイロプラクター",
+    "reading": "kairopurakutaa",
+    "code": "cr-kata2-1106",
+    "index": 1106
+  },
+  {
+    "surface": "ガベジコレクション",
+    "reading": "gabejikorekushon",
+    "code": "cr-kata2-1107",
+    "index": 1107
+  },
+  {
+    "surface": "ゴールデンウイーク",
+    "reading": "goldenweek",
+    "code": "cr-kata2-1108",
+    "index": 1108
+  },
+  {
+    "surface": "コンヴォリューション",
+    "reading": "konvoryuushon",
+    "code": "cr-kata2-1109",
+    "index": 1109
+  },
+  {
+    "surface": "クロアゲハ",
+    "reading": "kuroageha",
+    "code": "cr-kata2-1110",
+    "index": 1110
+  },
+  {
+    "surface": "コミュニティーセンター",
+    "reading": "communitycenter",
+    "code": "cr-kata2-1111",
+    "index": 1111
+  },
+  {
+    "surface": "キャニスター",
+    "reading": "canister",
+    "code": "cr-kata2-1112",
+    "index": 1112
+  },
+  {
+    "surface": "グルーマー",
+    "reading": "groomer",
+    "code": "cr-kata2-1113",
+    "index": 1113
+  },
+  {
+    "surface": "グロースオストハイム",
+    "reading": "growthosutohaimu",
+    "code": "cr-kata2-1114",
+    "index": 1114
+  },
+  {
+    "surface": "キューゲ",
+    "reading": "cuege",
+    "code": "cr-kata2-1115",
+    "index": 1115
+  },
+  {
+    "surface": "クリーヴァ",
+    "reading": "cleve",
+    "code": "cr-kata2-1116",
+    "index": 1116
+  },
+  {
+    "surface": "クロッキー",
+    "reading": "croquis",
+    "code": "cr-kata2-1117",
+    "index": 1117
+  },
+  {
+    "surface": "コンパクト・ディスク",
+    "reading": "compactdisc",
+    "code": "cr-kata2-1118",
+    "index": 1118
+  },
+  {
+    "surface": "ケードロ",
+    "reading": "keedoro",
+    "code": "cr-kata2-1119",
+    "index": 1119
+  },
+  {
+    "surface": "クソボケ",
+    "reading": "kusoboke",
+    "code": "cr-kata2-1120",
+    "index": 1120
+  },
+  {
+    "surface": "キンチャクダイ",
+    "reading": "kinchakudai",
+    "code": "cr-kata2-1121",
+    "index": 1121
+  },
+  {
+    "surface": "コモ",
+    "reading": "komo",
+    "code": "cr-kata2-1122",
+    "index": 1122
+  },
+  {
+    "surface": "キヨスク",
+    "reading": "kiosk",
+    "code": "cr-kata2-1123",
+    "index": 1123
+  },
+  {
+    "surface": "クラシック・ギター",
+    "reading": "classicguitar",
+    "code": "cr-kata2-1124",
+    "index": 1124
+  },
+  {
+    "surface": "ゴールドラッシュ",
+    "reading": "goldrush",
+    "code": "cr-kata2-1125",
+    "index": 1125
+  },
+  {
+    "surface": "ココアダムゼルフィッシュ",
+    "reading": "kokoadamuzerufisshu",
+    "code": "cr-kata2-1126",
+    "index": 1126
+  },
+  {
+    "surface": "クリムゾン",
+    "reading": "crimson",
+    "code": "cr-kata2-1127",
+    "index": 1127
+  },
+  {
+    "surface": "カタツムリ",
+    "reading": "katatsumuri",
+    "code": "cr-kata2-1128",
+    "index": 1128
+  },
+  {
+    "surface": "カース",
+    "reading": "kaasu",
+    "code": "cr-kata2-1129",
+    "index": 1129
+  },
+  {
+    "surface": "クルィヴィーイ・リーフ",
+    "reading": "kuriviiiriifu",
+    "code": "cr-kata2-1130",
+    "index": 1130
+  },
+  {
+    "surface": "グッズ",
+    "reading": "goods",
+    "code": "cr-kata2-1131",
+    "index": 1131
+  },
+  {
+    "surface": "グリッシーニ",
+    "reading": "grissini",
+    "code": "cr-kata2-1132",
+    "index": 1132
+  },
+  {
+    "surface": "コンセプシオン・デ・ラ・ベガ",
+    "reading": "konsepushiondesravega",
+    "code": "cr-kata2-1133",
+    "index": 1133
+  },
+  {
+    "surface": "コルテツエンジェルフィッシュ",
+    "reading": "korutetsuenjerufisshu",
+    "code": "cr-kata2-1134",
+    "index": 1134
+  },
+  {
+    "surface": "ギンダラ",
+    "reading": "gindara",
+    "code": "cr-kata2-1135",
+    "index": 1135
+  },
+  {
+    "surface": "コンティニュエーション",
+    "reading": "kontinyueeshon",
+    "code": "cr-kata2-1136",
+    "index": 1136
+  },
+  {
+    "surface": "キミミダレミツスイ",
+    "reading": "kimimidaremitsusui",
+    "code": "cr-kata2-1137",
+    "index": 1137
+  },
+  {
+    "surface": "コウライオヤニラミ",
+    "reading": "kouraioyanirami",
+    "code": "cr-kata2-1138",
+    "index": 1138
+  },
+  {
+    "surface": "クロスワードパズル",
+    "reading": "crosswordpuzzle",
+    "code": "cr-kata2-1139",
+    "index": 1139
+  },
+  {
+    "surface": "クレンメ",
+    "reading": "kurenme",
+    "code": "cr-kata2-1140",
+    "index": 1140
+  },
+  {
+    "surface": "ケージャン",
+    "reading": "kayjean",
+    "code": "cr-kata2-1141",
+    "index": 1141
+  },
+  {
+    "surface": "クリクリ",
+    "reading": "kurikuri",
+    "code": "cr-kata2-1142",
+    "index": 1142
+  },
+  {
+    "surface": "カントカ",
+    "reading": "kantoka",
+    "code": "cr-kata2-1143",
+    "index": 1143
+  },
+  {
+    "surface": "ゲームプランナー",
+    "reading": "gameplanner",
+    "code": "cr-kata2-1144",
+    "index": 1144
+  },
+  {
+    "surface": "ガスステーション",
+    "reading": "gasstation",
+    "code": "cr-kata2-1145",
+    "index": 1145
+  },
+  {
+    "surface": "クラスエーアイピーアドレス",
+    "reading": "kurasueeaipiiadoresu",
+    "code": "cr-kata2-1146",
+    "index": 1146
+  },
+  {
+    "surface": "カセット",
+    "reading": "cassette",
+    "code": "cr-kata2-1147",
+    "index": 1147
+  },
+  {
+    "surface": "キボシマルトビムシ",
+    "reading": "kiboshimarutobimushi",
+    "code": "cr-kata2-1148",
+    "index": 1148
+  },
+  {
+    "surface": "コハウチワカエデ",
+    "reading": "kohauchiwakaede",
+    "code": "cr-kata2-1149",
+    "index": 1149
+  },
+  {
+    "surface": "カヌイング",
+    "reading": "kanuingu",
+    "code": "cr-kata2-1150",
+    "index": 1150
+  },
+  {
+    "surface": "ゴシキセイガイインコ",
+    "reading": "goshikiseigaiinko",
+    "code": "cr-kata2-1151",
+    "index": 1151
+  },
+  {
+    "surface": "コクテンカタギ",
+    "reading": "kokutenkatagi",
+    "code": "cr-kata2-1152",
+    "index": 1152
+  },
+  {
+    "surface": "キッド",
+    "reading": "kid",
+    "code": "cr-kata2-1153",
+    "index": 1153
+  },
+  {
+    "surface": "クリスマスパーティ",
+    "reading": "christmasparty",
+    "code": "cr-kata2-1154",
+    "index": 1154
+  },
+  {
+    "surface": "カポック",
+    "reading": "kapok",
+    "code": "cr-kata2-1155",
+    "index": 1155
+  },
+  {
+    "surface": "グレーヴェンブローホ",
+    "reading": "gureevenburooho",
+    "code": "cr-kata2-1156",
+    "index": 1156
+  },
+  {
+    "surface": "コンピュータアート",
+    "reading": "computerart",
+    "code": "cr-kata2-1157",
+    "index": 1157
+  },
+  {
+    "surface": "ゲネプロ",
+    "reading": "generalprobe",
+    "code": "cr-kata2-1158",
+    "index": 1158
+  },
+  {
+    "surface": "ガソリン・エンジン",
+    "reading": "gasolineengine",
+    "code": "cr-kata2-1159",
+    "index": 1159
+  },
+  {
+    "surface": "カッペリーニ",
+    "reading": "kapperiini",
+    "code": "cr-kata2-1160",
+    "index": 1160
+  },
+  {
+    "surface": "クオーターファイナル",
+    "reading": "quarterfinal",
+    "code": "cr-kata2-1161",
+    "index": 1161
+  },
+  {
+    "surface": "カレッジステーション",
+    "reading": "collegestation",
+    "code": "cr-kata2-1162",
+    "index": 1162
+  },
+  {
+    "surface": "コッコリス",
+    "reading": "kokkorisu",
+    "code": "cr-kata2-1163",
+    "index": 1163
+  },
+  {
+    "surface": "ゴヤ",
+    "reading": "goya",
+    "code": "cr-kata2-1164",
+    "index": 1164
+  },
+  {
+    "surface": "コチ",
+    "reading": "kochi",
+    "code": "cr-kata2-1165",
+    "index": 1165
+  },
+  {
+    "surface": "ゲスト",
+    "reading": "guest",
+    "code": "cr-kata2-1166",
+    "index": 1166
+  },
+  {
+    "surface": "クリティシズム",
+    "reading": "criticism",
+    "code": "cr-kata2-1167",
+    "index": 1167
+  },
+  {
+    "surface": "クルンジンガーズラス",
+    "reading": "kurunjingaazurasu",
+    "code": "cr-kata2-1168",
+    "index": 1168
+  },
+  {
+    "surface": "カナテコ",
+    "reading": "kanateko",
+    "code": "cr-kata2-1169",
+    "index": 1169
+  },
+  {
+    "surface": "ギフトチェック",
+    "reading": "giftcheck",
+    "code": "cr-kata2-1170",
+    "index": 1170
+  },
+  {
+    "surface": "ゴーヤ",
+    "reading": "gooya",
+    "code": "cr-kata2-1171",
+    "index": 1171
+  },
+  {
+    "surface": "コウノス",
+    "reading": "kounosu",
+    "code": "cr-kata2-1172",
+    "index": 1172
+  },
+  {
+    "surface": "カスタードクリーム",
+    "reading": "custardcream",
+    "code": "cr-kata2-1173",
+    "index": 1173
+  },
+  {
+    "surface": "コルダ",
+    "reading": "corda",
+    "code": "cr-kata2-1174",
+    "index": 1174
+  },
+  {
+    "surface": "カルディート",
+    "reading": "karudiito",
+    "code": "cr-kata2-1175",
+    "index": 1175
+  },
+  {
+    "surface": "カッコウ",
+    "reading": "kakkou",
+    "code": "cr-kata2-1176",
+    "index": 1176
+  },
+  {
+    "surface": "カネロニ",
+    "reading": "cannelloni",
+    "code": "cr-kata2-1177",
+    "index": 1177
+  },
+  {
+    "surface": "ギャグ",
+    "reading": "gag",
+    "code": "cr-kata2-1178",
+    "index": 1178
+  },
+  {
+    "surface": "クラスト",
+    "reading": "crust",
+    "code": "cr-kata2-1179",
+    "index": 1179
+  },
+  {
+    "surface": "キキンダ",
+    "reading": "kikinda",
+    "code": "cr-kata2-1180",
+    "index": 1180
+  },
+  {
+    "surface": "ガナッシュ",
+    "reading": "ganache",
+    "code": "cr-kata2-1181",
+    "index": 1181
+  },
+  {
+    "surface": "コーラルスプリングス",
+    "reading": "coralspringsu",
+    "code": "cr-kata2-1182",
+    "index": 1182
+  },
+  {
+    "surface": "ギー",
+    "reading": "ghee",
+    "code": "cr-kata2-1183",
+    "index": 1183
+  },
+  {
+    "surface": "コーパスクリスティ",
+    "reading": "corpusclitorisstay",
+    "code": "cr-kata2-1184",
+    "index": 1184
+  },
+  {
+    "surface": "カラライゼーション",
+    "reading": "colorization",
+    "code": "cr-kata2-1185",
+    "index": 1185
+  },
+  {
+    "surface": "キーリピート",
+    "reading": "keyrepeat",
+    "code": "cr-kata2-1186",
+    "index": 1186
+  },
+  {
+    "surface": "キザ",
+    "reading": "kiza",
+    "code": "cr-kata2-1187",
+    "index": 1187
+  },
+  {
+    "surface": "クラビー",
+    "reading": "kurabii",
+    "code": "cr-kata2-1188",
+    "index": 1188
+  },
+  {
+    "surface": "ガッポリ",
+    "reading": "gappori",
+    "code": "cr-kata2-1189",
+    "index": 1189
+  },
+  {
+    "surface": "コンピュータウィルス",
+    "reading": "computervirus",
+    "code": "cr-kata2-1190",
+    "index": 1190
+  },
+  {
+    "surface": "コメディ",
+    "reading": "comedy",
+    "code": "cr-kata2-1191",
+    "index": 1191
+  },
+  {
+    "surface": "コントロールアンプ",
+    "reading": "controlamplifier",
+    "code": "cr-kata2-1192",
+    "index": 1192
+  },
+  {
+    "surface": "コロネル・オビエド",
+    "reading": "koroflanneloviedo",
+    "code": "cr-kata2-1193",
+    "index": 1193
+  },
+  {
+    "surface": "キュウリ",
+    "reading": "kyuuri",
+    "code": "cr-kata2-1194",
+    "index": 1194
+  },
+  {
+    "surface": "グラフィックタブレット",
+    "reading": "graphictablet",
+    "code": "cr-kata2-1195",
+    "index": 1195
+  },
+  {
+    "surface": "キシナウ",
+    "reading": "kishinow",
+    "code": "cr-kata2-1196",
+    "index": 1196
+  },
+  {
+    "surface": "カラ",
+    "reading": "kara",
+    "code": "cr-kata2-1197",
+    "index": 1197
+  },
+  {
+    "surface": "コマンドプロンプト",
+    "reading": "commandprompt",
+    "code": "cr-kata2-1198",
+    "index": 1198
+  },
+  {
+    "surface": "カシェル",
+    "reading": "kashell",
+    "code": "cr-kata2-1199",
+    "index": 1199
+  },
+  {
+    "surface": "キャタストロフィ",
+    "reading": "kyatasutorofi",
+    "code": "cr-kata2-1200",
+    "index": 1200
+  },
+  {
+    "surface": "クリアレイク",
+    "reading": "kuriareiku",
+    "code": "cr-kata2-1201",
+    "index": 1201
+  },
+  {
+    "surface": "クンペントゥム",
+    "reading": "kunpentumu",
+    "code": "cr-kata2-1202",
+    "index": 1202
+  },
+  {
+    "surface": "ゴマフキンチャクフグ",
+    "reading": "gomafukinchakufugu",
+    "code": "cr-kata2-1203",
+    "index": 1203
+  },
+  {
+    "surface": "グラディニャン",
+    "reading": "gradynyan",
+    "code": "cr-kata2-1204",
+    "index": 1204
+  },
+  {
+    "surface": "クローナハ",
+    "reading": "kronaha",
+    "code": "cr-kata2-1205",
+    "index": 1205
+  },
+  {
+    "surface": "カイソウ",
+    "reading": "kaisou",
+    "code": "cr-kata2-1206",
+    "index": 1206
+  },
+  {
+    "surface": "グリーンフィールド",
+    "reading": "greenfield",
+    "code": "cr-kata2-1207",
+    "index": 1207
+  },
+  {
+    "surface": "クェイク",
+    "reading": "keiku",
+    "code": "cr-kata2-1208",
+    "index": 1208
+  },
+  {
+    "surface": "コフィン",
+    "reading": "coffin",
+    "code": "cr-kata2-1209",
+    "index": 1209
+  },
+  {
+    "surface": "コンボイ",
+    "reading": "convoy",
+    "code": "cr-kata2-1210",
+    "index": 1210
+  },
+  {
+    "surface": "グローバライゼイション",
+    "reading": "guroobaraizeishon",
+    "code": "cr-kata2-1211",
+    "index": 1211
+  },
+  {
+    "surface": "キニジン",
+    "reading": "quinidine",
+    "code": "cr-kata2-1212",
+    "index": 1212
+  },
+  {
+    "surface": "カブトムシ",
+    "reading": "kabutomushi",
+    "code": "cr-kata2-1213",
+    "index": 1213
+  },
+  {
+    "surface": "クリプトグラフィー",
+    "reading": "kuriputogurafii",
+    "code": "cr-kata2-1214",
+    "index": 1214
+  },
+  {
+    "surface": "ケナー",
+    "reading": "kenner",
+    "code": "cr-kata2-1215",
+    "index": 1215
+  },
+  {
+    "surface": "クマ",
+    "reading": "kuma",
+    "code": "cr-kata2-1216",
+    "index": 1216
+  },
+  {
+    "surface": "グレードアップ",
+    "reading": "gradeup",
+    "code": "cr-kata2-1217",
+    "index": 1217
+  },
+  {
+    "surface": "コレクティヴィズム",
+    "reading": "korekutivizumu",
+    "code": "cr-kata2-1218",
+    "index": 1218
+  },
+  {
+    "surface": "グレナディンシロップ",
+    "reading": "gurenadinshiroppu",
+    "code": "cr-kata2-1219",
+    "index": 1219
+  },
+  {
+    "surface": "ゴヨウマツ",
+    "reading": "goyoumatsu",
+    "code": "cr-kata2-1220",
+    "index": 1220
+  },
+  {
+    "surface": "カモネギ",
+    "reading": "kamonegi",
+    "code": "cr-kata2-1221",
+    "index": 1221
+  },
+  {
+    "surface": "コミカレ",
+    "reading": "komikare",
+    "code": "cr-kata2-1222",
+    "index": 1222
+  },
+  {
+    "surface": "コラージュ",
+    "reading": "collage",
+    "code": "cr-kata2-1223",
+    "index": 1223
+  },
+  {
+    "surface": "コンピューターネットワーク",
+    "reading": "computernetwork",
+    "code": "cr-kata2-1224",
+    "index": 1224
+  },
+  {
+    "surface": "カザルヌオーヴォ・ディ・ナポーリ",
+    "reading": "kazarunuoovodinapoori",
+    "code": "cr-kata2-1225",
+    "index": 1225
+  },
+  {
+    "surface": "ゴーイングマイウエイ",
+    "reading": "goingmyway",
+    "code": "cr-kata2-1226",
+    "index": 1226
+  },
+  {
+    "surface": "ガスパネル",
+    "reading": "gaspanel",
+    "code": "cr-kata2-1227",
+    "index": 1227
+  },
+  {
+    "surface": "キルジャチ",
+    "reading": "kirujachi",
+    "code": "cr-kata2-1228",
+    "index": 1228
+  },
+  {
+    "surface": "キャスティングボート",
+    "reading": "castingboat",
+    "code": "cr-kata2-1229",
+    "index": 1229
+  },
+  {
+    "surface": "コマンドコム",
+    "reading": "commandcom",
+    "code": "cr-kata2-1230",
+    "index": 1230
+  },
+  {
+    "surface": "コンシューマー",
+    "reading": "consumer",
+    "code": "cr-kata2-1231",
+    "index": 1231
+  },
+  {
+    "surface": "ガーベジコレクション",
+    "reading": "gaabejikorekushon",
+    "code": "cr-kata2-1232",
+    "index": 1232
+  },
+  {
+    "surface": "クライオジーニクス",
+    "reading": "kuraiojiinikusu",
+    "code": "cr-kata2-1233",
+    "index": 1233
+  },
+  {
+    "surface": "キャラクタセル",
+    "reading": "charactercell",
+    "code": "cr-kata2-1234",
+    "index": 1234
+  },
+  {
+    "surface": "クラシフィケイション",
+    "reading": "kurashifikeishon",
+    "code": "cr-kata2-1235",
+    "index": 1235
+  },
+  {
+    "surface": "クロマトグラフィー",
+    "reading": "chromatography",
+    "code": "cr-kata2-1236",
+    "index": 1236
+  },
+  {
+    "surface": "ガーリチ",
+    "reading": "gaarichi",
+    "code": "cr-kata2-1237",
+    "index": 1237
+  },
+  {
+    "surface": "グリーティングカード",
+    "reading": "greetingcard",
+    "code": "cr-kata2-1238",
+    "index": 1238
+  },
+  {
+    "surface": "ガランタミン",
+    "reading": "galanthamine",
+    "code": "cr-kata2-1239",
+    "index": 1239
+  },
+  {
+    "surface": "キビタキ",
+    "reading": "kibitaki",
+    "code": "cr-kata2-1240",
+    "index": 1240
+  },
+  {
+    "surface": "キクウィト",
+    "reading": "kikuito",
+    "code": "cr-kata2-1241",
+    "index": 1241
+  },
+  {
+    "surface": "コウ",
+    "reading": "kou",
+    "code": "cr-kata2-1242",
+    "index": 1242
+  },
+  {
+    "surface": "クリエーチブ",
+    "reading": "kurieechibu",
+    "code": "cr-kata2-1243",
+    "index": 1243
+  },
+  {
+    "surface": "グループ・ディスカッション",
+    "reading": "groupdiscussion",
+    "code": "cr-kata2-1244",
+    "index": 1244
+  },
+  {
+    "surface": "グローバリゼイション",
+    "reading": "guroobarizeishon",
+    "code": "cr-kata2-1245",
+    "index": 1245
+  },
+  {
+    "surface": "コンパートメント",
+    "reading": "compartment",
+    "code": "cr-kata2-1246",
+    "index": 1246
+  },
+  {
+    "surface": "コー・ダリーン",
+    "reading": "koodariin",
+    "code": "cr-kata2-1247",
+    "index": 1247
+  },
+  {
+    "surface": "ガルバンソ",
+    "reading": "garbanzo",
+    "code": "cr-kata2-1248",
+    "index": 1248
+  },
+  {
+    "surface": "コギノコ",
+    "reading": "corginoko",
+    "code": "cr-kata2-1249",
+    "index": 1249
+  },
+  {
+    "surface": "カウンターパンチ",
+    "reading": "counterpunch",
+    "code": "cr-kata2-1250",
+    "index": 1250
+  },
+  {
+    "surface": "コブラツイスト",
+    "reading": "cobratwist",
+    "code": "cr-kata2-1251",
+    "index": 1251
+  },
+  {
+    "surface": "コーニス",
+    "reading": "cornice",
+    "code": "cr-kata2-1252",
+    "index": 1252
+  },
+  {
+    "surface": "クリアランスセール",
+    "reading": "clearancesale",
+    "code": "cr-kata2-1253",
+    "index": 1253
+  },
+  {
+    "surface": "グリオー",
+    "reading": "griot",
+    "code": "cr-kata2-1254",
+    "index": 1254
+  },
+  {
+    "surface": "クック",
+    "reading": "kukku",
+    "code": "cr-kata2-1255",
+    "index": 1255
+  },
+  {
+    "surface": "カネ",
+    "reading": "kane",
+    "code": "cr-kata2-1256",
+    "index": 1256
+  },
+  {
+    "surface": "ガゼル",
+    "reading": "gazelle",
+    "code": "cr-kata2-1257",
+    "index": 1257
+  },
+  {
+    "surface": "ガリー",
+    "reading": "galley",
+    "code": "cr-kata2-1258",
+    "index": 1258
+  },
+  {
+    "surface": "ケース・スタディー",
+    "reading": "casestudy",
+    "code": "cr-kata2-1259",
+    "index": 1259
+  },
+  {
+    "surface": "キク",
+    "reading": "kiku",
+    "code": "cr-kata2-1260",
+    "index": 1260
+  },
+  {
+    "surface": "コーポレートアイデンティティー",
+    "reading": "corporateidentity",
+    "code": "cr-kata2-1261",
+    "index": 1261
+  },
+  {
+    "surface": "ガスパッチョ",
+    "reading": "gazpacho",
+    "code": "cr-kata2-1262",
+    "index": 1262
+  },
+  {
+    "surface": "カルブコ",
+    "reading": "karubuko",
+    "code": "cr-kata2-1263",
+    "index": 1263
+  },
+  {
+    "surface": "カシア",
+    "reading": "cassia",
+    "code": "cr-kata2-1264",
+    "index": 1264
+  },
+  {
+    "surface": "コロンバイン",
+    "reading": "columbine",
+    "code": "cr-kata2-1265",
+    "index": 1265
+  },
+  {
+    "surface": "コンテナリゼーション",
+    "reading": "containerization",
+    "code": "cr-kata2-1266",
+    "index": 1266
+  },
+  {
+    "surface": "カラーフィルム",
+    "reading": "colorfilm",
+    "code": "cr-kata2-1267",
+    "index": 1267
+  },
+  {
+    "surface": "ゲッティンゲン",
+    "reading": "gottingen",
+    "code": "cr-kata2-1268",
+    "index": 1268
+  },
+  {
+    "surface": "クヨクヨ",
+    "reading": "kuyokuyo",
+    "code": "cr-kata2-1269",
+    "index": 1269
+  },
+  {
+    "surface": "キャンバー",
+    "reading": "camber",
+    "code": "cr-kata2-1270",
+    "index": 1270
+  },
+  {
+    "surface": "キーウィフルーツ",
+    "reading": "kiwifruit",
+    "code": "cr-kata2-1271",
+    "index": 1271
+  },
+  {
+    "surface": "ケーナ",
+    "reading": "quena",
+    "code": "cr-kata2-1272",
+    "index": 1272
+  },
+  {
+    "surface": "コストコントロール",
+    "reading": "costcontrol",
+    "code": "cr-kata2-1273",
+    "index": 1273
+  },
+  {
+    "surface": "ガムテープ",
+    "reading": "gumtape",
+    "code": "cr-kata2-1274",
+    "index": 1274
+  },
+  {
+    "surface": "ギタラマ",
+    "reading": "gitarama",
+    "code": "cr-kata2-1275",
+    "index": 1275
+  },
+  {
+    "surface": "グアヤク",
+    "reading": "guaiac",
+    "code": "cr-kata2-1276",
+    "index": 1276
+  },
+  {
+    "surface": "キヅタ",
+    "reading": "kizuta",
+    "code": "cr-kata2-1277",
+    "index": 1277
+  },
+  {
+    "surface": "コンクリートミキサー",
+    "reading": "concretemixer",
+    "code": "cr-kata2-1278",
+    "index": 1278
+  },
+  {
+    "surface": "キャンディデート",
+    "reading": "candidate",
+    "code": "cr-kata2-1279",
+    "index": 1279
+  },
+  {
+    "surface": "カラビュック",
+    "reading": "karabyukku",
+    "code": "cr-kata2-1280",
+    "index": 1280
+  },
+  {
+    "surface": "カンギク",
+    "reading": "kangiku",
+    "code": "cr-kata2-1281",
+    "index": 1281
+  },
+  {
+    "surface": "カペラ",
+    "reading": "capella",
+    "code": "cr-kata2-1282",
+    "index": 1282
+  },
+  {
+    "surface": "カップ",
+    "reading": "cup",
+    "code": "cr-kata2-1283",
+    "index": 1283
+  },
+  {
+    "surface": "コウチシ",
+    "reading": "kouchishi",
+    "code": "cr-kata2-1284",
+    "index": 1284
+  },
+  {
+    "surface": "カンニングペーパー",
+    "reading": "cunningpaper",
+    "code": "cr-kata2-1285",
+    "index": 1285
+  },
+  {
+    "surface": "カスター",
+    "reading": "custer",
+    "code": "cr-kata2-1286",
+    "index": 1286
+  },
+  {
+    "surface": "コンピュテーション",
+    "reading": "computation",
+    "code": "cr-kata2-1287",
+    "index": 1287
+  },
+  {
+    "surface": "カラット",
+    "reading": "carat",
+    "code": "cr-kata2-1288",
+    "index": 1288
+  },
+  {
+    "surface": "クロスファイア",
+    "reading": "clothfire",
+    "code": "cr-kata2-1289",
+    "index": 1289
+  },
+  {
+    "surface": "グリシン",
+    "reading": "glycine",
+    "code": "cr-kata2-1290",
+    "index": 1290
+  },
+  {
+    "surface": "カーボンレスペーパー",
+    "reading": "carbonelesspaper",
+    "code": "cr-kata2-1291",
+    "index": 1291
+  },
+  {
+    "surface": "カッコイイ",
+    "reading": "kakkoii",
+    "code": "cr-kata2-1292",
+    "index": 1292
+  },
+  {
+    "surface": "グラウンドゼロ",
+    "reading": "groundzero",
+    "code": "cr-kata2-1293",
+    "index": 1293
+  },
+  {
+    "surface": "ゴチャマゼ",
+    "reading": "gochamaze",
+    "code": "cr-kata2-1294",
+    "index": 1294
+  },
+  {
+    "surface": "キャピタル・ゲイン",
+    "reading": "capitalgain",
+    "code": "cr-kata2-1295",
+    "index": 1295
+  },
+  {
+    "surface": "カガミガイ",
+    "reading": "kagamiguy",
+    "code": "cr-kata2-1296",
+    "index": 1296
+  },
+  {
+    "surface": "コンポジットインデックス",
+    "reading": "compositeindex",
+    "code": "cr-kata2-1297",
+    "index": 1297
+  },
+  {
+    "surface": "コリン",
+    "reading": "colin",
+    "code": "cr-kata2-1298",
+    "index": 1298
+  },
+  {
+    "surface": "ゴシキノジコ",
+    "reading": "goshikinojiko",
+    "code": "cr-kata2-1299",
+    "index": 1299
+  },
+  {
+    "surface": "コンソーティアム",
+    "reading": "konsootiamu",
+    "code": "cr-kata2-1300",
+    "index": 1300
+  },
+  {
+    "surface": "コンビニエンスフード",
+    "reading": "conveniencefood",
+    "code": "cr-kata2-1301",
+    "index": 1301
+  },
+  {
+    "surface": "ゴーイングマイウェイ",
+    "reading": "goingmyway",
+    "code": "cr-kata2-1302",
+    "index": 1302
+  },
+  {
+    "surface": "ガイガーミュラーカウンター",
+    "reading": "gaigaamyuraakauntaa",
+    "code": "cr-kata2-1303",
+    "index": 1303
+  },
+  {
+    "surface": "キャフェ",
+    "reading": "cafe",
+    "code": "cr-kata2-1304",
+    "index": 1304
+  },
+  {
+    "surface": "ケートマンスフープ",
+    "reading": "keetomansufuupu",
+    "code": "cr-kata2-1305",
+    "index": 1305
+  },
+  {
+    "surface": "キャバレー",
+    "reading": "cabaret",
+    "code": "cr-kata2-1306",
+    "index": 1306
+  },
+  {
+    "surface": "コリーダ",
+    "reading": "collydade",
+    "code": "cr-kata2-1307",
+    "index": 1307
+  },
+  {
+    "surface": "カマツカ",
+    "reading": "kamatsuka",
+    "code": "cr-kata2-1308",
+    "index": 1308
+  },
+  {
+    "surface": "クイックモーション",
+    "reading": "quickmotion",
+    "code": "cr-kata2-1309",
+    "index": 1309
+  },
+  {
+    "surface": "コントミン",
+    "reading": "contemin",
+    "code": "cr-kata2-1310",
+    "index": 1310
+  },
+  {
+    "surface": "ガスバーナー",
+    "reading": "gasburner",
+    "code": "cr-kata2-1311",
+    "index": 1311
+  },
+  {
+    "surface": "グズグズ",
+    "reading": "guzuguzu",
+    "code": "cr-kata2-1312",
+    "index": 1312
+  },
+  {
+    "surface": "コウヤノマンネンゴケ",
+    "reading": "kouyanomannengoke",
+    "code": "cr-kata2-1313",
+    "index": 1313
+  },
+  {
+    "surface": "カムフラージ",
+    "reading": "comefuraaji",
+    "code": "cr-kata2-1314",
+    "index": 1314
+  },
+  {
+    "surface": "コリウス",
+    "reading": "coleus",
+    "code": "cr-kata2-1315",
+    "index": 1315
+  },
+  {
+    "surface": "キチ",
+    "reading": "kichi",
+    "code": "cr-kata2-1316",
+    "index": 1316
+  },
+  {
+    "surface": "コナ",
+    "reading": "kona",
+    "code": "cr-kata2-1317",
+    "index": 1317
+  },
+  {
+    "surface": "カナダ・デ・ゴメス",
+    "reading": "canadadesgomesu",
+    "code": "cr-kata2-1318",
+    "index": 1318
+  },
+  {
+    "surface": "グレイハウンド",
+    "reading": "grayhound",
+    "code": "cr-kata2-1319",
+    "index": 1319
+  },
+  {
+    "surface": "コーディネーション",
+    "reading": "coordination",
+    "code": "cr-kata2-1320",
+    "index": 1320
+  },
+  {
+    "surface": "カルメ",
+    "reading": "caramelo",
+    "code": "cr-kata2-1321",
+    "index": 1321
+  },
+  {
+    "surface": "コンプトン",
+    "reading": "compton",
+    "code": "cr-kata2-1322",
+    "index": 1322
+  },
+  {
+    "surface": "ガイシャ",
+    "reading": "gaisha",
+    "code": "cr-kata2-1323",
+    "index": 1323
+  },
+  {
+    "surface": "カナムグラ",
+    "reading": "kanamugura",
+    "code": "cr-kata2-1324",
+    "index": 1324
+  },
+  {
+    "surface": "コンクリートブロック",
+    "reading": "concreteblock",
+    "code": "cr-kata2-1325",
+    "index": 1325
+  },
+  {
+    "surface": "コモディティー",
+    "reading": "commodity",
+    "code": "cr-kata2-1326",
+    "index": 1326
+  },
+  {
+    "surface": "キト",
+    "reading": "quito",
+    "code": "cr-kata2-1327",
+    "index": 1327
+  },
+  {
+    "surface": "ガーゴイル",
+    "reading": "gargoyle",
+    "code": "cr-kata2-1328",
+    "index": 1328
+  },
+  {
+    "surface": "コートハウス",
+    "reading": "coathouse",
+    "code": "cr-kata2-1329",
+    "index": 1329
+  },
+  {
+    "surface": "キャラクタ",
+    "reading": "character",
+    "code": "cr-kata2-1330",
+    "index": 1330
+  },
+  {
+    "surface": "ケノトロン",
+    "reading": "kenotron",
+    "code": "cr-kata2-1331",
+    "index": 1331
+  },
+  {
+    "surface": "カゼ",
+    "reading": "kaze",
+    "code": "cr-kata2-1332",
+    "index": 1332
+  },
+  {
+    "surface": "カンザス",
+    "reading": "kansas",
+    "code": "cr-kata2-1333",
+    "index": 1333
+  },
+  {
+    "surface": "クシファクティヌス",
+    "reading": "kushifakutinusu",
+    "code": "cr-kata2-1334",
+    "index": 1334
+  },
+  {
+    "surface": "コンベンションセンター",
+    "reading": "conventioncenter",
+    "code": "cr-kata2-1335",
+    "index": 1335
+  },
+  {
+    "surface": "ケイパビリティー",
+    "reading": "capability",
+    "code": "cr-kata2-1336",
+    "index": 1336
+  },
+  {
+    "surface": "クロダイ",
+    "reading": "kurodai",
+    "code": "cr-kata2-1337",
+    "index": 1337
+  },
+  {
+    "surface": "キャラニヤ",
+    "reading": "characterniya",
+    "code": "cr-kata2-1338",
+    "index": 1338
+  },
+  {
+    "surface": "クォーテーションマーク",
+    "reading": "quotationmark",
+    "code": "cr-kata2-1339",
+    "index": 1339
+  },
+  {
+    "surface": "ガティノー",
+    "reading": "gatino",
+    "code": "cr-kata2-1340",
+    "index": 1340
+  },
+  {
+    "surface": "クリンチ",
+    "reading": "clinch",
+    "code": "cr-kata2-1341",
+    "index": 1341
+  },
+  {
+    "surface": "クリスマス・パーティー",
+    "reading": "christmasparty",
+    "code": "cr-kata2-1342",
+    "index": 1342
+  },
+  {
+    "surface": "コンピューターグラフィックス",
+    "reading": "computergraphic",
+    "code": "cr-kata2-1343",
+    "index": 1343
+  },
+  {
+    "surface": "キュア",
+    "reading": "cure",
+    "code": "cr-kata2-1344",
+    "index": 1344
+  },
+  {
+    "surface": "キャンプファイアー",
+    "reading": "campfire",
+    "code": "cr-kata2-1345",
+    "index": 1345
+  },
+  {
+    "surface": "コントロールキー",
+    "reading": "controlkey",
+    "code": "cr-kata2-1346",
+    "index": 1346
+  },
+  {
+    "surface": "ギブ・アンド・テイク",
+    "reading": "giveandtake",
+    "code": "cr-kata2-1347",
+    "index": 1347
+  },
+  {
+    "surface": "ガヤ",
+    "reading": "gaya",
+    "code": "cr-kata2-1348",
+    "index": 1348
+  },
+  {
+    "surface": "カルフォルニア",
+    "reading": "california",
+    "code": "cr-kata2-1349",
+    "index": 1349
+  },
+  {
+    "surface": "ケタ",
+    "reading": "keta",
+    "code": "cr-kata2-1350",
+    "index": 1350
+  },
+  {
+    "surface": "キャッシュディスペンサー",
+    "reading": "cashdispenser",
+    "code": "cr-kata2-1351",
+    "index": 1351
+  },
+  {
+    "surface": "コリドラス",
+    "reading": "koridorasu",
+    "code": "cr-kata2-1352",
+    "index": 1352
+  },
+  {
+    "surface": "ゴルァ",
+    "reading": "gora",
+    "code": "cr-kata2-1353",
+    "index": 1353
+  },
+  {
+    "surface": "グラドル",
+    "reading": "guradoru",
+    "code": "cr-kata2-1354",
+    "index": 1354
+  },
+  {
+    "surface": "ゴールデンレトリーバー",
+    "reading": "goldenretriever",
+    "code": "cr-kata2-1355",
+    "index": 1355
+  },
+  {
+    "surface": "グビグビ",
+    "reading": "gubigubi",
+    "code": "cr-kata2-1356",
+    "index": 1356
+  },
+  {
+    "surface": "コマーシャリズム",
+    "reading": "commercialism",
+    "code": "cr-kata2-1357",
+    "index": 1357
+  },
+  {
+    "surface": "コミュニティーカレッジ",
+    "reading": "communitycollege",
+    "code": "cr-kata2-1358",
+    "index": 1358
+  },
+  {
+    "surface": "カルビ",
+    "reading": "karubi",
+    "code": "cr-kata2-1359",
+    "index": 1359
+  },
+  {
+    "surface": "キヌザル",
+    "reading": "kinuzaru",
+    "code": "cr-kata2-1360",
+    "index": 1360
+  },
+  {
+    "surface": "コッレ・ディ・ヴァル・デルザ",
+    "reading": "korredivaruderuza",
+    "code": "cr-kata2-1361",
+    "index": 1361
+  },
+  {
+    "surface": "ガシャッ",
+    "reading": "gasha",
+    "code": "cr-kata2-1362",
+    "index": 1362
+  },
+  {
+    "surface": "コスモス",
+    "reading": "cosmos",
+    "code": "cr-kata2-1363",
+    "index": 1363
+  },
+  {
+    "surface": "グヌー",
+    "reading": "gunuu",
+    "code": "cr-kata2-1364",
+    "index": 1364
+  },
+  {
+    "surface": "コルトン",
+    "reading": "koruton",
+    "code": "cr-kata2-1365",
+    "index": 1365
+  },
+  {
+    "surface": "カツレツ",
+    "reading": "cutlet",
+    "code": "cr-kata2-1366",
+    "index": 1366
+  },
+  {
+    "surface": "クルズクアティア",
+    "reading": "kuruzukuatia",
+    "code": "cr-kata2-1367",
+    "index": 1367
+  },
+  {
+    "surface": "グラチエ",
+    "reading": "grazie",
+    "code": "cr-kata2-1368",
+    "index": 1368
+  },
+  {
+    "surface": "キンキン",
+    "reading": "kinkin",
+    "code": "cr-kata2-1369",
+    "index": 1369
+  },
+  {
+    "surface": "カズノコ",
+    "reading": "kazunoko",
+    "code": "cr-kata2-1370",
+    "index": 1370
+  },
+  {
+    "surface": "コモチマンネングサ",
+    "reading": "komochimannengusa",
+    "code": "cr-kata2-1371",
+    "index": 1371
+  },
+  {
+    "surface": "カーテシ",
+    "reading": "kaateshi",
+    "code": "cr-kata2-1372",
+    "index": 1372
+  },
+  {
+    "surface": "クレオール",
+    "reading": "creole",
+    "code": "cr-kata2-1373",
+    "index": 1373
+  },
+  {
+    "surface": "ガクガク",
+    "reading": "gakugaku",
+    "code": "cr-kata2-1374",
+    "index": 1374
+  },
+  {
+    "surface": "グリーンハウス",
+    "reading": "greenhouse",
+    "code": "cr-kata2-1375",
+    "index": 1375
+  },
+  {
+    "surface": "コブタ",
+    "reading": "kobuta",
+    "code": "cr-kata2-1376",
+    "index": 1376
+  },
+  {
+    "surface": "グリーンベルト",
+    "reading": "greenbelt",
+    "code": "cr-kata2-1377",
+    "index": 1377
+  },
+  {
+    "surface": "ゲイリブ",
+    "reading": "gaylive",
+    "code": "cr-kata2-1378",
+    "index": 1378
+  },
+  {
+    "surface": "コンペティション",
+    "reading": "competition",
+    "code": "cr-kata2-1379",
+    "index": 1379
+  },
+  {
+    "surface": "コスチュームプレー",
+    "reading": "costumeplay",
+    "code": "cr-kata2-1380",
+    "index": 1380
+  },
+  {
+    "surface": "カンアオイ",
+    "reading": "kanaoi",
+    "code": "cr-kata2-1381",
+    "index": 1381
+  },
+  {
+    "surface": "クラシフィケーション",
+    "reading": "kurashifikeeshon",
+    "code": "cr-kata2-1382",
+    "index": 1382
+  },
+  {
+    "surface": "カッセル",
+    "reading": "kassel",
+    "code": "cr-kata2-1383",
+    "index": 1383
+  },
+  {
+    "surface": "ケンカ",
+    "reading": "kenka",
+    "code": "cr-kata2-1384",
+    "index": 1384
+  },
+  {
+    "surface": "コンター",
+    "reading": "contour",
+    "code": "cr-kata2-1385",
+    "index": 1385
+  },
+  {
+    "surface": "クセ",
+    "reading": "kuse",
+    "code": "cr-kata2-1386",
+    "index": 1386
+  },
+  {
+    "surface": "コンベンションホール",
+    "reading": "conventionhall",
+    "code": "cr-kata2-1387",
+    "index": 1387
+  },
+  {
+    "surface": "コムソモリスク",
+    "reading": "komusomorisuku",
+    "code": "cr-kata2-1388",
+    "index": 1388
+  },
+  {
+    "surface": "ギブ・アンド・テーク",
+    "reading": "giveandtake",
+    "code": "cr-kata2-1389",
+    "index": 1389
+  },
+  {
+    "surface": "グリコーゲン",
+    "reading": "glykogen",
+    "code": "cr-kata2-1390",
+    "index": 1390
+  },
+  {
+    "surface": "コマーシャルメッセージ",
+    "reading": "commercialmessage",
+    "code": "cr-kata2-1391",
+    "index": 1391
+  },
+  {
+    "surface": "コンピューティング",
+    "reading": "computing",
+    "code": "cr-kata2-1392",
+    "index": 1392
+  },
+  {
+    "surface": "キビキビ",
+    "reading": "kibikibi",
+    "code": "cr-kata2-1393",
+    "index": 1393
+  },
+  {
+    "surface": "グラフィックスカード",
+    "reading": "graphiccard",
+    "code": "cr-kata2-1394",
+    "index": 1394
+  },
+  {
+    "surface": "グロスター",
+    "reading": "gloucester",
+    "code": "cr-kata2-1395",
+    "index": 1395
+  },
+  {
+    "surface": "ギガ",
+    "reading": "giga",
+    "code": "cr-kata2-1396",
+    "index": 1396
+  },
+  {
+    "surface": "カバラ",
+    "reading": "cabala",
+    "code": "cr-kata2-1397",
+    "index": 1397
+  },
+  {
+    "surface": "クロアリ",
+    "reading": "kuroari",
+    "code": "cr-kata2-1398",
+    "index": 1398
+  },
+  {
+    "surface": "カンピ・ビゼンツィオ",
+    "reading": "kanpibizentsio",
+    "code": "cr-kata2-1399",
+    "index": 1399
+  },
+  {
+    "surface": "カト",
+    "reading": "kato",
+    "code": "cr-kata2-1400",
+    "index": 1400
+  },
+  {
+    "surface": "キャブタイヤケーブル",
+    "reading": "cabtirecable",
+    "code": "cr-kata2-1401",
+    "index": 1401
+  },
+  {
+    "surface": "ゴマフトラザメ",
+    "reading": "gomafutorazame",
+    "code": "cr-kata2-1402",
+    "index": 1402
+  },
+  {
+    "surface": "カタラガマ",
+    "reading": "kataragama",
+    "code": "cr-kata2-1403",
+    "index": 1403
+  },
+  {
+    "surface": "コビトスズメダイ",
+    "reading": "kobitosuzumedai",
+    "code": "cr-kata2-1404",
+    "index": 1404
+  },
+  {
+    "surface": "グリグリ",
+    "reading": "guriguri",
+    "code": "cr-kata2-1405",
+    "index": 1405
+  },
+  {
+    "surface": "コンクリートジャングル",
+    "reading": "concretejungle",
+    "code": "cr-kata2-1406",
+    "index": 1406
+  },
+  {
+    "surface": "グラフィック・デザイン",
+    "reading": "graphicdesign",
+    "code": "cr-kata2-1407",
+    "index": 1407
+  },
+  {
+    "surface": "カメラマン",
+    "reading": "cameraman",
+    "code": "cr-kata2-1408",
+    "index": 1408
+  },
+  {
+    "surface": "グラビュール",
+    "reading": "gurabyuuru",
+    "code": "cr-kata2-1409",
+    "index": 1409
+  },
+  {
+    "surface": "カクチョウジョウチュウ",
+    "reading": "kakuchoujouchuu",
+    "code": "cr-kata2-1410",
+    "index": 1410
+  },
+  {
+    "surface": "コレム",
+    "reading": "koremu",
+    "code": "cr-kata2-1411",
+    "index": 1411
+  },
+  {
+    "surface": "カルチャー・ショック",
+    "reading": "cultureshock",
+    "code": "cr-kata2-1412",
+    "index": 1412
+  },
+  {
+    "surface": "キーアサイン",
+    "reading": "keyassign",
+    "code": "cr-kata2-1413",
+    "index": 1413
+  },
+  {
+    "surface": "ゴイアニア",
+    "reading": "goiania",
+    "code": "cr-kata2-1414",
+    "index": 1414
+  },
+  {
+    "surface": "キレニア",
+    "reading": "kyrenia",
+    "code": "cr-kata2-1415",
+    "index": 1415
+  },
+  {
+    "surface": "キーボード",
+    "reading": "keyboard",
+    "code": "cr-kata2-1416",
+    "index": 1416
+  },
+  {
+    "surface": "ガード",
+    "reading": "guard",
+    "code": "cr-kata2-1417",
+    "index": 1417
+  },
+  {
+    "surface": "カザリキンチャクフグ",
+    "reading": "kazarikinchakufugu",
+    "code": "cr-kata2-1418",
+    "index": 1418
+  },
+  {
+    "surface": "コル",
+    "reading": "koru",
+    "code": "cr-kata2-1419",
+    "index": 1419
+  },
+  {
+    "surface": "カークランド",
+    "reading": "kirkland",
+    "code": "cr-kata2-1420",
+    "index": 1420
+  },
+  {
+    "surface": "クリスマスプレゼント",
+    "reading": "christmaspresent",
+    "code": "cr-kata2-1421",
+    "index": 1421
+  },
+  {
+    "surface": "グリーンフィー",
+    "reading": "greenfee",
+    "code": "cr-kata2-1422",
+    "index": 1422
+  },
+  {
+    "surface": "グッドランズ",
+    "reading": "goodrun",
+    "code": "cr-kata2-1423",
+    "index": 1423
+  },
+  {
+    "surface": "コンピューターグラフィクス",
+    "reading": "computergraphic",
+    "code": "cr-kata2-1424",
+    "index": 1424
+  },
+  {
+    "surface": "コルドバ",
+    "reading": "cordova",
+    "code": "cr-kata2-1425",
+    "index": 1425
+  },
+  {
+    "surface": "コマ",
+    "reading": "koma",
+    "code": "cr-kata2-1426",
+    "index": 1426
+  },
+  {
+    "surface": "グランドフォークス",
+    "reading": "gurandofookusu",
+    "code": "cr-kata2-1427",
+    "index": 1427
+  },
+  {
+    "surface": "キューバリーブレ",
+    "reading": "kyuubariibure",
+    "code": "cr-kata2-1428",
+    "index": 1428
+  },
+  {
+    "surface": "キーパッド",
+    "reading": "keypad",
+    "code": "cr-kata2-1429",
+    "index": 1429
+  },
+  {
+    "surface": "カーエレクトロニクス",
+    "reading": "carelectronics",
+    "code": "cr-kata2-1430",
+    "index": 1430
+  },
+  {
+    "surface": "コンステレーション",
+    "reading": "constellation",
+    "code": "cr-kata2-1431",
+    "index": 1431
+  },
+  {
+    "surface": "カメムシ",
+    "reading": "kamemushi",
+    "code": "cr-kata2-1432",
+    "index": 1432
+  },
+  {
+    "surface": "コキーユ",
+    "reading": "coquille",
+    "code": "cr-kata2-1433",
+    "index": 1433
+  },
+  {
+    "surface": "カルボナーラ",
+    "reading": "carbonara",
+    "code": "cr-kata2-1434",
+    "index": 1434
+  },
+  {
+    "surface": "カーマニア",
+    "reading": "carmania",
+    "code": "cr-kata2-1435",
+    "index": 1435
+  },
+  {
+    "surface": "ゴールド・ラッシュ",
+    "reading": "goldrush",
+    "code": "cr-kata2-1436",
+    "index": 1436
+  },
+  {
+    "surface": "コンフィグレーション",
+    "reading": "configuration",
+    "code": "cr-kata2-1437",
+    "index": 1437
+  },
+  {
+    "surface": "キタテハ",
+    "reading": "kitateha",
+    "code": "cr-kata2-1438",
+    "index": 1438
+  },
+  {
+    "surface": "ガチャポン",
+    "reading": "gachapon",
+    "code": "cr-kata2-1439",
+    "index": 1439
+  },
+  {
+    "surface": "コニー",
+    "reading": "konii",
+    "code": "cr-kata2-1440",
+    "index": 1440
+  },
+  {
+    "surface": "キリ",
+    "reading": "cruz",
+    "code": "cr-kata2-1441",
+    "index": 1441
+  },
+  {
+    "surface": "カウンターアタック",
+    "reading": "counterattack",
+    "code": "cr-kata2-1442",
+    "index": 1442
+  },
+  {
+    "surface": "ギグ",
+    "reading": "gig",
+    "code": "cr-kata2-1443",
+    "index": 1443
+  },
+  {
+    "surface": "カラープリント",
+    "reading": "colorprint",
+    "code": "cr-kata2-1444",
+    "index": 1444
+  },
+  {
+    "surface": "クレオメ",
+    "reading": "cleome",
+    "code": "cr-kata2-1445",
+    "index": 1445
+  },
+  {
+    "surface": "コレカルシフェロール",
+    "reading": "cholecalciferol",
+    "code": "cr-kata2-1446",
+    "index": 1446
+  },
+  {
+    "surface": "グランドスラム",
+    "reading": "grandslum",
+    "code": "cr-kata2-1447",
+    "index": 1447
+  },
+  {
+    "surface": "グロブリン",
+    "reading": "globulin",
+    "code": "cr-kata2-1448",
+    "index": 1448
+  },
+  {
+    "surface": "コンビニエンス・ストア",
+    "reading": "conveniencestore",
+    "code": "cr-kata2-1449",
+    "index": 1449
+  },
+  {
+    "surface": "コルホーズ",
+    "reading": "kolkhoz",
+    "code": "cr-kata2-1450",
+    "index": 1450
+  },
+  {
+    "surface": "キュンメル",
+    "reading": "kummel",
+    "code": "cr-kata2-1451",
+    "index": 1451
+  },
+  {
+    "surface": "キリン",
+    "reading": "kirin",
+    "code": "cr-kata2-1452",
+    "index": 1452
+  },
+  {
+    "surface": "カワウソ",
+    "reading": "kawauso",
+    "code": "cr-kata2-1453",
+    "index": 1453
+  },
+  {
+    "surface": "カスカベ",
+    "reading": "kasukabe",
+    "code": "cr-kata2-1454",
+    "index": 1454
+  },
+  {
+    "surface": "カリ",
+    "reading": "kari",
+    "code": "cr-kata2-1455",
+    "index": 1455
+  },
+  {
+    "surface": "コンテンツプロバイダー",
+    "reading": "contentsprovider",
+    "code": "cr-kata2-1456",
+    "index": 1456
+  },
+  {
+    "surface": "カプラ",
+    "reading": "coupler",
+    "code": "cr-kata2-1457",
+    "index": 1457
+  },
+  {
+    "surface": "キャラバンサライ",
+    "reading": "caravansary",
+    "code": "cr-kata2-1458",
+    "index": 1458
+  },
+  {
+    "surface": "ケチ",
+    "reading": "kechi",
+    "code": "cr-kata2-1459",
+    "index": 1459
+  },
+  {
+    "surface": "クリシャンスタード",
+    "reading": "kurishansutaado",
+    "code": "cr-kata2-1460",
+    "index": 1460
+  },
+  {
+    "surface": "キッチュ",
+    "reading": "kitsch",
+    "code": "cr-kata2-1461",
+    "index": 1461
+  },
+  {
+    "surface": "コンシューマリズム",
+    "reading": "consumerism",
+    "code": "cr-kata2-1462",
+    "index": 1462
+  },
+  {
+    "surface": "キルナ",
+    "reading": "kiluna",
+    "code": "cr-kata2-1463",
+    "index": 1463
+  },
+  {
+    "surface": "ギニアンエンジェルフィッシュ",
+    "reading": "ginianenjerufisshu",
+    "code": "cr-kata2-1464",
+    "index": 1464
+  },
+  {
+    "surface": "コリヤナギ",
+    "reading": "koriyanagy",
+    "code": "cr-kata2-1465",
+    "index": 1465
+  },
+  {
+    "surface": "カマラサウルス",
+    "reading": "camarasaurus",
+    "code": "cr-kata2-1466",
+    "index": 1466
+  },
+  {
+    "surface": "コロ",
+    "reading": "koro",
+    "code": "cr-kata2-1467",
+    "index": 1467
+  },
+  {
+    "surface": "カニカマ",
+    "reading": "kanikama",
+    "code": "cr-kata2-1468",
+    "index": 1468
+  },
+  {
+    "surface": "ガリウム",
+    "reading": "gallium",
+    "code": "cr-kata2-1469",
+    "index": 1469
+  },
+  {
+    "surface": "カブルチャー",
+    "reading": "cublucha",
+    "code": "cr-kata2-1470",
+    "index": 1470
+  },
+  {
+    "surface": "クリスティアンサンド",
+    "reading": "christiansandwich",
+    "code": "cr-kata2-1471",
+    "index": 1471
+  },
+  {
+    "surface": "カチン",
+    "reading": "kachin",
+    "code": "cr-kata2-1472",
+    "index": 1472
+  },
+  {
+    "surface": "ガル",
+    "reading": "gall",
+    "code": "cr-kata2-1473",
+    "index": 1473
+  },
+  {
+    "surface": "カスガンジ",
+    "reading": "kasuganji",
+    "code": "cr-kata2-1474",
+    "index": 1474
+  },
+  {
+    "surface": "ケショウフグ",
+    "reading": "keshoufugu",
+    "code": "cr-kata2-1475",
+    "index": 1475
+  },
+  {
+    "surface": "クロホシマンジュウダイ",
+    "reading": "kurohoshimanjuudai",
+    "code": "cr-kata2-1476",
+    "index": 1476
+  },
+  {
+    "surface": "クエリー",
+    "reading": "query",
+    "code": "cr-kata2-1477",
+    "index": 1477
+  },
+  {
+    "surface": "カツ",
+    "reading": "katsu",
+    "code": "cr-kata2-1478",
+    "index": 1478
+  },
+  {
+    "surface": "コンクリートポンプ",
+    "reading": "concretepomp",
+    "code": "cr-kata2-1479",
+    "index": 1479
+  },
+  {
+    "surface": "カスミチョウチョウウオ",
+    "reading": "kasumichouchouuo",
+    "code": "cr-kata2-1480",
+    "index": 1480
+  },
+  {
+    "surface": "クチナシ",
+    "reading": "kuchinashi",
+    "code": "cr-kata2-1481",
+    "index": 1481
+  },
+  {
+    "surface": "カウンセリング",
+    "reading": "counseling",
+    "code": "cr-kata2-1482",
+    "index": 1482
+  },
+  {
+    "surface": "コントロールパネル",
+    "reading": "controlpanel",
+    "code": "cr-kata2-1483",
+    "index": 1483
+  },
+  {
+    "surface": "キログラムカロリー",
+    "reading": "kiroguramukarorii",
+    "code": "cr-kata2-1484",
+    "index": 1484
+  },
+  {
+    "surface": "カガヤン・デ・オロ",
+    "reading": "cagayandeoro",
+    "code": "cr-kata2-1485",
+    "index": 1485
+  },
+  {
+    "surface": "カミニッカーズ",
+    "reading": "kamiknickers",
+    "code": "cr-kata2-1486",
+    "index": 1486
+  },
+  {
+    "surface": "カリーニングラード",
+    "reading": "kariininguraado",
+    "code": "cr-kata2-1487",
+    "index": 1487
+  },
+  {
+    "surface": "ガン",
+    "reading": "gan",
+    "code": "cr-kata2-1488",
+    "index": 1488
+  },
+  {
+    "surface": "ガスクロマトグラフィー",
+    "reading": "gaschromatography",
+    "code": "cr-kata2-1489",
+    "index": 1489
+  },
+  {
+    "surface": "コンガ",
+    "reading": "conga",
+    "code": "cr-kata2-1490",
+    "index": 1490
+  },
+  {
+    "surface": "グロテスク",
+    "reading": "grotesque",
+    "code": "cr-kata2-1491",
+    "index": 1491
+  },
+  {
+    "surface": "ケニア",
+    "reading": "kenya",
+    "code": "cr-kata2-1492",
+    "index": 1492
+  },
+  {
+    "surface": "クラチェ",
+    "reading": "kurache",
+    "code": "cr-kata2-1493",
+    "index": 1493
+  },
+  {
+    "surface": "ゲッ",
+    "reading": "ge",
+    "code": "cr-kata2-1494",
+    "index": 1494
+  },
+  {
+    "surface": "クソゲ",
+    "reading": "kusoge",
+    "code": "cr-kata2-1495",
+    "index": 1495
+  },
+  {
+    "surface": "カンブレー",
+    "reading": "kanburee",
+    "code": "cr-kata2-1496",
+    "index": 1496
+  },
+  {
+    "surface": "コーポレート・ガバナンス",
+    "reading": "corporategovernance",
+    "code": "cr-kata2-1497",
+    "index": 1497
+  },
+  {
+    "surface": "カルニチン",
+    "reading": "carnitine",
+    "code": "cr-kata2-1498",
+    "index": 1498
+  },
+  {
+    "surface": "ギニア",
+    "reading": "guinea",
+    "code": "cr-kata2-1499",
+    "index": 1499
+  },
+  {
+    "surface": "ケベック",
+    "reading": "quebec",
+    "code": "cr-kata2-1500",
+    "index": 1500
+  },
+  {
+    "surface": "ゲバ",
+    "reading": "geba",
+    "code": "cr-kata2-1501",
+    "index": 1501
+  },
+  {
+    "surface": "クラスノアルメイスク",
+    "reading": "kurasunoarumeisuku",
+    "code": "cr-kata2-1502",
+    "index": 1502
+  },
+  {
+    "surface": "カネローニ",
+    "reading": "cannelloni",
+    "code": "cr-kata2-1503",
+    "index": 1503
+  },
+  {
+    "surface": "ゲメナ",
+    "reading": "gemena",
+    "code": "cr-kata2-1504",
+    "index": 1504
+  },
+  {
+    "surface": "カニ",
+    "reading": "kani",
+    "code": "cr-kata2-1505",
+    "index": 1505
+  },
+  {
+    "surface": "クヴェードリンブルク",
+    "reading": "kuveedorinburuku",
+    "code": "cr-kata2-1506",
+    "index": 1506
+  },
+  {
+    "surface": "カタログショッピング",
+    "reading": "catalogshopping",
+    "code": "cr-kata2-1507",
+    "index": 1507
+  },
+  {
+    "surface": "クレジットタイトル",
+    "reading": "credittitle",
+    "code": "cr-kata2-1508",
+    "index": 1508
+  },
+  {
+    "surface": "クライオエレクトロニクス",
+    "reading": "clarinetioelectronics",
+    "code": "cr-kata2-1509",
+    "index": 1509
+  },
+  {
+    "surface": "コンセンサス",
+    "reading": "consensus",
+    "code": "cr-kata2-1510",
+    "index": 1510
+  },
+  {
+    "surface": "グラフィッカー",
+    "reading": "gurafikkaa",
+    "code": "cr-kata2-1511",
+    "index": 1511
+  },
+  {
+    "surface": "カテキュー",
+    "reading": "catechu",
+    "code": "cr-kata2-1512",
+    "index": 1512
+  },
+  {
+    "surface": "ガーンジー",
+    "reading": "guernsey",
+    "code": "cr-kata2-1513",
+    "index": 1513
+  },
+  {
+    "surface": "コレット",
+    "reading": "collette",
+    "code": "cr-kata2-1514",
+    "index": 1514
+  },
+  {
+    "surface": "コノトプ",
+    "reading": "konotopu",
+    "code": "cr-kata2-1515",
+    "index": 1515
+  },
+  {
+    "surface": "ガックリ",
+    "reading": "gakkuri",
+    "code": "cr-kata2-1516",
+    "index": 1516
+  },
+  {
+    "surface": "グラフィックデザイナー",
+    "reading": "graphicdesigner",
+    "code": "cr-kata2-1517",
+    "index": 1517
+  },
+  {
+    "surface": "ゲットツー",
+    "reading": "gettwo",
+    "code": "cr-kata2-1518",
+    "index": 1518
+  },
+  {
+    "surface": "カタコト",
+    "reading": "katakoto",
+    "code": "cr-kata2-1519",
+    "index": 1519
+  },
+  {
+    "surface": "コミックマーケット",
+    "reading": "comicmarket",
+    "code": "cr-kata2-1520",
+    "index": 1520
+  },
+  {
+    "surface": "ケルアン",
+    "reading": "keruan",
+    "code": "cr-kata2-1521",
+    "index": 1521
+  },
+  {
+    "surface": "クラスノペレコプスク",
+    "reading": "kurasunoperekopusuku",
+    "code": "cr-kata2-1522",
+    "index": 1522
+  },
+  {
+    "surface": "キクラゲ",
+    "reading": "kikurage",
+    "code": "cr-kata2-1523",
+    "index": 1523
+  },
+  {
+    "surface": "コアキシャルケーブル",
+    "reading": "koakisharukeeburu",
+    "code": "cr-kata2-1524",
+    "index": 1524
+  },
+  {
+    "surface": "コンプリメント",
+    "reading": "konpurimento",
+    "code": "cr-kata2-1525",
+    "index": 1525
+  },
+  {
+    "surface": "カスタムエルエスアイ",
+    "reading": "kasutamueruesuai",
+    "code": "cr-kata2-1526",
+    "index": 1526
+  },
+  {
+    "surface": "グリークラブ",
+    "reading": "gleeclub",
+    "code": "cr-kata2-1527",
+    "index": 1527
+  },
+  {
+    "surface": "クリスマス・プレゼント",
+    "reading": "christmaspresent",
+    "code": "cr-kata2-1528",
+    "index": 1528
+  },
+  {
+    "surface": "キャド",
+    "reading": "kyado",
+    "code": "cr-kata2-1529",
+    "index": 1529
+  },
+  {
+    "surface": "ゲシュタポ",
+    "reading": "gestapo",
+    "code": "cr-kata2-1530",
+    "index": 1530
+  },
+  {
+    "surface": "ゴルフウェア",
+    "reading": "golfwear",
+    "code": "cr-kata2-1531",
+    "index": 1531
+  },
+  {
+    "surface": "カコミスル",
+    "reading": "kakomisuru",
+    "code": "cr-kata2-1532",
+    "index": 1532
+  },
+  {
+    "surface": "コンセントレーション",
+    "reading": "concentration",
+    "code": "cr-kata2-1533",
+    "index": 1533
+  },
+  {
+    "surface": "キューバ",
+    "reading": "cuba",
+    "code": "cr-kata2-1534",
+    "index": 1534
+  },
+  {
+    "surface": "コメディカル",
+    "reading": "comedical",
+    "code": "cr-kata2-1535",
+    "index": 1535
+  },
+  {
+    "surface": "ゴウルバーン",
+    "reading": "goalbahn",
+    "code": "cr-kata2-1536",
+    "index": 1536
+  },
+  {
+    "surface": "グリーリー",
+    "reading": "greeley",
+    "code": "cr-kata2-1537",
+    "index": 1537
+  },
+  {
+    "surface": "グランドピアノ",
+    "reading": "grandpiano",
+    "code": "cr-kata2-1538",
+    "index": 1538
+  },
+  {
+    "surface": "ゴツン",
+    "reading": "gotsun",
+    "code": "cr-kata2-1539",
+    "index": 1539
+  },
+  {
+    "surface": "グローバルスタンダード",
+    "reading": "globalstandard",
+    "code": "cr-kata2-1540",
+    "index": 1540
+  },
+  {
+    "surface": "クンドゥゴル",
+    "reading": "kundugoru",
+    "code": "cr-kata2-1541",
+    "index": 1541
+  },
+  {
+    "surface": "コングラチュレーション",
+    "reading": "congratulation",
+    "code": "cr-kata2-1542",
+    "index": 1542
+  },
+  {
+    "surface": "ケモノ",
+    "reading": "kemono",
+    "code": "cr-kata2-1543",
+    "index": 1543
+  },
+  {
+    "surface": "グラフィックデザイン",
+    "reading": "graphicdesign",
+    "code": "cr-kata2-1544",
+    "index": 1544
+  },
+  {
+    "surface": "クロマグロ",
+    "reading": "kuromaguro",
+    "code": "cr-kata2-1545",
+    "index": 1545
+  },
+  {
+    "surface": "グランドジャンクション",
+    "reading": "grandjunction",
+    "code": "cr-kata2-1546",
+    "index": 1546
+  },
+  {
+    "surface": "コヤスガイ",
+    "reading": "koyasuguy",
+    "code": "cr-kata2-1547",
+    "index": 1547
+  },
+  {
+    "surface": "カネロニー",
+    "reading": "cannelloni",
+    "code": "cr-kata2-1548",
+    "index": 1548
+  },
+  {
+    "surface": "ゴムベラ",
+    "reading": "gombera",
+    "code": "cr-kata2-1549",
+    "index": 1549
+  },
+  {
+    "surface": "グスン",
+    "reading": "gusun",
+    "code": "cr-kata2-1550",
+    "index": 1550
+  },
+  {
+    "surface": "カーボンファイバー",
+    "reading": "carbonfiber",
+    "code": "cr-kata2-1551",
+    "index": 1551
+  },
+  {
+    "surface": "クロスカントリーレース",
+    "reading": "clothcountryreesu",
+    "code": "cr-kata2-1552",
+    "index": 1552
+  },
+  {
+    "surface": "ゴールドコースト",
+    "reading": "goorudokoosuto",
+    "code": "cr-kata2-1553",
+    "index": 1553
+  },
+  {
+    "surface": "ココナツ",
+    "reading": "coconut",
+    "code": "cr-kata2-1554",
+    "index": 1554
+  },
+  {
+    "surface": "クロマツ",
+    "reading": "kuromatsu",
+    "code": "cr-kata2-1555",
+    "index": 1555
+  },
+  {
+    "surface": "コンミッション",
+    "reading": "commission",
+    "code": "cr-kata2-1556",
+    "index": 1556
+  },
+  {
+    "surface": "ガンボージ",
+    "reading": "gamboge",
+    "code": "cr-kata2-1557",
+    "index": 1557
+  },
+  {
+    "surface": "カセレス",
+    "reading": "kaseresponse",
+    "code": "cr-kata2-1558",
+    "index": 1558
+  },
+  {
+    "surface": "カイザースラウテルン",
+    "reading": "kaizaasurauterun",
+    "code": "cr-kata2-1559",
+    "index": 1559
+  },
+  {
+    "surface": "コバルト",
+    "reading": "cobalt",
+    "code": "cr-kata2-1560",
+    "index": 1560
+  },
+  {
+    "surface": "コンピューターウイルス",
+    "reading": "computervirus",
+    "code": "cr-kata2-1561",
+    "index": 1561
+  },
+  {
+    "surface": "カップケーキ",
+    "reading": "cupcake",
+    "code": "cr-kata2-1562",
+    "index": 1562
+  },
+  {
+    "surface": "カーボンナノチューブ",
+    "reading": "carbonnanotube",
+    "code": "cr-kata2-1563",
+    "index": 1563
+  },
+  {
+    "surface": "ゴナドトロピン",
+    "reading": "gonadotropin",
+    "code": "cr-kata2-1564",
+    "index": 1564
+  },
+  {
+    "surface": "カマテロ",
+    "reading": "kamaterrorism",
+    "code": "cr-kata2-1565",
+    "index": 1565
+  },
+  {
+    "surface": "カオリャン",
+    "reading": "kaoryan",
+    "code": "cr-kata2-1566",
+    "index": 1566
+  },
+  {
+    "surface": "クラスヌイ・リマン",
+    "reading": "classnuiriman",
+    "code": "cr-kata2-1567",
+    "index": 1567
+  },
+  {
+    "surface": "ゴチ",
+    "reading": "gochi",
+    "code": "cr-kata2-1568",
+    "index": 1568
+  },
+  {
+    "surface": "コンセッショナリーチェーン",
+    "reading": "konsesshonariicheen",
+    "code": "cr-kata2-1569",
+    "index": 1569
+  },
+  {
+    "surface": "コンフェデレーション",
+    "reading": "confederation",
+    "code": "cr-kata2-1570",
+    "index": 1570
+  },
+  {
+    "surface": "カス",
+    "reading": "kasu",
+    "code": "cr-kata2-1571",
+    "index": 1571
+  },
+  {
+    "surface": "ギャラ",
+    "reading": "guarantee",
+    "code": "cr-kata2-1572",
+    "index": 1572
+  },
+  {
+    "surface": "カプラー",
+    "reading": "coupler",
+    "code": "cr-kata2-1573",
+    "index": 1573
+  },
+  {
+    "surface": "クリスマスケーキ",
+    "reading": "christmascake",
+    "code": "cr-kata2-1574",
+    "index": 1574
+  },
+  {
+    "surface": "コネクショニスト",
+    "reading": "konekushonisuto",
+    "code": "cr-kata2-1575",
+    "index": 1575
+  },
+  {
+    "surface": "コレクトオンデリバリー",
+    "reading": "correctondelivery",
+    "code": "cr-kata2-1576",
+    "index": 1576
+  },
+  {
+    "surface": "クランプ",
+    "reading": "clamp",
+    "code": "cr-kata2-1577",
+    "index": 1577
+  },
+  {
+    "surface": "カナスタ",
+    "reading": "kanasuta",
+    "code": "cr-kata2-1578",
+    "index": 1578
+  },
+  {
+    "surface": "ガサツ",
+    "reading": "gasatsu",
+    "code": "cr-kata2-1579",
+    "index": 1579
+  },
+  {
+    "surface": "コネクティビティー",
+    "reading": "konekutibitii",
+    "code": "cr-kata2-1580",
+    "index": 1580
+  },
+  {
+    "surface": "ガスパイプ",
+    "reading": "gaspipe",
+    "code": "cr-kata2-1581",
+    "index": 1581
+  },
+  {
+    "surface": "コボルド",
+    "reading": "koborudo",
+    "code": "cr-kata2-1582",
+    "index": 1582
+  },
+  {
+    "surface": "コパル",
+    "reading": "copal",
+    "code": "cr-kata2-1583",
+    "index": 1583
+  },
+  {
+    "surface": "クキチュウオウ",
+    "reading": "kukichuuou",
+    "code": "cr-kata2-1584",
+    "index": 1584
+  },
+  {
+    "surface": "ゴブリン",
+    "reading": "goblin",
+    "code": "cr-kata2-1585",
+    "index": 1585
+  },
+  {
+    "surface": "クックドソーセージ",
+    "reading": "kukkudosooseeji",
+    "code": "cr-kata2-1586",
+    "index": 1586
+  },
+  {
+    "surface": "カラーコーディネーター",
+    "reading": "colorcoordinator",
+    "code": "cr-kata2-1587",
+    "index": 1587
+  },
+  {
+    "surface": "コウヤノマンネングサ",
+    "reading": "kouyanomannengusa",
+    "code": "cr-kata2-1588",
+    "index": 1588
+  },
+  {
+    "surface": "グレート・フォールズ",
+    "reading": "greatfooruzu",
+    "code": "cr-kata2-1589",
+    "index": 1589
+  },
+  {
+    "surface": "コンパチビリティー",
+    "reading": "compatibility",
+    "code": "cr-kata2-1590",
+    "index": 1590
+  },
+  {
+    "surface": "カヌイスト",
+    "reading": "kanuisuto",
+    "code": "cr-kata2-1591",
+    "index": 1591
+  },
+  {
+    "surface": "グルリアスコ",
+    "reading": "gururiasuko",
+    "code": "cr-kata2-1592",
+    "index": 1592
+  },
+  {
+    "surface": "カントリーアンドウエスタン",
+    "reading": "countryandwestern",
+    "code": "cr-kata2-1593",
+    "index": 1593
+  },
+  {
+    "surface": "カレントトピックス",
+    "reading": "currenttopic",
+    "code": "cr-kata2-1594",
+    "index": 1594
+  },
+  {
+    "surface": "コリマ",
+    "reading": "kolima",
+    "code": "cr-kata2-1595",
+    "index": 1595
+  },
+  {
+    "surface": "コロキュアル",
+    "reading": "colloquial",
+    "code": "cr-kata2-1596",
+    "index": 1596
+  },
+  {
+    "surface": "クワーティー",
+    "reading": "kuwaatii",
+    "code": "cr-kata2-1597",
+    "index": 1597
+  },
+  {
+    "surface": "グラフィックアート",
+    "reading": "graphicart",
+    "code": "cr-kata2-1598",
+    "index": 1598
+  },
+  {
+    "surface": "ケラ",
+    "reading": "kera",
+    "code": "cr-kata2-1599",
+    "index": 1599
+  },
+  {
+    "surface": "キャラクター",
+    "reading": "character",
+    "code": "cr-kata2-1600",
+    "index": 1600
+  },
+  {
+    "surface": "ギャゼットバッグ",
+    "reading": "gyazettobaggu",
+    "code": "cr-kata2-1601",
+    "index": 1601
+  },
+  {
+    "surface": "カスタモヌ",
+    "reading": "kasutamonu",
+    "code": "cr-kata2-1602",
+    "index": 1602
+  },
+  {
+    "surface": "ゴッドファーザー",
+    "reading": "goddofaazaa",
+    "code": "cr-kata2-1603",
+    "index": 1603
+  },
+  {
+    "surface": "カヤホガフォールズ",
+    "reading": "kayahogafooruzu",
+    "code": "cr-kata2-1604",
+    "index": 1604
+  },
+  {
+    "surface": "クロロアセトフェノン",
+    "reading": "chloroacetophenone",
+    "code": "cr-kata2-1605",
+    "index": 1605
+  },
+  {
+    "surface": "グレーンウィスキー",
+    "reading": "grainwhisky",
+    "code": "cr-kata2-1606",
+    "index": 1606
+  },
+  {
+    "surface": "カヤ",
+    "reading": "kaya",
+    "code": "cr-kata2-1607",
+    "index": 1607
+  },
+  {
+    "surface": "キクイムシ",
+    "reading": "kikuimushi",
+    "code": "cr-kata2-1608",
+    "index": 1608
+  },
+  {
+    "surface": "ゴジュフ・ヴィエルコポルスキ",
+    "reading": "gojufuvierukoporusuki",
+    "code": "cr-kata2-1609",
+    "index": 1609
+  },
+  {
+    "surface": "コニーデ",
+    "reading": "konide",
+    "code": "cr-kata2-1610",
+    "index": 1610
+  },
+  {
+    "surface": "コンスティチューション",
+    "reading": "constitution",
+    "code": "cr-kata2-1611",
+    "index": 1611
+  },
+  {
+    "surface": "カワメンタイ",
+    "reading": "kawamentai",
+    "code": "cr-kata2-1612",
+    "index": 1612
+  },
+  {
+    "surface": "カタピラ",
+    "reading": "caterpillar",
+    "code": "cr-kata2-1613",
+    "index": 1613
+  },
+  {
+    "surface": "カラシン",
+    "reading": "karashin",
+    "code": "cr-kata2-1614",
+    "index": 1614
+  },
+  {
+    "surface": "グロバリゼーション",
+    "reading": "gurobarizeeshon",
+    "code": "cr-kata2-1615",
+    "index": 1615
+  },
+  {
+    "surface": "ゲゼルシャフト",
+    "reading": "gesellschaft",
+    "code": "cr-kata2-1616",
+    "index": 1616
+  },
+  {
+    "surface": "グアヤキル",
+    "reading": "guayakiru",
+    "code": "cr-kata2-1617",
+    "index": 1617
+  },
+  {
+    "surface": "コマーシャルペーパー",
+    "reading": "commercialpaper",
+    "code": "cr-kata2-1618",
+    "index": 1618
+  },
+  {
+    "surface": "カウ",
+    "reading": "cow",
+    "code": "cr-kata2-1619",
+    "index": 1619
+  },
+  {
+    "surface": "コンピュータウイルス",
+    "reading": "computervirus",
+    "code": "cr-kata2-1620",
+    "index": 1620
+  },
+  {
+    "surface": "カーボンデーティング",
+    "reading": "kaabondeetingu",
+    "code": "cr-kata2-1621",
+    "index": 1621
+  }
+]

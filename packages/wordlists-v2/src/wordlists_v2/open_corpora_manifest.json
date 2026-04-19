@@ -1,0 +1,29 @@
+{
+  "artifacts": [
+    {
+      "id": "wl2_tatoeba_jpn_sentences",
+      "description": "Tatoeba Japanese sentence export (TSV, one sentence per line)",
+      "license": "CC BY 2.0 FR — https://tatoeba.org/en/downloads",
+      "url": "https://downloads.tatoeba.org/exports/per_language/jpn/jpn_sentences.tsv.bz2",
+      "kind": "bz2_tsv",
+      "output_relpath": "tatoeba/jpn_sentences.tsv"
+    },
+    {
+      "id": "wl2_jmdict_eng_xml",
+      "description": "JMdict English-gloss subset (XML) from EDRDG FTP mirror",
+      "license": "EDRDG license — https://www.edrdg.org/edrdg/licence.html",
+      "url": "http://ftp.edrdg.org/pub/Nihongo/JMdict_e.gz",
+      "kind": "gzip_xml",
+      "output_relpath": "jmdict/JMdict_e.xml"
+    },
+    {
+      "id": "wl2_geonames_cities15000",
+      "description": "GeoNames cities15000 (tab); CC-BY 4.0 with attribution to GeoNames",
+      "license": "CC BY 4.0 — https://www.geonames.org/",
+      "url": "https://download.geonames.org/export/dump/cities15000.zip",
+      "kind": "zip_inner_txt",
+      "inner_path": "cities15000.txt",
+      "output_relpath": "geonames/cities15000.txt"
+    }
+  ]
+}

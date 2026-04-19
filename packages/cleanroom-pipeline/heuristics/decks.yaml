@@ -1,0 +1,52 @@
+# Heuristic deck gates — intent aligned with product notes (2026).
+# Lane taxonomy (29 `cr-*` meanings): `docs/cleanroom/lane-taxonomy-v1.md` and
+# `heuristics/lane_taxonomy_v1.yaml`.
+# Executable logic: `deck_filters.row_matches_deck` (full JSONL row). Legacy non-`cr-*`
+# slugs still use `deck_filters.surface_matches_deck` (surface-only Lane A proxies).
+# No Lane A word strings here.
+
+decks:
+  jou1:
+    intent: >
+      Hiragana-only whole words (no stems split by inflection in the official sense).
+      We only gate script + min length (no tokenizer → no 終止形 / POS check).
+    implementation: "Regex `^[ぁ-んー]+$` + len(s) >= 2"
+  jou2:
+    intent: >
+      ~2+ kanji compounds, mostly nouns; exclude 過ぎる・覚える-style kanji+hira verbs.
+      Proxy kanji-only surface (no hiragana letters), kc>=2, almost no katakana.
+    implementation: "kc >= 2, hiragana_syllabic_count == 0, katakana_ratio < 0.15"
+  jou3:
+    intent: >
+      Katakana loans + mimetic/gitaigo. Official may split jou3/jou4; we only have jou3.
+      Proxy no kanji on surface so kata* stays loan-dominant lines with optional kanji.
+    implementation: "kc == 0, katakana_ratio >= 0.88, len >= 2"
+  kan1:
+    intent: >
+      ~2+ kanji compounds, harder than jou2 lane; allow okurigana (食べ物) unlike jou2.
+      Exclude single-kanji+okurigana verboids (締める) via kc>=2 only.
+    implementation: "kc >= 2, not kata-dominant, not pure hiragana"
+  kan2:
+    intent: >
+      Official distinction from kan1 is fuzzy; we use length / kanji-density ladder vs kan1.
+    implementation: "kan1 rules AND (kc >= 3 OR len >= 5)"
+  kan3:
+    intent: >
+      Difficult / long compounds + some place-like strings (防波堤); fuzzy vs kan2.
+    implementation: "kan1 rules AND (kc >= 3 OR len >= 6)"
+  kata1:
+    intent: "Loanword kata bands (official アイウエオ split not modeled)."
+    implementation: "katakana_ratio >= 0.88"
+  kata2:
+    implementation: "katakana_ratio >= 0.90"
+  kata3:
+    intent: "Stricter kata; possible 固有名詞 skew — not detected without NER."
+    implementation: "katakana_ratio >= 0.92"
+  koto1:
+    intent: >
+      Same idiom-length class as koto2; official twelljr-koto1 vs koto2 is **lexicographic /
+      五十音順の帯分割** (not a harder/easier tier).
+    implementation: "Shared with koto2: len>=9 and (particle regex or len>=12)"
+  koto2:
+    intent: "Same structural gate as koto1; split between JSON files is editorial order only."
+    implementation: "Identical predicate to koto1 in surface_matches_deck"

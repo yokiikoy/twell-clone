@@ -1,0 +1,7514 @@
+[
+  {
+    "surface": "ノッチバック",
+    "reading": "notchback",
+    "code": "cr-kata5-0",
+    "index": 0
+  },
+  {
+    "surface": "ネコジャラシ",
+    "reading": "nekojarashi",
+    "code": "cr-kata5-1",
+    "index": 1
+  },
+  {
+    "surface": "ナーイアス",
+    "reading": "naaiasu",
+    "code": "cr-kata5-2",
+    "index": 2
+  },
+  {
+    "surface": "ネジョ",
+    "reading": "neji",
+    "code": "cr-kata5-3",
+    "index": 3
+  },
+  {
+    "surface": "ニオール",
+    "reading": "niooru",
+    "code": "cr-kata5-4",
+    "index": 4
+  },
+  {
+    "surface": "ネプチューン",
+    "reading": "neptune",
+    "code": "cr-kata5-5",
+    "index": 5
+  },
+  {
+    "surface": "ナルド",
+    "reading": "narudo",
+    "code": "cr-kata5-6",
+    "index": 6
+  },
+  {
+    "surface": "ニアー・ノース・サイド",
+    "reading": "nearnoosuside",
+    "code": "cr-kata5-7",
+    "index": 7
+  },
+  {
+    "surface": "ノルアドレナリン",
+    "reading": "noradrenalin",
+    "code": "cr-kata5-8",
+    "index": 8
+  },
+  {
+    "surface": "ノースカロライナ",
+    "reading": "northkaroraina",
+    "code": "cr-kata5-9",
+    "index": 9
+  },
+  {
+    "surface": "ノット",
+    "reading": "not",
+    "code": "cr-kata5-10",
+    "index": 10
+  },
+  {
+    "surface": "ナスターチウム",
+    "reading": "nasturtium",
+    "code": "cr-kata5-11",
+    "index": 11
+  },
+  {
+    "surface": "ノーヴィ・リーグレ",
+    "reading": "nooviriigure",
+    "code": "cr-kata5-12",
+    "index": 12
+  },
+  {
+    "surface": "ナイチンゲール",
+    "reading": "nightingale",
+    "code": "cr-kata5-13",
+    "index": 13
+  },
+  {
+    "surface": "ニセクロスジギンポ",
+    "reading": "nisekurosujiginpo",
+    "code": "cr-kata5-14",
+    "index": 14
+  },
+  {
+    "surface": "ナンカーナー・サーヒブ",
+    "reading": "nankaanaasaahibu",
+    "code": "cr-kata5-15",
+    "index": 15
+  },
+  {
+    "surface": "ネゴシエーション",
+    "reading": "negotiation",
+    "code": "cr-kata5-16",
+    "index": 16
+  },
+  {
+    "surface": "ネズミ",
+    "reading": "nezumi",
+    "code": "cr-kata5-17",
+    "index": 17
+  },
+  {
+    "surface": "ニャンザ",
+    "reading": "nyanthe",
+    "code": "cr-kata5-18",
+    "index": 18
+  },
+  {
+    "surface": "ネイビー",
+    "reading": "navy",
+    "code": "cr-kata5-19",
+    "index": 19
+  },
+  {
+    "surface": "ニクシッチ",
+    "reading": "nikushitchi",
+    "code": "cr-kata5-20",
+    "index": 20
+  },
+  {
+    "surface": "ニジギンザメ",
+    "reading": "nijiginzame",
+    "code": "cr-kata5-21",
+    "index": 21
+  },
+  {
+    "surface": "ナチュラル",
+    "reading": "natural",
+    "code": "cr-kata5-22",
+    "index": 22
+  },
+  {
+    "surface": "ナリーグ",
+    "reading": "naleague",
+    "code": "cr-kata5-23",
+    "index": 23
+  },
+  {
+    "surface": "ノンインパクトプリンタ",
+    "reading": "nonimpactprinter",
+    "code": "cr-kata5-24",
+    "index": 24
+  },
+  {
+    "surface": "ナクル",
+    "reading": "nakuru",
+    "code": "cr-kata5-25",
+    "index": 25
+  },
+  {
+    "surface": "ノーウォーク",
+    "reading": "nowalk",
+    "code": "cr-kata5-26",
+    "index": 26
+  },
+  {
+    "surface": "ネアポリ",
+    "reading": "neapori",
+    "code": "cr-kata5-27",
+    "index": 27
+  },
+  {
+    "surface": "ナノメーター",
+    "reading": "nanomeetaa",
+    "code": "cr-kata5-28",
+    "index": 28
+  },
+  {
+    "surface": "ネイヴィーブルー",
+    "reading": "navyblue",
+    "code": "cr-kata5-29",
+    "index": 29
+  },
+  {
+    "surface": "ニーム",
+    "reading": "nimes",
+    "code": "cr-kata5-30",
+    "index": 30
+  },
+  {
+    "surface": "ナタネナ",
+    "reading": "natanena",
+    "code": "cr-kata5-31",
+    "index": 31
+  },
+  {
+    "surface": "ナンバー",
+    "reading": "number",
+    "code": "cr-kata5-32",
+    "index": 32
+  },
+  {
+    "surface": "ノーメンクラツーラ",
+    "reading": "nomenklatura",
+    "code": "cr-kata5-33",
+    "index": 33
+  },
+  {
+    "surface": "ヌマムツ",
+    "reading": "numamutsu",
+    "code": "cr-kata5-34",
+    "index": 34
+  },
+  {
+    "surface": "ニルヴァーナ",
+    "reading": "nirvana",
+    "code": "cr-kata5-35",
+    "index": 35
+  },
+  {
+    "surface": "ノボリリュウ",
+    "reading": "noboriryuu",
+    "code": "cr-kata5-36",
+    "index": 36
+  },
+  {
+    "surface": "ネッド",
+    "reading": "neddo",
+    "code": "cr-kata5-37",
+    "index": 37
+  },
+  {
+    "surface": "ニーモニック",
+    "reading": "niimonikku",
+    "code": "cr-kata5-38",
+    "index": 38
+  },
+  {
+    "surface": "ニチニチソウ",
+    "reading": "nichinichisou",
+    "code": "cr-kata5-39",
+    "index": 39
+  },
+  {
+    "surface": "ニホンザル",
+    "reading": "nihonzaru",
+    "code": "cr-kata5-40",
+    "index": 40
+  },
+  {
+    "surface": "ナヨタケ",
+    "reading": "nayotake",
+    "code": "cr-kata5-41",
+    "index": 41
+  },
+  {
+    "surface": "ナコーンナーヨック",
+    "reading": "nakoonnaayokku",
+    "code": "cr-kata5-42",
+    "index": 42
+  },
+  {
+    "surface": "ナノテクノロジー",
+    "reading": "nanotechnology",
+    "code": "cr-kata5-43",
+    "index": 43
+  },
+  {
+    "surface": "ネーピア",
+    "reading": "neepeer",
+    "code": "cr-kata5-44",
+    "index": 44
+  },
+  {
+    "surface": "ニンニク",
+    "reading": "ninniku",
+    "code": "cr-kata5-45",
+    "index": 45
+  },
+  {
+    "surface": "ノキシノブ",
+    "reading": "nokishinobu",
+    "code": "cr-kata5-46",
+    "index": 46
+  },
+  {
+    "surface": "ナイトキャップ",
+    "reading": "nightcap",
+    "code": "cr-kata5-47",
+    "index": 47
+  },
+  {
+    "surface": "ナイアシン",
+    "reading": "niacin",
+    "code": "cr-kata5-48",
+    "index": 48
+  },
+  {
+    "surface": "ナーグプル",
+    "reading": "nagpur",
+    "code": "cr-kata5-49",
+    "index": 49
+  },
+  {
+    "surface": "ネーブル",
+    "reading": "navel",
+    "code": "cr-kata5-50",
+    "index": 50
+  },
+  {
+    "surface": "ナンバーリング",
+    "reading": "numberring",
+    "code": "cr-kata5-51",
+    "index": 51
+  },
+  {
+    "surface": "ナノメートル",
+    "reading": "nanomeetoru",
+    "code": "cr-kata5-52",
+    "index": 52
+  },
+  {
+    "surface": "ヌートリア",
+    "reading": "nutria",
+    "code": "cr-kata5-53",
+    "index": 53
+  },
+  {
+    "surface": "ノーペーパーソサエティー",
+    "reading": "nopapersociety",
+    "code": "cr-kata5-54",
+    "index": 54
+  },
+  {
+    "surface": "ネア・マクリ",
+    "reading": "neamakuri",
+    "code": "cr-kata5-55",
+    "index": 55
+  },
+  {
+    "surface": "ノリッチ",
+    "reading": "norich",
+    "code": "cr-kata5-56",
+    "index": 56
+  },
+  {
+    "surface": "ネズミモチ",
+    "reading": "nezumimochi",
+    "code": "cr-kata5-57",
+    "index": 57
+  },
+  {
+    "surface": "ニギス",
+    "reading": "nigisu",
+    "code": "cr-kata5-58",
+    "index": 58
+  },
+  {
+    "surface": "ニュウナイスズメ",
+    "reading": "nyuunaisuzume",
+    "code": "cr-kata5-59",
+    "index": 59
+  },
+  {
+    "surface": "ナガシメベニハゼ",
+    "reading": "nagashimebenihaze",
+    "code": "cr-kata5-60",
+    "index": 60
+  },
+  {
+    "surface": "ナース",
+    "reading": "nurse",
+    "code": "cr-kata5-61",
+    "index": 61
+  },
+  {
+    "surface": "ナン",
+    "reading": "nan",
+    "code": "cr-kata5-62",
+    "index": 62
+  },
+  {
+    "surface": "ニーパンツ",
+    "reading": "kneepants",
+    "code": "cr-kata5-63",
+    "index": 63
+  },
+  {
+    "surface": "ニュートン",
+    "reading": "newton",
+    "code": "cr-kata5-64",
+    "index": 64
+  },
+  {
+    "surface": "ナプス",
+    "reading": "napusu",
+    "code": "cr-kata5-65",
+    "index": 65
+  },
+  {
+    "surface": "ノーマル",
+    "reading": "normal",
+    "code": "cr-kata5-66",
+    "index": 66
+  },
+  {
+    "surface": "ニュートラルゾーン",
+    "reading": "neutralzone",
+    "code": "cr-kata5-67",
+    "index": 67
+  },
+  {
+    "surface": "ナラガンセット",
+    "reading": "narragansett",
+    "code": "cr-kata5-68",
+    "index": 68
+  },
+  {
+    "surface": "ノゲシ",
+    "reading": "nogeshi",
+    "code": "cr-kata5-69",
+    "index": 69
+  },
+  {
+    "surface": "ノンインタレース",
+    "reading": "nonintareesu",
+    "code": "cr-kata5-70",
+    "index": 70
+  },
+  {
+    "surface": "ナルシシスト",
+    "reading": "narcissist",
+    "code": "cr-kata5-71",
+    "index": 71
+  },
+  {
+    "surface": "ニューススタンド",
+    "reading": "newsstand",
+    "code": "cr-kata5-72",
+    "index": 72
+  },
+  {
+    "surface": "ナイアド",
+    "reading": "naiaddress",
+    "code": "cr-kata5-73",
+    "index": 73
+  },
+  {
+    "surface": "ニューファミリー",
+    "reading": "newfamily",
+    "code": "cr-kata5-74",
+    "index": 74
+  },
+  {
+    "surface": "ノースマイアミビーチ",
+    "reading": "northmyamibeach",
+    "code": "cr-kata5-75",
+    "index": 75
+  },
+  {
+    "surface": "ネットワークコンピュータ",
+    "reading": "networkcomputer",
+    "code": "cr-kata5-76",
+    "index": 76
+  },
+  {
+    "surface": "ノース・カントン",
+    "reading": "noosukanton",
+    "code": "cr-kata5-77",
+    "index": 77
+  },
+  {
+    "surface": "ナガサキトラザメ",
+    "reading": "nagasakitorazame",
+    "code": "cr-kata5-78",
+    "index": 78
+  },
+  {
+    "surface": "ニイガタシ",
+    "reading": "niigatashi",
+    "code": "cr-kata5-79",
+    "index": 79
+  },
+  {
+    "surface": "ノーマーク",
+    "reading": "nomark",
+    "code": "cr-kata5-80",
+    "index": 80
+  },
+  {
+    "surface": "ナイトクラブ",
+    "reading": "nightclub",
+    "code": "cr-kata5-81",
+    "index": 81
+  },
+  {
+    "surface": "ニューメキシコ",
+    "reading": "nyuumekishiko",
+    "code": "cr-kata5-82",
+    "index": 82
+  },
+  {
+    "surface": "ニューマーケット",
+    "reading": "newmarket",
+    "code": "cr-kata5-83",
+    "index": 83
+  },
+  {
+    "surface": "ニトロ",
+    "reading": "nitro",
+    "code": "cr-kata5-84",
+    "index": 84
+  },
+  {
+    "surface": "ナイアガラフォールズ",
+    "reading": "niagarafall",
+    "code": "cr-kata5-85",
+    "index": 85
+  },
+  {
+    "surface": "ニボン・テバル",
+    "reading": "nibontebaru",
+    "code": "cr-kata5-86",
+    "index": 86
+  },
+  {
+    "surface": "ノンタイトル",
+    "reading": "nontitle",
+    "code": "cr-kata5-87",
+    "index": 87
+  },
+  {
+    "surface": "ナローゲージ",
+    "reading": "naroogauge",
+    "code": "cr-kata5-88",
+    "index": 88
+  },
+  {
+    "surface": "ヌルポインター",
+    "reading": "nullpointer",
+    "code": "cr-kata5-89",
+    "index": 89
+  },
+  {
+    "surface": "ネオマーカンティリズム",
+    "reading": "neomercantilism",
+    "code": "cr-kata5-90",
+    "index": 90
+  },
+  {
+    "surface": "ノッティング・ヒル",
+    "reading": "knottinghill",
+    "code": "cr-kata5-91",
+    "index": 91
+  },
+  {
+    "surface": "ニーサポーター",
+    "reading": "kneesupporter",
+    "code": "cr-kata5-92",
+    "index": 92
+  },
+  {
+    "surface": "ニシキベラ",
+    "reading": "nishikibera",
+    "code": "cr-kata5-93",
+    "index": 93
+  },
+  {
+    "surface": "ネグリロ",
+    "reading": "neguriro",
+    "code": "cr-kata5-94",
+    "index": 94
+  },
+  {
+    "surface": "ネイケルク",
+    "reading": "neikeruku",
+    "code": "cr-kata5-95",
+    "index": 95
+  },
+  {
+    "surface": "ナシュプロ",
+    "reading": "nashupuro",
+    "code": "cr-kata5-96",
+    "index": 96
+  },
+  {
+    "surface": "ナセル",
+    "reading": "nasir",
+    "code": "cr-kata5-97",
+    "index": 97
+  },
+  {
+    "surface": "ナルート",
+    "reading": "naroute",
+    "code": "cr-kata5-98",
+    "index": 98
+  },
+  {
+    "surface": "ニューサウスウェールズ",
+    "reading": "nyuusausueeruzu",
+    "code": "cr-kata5-99",
+    "index": 99
+  },
+  {
+    "surface": "ナショナルミニマム",
+    "reading": "nationalminimum",
+    "code": "cr-kata5-100",
+    "index": 100
+  },
+  {
+    "surface": "ニッケイ",
+    "reading": "nikkei",
+    "code": "cr-kata5-101",
+    "index": 101
+  },
+  {
+    "surface": "ナルシズム",
+    "reading": "narcissism",
+    "code": "cr-kata5-102",
+    "index": 102
+  },
+  {
+    "surface": "ノマ",
+    "reading": "noma",
+    "code": "cr-kata5-103",
+    "index": 103
+  },
+  {
+    "surface": "ナバティエ・エット・タハタ",
+    "reading": "nabatieettotahata",
+    "code": "cr-kata5-104",
+    "index": 104
+  },
+  {
+    "surface": "ニキビ",
+    "reading": "nikibi",
+    "code": "cr-kata5-105",
+    "index": 105
+  },
+  {
+    "surface": "ネチケット",
+    "reading": "nechiketto",
+    "code": "cr-kata5-106",
+    "index": 106
+  },
+  {
+    "surface": "ネコクサ",
+    "reading": "nekokusa",
+    "code": "cr-kata5-107",
+    "index": 107
+  },
+  {
+    "surface": "ニューロコンピュータ",
+    "reading": "neurocomputer",
+    "code": "cr-kata5-108",
+    "index": 108
+  },
+  {
+    "surface": "ニューセラミックス",
+    "reading": "newceramics",
+    "code": "cr-kata5-109",
+    "index": 109
+  },
+  {
+    "surface": "ネックポイント",
+    "reading": "neckpoint",
+    "code": "cr-kata5-110",
+    "index": 110
+  },
+  {
+    "surface": "ネオマイシン",
+    "reading": "neostreptomycin",
+    "code": "cr-kata5-111",
+    "index": 111
+  },
+  {
+    "surface": "ネタニヤ",
+    "reading": "netaniya",
+    "code": "cr-kata5-112",
+    "index": 112
+  },
+  {
+    "surface": "ネオロジズム",
+    "reading": "neorojizumu",
+    "code": "cr-kata5-113",
+    "index": 113
+  },
+  {
+    "surface": "ヌード",
+    "reading": "nude",
+    "code": "cr-kata5-114",
+    "index": 114
+  },
+  {
+    "surface": "ニュース",
+    "reading": "news",
+    "code": "cr-kata5-115",
+    "index": 115
+  },
+  {
+    "surface": "ニワゼキショウ",
+    "reading": "niwazekishou",
+    "code": "cr-kata5-116",
+    "index": 116
+  },
+  {
+    "surface": "ヌーディスト",
+    "reading": "nudist",
+    "code": "cr-kata5-117",
+    "index": 117
+  },
+  {
+    "surface": "ニック",
+    "reading": "nick",
+    "code": "cr-kata5-118",
+    "index": 118
+  },
+  {
+    "surface": "ノロ",
+    "reading": "noro",
+    "code": "cr-kata5-119",
+    "index": 119
+  },
+  {
+    "surface": "ニューウェーヴ",
+    "reading": "newwave",
+    "code": "cr-kata5-120",
+    "index": 120
+  },
+  {
+    "surface": "ヌワラ・エリヤ",
+    "reading": "nuwaraeriya",
+    "code": "cr-kata5-121",
+    "index": 121
+  },
+  {
+    "surface": "ノウゼンカズラ",
+    "reading": "nouzenkazura",
+    "code": "cr-kata5-122",
+    "index": 122
+  },
+  {
+    "surface": "ノヴォ・アンブルゴ",
+    "reading": "novoanburugo",
+    "code": "cr-kata5-123",
+    "index": 123
+  },
+  {
+    "surface": "ニガー",
+    "reading": "nigger",
+    "code": "cr-kata5-124",
+    "index": 124
+  },
+  {
+    "surface": "ニー",
+    "reading": "knee",
+    "code": "cr-kata5-125",
+    "index": 125
+  },
+  {
+    "surface": "ノリツッコミ",
+    "reading": "noritsukkomi",
+    "code": "cr-kata5-126",
+    "index": 126
+  },
+  {
+    "surface": "ノラネコ",
+    "reading": "noraneko",
+    "code": "cr-kata5-127",
+    "index": 127
+  },
+  {
+    "surface": "ナーシリーヤ",
+    "reading": "naashiriiya",
+    "code": "cr-kata5-128",
+    "index": 128
+  },
+  {
+    "surface": "ニガウリ",
+    "reading": "nigauri",
+    "code": "cr-kata5-129",
+    "index": 129
+  },
+  {
+    "surface": "ネゲントロピー",
+    "reading": "negentoropii",
+    "code": "cr-kata5-130",
+    "index": 130
+  },
+  {
+    "surface": "ニューズ",
+    "reading": "news",
+    "code": "cr-kata5-131",
+    "index": 131
+  },
+  {
+    "surface": "ナアアソンビュー",
+    "reading": "naaasonbyuu",
+    "code": "cr-kata5-132",
+    "index": 132
+  },
+  {
+    "surface": "ナポリ",
+    "reading": "napoli",
+    "code": "cr-kata5-133",
+    "index": 133
+  },
+  {
+    "surface": "ノンキャリア",
+    "reading": "noncareer",
+    "code": "cr-kata5-134",
+    "index": 134
+  },
+  {
+    "surface": "ナガコガネグモ",
+    "reading": "nagakoganegumo",
+    "code": "cr-kata5-135",
+    "index": 135
+  },
+  {
+    "surface": "ノンキ",
+    "reading": "nonki",
+    "code": "cr-kata5-136",
+    "index": 136
+  },
+  {
+    "surface": "ナスビ",
+    "reading": "nasubi",
+    "code": "cr-kata5-137",
+    "index": 137
+  },
+  {
+    "surface": "ノーマルヒル",
+    "reading": "normalhill",
+    "code": "cr-kata5-138",
+    "index": 138
+  },
+  {
+    "surface": "ナツハゼ",
+    "reading": "natsuhaze",
+    "code": "cr-kata5-139",
+    "index": 139
+  },
+  {
+    "surface": "ネーデルラント",
+    "reading": "nederlanden",
+    "code": "cr-kata5-140",
+    "index": 140
+  },
+  {
+    "surface": "ノーヒットノーラン",
+    "reading": "nohitnorun",
+    "code": "cr-kata5-141",
+    "index": 141
+  },
+  {
+    "surface": "ナバホー",
+    "reading": "nabahoo",
+    "code": "cr-kata5-142",
+    "index": 142
+  },
+  {
+    "surface": "ネイブル",
+    "reading": "neibull",
+    "code": "cr-kata5-143",
+    "index": 143
+  },
+  {
+    "surface": "ナーリング",
+    "reading": "naaringu",
+    "code": "cr-kata5-144",
+    "index": 144
+  },
+  {
+    "surface": "ナハリン",
+    "reading": "naharin",
+    "code": "cr-kata5-145",
+    "index": 145
+  },
+  {
+    "surface": "ノヴェライゼーション",
+    "reading": "noveraizeeshon",
+    "code": "cr-kata5-146",
+    "index": 146
+  },
+  {
+    "surface": "ネグロイド",
+    "reading": "negroid",
+    "code": "cr-kata5-147",
+    "index": 147
+  },
+  {
+    "surface": "ニズワ",
+    "reading": "nizuwa",
+    "code": "cr-kata5-148",
+    "index": 148
+  },
+  {
+    "surface": "ニュースソース",
+    "reading": "newssauce",
+    "code": "cr-kata5-149",
+    "index": 149
+  },
+  {
+    "surface": "ナナク",
+    "reading": "nanak",
+    "code": "cr-kata5-150",
+    "index": 150
+  },
+  {
+    "surface": "ヌクレオチド",
+    "reading": "nucleotide",
+    "code": "cr-kata5-151",
+    "index": 151
+  },
+  {
+    "surface": "ナーガンド",
+    "reading": "naagando",
+    "code": "cr-kata5-152",
+    "index": 152
+  },
+  {
+    "surface": "ネオテーム",
+    "reading": "neoteemu",
+    "code": "cr-kata5-153",
+    "index": 153
+  },
+  {
+    "surface": "ニホンヤモリザメ",
+    "reading": "nihonyamorizame",
+    "code": "cr-kata5-154",
+    "index": 154
+  },
+  {
+    "surface": "ナイトテーブル",
+    "reading": "nighttable",
+    "code": "cr-kata5-155",
+    "index": 155
+  },
+  {
+    "surface": "ネコノミ",
+    "reading": "nekonomi",
+    "code": "cr-kata5-156",
+    "index": 156
+  },
+  {
+    "surface": "ネオロマンティシズム",
+    "reading": "neoromanticism",
+    "code": "cr-kata5-157",
+    "index": 157
+  },
+  {
+    "surface": "ノーウエイト",
+    "reading": "noweight",
+    "code": "cr-kata5-158",
+    "index": 158
+  },
+  {
+    "surface": "ニュケーピング",
+    "reading": "nyukeepingu",
+    "code": "cr-kata5-159",
+    "index": 159
+  },
+  {
+    "surface": "ナレッジ",
+    "reading": "knowledge",
+    "code": "cr-kata5-160",
+    "index": 160
+  },
+  {
+    "surface": "ナルチシズム",
+    "reading": "naruchishizumu",
+    "code": "cr-kata5-161",
+    "index": 161
+  },
+  {
+    "surface": "ナショナルゲーム",
+    "reading": "nationalgame",
+    "code": "cr-kata5-162",
+    "index": 162
+  },
+  {
+    "surface": "ノーラ",
+    "reading": "noora",
+    "code": "cr-kata5-163",
+    "index": 163
+  },
+  {
+    "surface": "ノバイ",
+    "reading": "noby",
+    "code": "cr-kata5-164",
+    "index": 164
+  },
+  {
+    "surface": "ナガノ",
+    "reading": "nagano",
+    "code": "cr-kata5-165",
+    "index": 165
+  },
+  {
+    "surface": "ノビレチン",
+    "reading": "nobileyotchin",
+    "code": "cr-kata5-166",
+    "index": 166
+  },
+  {
+    "surface": "ナショナリズム",
+    "reading": "nationalism",
+    "code": "cr-kata5-167",
+    "index": 167
+  },
+  {
+    "surface": "ニョロニョロ",
+    "reading": "nyoronyoro",
+    "code": "cr-kata5-168",
+    "index": 168
+  },
+  {
+    "surface": "ナニ",
+    "reading": "nani",
+    "code": "cr-kata5-169",
+    "index": 169
+  },
+  {
+    "surface": "ナイティー",
+    "reading": "nightie",
+    "code": "cr-kata5-170",
+    "index": 170
+  },
+  {
+    "surface": "ネットゲーム",
+    "reading": "netgame",
+    "code": "cr-kata5-171",
+    "index": 171
+  },
+  {
+    "surface": "ニッパー",
+    "reading": "nipper",
+    "code": "cr-kata5-172",
+    "index": 172
+  },
+  {
+    "surface": "ナブール",
+    "reading": "naboole",
+    "code": "cr-kata5-173",
+    "index": 173
+  },
+  {
+    "surface": "ヌードル",
+    "reading": "noodle",
+    "code": "cr-kata5-174",
+    "index": 174
+  },
+  {
+    "surface": "ニッカーボッカー",
+    "reading": "knickerbocker",
+    "code": "cr-kata5-175",
+    "index": 175
+  },
+  {
+    "surface": "ノバスコシア",
+    "reading": "novascotia",
+    "code": "cr-kata5-176",
+    "index": 176
+  },
+  {
+    "surface": "ノネナール",
+    "reading": "nonenaaru",
+    "code": "cr-kata5-177",
+    "index": 177
+  },
+  {
+    "surface": "ノウサギ",
+    "reading": "nousagi",
+    "code": "cr-kata5-178",
+    "index": 178
+  },
+  {
+    "surface": "ヌクレオソーム",
+    "reading": "nucleosome",
+    "code": "cr-kata5-179",
+    "index": 179
+  },
+  {
+    "surface": "ニュージャーナリズム",
+    "reading": "newjournalism",
+    "code": "cr-kata5-180",
+    "index": 180
+  },
+  {
+    "surface": "ノイウルム",
+    "reading": "noiurumu",
+    "code": "cr-kata5-181",
+    "index": 181
+  },
+  {
+    "surface": "ネバーマインド",
+    "reading": "nevermind",
+    "code": "cr-kata5-182",
+    "index": 182
+  },
+  {
+    "surface": "ノーカウント",
+    "reading": "nocount",
+    "code": "cr-kata5-183",
+    "index": 183
+  },
+  {
+    "surface": "ヌッコ",
+    "reading": "nukko",
+    "code": "cr-kata5-184",
+    "index": 184
+  },
+  {
+    "surface": "ノヴァーテ・ミラネーゼ",
+    "reading": "novatemilanese",
+    "code": "cr-kata5-185",
+    "index": 185
+  },
+  {
+    "surface": "ナフチヴァン",
+    "reading": "nafuchivan",
+    "code": "cr-kata5-186",
+    "index": 186
+  },
+  {
+    "surface": "ナショナルアド",
+    "reading": "nationaladdress",
+    "code": "cr-kata5-187",
+    "index": 187
+  },
+  {
+    "surface": "ナマハゲ",
+    "reading": "namahage",
+    "code": "cr-kata5-188",
+    "index": 188
+  },
+  {
+    "surface": "ナチュラルフーズ",
+    "reading": "naturalfood",
+    "code": "cr-kata5-189",
+    "index": 189
+  },
+  {
+    "surface": "ノバラ",
+    "reading": "nobara",
+    "code": "cr-kata5-190",
+    "index": 190
+  },
+  {
+    "surface": "ノヴォモスコーウシク",
+    "reading": "novomosukooushiku",
+    "code": "cr-kata5-191",
+    "index": 191
+  },
+  {
+    "surface": "ニューロ",
+    "reading": "neuro",
+    "code": "cr-kata5-192",
+    "index": 192
+  },
+  {
+    "surface": "ナチュラルトーン",
+    "reading": "naturaltone",
+    "code": "cr-kata5-193",
+    "index": 193
+  },
+  {
+    "surface": "ネズ",
+    "reading": "nezu",
+    "code": "cr-kata5-194",
+    "index": 194
+  },
+  {
+    "surface": "ノア",
+    "reading": "noa",
+    "code": "cr-kata5-195",
+    "index": 195
+  },
+  {
+    "surface": "ノッブ",
+    "reading": "knob",
+    "code": "cr-kata5-196",
+    "index": 196
+  },
+  {
+    "surface": "ネムノキ",
+    "reading": "nemunoki",
+    "code": "cr-kata5-197",
+    "index": 197
+  },
+  {
+    "surface": "ナーサリー",
+    "reading": "nursery",
+    "code": "cr-kata5-198",
+    "index": 198
+  },
+  {
+    "surface": "ノータム",
+    "reading": "nootamu",
+    "code": "cr-kata5-199",
+    "index": 199
+  },
+  {
+    "surface": "ニアミス",
+    "reading": "nearmistake",
+    "code": "cr-kata5-200",
+    "index": 200
+  },
+  {
+    "surface": "ナルコレプシー",
+    "reading": "narcolepsy",
+    "code": "cr-kata5-201",
+    "index": 201
+  },
+  {
+    "surface": "ニャラ",
+    "reading": "nyara",
+    "code": "cr-kata5-202",
+    "index": 202
+  },
+  {
+    "surface": "ネタ",
+    "reading": "neta",
+    "code": "cr-kata5-203",
+    "index": 203
+  },
+  {
+    "surface": "ノビ",
+    "reading": "nobi",
+    "code": "cr-kata5-204",
+    "index": 204
+  },
+  {
+    "surface": "ナンディ",
+    "reading": "nandi",
+    "code": "cr-kata5-205",
+    "index": 205
+  },
+  {
+    "surface": "ニュー・モールデン",
+    "reading": "newmallden",
+    "code": "cr-kata5-206",
+    "index": 206
+  },
+  {
+    "surface": "ナップザック",
+    "reading": "knapsack",
+    "code": "cr-kata5-207",
+    "index": 207
+  },
+  {
+    "surface": "ノスタルジック",
+    "reading": "nostalgic",
+    "code": "cr-kata5-208",
+    "index": 208
+  },
+  {
+    "surface": "ノーワークノーペイ",
+    "reading": "noowaakunoopei",
+    "code": "cr-kata5-209",
+    "index": 209
+  },
+  {
+    "surface": "ノバト",
+    "reading": "nobato",
+    "code": "cr-kata5-210",
+    "index": 210
+  },
+  {
+    "surface": "ノミナル",
+    "reading": "nominal",
+    "code": "cr-kata5-211",
+    "index": 211
+  },
+  {
+    "surface": "ナプキン",
+    "reading": "napkin",
+    "code": "cr-kata5-212",
+    "index": 212
+  },
+  {
+    "surface": "ナグア",
+    "reading": "nagua",
+    "code": "cr-kata5-213",
+    "index": 213
+  },
+  {
+    "surface": "ニュー・ヘイヴン",
+    "reading": "newhaven",
+    "code": "cr-kata5-214",
+    "index": 214
+  },
+  {
+    "surface": "ナワルガー",
+    "reading": "nahualuger",
+    "code": "cr-kata5-215",
+    "index": 215
+  },
+  {
+    "surface": "ノンポリ",
+    "reading": "nonpolitical",
+    "code": "cr-kata5-216",
+    "index": 216
+  },
+  {
+    "surface": "ノースベイ",
+    "reading": "northbay",
+    "code": "cr-kata5-217",
+    "index": 217
+  },
+  {
+    "surface": "ネゲート",
+    "reading": "negate",
+    "code": "cr-kata5-218",
+    "index": 218
+  },
+  {
+    "surface": "ネイル",
+    "reading": "nail",
+    "code": "cr-kata5-219",
+    "index": 219
+  },
+  {
+    "surface": "ヌルポ",
+    "reading": "nureportage",
+    "code": "cr-kata5-220",
+    "index": 220
+  },
+  {
+    "surface": "ニューロシェル",
+    "reading": "neuroshell",
+    "code": "cr-kata5-221",
+    "index": 221
+  },
+  {
+    "surface": "ノーマン",
+    "reading": "norman",
+    "code": "cr-kata5-222",
+    "index": 222
+  },
+  {
+    "surface": "ノリリスク",
+    "reading": "norilsk",
+    "code": "cr-kata5-223",
+    "index": 223
+  },
+  {
+    "surface": "ノード",
+    "reading": "node",
+    "code": "cr-kata5-224",
+    "index": 224
+  },
+  {
+    "surface": "ナンフ",
+    "reading": "nanfu",
+    "code": "cr-kata5-225",
+    "index": 225
+  },
+  {
+    "surface": "ナリマス",
+    "reading": "narimasu",
+    "code": "cr-kata5-226",
+    "index": 226
+  },
+  {
+    "surface": "ネーチャー",
+    "reading": "nature",
+    "code": "cr-kata5-227",
+    "index": 227
+  },
+  {
+    "surface": "ノコギリザメ",
+    "reading": "nokogirizame",
+    "code": "cr-kata5-228",
+    "index": 228
+  },
+  {
+    "surface": "ニュースタイル",
+    "reading": "newstyle",
+    "code": "cr-kata5-229",
+    "index": 229
+  },
+  {
+    "surface": "ナプルプス",
+    "reading": "napurupusu",
+    "code": "cr-kata5-230",
+    "index": 230
+  },
+  {
+    "surface": "ナンシー",
+    "reading": "nancy",
+    "code": "cr-kata5-231",
+    "index": 231
+  },
+  {
+    "surface": "ニイハオ",
+    "reading": "niihao",
+    "code": "cr-kata5-232",
+    "index": 232
+  },
+  {
+    "surface": "ニューミュージック",
+    "reading": "newmusic",
+    "code": "cr-kata5-233",
+    "index": 233
+  },
+  {
+    "surface": "ニュース・バリュー",
+    "reading": "newsvalue",
+    "code": "cr-kata5-234",
+    "index": 234
+  },
+  {
+    "surface": "ニシレモンザメ",
+    "reading": "nishiremonzame",
+    "code": "cr-kata5-235",
+    "index": 235
+  },
+  {
+    "surface": "ノースリーヴ",
+    "reading": "nosleeve",
+    "code": "cr-kata5-236",
+    "index": 236
+  },
+  {
+    "surface": "ニャムトゥーグー",
+    "reading": "nyamutuuguu",
+    "code": "cr-kata5-237",
+    "index": 237
+  },
+  {
+    "surface": "ノーアウト",
+    "reading": "noout",
+    "code": "cr-kata5-238",
+    "index": 238
+  },
+  {
+    "surface": "ネブライザー",
+    "reading": "nebulizer",
+    "code": "cr-kata5-239",
+    "index": 239
+  },
+  {
+    "surface": "ノンブック",
+    "reading": "nonbook",
+    "code": "cr-kata5-240",
+    "index": 240
+  },
+  {
+    "surface": "ナツメッグ",
+    "reading": "nutmeg",
+    "code": "cr-kata5-241",
+    "index": 241
+  },
+  {
+    "surface": "ネクタイピン",
+    "reading": "necktiepin",
+    "code": "cr-kata5-242",
+    "index": 242
+  },
+  {
+    "surface": "ニンビー",
+    "reading": "ninbii",
+    "code": "cr-kata5-243",
+    "index": 243
+  },
+  {
+    "surface": "ナガイモ",
+    "reading": "nagaimo",
+    "code": "cr-kata5-244",
+    "index": 244
+  },
+  {
+    "surface": "ナツズイセン",
+    "reading": "natsuzuisen",
+    "code": "cr-kata5-245",
+    "index": 245
+  },
+  {
+    "surface": "ナフトール",
+    "reading": "naphthol",
+    "code": "cr-kata5-246",
+    "index": 246
+  },
+  {
+    "surface": "ノミ",
+    "reading": "nomi",
+    "code": "cr-kata5-247",
+    "index": 247
+  },
+  {
+    "surface": "ヌクレオシド",
+    "reading": "nucleoside",
+    "code": "cr-kata5-248",
+    "index": 248
+  },
+  {
+    "surface": "ノクトビジョン",
+    "reading": "nokutobijon",
+    "code": "cr-kata5-249",
+    "index": 249
+  },
+  {
+    "surface": "ネオインプレッショニズム",
+    "reading": "neoimpressionism",
+    "code": "cr-kata5-250",
+    "index": 250
+  },
+  {
+    "surface": "ノロウイルス",
+    "reading": "norovirus",
+    "code": "cr-kata5-251",
+    "index": 251
+  },
+  {
+    "surface": "ニュージランド",
+    "reading": "nyuujirando",
+    "code": "cr-kata5-252",
+    "index": 252
+  },
+  {
+    "surface": "ニコチンガム",
+    "reading": "nicotinegum",
+    "code": "cr-kata5-253",
+    "index": 253
+  },
+  {
+    "surface": "ヌーク",
+    "reading": "nuuku",
+    "code": "cr-kata5-254",
+    "index": 254
+  },
+  {
+    "surface": "ニゴンボ",
+    "reading": "nigonbo",
+    "code": "cr-kata5-255",
+    "index": 255
+  },
+  {
+    "surface": "ネームプレート",
+    "reading": "nameplate",
+    "code": "cr-kata5-256",
+    "index": 256
+  },
+  {
+    "surface": "ニカイア",
+    "reading": "nicaea",
+    "code": "cr-kata5-257",
+    "index": 257
+  },
+  {
+    "surface": "ナンキン",
+    "reading": "nankin",
+    "code": "cr-kata5-258",
+    "index": 258
+  },
+  {
+    "surface": "ヌルラト",
+    "reading": "nullrato",
+    "code": "cr-kata5-259",
+    "index": 259
+  },
+  {
+    "surface": "ノーマライズ",
+    "reading": "normalize",
+    "code": "cr-kata5-260",
+    "index": 260
+  },
+  {
+    "surface": "ネルトリンゲン",
+    "reading": "nerutoringen",
+    "code": "cr-kata5-261",
+    "index": 261
+  },
+  {
+    "surface": "ニヴヒ",
+    "reading": "nivuhi",
+    "code": "cr-kata5-262",
+    "index": 262
+  },
+  {
+    "surface": "ニューモード",
+    "reading": "newmode",
+    "code": "cr-kata5-263",
+    "index": 263
+  },
+  {
+    "surface": "ネオコン",
+    "reading": "neokon",
+    "code": "cr-kata5-264",
+    "index": 264
+  },
+  {
+    "surface": "ネックレス",
+    "reading": "necklace",
+    "code": "cr-kata5-265",
+    "index": 265
+  },
+  {
+    "surface": "ナガニシ",
+    "reading": "naganishi",
+    "code": "cr-kata5-266",
+    "index": 266
+  },
+  {
+    "surface": "ノーム",
+    "reading": "gnome",
+    "code": "cr-kata5-267",
+    "index": 267
+  },
+  {
+    "surface": "ナユタケ",
+    "reading": "nayutake",
+    "code": "cr-kata5-268",
+    "index": 268
+  },
+  {
+    "surface": "ナフテン",
+    "reading": "naphthene",
+    "code": "cr-kata5-269",
+    "index": 269
+  },
+  {
+    "surface": "ネグレクト",
+    "reading": "neglect",
+    "code": "cr-kata5-270",
+    "index": 270
+  },
+  {
+    "surface": "ニジマス",
+    "reading": "nijimasu",
+    "code": "cr-kata5-271",
+    "index": 271
+  },
+  {
+    "surface": "ノイズリダクション",
+    "reading": "noisereduction",
+    "code": "cr-kata5-272",
+    "index": 272
+  },
+  {
+    "surface": "ネバギバ",
+    "reading": "nevagiba",
+    "code": "cr-kata5-273",
+    "index": 273
+  },
+  {
+    "surface": "ナッツメッグ",
+    "reading": "nutmeg",
+    "code": "cr-kata5-274",
+    "index": 274
+  },
+  {
+    "surface": "ニッカーズ",
+    "reading": "knickers",
+    "code": "cr-kata5-275",
+    "index": 275
+  },
+  {
+    "surface": "ナフキン",
+    "reading": "napkin",
+    "code": "cr-kata5-276",
+    "index": 276
+  },
+  {
+    "surface": "ヌバック",
+    "reading": "nubakku",
+    "code": "cr-kata5-277",
+    "index": 277
+  },
+  {
+    "surface": "ニュー・ファミリー",
+    "reading": "newfamily",
+    "code": "cr-kata5-278",
+    "index": 278
+  },
+  {
+    "surface": "ヌガウンデレ",
+    "reading": "nugaundere",
+    "code": "cr-kata5-279",
+    "index": 279
+  },
+  {
+    "surface": "ナポレオン",
+    "reading": "napoleon",
+    "code": "cr-kata5-280",
+    "index": 280
+  },
+  {
+    "surface": "ネットスコア",
+    "reading": "netscore",
+    "code": "cr-kata5-281",
+    "index": 281
+  },
+  {
+    "surface": "ニューロコンピューター",
+    "reading": "neurocomputer",
+    "code": "cr-kata5-282",
+    "index": 282
+  },
+  {
+    "surface": "ニッティング",
+    "reading": "nittingu",
+    "code": "cr-kata5-283",
+    "index": 283
+  },
+  {
+    "surface": "ネポティズム",
+    "reading": "nepotism",
+    "code": "cr-kata5-284",
+    "index": 284
+  },
+  {
+    "surface": "ノイジネス",
+    "reading": "noijinesu",
+    "code": "cr-kata5-285",
+    "index": 285
+  },
+  {
+    "surface": "ニタリ",
+    "reading": "nitari",
+    "code": "cr-kata5-286",
+    "index": 286
+  },
+  {
+    "surface": "ナーバス",
+    "reading": "nervous",
+    "code": "cr-kata5-287",
+    "index": 287
+  },
+  {
+    "surface": "ニコラスビル",
+    "reading": "nicholasbuilding",
+    "code": "cr-kata5-288",
+    "index": 288
+  },
+  {
+    "surface": "ナギイカダ",
+    "reading": "nagyikada",
+    "code": "cr-kata5-289",
+    "index": 289
+  },
+  {
+    "surface": "ヌエボ・ラレド",
+    "reading": "nuevolaredo",
+    "code": "cr-kata5-290",
+    "index": 290
+  },
+  {
+    "surface": "ヌイグルミ",
+    "reading": "nuigurumi",
+    "code": "cr-kata5-291",
+    "index": 291
+  },
+  {
+    "surface": "ナーサリ",
+    "reading": "naasari",
+    "code": "cr-kata5-292",
+    "index": 292
+  },
+  {
+    "surface": "ニガナ",
+    "reading": "nigonna",
+    "code": "cr-kata5-293",
+    "index": 293
+  },
+  {
+    "surface": "ノドジロオオトカゲ",
+    "reading": "nodojiroootokage",
+    "code": "cr-kata5-294",
+    "index": 294
+  },
+  {
+    "surface": "ネット",
+    "reading": "net",
+    "code": "cr-kata5-295",
+    "index": 295
+  },
+  {
+    "surface": "ネーブルオレンジ",
+    "reading": "navelorange",
+    "code": "cr-kata5-296",
+    "index": 296
+  },
+  {
+    "surface": "ネーティブスピーカー",
+    "reading": "neetibuspeaker",
+    "code": "cr-kata5-297",
+    "index": 297
+  },
+  {
+    "surface": "ノヴァーラ",
+    "reading": "novara",
+    "code": "cr-kata5-298",
+    "index": 298
+  },
+  {
+    "surface": "ノルディックスキー",
+    "reading": "norudikkuski",
+    "code": "cr-kata5-299",
+    "index": 299
+  },
+  {
+    "surface": "ニューホープ",
+    "reading": "newhope",
+    "code": "cr-kata5-300",
+    "index": 300
+  },
+  {
+    "surface": "ナガスクジラ",
+    "reading": "nagasukujira",
+    "code": "cr-kata5-301",
+    "index": 301
+  },
+  {
+    "surface": "ネギトロ",
+    "reading": "negitoro",
+    "code": "cr-kata5-302",
+    "index": 302
+  },
+  {
+    "surface": "ニッパ",
+    "reading": "nipah",
+    "code": "cr-kata5-303",
+    "index": 303
+  },
+  {
+    "surface": "ニャフルル",
+    "reading": "nyahururu",
+    "code": "cr-kata5-304",
+    "index": 304
+  },
+  {
+    "surface": "ノロカジメ",
+    "reading": "norokajime",
+    "code": "cr-kata5-305",
+    "index": 305
+  },
+  {
+    "surface": "ニシン",
+    "reading": "nishin",
+    "code": "cr-kata5-306",
+    "index": 306
+  },
+  {
+    "surface": "ナイアード",
+    "reading": "naiaado",
+    "code": "cr-kata5-307",
+    "index": 307
+  },
+  {
+    "surface": "ノヴァ・イグアス",
+    "reading": "novaiguasu",
+    "code": "cr-kata5-308",
+    "index": 308
+  },
+  {
+    "surface": "ニューカッスル",
+    "reading": "newcastle",
+    "code": "cr-kata5-309",
+    "index": 309
+  },
+  {
+    "surface": "ニューフェース",
+    "reading": "newface",
+    "code": "cr-kata5-310",
+    "index": 310
+  },
+  {
+    "surface": "ナチュラリスティック",
+    "reading": "nachurarisutikku",
+    "code": "cr-kata5-311",
+    "index": 311
+  },
+  {
+    "surface": "ノースリトルロック",
+    "reading": "northlittlerokku",
+    "code": "cr-kata5-312",
+    "index": 312
+  },
+  {
+    "surface": "ニブフ",
+    "reading": "nibeef",
+    "code": "cr-kata5-313",
+    "index": 313
+  },
+  {
+    "surface": "ニュース・ソース",
+    "reading": "newssauce",
+    "code": "cr-kata5-314",
+    "index": 314
+  },
+  {
+    "surface": "ナヌカザメ",
+    "reading": "nanukazame",
+    "code": "cr-kata5-315",
+    "index": 315
+  },
+  {
+    "surface": "ノロウィルス",
+    "reading": "norovirus",
+    "code": "cr-kata5-316",
+    "index": 316
+  },
+  {
+    "surface": "ナッツ",
+    "reading": "nuts",
+    "code": "cr-kata5-317",
+    "index": 317
+  },
+  {
+    "surface": "ノンアイロン",
+    "reading": "noniron",
+    "code": "cr-kata5-318",
+    "index": 318
+  },
+  {
+    "surface": "ナガール",
+    "reading": "nagirl",
+    "code": "cr-kata5-319",
+    "index": 319
+  },
+  {
+    "surface": "ナノ",
+    "reading": "nano",
+    "code": "cr-kata5-320",
+    "index": 320
+  },
+  {
+    "surface": "ネチネチ",
+    "reading": "nechinechi",
+    "code": "cr-kata5-321",
+    "index": 321
+  },
+  {
+    "surface": "ナルコユリ",
+    "reading": "narukoyuri",
+    "code": "cr-kata5-322",
+    "index": 322
+  },
+  {
+    "surface": "ナード",
+    "reading": "nerd",
+    "code": "cr-kata5-323",
+    "index": 323
+  },
+  {
+    "surface": "ニューズウィーク",
+    "reading": "newsweek",
+    "code": "cr-kata5-324",
+    "index": 324
+  },
+  {
+    "surface": "ナビゲーション",
+    "reading": "navigation",
+    "code": "cr-kata5-325",
+    "index": 325
+  },
+  {
+    "surface": "ナウムブルク",
+    "reading": "naumuburg",
+    "code": "cr-kata5-326",
+    "index": 326
+  },
+  {
+    "surface": "ネオン",
+    "reading": "neon",
+    "code": "cr-kata5-327",
+    "index": 327
+  },
+  {
+    "surface": "ノースダコタ",
+    "reading": "northdakota",
+    "code": "cr-kata5-328",
+    "index": 328
+  },
+  {
+    "surface": "ニシブッポウソウ",
+    "reading": "nishibuppousou",
+    "code": "cr-kata5-329",
+    "index": 329
+  },
+  {
+    "surface": "ノイズレス",
+    "reading": "noiseresponse",
+    "code": "cr-kata5-330",
+    "index": 330
+  },
+  {
+    "surface": "ヌアディブ",
+    "reading": "nuadibu",
+    "code": "cr-kata5-331",
+    "index": 331
+  },
+  {
+    "surface": "ナイティンゲール",
+    "reading": "nightingale",
+    "code": "cr-kata5-332",
+    "index": 332
+  },
+  {
+    "surface": "ナムカム",
+    "reading": "numbercome",
+    "code": "cr-kata5-333",
+    "index": 333
+  },
+  {
+    "surface": "ネティシン",
+    "reading": "netishin",
+    "code": "cr-kata5-334",
+    "index": 334
+  },
+  {
+    "surface": "ニレ",
+    "reading": "nire",
+    "code": "cr-kata5-335",
+    "index": 335
+  },
+  {
+    "surface": "ノーネクタイ",
+    "reading": "nonecktie",
+    "code": "cr-kata5-336",
+    "index": 336
+  },
+  {
+    "surface": "ニッデラウ",
+    "reading": "nidderau",
+    "code": "cr-kata5-337",
+    "index": 337
+  },
+  {
+    "surface": "ニトロベンゼン",
+    "reading": "nitrobenzene",
+    "code": "cr-kata5-338",
+    "index": 338
+  },
+  {
+    "surface": "ナマコ",
+    "reading": "namako",
+    "code": "cr-kata5-339",
+    "index": 339
+  },
+  {
+    "surface": "ノライズム",
+    "reading": "noraism",
+    "code": "cr-kata5-340",
+    "index": 340
+  },
+  {
+    "surface": "ナチュラルチーズ",
+    "reading": "naturalcheese",
+    "code": "cr-kata5-341",
+    "index": 341
+  },
+  {
+    "surface": "ニューロパチー",
+    "reading": "neuropathy",
+    "code": "cr-kata5-342",
+    "index": 342
+  },
+  {
+    "surface": "ナンセンス",
+    "reading": "nonsense",
+    "code": "cr-kata5-343",
+    "index": 343
+  },
+  {
+    "surface": "ナーイ",
+    "reading": "naai",
+    "code": "cr-kata5-344",
+    "index": 344
+  },
+  {
+    "surface": "ネオダダ",
+    "reading": "neodada",
+    "code": "cr-kata5-345",
+    "index": 345
+  },
+  {
+    "surface": "ネアンデルタール",
+    "reading": "neanderthal",
+    "code": "cr-kata5-346",
+    "index": 346
+  },
+  {
+    "surface": "ネッカチーフ",
+    "reading": "neckerchief",
+    "code": "cr-kata5-347",
+    "index": 347
+  },
+  {
+    "surface": "ノンフィクション",
+    "reading": "nonfiction",
+    "code": "cr-kata5-348",
+    "index": 348
+  },
+  {
+    "surface": "ナガサキシ",
+    "reading": "nagasakishi",
+    "code": "cr-kata5-349",
+    "index": 349
+  },
+  {
+    "surface": "ナガコンブ",
+    "reading": "nagakonbu",
+    "code": "cr-kata5-350",
+    "index": 350
+  },
+  {
+    "surface": "ニュー・リン",
+    "reading": "newrin",
+    "code": "cr-kata5-351",
+    "index": 351
+  },
+  {
+    "surface": "ナイスガイ",
+    "reading": "niceguy",
+    "code": "cr-kata5-352",
+    "index": 352
+  },
+  {
+    "surface": "ヌーヴェル",
+    "reading": "nouvelle",
+    "code": "cr-kata5-353",
+    "index": 353
+  },
+  {
+    "surface": "ネコギギ",
+    "reading": "nekogigi",
+    "code": "cr-kata5-354",
+    "index": 354
+  },
+  {
+    "surface": "ナナイモ",
+    "reading": "nanaimo",
+    "code": "cr-kata5-355",
+    "index": 355
+  },
+  {
+    "surface": "ニヤニヤ",
+    "reading": "niyaniya",
+    "code": "cr-kata5-356",
+    "index": 356
+  },
+  {
+    "surface": "ニュービー",
+    "reading": "newbii",
+    "code": "cr-kata5-357",
+    "index": 357
+  },
+  {
+    "surface": "ナマケグマ",
+    "reading": "namakeguma",
+    "code": "cr-kata5-358",
+    "index": 358
+  },
+  {
+    "surface": "ニューテヘリー",
+    "reading": "nyuuteherii",
+    "code": "cr-kata5-359",
+    "index": 359
+  },
+  {
+    "surface": "ニシバル",
+    "reading": "nishibaru",
+    "code": "cr-kata5-360",
+    "index": 360
+  },
+  {
+    "surface": "ネオフィリア",
+    "reading": "neofiria",
+    "code": "cr-kata5-361",
+    "index": 361
+  },
+  {
+    "surface": "ノートパッド",
+    "reading": "notepad",
+    "code": "cr-kata5-362",
+    "index": 362
+  },
+  {
+    "surface": "ネカフェ",
+    "reading": "necafe",
+    "code": "cr-kata5-363",
+    "index": 363
+  },
+  {
+    "surface": "ニューウエーブ",
+    "reading": "newwave",
+    "code": "cr-kata5-364",
+    "index": 364
+  },
+  {
+    "surface": "ノワイヨン",
+    "reading": "nowaiyon",
+    "code": "cr-kata5-365",
+    "index": 365
+  },
+  {
+    "surface": "ナタガマ",
+    "reading": "natagama",
+    "code": "cr-kata5-366",
+    "index": 366
+  },
+  {
+    "surface": "ナオン",
+    "reading": "naon",
+    "code": "cr-kata5-367",
+    "index": 367
+  },
+  {
+    "surface": "ナス",
+    "reading": "nasu",
+    "code": "cr-kata5-368",
+    "index": 368
+  },
+  {
+    "surface": "ニブヒ",
+    "reading": "nivkhi",
+    "code": "cr-kata5-369",
+    "index": 369
+  },
+  {
+    "surface": "ノミュニケーション",
+    "reading": "nomyunikeeshon",
+    "code": "cr-kata5-370",
+    "index": 370
+  },
+  {
+    "surface": "ネクローシス",
+    "reading": "necrosis",
+    "code": "cr-kata5-371",
+    "index": 371
+  },
+  {
+    "surface": "ニヒリスト",
+    "reading": "nihilist",
+    "code": "cr-kata5-372",
+    "index": 372
+  },
+  {
+    "surface": "ニワヤナギ",
+    "reading": "niwayanagi",
+    "code": "cr-kata5-373",
+    "index": 373
+  },
+  {
+    "surface": "ノルエピネフリン",
+    "reading": "norepinephrine",
+    "code": "cr-kata5-374",
+    "index": 374
+  },
+  {
+    "surface": "ニューウェーブ",
+    "reading": "newwave",
+    "code": "cr-kata5-375",
+    "index": 375
+  },
+  {
+    "surface": "ナイルグリーン",
+    "reading": "nilegreen",
+    "code": "cr-kata5-376",
+    "index": 376
+  },
+  {
+    "surface": "ノーキャリア",
+    "reading": "nocareer",
+    "code": "cr-kata5-377",
+    "index": 377
+  },
+  {
+    "surface": "ネーティヴ",
+    "reading": "neetivu",
+    "code": "cr-kata5-378",
+    "index": 378
+  },
+  {
+    "surface": "ニッカーボッカーズ",
+    "reading": "knickerbocker",
+    "code": "cr-kata5-379",
+    "index": 379
+  },
+  {
+    "surface": "ネコヤナギ",
+    "reading": "nekoyanagi",
+    "code": "cr-kata5-380",
+    "index": 380
+  },
+  {
+    "surface": "ネジ",
+    "reading": "neji",
+    "code": "cr-kata5-381",
+    "index": 381
+  },
+  {
+    "surface": "ノックスビル",
+    "reading": "nokkusubuilding",
+    "code": "cr-kata5-382",
+    "index": 382
+  },
+  {
+    "surface": "ニンギョウベニハゼ",
+    "reading": "ningyoubenihaze",
+    "code": "cr-kata5-383",
+    "index": 383
+  },
+  {
+    "surface": "ナトー",
+    "reading": "natoo",
+    "code": "cr-kata5-384",
+    "index": 384
+  },
+  {
+    "surface": "ナガヘラザメ",
+    "reading": "nagaherazame",
+    "code": "cr-kata5-385",
+    "index": 385
+  },
+  {
+    "surface": "ニュースキャスター",
+    "reading": "newscaster",
+    "code": "cr-kata5-386",
+    "index": 386
+  },
+  {
+    "surface": "ノロンハラス",
+    "reading": "noronharasu",
+    "code": "cr-kata5-387",
+    "index": 387
+  },
+  {
+    "surface": "ニーコポリ",
+    "reading": "niikopori",
+    "code": "cr-kata5-388",
+    "index": 388
+  },
+  {
+    "surface": "ヌアクショット",
+    "reading": "nouakchott",
+    "code": "cr-kata5-389",
+    "index": 389
+  },
+  {
+    "surface": "ネーティヴスピーカー",
+    "reading": "neetivusupiikaa",
+    "code": "cr-kata5-390",
+    "index": 390
+  },
+  {
+    "surface": "ノーパン",
+    "reading": "noopan",
+    "code": "cr-kata5-391",
+    "index": 391
+  },
+  {
+    "surface": "ニライカナイ",
+    "reading": "niraikanai",
+    "code": "cr-kata5-392",
+    "index": 392
+  },
+  {
+    "surface": "ニカラグァ",
+    "reading": "nicaragua",
+    "code": "cr-kata5-393",
+    "index": 393
+  },
+  {
+    "surface": "ノーカン",
+    "reading": "nokhan",
+    "code": "cr-kata5-394",
+    "index": 394
+  },
+  {
+    "surface": "ノー",
+    "reading": "no",
+    "code": "cr-kata5-395",
+    "index": 395
+  },
+  {
+    "surface": "ナンプラー",
+    "reading": "namplaa",
+    "code": "cr-kata5-396",
+    "index": 396
+  },
+  {
+    "surface": "ニャチャン",
+    "reading": "nyachan",
+    "code": "cr-kata5-397",
+    "index": 397
+  },
+  {
+    "surface": "ニシャプー",
+    "reading": "nishapuu",
+    "code": "cr-kata5-398",
+    "index": 398
+  },
+  {
+    "surface": "ナリッシュ",
+    "reading": "nourish",
+    "code": "cr-kata5-399",
+    "index": 399
+  },
+  {
+    "surface": "ネオトリゴニア",
+    "reading": "neotrigonia",
+    "code": "cr-kata5-400",
+    "index": 400
+  },
+  {
+    "surface": "ニュースレター",
+    "reading": "nyuusuretaa",
+    "code": "cr-kata5-401",
+    "index": 401
+  },
+  {
+    "surface": "ナムル",
+    "reading": "namuru",
+    "code": "cr-kata5-402",
+    "index": 402
+  },
+  {
+    "surface": "ナコーンパトム",
+    "reading": "nakoonpatomu",
+    "code": "cr-kata5-403",
+    "index": 403
+  },
+  {
+    "surface": "ナムロック",
+    "reading": "numberrokku",
+    "code": "cr-kata5-404",
+    "index": 404
+  },
+  {
+    "surface": "ノグチゲラ",
+    "reading": "noguchigalley",
+    "code": "cr-kata5-405",
+    "index": 405
+  },
+  {
+    "surface": "ノーザンプトン",
+    "reading": "northampton",
+    "code": "cr-kata5-406",
+    "index": 406
+  },
+  {
+    "surface": "ネオラマルキズム",
+    "reading": "neolamarckism",
+    "code": "cr-kata5-407",
+    "index": 407
+  },
+  {
+    "surface": "ノータイム",
+    "reading": "notime",
+    "code": "cr-kata5-408",
+    "index": 408
+  },
+  {
+    "surface": "ニュー・ブライトン",
+    "reading": "newburaiton",
+    "code": "cr-kata5-409",
+    "index": 409
+  },
+  {
+    "surface": "ノブ",
+    "reading": "knob",
+    "code": "cr-kata5-410",
+    "index": 410
+  },
+  {
+    "surface": "ノックス",
+    "reading": "nokkusu",
+    "code": "cr-kata5-411",
+    "index": 411
+  },
+  {
+    "surface": "ナックル",
+    "reading": "nakkuru",
+    "code": "cr-kata5-412",
+    "index": 412
+  },
+  {
+    "surface": "ナンパ",
+    "reading": "nanpa",
+    "code": "cr-kata5-413",
+    "index": 413
+  },
+  {
+    "surface": "ナタル",
+    "reading": "natal",
+    "code": "cr-kata5-414",
+    "index": 414
+  },
+  {
+    "surface": "ニュープリマス",
+    "reading": "newplymouth",
+    "code": "cr-kata5-415",
+    "index": 415
+  },
+  {
+    "surface": "ナチュラリスト",
+    "reading": "naturalist",
+    "code": "cr-kata5-416",
+    "index": 416
+  },
+  {
+    "surface": "ナラインガー",
+    "reading": "naraingaa",
+    "code": "cr-kata5-417",
+    "index": 417
+  },
+  {
+    "surface": "ヌオロ",
+    "reading": "nuoro",
+    "code": "cr-kata5-418",
+    "index": 418
+  },
+  {
+    "surface": "ノイローゼ",
+    "reading": "neurose",
+    "code": "cr-kata5-419",
+    "index": 419
+  },
+  {
+    "surface": "ニョッキ",
+    "reading": "gnocchi",
+    "code": "cr-kata5-420",
+    "index": 420
+  },
+  {
+    "surface": "ナースステーション",
+    "reading": "nursestation",
+    "code": "cr-kata5-421",
+    "index": 421
+  },
+  {
+    "surface": "ナロードニキ",
+    "reading": "narodniki",
+    "code": "cr-kata5-422",
+    "index": 422
+  },
+  {
+    "surface": "ネイバ",
+    "reading": "neiba",
+    "code": "cr-kata5-423",
+    "index": 423
+  },
+  {
+    "surface": "ニュー・ロンドン",
+    "reading": "newlondon",
+    "code": "cr-kata5-424",
+    "index": 424
+  },
+  {
+    "surface": "ナイター",
+    "reading": "nighter",
+    "code": "cr-kata5-425",
+    "index": 425
+  },
+  {
+    "surface": "ノヴァ・スコシア",
+    "reading": "novascotia",
+    "code": "cr-kata5-426",
+    "index": 426
+  },
+  {
+    "surface": "ネトゲ",
+    "reading": "netoge",
+    "code": "cr-kata5-427",
+    "index": 427
+  },
+  {
+    "surface": "ナチュラルカラー",
+    "reading": "naturalcolor",
+    "code": "cr-kata5-428",
+    "index": 428
+  },
+  {
+    "surface": "ニューキー",
+    "reading": "newkey",
+    "code": "cr-kata5-429",
+    "index": 429
+  },
+  {
+    "surface": "ノカンゾウ",
+    "reading": "nokanzou",
+    "code": "cr-kata5-430",
+    "index": 430
+  },
+  {
+    "surface": "ニコシア",
+    "reading": "nicosia",
+    "code": "cr-kata5-431",
+    "index": 431
+  },
+  {
+    "surface": "ネーミング",
+    "reading": "naming",
+    "code": "cr-kata5-432",
+    "index": 432
+  },
+  {
+    "surface": "ノー・ダウン",
+    "reading": "nodown",
+    "code": "cr-kata5-433",
+    "index": 433
+  },
+  {
+    "surface": "ノンインターレース",
+    "reading": "noninterlace",
+    "code": "cr-kata5-434",
+    "index": 434
+  },
+  {
+    "surface": "ニハーヴァンド",
+    "reading": "nihaavando",
+    "code": "cr-kata5-435",
+    "index": 435
+  },
+  {
+    "surface": "ニシオオノスリ",
+    "reading": "nishioonosuri",
+    "code": "cr-kata5-436",
+    "index": 436
+  },
+  {
+    "surface": "ナマンガン",
+    "reading": "namangan",
+    "code": "cr-kata5-437",
+    "index": 437
+  },
+  {
+    "surface": "ナンド",
+    "reading": "nando",
+    "code": "cr-kata5-438",
+    "index": 438
+  },
+  {
+    "surface": "ネコババ",
+    "reading": "nekobaba",
+    "code": "cr-kata5-439",
+    "index": 439
+  },
+  {
+    "surface": "ノーブラ",
+    "reading": "nobrassiere",
+    "code": "cr-kata5-440",
+    "index": 440
+  },
+  {
+    "surface": "ヌークレア",
+    "reading": "gnuclair",
+    "code": "cr-kata5-441",
+    "index": 441
+  },
+  {
+    "surface": "ノーサイド",
+    "reading": "noside",
+    "code": "cr-kata5-442",
+    "index": 442
+  },
+  {
+    "surface": "ノンラン",
+    "reading": "nonrun",
+    "code": "cr-kata5-443",
+    "index": 443
+  },
+  {
+    "surface": "ネズコ",
+    "reading": "nezuko",
+    "code": "cr-kata5-444",
+    "index": 444
+  },
+  {
+    "surface": "ナイスショット",
+    "reading": "niceshot",
+    "code": "cr-kata5-445",
+    "index": 445
+  },
+  {
+    "surface": "ネプチューニャム",
+    "reading": "nepuchuunyamu",
+    "code": "cr-kata5-446",
+    "index": 446
+  },
+  {
+    "surface": "ノースプロビデンス",
+    "reading": "northprovidence",
+    "code": "cr-kata5-447",
+    "index": 447
+  },
+  {
+    "surface": "ニシ",
+    "reading": "nishi",
+    "code": "cr-kata5-448",
+    "index": 448
+  },
+  {
+    "surface": "ナショナリスト",
+    "reading": "nationalist",
+    "code": "cr-kata5-449",
+    "index": 449
+  },
+  {
+    "surface": "ネール",
+    "reading": "nail",
+    "code": "cr-kata5-450",
+    "index": 450
+  },
+  {
+    "surface": "ヌー",
+    "reading": "gnu",
+    "code": "cr-kata5-451",
+    "index": 451
+  },
+  {
+    "surface": "ニューサンス",
+    "reading": "nuisance",
+    "code": "cr-kata5-452",
+    "index": 452
+  },
+  {
+    "surface": "ナイトメア",
+    "reading": "nightmare",
+    "code": "cr-kata5-453",
+    "index": 453
+  },
+  {
+    "surface": "ノーコン",
+    "reading": "nocontrol",
+    "code": "cr-kata5-454",
+    "index": 454
+  },
+  {
+    "surface": "ニッカ",
+    "reading": "nikka",
+    "code": "cr-kata5-455",
+    "index": 455
+  },
+  {
+    "surface": "ノーベンバー",
+    "reading": "noobenbaa",
+    "code": "cr-kata5-456",
+    "index": 456
+  },
+  {
+    "surface": "ノース",
+    "reading": "noosu",
+    "code": "cr-kata5-457",
+    "index": 457
+  },
+  {
+    "surface": "ニガヨモギ",
+    "reading": "nigayomogi",
+    "code": "cr-kata5-458",
+    "index": 458
+  },
+  {
+    "surface": "ナルシスト",
+    "reading": "narcissist",
+    "code": "cr-kata5-459",
+    "index": 459
+  },
+  {
+    "surface": "ナナハン",
+    "reading": "nanahan",
+    "code": "cr-kata5-460",
+    "index": 460
+  },
+  {
+    "surface": "ヌコ",
+    "reading": "nuko",
+    "code": "cr-kata5-461",
+    "index": 461
+  },
+  {
+    "surface": "ナニュエット",
+    "reading": "nanyuetto",
+    "code": "cr-kata5-462",
+    "index": 462
+  },
+  {
+    "surface": "ナンバーエイト",
+    "reading": "numbereight",
+    "code": "cr-kata5-463",
+    "index": 463
+  },
+  {
+    "surface": "ネービー",
+    "reading": "navy",
+    "code": "cr-kata5-464",
+    "index": 464
+  },
+  {
+    "surface": "ノーヴァ・ミラネーゼ",
+    "reading": "novamilanese",
+    "code": "cr-kata5-465",
+    "index": 465
+  },
+  {
+    "surface": "ニジネカムスク",
+    "reading": "nijinekamusuku",
+    "code": "cr-kata5-466",
+    "index": 466
+  },
+  {
+    "surface": "ニューバーグ",
+    "reading": "newburgh",
+    "code": "cr-kata5-467",
+    "index": 467
+  },
+  {
+    "surface": "ネックライン",
+    "reading": "neckline",
+    "code": "cr-kata5-468",
+    "index": 468
+  },
+  {
+    "surface": "ニコチン",
+    "reading": "nicotine",
+    "code": "cr-kata5-469",
+    "index": 469
+  },
+  {
+    "surface": "ナイフリッジ",
+    "reading": "kniferidge",
+    "code": "cr-kata5-470",
+    "index": 470
+  },
+  {
+    "surface": "ナベカ",
+    "reading": "nabeka",
+    "code": "cr-kata5-471",
+    "index": 471
+  },
+  {
+    "surface": "ノウゼンハレン",
+    "reading": "nouzenharen",
+    "code": "cr-kata5-472",
+    "index": 472
+  },
+  {
+    "surface": "ノミニケーション",
+    "reading": "nominikeeshon",
+    "code": "cr-kata5-473",
+    "index": 473
+  },
+  {
+    "surface": "ニコイチ",
+    "reading": "nikoichi",
+    "code": "cr-kata5-474",
+    "index": 474
+  },
+  {
+    "surface": "ナスダック",
+    "reading": "nasudakku",
+    "code": "cr-kata5-475",
+    "index": 475
+  },
+  {
+    "surface": "ネフローゼ",
+    "reading": "nephrose",
+    "code": "cr-kata5-476",
+    "index": 476
+  },
+  {
+    "surface": "ナイラッチ",
+    "reading": "nailatch",
+    "code": "cr-kata5-477",
+    "index": 477
+  },
+  {
+    "surface": "ニュースリーダー",
+    "reading": "newsreader",
+    "code": "cr-kata5-478",
+    "index": 478
+  },
+  {
+    "surface": "ニードロップ",
+    "reading": "kneedrop",
+    "code": "cr-kata5-479",
+    "index": 479
+  },
+  {
+    "surface": "ニシイワツバメ",
+    "reading": "nishiiwatsubame",
+    "code": "cr-kata5-480",
+    "index": 480
+  },
+  {
+    "surface": "ネジクギ",
+    "reading": "nejikugi",
+    "code": "cr-kata5-481",
+    "index": 481
+  },
+  {
+    "surface": "ネリドヴォ",
+    "reading": "neridovo",
+    "code": "cr-kata5-482",
+    "index": 482
+  },
+  {
+    "surface": "ニセカンランハギ",
+    "reading": "nisekanranhagi",
+    "code": "cr-kata5-483",
+    "index": 483
+  },
+  {
+    "surface": "ネプツニウム",
+    "reading": "neptunium",
+    "code": "cr-kata5-484",
+    "index": 484
+  },
+  {
+    "surface": "ナルキッソス",
+    "reading": "narkissos",
+    "code": "cr-kata5-485",
+    "index": 485
+  },
+  {
+    "surface": "ネヴィンノムイスク",
+    "reading": "nevinnomuisuku",
+    "code": "cr-kata5-486",
+    "index": 486
+  },
+  {
+    "surface": "ナイス",
+    "reading": "naisu",
+    "code": "cr-kata5-487",
+    "index": 487
+  },
+  {
+    "surface": "ナツメ",
+    "reading": "natsume",
+    "code": "cr-kata5-488",
+    "index": 488
+  },
+  {
+    "surface": "ナデシコ",
+    "reading": "nadeshiko",
+    "code": "cr-kata5-489",
+    "index": 489
+  },
+  {
+    "surface": "ノールックパス",
+    "reading": "nolookpass",
+    "code": "cr-kata5-490",
+    "index": 490
+  },
+  {
+    "surface": "ネオテニー",
+    "reading": "neoteny",
+    "code": "cr-kata5-491",
+    "index": 491
+  },
+  {
+    "surface": "ニザダイ",
+    "reading": "nizadai",
+    "code": "cr-kata5-492",
+    "index": 492
+  },
+  {
+    "surface": "ニワトコ",
+    "reading": "niwatoko",
+    "code": "cr-kata5-493",
+    "index": 493
+  },
+  {
+    "surface": "ニューディール",
+    "reading": "newdeal",
+    "code": "cr-kata5-494",
+    "index": 494
+  },
+  {
+    "surface": "ノンアルコール",
+    "reading": "nonalcohol",
+    "code": "cr-kata5-495",
+    "index": 495
+  },
+  {
+    "surface": "ノベンバー",
+    "reading": "nobenbaa",
+    "code": "cr-kata5-496",
+    "index": 496
+  },
+  {
+    "surface": "ヌーヴォ",
+    "reading": "nouveau",
+    "code": "cr-kata5-497",
+    "index": 497
+  },
+  {
+    "surface": "ネス",
+    "reading": "ness",
+    "code": "cr-kata5-498",
+    "index": 498
+  },
+  {
+    "surface": "ニューヨーカー",
+    "reading": "nyuuyookaa",
+    "code": "cr-kata5-499",
+    "index": 499
+  },
+  {
+    "surface": "ネヴァダ",
+    "reading": "nevada",
+    "code": "cr-kata5-500",
+    "index": 500
+  },
+  {
+    "surface": "ネゴティノ",
+    "reading": "negotino",
+    "code": "cr-kata5-501",
+    "index": 501
+  },
+  {
+    "surface": "ナルポ",
+    "reading": "nareportage",
+    "code": "cr-kata5-502",
+    "index": 502
+  },
+  {
+    "surface": "ネトゲー",
+    "reading": "netogee",
+    "code": "cr-kata5-503",
+    "index": 503
+  },
+  {
+    "surface": "ネオンサイン",
+    "reading": "neonsign",
+    "code": "cr-kata5-504",
+    "index": 504
+  },
+  {
+    "surface": "ナメコ",
+    "reading": "nameko",
+    "code": "cr-kata5-505",
+    "index": 505
+  },
+  {
+    "surface": "ヌクレアーゼ",
+    "reading": "nuclease",
+    "code": "cr-kata5-506",
+    "index": 506
+  },
+  {
+    "surface": "ネイルアート",
+    "reading": "nailart",
+    "code": "cr-kata5-507",
+    "index": 507
+  },
+  {
+    "surface": "ニューマティックハンマー",
+    "reading": "nyuumatikkuhanmaa",
+    "code": "cr-kata5-508",
+    "index": 508
+  },
+  {
+    "surface": "ノーブルズビル",
+    "reading": "nobullbuilding",
+    "code": "cr-kata5-509",
+    "index": 509
+  },
+  {
+    "surface": "ニグリト",
+    "reading": "negrito",
+    "code": "cr-kata5-510",
+    "index": 510
+  },
+  {
+    "surface": "ナツミカン",
+    "reading": "natsumikan",
+    "code": "cr-kata5-511",
+    "index": 511
+  },
+  {
+    "surface": "ニュー・クロス",
+    "reading": "newcloth",
+    "code": "cr-kata5-512",
+    "index": 512
+  },
+  {
+    "surface": "ノーフォーク",
+    "reading": "norfolk",
+    "code": "cr-kata5-513",
+    "index": 513
+  },
+  {
+    "surface": "ニュートロン",
+    "reading": "neutron",
+    "code": "cr-kata5-514",
+    "index": 514
+  },
+  {
+    "surface": "ナクラ",
+    "reading": "nakura",
+    "code": "cr-kata5-515",
+    "index": 515
+  },
+  {
+    "surface": "ニンマリ",
+    "reading": "ninmari",
+    "code": "cr-kata5-516",
+    "index": 516
+  },
+  {
+    "surface": "ネットカフェ",
+    "reading": "netcafe",
+    "code": "cr-kata5-517",
+    "index": 517
+  },
+  {
+    "surface": "ニセアカシア",
+    "reading": "niseacacia",
+    "code": "cr-kata5-518",
+    "index": 518
+  },
+  {
+    "surface": "ニタニタ",
+    "reading": "nitanita",
+    "code": "cr-kata5-519",
+    "index": 519
+  },
+  {
+    "surface": "ヌーディズム",
+    "reading": "nudism",
+    "code": "cr-kata5-520",
+    "index": 520
+  },
+  {
+    "surface": "ノーヘル",
+    "reading": "nohell",
+    "code": "cr-kata5-521",
+    "index": 521
+  },
+  {
+    "surface": "ニジニ・ノヴゴロド",
+    "reading": "nijininovugorodo",
+    "code": "cr-kata5-522",
+    "index": 522
+  },
+  {
+    "surface": "ノイヴィート",
+    "reading": "noivite",
+    "code": "cr-kata5-523",
+    "index": 523
+  },
+  {
+    "surface": "ヌエベ・デ・フリオ",
+    "reading": "nuevedesfurio",
+    "code": "cr-kata5-524",
+    "index": 524
+  },
+  {
+    "surface": "ノロマ",
+    "reading": "noroma",
+    "code": "cr-kata5-525",
+    "index": 525
+  },
+  {
+    "surface": "ネベ",
+    "reading": "nebe",
+    "code": "cr-kata5-526",
+    "index": 526
+  },
+  {
+    "surface": "ノンクリング",
+    "reading": "nonkuringu",
+    "code": "cr-kata5-527",
+    "index": 527
+  },
+  {
+    "surface": "ナイトクリーム",
+    "reading": "nightcream",
+    "code": "cr-kata5-528",
+    "index": 528
+  },
+  {
+    "surface": "ナコンファノム",
+    "reading": "nakonfanomu",
+    "code": "cr-kata5-529",
+    "index": 529
+  },
+  {
+    "surface": "ニベ",
+    "reading": "nibe",
+    "code": "cr-kata5-530",
+    "index": 530
+  },
+  {
+    "surface": "ニュー",
+    "reading": "new",
+    "code": "cr-kata5-531",
+    "index": 531
+  },
+  {
+    "surface": "ネスティング",
+    "reading": "nesting",
+    "code": "cr-kata5-532",
+    "index": 532
+  },
+  {
+    "surface": "ニゴロブナ",
+    "reading": "nigorobuna",
+    "code": "cr-kata5-533",
+    "index": 533
+  },
+  {
+    "surface": "ノヴォモスコフスク",
+    "reading": "novomosukofusuku",
+    "code": "cr-kata5-534",
+    "index": 534
+  },
+  {
+    "surface": "ノーコメント",
+    "reading": "nocomment",
+    "code": "cr-kata5-535",
+    "index": 535
+  },
+  {
+    "surface": "ニーパン",
+    "reading": "kneepao",
+    "code": "cr-kata5-536",
+    "index": 536
+  },
+  {
+    "surface": "ナメタガレイ",
+    "reading": "nametagarei",
+    "code": "cr-kata5-537",
+    "index": 537
+  },
+  {
+    "surface": "ネットイン",
+    "reading": "netin",
+    "code": "cr-kata5-538",
+    "index": 538
+  },
+  {
+    "surface": "ノスカピン",
+    "reading": "noscapine",
+    "code": "cr-kata5-539",
+    "index": 539
+  },
+  {
+    "surface": "ナショナリティー",
+    "reading": "nationality",
+    "code": "cr-kata5-540",
+    "index": 540
+  },
+  {
+    "surface": "ナイチャー",
+    "reading": "naichaa",
+    "code": "cr-kata5-541",
+    "index": 541
+  },
+  {
+    "surface": "ナイトウェア",
+    "reading": "nightwear",
+    "code": "cr-kata5-542",
+    "index": 542
+  },
+  {
+    "surface": "ニュートラ",
+    "reading": "newtraditional",
+    "code": "cr-kata5-543",
+    "index": 543
+  },
+  {
+    "surface": "ニーソ",
+    "reading": "nisoviet",
+    "code": "cr-kata5-544",
+    "index": 544
+  },
+  {
+    "surface": "ノーハウ",
+    "reading": "noohau",
+    "code": "cr-kata5-545",
+    "index": 545
+  },
+  {
+    "surface": "ノースモーキング",
+    "reading": "nosmoking",
+    "code": "cr-kata5-546",
+    "index": 546
+  },
+  {
+    "surface": "ネオナチ",
+    "reading": "neonachi",
+    "code": "cr-kata5-547",
+    "index": 547
+  },
+  {
+    "surface": "ネコ",
+    "reading": "neko",
+    "code": "cr-kata5-548",
+    "index": 548
+  },
+  {
+    "surface": "ノイバラ",
+    "reading": "noibara",
+    "code": "cr-kata5-549",
+    "index": 549
+  },
+  {
+    "surface": "ニューベッドフォード",
+    "reading": "newbedford",
+    "code": "cr-kata5-550",
+    "index": 550
+  },
+  {
+    "surface": "ナブスター",
+    "reading": "navstar",
+    "code": "cr-kata5-551",
+    "index": 551
+  },
+  {
+    "surface": "ナミビア",
+    "reading": "namibia",
+    "code": "cr-kata5-552",
+    "index": 552
+  },
+  {
+    "surface": "ノーカット",
+    "reading": "nocut",
+    "code": "cr-kata5-553",
+    "index": 553
+  },
+  {
+    "surface": "ナハ",
+    "reading": "naha",
+    "code": "cr-kata5-554",
+    "index": 554
+  },
+  {
+    "surface": "ノス",
+    "reading": "nosu",
+    "code": "cr-kata5-555",
+    "index": 555
+  },
+  {
+    "surface": "ニューポート",
+    "reading": "newport",
+    "code": "cr-kata5-556",
+    "index": 556
+  },
+  {
+    "surface": "ノルトハイム",
+    "reading": "norutohaimu",
+    "code": "cr-kata5-557",
+    "index": 557
+  },
+  {
+    "surface": "ノヴィ・タルク",
+    "reading": "novitalc",
+    "code": "cr-kata5-558",
+    "index": 558
+  },
+  {
+    "surface": "ナショナルチェーン",
+    "reading": "nationalchain",
+    "code": "cr-kata5-559",
+    "index": 559
+  },
+  {
+    "surface": "ナベヅル",
+    "reading": "nabezuru",
+    "code": "cr-kata5-560",
+    "index": 560
+  },
+  {
+    "surface": "ナンバープレイス",
+    "reading": "numberplace",
+    "code": "cr-kata5-561",
+    "index": 561
+  },
+  {
+    "surface": "ノースポート",
+    "reading": "nosport",
+    "code": "cr-kata5-562",
+    "index": 562
+  },
+  {
+    "surface": "ノンパレル",
+    "reading": "nonpareru",
+    "code": "cr-kata5-563",
+    "index": 563
+  },
+  {
+    "surface": "ネトラコナ",
+    "reading": "netorakona",
+    "code": "cr-kata5-564",
+    "index": 564
+  },
+  {
+    "surface": "ネイティブ",
+    "reading": "neitibu",
+    "code": "cr-kata5-565",
+    "index": 565
+  },
+  {
+    "surface": "ノド",
+    "reading": "nodo",
+    "code": "cr-kata5-566",
+    "index": 566
+  },
+  {
+    "surface": "ナヴァフルダク",
+    "reading": "navafurudaku",
+    "code": "cr-kata5-567",
+    "index": 567
+  },
+  {
+    "surface": "ナカノ",
+    "reading": "nakano",
+    "code": "cr-kata5-568",
+    "index": 568
+  },
+  {
+    "surface": "ニューウェイブ",
+    "reading": "newwave",
+    "code": "cr-kata5-569",
+    "index": 569
+  },
+  {
+    "surface": "ナイアガラ",
+    "reading": "niagara",
+    "code": "cr-kata5-570",
+    "index": 570
+  },
+  {
+    "surface": "ノーンブアラムプー",
+    "reading": "noonbuaramupuu",
+    "code": "cr-kata5-571",
+    "index": 571
+  },
+  {
+    "surface": "ナイト",
+    "reading": "night",
+    "code": "cr-kata5-572",
+    "index": 572
+  },
+  {
+    "surface": "ニューマチック",
+    "reading": "neumatic",
+    "code": "cr-kata5-573",
+    "index": 573
+  },
+  {
+    "surface": "ノゥナ",
+    "reading": "knowna",
+    "code": "cr-kata5-574",
+    "index": 574
+  },
+  {
+    "surface": "ニューブランズウィック",
+    "reading": "newbrunswick",
+    "code": "cr-kata5-575",
+    "index": 575
+  },
+  {
+    "surface": "ノベルティ",
+    "reading": "novelty",
+    "code": "cr-kata5-576",
+    "index": 576
+  },
+  {
+    "surface": "ヌーボー",
+    "reading": "nouveau",
+    "code": "cr-kata5-577",
+    "index": 577
+  },
+  {
+    "surface": "ノースオーガスタ",
+    "reading": "northaugusta",
+    "code": "cr-kata5-578",
+    "index": 578
+  },
+  {
+    "surface": "ネグリジェ",
+    "reading": "neglige",
+    "code": "cr-kata5-579",
+    "index": 579
+  },
+  {
+    "surface": "ネットバイオス",
+    "reading": "netbyosu",
+    "code": "cr-kata5-580",
+    "index": 580
+  },
+  {
+    "surface": "ニセ",
+    "reading": "nise",
+    "code": "cr-kata5-581",
+    "index": 581
+  },
+  {
+    "surface": "ニッケル",
+    "reading": "nickel",
+    "code": "cr-kata5-582",
+    "index": 582
+  },
+  {
+    "surface": "ネガカラー",
+    "reading": "negacolor",
+    "code": "cr-kata5-583",
+    "index": 583
+  },
+  {
+    "surface": "ニャンコ",
+    "reading": "nyanko",
+    "code": "cr-kata5-584",
+    "index": 584
+  },
+  {
+    "surface": "ニューリーダー",
+    "reading": "newleader",
+    "code": "cr-kata5-585",
+    "index": 585
+  },
+  {
+    "surface": "ノッティンガム",
+    "reading": "nottingham",
+    "code": "cr-kata5-586",
+    "index": 586
+  },
+  {
+    "surface": "ノヴォズィプコフ",
+    "reading": "novozipukofu",
+    "code": "cr-kata5-587",
+    "index": 587
+  },
+  {
+    "surface": "ナンキンマメ",
+    "reading": "nankinmame",
+    "code": "cr-kata5-588",
+    "index": 588
+  },
+  {
+    "surface": "ナンドゥァバール",
+    "reading": "nanduabaaru",
+    "code": "cr-kata5-589",
+    "index": 589
+  },
+  {
+    "surface": "ニラギリ",
+    "reading": "niragiri",
+    "code": "cr-kata5-590",
+    "index": 590
+  },
+  {
+    "surface": "ノコノコ",
+    "reading": "nokonoko",
+    "code": "cr-kata5-591",
+    "index": 591
+  },
+  {
+    "surface": "ネイチャー",
+    "reading": "nature",
+    "code": "cr-kata5-592",
+    "index": 592
+  },
+  {
+    "surface": "ナウマンゾウ",
+    "reading": "naumannzou",
+    "code": "cr-kata5-593",
+    "index": 593
+  },
+  {
+    "surface": "ニッチ",
+    "reading": "niche",
+    "code": "cr-kata5-594",
+    "index": 594
+  },
+  {
+    "surface": "ノイズ・リダクション",
+    "reading": "noisereduction",
+    "code": "cr-kata5-595",
+    "index": 595
+  },
+  {
+    "surface": "ネットワーク",
+    "reading": "network",
+    "code": "cr-kata5-596",
+    "index": 596
+  },
+  {
+    "surface": "ニアメ",
+    "reading": "niamey",
+    "code": "cr-kata5-597",
+    "index": 597
+  },
+  {
+    "surface": "ヌルモデム",
+    "reading": "nullmodem",
+    "code": "cr-kata5-598",
+    "index": 598
+  },
+  {
+    "surface": "ノゾキ",
+    "reading": "nozoki",
+    "code": "cr-kata5-599",
+    "index": 599
+  },
+  {
+    "surface": "ナポリタン",
+    "reading": "napolitain",
+    "code": "cr-kata5-600",
+    "index": 600
+  },
+  {
+    "surface": "ノッカー",
+    "reading": "knocker",
+    "code": "cr-kata5-601",
+    "index": 601
+  },
+  {
+    "surface": "ネクロフォビア",
+    "reading": "necrophobia",
+    "code": "cr-kata5-602",
+    "index": 602
+  },
+  {
+    "surface": "ネイリスト",
+    "reading": "nailist",
+    "code": "cr-kata5-603",
+    "index": 603
+  },
+  {
+    "surface": "ネンネ",
+    "reading": "nenne",
+    "code": "cr-kata5-604",
+    "index": 604
+  },
+  {
+    "surface": "ノングストイン",
+    "reading": "nongusutoin",
+    "code": "cr-kata5-605",
+    "index": 605
+  },
+  {
+    "surface": "ネアカ",
+    "reading": "neaka",
+    "code": "cr-kata5-606",
+    "index": 606
+  },
+  {
+    "surface": "ヌードモデル",
+    "reading": "nudemodel",
+    "code": "cr-kata5-607",
+    "index": 607
+  },
+  {
+    "surface": "ノーウェイト",
+    "reading": "noweight",
+    "code": "cr-kata5-608",
+    "index": 608
+  },
+  {
+    "surface": "ナユタ",
+    "reading": "nayuta",
+    "code": "cr-kata5-609",
+    "index": 609
+  },
+  {
+    "surface": "ニヒリスティック",
+    "reading": "nihilistic",
+    "code": "cr-kata5-610",
+    "index": 610
+  },
+  {
+    "surface": "ニッカー",
+    "reading": "nikka",
+    "code": "cr-kata5-611",
+    "index": 611
+  },
+  {
+    "surface": "ネブルズ",
+    "reading": "neburuzu",
+    "code": "cr-kata5-612",
+    "index": 612
+  },
+  {
+    "surface": "ネマチック",
+    "reading": "nemachikku",
+    "code": "cr-kata5-613",
+    "index": 613
+  },
+  {
+    "surface": "ナミュール",
+    "reading": "namule",
+    "code": "cr-kata5-614",
+    "index": 614
+  },
+  {
+    "surface": "ノーモア",
+    "reading": "nomore",
+    "code": "cr-kata5-615",
+    "index": 615
+  },
+  {
+    "surface": "ネイキッド",
+    "reading": "naked",
+    "code": "cr-kata5-616",
+    "index": 616
+  },
+  {
+    "surface": "ネバーギブアップ",
+    "reading": "nevergiveup",
+    "code": "cr-kata5-617",
+    "index": 617
+  },
+  {
+    "surface": "ネマ",
+    "reading": "nema",
+    "code": "cr-kata5-618",
+    "index": 618
+  },
+  {
+    "surface": "ナマズ",
+    "reading": "namazu",
+    "code": "cr-kata5-619",
+    "index": 619
+  },
+  {
+    "surface": "ニュートンエイクリフ",
+    "reading": "nyuutoneikurifu",
+    "code": "cr-kata5-620",
+    "index": 620
+  },
+  {
+    "surface": "ニーハオ",
+    "reading": "niihao",
+    "code": "cr-kata5-621",
+    "index": 621
+  },
+  {
+    "surface": "ノープロブレム",
+    "reading": "noproblem",
+    "code": "cr-kata5-622",
+    "index": 622
+  },
+  {
+    "surface": "ノーチェック",
+    "reading": "nocheck",
+    "code": "cr-kata5-623",
+    "index": 623
+  },
+  {
+    "surface": "ノーマルテープ",
+    "reading": "normaltape",
+    "code": "cr-kata5-624",
+    "index": 624
+  },
+  {
+    "surface": "ヌルフィールド",
+    "reading": "nullfield",
+    "code": "cr-kata5-625",
+    "index": 625
+  },
+  {
+    "surface": "ニッカボッカ",
+    "reading": "nikkabokka",
+    "code": "cr-kata5-626",
+    "index": 626
+  },
+  {
+    "surface": "ニンジン",
+    "reading": "ninjin",
+    "code": "cr-kata5-627",
+    "index": 627
+  },
+  {
+    "surface": "ノバ・スコシア",
+    "reading": "novascotia",
+    "code": "cr-kata5-628",
+    "index": 628
+  },
+  {
+    "surface": "ネギ",
+    "reading": "negi",
+    "code": "cr-kata5-629",
+    "index": 629
+  },
+  {
+    "surface": "ノリノリ",
+    "reading": "norinori",
+    "code": "cr-kata5-630",
+    "index": 630
+  },
+  {
+    "surface": "ナミナミ",
+    "reading": "naminami",
+    "code": "cr-kata5-631",
+    "index": 631
+  },
+  {
+    "surface": "ノックダウン",
+    "reading": "knockdown",
+    "code": "cr-kata5-632",
+    "index": 632
+  },
+  {
+    "surface": "ニュースペーパー",
+    "reading": "newspaper",
+    "code": "cr-kata5-633",
+    "index": 633
+  },
+  {
+    "surface": "ノーショーピング",
+    "reading": "noshowping",
+    "code": "cr-kata5-634",
+    "index": 634
+  },
+  {
+    "surface": "ニットウエア",
+    "reading": "knitwear",
+    "code": "cr-kata5-635",
+    "index": 635
+  },
+  {
+    "surface": "ナトリウム",
+    "reading": "natrium",
+    "code": "cr-kata5-636",
+    "index": 636
+  },
+  {
+    "surface": "ニューリー",
+    "reading": "newlee",
+    "code": "cr-kata5-637",
+    "index": 637
+  },
+  {
+    "surface": "ニュージャズ",
+    "reading": "newjazz",
+    "code": "cr-kata5-638",
+    "index": 638
+  },
+  {
+    "surface": "ヌヴェール",
+    "reading": "nuveil",
+    "code": "cr-kata5-639",
+    "index": 639
+  },
+  {
+    "surface": "ナガサキ",
+    "reading": "nagasaki",
+    "code": "cr-kata5-640",
+    "index": 640
+  },
+  {
+    "surface": "ヌラヌラ",
+    "reading": "nuranura",
+    "code": "cr-kata5-641",
+    "index": 641
+  },
+  {
+    "surface": "ノラリクラリ",
+    "reading": "norarikurari",
+    "code": "cr-kata5-642",
+    "index": 642
+  },
+  {
+    "surface": "ナーブルス",
+    "reading": "naaburusu",
+    "code": "cr-kata5-643",
+    "index": 643
+  },
+  {
+    "surface": "ネヴシェヒル",
+    "reading": "nevushehiru",
+    "code": "cr-kata5-644",
+    "index": 644
+  },
+  {
+    "surface": "ニホンヘラザメ",
+    "reading": "nihonherazame",
+    "code": "cr-kata5-645",
+    "index": 645
+  },
+  {
+    "surface": "ニコルプリズム",
+    "reading": "nikoruprism",
+    "code": "cr-kata5-646",
+    "index": 646
+  },
+  {
+    "surface": "ノヴォシビルスク",
+    "reading": "novosibirsk",
+    "code": "cr-kata5-647",
+    "index": 647
+  },
+  {
+    "surface": "ナヨナヨ",
+    "reading": "nayonayo",
+    "code": "cr-kata5-648",
+    "index": 648
+  },
+  {
+    "surface": "ノントロッポ",
+    "reading": "nontroppo",
+    "code": "cr-kata5-649",
+    "index": 649
+  },
+  {
+    "surface": "ヌーベル",
+    "reading": "nouvelle",
+    "code": "cr-kata5-650",
+    "index": 650
+  },
+  {
+    "surface": "ネンジュモ",
+    "reading": "nenjumo",
+    "code": "cr-kata5-651",
+    "index": 651
+  },
+  {
+    "surface": "ネクイハムシ",
+    "reading": "nekuihamushi",
+    "code": "cr-kata5-652",
+    "index": 652
+  },
+  {
+    "surface": "ニッコリ",
+    "reading": "nikkori",
+    "code": "cr-kata5-653",
+    "index": 653
+  },
+  {
+    "surface": "ネチズン",
+    "reading": "netizen",
+    "code": "cr-kata5-654",
+    "index": 654
+  },
+  {
+    "surface": "ネムリブカ",
+    "reading": "nemuribuka",
+    "code": "cr-kata5-655",
+    "index": 655
+  },
+  {
+    "surface": "ニース",
+    "reading": "nice",
+    "code": "cr-kata5-656",
+    "index": 656
+  },
+  {
+    "surface": "ニューファンドランド",
+    "reading": "newfoundland",
+    "code": "cr-kata5-657",
+    "index": 657
+  },
+  {
+    "surface": "ニューラル",
+    "reading": "neural",
+    "code": "cr-kata5-658",
+    "index": 658
+  },
+  {
+    "surface": "ナジャフ",
+    "reading": "najaf",
+    "code": "cr-kata5-659",
+    "index": 659
+  },
+  {
+    "surface": "ネル",
+    "reading": "flannel",
+    "code": "cr-kata5-660",
+    "index": 660
+  },
+  {
+    "surface": "ナビゲーター",
+    "reading": "navigator",
+    "code": "cr-kata5-661",
+    "index": 661
+  },
+  {
+    "surface": "ノンブル",
+    "reading": "nombre",
+    "code": "cr-kata5-662",
+    "index": 662
+  },
+  {
+    "surface": "ナルコチン",
+    "reading": "narcotine",
+    "code": "cr-kata5-663",
+    "index": 663
+  },
+  {
+    "surface": "ノミネーション",
+    "reading": "nomination",
+    "code": "cr-kata5-664",
+    "index": 664
+  },
+  {
+    "surface": "ノビル",
+    "reading": "nobiru",
+    "code": "cr-kata5-665",
+    "index": 665
+  },
+  {
+    "surface": "ネービーブルー",
+    "reading": "navyblue",
+    "code": "cr-kata5-666",
+    "index": 666
+  },
+  {
+    "surface": "ネオレジスト",
+    "reading": "neoresist",
+    "code": "cr-kata5-667",
+    "index": 667
+  },
+  {
+    "surface": "ノースバンクーバー",
+    "reading": "northvancouver",
+    "code": "cr-kata5-668",
+    "index": 668
+  },
+  {
+    "surface": "ナンテン",
+    "reading": "nanten",
+    "code": "cr-kata5-669",
+    "index": 669
+  },
+  {
+    "surface": "ネッカーズルム",
+    "reading": "nekkaazurumu",
+    "code": "cr-kata5-670",
+    "index": 670
+  },
+  {
+    "surface": "ナチョス",
+    "reading": "nachosu",
+    "code": "cr-kata5-671",
+    "index": 671
+  },
+  {
+    "surface": "ヌメア",
+    "reading": "numea",
+    "code": "cr-kata5-672",
+    "index": 672
+  },
+  {
+    "surface": "ナスタースキー",
+    "reading": "nasutaasukii",
+    "code": "cr-kata5-673",
+    "index": 673
+  },
+  {
+    "surface": "ニシキヘビ",
+    "reading": "nishikihebi",
+    "code": "cr-kata5-674",
+    "index": 674
+  },
+  {
+    "surface": "ノルトハウゼン",
+    "reading": "norutohauzen",
+    "code": "cr-kata5-675",
+    "index": 675
+  },
+  {
+    "surface": "ニトロソアミン",
+    "reading": "nitorosoamin",
+    "code": "cr-kata5-676",
+    "index": 676
+  },
+  {
+    "surface": "ヌニートン",
+    "reading": "nuniiton",
+    "code": "cr-kata5-677",
+    "index": 677
+  },
+  {
+    "surface": "ナムディン",
+    "reading": "numberdin",
+    "code": "cr-kata5-678",
+    "index": 678
+  },
+  {
+    "surface": "ニラ",
+    "reading": "nira",
+    "code": "cr-kata5-679",
+    "index": 679
+  },
+  {
+    "surface": "ナウナウイズム",
+    "reading": "nownowism",
+    "code": "cr-kata5-680",
+    "index": 680
+  },
+  {
+    "surface": "ナルシス",
+    "reading": "narcisse",
+    "code": "cr-kata5-681",
+    "index": 681
+  },
+  {
+    "surface": "ノヴィ・サド",
+    "reading": "novisade",
+    "code": "cr-kata5-682",
+    "index": 682
+  },
+  {
+    "surface": "ネルチンスク",
+    "reading": "nerchinsk",
+    "code": "cr-kata5-683",
+    "index": 683
+  },
+  {
+    "surface": "ニワトリ",
+    "reading": "niwatori",
+    "code": "cr-kata5-684",
+    "index": 684
+  },
+  {
+    "surface": "ナツグミ",
+    "reading": "natsugumi",
+    "code": "cr-kata5-685",
+    "index": 685
+  },
+  {
+    "surface": "ノベリスト",
+    "reading": "novelist",
+    "code": "cr-kata5-686",
+    "index": 686
+  },
+  {
+    "surface": "ネズッポ",
+    "reading": "nezuppo",
+    "code": "cr-kata5-687",
+    "index": 687
+  },
+  {
+    "surface": "ニャンニャン",
+    "reading": "nyannyan",
+    "code": "cr-kata5-688",
+    "index": 688
+  },
+  {
+    "surface": "ノースロイヤルトン",
+    "reading": "noosuroiyaruton",
+    "code": "cr-kata5-689",
+    "index": 689
+  },
+  {
+    "surface": "ニードル",
+    "reading": "needle",
+    "code": "cr-kata5-690",
+    "index": 690
+  },
+  {
+    "surface": "ニグロイド",
+    "reading": "negroid",
+    "code": "cr-kata5-691",
+    "index": 691
+  },
+  {
+    "surface": "ナホトカ",
+    "reading": "nakhodka",
+    "code": "cr-kata5-692",
+    "index": 692
+  },
+  {
+    "surface": "ノヴァスコシア",
+    "reading": "novascotia",
+    "code": "cr-kata5-693",
+    "index": 693
+  },
+  {
+    "surface": "ノース・マイアミ",
+    "reading": "noosumiami",
+    "code": "cr-kata5-694",
+    "index": 694
+  },
+  {
+    "surface": "ノーイースター",
+    "reading": "noeaster",
+    "code": "cr-kata5-695",
+    "index": 695
+  },
+  {
+    "surface": "ナイチチ",
+    "reading": "naichichi",
+    "code": "cr-kata5-696",
+    "index": 696
+  },
+  {
+    "surface": "ナツメヤシ",
+    "reading": "natsumeyashi",
+    "code": "cr-kata5-697",
+    "index": 697
+  },
+  {
+    "surface": "ナク",
+    "reading": "nak",
+    "code": "cr-kata5-698",
+    "index": 698
+  },
+  {
+    "surface": "ノリ",
+    "reading": "nori",
+    "code": "cr-kata5-699",
+    "index": 699
+  },
+  {
+    "surface": "ネーティビズム",
+    "reading": "nativism",
+    "code": "cr-kata5-700",
+    "index": 700
+  },
+  {
+    "surface": "ナックルフォア",
+    "reading": "knucklefour",
+    "code": "cr-kata5-701",
+    "index": 701
+  },
+  {
+    "surface": "ニオブ",
+    "reading": "niob",
+    "code": "cr-kata5-702",
+    "index": 702
+  },
+  {
+    "surface": "ニューカマー",
+    "reading": "newcomer",
+    "code": "cr-kata5-703",
+    "index": 703
+  },
+  {
+    "surface": "ノイス",
+    "reading": "noyce",
+    "code": "cr-kata5-704",
+    "index": 704
+  },
+  {
+    "surface": "ノセボ",
+    "reading": "nosebo",
+    "code": "cr-kata5-705",
+    "index": 705
+  },
+  {
+    "surface": "ニューウエストミンスター",
+    "reading": "newwestminster",
+    "code": "cr-kata5-706",
+    "index": 706
+  },
+  {
+    "surface": "ナイキハーキュリーズ",
+    "reading": "naikihaakyuriizu",
+    "code": "cr-kata5-707",
+    "index": 707
+  },
+  {
+    "surface": "ネクロフィリア",
+    "reading": "necrophilia",
+    "code": "cr-kata5-708",
+    "index": 708
+  },
+  {
+    "surface": "ニアンゴロコ",
+    "reading": "niangoroko",
+    "code": "cr-kata5-709",
+    "index": 709
+  },
+  {
+    "surface": "ニホンリス",
+    "reading": "nihonrisu",
+    "code": "cr-kata5-710",
+    "index": 710
+  },
+  {
+    "surface": "ノヴォドヴィンスク",
+    "reading": "novodovinsuku",
+    "code": "cr-kata5-711",
+    "index": 711
+  },
+  {
+    "surface": "ヌカ",
+    "reading": "nuka",
+    "code": "cr-kata5-712",
+    "index": 712
+  },
+  {
+    "surface": "ヌル",
+    "reading": "null",
+    "code": "cr-kata5-713",
+    "index": 713
+  },
+  {
+    "surface": "ノンビリ",
+    "reading": "nonbiri",
+    "code": "cr-kata5-714",
+    "index": 714
+  },
+  {
+    "surface": "ナンプレ",
+    "reading": "nanpre",
+    "code": "cr-kata5-715",
+    "index": 715
+  },
+  {
+    "surface": "ナリシングクリーム",
+    "reading": "narishingukuriimu",
+    "code": "cr-kata5-716",
+    "index": 716
+  },
+  {
+    "surface": "ナーシク",
+    "reading": "nashik",
+    "code": "cr-kata5-717",
+    "index": 717
+  },
+  {
+    "surface": "ナスタチウム",
+    "reading": "nasturtium",
+    "code": "cr-kata5-718",
+    "index": 718
+  },
+  {
+    "surface": "ネズミゴチ",
+    "reading": "nezumigochi",
+    "code": "cr-kata5-719",
+    "index": 719
+  },
+  {
+    "surface": "ナイアガラオンザレイク",
+    "reading": "naiagaraonzareiku",
+    "code": "cr-kata5-720",
+    "index": 720
+  },
+  {
+    "surface": "ノヴゴロド",
+    "reading": "novgorod",
+    "code": "cr-kata5-721",
+    "index": 721
+  },
+  {
+    "surface": "ノベルス",
+    "reading": "noberusu",
+    "code": "cr-kata5-722",
+    "index": 722
+  },
+  {
+    "surface": "ニューアーク",
+    "reading": "nyuuaaku",
+    "code": "cr-kata5-723",
+    "index": 723
+  },
+  {
+    "surface": "ネオロマンチシズム",
+    "reading": "neoromanticism",
+    "code": "cr-kata5-724",
+    "index": 724
+  },
+  {
+    "surface": "ナワシログミ",
+    "reading": "nawashirogummi",
+    "code": "cr-kata5-725",
+    "index": 725
+  },
+  {
+    "surface": "ニケツ",
+    "reading": "niketsu",
+    "code": "cr-kata5-726",
+    "index": 726
+  },
+  {
+    "surface": "ノーヒント",
+    "reading": "nohint",
+    "code": "cr-kata5-727",
+    "index": 727
+  },
+  {
+    "surface": "ノベレット",
+    "reading": "novelette",
+    "code": "cr-kata5-728",
+    "index": 728
+  },
+  {
+    "surface": "ノーヒット",
+    "reading": "nohit",
+    "code": "cr-kata5-729",
+    "index": 729
+  },
+  {
+    "surface": "ネイティブスピーカー",
+    "reading": "neitibuspeaker",
+    "code": "cr-kata5-730",
+    "index": 730
+  },
+  {
+    "surface": "ネイチブ",
+    "reading": "neichibu",
+    "code": "cr-kata5-731",
+    "index": 731
+  },
+  {
+    "surface": "ニジェール",
+    "reading": "niger",
+    "code": "cr-kata5-732",
+    "index": 732
+  },
+  {
+    "surface": "ノッポ",
+    "reading": "noppo",
+    "code": "cr-kata5-733",
+    "index": 733
+  },
+  {
+    "surface": "ノッキング",
+    "reading": "knocking",
+    "code": "cr-kata5-734",
+    "index": 734
+  },
+  {
+    "surface": "ネイティヴ",
+    "reading": "neitivu",
+    "code": "cr-kata5-735",
+    "index": 735
+  },
+  {
+    "surface": "ナフトル",
+    "reading": "naphthole",
+    "code": "cr-kata5-736",
+    "index": 736
+  },
+  {
+    "surface": "ノータイ",
+    "reading": "nootai",
+    "code": "cr-kata5-737",
+    "index": 737
+  },
+  {
+    "surface": "ノースラスベガス",
+    "reading": "northvegas",
+    "code": "cr-kata5-738",
+    "index": 738
+  },
+  {
+    "surface": "ネクタリン",
+    "reading": "nectarine",
+    "code": "cr-kata5-739",
+    "index": 739
+  },
+  {
+    "surface": "ニューキャッスル",
+    "reading": "newcastle",
+    "code": "cr-kata5-740",
+    "index": 740
+  },
+  {
+    "surface": "ノーパソ",
+    "reading": "notepc",
+    "code": "cr-kata5-741",
+    "index": 741
+  },
+  {
+    "surface": "ノヴェル",
+    "reading": "novel",
+    "code": "cr-kata5-742",
+    "index": 742
+  },
+  {
+    "surface": "ニーソックス",
+    "reading": "kneesocks",
+    "code": "cr-kata5-743",
+    "index": 743
+  },
+  {
+    "surface": "ヌース",
+    "reading": "nous",
+    "code": "cr-kata5-744",
+    "index": 744
+  },
+  {
+    "surface": "ナコーンサワン",
+    "reading": "nakoonsawan",
+    "code": "cr-kata5-745",
+    "index": 745
+  },
+  {
+    "surface": "ネームバリュー",
+    "reading": "namevalue",
+    "code": "cr-kata5-746",
+    "index": 746
+  },
+  {
+    "surface": "ニャーニャー",
+    "reading": "nyaanyaa",
+    "code": "cr-kata5-747",
+    "index": 747
+  },
+  {
+    "surface": "ノスタルジア",
+    "reading": "nostalgia",
+    "code": "cr-kata5-748",
+    "index": 748
+  },
+  {
+    "surface": "ノッチ",
+    "reading": "notch",
+    "code": "cr-kata5-749",
+    "index": 749
+  },
+  {
+    "surface": "ニトリル",
+    "reading": "nitrile",
+    "code": "cr-kata5-750",
+    "index": 750
+  },
+  {
+    "surface": "ネオコロニアリズム",
+    "reading": "neocolonialism",
+    "code": "cr-kata5-751",
+    "index": 751
+  },
+  {
+    "surface": "ノビタキ",
+    "reading": "nobitaki",
+    "code": "cr-kata5-752",
+    "index": 752
+  },
+  {
+    "surface": "ナグ・ハマディ",
+    "reading": "naguhamadi",
+    "code": "cr-kata5-753",
+    "index": 753
+  },
+  {
+    "surface": "ノベライゼーション",
+    "reading": "novelization",
+    "code": "cr-kata5-754",
+    "index": 754
+  },
+  {
+    "surface": "ナショナルスト",
+    "reading": "nationalstrike",
+    "code": "cr-kata5-755",
+    "index": 755
+  },
+  {
+    "surface": "ニクズク",
+    "reading": "nikuzuku",
+    "code": "cr-kata5-756",
+    "index": 756
+  },
+  {
+    "surface": "ナッド",
+    "reading": "naddo",
+    "code": "cr-kata5-757",
+    "index": 757
+  },
+  {
+    "surface": "ノーチ",
+    "reading": "nochi",
+    "code": "cr-kata5-758",
+    "index": 758
+  },
+  {
+    "surface": "ニイガタ",
+    "reading": "niigata",
+    "code": "cr-kata5-759",
+    "index": 759
+  },
+  {
+    "surface": "ニカメイガ",
+    "reading": "nikameiga",
+    "code": "cr-kata5-760",
+    "index": 760
+  },
+  {
+    "surface": "ナミガイ",
+    "reading": "namiguy",
+    "code": "cr-kata5-761",
+    "index": 761
+  },
+  {
+    "surface": "ノン",
+    "reading": "non",
+    "code": "cr-kata5-762",
+    "index": 762
+  },
+  {
+    "surface": "ネポチズム",
+    "reading": "nepochizumu",
+    "code": "cr-kata5-763",
+    "index": 763
+  },
+  {
+    "surface": "ニューベリー",
+    "reading": "newberry",
+    "code": "cr-kata5-764",
+    "index": 764
+  },
+  {
+    "surface": "ノートブック",
+    "reading": "notebook",
+    "code": "cr-kata5-765",
+    "index": 765
+  },
+  {
+    "surface": "ネーション",
+    "reading": "nation",
+    "code": "cr-kata5-766",
+    "index": 766
+  },
+  {
+    "surface": "ネジレバネ",
+    "reading": "nejirebane",
+    "code": "cr-kata5-767",
+    "index": 767
+  },
+  {
+    "surface": "ノブレー",
+    "reading": "knobree",
+    "code": "cr-kata5-768",
+    "index": 768
+  },
+  {
+    "surface": "ナメラハギ",
+    "reading": "namerahagi",
+    "code": "cr-kata5-769",
+    "index": 769
+  },
+  {
+    "surface": "ネジバナ",
+    "reading": "nejibana",
+    "code": "cr-kata5-770",
+    "index": 770
+  },
+  {
+    "surface": "ナツメロ",
+    "reading": "natsumero",
+    "code": "cr-kata5-771",
+    "index": 771
+  },
+  {
+    "surface": "ナイバシャ",
+    "reading": "naibasha",
+    "code": "cr-kata5-772",
+    "index": 772
+  },
+  {
+    "surface": "ナメクジウオ",
+    "reading": "namekujiuo",
+    "code": "cr-kata5-773",
+    "index": 773
+  },
+  {
+    "surface": "ニーレジハーザ",
+    "reading": "niirejihaaza",
+    "code": "cr-kata5-774",
+    "index": 774
+  },
+  {
+    "surface": "ナガニザ",
+    "reading": "naganiza",
+    "code": "cr-kata5-775",
+    "index": 775
+  },
+  {
+    "surface": "ニュー・ミュージック",
+    "reading": "newmusic",
+    "code": "cr-kata5-776",
+    "index": 776
+  },
+  {
+    "surface": "ナンバリングマシーン",
+    "reading": "numberingmachine",
+    "code": "cr-kata5-777",
+    "index": 777
+  },
+  {
+    "surface": "ノーストッキング",
+    "reading": "nostocking",
+    "code": "cr-kata5-778",
+    "index": 778
+  },
+  {
+    "surface": "ノーベリウム",
+    "reading": "nobelium",
+    "code": "cr-kata5-779",
+    "index": 779
+  },
+  {
+    "surface": "ノーラン",
+    "reading": "nolan",
+    "code": "cr-kata5-780",
+    "index": 780
+  },
+  {
+    "surface": "ナタマメ",
+    "reading": "natamame",
+    "code": "cr-kata5-781",
+    "index": 781
+  },
+  {
+    "surface": "ネズミーランド",
+    "reading": "nezumiland",
+    "code": "cr-kata5-782",
+    "index": 782
+  },
+  {
+    "surface": "ノンセクション",
+    "reading": "nonsection",
+    "code": "cr-kata5-783",
+    "index": 783
+  },
+  {
+    "surface": "ニリ",
+    "reading": "niri",
+    "code": "cr-kata5-784",
+    "index": 784
+  },
+  {
+    "surface": "ナノメータ",
+    "reading": "nanometer",
+    "code": "cr-kata5-785",
+    "index": 785
+  },
+  {
+    "surface": "ネッキング",
+    "reading": "necking",
+    "code": "cr-kata5-786",
+    "index": 786
+  },
+  {
+    "surface": "ヌマスギ",
+    "reading": "numasugi",
+    "code": "cr-kata5-787",
+    "index": 787
+  },
+  {
+    "surface": "ナイトドレス",
+    "reading": "nightdress",
+    "code": "cr-kata5-788",
+    "index": 788
+  },
+  {
+    "surface": "ニューマティック",
+    "reading": "nyuumatikku",
+    "code": "cr-kata5-789",
+    "index": 789
+  },
+  {
+    "surface": "ノコギリエイ",
+    "reading": "nokogiriei",
+    "code": "cr-kata5-790",
+    "index": 790
+  },
+  {
+    "surface": "ノウノウ",
+    "reading": "nono",
+    "code": "cr-kata5-791",
+    "index": 791
+  },
+  {
+    "surface": "ナレーター",
+    "reading": "narrator",
+    "code": "cr-kata5-792",
+    "index": 792
+  },
+  {
+    "surface": "ノインキルヒェン",
+    "reading": "noinkiruhen",
+    "code": "cr-kata5-793",
+    "index": 793
+  },
+  {
+    "surface": "ノヴォクズネツク",
+    "reading": "novokuzunetsuku",
+    "code": "cr-kata5-794",
+    "index": 794
+  },
+  {
+    "surface": "ネタバレ",
+    "reading": "netabare",
+    "code": "cr-kata5-795",
+    "index": 795
+  },
+  {
+    "surface": "ネガチィブ",
+    "reading": "negachibu",
+    "code": "cr-kata5-796",
+    "index": 796
+  },
+  {
+    "surface": "ニュークリア",
+    "reading": "nuclear",
+    "code": "cr-kata5-797",
+    "index": 797
+  },
+  {
+    "surface": "ノクターン",
+    "reading": "nocturne",
+    "code": "cr-kata5-798",
+    "index": 798
+  },
+  {
+    "surface": "ナナカマド",
+    "reading": "nanakamado",
+    "code": "cr-kata5-799",
+    "index": 799
+  },
+  {
+    "surface": "ノワゼット",
+    "reading": "noisette",
+    "code": "cr-kata5-800",
+    "index": 800
+  },
+  {
+    "surface": "ネットワーキング",
+    "reading": "networking",
+    "code": "cr-kata5-801",
+    "index": 801
+  },
+  {
+    "surface": "ネビュラ",
+    "reading": "nebula",
+    "code": "cr-kata5-802",
+    "index": 802
+  },
+  {
+    "surface": "ネマティック",
+    "reading": "nematic",
+    "code": "cr-kata5-803",
+    "index": 803
+  },
+  {
+    "surface": "ノックアウト",
+    "reading": "knockout",
+    "code": "cr-kata5-804",
+    "index": 804
+  },
+  {
+    "surface": "ナリヤン・マル",
+    "reading": "nariyanmaru",
+    "code": "cr-kata5-805",
+    "index": 805
+  },
+  {
+    "surface": "ネガティブ",
+    "reading": "negative",
+    "code": "cr-kata5-806",
+    "index": 806
+  },
+  {
+    "surface": "ノギス",
+    "reading": "nonius",
+    "code": "cr-kata5-807",
+    "index": 807
+  },
+  {
+    "surface": "ニート",
+    "reading": "neet",
+    "code": "cr-kata5-808",
+    "index": 808
+  },
+  {
+    "surface": "ヌタウナギ",
+    "reading": "nutaunagi",
+    "code": "cr-kata5-809",
+    "index": 809
+  },
+  {
+    "surface": "ノンケ",
+    "reading": "nonke",
+    "code": "cr-kata5-810",
+    "index": 810
+  },
+  {
+    "surface": "ナンプラ",
+    "reading": "nanplastics",
+    "code": "cr-kata5-811",
+    "index": 811
+  },
+  {
+    "surface": "ニューシティー",
+    "reading": "newcity",
+    "code": "cr-kata5-812",
+    "index": 812
+  },
+  {
+    "surface": "ヌメヌメ",
+    "reading": "numenume",
+    "code": "cr-kata5-813",
+    "index": 813
+  },
+  {
+    "surface": "ネオ",
+    "reading": "neo",
+    "code": "cr-kata5-814",
+    "index": 814
+  },
+  {
+    "surface": "ネットプレー",
+    "reading": "netplay",
+    "code": "cr-kata5-815",
+    "index": 815
+  },
+  {
+    "surface": "ナーガッパッティナム",
+    "reading": "naagappattinamu",
+    "code": "cr-kata5-816",
+    "index": 816
+  },
+  {
+    "surface": "ナンテール",
+    "reading": "nantail",
+    "code": "cr-kata5-817",
+    "index": 817
+  },
+  {
+    "surface": "ニカラグア",
+    "reading": "nicaragua",
+    "code": "cr-kata5-818",
+    "index": 818
+  },
+  {
+    "surface": "ニヒリズム",
+    "reading": "nihilism",
+    "code": "cr-kata5-819",
+    "index": 819
+  },
+  {
+    "surface": "ノネズミ",
+    "reading": "nonezumi",
+    "code": "cr-kata5-820",
+    "index": 820
+  },
+  {
+    "surface": "ニエリ",
+    "reading": "nieri",
+    "code": "cr-kata5-821",
+    "index": 821
+  },
+  {
+    "surface": "ノーブランド",
+    "reading": "nobrand",
+    "code": "cr-kata5-822",
+    "index": 822
+  },
+  {
+    "surface": "ニューバーン",
+    "reading": "newbahn",
+    "code": "cr-kata5-823",
+    "index": 823
+  },
+  {
+    "surface": "ニクバエ",
+    "reading": "nikubae",
+    "code": "cr-kata5-824",
+    "index": 824
+  },
+  {
+    "surface": "ネオンテトラ",
+    "reading": "neontetra",
+    "code": "cr-kata5-825",
+    "index": 825
+  },
+  {
+    "surface": "ネイプルズ",
+    "reading": "neipull",
+    "code": "cr-kata5-826",
+    "index": 826
+  },
+  {
+    "surface": "ニンフォマニア",
+    "reading": "nymphomania",
+    "code": "cr-kata5-827",
+    "index": 827
+  },
+  {
+    "surface": "ニューファッション",
+    "reading": "newfashion",
+    "code": "cr-kata5-828",
+    "index": 828
+  },
+  {
+    "surface": "ネクロポリス",
+    "reading": "necropolis",
+    "code": "cr-kata5-829",
+    "index": 829
+  },
+  {
+    "surface": "ナローバンド",
+    "reading": "narrowband",
+    "code": "cr-kata5-830",
+    "index": 830
+  },
+  {
+    "surface": "ニグラン",
+    "reading": "nigrand",
+    "code": "cr-kata5-831",
+    "index": 831
+  },
+  {
+    "surface": "ヌエバ・ロハ",
+    "reading": "nuevaroha",
+    "code": "cr-kata5-832",
+    "index": 832
+  },
+  {
+    "surface": "ノバ",
+    "reading": "nova",
+    "code": "cr-kata5-833",
+    "index": 833
+  },
+  {
+    "surface": "ネグリチュード",
+    "reading": "negritude",
+    "code": "cr-kata5-834",
+    "index": 834
+  },
+  {
+    "surface": "ヌルミヤルヴィ",
+    "reading": "nurumiyaruvi",
+    "code": "cr-kata5-835",
+    "index": 835
+  },
+  {
+    "surface": "ニッカド",
+    "reading": "nikkado",
+    "code": "cr-kata5-836",
+    "index": 836
+  },
+  {
+    "surface": "ナローキャスティング",
+    "reading": "naroocasting",
+    "code": "cr-kata5-837",
+    "index": 837
+  },
+  {
+    "surface": "ネーム",
+    "reading": "name",
+    "code": "cr-kata5-838",
+    "index": 838
+  },
+  {
+    "surface": "ノヴァ",
+    "reading": "nova",
+    "code": "cr-kata5-839",
+    "index": 839
+  },
+  {
+    "surface": "ナレーション",
+    "reading": "narration",
+    "code": "cr-kata5-840",
+    "index": 840
+  },
+  {
+    "surface": "ネッティング",
+    "reading": "netting",
+    "code": "cr-kata5-841",
+    "index": 841
+  },
+  {
+    "surface": "ノボロギク",
+    "reading": "noborogiku",
+    "code": "cr-kata5-842",
+    "index": 842
+  },
+  {
+    "surface": "ナフタレン",
+    "reading": "naphthalene",
+    "code": "cr-kata5-843",
+    "index": 843
+  },
+  {
+    "surface": "ニュースマガジン",
+    "reading": "newsmagazine",
+    "code": "cr-kata5-844",
+    "index": 844
+  },
+  {
+    "surface": "ナノセカンド",
+    "reading": "nanosecond",
+    "code": "cr-kata5-845",
+    "index": 845
+  },
+  {
+    "surface": "ネゴシエート",
+    "reading": "negoshieeto",
+    "code": "cr-kata5-846",
+    "index": 846
+  },
+  {
+    "surface": "ヌケヌケ",
+    "reading": "nukenuke",
+    "code": "cr-kata5-847",
+    "index": 847
+  },
+  {
+    "surface": "ノックオン",
+    "reading": "knockon",
+    "code": "cr-kata5-848",
+    "index": 848
+  },
+  {
+    "surface": "ノボタン",
+    "reading": "nobutton",
+    "code": "cr-kata5-849",
+    "index": 849
+  },
+  {
+    "surface": "ネクトン",
+    "reading": "nekton",
+    "code": "cr-kata5-850",
+    "index": 850
+  },
+  {
+    "surface": "ネバダ",
+    "reading": "nevada",
+    "code": "cr-kata5-851",
+    "index": 851
+  },
+  {
+    "surface": "ナイトウエア",
+    "reading": "nightwear",
+    "code": "cr-kata5-852",
+    "index": 852
+  },
+  {
+    "surface": "ナミアゲハ",
+    "reading": "namiageha",
+    "code": "cr-kata5-853",
+    "index": 853
+  },
+  {
+    "surface": "ナッシュビル",
+    "reading": "nasshubiru",
+    "code": "cr-kata5-854",
+    "index": 854
+  },
+  {
+    "surface": "ヌカカ",
+    "reading": "nukaka",
+    "code": "cr-kata5-855",
+    "index": 855
+  },
+  {
+    "surface": "ニシネズミザメ",
+    "reading": "nishinezumizame",
+    "code": "cr-kata5-856",
+    "index": 856
+  },
+  {
+    "surface": "ネブラスカ",
+    "reading": "nebraska",
+    "code": "cr-kata5-857",
+    "index": 857
+  },
+  {
+    "surface": "ナティティングー",
+    "reading": "natitinguu",
+    "code": "cr-kata5-858",
+    "index": 858
+  },
+  {
+    "surface": "ノーコントロール",
+    "reading": "nocontrol",
+    "code": "cr-kata5-859",
+    "index": 859
+  },
+  {
+    "surface": "ノーアイロン",
+    "reading": "noiron",
+    "code": "cr-kata5-860",
+    "index": 860
+  },
+  {
+    "surface": "ネオクラシシズム",
+    "reading": "neoclassicism",
+    "code": "cr-kata5-861",
+    "index": 861
+  },
+  {
+    "surface": "ネック",
+    "reading": "neck",
+    "code": "cr-kata5-862",
+    "index": 862
+  },
+  {
+    "surface": "ノヴィ・ソンチ",
+    "reading": "novisonchi",
+    "code": "cr-kata5-863",
+    "index": 863
+  },
+  {
+    "surface": "ネイティック",
+    "reading": "neitick",
+    "code": "cr-kata5-864",
+    "index": 864
+  },
+  {
+    "surface": "ナックルボール",
+    "reading": "knuckleball",
+    "code": "cr-kata5-865",
+    "index": 865
+  },
+  {
+    "surface": "ノータリン",
+    "reading": "notallinn",
+    "code": "cr-kata5-866",
+    "index": 866
+  },
+  {
+    "surface": "ナンボ",
+    "reading": "nanbo",
+    "code": "cr-kata5-867",
+    "index": 867
+  },
+  {
+    "surface": "ナギ",
+    "reading": "nagy",
+    "code": "cr-kata5-868",
+    "index": 868
+  },
+  {
+    "surface": "ナラトロジー",
+    "reading": "narratology",
+    "code": "cr-kata5-869",
+    "index": 869
+  },
+  {
+    "surface": "ノート",
+    "reading": "note",
+    "code": "cr-kata5-870",
+    "index": 870
+  },
+  {
+    "surface": "ノルマ",
+    "reading": "norma",
+    "code": "cr-kata5-871",
+    "index": 871
+  },
+  {
+    "surface": "ナッシング",
+    "reading": "nothing",
+    "code": "cr-kata5-872",
+    "index": 872
+  },
+  {
+    "surface": "ニグリロ",
+    "reading": "niguriro",
+    "code": "cr-kata5-873",
+    "index": 873
+  },
+  {
+    "surface": "ナタナエル",
+    "reading": "natanaeru",
+    "code": "cr-kata5-874",
+    "index": 874
+  },
+  {
+    "surface": "ニトラ",
+    "reading": "nitora",
+    "code": "cr-kata5-875",
+    "index": 875
+  },
+  {
+    "surface": "ニコメ",
+    "reading": "nicomment",
+    "code": "cr-kata5-876",
+    "index": 876
+  },
+  {
+    "surface": "ニーダ",
+    "reading": "niida",
+    "code": "cr-kata5-877",
+    "index": 877
+  },
+  {
+    "surface": "ナルヴァ",
+    "reading": "naruva",
+    "code": "cr-kata5-878",
+    "index": 878
+  },
+  {
+    "surface": "ノーブルマン",
+    "reading": "nobleman",
+    "code": "cr-kata5-879",
+    "index": 879
+  },
+  {
+    "surface": "ノーマリゼーション",
+    "reading": "normalization",
+    "code": "cr-kata5-880",
+    "index": 880
+  },
+  {
+    "surface": "ノンバーバル",
+    "reading": "nonverbal",
+    "code": "cr-kata5-881",
+    "index": 881
+  },
+  {
+    "surface": "ヌルバイト",
+    "reading": "nullarbeit",
+    "code": "cr-kata5-882",
+    "index": 882
+  },
+  {
+    "surface": "ナフタ",
+    "reading": "nafuta",
+    "code": "cr-kata5-883",
+    "index": 883
+  },
+  {
+    "surface": "ニュー・ルック",
+    "reading": "newlook",
+    "code": "cr-kata5-884",
+    "index": 884
+  },
+  {
+    "surface": "ニヴフ",
+    "reading": "nivufu",
+    "code": "cr-kata5-885",
+    "index": 885
+  },
+  {
+    "surface": "ナショナル・ミニマム",
+    "reading": "nationalminimum",
+    "code": "cr-kata5-886",
+    "index": 886
+  },
+  {
+    "surface": "ネガフィルム",
+    "reading": "negafilm",
+    "code": "cr-kata5-887",
+    "index": 887
+  },
+  {
+    "surface": "ネクター",
+    "reading": "nectar",
+    "code": "cr-kata5-888",
+    "index": 888
+  },
+  {
+    "surface": "ニーズ",
+    "reading": "needs",
+    "code": "cr-kata5-889",
+    "index": 889
+  },
+  {
+    "surface": "ナビ",
+    "reading": "navigation",
+    "code": "cr-kata5-890",
+    "index": 890
+  },
+  {
+    "surface": "ノヴォチェルカッスク",
+    "reading": "novocherukassuku",
+    "code": "cr-kata5-891",
+    "index": 891
+  },
+  {
+    "surface": "ナイフエッジ",
+    "reading": "knifeedge",
+    "code": "cr-kata5-892",
+    "index": 892
+  },
+  {
+    "surface": "ネットゥーノ",
+    "reading": "nettuuno",
+    "code": "cr-kata5-893",
+    "index": 893
+  },
+  {
+    "surface": "ナミダクロハギ",
+    "reading": "namidakurohagi",
+    "code": "cr-kata5-894",
+    "index": 894
+  },
+  {
+    "surface": "ナイーヴ",
+    "reading": "naive",
+    "code": "cr-kata5-895",
+    "index": 895
+  },
+  {
+    "surface": "ノドチンコ",
+    "reading": "nodochinko",
+    "code": "cr-kata5-896",
+    "index": 896
+  },
+  {
+    "surface": "ノイミュンスター",
+    "reading": "noimyunsutaa",
+    "code": "cr-kata5-897",
+    "index": 897
+  },
+  {
+    "surface": "ナハシ",
+    "reading": "nahashi",
+    "code": "cr-kata5-898",
+    "index": 898
+  },
+  {
+    "surface": "ナズナ",
+    "reading": "nazuna",
+    "code": "cr-kata5-899",
+    "index": 899
+  },
+  {
+    "surface": "ノジコ",
+    "reading": "nojiko",
+    "code": "cr-kata5-900",
+    "index": 900
+  },
+  {
+    "surface": "ニューブローンフェルズ",
+    "reading": "nyuuburoonferuzu",
+    "code": "cr-kata5-901",
+    "index": 901
+  },
+  {
+    "surface": "ナイティ",
+    "reading": "naiti",
+    "code": "cr-kata5-902",
+    "index": 902
+  },
+  {
+    "surface": "ネオダーウィニズム",
+    "reading": "neodarwinism",
+    "code": "cr-kata5-903",
+    "index": 903
+  },
+  {
+    "surface": "ネグリト",
+    "reading": "negrito",
+    "code": "cr-kata5-904",
+    "index": 904
+  },
+  {
+    "surface": "ニコニコ",
+    "reading": "nikoniko",
+    "code": "cr-kata5-905",
+    "index": 905
+  },
+  {
+    "surface": "ネストテーブル",
+    "reading": "nesttable",
+    "code": "cr-kata5-906",
+    "index": 906
+  },
+  {
+    "surface": "ノーリターン",
+    "reading": "noreturn",
+    "code": "cr-kata5-907",
+    "index": 907
+  },
+  {
+    "surface": "ニックネーム",
+    "reading": "nickname",
+    "code": "cr-kata5-908",
+    "index": 908
+  },
+  {
+    "surface": "ナルシー",
+    "reading": "narusea",
+    "code": "cr-kata5-909",
+    "index": 909
+  },
+  {
+    "surface": "ヌガー",
+    "reading": "nougat",
+    "code": "cr-kata5-910",
+    "index": 910
+  },
+  {
+    "surface": "ヌードマウス",
+    "reading": "nudemouse",
+    "code": "cr-kata5-911",
+    "index": 911
+  },
+  {
+    "surface": "ナバホ",
+    "reading": "nabaho",
+    "code": "cr-kata5-912",
+    "index": 912
+  },
+  {
+    "surface": "ヌルデ",
+    "reading": "nurude",
+    "code": "cr-kata5-913",
+    "index": 913
+  },
+  {
+    "surface": "ヌルパタン",
+    "reading": "nullpattern",
+    "code": "cr-kata5-914",
+    "index": 914
+  },
+  {
+    "surface": "ナイトゲーム",
+    "reading": "nightgame",
+    "code": "cr-kata5-915",
+    "index": 915
+  },
+  {
+    "surface": "ナッソー",
+    "reading": "nassau",
+    "code": "cr-kata5-916",
+    "index": 916
+  },
+  {
+    "surface": "ニイザ",
+    "reading": "niiza",
+    "code": "cr-kata5-917",
+    "index": 917
+  },
+  {
+    "surface": "ニランガ",
+    "reading": "niranga",
+    "code": "cr-kata5-918",
+    "index": 918
+  },
+  {
+    "surface": "ナチ",
+    "reading": "nazi",
+    "code": "cr-kata5-919",
+    "index": 919
+  },
+  {
+    "surface": "ニョキニョキ",
+    "reading": "nyokinyoki",
+    "code": "cr-kata5-920",
+    "index": 920
+  },
+  {
+    "surface": "ナイトガウン",
+    "reading": "nightgown",
+    "code": "cr-kata5-921",
+    "index": 921
+  },
+  {
+    "surface": "ナイスバデー",
+    "reading": "naisubadee",
+    "code": "cr-kata5-922",
+    "index": 922
+  },
+  {
+    "surface": "ネイキット",
+    "reading": "neikit",
+    "code": "cr-kata5-923",
+    "index": 923
+  },
+  {
+    "surface": "ナツツバキ",
+    "reading": "natsutsubaki",
+    "code": "cr-kata5-924",
+    "index": 924
+  },
+  {
+    "surface": "ニューウェイヴ",
+    "reading": "newwave",
+    "code": "cr-kata5-925",
+    "index": 925
+  },
+  {
+    "surface": "ネマトーダ",
+    "reading": "nematoda",
+    "code": "cr-kata5-926",
+    "index": 926
+  },
+  {
+    "surface": "ノイズ",
+    "reading": "noise",
+    "code": "cr-kata5-927",
+    "index": 927
+  },
+  {
+    "surface": "ニューブリテン",
+    "reading": "newbritten",
+    "code": "cr-kata5-928",
+    "index": 928
+  },
+  {
+    "surface": "ノドアカハチドリ",
+    "reading": "nodoakahachidori",
+    "code": "cr-kata5-929",
+    "index": 929
+  },
+  {
+    "surface": "ナチュラルヒストリー",
+    "reading": "naturalhistory",
+    "code": "cr-kata5-930",
+    "index": 930
+  },
+  {
+    "surface": "ネゲット",
+    "reading": "neget",
+    "code": "cr-kata5-931",
+    "index": 931
+  },
+  {
+    "surface": "ネーティブ",
+    "reading": "neetibu",
+    "code": "cr-kata5-932",
+    "index": 932
+  },
+  {
+    "surface": "ナナフシ",
+    "reading": "nanafushi",
+    "code": "cr-kata5-933",
+    "index": 933
+  },
+  {
+    "surface": "ノベライズ",
+    "reading": "novelize",
+    "code": "cr-kata5-934",
+    "index": 934
+  },
+  {
+    "surface": "ナラタージュ",
+    "reading": "narratage",
+    "code": "cr-kata5-935",
+    "index": 935
+  },
+  {
+    "surface": "ノンターミナル",
+    "reading": "nonterminal",
+    "code": "cr-kata5-936",
+    "index": 936
+  },
+  {
+    "surface": "ナガノシ",
+    "reading": "naga",
+    "code": "cr-kata5-937",
+    "index": 937
+  },
+  {
+    "surface": "ナル",
+    "reading": "naru",
+    "code": "cr-kata5-938",
+    "index": 938
+  },
+  {
+    "surface": "ノークラッチ",
+    "reading": "noclutch",
+    "code": "cr-kata5-939",
+    "index": 939
+  },
+  {
+    "surface": "ニュートラル",
+    "reading": "neutral",
+    "code": "cr-kata5-940",
+    "index": 940
+  },
+  {
+    "surface": "ニューク",
+    "reading": "newku",
+    "code": "cr-kata5-941",
+    "index": 941
+  },
+  {
+    "surface": "ニウーキ",
+    "reading": "niuuki",
+    "code": "cr-kata5-942",
+    "index": 942
+  },
+  {
+    "surface": "ノベルズ",
+    "reading": "nobell",
+    "code": "cr-kata5-943",
+    "index": 943
+  },
+  {
+    "surface": "ネットプライス",
+    "reading": "netprice",
+    "code": "cr-kata5-944",
+    "index": 944
+  },
+  {
+    "surface": "ニシキウズガイ",
+    "reading": "nishikiuzugai",
+    "code": "cr-kata5-945",
+    "index": 945
+  },
+  {
+    "surface": "ナジュラン",
+    "reading": "najurun",
+    "code": "cr-kata5-946",
+    "index": 946
+  },
+  {
+    "surface": "ノゴマ",
+    "reading": "nogoma",
+    "code": "cr-kata5-947",
+    "index": 947
+  },
+  {
+    "surface": "ニットウェア",
+    "reading": "knitwear",
+    "code": "cr-kata5-948",
+    "index": 948
+  },
+  {
+    "surface": "ノンステップバス",
+    "reading": "nonstepbus",
+    "code": "cr-kata5-949",
+    "index": 949
+  },
+  {
+    "surface": "ナント",
+    "reading": "nantes",
+    "code": "cr-kata5-950",
+    "index": 950
+  },
+  {
+    "surface": "ニュルンベルク",
+    "reading": "nurnberg",
+    "code": "cr-kata5-951",
+    "index": 951
+  },
+  {
+    "surface": "ナムプラー",
+    "reading": "namplaa",
+    "code": "cr-kata5-952",
+    "index": 952
+  },
+  {
+    "surface": "ナレ",
+    "reading": "nare",
+    "code": "cr-kata5-953",
+    "index": 953
+  },
+  {
+    "surface": "ノヴォ・メスト",
+    "reading": "novomesut",
+    "code": "cr-kata5-954",
+    "index": 954
+  },
+  {
+    "surface": "ニューギニア",
+    "reading": "nyuuginia",
+    "code": "cr-kata5-955",
+    "index": 955
+  },
+  {
+    "surface": "ネルソン",
+    "reading": "nelson",
+    "code": "cr-kata5-956",
+    "index": 956
+  },
+  {
+    "surface": "ナガ",
+    "reading": "naga",
+    "code": "cr-kata5-957",
+    "index": 957
+  },
+  {
+    "surface": "ネットワークアドレス",
+    "reading": "networkaddress",
+    "code": "cr-kata5-958",
+    "index": 958
+  },
+  {
+    "surface": "ノルマル",
+    "reading": "normal",
+    "code": "cr-kata5-959",
+    "index": 959
+  },
+  {
+    "surface": "ネウケン",
+    "reading": "neuken",
+    "code": "cr-kata5-960",
+    "index": 960
+  },
+  {
+    "surface": "ナーンデード",
+    "reading": "naandeedo",
+    "code": "cr-kata5-961",
+    "index": 961
+  },
+  {
+    "surface": "ネーキッド",
+    "reading": "naked",
+    "code": "cr-kata5-962",
+    "index": 962
+  },
+  {
+    "surface": "ナーン",
+    "reading": "naan",
+    "code": "cr-kata5-963",
+    "index": 963
+  },
+  {
+    "surface": "ノーシーボ",
+    "reading": "nooshiibo",
+    "code": "cr-kata5-964",
+    "index": 964
+  },
+  {
+    "surface": "ナショナルリーグ",
+    "reading": "nationalleague",
+    "code": "cr-kata5-965",
+    "index": 965
+  },
+  {
+    "surface": "ノイロン",
+    "reading": "noiron",
+    "code": "cr-kata5-966",
+    "index": 966
+  },
+  {
+    "surface": "ニンフ",
+    "reading": "nymph",
+    "code": "cr-kata5-967",
+    "index": 967
+  },
+  {
+    "surface": "ニュースルーム",
+    "reading": "newsroom",
+    "code": "cr-kata5-968",
+    "index": 968
+  },
+  {
+    "surface": "ネオポリス",
+    "reading": "neopolice",
+    "code": "cr-kata5-969",
+    "index": 969
+  },
+  {
+    "surface": "ノアザミ",
+    "reading": "noazami",
+    "code": "cr-kata5-970",
+    "index": 970
+  },
+  {
+    "surface": "ニホントウキ",
+    "reading": "nihontouki",
+    "code": "cr-kata5-971",
+    "index": 971
+  },
+  {
+    "surface": "ニューヘイブン",
+    "reading": "newhaven",
+    "code": "cr-kata5-972",
+    "index": 972
+  },
+  {
+    "surface": "ニュールック",
+    "reading": "newlook",
+    "code": "cr-kata5-973",
+    "index": 973
+  },
+  {
+    "surface": "ナッペ",
+    "reading": "nappe",
+    "code": "cr-kata5-974",
+    "index": 974
+  },
+  {
+    "surface": "ナウカルパン",
+    "reading": "nowkarupao",
+    "code": "cr-kata5-975",
+    "index": 975
+  },
+  {
+    "surface": "ナツメグ",
+    "reading": "nutmeg",
+    "code": "cr-kata5-976",
+    "index": 976
+  },
+  {
+    "surface": "ニコヨン",
+    "reading": "nikoyon",
+    "code": "cr-kata5-977",
+    "index": 977
+  },
+  {
+    "surface": "ナンバープレース",
+    "reading": "numberplace",
+    "code": "cr-kata5-978",
+    "index": 978
+  },
+  {
+    "surface": "ニーデ",
+    "reading": "kneedes",
+    "code": "cr-kata5-979",
+    "index": 979
+  },
+  {
+    "surface": "ヌルヌル",
+    "reading": "nurunuru",
+    "code": "cr-kata5-980",
+    "index": 980
+  },
+  {
+    "surface": "ネイティブアメリカン",
+    "reading": "neitibuamerican",
+    "code": "cr-kata5-981",
+    "index": 981
+  },
+  {
+    "surface": "ネクタイ",
+    "reading": "necktie",
+    "code": "cr-kata5-982",
+    "index": 982
+  },
+  {
+    "surface": "ナンクロ",
+    "reading": "nanclos",
+    "code": "cr-kata5-983",
+    "index": 983
+  },
+  {
+    "surface": "ニューポートリッチー",
+    "reading": "newportrichie",
+    "code": "cr-kata5-984",
+    "index": 984
+  },
+  {
+    "surface": "ニューハンプシャー",
+    "reading": "nyuuhanpushaa",
+    "code": "cr-kata5-985",
+    "index": 985
+  },
+  {
+    "surface": "ニオビウム",
+    "reading": "niobiumu",
+    "code": "cr-kata5-986",
+    "index": 986
+  },
+  {
+    "surface": "ノザワナ",
+    "reading": "nozawana",
+    "code": "cr-kata5-987",
+    "index": 987
+  },
+  {
+    "surface": "ナショナリゼーション",
+    "reading": "nationalization",
+    "code": "cr-kata5-988",
+    "index": 988
+  },
+  {
+    "surface": "ノズル",
+    "reading": "nozzle",
+    "code": "cr-kata5-989",
+    "index": 989
+  },
+  {
+    "surface": "ニュースバリュー",
+    "reading": "newsvalue",
+    "code": "cr-kata5-990",
+    "index": 990
+  },
+  {
+    "surface": "ナジカニジャ",
+    "reading": "najikanija",
+    "code": "cr-kata5-991",
+    "index": 991
+  },
+  {
+    "surface": "ネッシー",
+    "reading": "nessie",
+    "code": "cr-kata5-992",
+    "index": 992
+  },
+  {
+    "surface": "ニュージーランド",
+    "reading": "newzealand",
+    "code": "cr-kata5-993",
+    "index": 993
+  },
+  {
+    "surface": "ネカマ",
+    "reading": "nekama",
+    "code": "cr-kata5-994",
+    "index": 994
+  },
+  {
+    "surface": "ニヤリ",
+    "reading": "niyari",
+    "code": "cr-kata5-995",
+    "index": 995
+  },
+  {
+    "surface": "ナンバーワン",
+    "reading": "numberone",
+    "code": "cr-kata5-996",
+    "index": 996
+  },
+  {
+    "surface": "ネクサス",
+    "reading": "nexus",
+    "code": "cr-kata5-997",
+    "index": 997
+  },
+  {
+    "surface": "ナフサ",
+    "reading": "naphtha",
+    "code": "cr-kata5-998",
+    "index": 998
+  },
+  {
+    "surface": "ナイロン",
+    "reading": "nylon",
+    "code": "cr-kata5-999",
+    "index": 999
+  },
+  {
+    "surface": "ネオリアリズム",
+    "reading": "neorealism",
+    "code": "cr-kata5-1000",
+    "index": 1000
+  },
+  {
+    "surface": "ノーザンバラムンディ",
+    "reading": "noozanbaramundi",
+    "code": "cr-kata5-1001",
+    "index": 1001
+  },
+  {
+    "surface": "ナイチンゲイル",
+    "reading": "naichingeiru",
+    "code": "cr-kata5-1002",
+    "index": 1002
+  },
+  {
+    "surface": "ナイン",
+    "reading": "nine",
+    "code": "cr-kata5-1003",
+    "index": 1003
+  },
+  {
+    "surface": "ネコザメ",
+    "reading": "nekozame",
+    "code": "cr-kata5-1004",
+    "index": 1004
+  },
+  {
+    "surface": "ナゲット",
+    "reading": "nugget",
+    "code": "cr-kata5-1005",
+    "index": 1005
+  },
+  {
+    "surface": "ノンスリップ",
+    "reading": "nonslip",
+    "code": "cr-kata5-1006",
+    "index": 1006
+  },
+  {
+    "surface": "ナタ",
+    "reading": "nata",
+    "code": "cr-kata5-1007",
+    "index": 1007
+  },
+  {
+    "surface": "ノーパーキング",
+    "reading": "noparking",
+    "code": "cr-kata5-1008",
+    "index": 1008
+  },
+  {
+    "surface": "ネオシュガー",
+    "reading": "neosugar",
+    "code": "cr-kata5-1009",
+    "index": 1009
+  },
+  {
+    "surface": "ネコチェア",
+    "reading": "nekochair",
+    "code": "cr-kata5-1010",
+    "index": 1010
+  },
+  {
+    "surface": "ネルヴィアーノ",
+    "reading": "neruviaano",
+    "code": "cr-kata5-1011",
+    "index": 1011
+  },
+  {
+    "surface": "ニュートリノ",
+    "reading": "neutrino",
+    "code": "cr-kata5-1012",
+    "index": 1012
+  },
+  {
+    "surface": "ナイルワニ",
+    "reading": "nilewani",
+    "code": "cr-kata5-1013",
+    "index": 1013
+  },
+  {
+    "surface": "ノグソ",
+    "reading": "noguso",
+    "code": "cr-kata5-1014",
+    "index": 1014
+  },
+  {
+    "surface": "ノウ",
+    "reading": "no",
+    "code": "cr-kata5-1015",
+    "index": 1015
+  },
+  {
+    "surface": "ノンブロッキング",
+    "reading": "nonblocking",
+    "code": "cr-kata5-1016",
+    "index": 1016
+  },
+  {
+    "surface": "ネガティヴ",
+    "reading": "negative",
+    "code": "cr-kata5-1017",
+    "index": 1017
+  },
+  {
+    "surface": "ネダーランド",
+    "reading": "nedaarando",
+    "code": "cr-kata5-1018",
+    "index": 1018
+  },
+  {
+    "surface": "ナフド",
+    "reading": "nafudo",
+    "code": "cr-kata5-1019",
+    "index": 1019
+  },
+  {
+    "surface": "ノモグラフ",
+    "reading": "nomogurafu",
+    "code": "cr-kata5-1020",
+    "index": 1020
+  },
+  {
+    "surface": "ナイアス",
+    "reading": "naiasu",
+    "code": "cr-kata5-1021",
+    "index": 1021
+  },
+  {
+    "surface": "ニューデリー",
+    "reading": "nyuuderii",
+    "code": "cr-kata5-1022",
+    "index": 1022
+  },
+  {
+    "surface": "ニュートラリティー",
+    "reading": "nyuutoraritii",
+    "code": "cr-kata5-1023",
+    "index": 1023
+  },
+  {
+    "surface": "ネクスト",
+    "reading": "next",
+    "code": "cr-kata5-1024",
+    "index": 1024
+  },
+  {
+    "surface": "ナシ",
+    "reading": "nashi",
+    "code": "cr-kata5-1025",
+    "index": 1025
+  },
+  {
+    "surface": "ノースキングスタウン",
+    "reading": "northkingtown",
+    "code": "cr-kata5-1026",
+    "index": 1026
+  },
+  {
+    "surface": "ニュアンス",
+    "reading": "nuance",
+    "code": "cr-kata5-1027",
+    "index": 1027
+  },
+  {
+    "surface": "ナイティンゲイル",
+    "reading": "nightingale",
+    "code": "cr-kata5-1028",
+    "index": 1028
+  },
+  {
+    "surface": "ニーレングス",
+    "reading": "kneelength",
+    "code": "cr-kata5-1029",
+    "index": 1029
+  },
+  {
+    "surface": "ノガン",
+    "reading": "nogan",
+    "code": "cr-kata5-1030",
+    "index": 1030
+  },
+  {
+    "surface": "ナップサック",
+    "reading": "knapsack",
+    "code": "cr-kata5-1031",
+    "index": 1031
+  },
+  {
+    "surface": "ノンバンク",
+    "reading": "nonbank",
+    "code": "cr-kata5-1032",
+    "index": 1032
+  },
+  {
+    "surface": "ナチョ",
+    "reading": "nacho",
+    "code": "cr-kata5-1033",
+    "index": 1033
+  },
+  {
+    "surface": "ナガス",
+    "reading": "nagasu",
+    "code": "cr-kata5-1034",
+    "index": 1034
+  },
+  {
+    "surface": "ノーカーボン",
+    "reading": "nocarbon",
+    "code": "cr-kata5-1035",
+    "index": 1035
+  },
+  {
+    "surface": "ニサ",
+    "reading": "nisa",
+    "code": "cr-kata5-1036",
+    "index": 1036
+  },
+  {
+    "surface": "ヌーボ",
+    "reading": "nouveau",
+    "code": "cr-kata5-1037",
+    "index": 1037
+  },
+  {
+    "surface": "ノッシノッシ",
+    "reading": "nosshinosshi",
+    "code": "cr-kata5-1038",
+    "index": 1038
+  },
+  {
+    "surface": "ナザレ",
+    "reading": "nazareth",
+    "code": "cr-kata5-1039",
+    "index": 1039
+  },
+  {
+    "surface": "ノーブル",
+    "reading": "noble",
+    "code": "cr-kata5-1040",
+    "index": 1040
+  },
+  {
+    "surface": "ノボリ",
+    "reading": "nobori",
+    "code": "cr-kata5-1041",
+    "index": 1041
+  },
+  {
+    "surface": "ニトログリセリン",
+    "reading": "nitroglycerine",
+    "code": "cr-kata5-1042",
+    "index": 1042
+  },
+  {
+    "surface": "ニューアカ",
+    "reading": "newaka",
+    "code": "cr-kata5-1043",
+    "index": 1043
+  },
+  {
+    "surface": "ネコミミ",
+    "reading": "nekomimi",
+    "code": "cr-kata5-1044",
+    "index": 1044
+  },
+  {
+    "surface": "ナショナル",
+    "reading": "national",
+    "code": "cr-kata5-1045",
+    "index": 1045
+  },
+  {
+    "surface": "ニアピン",
+    "reading": "nearpin",
+    "code": "cr-kata5-1046",
+    "index": 1046
+  },
+  {
+    "surface": "ナイトスポット",
+    "reading": "nightspot",
+    "code": "cr-kata5-1047",
+    "index": 1047
+  },
+  {
+    "surface": "ナップ",
+    "reading": "nappu",
+    "code": "cr-kata5-1048",
+    "index": 1048
+  },
+  {
+    "surface": "ニンフェット",
+    "reading": "nymphet",
+    "code": "cr-kata5-1049",
+    "index": 1049
+  },
+  {
+    "surface": "ネゴシエータ",
+    "reading": "negoshieeta",
+    "code": "cr-kata5-1050",
+    "index": 1050
+  },
+  {
+    "surface": "ネオプレン",
+    "reading": "neoprene",
+    "code": "cr-kata5-1051",
+    "index": 1051
+  },
+  {
+    "surface": "ノミナリズム",
+    "reading": "nominalism",
+    "code": "cr-kata5-1052",
+    "index": 1052
+  },
+  {
+    "surface": "ノーウィッチ",
+    "reading": "nowitch",
+    "code": "cr-kata5-1053",
+    "index": 1053
+  },
+  {
+    "surface": "ナンバリングマシン",
+    "reading": "numberingmachine",
+    "code": "cr-kata5-1054",
+    "index": 1054
+  },
+  {
+    "surface": "ノーフロスト",
+    "reading": "nofrost",
+    "code": "cr-kata5-1055",
+    "index": 1055
+  },
+  {
+    "surface": "ニューシネマ",
+    "reading": "newcinema",
+    "code": "cr-kata5-1056",
+    "index": 1056
+  },
+  {
+    "surface": "ノーンカーイ",
+    "reading": "noonkaai",
+    "code": "cr-kata5-1057",
+    "index": 1057
+  },
+  {
+    "surface": "ニコリ",
+    "reading": "nikori",
+    "code": "cr-kata5-1058",
+    "index": 1058
+  },
+  {
+    "surface": "ニゴイ",
+    "reading": "nigoi",
+    "code": "cr-kata5-1059",
+    "index": 1059
+  },
+  {
+    "surface": "ニューロン",
+    "reading": "neuron",
+    "code": "cr-kata5-1060",
+    "index": 1060
+  },
+  {
+    "surface": "ノモグラム",
+    "reading": "nomogram",
+    "code": "cr-kata5-1061",
+    "index": 1061
+  },
+  {
+    "surface": "ナミベ",
+    "reading": "namibe",
+    "code": "cr-kata5-1062",
+    "index": 1062
+  },
+  {
+    "surface": "ノリウツギ",
+    "reading": "noriutsugi",
+    "code": "cr-kata5-1063",
+    "index": 1063
+  },
+  {
+    "surface": "ナメクジ",
+    "reading": "namekuji",
+    "code": "cr-kata5-1064",
+    "index": 1064
+  },
+  {
+    "surface": "ノキア",
+    "reading": "nokia",
+    "code": "cr-kata5-1065",
+    "index": 1065
+  },
+  {
+    "surface": "ネットリ",
+    "reading": "nettori",
+    "code": "cr-kata5-1066",
+    "index": 1066
+  },
+  {
+    "surface": "ニューイングランド",
+    "reading": "nyuuingurando",
+    "code": "cr-kata5-1067",
+    "index": 1067
+  },
+  {
+    "surface": "ナチズム",
+    "reading": "nazism",
+    "code": "cr-kata5-1068",
+    "index": 1068
+  },
+  {
+    "surface": "ネクラ",
+    "reading": "nekura",
+    "code": "cr-kata5-1069",
+    "index": 1069
+  },
+  {
+    "surface": "ナサ",
+    "reading": "nasa",
+    "code": "cr-kata5-1070",
+    "index": 1070
+  },
+  {
+    "surface": "ナチュラル・カラー",
+    "reading": "naturalcolor",
+    "code": "cr-kata5-1071",
+    "index": 1071
+  },
+  {
+    "surface": "ノウハウ",
+    "reading": "nouhau",
+    "code": "cr-kata5-1072",
+    "index": 1072
+  },
+  {
+    "surface": "ニュー・シティ",
+    "reading": "newcity",
+    "code": "cr-kata5-1073",
+    "index": 1073
+  },
+  {
+    "surface": "ナンキンムシ",
+    "reading": "nankinmushi",
+    "code": "cr-kata5-1074",
+    "index": 1074
+  },
+  {
+    "surface": "ノータッチ",
+    "reading": "notouch",
+    "code": "cr-kata5-1075",
+    "index": 1075
+  },
+  {
+    "surface": "ヌマトラノオ",
+    "reading": "numatoranoo",
+    "code": "cr-kata5-1076",
+    "index": 1076
+  },
+  {
+    "surface": "ナショナルブランド",
+    "reading": "nationalbrand",
+    "code": "cr-kata5-1077",
+    "index": 1077
+  },
+  {
+    "surface": "ニギリ",
+    "reading": "nigiri",
+    "code": "cr-kata5-1078",
+    "index": 1078
+  },
+  {
+    "surface": "ニャニャ",
+    "reading": "nyanya",
+    "code": "cr-kata5-1079",
+    "index": 1079
+  },
+  {
+    "surface": "ニュータイプ",
+    "reading": "newtype",
+    "code": "cr-kata5-1080",
+    "index": 1080
+  },
+  {
+    "surface": "ニジハギ",
+    "reading": "nijihagi",
+    "code": "cr-kata5-1081",
+    "index": 1081
+  },
+  {
+    "surface": "ナルボンヌ",
+    "reading": "narbonne",
+    "code": "cr-kata5-1082",
+    "index": 1082
+  },
+  {
+    "surface": "ナルシシスム",
+    "reading": "narcissism",
+    "code": "cr-kata5-1083",
+    "index": 1083
+  },
+  {
+    "surface": "ヌルリスト",
+    "reading": "nulllist",
+    "code": "cr-kata5-1084",
+    "index": 1084
+  },
+  {
+    "surface": "ナチェズ",
+    "reading": "nachezu",
+    "code": "cr-kata5-1085",
+    "index": 1085
+  },
+  {
+    "surface": "ノスリ",
+    "reading": "nosuri",
+    "code": "cr-kata5-1086",
+    "index": 1086
+  },
+  {
+    "surface": "ノスタルジー",
+    "reading": "nostalgia",
+    "code": "cr-kata5-1087",
+    "index": 1087
+  },
+  {
+    "surface": "ナリン",
+    "reading": "narin",
+    "code": "cr-kata5-1088",
+    "index": 1088
+  },
+  {
+    "surface": "ノヴェルティ",
+    "reading": "novelti",
+    "code": "cr-kata5-1089",
+    "index": 1089
+  },
+  {
+    "surface": "ネゴシエイター",
+    "reading": "negoshieitaa",
+    "code": "cr-kata5-1090",
+    "index": 1090
+  },
+  {
+    "surface": "ナヴァン",
+    "reading": "navan",
+    "code": "cr-kata5-1091",
+    "index": 1091
+  },
+  {
+    "surface": "ナルチク",
+    "reading": "naruchiku",
+    "code": "cr-kata5-1092",
+    "index": 1092
+  },
+  {
+    "surface": "ネガチブ",
+    "reading": "negative",
+    "code": "cr-kata5-1093",
+    "index": 1093
+  },
+  {
+    "surface": "ニジョウサバ",
+    "reading": "nijousaba",
+    "code": "cr-kata5-1094",
+    "index": 1094
+  },
+  {
+    "surface": "ニューメディア",
+    "reading": "newmedia",
+    "code": "cr-kata5-1095",
+    "index": 1095
+  },
+  {
+    "surface": "ニューフロンティア",
+    "reading": "newfrontier",
+    "code": "cr-kata5-1096",
+    "index": 1096
+  },
+  {
+    "surface": "ネルール",
+    "reading": "nehrule",
+    "code": "cr-kata5-1097",
+    "index": 1097
+  },
+  {
+    "surface": "ナチュラリズム",
+    "reading": "naturalism",
+    "code": "cr-kata5-1098",
+    "index": 1098
+  },
+  {
+    "surface": "ノゴヤ",
+    "reading": "nogoya",
+    "code": "cr-kata5-1099",
+    "index": 1099
+  },
+  {
+    "surface": "ナリッシュメント",
+    "reading": "nourishment",
+    "code": "cr-kata5-1100",
+    "index": 1100
+  },
+  {
+    "surface": "ノースマートルビーチ",
+    "reading": "noosumaatorubiichi",
+    "code": "cr-kata5-1101",
+    "index": 1101
+  },
+  {
+    "surface": "ネバネバ",
+    "reading": "nebaneba",
+    "code": "cr-kata5-1102",
+    "index": 1102
+  },
+  {
+    "surface": "ナウ",
+    "reading": "now",
+    "code": "cr-kata5-1103",
+    "index": 1103
+  },
+  {
+    "surface": "ニセモノ",
+    "reading": "nisemono",
+    "code": "cr-kata5-1104",
+    "index": 1104
+  },
+  {
+    "surface": "ネービブルー",
+    "reading": "neebiburuu",
+    "code": "cr-kata5-1105",
+    "index": 1105
+  },
+  {
+    "surface": "ナック",
+    "reading": "nack",
+    "code": "cr-kata5-1106",
+    "index": 1106
+  },
+  {
+    "surface": "ニモニック",
+    "reading": "nimonick",
+    "code": "cr-kata5-1107",
+    "index": 1107
+  },
+  {
+    "surface": "ニューヨーク",
+    "reading": "nyuuyooku",
+    "code": "cr-kata5-1108",
+    "index": 1108
+  },
+  {
+    "surface": "ネフトチャラ",
+    "reading": "nefutochara",
+    "code": "cr-kata5-1109",
+    "index": 1109
+  },
+  {
+    "surface": "ノーズ",
+    "reading": "nose",
+    "code": "cr-kata5-1110",
+    "index": 1110
+  },
+  {
+    "surface": "ノアー",
+    "reading": "noah",
+    "code": "cr-kata5-1111",
+    "index": 1111
+  },
+  {
+    "surface": "ナビムンバイ",
+    "reading": "navigationmunby",
+    "code": "cr-kata5-1112",
+    "index": 1112
+  },
+  {
+    "surface": "ネオロマンチズム",
+    "reading": "neoromanchizumu",
+    "code": "cr-kata5-1113",
+    "index": 1113
+  },
+  {
+    "surface": "ネイグウェア",
+    "reading": "neiguea",
+    "code": "cr-kata5-1114",
+    "index": 1114
+  },
+  {
+    "surface": "ノヴィ・パザル",
+    "reading": "novipazaru",
+    "code": "cr-kata5-1115",
+    "index": 1115
+  },
+  {
+    "surface": "ノーストナワンダ",
+    "reading": "noosutonawanda",
+    "code": "cr-kata5-1116",
+    "index": 1116
+  },
+  {
+    "surface": "ネレフタ",
+    "reading": "nerefuta",
+    "code": "cr-kata5-1117",
+    "index": 1117
+  },
+  {
+    "surface": "ニホンジカ",
+    "reading": "nihonjika",
+    "code": "cr-kata5-1118",
+    "index": 1118
+  },
+  {
+    "surface": "ニット",
+    "reading": "knit",
+    "code": "cr-kata5-1119",
+    "index": 1119
+  },
+  {
+    "surface": "ノイブランデンブルク",
+    "reading": "noiburandenburuku",
+    "code": "cr-kata5-1120",
+    "index": 1120
+  },
+  {
+    "surface": "ネフロン",
+    "reading": "nephron",
+    "code": "cr-kata5-1121",
+    "index": 1121
+  },
+  {
+    "surface": "ヌエバ・ヘローナ",
+    "reading": "nuevaheroona",
+    "code": "cr-kata5-1122",
+    "index": 1122
+  },
+  {
+    "surface": "ノーダン",
+    "reading": "nodan",
+    "code": "cr-kata5-1123",
+    "index": 1123
+  },
+  {
+    "surface": "ノルディック",
+    "reading": "norudikku",
+    "code": "cr-kata5-1124",
+    "index": 1124
+  },
+  {
+    "surface": "ニシテングギンザメ",
+    "reading": "nishitenguginzame",
+    "code": "cr-kata5-1125",
+    "index": 1125
+  },
+  {
+    "surface": "ネオリベラル",
+    "reading": "neoliberal",
+    "code": "cr-kata5-1126",
+    "index": 1126
+  },
+  {
+    "surface": "ネガティブキャンペーン",
+    "reading": "negativecampaign",
+    "code": "cr-kata5-1127",
+    "index": 1127
+  },
+  {
+    "surface": "ネグロ",
+    "reading": "negro",
+    "code": "cr-kata5-1128",
+    "index": 1128
+  },
+  {
+    "surface": "ネルスプロイト",
+    "reading": "nerusupuroito",
+    "code": "cr-kata5-1129",
+    "index": 1129
+  },
+  {
+    "surface": "ノーサンプトン",
+    "reading": "northampton",
+    "code": "cr-kata5-1130",
+    "index": 1130
+  },
+  {
+    "surface": "ヌクアロファ",
+    "reading": "nukualofa",
+    "code": "cr-kata5-1131",
+    "index": 1131
+  },
+  {
+    "surface": "ナインワ",
+    "reading": "ninewa",
+    "code": "cr-kata5-1132",
+    "index": 1132
+  },
+  {
+    "surface": "ニュージャージー",
+    "reading": "nyuujaajii",
+    "code": "cr-kata5-1133",
+    "index": 1133
+  },
+  {
+    "surface": "ナイフ",
+    "reading": "knife",
+    "code": "cr-kata5-1134",
+    "index": 1134
+  },
+  {
+    "surface": "ヌクイ",
+    "reading": "nukui",
+    "code": "cr-kata5-1135",
+    "index": 1135
+  },
+  {
+    "surface": "ヌケサク",
+    "reading": "nukesaku",
+    "code": "cr-kata5-1136",
+    "index": 1136
+  },
+  {
+    "surface": "ナハリヤ",
+    "reading": "naharear",
+    "code": "cr-kata5-1137",
+    "index": 1137
+  },
+  {
+    "surface": "ナビダイヤル",
+    "reading": "navigationdial",
+    "code": "cr-kata5-1138",
+    "index": 1138
+  },
+  {
+    "surface": "ニワウメ",
+    "reading": "niwaume",
+    "code": "cr-kata5-1139",
+    "index": 1139
+  },
+  {
+    "surface": "ナノチューブ",
+    "reading": "nanotube",
+    "code": "cr-kata5-1140",
+    "index": 1140
+  },
+  {
+    "surface": "ナショナルパーク",
+    "reading": "nationalpark",
+    "code": "cr-kata5-1141",
+    "index": 1141
+  },
+  {
+    "surface": "ナショナルシティ",
+    "reading": "nationalcity",
+    "code": "cr-kata5-1142",
+    "index": 1142
+  },
+  {
+    "surface": "ネオロジー",
+    "reading": "neology",
+    "code": "cr-kata5-1143",
+    "index": 1143
+  },
+  {
+    "surface": "ネオイデアリズム",
+    "reading": "neoidealism",
+    "code": "cr-kata5-1144",
+    "index": 1144
+  },
+  {
+    "surface": "ニトロセルロース",
+    "reading": "nitrocellulose",
+    "code": "cr-kata5-1145",
+    "index": 1145
+  },
+  {
+    "surface": "ナイジェリア",
+    "reading": "nigeria",
+    "code": "cr-kata5-1146",
+    "index": 1146
+  },
+  {
+    "surface": "ノンセンス",
+    "reading": "nonsense",
+    "code": "cr-kata5-1147",
+    "index": 1147
+  },
+  {
+    "surface": "ニテロイ",
+    "reading": "niteroi",
+    "code": "cr-kata5-1148",
+    "index": 1148
+  },
+  {
+    "surface": "ネストヴェズ",
+    "reading": "nesutovezu",
+    "code": "cr-kata5-1149",
+    "index": 1149
+  },
+  {
+    "surface": "ヌーベルバーグ",
+    "reading": "nouvellevague",
+    "code": "cr-kata5-1150",
+    "index": 1150
+  },
+  {
+    "surface": "ナシュア",
+    "reading": "nasure",
+    "code": "cr-kata5-1151",
+    "index": 1151
+  },
+  {
+    "surface": "ネザーランド",
+    "reading": "netherlands",
+    "code": "cr-kata5-1152",
+    "index": 1152
+  },
+  {
+    "surface": "ニルバーナ",
+    "reading": "nirubaana",
+    "code": "cr-kata5-1153",
+    "index": 1153
+  },
+  {
+    "surface": "ノーゴール",
+    "reading": "nogoal",
+    "code": "cr-kata5-1154",
+    "index": 1154
+  },
+  {
+    "surface": "ノーダウン",
+    "reading": "nodown",
+    "code": "cr-kata5-1155",
+    "index": 1155
+  },
+  {
+    "surface": "ナーガパッティナム",
+    "reading": "naagapattinamu",
+    "code": "cr-kata5-1156",
+    "index": 1156
+  },
+  {
+    "surface": "ナイルズ",
+    "reading": "nairuzu",
+    "code": "cr-kata5-1157",
+    "index": 1157
+  },
+  {
+    "surface": "ノルタルジック",
+    "reading": "norutarujikku",
+    "code": "cr-kata5-1158",
+    "index": 1158
+  },
+  {
+    "surface": "ナヴァーイー",
+    "reading": "navaaii",
+    "code": "cr-kata5-1159",
+    "index": 1159
+  },
+  {
+    "surface": "ナマケモノ",
+    "reading": "namakemono",
+    "code": "cr-kata5-1160",
+    "index": 1160
+  },
+  {
+    "surface": "ヌンチャク",
+    "reading": "nunchaku",
+    "code": "cr-kata5-1161",
+    "index": 1161
+  },
+  {
+    "surface": "ナミシュモクザメ",
+    "reading": "namishumokuzame",
+    "code": "cr-kata5-1162",
+    "index": 1162
+  },
+  {
+    "surface": "ノイチゴ",
+    "reading": "noichigo",
+    "code": "cr-kata5-1163",
+    "index": 1163
+  },
+  {
+    "surface": "ヌーシャテル",
+    "reading": "neuchatel",
+    "code": "cr-kata5-1164",
+    "index": 1164
+  },
+  {
+    "surface": "ノミナルプライス",
+    "reading": "nominalprice",
+    "code": "cr-kata5-1165",
+    "index": 1165
+  },
+  {
+    "surface": "ネズミザメ",
+    "reading": "nezumizame",
+    "code": "cr-kata5-1166",
+    "index": 1166
+  },
+  {
+    "surface": "ナイメーヘン",
+    "reading": "nijmegen",
+    "code": "cr-kata5-1167",
+    "index": 1167
+  },
+  {
+    "surface": "ノベルティー",
+    "reading": "novelty",
+    "code": "cr-kata5-1168",
+    "index": 1168
+  },
+  {
+    "surface": "ナショナル・リーグ",
+    "reading": "nationalleague",
+    "code": "cr-kata5-1169",
+    "index": 1169
+  },
+  {
+    "surface": "ネオファシズム",
+    "reading": "neofascism",
+    "code": "cr-kata5-1170",
+    "index": 1170
+  },
+  {
+    "surface": "ナラタケ",
+    "reading": "naratake",
+    "code": "cr-kata5-1171",
+    "index": 1171
+  },
+  {
+    "surface": "ナール",
+    "reading": "naaru",
+    "code": "cr-kata5-1172",
+    "index": 1172
+  },
+  {
+    "surface": "ナパ",
+    "reading": "napa",
+    "code": "cr-kata5-1173",
+    "index": 1173
+  },
+  {
+    "surface": "ナダレ",
+    "reading": "nadare",
+    "code": "cr-kata5-1174",
+    "index": 1174
+  },
+  {
+    "surface": "ナイル",
+    "reading": "nile",
+    "code": "cr-kata5-1175",
+    "index": 1175
+  },
+  {
+    "surface": "ナラシ",
+    "reading": "narashi",
+    "code": "cr-kata5-1176",
+    "index": 1176
+  },
+  {
+    "surface": "ノンチャラン",
+    "reading": "noncharun",
+    "code": "cr-kata5-1177",
+    "index": 1177
+  },
+  {
+    "surface": "ナイロビ",
+    "reading": "nairobi",
+    "code": "cr-kata5-1178",
+    "index": 1178
+  },
+  {
+    "surface": "ネパール",
+    "reading": "nepal",
+    "code": "cr-kata5-1179",
+    "index": 1179
+  },
+  {
+    "surface": "ナッチョ",
+    "reading": "nacho",
+    "code": "cr-kata5-1180",
+    "index": 1180
+  },
+  {
+    "surface": "ネガ",
+    "reading": "nega",
+    "code": "cr-kata5-1181",
+    "index": 1181
+  },
+  {
+    "surface": "ニンビン",
+    "reading": "ninbin",
+    "code": "cr-kata5-1182",
+    "index": 1182
+  },
+  {
+    "surface": "ナーナウル",
+    "reading": "naanauru",
+    "code": "cr-kata5-1183",
+    "index": 1183
+  },
+  {
+    "surface": "ネスト",
+    "reading": "nest",
+    "code": "cr-kata5-1184",
+    "index": 1184
+  },
+  {
+    "surface": "ナチュラルサイエンス",
+    "reading": "naturalscience",
+    "code": "cr-kata5-1185",
+    "index": 1185
+  },
+  {
+    "surface": "ノレッジ",
+    "reading": "norejji",
+    "code": "cr-kata5-1186",
+    "index": 1186
+  },
+  {
+    "surface": "ノベル",
+    "reading": "novel",
+    "code": "cr-kata5-1187",
+    "index": 1187
+  },
+  {
+    "surface": "ニシツノメドリ",
+    "reading": "nishitsunomedori",
+    "code": "cr-kata5-1188",
+    "index": 1188
+  },
+  {
+    "surface": "ニュクリアス",
+    "reading": "nuclearsu",
+    "code": "cr-kata5-1189",
+    "index": 1189
+  },
+  {
+    "surface": "ネオンランプ",
+    "reading": "neonlamp",
+    "code": "cr-kata5-1190",
+    "index": 1190
+  },
+  {
+    "surface": "ナビゲート",
+    "reading": "navigate",
+    "code": "cr-kata5-1191",
+    "index": 1191
+  },
+  {
+    "surface": "ナンヨウハギ",
+    "reading": "nanyouhagi",
+    "code": "cr-kata5-1192",
+    "index": 1192
+  },
+  {
+    "surface": "ニューベリーポート",
+    "reading": "newberryport",
+    "code": "cr-kata5-1193",
+    "index": 1193
+  },
+  {
+    "surface": "ネイパービル",
+    "reading": "neiparbuilding",
+    "code": "cr-kata5-1194",
+    "index": 1194
+  },
+  {
+    "surface": "ニクロム",
+    "reading": "nichrome",
+    "code": "cr-kata5-1195",
+    "index": 1195
+  },
+  {
+    "surface": "ノリスタウン",
+    "reading": "norristown",
+    "code": "cr-kata5-1196",
+    "index": 1196
+  },
+  {
+    "surface": "ナビゲータ",
+    "reading": "navigator",
+    "code": "cr-kata5-1197",
+    "index": 1197
+  },
+  {
+    "surface": "ナタデココ",
+    "reading": "natadescoco",
+    "code": "cr-kata5-1198",
+    "index": 1198
+  },
+  {
+    "surface": "ノコギリ",
+    "reading": "nokogiri",
+    "code": "cr-kata5-1199",
+    "index": 1199
+  },
+  {
+    "surface": "ナイーブ",
+    "reading": "naive",
+    "code": "cr-kata5-1200",
+    "index": 1200
+  },
+  {
+    "surface": "ナチュラリゼーション",
+    "reading": "nachurarizeeshon",
+    "code": "cr-kata5-1201",
+    "index": 1201
+  },
+  {
+    "surface": "ノープレー",
+    "reading": "noplay",
+    "code": "cr-kata5-1202",
+    "index": 1202
+  },
+  {
+    "surface": "ノギンスク",
+    "reading": "noginsuku",
+    "code": "cr-kata5-1203",
+    "index": 1203
+  },
+  {
+    "surface": "ネーデルランド",
+    "reading": "nederlanden",
+    "code": "cr-kata5-1204",
+    "index": 1204
+  },
+  {
+    "surface": "ニグロ",
+    "reading": "negro",
+    "code": "cr-kata5-1205",
+    "index": 1205
+  },
+  {
+    "surface": "ナミオカ",
+    "reading": "namioka",
+    "code": "cr-kata5-1206",
+    "index": 1206
+  },
+  {
+    "surface": "ナパーム",
+    "reading": "napalm",
+    "code": "cr-kata5-1207",
+    "index": 1207
+  },
+  {
+    "surface": "ニューフェイス",
+    "reading": "newface",
+    "code": "cr-kata5-1208",
+    "index": 1208
+  },
+  {
+    "surface": "ナジャフガル",
+    "reading": "najafgal",
+    "code": "cr-kata5-1209",
+    "index": 1209
+  },
+  {
+    "surface": "ナースリー",
+    "reading": "naasurii",
+    "code": "cr-kata5-1210",
+    "index": 1210
+  },
+  {
+    "surface": "ノコギリソウ",
+    "reading": "nokogirisou",
+    "code": "cr-kata5-1211",
+    "index": 1211
+  },
+  {
+    "surface": "ノースチャールストン",
+    "reading": "northcharleston",
+    "code": "cr-kata5-1212",
+    "index": 1212
+  },
+  {
+    "surface": "ネグリート",
+    "reading": "neguriito",
+    "code": "cr-kata5-1213",
+    "index": 1213
+  },
+  {
+    "surface": "ノーブレ",
+    "reading": "noobure",
+    "code": "cr-kata5-1214",
+    "index": 1214
+  },
+  {
+    "surface": "ニード",
+    "reading": "need",
+    "code": "cr-kata5-1215",
+    "index": 1215
+  },
+  {
+    "surface": "ノンリニア",
+    "reading": "nonrinia",
+    "code": "cr-kata5-1216",
+    "index": 1216
+  },
+  {
+    "surface": "ナンバープレート",
+    "reading": "numberplate",
+    "code": "cr-kata5-1217",
+    "index": 1217
+  },
+  {
+    "surface": "ヌクス",
+    "reading": "nukusu",
+    "code": "cr-kata5-1218",
+    "index": 1218
+  },
+  {
+    "surface": "ナキウサギ",
+    "reading": "nakiusagi",
+    "code": "cr-kata5-1219",
+    "index": 1219
+  },
+  {
+    "surface": "ノルウェー",
+    "reading": "norway",
+    "code": "cr-kata5-1220",
+    "index": 1220
+  },
+  {
+    "surface": "ネオジム",
+    "reading": "neodym",
+    "code": "cr-kata5-1221",
+    "index": 1221
+  },
+  {
+    "surface": "ノースフィールド",
+    "reading": "northfield",
+    "code": "cr-kata5-1222",
+    "index": 1222
+  },
+  {
+    "surface": "ヌークリア",
+    "reading": "gnuclear",
+    "code": "cr-kata5-1223",
+    "index": 1223
+  },
+  {
+    "surface": "ネゴシエーター",
+    "reading": "negotiator",
+    "code": "cr-kata5-1224",
+    "index": 1224
+  },
+  {
+    "surface": "ネオレジズム",
+    "reading": "neorejizumu",
+    "code": "cr-kata5-1225",
+    "index": 1225
+  },
+  {
+    "surface": "ナット",
+    "reading": "nut",
+    "code": "cr-kata5-1226",
+    "index": 1226
+  },
+  {
+    "surface": "ニシキギ",
+    "reading": "nishikigi",
+    "code": "cr-kata5-1227",
+    "index": 1227
+  },
+  {
+    "surface": "ナンヨウミドリハゼ",
+    "reading": "nanyoumidorihaze",
+    "code": "cr-kata5-1228",
+    "index": 1228
+  },
+  {
+    "surface": "ノントロップ",
+    "reading": "nontoroppu",
+    "code": "cr-kata5-1229",
+    "index": 1229
+  },
+  {
+    "surface": "ネイション",
+    "reading": "nation",
+    "code": "cr-kata5-1230",
+    "index": 1230
+  },
+  {
+    "surface": "ノース・ソルト・レイク",
+    "reading": "noosusorutolake",
+    "code": "cr-kata5-1231",
+    "index": 1231
+  },
+  {
+    "surface": "ノエル",
+    "reading": "noeru",
+    "code": "cr-kata5-1232",
+    "index": 1232
+  },
+  {
+    "surface": "ニャウンウー",
+    "reading": "nyaunuu",
+    "code": "cr-kata5-1233",
+    "index": 1233
+  },
+  {
+    "surface": "ノンストップ",
+    "reading": "nonstop",
+    "code": "cr-kata5-1234",
+    "index": 1234
+  },
+  {
+    "surface": "ニューオーリンズ",
+    "reading": "neworleans",
+    "code": "cr-kata5-1235",
+    "index": 1235
+  },
+  {
+    "surface": "ニラネギ",
+    "reading": "niranegi",
+    "code": "cr-kata5-1236",
+    "index": 1236
+  },
+  {
+    "surface": "ノンセクト",
+    "reading": "nonsect",
+    "code": "cr-kata5-1237",
+    "index": 1237
+  },
+  {
+    "surface": "ナンバリング",
+    "reading": "numbering",
+    "code": "cr-kata5-1238",
+    "index": 1238
+  },
+  {
+    "surface": "ノック",
+    "reading": "knock",
+    "code": "cr-kata5-1239",
+    "index": 1239
+  },
+  {
+    "surface": "ノミネート",
+    "reading": "nominate",
+    "code": "cr-kata5-1240",
+    "index": 1240
+  },
+  {
+    "surface": "ネガティブリスト",
+    "reading": "negativelist",
+    "code": "cr-kata5-1241",
+    "index": 1241
+  },
+  {
+    "surface": "ナラティワート",
+    "reading": "naratiwaato",
+    "code": "cr-kata5-1242",
+    "index": 1242
+  },
+  {
+    "surface": "ナルシシズム",
+    "reading": "narcissism",
+    "code": "cr-kata5-1243",
+    "index": 1243
+  },
+  {
+    "surface": "ニケリーノ",
+    "reading": "nikeriino",
+    "code": "cr-kata5-1244",
+    "index": 1244
+  },
+  {
+    "surface": "ニス",
+    "reading": "varnish",
+    "code": "cr-kata5-1245",
+    "index": 1245
+  },
+  {
+    "surface": "ヌーヴォー",
+    "reading": "nouveau",
+    "code": "cr-kata5-1246",
+    "index": 1246
+  },
+  {
+    "surface": "ノンプロ",
+    "reading": "nonprofessional",
+    "code": "cr-kata5-1247",
+    "index": 1247
+  },
+  {
+    "surface": "ヌメリ",
+    "reading": "numeri",
+    "code": "cr-kata5-1248",
+    "index": 1248
+  },
+  {
+    "surface": "ノーマライゼーション",
+    "reading": "normalization",
+    "code": "cr-kata5-1249",
+    "index": 1249
+  },
+  {
+    "surface": "ノースリーブ",
+    "reading": "nosleeve",
+    "code": "cr-kata5-1250",
+    "index": 1250
+  },
+  {
+    "surface": "ニヒル",
+    "reading": "nihil",
+    "code": "cr-kata5-1251",
+    "index": 1251
+  }
+]

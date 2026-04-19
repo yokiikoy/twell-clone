@@ -1,0 +1,9488 @@
+[
+  {
+    "surface": "ヌオロ",
+    "reading": "nuoro",
+    "code": "cr-kata11-0",
+    "index": 0
+  },
+  {
+    "surface": "ムンバイ",
+    "reading": "munbai",
+    "code": "cr-kata11-1",
+    "index": 1
+  },
+  {
+    "surface": "サンルイスデルパルマル",
+    "reading": "sanruisuderuparumaru",
+    "code": "cr-kata11-2",
+    "index": 2
+  },
+  {
+    "surface": "セスト・サン・ジョヴァンニ",
+    "reading": "sesutosanjovanni",
+    "code": "cr-kata11-3",
+    "index": 3
+  },
+  {
+    "surface": "ケタ",
+    "reading": "keta",
+    "code": "cr-kata11-4",
+    "index": 4
+  },
+  {
+    "surface": "パリキール",
+    "reading": "pariskiiru",
+    "code": "cr-kata11-5",
+    "index": 5
+  },
+  {
+    "surface": "ラスファーナム",
+    "reading": "lathfurnumber",
+    "code": "cr-kata11-6",
+    "index": 6
+  },
+  {
+    "surface": "クラークスビル",
+    "reading": "kuraakusubuilding",
+    "code": "cr-kata11-7",
+    "index": 7
+  },
+  {
+    "surface": "ゴレニュフ",
+    "reading": "gorenyufu",
+    "code": "cr-kata11-8",
+    "index": 8
+  },
+  {
+    "surface": "ブレナム",
+    "reading": "burenamu",
+    "code": "cr-kata11-9",
+    "index": 9
+  },
+  {
+    "surface": "シディ・ブジド",
+    "reading": "shidibujido",
+    "code": "cr-kata11-10",
+    "index": 10
+  },
+  {
+    "surface": "ルマ",
+    "reading": "ruma",
+    "code": "cr-kata11-11",
+    "index": 11
+  },
+  {
+    "surface": "セント・オールバンズ",
+    "reading": "saintallbuns",
+    "code": "cr-kata11-12",
+    "index": 12
+  },
+  {
+    "surface": "サグネ",
+    "reading": "thugne",
+    "code": "cr-kata11-13",
+    "index": 13
+  },
+  {
+    "surface": "グルエ",
+    "reading": "gurue",
+    "code": "cr-kata11-14",
+    "index": 14
+  },
+  {
+    "surface": "ユマ",
+    "reading": "uma",
+    "code": "cr-kata11-15",
+    "index": 15
+  },
+  {
+    "surface": "サライナ",
+    "reading": "sarahina",
+    "code": "cr-kata11-16",
+    "index": 16
+  },
+  {
+    "surface": "マーサイク",
+    "reading": "maasaiku",
+    "code": "cr-kata11-17",
+    "index": 17
+  },
+  {
+    "surface": "スケネクタディ",
+    "reading": "schenectady",
+    "code": "cr-kata11-18",
+    "index": 18
+  },
+  {
+    "surface": "パオワ",
+    "reading": "paowa",
+    "code": "cr-kata11-19",
+    "index": 19
+  },
+  {
+    "surface": "ヘンダーソンヴィル",
+    "reading": "hendaasonvill",
+    "code": "cr-kata11-20",
+    "index": 20
+  },
+  {
+    "surface": "ランカラン",
+    "reading": "lankarun",
+    "code": "cr-kata11-21",
+    "index": 21
+  },
+  {
+    "surface": "タンジェ",
+    "reading": "tanje",
+    "code": "cr-kata11-22",
+    "index": 22
+  },
+  {
+    "surface": "ノゥナ",
+    "reading": "knowna",
+    "code": "cr-kata11-23",
+    "index": 23
+  },
+  {
+    "surface": "ティルヴァンナーマライ",
+    "reading": "tiruvannaamarai",
+    "code": "cr-kata11-24",
+    "index": 24
+  },
+  {
+    "surface": "パウエイ",
+    "reading": "pauei",
+    "code": "cr-kata11-25",
+    "index": 25
+  },
+  {
+    "surface": "ナハリン",
+    "reading": "naharin",
+    "code": "cr-kata11-26",
+    "index": 26
+  },
+  {
+    "surface": "ナガ",
+    "reading": "naga",
+    "code": "cr-kata11-27",
+    "index": 27
+  },
+  {
+    "surface": "スダン",
+    "reading": "sedan",
+    "code": "cr-kata11-28",
+    "index": 28
+  },
+  {
+    "surface": "ドゥナン",
+    "reading": "dunan",
+    "code": "cr-kata11-29",
+    "index": 29
+  },
+  {
+    "surface": "クアラ・クブ・バル",
+    "reading": "kuarakububaru",
+    "code": "cr-kata11-30",
+    "index": 30
+  },
+  {
+    "surface": "ウストカ",
+    "reading": "usutoka",
+    "code": "cr-kata11-31",
+    "index": 31
+  },
+  {
+    "surface": "カドゥナ",
+    "reading": "cadeauna",
+    "code": "cr-kata11-32",
+    "index": 32
+  },
+  {
+    "surface": "ジュリアーノ・イン・カンパーニア",
+    "reading": "juriaanoincampania",
+    "code": "cr-kata11-33",
+    "index": 33
+  },
+  {
+    "surface": "サン・クリストヴァン",
+    "reading": "sunchristvin",
+    "code": "cr-kata11-34",
+    "index": 34
+  },
+  {
+    "surface": "ヴェリヴチットフライ",
+    "reading": "verivuchittofurai",
+    "code": "cr-kata11-35",
+    "index": 35
+  },
+  {
+    "surface": "ナヴァーイー",
+    "reading": "navaaii",
+    "code": "cr-kata11-36",
+    "index": 36
+  },
+  {
+    "surface": "カルダス・ダ・ライーニャ",
+    "reading": "karudasudaraiinya",
+    "code": "cr-kata11-37",
+    "index": 37
+  },
+  {
+    "surface": "フニン",
+    "reading": "funin",
+    "code": "cr-kata11-38",
+    "index": 38
+  },
+  {
+    "surface": "レホボス",
+    "reading": "rehobosu",
+    "code": "cr-kata11-39",
+    "index": 39
+  },
+  {
+    "surface": "カンピーナス",
+    "reading": "kanpiinasu",
+    "code": "cr-kata11-40",
+    "index": 40
+  },
+  {
+    "surface": "ハロゲイト",
+    "reading": "hellogate",
+    "code": "cr-kata11-41",
+    "index": 41
+  },
+  {
+    "surface": "モリアーノ・ヴェーネト",
+    "reading": "moriaanoveeneto",
+    "code": "cr-kata11-42",
+    "index": 42
+  },
+  {
+    "surface": "ロヴェチ",
+    "reading": "rovechi",
+    "code": "cr-kata11-43",
+    "index": 43
+  },
+  {
+    "surface": "ヌメア",
+    "reading": "numea",
+    "code": "cr-kata11-44",
+    "index": 44
+  },
+  {
+    "surface": "ジュンモド",
+    "reading": "junmodo",
+    "code": "cr-kata11-45",
+    "index": 45
+  },
+  {
+    "surface": "ズヴォレ",
+    "reading": "zuvore",
+    "code": "cr-kata11-46",
+    "index": 46
+  },
+  {
+    "surface": "イーダイナ",
+    "reading": "iidaina",
+    "code": "cr-kata11-47",
+    "index": 47
+  },
+  {
+    "surface": "チェーリエ・メッサピーカ",
+    "reading": "cheeriemessapiika",
+    "code": "cr-kata11-48",
+    "index": 48
+  },
+  {
+    "surface": "エバレット",
+    "reading": "evalet",
+    "code": "cr-kata11-49",
+    "index": 49
+  },
+  {
+    "surface": "ホードメゼーヴァーシャールヘイ",
+    "reading": "hoodomezeevaashaaruhei",
+    "code": "cr-kata11-50",
+    "index": 50
+  },
+  {
+    "surface": "アティラウ",
+    "reading": "atirau",
+    "code": "cr-kata11-51",
+    "index": 51
+  },
+  {
+    "surface": "アーヘン",
+    "reading": "aachen",
+    "code": "cr-kata11-52",
+    "index": 52
+  },
+  {
+    "surface": "スコーフィールド・バラックス",
+    "reading": "sukoofiirudobarakkusu",
+    "code": "cr-kata11-53",
+    "index": 53
+  },
+  {
+    "surface": "ソチ",
+    "reading": "sovietchi",
+    "code": "cr-kata11-54",
+    "index": 54
+  },
+  {
+    "surface": "ゼイラ",
+    "reading": "zeira",
+    "code": "cr-kata11-55",
+    "index": 55
+  },
+  {
+    "surface": "ベレン",
+    "reading": "belem",
+    "code": "cr-kata11-56",
+    "index": 56
+  },
+  {
+    "surface": "ニュープリマス",
+    "reading": "newplymouth",
+    "code": "cr-kata11-57",
+    "index": 57
+  },
+  {
+    "surface": "ビンロン",
+    "reading": "binron",
+    "code": "cr-kata11-58",
+    "index": 58
+  },
+  {
+    "surface": "ワンゲ",
+    "reading": "onege",
+    "code": "cr-kata11-59",
+    "index": 59
+  },
+  {
+    "surface": "ロルカ",
+    "reading": "lorca",
+    "code": "cr-kata11-60",
+    "index": 60
+  },
+  {
+    "surface": "ゲルリッツ",
+    "reading": "gelrittsu",
+    "code": "cr-kata11-61",
+    "index": 61
+  },
+  {
+    "surface": "ニュークビン・ファルスター",
+    "reading": "nyuukubinfarusutaa",
+    "code": "cr-kata11-62",
+    "index": 62
+  },
+  {
+    "surface": "アレクサンドロフ",
+    "reading": "alexandrov",
+    "code": "cr-kata11-63",
+    "index": 63
+  },
+  {
+    "surface": "コヴロフ",
+    "reading": "kovurofu",
+    "code": "cr-kata11-64",
+    "index": 64
+  },
+  {
+    "surface": "マグレブ",
+    "reading": "maghreb",
+    "code": "cr-kata11-65",
+    "index": 65
+  },
+  {
+    "surface": "シュヴァルムシュタット",
+    "reading": "shuvarumushutatto",
+    "code": "cr-kata11-66",
+    "index": 66
+  },
+  {
+    "surface": "ズエラット",
+    "reading": "zueratto",
+    "code": "cr-kata11-67",
+    "index": 67
+  },
+  {
+    "surface": "アーリントンハイツ",
+    "reading": "arlingtonheights",
+    "code": "cr-kata11-68",
+    "index": 68
+  },
+  {
+    "surface": "コチャバンバ",
+    "reading": "kochabanba",
+    "code": "cr-kata11-69",
+    "index": 69
+  },
+  {
+    "surface": "ジェファーソンシティ",
+    "reading": "jeffersoncity",
+    "code": "cr-kata11-70",
+    "index": 70
+  },
+  {
+    "surface": "クックスハーフェン",
+    "reading": "kukkusuhaafen",
+    "code": "cr-kata11-71",
+    "index": 71
+  },
+  {
+    "surface": "ボルドー",
+    "reading": "bordeaux",
+    "code": "cr-kata11-72",
+    "index": 72
+  },
+  {
+    "surface": "クルス・デル・エヘ",
+    "reading": "cruzderuehe",
+    "code": "cr-kata11-73",
+    "index": 73
+  },
+  {
+    "surface": "ガフサ",
+    "reading": "gafusa",
+    "code": "cr-kata11-74",
+    "index": 74
+  },
+  {
+    "surface": "モンマルトル",
+    "reading": "montmartre",
+    "code": "cr-kata11-75",
+    "index": 75
+  },
+  {
+    "surface": "サンタントーニオ・アバーテ",
+    "reading": "santantoonioabaate",
+    "code": "cr-kata11-76",
+    "index": 76
+  },
+  {
+    "surface": "ビンゲン・アム・ライン",
+    "reading": "bingenamuline",
+    "code": "cr-kata11-77",
+    "index": 77
+  },
+  {
+    "surface": "マディヤプル・ティミ",
+    "reading": "madiyapurutimi",
+    "code": "cr-kata11-78",
+    "index": 78
+  },
+  {
+    "surface": "メドフォード",
+    "reading": "medoford",
+    "code": "cr-kata11-79",
+    "index": 79
+  },
+  {
+    "surface": "クルヤ",
+    "reading": "kuruya",
+    "code": "cr-kata11-80",
+    "index": 80
+  },
+  {
+    "surface": "スタンレー",
+    "reading": "stanley",
+    "code": "cr-kata11-81",
+    "index": 81
+  },
+  {
+    "surface": "ロトルア",
+    "reading": "lotora",
+    "code": "cr-kata11-82",
+    "index": 82
+  },
+  {
+    "surface": "カパン",
+    "reading": "kapao",
+    "code": "cr-kata11-83",
+    "index": 83
+  },
+  {
+    "surface": "サイロームスプリングス",
+    "reading": "sairoomusupuringusu",
+    "code": "cr-kata11-84",
+    "index": 84
+  },
+  {
+    "surface": "ブルックリンパーク",
+    "reading": "brooklynpark",
+    "code": "cr-kata11-85",
+    "index": 85
+  },
+  {
+    "surface": "ケンデール・レイクス",
+    "reading": "kendeerureikusu",
+    "code": "cr-kata11-86",
+    "index": 86
+  },
+  {
+    "surface": "カルディート",
+    "reading": "karudiito",
+    "code": "cr-kata11-87",
+    "index": 87
+  },
+  {
+    "surface": "ブコバ",
+    "reading": "bukoba",
+    "code": "cr-kata11-88",
+    "index": 88
+  },
+  {
+    "surface": "ナコーンナーヨック",
+    "reading": "nakoonnaayokku",
+    "code": "cr-kata11-89",
+    "index": 89
+  },
+  {
+    "surface": "スラティナ",
+    "reading": "suratina",
+    "code": "cr-kata11-90",
+    "index": 90
+  },
+  {
+    "surface": "ラエ",
+    "reading": "rae",
+    "code": "cr-kata11-91",
+    "index": 91
+  },
+  {
+    "surface": "ケミ",
+    "reading": "kemi",
+    "code": "cr-kata11-92",
+    "index": 92
+  },
+  {
+    "surface": "ビリアンアー",
+    "reading": "birianaa",
+    "code": "cr-kata11-93",
+    "index": 93
+  },
+  {
+    "surface": "エヴリー",
+    "reading": "every",
+    "code": "cr-kata11-94",
+    "index": 94
+  },
+  {
+    "surface": "ビラーイー",
+    "reading": "biraaii",
+    "code": "cr-kata11-95",
+    "index": 95
+  },
+  {
+    "surface": "ナラガンセット",
+    "reading": "narragansett",
+    "code": "cr-kata11-96",
+    "index": 96
+  },
+  {
+    "surface": "ハッサン",
+    "reading": "hassan",
+    "code": "cr-kata11-97",
+    "index": 97
+  },
+  {
+    "surface": "オセール",
+    "reading": "osale",
+    "code": "cr-kata11-98",
+    "index": 98
+  },
+  {
+    "surface": "コラシブ",
+    "reading": "korashibu",
+    "code": "cr-kata11-99",
+    "index": 99
+  },
+  {
+    "surface": "イグレージアス",
+    "reading": "igureejiasu",
+    "code": "cr-kata11-100",
+    "index": 100
+  },
+  {
+    "surface": "ラムラ",
+    "reading": "ramura",
+    "code": "cr-kata11-101",
+    "index": 101
+  },
+  {
+    "surface": "ブルックフィールド",
+    "reading": "burukkufield",
+    "code": "cr-kata11-102",
+    "index": 102
+  },
+  {
+    "surface": "クチョヴァ",
+    "reading": "kuchova",
+    "code": "cr-kata11-103",
+    "index": 103
+  },
+  {
+    "surface": "エムデン",
+    "reading": "emuden",
+    "code": "cr-kata11-104",
+    "index": 104
+  },
+  {
+    "surface": "ブジェク",
+    "reading": "bujeku",
+    "code": "cr-kata11-105",
+    "index": 105
+  },
+  {
+    "surface": "アパッチ・ジャンクション",
+    "reading": "apachejunction",
+    "code": "cr-kata11-106",
+    "index": 106
+  },
+  {
+    "surface": "アボッツフォード",
+    "reading": "abottsufoodo",
+    "code": "cr-kata11-107",
+    "index": 107
+  },
+  {
+    "surface": "シュガーランド",
+    "reading": "sugarland",
+    "code": "cr-kata11-108",
+    "index": 108
+  },
+  {
+    "surface": "タンジュン・ピナン",
+    "reading": "tanjunpinan",
+    "code": "cr-kata11-109",
+    "index": 109
+  },
+  {
+    "surface": "ウスチー・ナド・ラベム",
+    "reading": "usuchiinadorabemu",
+    "code": "cr-kata11-110",
+    "index": 110
+  },
+  {
+    "surface": "プエルト・バヤルタ",
+    "reading": "puerutobayaruta",
+    "code": "cr-kata11-111",
+    "index": 111
+  },
+  {
+    "surface": "バニョレ",
+    "reading": "banyore",
+    "code": "cr-kata11-112",
+    "index": 112
+  },
+  {
+    "surface": "ルワ",
+    "reading": "ruwa",
+    "code": "cr-kata11-113",
+    "index": 113
+  },
+  {
+    "surface": "ゴッダ",
+    "reading": "godda",
+    "code": "cr-kata11-114",
+    "index": 114
+  },
+  {
+    "surface": "アーラウ",
+    "reading": "aarau",
+    "code": "cr-kata11-115",
+    "index": 115
+  },
+  {
+    "surface": "レリク",
+    "reading": "reriku",
+    "code": "cr-kata11-116",
+    "index": 116
+  },
+  {
+    "surface": "インクスター",
+    "reading": "inkstar",
+    "code": "cr-kata11-117",
+    "index": 117
+  },
+  {
+    "surface": "アムステルフェーン",
+    "reading": "amusuterufeen",
+    "code": "cr-kata11-118",
+    "index": 118
+  },
+  {
+    "surface": "グレートフォールズ",
+    "reading": "greatfall",
+    "code": "cr-kata11-119",
+    "index": 119
+  },
+  {
+    "surface": "アルバーノ・ラツィアーレ",
+    "reading": "arubaanoratsiaare",
+    "code": "cr-kata11-120",
+    "index": 120
+  },
+  {
+    "surface": "ミヤザキシ",
+    "reading": "miyazakishi",
+    "code": "cr-kata11-121",
+    "index": 121
+  },
+  {
+    "surface": "ココナッツ・グローヴ",
+    "reading": "coconutguroovu",
+    "code": "cr-kata11-122",
+    "index": 122
+  },
+  {
+    "surface": "カルピ",
+    "reading": "karupi",
+    "code": "cr-kata11-123",
+    "index": 123
+  },
+  {
+    "surface": "パプ",
+    "reading": "papu",
+    "code": "cr-kata11-124",
+    "index": 124
+  },
+  {
+    "surface": "コリア・デル・リオ",
+    "reading": "koreaderurio",
+    "code": "cr-kata11-125",
+    "index": 125
+  },
+  {
+    "surface": "カウフボイレン",
+    "reading": "kaufuboiren",
+    "code": "cr-kata11-126",
+    "index": 126
+  },
+  {
+    "surface": "ボンゴル",
+    "reading": "bongole",
+    "code": "cr-kata11-127",
+    "index": 127
+  },
+  {
+    "surface": "ユイ",
+    "reading": "yui",
+    "code": "cr-kata11-128",
+    "index": 128
+  },
+  {
+    "surface": "ドゥツェ",
+    "reading": "dutse",
+    "code": "cr-kata11-129",
+    "index": 129
+  },
+  {
+    "surface": "ホリースプリングス",
+    "reading": "horiisupuringusu",
+    "code": "cr-kata11-130",
+    "index": 130
+  },
+  {
+    "surface": "プログレッソ",
+    "reading": "progressivesoviet",
+    "code": "cr-kata11-131",
+    "index": 131
+  },
+  {
+    "surface": "ウエッソ",
+    "reading": "uesso",
+    "code": "cr-kata11-132",
+    "index": 132
+  },
+  {
+    "surface": "マウントプレザント",
+    "reading": "mauntopurezanto",
+    "code": "cr-kata11-133",
+    "index": 133
+  },
+  {
+    "surface": "パザルジク",
+    "reading": "pazarujiku",
+    "code": "cr-kata11-134",
+    "index": 134
+  },
+  {
+    "surface": "ビイェリナ",
+    "reading": "bierina",
+    "code": "cr-kata11-135",
+    "index": 135
+  },
+  {
+    "surface": "クシング",
+    "reading": "kushingu",
+    "code": "cr-kata11-136",
+    "index": 136
+  },
+  {
+    "surface": "グランサム",
+    "reading": "grandsum",
+    "code": "cr-kata11-137",
+    "index": 137
+  },
+  {
+    "surface": "ゲルマースハイム",
+    "reading": "gerumaasuhaimu",
+    "code": "cr-kata11-138",
+    "index": 138
+  },
+  {
+    "surface": "サーダナ",
+    "reading": "saadana",
+    "code": "cr-kata11-139",
+    "index": 139
+  },
+  {
+    "surface": "ヴィチェンツァ",
+    "reading": "vicenza",
+    "code": "cr-kata11-140",
+    "index": 140
+  },
+  {
+    "surface": "アカツカ",
+    "reading": "akatsuka",
+    "code": "cr-kata11-141",
+    "index": 141
+  },
+  {
+    "surface": "フーバー",
+    "reading": "hoover",
+    "code": "cr-kata11-142",
+    "index": 142
+  },
+  {
+    "surface": "ラウンドロック",
+    "reading": "roundrokku",
+    "code": "cr-kata11-143",
+    "index": 143
+  },
+  {
+    "surface": "タワウ",
+    "reading": "tawow",
+    "code": "cr-kata11-144",
+    "index": 144
+  },
+  {
+    "surface": "フュッセン",
+    "reading": "fyussen",
+    "code": "cr-kata11-145",
+    "index": 145
+  },
+  {
+    "surface": "サン・ジュリアーノ・ミラネーゼ",
+    "reading": "sunjuriaanomilanese",
+    "code": "cr-kata11-146",
+    "index": 146
+  },
+  {
+    "surface": "ウヘルスケー・フラジシチェ",
+    "reading": "uherusukeefurajishiche",
+    "code": "cr-kata11-147",
+    "index": 147
+  },
+  {
+    "surface": "バルフ",
+    "reading": "barufu",
+    "code": "cr-kata11-148",
+    "index": 148
+  },
+  {
+    "surface": "タインフォバリア",
+    "reading": "tainfobaria",
+    "code": "cr-kata11-149",
+    "index": 149
+  },
+  {
+    "surface": "アダムスタウン",
+    "reading": "adamstown",
+    "code": "cr-kata11-150",
+    "index": 150
+  },
+  {
+    "surface": "ヌーシャテル",
+    "reading": "neuchatel",
+    "code": "cr-kata11-151",
+    "index": 151
+  },
+  {
+    "surface": "ラフバラー",
+    "reading": "roughbara",
+    "code": "cr-kata11-152",
+    "index": 152
+  },
+  {
+    "surface": "マッサ",
+    "reading": "massa",
+    "code": "cr-kata11-153",
+    "index": 153
+  },
+  {
+    "surface": "ポート・エリザベス",
+    "reading": "portelizabeth",
+    "code": "cr-kata11-154",
+    "index": 154
+  },
+  {
+    "surface": "サン・セバスティアン",
+    "reading": "sunsebastian",
+    "code": "cr-kata11-155",
+    "index": 155
+  },
+  {
+    "surface": "ムルシア",
+    "reading": "murushia",
+    "code": "cr-kata11-156",
+    "index": 156
+  },
+  {
+    "surface": "ブジュ",
+    "reading": "buju",
+    "code": "cr-kata11-157",
+    "index": 157
+  },
+  {
+    "surface": "ノイミュンスター",
+    "reading": "noimyunsutaa",
+    "code": "cr-kata11-158",
+    "index": 158
+  },
+  {
+    "surface": "デドゥグ",
+    "reading": "dedugu",
+    "code": "cr-kata11-159",
+    "index": 159
+  },
+  {
+    "surface": "キト",
+    "reading": "quito",
+    "code": "cr-kata11-160",
+    "index": 160
+  },
+  {
+    "surface": "ボル",
+    "reading": "boru",
+    "code": "cr-kata11-161",
+    "index": 161
+  },
+  {
+    "surface": "ケップ",
+    "reading": "keppu",
+    "code": "cr-kata11-162",
+    "index": 162
+  },
+  {
+    "surface": "ムザッファルプル",
+    "reading": "muzaffarupuru",
+    "code": "cr-kata11-163",
+    "index": 163
+  },
+  {
+    "surface": "タンゲラン",
+    "reading": "tangeran",
+    "code": "cr-kata11-164",
+    "index": 164
+  },
+  {
+    "surface": "ライノー・レイクス",
+    "reading": "rainooreikusu",
+    "code": "cr-kata11-165",
+    "index": 165
+  },
+  {
+    "surface": "アルジュナイナ",
+    "reading": "arjunaina",
+    "code": "cr-kata11-166",
+    "index": 166
+  },
+  {
+    "surface": "フラッタマッジョーレ",
+    "reading": "furattamajjoore",
+    "code": "cr-kata11-167",
+    "index": 167
+  },
+  {
+    "surface": "カステルヴェトラーノ",
+    "reading": "kasuteruvetoraano",
+    "code": "cr-kata11-168",
+    "index": 168
+  },
+  {
+    "surface": "パスニ",
+    "reading": "passni",
+    "code": "cr-kata11-169",
+    "index": 169
+  },
+  {
+    "surface": "アンサロヴァ",
+    "reading": "ansarova",
+    "code": "cr-kata11-170",
+    "index": 170
+  },
+  {
+    "surface": "ミドルズブラ",
+    "reading": "middlesbrough",
+    "code": "cr-kata11-171",
+    "index": 171
+  },
+  {
+    "surface": "サルバレオン・デ・イグエイ",
+    "reading": "sarubareondeiguei",
+    "code": "cr-kata11-172",
+    "index": 172
+  },
+  {
+    "surface": "ソウ",
+    "reading": "sou",
+    "code": "cr-kata11-173",
+    "index": 173
+  },
+  {
+    "surface": "オルテン",
+    "reading": "oruten",
+    "code": "cr-kata11-174",
+    "index": 174
+  },
+  {
+    "surface": "リウォンデ",
+    "reading": "rionde",
+    "code": "cr-kata11-175",
+    "index": 175
+  },
+  {
+    "surface": "ティタオ",
+    "reading": "titao",
+    "code": "cr-kata11-176",
+    "index": 176
+  },
+  {
+    "surface": "バヤ",
+    "reading": "bayam",
+    "code": "cr-kata11-177",
+    "index": 177
+  },
+  {
+    "surface": "ローズデール",
+    "reading": "rhodesdeeru",
+    "code": "cr-kata11-178",
+    "index": 178
+  },
+  {
+    "surface": "スカンソープ",
+    "reading": "sukansoopu",
+    "code": "cr-kata11-179",
+    "index": 179
+  },
+  {
+    "surface": "オーシャン・サイド",
+    "reading": "oceanside",
+    "code": "cr-kata11-180",
+    "index": 180
+  },
+  {
+    "surface": "ボボ・ディウラッソ",
+    "reading": "bobodiurasso",
+    "code": "cr-kata11-181",
+    "index": 181
+  },
+  {
+    "surface": "トロンヘイム",
+    "reading": "toronheimu",
+    "code": "cr-kata11-182",
+    "index": 182
+  },
+  {
+    "surface": "リレハンメル",
+    "reading": "rirehanmeru",
+    "code": "cr-kata11-183",
+    "index": 183
+  },
+  {
+    "surface": "カシアス・ド・スル",
+    "reading": "kashiasudosuru",
+    "code": "cr-kata11-184",
+    "index": 184
+  },
+  {
+    "surface": "ホバート",
+    "reading": "hobaato",
+    "code": "cr-kata11-185",
+    "index": 185
+  },
+  {
+    "surface": "ハーモサビーチ",
+    "reading": "haamosabiichi",
+    "code": "cr-kata11-186",
+    "index": 186
+  },
+  {
+    "surface": "リッチランド",
+    "reading": "richland",
+    "code": "cr-kata11-187",
+    "index": 187
+  },
+  {
+    "surface": "カリスペル",
+    "reading": "kalispell",
+    "code": "cr-kata11-188",
+    "index": 188
+  },
+  {
+    "surface": "サン・ミゲル・デ・トゥクマン",
+    "reading": "sunmigerudetukuman",
+    "code": "cr-kata11-189",
+    "index": 189
+  },
+  {
+    "surface": "フォートマクマレー",
+    "reading": "fortmakumaree",
+    "code": "cr-kata11-190",
+    "index": 190
+  },
+  {
+    "surface": "ボコロ",
+    "reading": "bokoro",
+    "code": "cr-kata11-191",
+    "index": 191
+  },
+  {
+    "surface": "カーボンデール",
+    "reading": "carbondayle",
+    "code": "cr-kata11-192",
+    "index": 192
+  },
+  {
+    "surface": "ニゴンボ",
+    "reading": "nigonbo",
+    "code": "cr-kata11-193",
+    "index": 193
+  },
+  {
+    "surface": "アンドラ・ラ・ヴェリャ",
+    "reading": "andorraraverya",
+    "code": "cr-kata11-194",
+    "index": 194
+  },
+  {
+    "surface": "リューネブルク",
+    "reading": "ryuuneburuku",
+    "code": "cr-kata11-195",
+    "index": 195
+  },
+  {
+    "surface": "コンケン",
+    "reading": "konken",
+    "code": "cr-kata11-196",
+    "index": 196
+  },
+  {
+    "surface": "カハマルカ",
+    "reading": "cajamarca",
+    "code": "cr-kata11-197",
+    "index": 197
+  },
+  {
+    "surface": "ハドソン",
+    "reading": "hadoson",
+    "code": "cr-kata11-198",
+    "index": 198
+  },
+  {
+    "surface": "ワニノ",
+    "reading": "wanino",
+    "code": "cr-kata11-199",
+    "index": 199
+  },
+  {
+    "surface": "グランドプレーリー",
+    "reading": "grandprairie",
+    "code": "cr-kata11-200",
+    "index": 200
+  },
+  {
+    "surface": "サングレ・グランデ",
+    "reading": "sanguregrandet",
+    "code": "cr-kata11-201",
+    "index": 201
+  },
+  {
+    "surface": "ヴィッラフランカ・ディ・ヴェローナ",
+    "reading": "virrafurankadiveroona",
+    "code": "cr-kata11-202",
+    "index": 202
+  },
+  {
+    "surface": "アマリロ",
+    "reading": "amateurriro",
+    "code": "cr-kata11-203",
+    "index": 203
+  },
+  {
+    "surface": "タリハ",
+    "reading": "tariha",
+    "code": "cr-kata11-204",
+    "index": 204
+  },
+  {
+    "surface": "ベックナム",
+    "reading": "becknumber",
+    "code": "cr-kata11-205",
+    "index": 205
+  },
+  {
+    "surface": "パームデール",
+    "reading": "palmdayle",
+    "code": "cr-kata11-206",
+    "index": 206
+  },
+  {
+    "surface": "バンダレ・エマーム・ホメイニー",
+    "reading": "bandareemaamuhomeinii",
+    "code": "cr-kata11-207",
+    "index": 207
+  },
+  {
+    "surface": "トリシティズ",
+    "reading": "torishitizu",
+    "code": "cr-kata11-208",
+    "index": 208
+  },
+  {
+    "surface": "ボンディ",
+    "reading": "bondi",
+    "code": "cr-kata11-209",
+    "index": 209
+  },
+  {
+    "surface": "プナカ",
+    "reading": "punaka",
+    "code": "cr-kata11-210",
+    "index": 210
+  },
+  {
+    "surface": "ツィカパ",
+    "reading": "tsikapa",
+    "code": "cr-kata11-211",
+    "index": 211
+  },
+  {
+    "surface": "ビニャ・デル・マール",
+    "reading": "binyaderumaaru",
+    "code": "cr-kata11-212",
+    "index": 212
+  },
+  {
+    "surface": "バニ",
+    "reading": "bani",
+    "code": "cr-kata11-213",
+    "index": 213
+  },
+  {
+    "surface": "クラスノアルメイスク",
+    "reading": "kurasunoarumeisuku",
+    "code": "cr-kata11-214",
+    "index": 214
+  },
+  {
+    "surface": "ノースリトルロック",
+    "reading": "northlittlerokku",
+    "code": "cr-kata11-215",
+    "index": 215
+  },
+  {
+    "surface": "スヒーニチ",
+    "reading": "suhiinichi",
+    "code": "cr-kata11-216",
+    "index": 216
+  },
+  {
+    "surface": "グロースオストハイム",
+    "reading": "growthosutohaimu",
+    "code": "cr-kata11-217",
+    "index": 217
+  },
+  {
+    "surface": "アーデンアーケード",
+    "reading": "ardenarcade",
+    "code": "cr-kata11-218",
+    "index": 218
+  },
+  {
+    "surface": "ホーエネムス",
+    "reading": "hooenemusu",
+    "code": "cr-kata11-219",
+    "index": 219
+  },
+  {
+    "surface": "カロリ",
+    "reading": "calorie",
+    "code": "cr-kata11-220",
+    "index": 220
+  },
+  {
+    "surface": "ボガンデ",
+    "reading": "bogande",
+    "code": "cr-kata11-221",
+    "index": 221
+  },
+  {
+    "surface": "シブ",
+    "reading": "shibu",
+    "code": "cr-kata11-222",
+    "index": 222
+  },
+  {
+    "surface": "フリードリヒスハーフェン",
+    "reading": "furiidorihisuhaafen",
+    "code": "cr-kata11-223",
+    "index": 223
+  },
+  {
+    "surface": "クリュキウ",
+    "reading": "kuryukiu",
+    "code": "cr-kata11-224",
+    "index": 224
+  },
+  {
+    "surface": "モウダハ",
+    "reading": "moudaha",
+    "code": "cr-kata11-225",
+    "index": 225
+  },
+  {
+    "surface": "ビターフェルト",
+    "reading": "bitterfelt",
+    "code": "cr-kata11-226",
+    "index": 226
+  },
+  {
+    "surface": "ウェーコ",
+    "reading": "wayko",
+    "code": "cr-kata11-227",
+    "index": 227
+  },
+  {
+    "surface": "イタナガル",
+    "reading": "itanagaru",
+    "code": "cr-kata11-228",
+    "index": 228
+  },
+  {
+    "surface": "カンヌ",
+    "reading": "cannes",
+    "code": "cr-kata11-229",
+    "index": 229
+  },
+  {
+    "surface": "ジャワハル",
+    "reading": "javaharu",
+    "code": "cr-kata11-230",
+    "index": 230
+  },
+  {
+    "surface": "メイプル・グローヴ",
+    "reading": "mapleguroovu",
+    "code": "cr-kata11-231",
+    "index": 231
+  },
+  {
+    "surface": "マーティンズバーグ",
+    "reading": "maatinzuvague",
+    "code": "cr-kata11-232",
+    "index": 232
+  },
+  {
+    "surface": "ニボン・テバル",
+    "reading": "nibontebaru",
+    "code": "cr-kata11-233",
+    "index": 233
+  },
+  {
+    "surface": "イェヴレ",
+    "reading": "evure",
+    "code": "cr-kata11-234",
+    "index": 234
+  },
+  {
+    "surface": "ランツベルク・アム・レヒ",
+    "reading": "rantsuberukuamurehi",
+    "code": "cr-kata11-235",
+    "index": 235
+  },
+  {
+    "surface": "パデルノ・ドゥニャーノ",
+    "reading": "paderunodunyaano",
+    "code": "cr-kata11-236",
+    "index": 236
+  },
+  {
+    "surface": "サヌア",
+    "reading": "sana",
+    "code": "cr-kata11-237",
+    "index": 237
+  },
+  {
+    "surface": "ファーン・クリーク",
+    "reading": "faankuriiku",
+    "code": "cr-kata11-238",
+    "index": 238
+  },
+  {
+    "surface": "ブッシュウィック",
+    "reading": "busshuikku",
+    "code": "cr-kata11-239",
+    "index": 239
+  },
+  {
+    "surface": "プヨ",
+    "reading": "puyo",
+    "code": "cr-kata11-240",
+    "index": 240
+  },
+  {
+    "surface": "アンゴル",
+    "reading": "angole",
+    "code": "cr-kata11-241",
+    "index": 241
+  },
+  {
+    "surface": "エディネツ",
+    "reading": "edinetsu",
+    "code": "cr-kata11-242",
+    "index": 242
+  },
+  {
+    "surface": "オフリド",
+    "reading": "ohrid",
+    "code": "cr-kata11-243",
+    "index": 243
+  },
+  {
+    "surface": "ヴィトリア・ダ・コンキスタ",
+    "reading": "vitoriadakonkisuta",
+    "code": "cr-kata11-244",
+    "index": 244
+  },
+  {
+    "surface": "ブロン",
+    "reading": "buron",
+    "code": "cr-kata11-245",
+    "index": 245
+  },
+  {
+    "surface": "テルマス・デ・リオ・オンド",
+    "reading": "telmassdesrioonde",
+    "code": "cr-kata11-246",
+    "index": 246
+  },
+  {
+    "surface": "アナパ",
+    "reading": "anapa",
+    "code": "cr-kata11-247",
+    "index": 247
+  },
+  {
+    "surface": "ワイオミング",
+    "reading": "wyoming",
+    "code": "cr-kata11-248",
+    "index": 248
+  },
+  {
+    "surface": "モンリュソン",
+    "reading": "monryuson",
+    "code": "cr-kata11-249",
+    "index": 249
+  },
+  {
+    "surface": "ピアトラ・ネアムト",
+    "reading": "piatoraneamuto",
+    "code": "cr-kata11-250",
+    "index": 250
+  },
+  {
+    "surface": "ポートルイス",
+    "reading": "portlewis",
+    "code": "cr-kata11-251",
+    "index": 251
+  },
+  {
+    "surface": "ニューポート",
+    "reading": "newport",
+    "code": "cr-kata11-252",
+    "index": 252
+  },
+  {
+    "surface": "フエ",
+    "reading": "hue",
+    "code": "cr-kata11-253",
+    "index": 253
+  },
+  {
+    "surface": "ゴツェ・デルチェフ",
+    "reading": "gotsederuchefu",
+    "code": "cr-kata11-254",
+    "index": 254
+  },
+  {
+    "surface": "ムババーネ",
+    "reading": "mubabaane",
+    "code": "cr-kata11-255",
+    "index": 255
+  },
+  {
+    "surface": "サンタ・ルシア",
+    "reading": "saintlucia",
+    "code": "cr-kata11-256",
+    "index": 256
+  },
+  {
+    "surface": "サン・カルロス",
+    "reading": "suncarlos",
+    "code": "cr-kata11-257",
+    "index": 257
+  },
+  {
+    "surface": "ニシバル",
+    "reading": "nishibaru",
+    "code": "cr-kata11-258",
+    "index": 258
+  },
+  {
+    "surface": "ヴェナリーア・レアーレ",
+    "reading": "venariiareaare",
+    "code": "cr-kata11-259",
+    "index": 259
+  },
+  {
+    "surface": "サノク",
+    "reading": "sanoku",
+    "code": "cr-kata11-260",
+    "index": 260
+  },
+  {
+    "surface": "テテ",
+    "reading": "tete",
+    "code": "cr-kata11-261",
+    "index": 261
+  },
+  {
+    "surface": "ウェストコロンビア",
+    "reading": "westcolognebeer",
+    "code": "cr-kata11-262",
+    "index": 262
+  },
+  {
+    "surface": "アロア",
+    "reading": "aroa",
+    "code": "cr-kata11-263",
+    "index": 263
+  },
+  {
+    "surface": "ナニュエット",
+    "reading": "nanyuetto",
+    "code": "cr-kata11-264",
+    "index": 264
+  },
+  {
+    "surface": "モウガン",
+    "reading": "mougan",
+    "code": "cr-kata11-265",
+    "index": 265
+  },
+  {
+    "surface": "セーワン・シャリフ",
+    "reading": "seeonesharifu",
+    "code": "cr-kata11-266",
+    "index": 266
+  },
+  {
+    "surface": "デンデルモンデ",
+    "reading": "denderumonde",
+    "code": "cr-kata11-267",
+    "index": 267
+  },
+  {
+    "surface": "ヘルツォーゲンアウラハ",
+    "reading": "herutsoogenauraha",
+    "code": "cr-kata11-268",
+    "index": 268
+  },
+  {
+    "surface": "ヘルソン",
+    "reading": "heruson",
+    "code": "cr-kata11-269",
+    "index": 269
+  },
+  {
+    "surface": "チェンバーズバーグ",
+    "reading": "chenbaazubaagu",
+    "code": "cr-kata11-270",
+    "index": 270
+  },
+  {
+    "surface": "ランシー",
+    "reading": "runsea",
+    "code": "cr-kata11-271",
+    "index": 271
+  },
+  {
+    "surface": "バルワル",
+    "reading": "baruwaru",
+    "code": "cr-kata11-272",
+    "index": 272
+  },
+  {
+    "surface": "アランダ・デ・ドゥエロ",
+    "reading": "alandadeduero",
+    "code": "cr-kata11-273",
+    "index": 273
+  },
+  {
+    "surface": "サイレンセスター",
+    "reading": "sirensesuta",
+    "code": "cr-kata11-274",
+    "index": 274
+  },
+  {
+    "surface": "シャマヒ",
+    "reading": "shamahi",
+    "code": "cr-kata11-275",
+    "index": 275
+  },
+  {
+    "surface": "ナウカルパン",
+    "reading": "nowkarupao",
+    "code": "cr-kata11-276",
+    "index": 276
+  },
+  {
+    "surface": "モントクレア",
+    "reading": "montokurea",
+    "code": "cr-kata11-277",
+    "index": 277
+  },
+  {
+    "surface": "モンテジルヴァーノ",
+    "reading": "montejiruvaano",
+    "code": "cr-kata11-278",
+    "index": 278
+  },
+  {
+    "surface": "ファガラシュ",
+    "reading": "fagarashu",
+    "code": "cr-kata11-279",
+    "index": 279
+  },
+  {
+    "surface": "サンルーカル・デ・バラメーダ",
+    "reading": "sanruukarudesbarameeda",
+    "code": "cr-kata11-280",
+    "index": 280
+  },
+  {
+    "surface": "ミサワ",
+    "reading": "misawa",
+    "code": "cr-kata11-281",
+    "index": 281
+  },
+  {
+    "surface": "イースト・トレモント",
+    "reading": "easttoremonto",
+    "code": "cr-kata11-282",
+    "index": 282
+  },
+  {
+    "surface": "ウムアヒア",
+    "reading": "umuahia",
+    "code": "cr-kata11-283",
+    "index": 283
+  },
+  {
+    "surface": "トルボヴリェ",
+    "reading": "torubovure",
+    "code": "cr-kata11-284",
+    "index": 284
+  },
+  {
+    "surface": "ズワラ",
+    "reading": "zuwara",
+    "code": "cr-kata11-285",
+    "index": 285
+  },
+  {
+    "surface": "ファマグスタ",
+    "reading": "famagusta",
+    "code": "cr-kata11-286",
+    "index": 286
+  },
+  {
+    "surface": "スタンリー",
+    "reading": "stanley",
+    "code": "cr-kata11-287",
+    "index": 287
+  },
+  {
+    "surface": "マナウス",
+    "reading": "manaus",
+    "code": "cr-kata11-288",
+    "index": 288
+  },
+  {
+    "surface": "ブルームフォンテーン",
+    "reading": "bloomfonteynfontaine",
+    "code": "cr-kata11-289",
+    "index": 289
+  },
+  {
+    "surface": "セントラル・アイスリップ",
+    "reading": "centraleyeslip",
+    "code": "cr-kata11-290",
+    "index": 290
+  },
+  {
+    "surface": "エンバ",
+    "reading": "enba",
+    "code": "cr-kata11-291",
+    "index": 291
+  },
+  {
+    "surface": "エンテベ",
+    "reading": "entebbe",
+    "code": "cr-kata11-292",
+    "index": 292
+  },
+  {
+    "surface": "ペッカム",
+    "reading": "peccome",
+    "code": "cr-kata11-293",
+    "index": 293
+  },
+  {
+    "surface": "ナイメーヘン",
+    "reading": "nijmegen",
+    "code": "cr-kata11-294",
+    "index": 294
+  },
+  {
+    "surface": "コタ",
+    "reading": "kota",
+    "code": "cr-kata11-295",
+    "index": 295
+  },
+  {
+    "surface": "マナカラ",
+    "reading": "manakara",
+    "code": "cr-kata11-296",
+    "index": 296
+  },
+  {
+    "surface": "スターリングハイツ",
+    "reading": "sterlingheights",
+    "code": "cr-kata11-297",
+    "index": 297
+  },
+  {
+    "surface": "モトマチ",
+    "reading": "motomachi",
+    "code": "cr-kata11-298",
+    "index": 298
+  },
+  {
+    "surface": "サン・ホセ・デ・オコア",
+    "reading": "sunjosedeokoa",
+    "code": "cr-kata11-299",
+    "index": 299
+  },
+  {
+    "surface": "サンディスプリングス",
+    "reading": "sandisupuringusu",
+    "code": "cr-kata11-300",
+    "index": 300
+  },
+  {
+    "surface": "フェアファックス",
+    "reading": "feafax",
+    "code": "cr-kata11-301",
+    "index": 301
+  },
+  {
+    "surface": "ディアマンテ",
+    "reading": "diamante",
+    "code": "cr-kata11-302",
+    "index": 302
+  },
+  {
+    "surface": "クサル",
+    "reading": "kusale",
+    "code": "cr-kata11-303",
+    "index": 303
+  },
+  {
+    "surface": "チードル・ヒューム",
+    "reading": "chiidollarhume",
+    "code": "cr-kata11-304",
+    "index": 304
+  },
+  {
+    "surface": "ダリアン",
+    "reading": "dalianne",
+    "code": "cr-kata11-305",
+    "index": 305
+  },
+  {
+    "surface": "ウベダ",
+    "reading": "uveda",
+    "code": "cr-kata11-306",
+    "index": 306
+  },
+  {
+    "surface": "ヘルシンゲル",
+    "reading": "herushingeru",
+    "code": "cr-kata11-307",
+    "index": 307
+  },
+  {
+    "surface": "リダ",
+    "reading": "rida",
+    "code": "cr-kata11-308",
+    "index": 308
+  },
+  {
+    "surface": "サン・ドナート・ミラネーゼ",
+    "reading": "sundonaatomilanese",
+    "code": "cr-kata11-309",
+    "index": 309
+  },
+  {
+    "surface": "ベリ",
+    "reading": "very",
+    "code": "cr-kata11-310",
+    "index": 310
+  },
+  {
+    "surface": "シエゴ・デ・アビラ",
+    "reading": "shiegodeabira",
+    "code": "cr-kata11-311",
+    "index": 311
+  },
+  {
+    "surface": "ハーロウ",
+    "reading": "harloe",
+    "code": "cr-kata11-312",
+    "index": 312
+  },
+  {
+    "surface": "パタウディ",
+    "reading": "patawoody",
+    "code": "cr-kata11-313",
+    "index": 313
+  },
+  {
+    "surface": "ヴェルダン",
+    "reading": "verdun",
+    "code": "cr-kata11-314",
+    "index": 314
+  },
+  {
+    "surface": "サンタナスタジーア",
+    "reading": "santanasutajiia",
+    "code": "cr-kata11-315",
+    "index": 315
+  },
+  {
+    "surface": "カセレス",
+    "reading": "kaseresponse",
+    "code": "cr-kata11-316",
+    "index": 316
+  },
+  {
+    "surface": "ミエルクレア・チウク",
+    "reading": "mierukureachiuku",
+    "code": "cr-kata11-317",
+    "index": 317
+  },
+  {
+    "surface": "アルマンティエール",
+    "reading": "armandtieeru",
+    "code": "cr-kata11-318",
+    "index": 318
+  },
+  {
+    "surface": "ポモナ",
+    "reading": "pomona",
+    "code": "cr-kata11-319",
+    "index": 319
+  },
+  {
+    "surface": "チェスキー・チェシーン",
+    "reading": "chesukiicheshiin",
+    "code": "cr-kata11-320",
+    "index": 320
+  },
+  {
+    "surface": "トゥナー",
+    "reading": "tuna",
+    "code": "cr-kata11-321",
+    "index": 321
+  },
+  {
+    "surface": "ケンダリ",
+    "reading": "kendari",
+    "code": "cr-kata11-322",
+    "index": 322
+  },
+  {
+    "surface": "ボゴタ",
+    "reading": "bogota",
+    "code": "cr-kata11-323",
+    "index": 323
+  },
+  {
+    "surface": "ブラーク",
+    "reading": "bulark",
+    "code": "cr-kata11-324",
+    "index": 324
+  },
+  {
+    "surface": "ガエータ",
+    "reading": "gaeeta",
+    "code": "cr-kata11-325",
+    "index": 325
+  },
+  {
+    "surface": "ヴィメルカーテ",
+    "reading": "vimerukaate",
+    "code": "cr-kata11-326",
+    "index": 326
+  },
+  {
+    "surface": "ミッドランド",
+    "reading": "midland",
+    "code": "cr-kata11-327",
+    "index": 327
+  },
+  {
+    "surface": "サン・ホセ・デ・ラス・ラハス",
+    "reading": "sunjosederasurahasu",
+    "code": "cr-kata11-328",
+    "index": 328
+  },
+  {
+    "surface": "ノース・ソルト・レイク",
+    "reading": "noosusorutolake",
+    "code": "cr-kata11-329",
+    "index": 329
+  },
+  {
+    "surface": "ピキン",
+    "reading": "pikin",
+    "code": "cr-kata11-330",
+    "index": 330
+  },
+  {
+    "surface": "ニューポートリッチー",
+    "reading": "newportrichie",
+    "code": "cr-kata11-331",
+    "index": 331
+  },
+  {
+    "surface": "ヒュースクヴァーナ",
+    "reading": "hyuusukuvaana",
+    "code": "cr-kata11-332",
+    "index": 332
+  },
+  {
+    "surface": "トゥールーズ",
+    "reading": "tuuruuzu",
+    "code": "cr-kata11-333",
+    "index": 333
+  },
+  {
+    "surface": "アッパー・ノーウッド",
+    "reading": "uppernowood",
+    "code": "cr-kata11-334",
+    "index": 334
+  },
+  {
+    "surface": "ルーベ",
+    "reading": "loubet",
+    "code": "cr-kata11-335",
+    "index": 335
+  },
+  {
+    "surface": "ヴィットリオ・ヴェネト",
+    "reading": "vittorioveneto",
+    "code": "cr-kata11-336",
+    "index": 336
+  },
+  {
+    "surface": "アガルタラ",
+    "reading": "agarutara",
+    "code": "cr-kata11-337",
+    "index": 337
+  },
+  {
+    "surface": "ロチェスターヒルズ",
+    "reading": "rochesterhills",
+    "code": "cr-kata11-338",
+    "index": 338
+  },
+  {
+    "surface": "スケルマースデール",
+    "reading": "sukerumaasudeeru",
+    "code": "cr-kata11-339",
+    "index": 339
+  },
+  {
+    "surface": "ラングリー",
+    "reading": "runglee",
+    "code": "cr-kata11-340",
+    "index": 340
+  },
+  {
+    "surface": "ガーデナ",
+    "reading": "gaadena",
+    "code": "cr-kata11-341",
+    "index": 341
+  },
+  {
+    "surface": "ゴータ",
+    "reading": "goota",
+    "code": "cr-kata11-342",
+    "index": 342
+  },
+  {
+    "surface": "イーストロサンゼルス",
+    "reading": "eastlosangeles",
+    "code": "cr-kata11-343",
+    "index": 343
+  },
+  {
+    "surface": "コロネル・ファブリシアーノ",
+    "reading": "koronerufaburishiaano",
+    "code": "cr-kata11-344",
+    "index": 344
+  },
+  {
+    "surface": "フォールビュルフ",
+    "reading": "foorubyurufu",
+    "code": "cr-kata11-345",
+    "index": 345
+  },
+  {
+    "surface": "ヨズガト",
+    "reading": "yozugato",
+    "code": "cr-kata11-346",
+    "index": 346
+  },
+  {
+    "surface": "マティアス・ロメロ",
+    "reading": "matiasuromero",
+    "code": "cr-kata11-347",
+    "index": 347
+  },
+  {
+    "surface": "クリスティアンサンド",
+    "reading": "christiansandwich",
+    "code": "cr-kata11-348",
+    "index": 348
+  },
+  {
+    "surface": "バート・ドリーブルク",
+    "reading": "baatodoriiburg",
+    "code": "cr-kata11-349",
+    "index": 349
+  },
+  {
+    "surface": "ブレーマーフェルデ",
+    "reading": "bureemaaferude",
+    "code": "cr-kata11-350",
+    "index": 350
+  },
+  {
+    "surface": "ルブンバシ",
+    "reading": "rubunbashi",
+    "code": "cr-kata11-351",
+    "index": 351
+  },
+  {
+    "surface": "ヘンザダ",
+    "reading": "henzada",
+    "code": "cr-kata11-352",
+    "index": 352
+  },
+  {
+    "surface": "ヴォルシャ",
+    "reading": "voildemortsha",
+    "code": "cr-kata11-353",
+    "index": 353
+  },
+  {
+    "surface": "トメジョーソ",
+    "reading": "tomejooso",
+    "code": "cr-kata11-354",
+    "index": 354
+  },
+  {
+    "surface": "ロンポク",
+    "reading": "ronpoku",
+    "code": "cr-kata11-355",
+    "index": 355
+  },
+  {
+    "surface": "ラクナウー",
+    "reading": "lacunauu",
+    "code": "cr-kata11-356",
+    "index": 356
+  },
+  {
+    "surface": "ホワイトベアレイク",
+    "reading": "whitebaseuplake",
+    "code": "cr-kata11-357",
+    "index": 357
+  },
+  {
+    "surface": "ファーミントン・ヒルズ",
+    "reading": "furmintonhills",
+    "code": "cr-kata11-358",
+    "index": 358
+  },
+  {
+    "surface": "ドブロピリア",
+    "reading": "dobropiria",
+    "code": "cr-kata11-359",
+    "index": 359
+  },
+  {
+    "surface": "テルテル",
+    "reading": "teltel",
+    "code": "cr-kata11-360",
+    "index": 360
+  },
+  {
+    "surface": "エイキン",
+    "reading": "eikin",
+    "code": "cr-kata11-361",
+    "index": 361
+  },
+  {
+    "surface": "ファブリアーノ",
+    "reading": "faburiaano",
+    "code": "cr-kata11-362",
+    "index": 362
+  },
+  {
+    "surface": "チルパンシンゴ",
+    "reading": "chirupanshingo",
+    "code": "cr-kata11-363",
+    "index": 363
+  },
+  {
+    "surface": "テルエル",
+    "reading": "telel",
+    "code": "cr-kata11-364",
+    "index": 364
+  },
+  {
+    "surface": "ダンスタブル",
+    "reading": "dancetable",
+    "code": "cr-kata11-365",
+    "index": 365
+  },
+  {
+    "surface": "フィアナランツォア",
+    "reading": "fianarantsoa",
+    "code": "cr-kata11-366",
+    "index": 366
+  },
+  {
+    "surface": "サンフアンキャピストラーノ",
+    "reading": "sanfuankyapisutoraano",
+    "code": "cr-kata11-367",
+    "index": 367
+  },
+  {
+    "surface": "シウダー・フアレス",
+    "reading": "shiudaafuaresu",
+    "code": "cr-kata11-368",
+    "index": 368
+  },
+  {
+    "surface": "シャルゴータルヤーン",
+    "reading": "sharugootaruyaan",
+    "code": "cr-kata11-369",
+    "index": 369
+  },
+  {
+    "surface": "ルセ",
+    "reading": "ruse",
+    "code": "cr-kata11-370",
+    "index": 370
+  },
+  {
+    "surface": "チタ",
+    "reading": "chita",
+    "code": "cr-kata11-371",
+    "index": 371
+  },
+  {
+    "surface": "トルヒーリョ",
+    "reading": "toruhiiryo",
+    "code": "cr-kata11-372",
+    "index": 372
+  },
+  {
+    "surface": "ホルヨーク",
+    "reading": "horuyoke",
+    "code": "cr-kata11-373",
+    "index": 373
+  },
+  {
+    "surface": "テカシュ",
+    "reading": "tekashu",
+    "code": "cr-kata11-374",
+    "index": 374
+  },
+  {
+    "surface": "ディエゴマルティン",
+    "reading": "diegomartin",
+    "code": "cr-kata11-375",
+    "index": 375
+  },
+  {
+    "surface": "クスコ",
+    "reading": "cuzco",
+    "code": "cr-kata11-376",
+    "index": 376
+  },
+  {
+    "surface": "カーンチャナブリー",
+    "reading": "khanchanabully",
+    "code": "cr-kata11-377",
+    "index": 377
+  },
+  {
+    "surface": "トレズ",
+    "reading": "tolesbian",
+    "code": "cr-kata11-378",
+    "index": 378
+  },
+  {
+    "surface": "ソコー",
+    "reading": "sokou",
+    "code": "cr-kata11-379",
+    "index": 379
+  },
+  {
+    "surface": "ホヴ",
+    "reading": "hovu",
+    "code": "cr-kata11-380",
+    "index": 380
+  },
+  {
+    "surface": "サン・ジョゼー・ド・リオ・プレト",
+    "reading": "sunjozedoriopureto",
+    "code": "cr-kata11-381",
+    "index": 381
+  },
+  {
+    "surface": "ヘプ",
+    "reading": "hepu",
+    "code": "cr-kata11-382",
+    "index": 382
+  },
+  {
+    "surface": "フォートローダーデール",
+    "reading": "fortroodaadeeru",
+    "code": "cr-kata11-383",
+    "index": 383
+  },
+  {
+    "surface": "ユニバーシティプレース",
+    "reading": "universityplace",
+    "code": "cr-kata11-384",
+    "index": 384
+  },
+  {
+    "surface": "ネルチンスク",
+    "reading": "nerchinsk",
+    "code": "cr-kata11-385",
+    "index": 385
+  },
+  {
+    "surface": "コフテペケ",
+    "reading": "kofutepeke",
+    "code": "cr-kata11-386",
+    "index": 386
+  },
+  {
+    "surface": "ハバナ",
+    "reading": "havana",
+    "code": "cr-kata11-387",
+    "index": 387
+  },
+  {
+    "surface": "ヴィッツェンハウゼン",
+    "reading": "vittsenhauzen",
+    "code": "cr-kata11-388",
+    "index": 388
+  },
+  {
+    "surface": "スエズ",
+    "reading": "suez",
+    "code": "cr-kata11-389",
+    "index": 389
+  },
+  {
+    "surface": "アニストン",
+    "reading": "anistone",
+    "code": "cr-kata11-390",
+    "index": 390
+  },
+  {
+    "surface": "ナイアガラフォールズ",
+    "reading": "niagarafall",
+    "code": "cr-kata11-391",
+    "index": 391
+  },
+  {
+    "surface": "イースト・エンド",
+    "reading": "eastend",
+    "code": "cr-kata11-392",
+    "index": 392
+  },
+  {
+    "surface": "アバ",
+    "reading": "aba",
+    "code": "cr-kata11-393",
+    "index": 393
+  },
+  {
+    "surface": "ヴィエリチカ",
+    "reading": "vierichika",
+    "code": "cr-kata11-394",
+    "index": 394
+  },
+  {
+    "surface": "バーゼル",
+    "reading": "basel",
+    "code": "cr-kata11-395",
+    "index": 395
+  },
+  {
+    "surface": "ヌエベ・デ・フリオ",
+    "reading": "nuevedesfurio",
+    "code": "cr-kata11-396",
+    "index": 396
+  },
+  {
+    "surface": "スレフフ",
+    "reading": "surefufu",
+    "code": "cr-kata11-397",
+    "index": 397
+  },
+  {
+    "surface": "ウェスト・ブレントウッド",
+    "reading": "westbrentwood",
+    "code": "cr-kata11-398",
+    "index": 398
+  },
+  {
+    "surface": "プーノ",
+    "reading": "puuno",
+    "code": "cr-kata11-399",
+    "index": 399
+  },
+  {
+    "surface": "ソポト",
+    "reading": "sopoto",
+    "code": "cr-kata11-400",
+    "index": 400
+  },
+  {
+    "surface": "カンポス・ド・ジョルドン",
+    "reading": "kanposudojorudon",
+    "code": "cr-kata11-401",
+    "index": 401
+  },
+  {
+    "surface": "ボゴール",
+    "reading": "bogor",
+    "code": "cr-kata11-402",
+    "index": 402
+  },
+  {
+    "surface": "アフィヨンカラヒサール",
+    "reading": "afiyonkarahisaaru",
+    "code": "cr-kata11-403",
+    "index": 403
+  },
+  {
+    "surface": "プエルト・マルドナド",
+    "reading": "puerutomarudonado",
+    "code": "cr-kata11-404",
+    "index": 404
+  },
+  {
+    "surface": "リュネル",
+    "reading": "rueflannel",
+    "code": "cr-kata11-405",
+    "index": 405
+  },
+  {
+    "surface": "デゼンツァーノ・デル・ガルダ",
+    "reading": "dezentsaanoderugaruda",
+    "code": "cr-kata11-406",
+    "index": 406
+  },
+  {
+    "surface": "エルスタル",
+    "reading": "erusutaru",
+    "code": "cr-kata11-407",
+    "index": 407
+  },
+  {
+    "surface": "ウォータービル",
+    "reading": "waterbuilding",
+    "code": "cr-kata11-408",
+    "index": 408
+  },
+  {
+    "surface": "スギト",
+    "reading": "sugito",
+    "code": "cr-kata11-409",
+    "index": 409
+  },
+  {
+    "surface": "エヴァンストン",
+    "reading": "evanstone",
+    "code": "cr-kata11-410",
+    "index": 410
+  },
+  {
+    "surface": "プカルバ",
+    "reading": "pukaruba",
+    "code": "cr-kata11-411",
+    "index": 411
+  },
+  {
+    "surface": "トッテナム・ヘール",
+    "reading": "tottenhamhale",
+    "code": "cr-kata11-412",
+    "index": 412
+  },
+  {
+    "surface": "カーボロ",
+    "reading": "carboro",
+    "code": "cr-kata11-413",
+    "index": 413
+  },
+  {
+    "surface": "ティエンジン",
+    "reading": "tiengine",
+    "code": "cr-kata11-414",
+    "index": 414
+  },
+  {
+    "surface": "オネ",
+    "reading": "one",
+    "code": "cr-kata11-415",
+    "index": 415
+  },
+  {
+    "surface": "メサ",
+    "reading": "mesa",
+    "code": "cr-kata11-416",
+    "index": 416
+  },
+  {
+    "surface": "ニューマーケット",
+    "reading": "newmarket",
+    "code": "cr-kata11-417",
+    "index": 417
+  },
+  {
+    "surface": "ミハロフツェ",
+    "reading": "miharofutse",
+    "code": "cr-kata11-418",
+    "index": 418
+  },
+  {
+    "surface": "ラーマナータプラム",
+    "reading": "raamanaatapuramu",
+    "code": "cr-kata11-419",
+    "index": 419
+  },
+  {
+    "surface": "シルバースプリング",
+    "reading": "silverspring",
+    "code": "cr-kata11-420",
+    "index": 420
+  },
+  {
+    "surface": "ヘブロン",
+    "reading": "heburon",
+    "code": "cr-kata11-421",
+    "index": 421
+  },
+  {
+    "surface": "ウェストウォリック",
+    "reading": "westwarwick",
+    "code": "cr-kata11-422",
+    "index": 422
+  },
+  {
+    "surface": "ビリャ・デ・バリェカス",
+    "reading": "biryadebarekasu",
+    "code": "cr-kata11-423",
+    "index": 423
+  },
+  {
+    "surface": "ヤコ",
+    "reading": "yako",
+    "code": "cr-kata11-424",
+    "index": 424
+  },
+  {
+    "surface": "ニューウエストミンスター",
+    "reading": "newwestminster",
+    "code": "cr-kata11-425",
+    "index": 425
+  },
+  {
+    "surface": "カンピ・ビゼンツィオ",
+    "reading": "kanpibizentsio",
+    "code": "cr-kata11-426",
+    "index": 426
+  },
+  {
+    "surface": "ニサ",
+    "reading": "nisa",
+    "code": "cr-kata11-427",
+    "index": 427
+  },
+  {
+    "surface": "モールデン",
+    "reading": "mallden",
+    "code": "cr-kata11-428",
+    "index": 428
+  },
+  {
+    "surface": "クリシャンスタード",
+    "reading": "kurishansutaado",
+    "code": "cr-kata11-429",
+    "index": 429
+  },
+  {
+    "surface": "クリスチャンズバーグ",
+    "reading": "kurisuchanzubaagu",
+    "code": "cr-kata11-430",
+    "index": 430
+  },
+  {
+    "surface": "シュヴェービッシュ・ハル",
+    "reading": "shuveebisshuharu",
+    "code": "cr-kata11-431",
+    "index": 431
+  },
+  {
+    "surface": "シエラビスタ",
+    "reading": "sierravista",
+    "code": "cr-kata11-432",
+    "index": 432
+  },
+  {
+    "surface": "ラウマ",
+    "reading": "rauma",
+    "code": "cr-kata11-433",
+    "index": 433
+  },
+  {
+    "surface": "スチェルダールシャルセン",
+    "reading": "sucherudaarusharusen",
+    "code": "cr-kata11-434",
+    "index": 434
+  },
+  {
+    "surface": "ブルシャーノ",
+    "reading": "bullshahno",
+    "code": "cr-kata11-435",
+    "index": 435
+  },
+  {
+    "surface": "コムソモリスク・ナ・アムーレ",
+    "reading": "komsomolskonamur",
+    "code": "cr-kata11-436",
+    "index": 436
+  },
+  {
+    "surface": "オパロッカ",
+    "reading": "oparokka",
+    "code": "cr-kata11-437",
+    "index": 437
+  },
+  {
+    "surface": "サン・アントニオ・デ・パドゥア",
+    "reading": "sunantoniodespadova",
+    "code": "cr-kata11-438",
+    "index": 438
+  },
+  {
+    "surface": "ヴィンタートゥール",
+    "reading": "vintaatuuru",
+    "code": "cr-kata11-439",
+    "index": 439
+  },
+  {
+    "surface": "バンスカー・ビストリツァ",
+    "reading": "bansukaabisutoritsa",
+    "code": "cr-kata11-440",
+    "index": 440
+  },
+  {
+    "surface": "チヴィタヴェッキア",
+    "reading": "chivitavekkia",
+    "code": "cr-kata11-441",
+    "index": 441
+  },
+  {
+    "surface": "トレヴィーゾ",
+    "reading": "treviso",
+    "code": "cr-kata11-442",
+    "index": 442
+  },
+  {
+    "surface": "モホディツァネ",
+    "reading": "mohoditsane",
+    "code": "cr-kata11-443",
+    "index": 443
+  },
+  {
+    "surface": "バート・デュルクハイム",
+    "reading": "baatodyurukuhaimu",
+    "code": "cr-kata11-444",
+    "index": 444
+  },
+  {
+    "surface": "モロゴロ",
+    "reading": "morogoro",
+    "code": "cr-kata11-445",
+    "index": 445
+  },
+  {
+    "surface": "オッタパラム",
+    "reading": "ottaparamu",
+    "code": "cr-kata11-446",
+    "index": 446
+  },
+  {
+    "surface": "カショエイロ・ジ・イタペミリン",
+    "reading": "kashoeirojiitapemirin",
+    "code": "cr-kata11-447",
+    "index": 447
+  },
+  {
+    "surface": "ザンジバルシティ",
+    "reading": "zanzibarcity",
+    "code": "cr-kata11-448",
+    "index": 448
+  },
+  {
+    "surface": "ハイポイント",
+    "reading": "highpoint",
+    "code": "cr-kata11-449",
+    "index": 449
+  },
+  {
+    "surface": "アル・プラ・ダ・リョブレガート",
+    "reading": "arupuradaryoburegaato",
+    "code": "cr-kata11-450",
+    "index": 450
+  },
+  {
+    "surface": "ロレイン",
+    "reading": "rorein",
+    "code": "cr-kata11-451",
+    "index": 451
+  },
+  {
+    "surface": "タフィ・ビエホ",
+    "reading": "taffybieho",
+    "code": "cr-kata11-452",
+    "index": 452
+  },
+  {
+    "surface": "オシャースレーベン",
+    "reading": "oshaasureeben",
+    "code": "cr-kata11-453",
+    "index": 453
+  },
+  {
+    "surface": "ラバト",
+    "reading": "rabat",
+    "code": "cr-kata11-454",
+    "index": 454
+  },
+  {
+    "surface": "チャラテナンゴ",
+    "reading": "charatenango",
+    "code": "cr-kata11-455",
+    "index": 455
+  },
+  {
+    "surface": "バルエリ",
+    "reading": "barueri",
+    "code": "cr-kata11-456",
+    "index": 456
+  },
+  {
+    "surface": "フス",
+    "reading": "fusu",
+    "code": "cr-kata11-457",
+    "index": 457
+  },
+  {
+    "surface": "アルコス・デ・ラ・フロンテーラ",
+    "reading": "arukosuderafuronteera",
+    "code": "cr-kata11-458",
+    "index": 458
+  },
+  {
+    "surface": "タルトゥ",
+    "reading": "tarte",
+    "code": "cr-kata11-459",
+    "index": 459
+  },
+  {
+    "surface": "サマルカンド",
+    "reading": "samarkand",
+    "code": "cr-kata11-460",
+    "index": 460
+  },
+  {
+    "surface": "トゥーットゥックディ",
+    "reading": "tottukkudi",
+    "code": "cr-kata11-461",
+    "index": 461
+  },
+  {
+    "surface": "ムバララ",
+    "reading": "mubarara",
+    "code": "cr-kata11-462",
+    "index": 462
+  },
+  {
+    "surface": "ノースベイ",
+    "reading": "northbay",
+    "code": "cr-kata11-463",
+    "index": 463
+  },
+  {
+    "surface": "プラフスク",
+    "reading": "purafusuku",
+    "code": "cr-kata11-464",
+    "index": 464
+  },
+  {
+    "surface": "アルファルワニーヤ",
+    "reading": "arufaruwaniiya",
+    "code": "cr-kata11-465",
+    "index": 465
+  },
+  {
+    "surface": "ファヤ・ラルジョー",
+    "reading": "fayararujoo",
+    "code": "cr-kata11-466",
+    "index": 466
+  },
+  {
+    "surface": "カンブリア・ハイツ",
+    "reading": "cambriaheights",
+    "code": "cr-kata11-467",
+    "index": 467
+  },
+  {
+    "surface": "ハティエン",
+    "reading": "hatien",
+    "code": "cr-kata11-468",
+    "index": 468
+  },
+  {
+    "surface": "クラスノペレコプスク",
+    "reading": "kurasunoperekopusuku",
+    "code": "cr-kata11-469",
+    "index": 469
+  },
+  {
+    "surface": "グランドラピッズ",
+    "reading": "gurandorapizzu",
+    "code": "cr-kata11-470",
+    "index": 470
+  },
+  {
+    "surface": "ボロース",
+    "reading": "burroughssu",
+    "code": "cr-kata11-471",
+    "index": 471
+  },
+  {
+    "surface": "ウェストメンフィス",
+    "reading": "westmemphis",
+    "code": "cr-kata11-472",
+    "index": 472
+  },
+  {
+    "surface": "モンス",
+    "reading": "monsu",
+    "code": "cr-kata11-473",
+    "index": 473
+  },
+  {
+    "surface": "レティーロ",
+    "reading": "retiro",
+    "code": "cr-kata11-474",
+    "index": 474
+  },
+  {
+    "surface": "ノーウィッチ",
+    "reading": "nowitch",
+    "code": "cr-kata11-475",
+    "index": 475
+  },
+  {
+    "surface": "フンシャル",
+    "reading": "funsharu",
+    "code": "cr-kata11-476",
+    "index": 476
+  },
+  {
+    "surface": "ドナ",
+    "reading": "dona",
+    "code": "cr-kata11-477",
+    "index": 477
+  },
+  {
+    "surface": "ザイスト",
+    "reading": "theist",
+    "code": "cr-kata11-478",
+    "index": 478
+  },
+  {
+    "surface": "アブダビ",
+    "reading": "abudabi",
+    "code": "cr-kata11-479",
+    "index": 479
+  },
+  {
+    "surface": "チンホイ",
+    "reading": "chinhoi",
+    "code": "cr-kata11-480",
+    "index": 480
+  },
+  {
+    "surface": "アッパー・ウエスト・サイド",
+    "reading": "upperwaistside",
+    "code": "cr-kata11-481",
+    "index": 481
+  },
+  {
+    "surface": "メノモニー",
+    "reading": "menomonii",
+    "code": "cr-kata11-482",
+    "index": 482
+  },
+  {
+    "surface": "オファロン",
+    "reading": "ofaron",
+    "code": "cr-kata11-483",
+    "index": 483
+  },
+  {
+    "surface": "セント・アンドルーズ",
+    "reading": "saintandoruuzu",
+    "code": "cr-kata11-484",
+    "index": 484
+  },
+  {
+    "surface": "ブラザヴィル",
+    "reading": "brathevill",
+    "code": "cr-kata11-485",
+    "index": 485
+  },
+  {
+    "surface": "シュタイアー",
+    "reading": "shutaiaa",
+    "code": "cr-kata11-486",
+    "index": 486
+  },
+  {
+    "surface": "マロヤロスラヴェツ",
+    "reading": "maroyarosuravetsu",
+    "code": "cr-kata11-487",
+    "index": 487
+  },
+  {
+    "surface": "バイーア・デ・カラケス",
+    "reading": "bahiadekarakesu",
+    "code": "cr-kata11-488",
+    "index": 488
+  },
+  {
+    "surface": "ブレゲンツ",
+    "reading": "buregoncz",
+    "code": "cr-kata11-489",
+    "index": 489
+  },
+  {
+    "surface": "アムナートチャルーン",
+    "reading": "amunaatocharuun",
+    "code": "cr-kata11-490",
+    "index": 490
+  },
+  {
+    "surface": "ウィンターガーデン",
+    "reading": "wintergarden",
+    "code": "cr-kata11-491",
+    "index": 491
+  },
+  {
+    "surface": "ムニャーノ・ディ・ナーポリ",
+    "reading": "munyaanodinaapori",
+    "code": "cr-kata11-492",
+    "index": 492
+  },
+  {
+    "surface": "ソウテル",
+    "reading": "souteru",
+    "code": "cr-kata11-493",
+    "index": 493
+  },
+  {
+    "surface": "クリコロ",
+    "reading": "clitoriskoro",
+    "code": "cr-kata11-494",
+    "index": 494
+  },
+  {
+    "surface": "ホプキンズ",
+    "reading": "hopkins",
+    "code": "cr-kata11-495",
+    "index": 495
+  },
+  {
+    "surface": "ストーク・オン・トレント",
+    "reading": "storkontorrent",
+    "code": "cr-kata11-496",
+    "index": 496
+  },
+  {
+    "surface": "ゲッティンゲン",
+    "reading": "gottingen",
+    "code": "cr-kata11-497",
+    "index": 497
+  },
+  {
+    "surface": "カッペラス・コーヴ",
+    "reading": "kappelathkoovu",
+    "code": "cr-kata11-498",
+    "index": 498
+  },
+  {
+    "surface": "プルマン",
+    "reading": "pullman",
+    "code": "cr-kata11-499",
+    "index": 499
+  },
+  {
+    "surface": "ナッソー",
+    "reading": "nassau",
+    "code": "cr-kata11-500",
+    "index": 500
+  },
+  {
+    "surface": "グアダラハラ",
+    "reading": "guadalajara",
+    "code": "cr-kata11-501",
+    "index": 501
+  },
+  {
+    "surface": "メーダ",
+    "reading": "meeda",
+    "code": "cr-kata11-502",
+    "index": 502
+  },
+  {
+    "surface": "ルセイファ",
+    "reading": "ruseifa",
+    "code": "cr-kata11-503",
+    "index": 503
+  },
+  {
+    "surface": "ノースロイヤルトン",
+    "reading": "noosuroiyaruton",
+    "code": "cr-kata11-504",
+    "index": 504
+  },
+  {
+    "surface": "ハイランド・パーク",
+    "reading": "highlandpark",
+    "code": "cr-kata11-505",
+    "index": 505
+  },
+  {
+    "surface": "セッティモ・トリネーゼ",
+    "reading": "settimotorineeze",
+    "code": "cr-kata11-506",
+    "index": 506
+  },
+  {
+    "surface": "ビトラ",
+    "reading": "bitora",
+    "code": "cr-kata11-507",
+    "index": 507
+  },
+  {
+    "surface": "シーモア",
+    "reading": "seymour",
+    "code": "cr-kata11-508",
+    "index": 508
+  },
+  {
+    "surface": "ギジツコ",
+    "reading": "gijitsuko",
+    "code": "cr-kata11-509",
+    "index": 509
+  },
+  {
+    "surface": "アンカラ",
+    "reading": "ankara",
+    "code": "cr-kata11-510",
+    "index": 510
+  },
+  {
+    "surface": "フォート・コリンズ",
+    "reading": "fortcollins",
+    "code": "cr-kata11-511",
+    "index": 511
+  },
+  {
+    "surface": "ヴォログダ",
+    "reading": "voroguda",
+    "code": "cr-kata11-512",
+    "index": 512
+  },
+  {
+    "surface": "ノヴォチェルカッスク",
+    "reading": "novocherukassuku",
+    "code": "cr-kata11-513",
+    "index": 513
+  },
+  {
+    "surface": "ブローリー",
+    "reading": "bulorry",
+    "code": "cr-kata11-514",
+    "index": 514
+  },
+  {
+    "surface": "スヴェティヴォツク",
+    "reading": "suvetivotsuku",
+    "code": "cr-kata11-515",
+    "index": 515
+  },
+  {
+    "surface": "シファーシュタット",
+    "reading": "shifaashutatto",
+    "code": "cr-kata11-516",
+    "index": 516
+  },
+  {
+    "surface": "シフィノウイシチェ",
+    "reading": "shifinouishiche",
+    "code": "cr-kata11-517",
+    "index": 517
+  },
+  {
+    "surface": "モンゼイ",
+    "reading": "montthey",
+    "code": "cr-kata11-518",
+    "index": 518
+  },
+  {
+    "surface": "クラーニ",
+    "reading": "kuraani",
+    "code": "cr-kata11-519",
+    "index": 519
+  },
+  {
+    "surface": "ローズバーグ",
+    "reading": "rosevague",
+    "code": "cr-kata11-520",
+    "index": 520
+  },
+  {
+    "surface": "コンスタンティーヌ",
+    "reading": "konsutantiinu",
+    "code": "cr-kata11-521",
+    "index": 521
+  },
+  {
+    "surface": "ウアンボ",
+    "reading": "uanbo",
+    "code": "cr-kata11-522",
+    "index": 522
+  },
+  {
+    "surface": "サマリンダ",
+    "reading": "samarinda",
+    "code": "cr-kata11-523",
+    "index": 523
+  },
+  {
+    "surface": "グッドレッツヴィル",
+    "reading": "goodrettsuvill",
+    "code": "cr-kata11-524",
+    "index": 524
+  },
+  {
+    "surface": "ボイ",
+    "reading": "boy",
+    "code": "cr-kata11-525",
+    "index": 525
+  },
+  {
+    "surface": "ケルキ",
+    "reading": "keruki",
+    "code": "cr-kata11-526",
+    "index": 526
+  },
+  {
+    "surface": "イースト・ロンドン",
+    "reading": "eastlondon",
+    "code": "cr-kata11-527",
+    "index": 527
+  },
+  {
+    "surface": "ツヴァイブリュッケン",
+    "reading": "tsuvaiburyukken",
+    "code": "cr-kata11-528",
+    "index": 528
+  },
+  {
+    "surface": "ウッドランド",
+    "reading": "woodland",
+    "code": "cr-kata11-529",
+    "index": 529
+  },
+  {
+    "surface": "クバ",
+    "reading": "kuba",
+    "code": "cr-kata11-530",
+    "index": 530
+  },
+  {
+    "surface": "レニノゴルスク",
+    "reading": "reninogorusuku",
+    "code": "cr-kata11-531",
+    "index": 531
+  },
+  {
+    "surface": "エルモン",
+    "reading": "erumon",
+    "code": "cr-kata11-532",
+    "index": 532
+  },
+  {
+    "surface": "メジュドゥレチェンスク",
+    "reading": "mejudurechensuku",
+    "code": "cr-kata11-533",
+    "index": 533
+  },
+  {
+    "surface": "ラボック",
+    "reading": "rabokku",
+    "code": "cr-kata11-534",
+    "index": 534
+  },
+  {
+    "surface": "クリスタル・パレス",
+    "reading": "crystalpalace",
+    "code": "cr-kata11-535",
+    "index": 535
+  },
+  {
+    "surface": "オラル",
+    "reading": "oraru",
+    "code": "cr-kata11-536",
+    "index": 536
+  },
+  {
+    "surface": "ナイロビ",
+    "reading": "nairobi",
+    "code": "cr-kata11-537",
+    "index": 537
+  },
+  {
+    "surface": "シュレフ",
+    "reading": "shureflex",
+    "code": "cr-kata11-538",
+    "index": 538
+  },
+  {
+    "surface": "コア・サイダンシャー",
+    "reading": "coresaidanshaa",
+    "code": "cr-kata11-539",
+    "index": 539
+  },
+  {
+    "surface": "スタンフォード・ヒル",
+    "reading": "stanfordhill",
+    "code": "cr-kata11-540",
+    "index": 540
+  },
+  {
+    "surface": "アクトベ",
+    "reading": "akutobe",
+    "code": "cr-kata11-541",
+    "index": 541
+  },
+  {
+    "surface": "レイキャヴィーク",
+    "reading": "reikyaviiku",
+    "code": "cr-kata11-542",
+    "index": 542
+  },
+  {
+    "surface": "ブロディ",
+    "reading": "burodi",
+    "code": "cr-kata11-543",
+    "index": 543
+  },
+  {
+    "surface": "パチューカ",
+    "reading": "pachuca",
+    "code": "cr-kata11-544",
+    "index": 544
+  },
+  {
+    "surface": "イサクア",
+    "reading": "isakua",
+    "code": "cr-kata11-545",
+    "index": 545
+  },
+  {
+    "surface": "ピオリア",
+    "reading": "pioria",
+    "code": "cr-kata11-546",
+    "index": 546
+  },
+  {
+    "surface": "ウォーターベリー",
+    "reading": "waterberry",
+    "code": "cr-kata11-547",
+    "index": 547
+  },
+  {
+    "surface": "ニューカッスル・アポン・タイン",
+    "reading": "newcastleupontain",
+    "code": "cr-kata11-548",
+    "index": 548
+  },
+  {
+    "surface": "ブオンマトゥオット",
+    "reading": "buonmatuotto",
+    "code": "cr-kata11-549",
+    "index": 549
+  },
+  {
+    "surface": "ヴィセウ",
+    "reading": "viseu",
+    "code": "cr-kata11-550",
+    "index": 550
+  },
+  {
+    "surface": "ワズィーラーバード",
+    "reading": "waziiraabaado",
+    "code": "cr-kata11-551",
+    "index": 551
+  },
+  {
+    "surface": "カルタゴ",
+    "reading": "carthago",
+    "code": "cr-kata11-552",
+    "index": 552
+  },
+  {
+    "surface": "カイラナ",
+    "reading": "kairana",
+    "code": "cr-kata11-553",
+    "index": 553
+  },
+  {
+    "surface": "マッカイ",
+    "reading": "makkai",
+    "code": "cr-kata11-554",
+    "index": 554
+  },
+  {
+    "surface": "ゲルフ",
+    "reading": "guelph",
+    "code": "cr-kata11-555",
+    "index": 555
+  },
+  {
+    "surface": "テロックインタン",
+    "reading": "terokkuintan",
+    "code": "cr-kata11-556",
+    "index": 556
+  },
+  {
+    "surface": "エアフルト",
+    "reading": "erfurt",
+    "code": "cr-kata11-557",
+    "index": 557
+  },
+  {
+    "surface": "ゼーリゲンシュタット",
+    "reading": "zeerigenshutatto",
+    "code": "cr-kata11-558",
+    "index": 558
+  },
+  {
+    "surface": "プライムストック・ダンストーン",
+    "reading": "primestockdancetone",
+    "code": "cr-kata11-559",
+    "index": 559
+  },
+  {
+    "surface": "チャンドォウリ",
+    "reading": "chandouri",
+    "code": "cr-kata11-560",
+    "index": 560
+  },
+  {
+    "surface": "ブキット・メルタジャム",
+    "reading": "bukittomerutajamu",
+    "code": "cr-kata11-561",
+    "index": 561
+  },
+  {
+    "surface": "ルブヌィ",
+    "reading": "rubuni",
+    "code": "cr-kata11-562",
+    "index": 562
+  },
+  {
+    "surface": "ルイス・トリハート",
+    "reading": "lewistriheart",
+    "code": "cr-kata11-563",
+    "index": 563
+  },
+  {
+    "surface": "ナーガパッティナム",
+    "reading": "naagapattinamu",
+    "code": "cr-kata11-564",
+    "index": 564
+  },
+  {
+    "surface": "レーオポルツヘーエ",
+    "reading": "reeoporutsuheee",
+    "code": "cr-kata11-565",
+    "index": 565
+  },
+  {
+    "surface": "サルセル",
+    "reading": "sarucell",
+    "code": "cr-kata11-566",
+    "index": 566
+  },
+  {
+    "surface": "ボールダーシティー",
+    "reading": "balldashtea",
+    "code": "cr-kata11-567",
+    "index": 567
+  },
+  {
+    "surface": "オオイタ",
+    "reading": "ooita",
+    "code": "cr-kata11-568",
+    "index": 568
+  },
+  {
+    "surface": "フライング・フィッシュ・コーブ",
+    "reading": "flyingfishcove",
+    "code": "cr-kata11-569",
+    "index": 569
+  },
+  {
+    "surface": "シアールコート",
+    "reading": "seerlecoat",
+    "code": "cr-kata11-570",
+    "index": 570
+  },
+  {
+    "surface": "クリアフィールド",
+    "reading": "clearfield",
+    "code": "cr-kata11-571",
+    "index": 571
+  },
+  {
+    "surface": "ベンガジ",
+    "reading": "benghazi",
+    "code": "cr-kata11-572",
+    "index": 572
+  },
+  {
+    "surface": "ペタフ・ティクヴァ",
+    "reading": "petafutikuva",
+    "code": "cr-kata11-573",
+    "index": 573
+  },
+  {
+    "surface": "ソマ",
+    "reading": "sommer",
+    "code": "cr-kata11-574",
+    "index": 574
+  },
+  {
+    "surface": "サンランドパーク",
+    "reading": "sunlandpark",
+    "code": "cr-kata11-575",
+    "index": 575
+  },
+  {
+    "surface": "ヴコヴァル",
+    "reading": "vukovaru",
+    "code": "cr-kata11-576",
+    "index": 576
+  },
+  {
+    "surface": "プエルト・アヤクーチョ",
+    "reading": "puerutoayakuucho",
+    "code": "cr-kata11-577",
+    "index": 577
+  },
+  {
+    "surface": "スプリングフィールド",
+    "reading": "springfield",
+    "code": "cr-kata11-578",
+    "index": 578
+  },
+  {
+    "surface": "エシュボルン",
+    "reading": "eshuborun",
+    "code": "cr-kata11-579",
+    "index": 579
+  },
+  {
+    "surface": "ランシング",
+    "reading": "ranshingu",
+    "code": "cr-kata11-580",
+    "index": 580
+  },
+  {
+    "surface": "サンクティ・スピリトゥス",
+    "reading": "sankutisupiritusu",
+    "code": "cr-kata11-581",
+    "index": 581
+  },
+  {
+    "surface": "モンルージュ",
+    "reading": "montrouge",
+    "code": "cr-kata11-582",
+    "index": 582
+  },
+  {
+    "surface": "アビントン",
+    "reading": "abinton",
+    "code": "cr-kata11-583",
+    "index": 583
+  },
+  {
+    "surface": "タラゴナ",
+    "reading": "tarragona",
+    "code": "cr-kata11-584",
+    "index": 584
+  },
+  {
+    "surface": "ナパ",
+    "reading": "napa",
+    "code": "cr-kata11-585",
+    "index": 585
+  },
+  {
+    "surface": "ティンプー",
+    "reading": "thmphu",
+    "code": "cr-kata11-586",
+    "index": 586
+  },
+  {
+    "surface": "ピレウス",
+    "reading": "piraeus",
+    "code": "cr-kata11-587",
+    "index": 587
+  },
+  {
+    "surface": "サウス・レイク・タホ",
+    "reading": "southreikutaho",
+    "code": "cr-kata11-588",
+    "index": 588
+  },
+  {
+    "surface": "ムアンフォンサワン",
+    "reading": "muanfonsawan",
+    "code": "cr-kata11-589",
+    "index": 589
+  },
+  {
+    "surface": "レックリングハウゼン",
+    "reading": "rekkuringuhauzen",
+    "code": "cr-kata11-590",
+    "index": 590
+  },
+  {
+    "surface": "ホグワーツ",
+    "reading": "hoguwaatsu",
+    "code": "cr-kata11-591",
+    "index": 591
+  },
+  {
+    "surface": "ギセニ",
+    "reading": "giseni",
+    "code": "cr-kata11-592",
+    "index": 592
+  },
+  {
+    "surface": "ウスマーナーバード",
+    "reading": "usumaanaabaado",
+    "code": "cr-kata11-593",
+    "index": 593
+  },
+  {
+    "surface": "カウンシルブラフス",
+    "reading": "kaunshiruburafusu",
+    "code": "cr-kata11-594",
+    "index": 594
+  },
+  {
+    "surface": "デヴァ",
+    "reading": "devu",
+    "code": "cr-kata11-595",
+    "index": 595
+  },
+  {
+    "surface": "ヴォスクレセンスク",
+    "reading": "vosukuresensuku",
+    "code": "cr-kata11-596",
+    "index": 596
+  },
+  {
+    "surface": "ナラティワート",
+    "reading": "naratiwaato",
+    "code": "cr-kata11-597",
+    "index": 597
+  },
+  {
+    "surface": "マエバシシ",
+    "reading": "maebashishi",
+    "code": "cr-kata11-598",
+    "index": 598
+  },
+  {
+    "surface": "フェヘル",
+    "reading": "feheru",
+    "code": "cr-kata11-599",
+    "index": 599
+  },
+  {
+    "surface": "バルキシメト",
+    "reading": "barukishimeto",
+    "code": "cr-kata11-600",
+    "index": 600
+  },
+  {
+    "surface": "グエルマ",
+    "reading": "gueruma",
+    "code": "cr-kata11-601",
+    "index": 601
+  },
+  {
+    "surface": "パロラ",
+    "reading": "parora",
+    "code": "cr-kata11-602",
+    "index": 602
+  },
+  {
+    "surface": "イクセル",
+    "reading": "ixelles",
+    "code": "cr-kata11-603",
+    "index": 603
+  },
+  {
+    "surface": "リトムニェジツェ",
+    "reading": "ritomunejitse",
+    "code": "cr-kata11-604",
+    "index": 604
+  },
+  {
+    "surface": "トゥストラ・グティエレス",
+    "reading": "tusutoragutieresu",
+    "code": "cr-kata11-605",
+    "index": 605
+  },
+  {
+    "surface": "ニイガタシ",
+    "reading": "niigatashi",
+    "code": "cr-kata11-606",
+    "index": 606
+  },
+  {
+    "surface": "サカテカス",
+    "reading": "sakatekasu",
+    "code": "cr-kata11-607",
+    "index": 607
+  },
+  {
+    "surface": "ノヴォドヴィンスク",
+    "reading": "novodovinsuku",
+    "code": "cr-kata11-608",
+    "index": 608
+  },
+  {
+    "surface": "ペノノメ",
+    "reading": "penonome",
+    "code": "cr-kata11-609",
+    "index": 609
+  },
+  {
+    "surface": "シナール",
+    "reading": "shinaaru",
+    "code": "cr-kata11-610",
+    "index": 610
+  },
+  {
+    "surface": "ウェストスプリングフィールド",
+    "reading": "westspringfield",
+    "code": "cr-kata11-611",
+    "index": 611
+  },
+  {
+    "surface": "シュトラールズント",
+    "reading": "shutoraaruzunto",
+    "code": "cr-kata11-612",
+    "index": 612
+  },
+  {
+    "surface": "スバ",
+    "reading": "suva",
+    "code": "cr-kata11-613",
+    "index": 613
+  },
+  {
+    "surface": "ハサブ",
+    "reading": "hasub",
+    "code": "cr-kata11-614",
+    "index": 614
+  },
+  {
+    "surface": "テレル",
+    "reading": "tellur",
+    "code": "cr-kata11-615",
+    "index": 615
+  },
+  {
+    "surface": "モコア",
+    "reading": "mokoa",
+    "code": "cr-kata11-616",
+    "index": 616
+  },
+  {
+    "surface": "アリッチャ",
+    "reading": "aritcha",
+    "code": "cr-kata11-617",
+    "index": 617
+  },
+  {
+    "surface": "カリャリ",
+    "reading": "karyari",
+    "code": "cr-kata11-618",
+    "index": 618
+  },
+  {
+    "surface": "カゼンガ",
+    "reading": "kazenga",
+    "code": "cr-kata11-619",
+    "index": 619
+  },
+  {
+    "surface": "ガーナー",
+    "reading": "garner",
+    "code": "cr-kata11-620",
+    "index": 620
+  },
+  {
+    "surface": "コーリー",
+    "reading": "koorii",
+    "code": "cr-kata11-621",
+    "index": 621
+  },
+  {
+    "surface": "ナハ",
+    "reading": "naha",
+    "code": "cr-kata11-622",
+    "index": 622
+  },
+  {
+    "surface": "サン・ペドロ・デ・マコリス",
+    "reading": "sunpedrodesmakorisu",
+    "code": "cr-kata11-623",
+    "index": 623
+  },
+  {
+    "surface": "サウス・ノーウッド",
+    "reading": "southnowood",
+    "code": "cr-kata11-624",
+    "index": 624
+  },
+  {
+    "surface": "メルツィヒ",
+    "reading": "merutsihi",
+    "code": "cr-kata11-625",
+    "index": 625
+  },
+  {
+    "surface": "クタ",
+    "reading": "kuta",
+    "code": "cr-kata11-626",
+    "index": 626
+  },
+  {
+    "surface": "ウファ",
+    "reading": "ufa",
+    "code": "cr-kata11-627",
+    "index": 627
+  },
+  {
+    "surface": "ピイ",
+    "reading": "pea",
+    "code": "cr-kata11-628",
+    "index": 628
+  },
+  {
+    "surface": "ロケタス・デ・マル",
+    "reading": "locationtasudesmal",
+    "code": "cr-kata11-629",
+    "index": 629
+  },
+  {
+    "surface": "トゥルカーム",
+    "reading": "turukaamu",
+    "code": "cr-kata11-630",
+    "index": 630
+  },
+  {
+    "surface": "ラードゥジヌイ",
+    "reading": "raadujinui",
+    "code": "cr-kata11-631",
+    "index": 631
+  },
+  {
+    "surface": "アルクイユ",
+    "reading": "arukuiyu",
+    "code": "cr-kata11-632",
+    "index": 632
+  },
+  {
+    "surface": "ベシャール",
+    "reading": "beshaaru",
+    "code": "cr-kata11-633",
+    "index": 633
+  },
+  {
+    "surface": "トゥルゴヴィシュテ",
+    "reading": "turugovishute",
+    "code": "cr-kata11-634",
+    "index": 634
+  },
+  {
+    "surface": "ホログ",
+    "reading": "holog",
+    "code": "cr-kata11-635",
+    "index": 635
+  },
+  {
+    "surface": "キューゲ",
+    "reading": "cuege",
+    "code": "cr-kata11-636",
+    "index": 636
+  },
+  {
+    "surface": "バンドン",
+    "reading": "bandon",
+    "code": "cr-kata11-637",
+    "index": 637
+  },
+  {
+    "surface": "オーブダ",
+    "reading": "oobuda",
+    "code": "cr-kata11-638",
+    "index": 638
+  },
+  {
+    "surface": "ジェノヴァ",
+    "reading": "genova",
+    "code": "cr-kata11-639",
+    "index": 639
+  },
+  {
+    "surface": "ドドマ",
+    "reading": "dodoma",
+    "code": "cr-kata11-640",
+    "index": 640
+  },
+  {
+    "surface": "ンサワム",
+    "reading": "nsawham",
+    "code": "cr-kata11-641",
+    "index": 641
+  },
+  {
+    "surface": "ウエストハートフォード",
+    "reading": "waisthartford",
+    "code": "cr-kata11-642",
+    "index": 642
+  },
+  {
+    "surface": "テトゥアン",
+    "reading": "tetanne",
+    "code": "cr-kata11-643",
+    "index": 643
+  },
+  {
+    "surface": "ソーラープル",
+    "reading": "solarpull",
+    "code": "cr-kata11-644",
+    "index": 644
+  },
+  {
+    "surface": "パッタヤー",
+    "reading": "pattaja",
+    "code": "cr-kata11-645",
+    "index": 645
+  },
+  {
+    "surface": "キリーン",
+    "reading": "killeen",
+    "code": "cr-kata11-646",
+    "index": 646
+  },
+  {
+    "surface": "プエルト・エスペランサ",
+    "reading": "puerutoesuperansa",
+    "code": "cr-kata11-647",
+    "index": 647
+  },
+  {
+    "surface": "コロ",
+    "reading": "koro",
+    "code": "cr-kata11-648",
+    "index": 648
+  },
+  {
+    "surface": "マウント・アイザ",
+    "reading": "mounteyethe",
+    "code": "cr-kata11-649",
+    "index": 649
+  },
+  {
+    "surface": "アックアヴィーヴァ・デッレ・フォンティ",
+    "reading": "akkuaviivaderrefonti",
+    "code": "cr-kata11-650",
+    "index": 650
+  },
+  {
+    "surface": "サン・ホセ・デ・マヨ",
+    "reading": "sunjosedesmayonnaise",
+    "code": "cr-kata11-651",
+    "index": 651
+  },
+  {
+    "surface": "ホイエルスヴェルダ",
+    "reading": "hoierusuveruda",
+    "code": "cr-kata11-652",
+    "index": 652
+  },
+  {
+    "surface": "マル・デル・プラタ",
+    "reading": "malderuprata",
+    "code": "cr-kata11-653",
+    "index": 653
+  },
+  {
+    "surface": "バート・メルゲントハイム",
+    "reading": "baatomerugentohaimu",
+    "code": "cr-kata11-654",
+    "index": 654
+  },
+  {
+    "surface": "フォンテーヌブロー",
+    "reading": "fontainebleau",
+    "code": "cr-kata11-655",
+    "index": 655
+  },
+  {
+    "surface": "ヘネラル・ビジェガス",
+    "reading": "generalbijegasu",
+    "code": "cr-kata11-656",
+    "index": 656
+  },
+  {
+    "surface": "ダントン",
+    "reading": "danton",
+    "code": "cr-kata11-657",
+    "index": 657
+  },
+  {
+    "surface": "コロネル・オビエド",
+    "reading": "koroflanneloviedo",
+    "code": "cr-kata11-658",
+    "index": 658
+  },
+  {
+    "surface": "プコン",
+    "reading": "pukon",
+    "code": "cr-kata11-659",
+    "index": 659
+  },
+  {
+    "surface": "スウツク",
+    "reading": "suutsuku",
+    "code": "cr-kata11-660",
+    "index": 660
+  },
+  {
+    "surface": "ティラスポリ",
+    "reading": "tirasupori",
+    "code": "cr-kata11-661",
+    "index": 661
+  },
+  {
+    "surface": "プレインフィールド",
+    "reading": "plainfield",
+    "code": "cr-kata11-662",
+    "index": 662
+  },
+  {
+    "surface": "イチーン",
+    "reading": "ichiin",
+    "code": "cr-kata11-663",
+    "index": 663
+  },
+  {
+    "surface": "バワナ",
+    "reading": "bawana",
+    "code": "cr-kata11-664",
+    "index": 664
+  },
+  {
+    "surface": "ロスバノス",
+    "reading": "lossbanosu",
+    "code": "cr-kata11-665",
+    "index": 665
+  },
+  {
+    "surface": "クリオン",
+    "reading": "clitorison",
+    "code": "cr-kata11-666",
+    "index": 666
+  },
+  {
+    "surface": "バート・ピルモント",
+    "reading": "baatopillmonto",
+    "code": "cr-kata11-667",
+    "index": 667
+  },
+  {
+    "surface": "チトラル",
+    "reading": "chitorale",
+    "code": "cr-kata11-668",
+    "index": 668
+  },
+  {
+    "surface": "ポートヘッドランド",
+    "reading": "portheadland",
+    "code": "cr-kata11-669",
+    "index": 669
+  },
+  {
+    "surface": "エステリ",
+    "reading": "aestheticris",
+    "code": "cr-kata11-670",
+    "index": 670
+  },
+  {
+    "surface": "シャイアン",
+    "reading": "shyanne",
+    "code": "cr-kata11-671",
+    "index": 671
+  },
+  {
+    "surface": "リャジスク",
+    "reading": "ryajisuku",
+    "code": "cr-kata11-672",
+    "index": 672
+  },
+  {
+    "surface": "バリー",
+    "reading": "barii",
+    "code": "cr-kata11-673",
+    "index": 673
+  },
+  {
+    "surface": "ドンブロヴァ・グルニチャ",
+    "reading": "donburovagurunicha",
+    "code": "cr-kata11-674",
+    "index": 674
+  },
+  {
+    "surface": "パークランド",
+    "reading": "parkland",
+    "code": "cr-kata11-675",
+    "index": 675
+  },
+  {
+    "surface": "ルアンシャ",
+    "reading": "ruansha",
+    "code": "cr-kata11-676",
+    "index": 676
+  },
+  {
+    "surface": "クエロン",
+    "reading": "kueron",
+    "code": "cr-kata11-677",
+    "index": 677
+  },
+  {
+    "surface": "ピナル・デル・リオ",
+    "reading": "pinalederurio",
+    "code": "cr-kata11-678",
+    "index": 678
+  },
+  {
+    "surface": "ヴァンヴ",
+    "reading": "vinvu",
+    "code": "cr-kata11-679",
+    "index": 679
+  },
+  {
+    "surface": "カアサパ",
+    "reading": "kaasapa",
+    "code": "cr-kata11-680",
+    "index": 680
+  },
+  {
+    "surface": "サン・ジョヴァンニ・ヴァルダルノ",
+    "reading": "sunjovannivarudaruno",
+    "code": "cr-kata11-681",
+    "index": 681
+  },
+  {
+    "surface": "ナザレ",
+    "reading": "nazareth",
+    "code": "cr-kata11-682",
+    "index": 682
+  },
+  {
+    "surface": "ペリーズバーグ",
+    "reading": "periizubaagu",
+    "code": "cr-kata11-683",
+    "index": 683
+  },
+  {
+    "surface": "ダーバン",
+    "reading": "durban",
+    "code": "cr-kata11-684",
+    "index": 684
+  },
+  {
+    "surface": "バネパ",
+    "reading": "banepa",
+    "code": "cr-kata11-685",
+    "index": 685
+  },
+  {
+    "surface": "ウォールナット・クリーク",
+    "reading": "walnutkuriiku",
+    "code": "cr-kata11-686",
+    "index": 686
+  },
+  {
+    "surface": "コツィウビンスケ",
+    "reading": "kotsiubinsuke",
+    "code": "cr-kata11-687",
+    "index": 687
+  },
+  {
+    "surface": "ロス・テケス",
+    "reading": "rosstekesu",
+    "code": "cr-kata11-688",
+    "index": 688
+  },
+  {
+    "surface": "コドレア",
+    "reading": "kodorea",
+    "code": "cr-kata11-689",
+    "index": 689
+  },
+  {
+    "surface": "ベルベラティ",
+    "reading": "berberati",
+    "code": "cr-kata11-690",
+    "index": 690
+  },
+  {
+    "surface": "レニ",
+    "reading": "leni",
+    "code": "cr-kata11-691",
+    "index": 691
+  },
+  {
+    "surface": "サンラモン",
+    "reading": "sunramon",
+    "code": "cr-kata11-692",
+    "index": 692
+  },
+  {
+    "surface": "カルタラ",
+    "reading": "karutara",
+    "code": "cr-kata11-693",
+    "index": 693
+  },
+  {
+    "surface": "カオール",
+    "reading": "cahors",
+    "code": "cr-kata11-694",
+    "index": 694
+  },
+  {
+    "surface": "コウチ",
+    "reading": "kouchi",
+    "code": "cr-kata11-695",
+    "index": 695
+  },
+  {
+    "surface": "サポパン",
+    "reading": "supportpao",
+    "code": "cr-kata11-696",
+    "index": 696
+  },
+  {
+    "surface": "タタ",
+    "reading": "tata",
+    "code": "cr-kata11-697",
+    "index": 697
+  },
+  {
+    "surface": "コンセプシオン・デ・ラ・ベガ",
+    "reading": "konsepushiondesravega",
+    "code": "cr-kata11-698",
+    "index": 698
+  },
+  {
+    "surface": "ランカスター",
+    "reading": "lancaster",
+    "code": "cr-kata11-699",
+    "index": 699
+  },
+  {
+    "surface": "ラナウ",
+    "reading": "ranow",
+    "code": "cr-kata11-700",
+    "index": 700
+  },
+  {
+    "surface": "マルブラ",
+    "reading": "malbra",
+    "code": "cr-kata11-701",
+    "index": 701
+  },
+  {
+    "surface": "ビリャ・コンスティトゥシオン",
+    "reading": "biryakonsutitushion",
+    "code": "cr-kata11-702",
+    "index": 702
+  },
+  {
+    "surface": "ヴィボ・ヴァレンツィア",
+    "reading": "vibovarentsia",
+    "code": "cr-kata11-703",
+    "index": 703
+  },
+  {
+    "surface": "セナボー",
+    "reading": "senaboo",
+    "code": "cr-kata11-704",
+    "index": 704
+  },
+  {
+    "surface": "ミネラーリヌィエ・ヴォードィ",
+    "reading": "mineraarinievoodi",
+    "code": "cr-kata11-705",
+    "index": 705
+  },
+  {
+    "surface": "ザグレブ",
+    "reading": "zagreb",
+    "code": "cr-kata11-706",
+    "index": 706
+  },
+  {
+    "surface": "アシャッフェンブルク",
+    "reading": "ashaffenburuku",
+    "code": "cr-kata11-707",
+    "index": 707
+  },
+  {
+    "surface": "カルバーシティ",
+    "reading": "karubaacity",
+    "code": "cr-kata11-708",
+    "index": 708
+  },
+  {
+    "surface": "ナクラ",
+    "reading": "nakura",
+    "code": "cr-kata11-709",
+    "index": 709
+  },
+  {
+    "surface": "コックバーンタウン",
+    "reading": "cookbahntown",
+    "code": "cr-kata11-710",
+    "index": 710
+  },
+  {
+    "surface": "サンタ・クルス・デ・テネリフェ",
+    "reading": "saintkurusudetenerife",
+    "code": "cr-kata11-711",
+    "index": 711
+  },
+  {
+    "surface": "ルーイ",
+    "reading": "ruui",
+    "code": "cr-kata11-712",
+    "index": 712
+  },
+  {
+    "surface": "フェルクリンゲン",
+    "reading": "ferukuringen",
+    "code": "cr-kata11-713",
+    "index": 713
+  },
+  {
+    "surface": "シンギダ",
+    "reading": "shingida",
+    "code": "cr-kata11-714",
+    "index": 714
+  },
+  {
+    "surface": "ファーロッカウェイ",
+    "reading": "furrockaway",
+    "code": "cr-kata11-715",
+    "index": 715
+  },
+  {
+    "surface": "ブロードウェー",
+    "reading": "broadway",
+    "code": "cr-kata11-716",
+    "index": 716
+  },
+  {
+    "surface": "ハリドワール",
+    "reading": "haridowal",
+    "code": "cr-kata11-717",
+    "index": 717
+  },
+  {
+    "surface": "ゼミオ",
+    "reading": "seminaro",
+    "code": "cr-kata11-718",
+    "index": 718
+  },
+  {
+    "surface": "ドバ",
+    "reading": "doba",
+    "code": "cr-kata11-719",
+    "index": 719
+  },
+  {
+    "surface": "マツエ",
+    "reading": "matsue",
+    "code": "cr-kata11-720",
+    "index": 720
+  },
+  {
+    "surface": "リオ・クアルト",
+    "reading": "riokualto",
+    "code": "cr-kata11-721",
+    "index": 721
+  },
+  {
+    "surface": "パランガ",
+    "reading": "parentga",
+    "code": "cr-kata11-722",
+    "index": 722
+  },
+  {
+    "surface": "インゴルシュタット",
+    "reading": "ingorushutatto",
+    "code": "cr-kata11-723",
+    "index": 723
+  },
+  {
+    "surface": "ジュイス・デ・フォーラ",
+    "reading": "juisudefoora",
+    "code": "cr-kata11-724",
+    "index": 724
+  },
+  {
+    "surface": "サン・アンドゥレス・チョルラ",
+    "reading": "sunanduresuchorura",
+    "code": "cr-kata11-725",
+    "index": 725
+  },
+  {
+    "surface": "サン・ジョルジョ・ア・クレマーノ",
+    "reading": "sunjorujoakuremaano",
+    "code": "cr-kata11-726",
+    "index": 726
+  },
+  {
+    "surface": "トヴズ",
+    "reading": "tovuzu",
+    "code": "cr-kata11-727",
+    "index": 727
+  },
+  {
+    "surface": "ロバツェ",
+    "reading": "robatse",
+    "code": "cr-kata11-728",
+    "index": 728
+  },
+  {
+    "surface": "ヘリマン",
+    "reading": "helicopterman",
+    "code": "cr-kata11-729",
+    "index": 729
+  },
+  {
+    "surface": "アベリストウィス",
+    "reading": "aberisutoisu",
+    "code": "cr-kata11-730",
+    "index": 730
+  },
+  {
+    "surface": "ガルバニャーテ・ミラネーゼ",
+    "reading": "garubanyaatemiraneeze",
+    "code": "cr-kata11-731",
+    "index": 731
+  },
+  {
+    "surface": "テナ",
+    "reading": "tena",
+    "code": "cr-kata11-732",
+    "index": 732
+  },
+  {
+    "surface": "ドレスデン",
+    "reading": "dresden",
+    "code": "cr-kata11-733",
+    "index": 733
+  },
+  {
+    "surface": "ハフナルフィヨルズゥル",
+    "reading": "hafunarufiyoruzuru",
+    "code": "cr-kata11-734",
+    "index": 734
+  },
+  {
+    "surface": "レンティーニ",
+    "reading": "rentiini",
+    "code": "cr-kata11-735",
+    "index": 735
+  },
+  {
+    "surface": "ルブリニェツ",
+    "reading": "ruburinetsu",
+    "code": "cr-kata11-736",
+    "index": 736
+  },
+  {
+    "surface": "タウア",
+    "reading": "taua",
+    "code": "cr-kata11-737",
+    "index": 737
+  },
+  {
+    "surface": "グアナフアト",
+    "reading": "guanafuato",
+    "code": "cr-kata11-738",
+    "index": 738
+  },
+  {
+    "surface": "グランドビュー",
+    "reading": "grandview",
+    "code": "cr-kata11-739",
+    "index": 739
+  },
+  {
+    "surface": "マダン",
+    "reading": "madan",
+    "code": "cr-kata11-740",
+    "index": 740
+  },
+  {
+    "surface": "ミトゥ",
+    "reading": "mitu",
+    "code": "cr-kata11-741",
+    "index": 741
+  },
+  {
+    "surface": "ピサ",
+    "reading": "pisa",
+    "code": "cr-kata11-742",
+    "index": 742
+  },
+  {
+    "surface": "パトナ",
+    "reading": "patna",
+    "code": "cr-kata11-743",
+    "index": 743
+  },
+  {
+    "surface": "ザブジェ",
+    "reading": "zabuje",
+    "code": "cr-kata11-744",
+    "index": 744
+  },
+  {
+    "surface": "ノース・マイアミ",
+    "reading": "noosumiami",
+    "code": "cr-kata11-745",
+    "index": 745
+  },
+  {
+    "surface": "ナイアガラオンザレイク",
+    "reading": "naiagaraonzareiku",
+    "code": "cr-kata11-746",
+    "index": 746
+  },
+  {
+    "surface": "アリバグ",
+    "reading": "aribug",
+    "code": "cr-kata11-747",
+    "index": 747
+  },
+  {
+    "surface": "ペトロザヴォーツク",
+    "reading": "petorozavootsuku",
+    "code": "cr-kata11-748",
+    "index": 748
+  },
+  {
+    "surface": "ファラー",
+    "reading": "farrah",
+    "code": "cr-kata11-749",
+    "index": 749
+  },
+  {
+    "surface": "タイラー",
+    "reading": "tylor",
+    "code": "cr-kata11-750",
+    "index": 750
+  },
+  {
+    "surface": "ヴェンデルシュタイン",
+    "reading": "venderushutain",
+    "code": "cr-kata11-751",
+    "index": 751
+  },
+  {
+    "surface": "サン・ペドゥロ・チョルラ",
+    "reading": "sunpedurochorura",
+    "code": "cr-kata11-752",
+    "index": 752
+  },
+  {
+    "surface": "ロタ",
+    "reading": "rota",
+    "code": "cr-kata11-753",
+    "index": 753
+  },
+  {
+    "surface": "ノヴァーテ・ミラネーゼ",
+    "reading": "novatemilanese",
+    "code": "cr-kata11-754",
+    "index": 754
+  },
+  {
+    "surface": "ヴラツァ",
+    "reading": "vuratsa",
+    "code": "cr-kata11-755",
+    "index": 755
+  },
+  {
+    "surface": "コロンブ",
+    "reading": "colognebu",
+    "code": "cr-kata11-756",
+    "index": 756
+  },
+  {
+    "surface": "キーウ",
+    "reading": "keyu",
+    "code": "cr-kata11-757",
+    "index": 757
+  },
+  {
+    "surface": "リンダウ",
+    "reading": "rindow",
+    "code": "cr-kata11-758",
+    "index": 758
+  },
+  {
+    "surface": "ヒロ",
+    "reading": "hiro",
+    "code": "cr-kata11-759",
+    "index": 759
+  },
+  {
+    "surface": "モンテー",
+    "reading": "monttea",
+    "code": "cr-kata11-760",
+    "index": 760
+  },
+  {
+    "surface": "シェキ",
+    "reading": "chezki",
+    "code": "cr-kata11-761",
+    "index": 761
+  },
+  {
+    "surface": "アリマ",
+    "reading": "arima",
+    "code": "cr-kata11-762",
+    "index": 762
+  },
+  {
+    "surface": "サンイシドロ",
+    "reading": "sunisidro",
+    "code": "cr-kata11-763",
+    "index": 763
+  },
+  {
+    "surface": "アメリカン・フォーク",
+    "reading": "americanfork",
+    "code": "cr-kata11-764",
+    "index": 764
+  },
+  {
+    "surface": "モハレスフック",
+    "reading": "moharesufukku",
+    "code": "cr-kata11-765",
+    "index": 765
+  },
+  {
+    "surface": "サント・アドリアー・ダ・バゾス",
+    "reading": "sainteadoriaadabazosu",
+    "code": "cr-kata11-766",
+    "index": 766
+  },
+  {
+    "surface": "カーンプル",
+    "reading": "khanpull",
+    "code": "cr-kata11-767",
+    "index": 767
+  },
+  {
+    "surface": "パンド",
+    "reading": "pando",
+    "code": "cr-kata11-768",
+    "index": 768
+  },
+  {
+    "surface": "スラカルタ",
+    "reading": "suracarta",
+    "code": "cr-kata11-769",
+    "index": 769
+  },
+  {
+    "surface": "サムットソンクラム",
+    "reading": "samuttosonkuramu",
+    "code": "cr-kata11-770",
+    "index": 770
+  },
+  {
+    "surface": "キャンベル",
+    "reading": "campbell",
+    "code": "cr-kata11-771",
+    "index": 771
+  },
+  {
+    "surface": "ベーカーズフィールド",
+    "reading": "bakerfield",
+    "code": "cr-kata11-772",
+    "index": 772
+  },
+  {
+    "surface": "クンピア・トゥルジー",
+    "reading": "kunpiaturujii",
+    "code": "cr-kata11-773",
+    "index": 773
+  },
+  {
+    "surface": "ヴェリカ・クラドゥシャ",
+    "reading": "verikakuradusha",
+    "code": "cr-kata11-774",
+    "index": 774
+  },
+  {
+    "surface": "サンルイスオビスポ",
+    "reading": "sanruisuovispo",
+    "code": "cr-kata11-775",
+    "index": 775
+  },
+  {
+    "surface": "アクス",
+    "reading": "aqsu",
+    "code": "cr-kata11-776",
+    "index": 776
+  },
+  {
+    "surface": "ビーラ・ツェールクヴァ",
+    "reading": "biiratseerukuva",
+    "code": "cr-kata11-777",
+    "index": 777
+  },
+  {
+    "surface": "ブルサ",
+    "reading": "bullsa",
+    "code": "cr-kata11-778",
+    "index": 778
+  },
+  {
+    "surface": "バルディビア",
+    "reading": "valdivia",
+    "code": "cr-kata11-779",
+    "index": 779
+  },
+  {
+    "surface": "パームスプリングス",
+    "reading": "palmsprings",
+    "code": "cr-kata11-780",
+    "index": 780
+  },
+  {
+    "surface": "カルトゥジ",
+    "reading": "karutuji",
+    "code": "cr-kata11-781",
+    "index": 781
+  },
+  {
+    "surface": "ヤウコ",
+    "reading": "yauko",
+    "code": "cr-kata11-782",
+    "index": 782
+  },
+  {
+    "surface": "サンタンデール",
+    "reading": "santander",
+    "code": "cr-kata11-783",
+    "index": 783
+  },
+  {
+    "surface": "ヘメル・ヘムステッド",
+    "reading": "hemeruhemusuteddo",
+    "code": "cr-kata11-784",
+    "index": 784
+  },
+  {
+    "surface": "コルマーノ",
+    "reading": "korumaano",
+    "code": "cr-kata11-785",
+    "index": 785
+  },
+  {
+    "surface": "ブルーアイランド",
+    "reading": "blueisland",
+    "code": "cr-kata11-786",
+    "index": 786
+  },
+  {
+    "surface": "シャーウッドパーク",
+    "reading": "sherwoodpark",
+    "code": "cr-kata11-787",
+    "index": 787
+  },
+  {
+    "surface": "パーク・リッジ",
+    "reading": "parkrijji",
+    "code": "cr-kata11-788",
+    "index": 788
+  },
+  {
+    "surface": "カザルヌオーヴォ・ディ・ナポーリ",
+    "reading": "kazarunuoovodinapoori",
+    "code": "cr-kata11-789",
+    "index": 789
+  },
+  {
+    "surface": "チットールガル",
+    "reading": "chittorugaru",
+    "code": "cr-kata11-790",
+    "index": 790
+  },
+  {
+    "surface": "ワピ",
+    "reading": "wapi",
+    "code": "cr-kata11-791",
+    "index": 791
+  },
+  {
+    "surface": "オオダテ",
+    "reading": "oodate",
+    "code": "cr-kata11-792",
+    "index": 792
+  },
+  {
+    "surface": "イバ",
+    "reading": "iba",
+    "code": "cr-kata11-793",
+    "index": 793
+  },
+  {
+    "surface": "ニリ",
+    "reading": "niri",
+    "code": "cr-kata11-794",
+    "index": 794
+  },
+  {
+    "surface": "ウェストファーゴ",
+    "reading": "westfargo",
+    "code": "cr-kata11-795",
+    "index": 795
+  },
+  {
+    "surface": "センドゥワ",
+    "reading": "senduwa",
+    "code": "cr-kata11-796",
+    "index": 796
+  },
+  {
+    "surface": "ブラオ",
+    "reading": "burao",
+    "code": "cr-kata11-797",
+    "index": 797
+  },
+  {
+    "surface": "オウレンセ",
+    "reading": "ourense",
+    "code": "cr-kata11-798",
+    "index": 798
+  },
+  {
+    "surface": "セヴェロドネツィク",
+    "reading": "severodonetsiku",
+    "code": "cr-kata11-799",
+    "index": 799
+  },
+  {
+    "surface": "オレンブルク",
+    "reading": "orenburuku",
+    "code": "cr-kata11-800",
+    "index": 800
+  },
+  {
+    "surface": "ラスクルーセス",
+    "reading": "lascruces",
+    "code": "cr-kata11-801",
+    "index": 801
+  },
+  {
+    "surface": "ケーガッラ",
+    "reading": "keegarra",
+    "code": "cr-kata11-802",
+    "index": 802
+  },
+  {
+    "surface": "スサ",
+    "reading": "susa",
+    "code": "cr-kata11-803",
+    "index": 803
+  },
+  {
+    "surface": "ルチュル",
+    "reading": "ruchuru",
+    "code": "cr-kata11-804",
+    "index": 804
+  },
+  {
+    "surface": "モシ",
+    "reading": "moshi",
+    "code": "cr-kata11-805",
+    "index": 805
+  },
+  {
+    "surface": "ボグラ",
+    "reading": "bogura",
+    "code": "cr-kata11-806",
+    "index": 806
+  },
+  {
+    "surface": "ウェスト・ブロムウィッチ",
+    "reading": "westbromwitch",
+    "code": "cr-kata11-807",
+    "index": 807
+  },
+  {
+    "surface": "ウィリマンティック",
+    "reading": "irimantikku",
+    "code": "cr-kata11-808",
+    "index": 808
+  },
+  {
+    "surface": "フォレストグローヴ",
+    "reading": "forrestguroovu",
+    "code": "cr-kata11-809",
+    "index": 809
+  },
+  {
+    "surface": "トレス・イスレタス",
+    "reading": "toresuisulettuce",
+    "code": "cr-kata11-810",
+    "index": 810
+  },
+  {
+    "surface": "トマシュフ・ルベルスキ",
+    "reading": "tomashufuruberusuki",
+    "code": "cr-kata11-811",
+    "index": 811
+  },
+  {
+    "surface": "ホルシヌイ・プラヴヌイ",
+    "reading": "horushinuipuravunui",
+    "code": "cr-kata11-812",
+    "index": 812
+  },
+  {
+    "surface": "サントル・ド・フラック",
+    "reading": "santoldofurakku",
+    "code": "cr-kata11-813",
+    "index": 813
+  },
+  {
+    "surface": "スリガオ",
+    "reading": "surigao",
+    "code": "cr-kata11-814",
+    "index": 814
+  },
+  {
+    "surface": "アンツィオ",
+    "reading": "anzio",
+    "code": "cr-kata11-815",
+    "index": 815
+  },
+  {
+    "surface": "ガブロヴォ",
+    "reading": "gaburovo",
+    "code": "cr-kata11-816",
+    "index": 816
+  },
+  {
+    "surface": "ナミオカ",
+    "reading": "namioka",
+    "code": "cr-kata11-817",
+    "index": 817
+  },
+  {
+    "surface": "ゴールド・コースト",
+    "reading": "goldcoast",
+    "code": "cr-kata11-818",
+    "index": 818
+  },
+  {
+    "surface": "ソンドリオ",
+    "reading": "sondorio",
+    "code": "cr-kata11-819",
+    "index": 819
+  },
+  {
+    "surface": "ラーワルピンディー",
+    "reading": "raawarupindii",
+    "code": "cr-kata11-820",
+    "index": 820
+  },
+  {
+    "surface": "アルジャントゥイユ",
+    "reading": "arujantuiyu",
+    "code": "cr-kata11-821",
+    "index": 821
+  },
+  {
+    "surface": "アイントホーフェン",
+    "reading": "aintohoofen",
+    "code": "cr-kata11-822",
+    "index": 822
+  },
+  {
+    "surface": "フォンテヌブロー",
+    "reading": "fontenuburoo",
+    "code": "cr-kata11-823",
+    "index": 823
+  },
+  {
+    "surface": "テルメズ",
+    "reading": "telmezu",
+    "code": "cr-kata11-824",
+    "index": 824
+  },
+  {
+    "surface": "マナサスパーク",
+    "reading": "manasuspensionpark",
+    "code": "cr-kata11-825",
+    "index": 825
+  },
+  {
+    "surface": "モスコー",
+    "reading": "moskva",
+    "code": "cr-kata11-826",
+    "index": 826
+  },
+  {
+    "surface": "カルール",
+    "reading": "karule",
+    "code": "cr-kata11-827",
+    "index": 827
+  },
+  {
+    "surface": "プフングシュタット",
+    "reading": "pufungushutatto",
+    "code": "cr-kata11-828",
+    "index": 828
+  },
+  {
+    "surface": "オルスク",
+    "reading": "oruschooling",
+    "code": "cr-kata11-829",
+    "index": 829
+  },
+  {
+    "surface": "ウェストミンスター",
+    "reading": "westminster",
+    "code": "cr-kata11-830",
+    "index": 830
+  },
+  {
+    "surface": "タルタガル",
+    "reading": "tarutagaru",
+    "code": "cr-kata11-831",
+    "index": 831
+  },
+  {
+    "surface": "メンディ",
+    "reading": "mendi",
+    "code": "cr-kata11-832",
+    "index": 832
+  },
+  {
+    "surface": "ワスコ",
+    "reading": "wasuko",
+    "code": "cr-kata11-833",
+    "index": 833
+  },
+  {
+    "surface": "ドゥベサリ",
+    "reading": "dubesari",
+    "code": "cr-kata11-834",
+    "index": 834
+  },
+  {
+    "surface": "マウントハーゲン",
+    "reading": "mauntohaagen",
+    "code": "cr-kata11-835",
+    "index": 835
+  },
+  {
+    "surface": "サウス・パサディナ",
+    "reading": "southpasadena",
+    "code": "cr-kata11-836",
+    "index": 836
+  },
+  {
+    "surface": "ヴィスビュー",
+    "reading": "visuview",
+    "code": "cr-kata11-837",
+    "index": 837
+  },
+  {
+    "surface": "ロムヌィ",
+    "reading": "romuni",
+    "code": "cr-kata11-838",
+    "index": 838
+  },
+  {
+    "surface": "サンバヴァ",
+    "reading": "sambava",
+    "code": "cr-kata11-839",
+    "index": 839
+  },
+  {
+    "surface": "フォートスミス",
+    "reading": "fourtossmistake",
+    "code": "cr-kata11-840",
+    "index": 840
+  },
+  {
+    "surface": "カダルール",
+    "reading": "kadaruuru",
+    "code": "cr-kata11-841",
+    "index": 841
+  },
+  {
+    "surface": "ムッジョ",
+    "reading": "mujjo",
+    "code": "cr-kata11-842",
+    "index": 842
+  },
+  {
+    "surface": "オオヤノマチノボリタテ",
+    "reading": "ooyanomachinoboritate",
+    "code": "cr-kata11-843",
+    "index": 843
+  },
+  {
+    "surface": "スウィンドン",
+    "reading": "suindon",
+    "code": "cr-kata11-844",
+    "index": 844
+  },
+  {
+    "surface": "タルカワノ",
+    "reading": "tarukawano",
+    "code": "cr-kata11-845",
+    "index": 845
+  },
+  {
+    "surface": "ロマンヴィル",
+    "reading": "romanvill",
+    "code": "cr-kata11-846",
+    "index": 846
+  },
+  {
+    "surface": "ウィレムスタット",
+    "reading": "iremusutatto",
+    "code": "cr-kata11-847",
+    "index": 847
+  },
+  {
+    "surface": "クヴェードリンブルク",
+    "reading": "kuveedorinburuku",
+    "code": "cr-kata11-848",
+    "index": 848
+  },
+  {
+    "surface": "ウェストパームビーチ",
+    "reading": "westpalmbeach",
+    "code": "cr-kata11-849",
+    "index": 849
+  },
+  {
+    "surface": "カルタジローネ",
+    "reading": "karutajiroone",
+    "code": "cr-kata11-850",
+    "index": 850
+  },
+  {
+    "surface": "チコ",
+    "reading": "chiko",
+    "code": "cr-kata11-851",
+    "index": 851
+  },
+  {
+    "surface": "バンベルク",
+    "reading": "bamberg",
+    "code": "cr-kata11-852",
+    "index": 852
+  },
+  {
+    "surface": "ミャンミャ",
+    "reading": "myanmya",
+    "code": "cr-kata11-853",
+    "index": 853
+  },
+  {
+    "surface": "ダルハン",
+    "reading": "darkhan",
+    "code": "cr-kata11-854",
+    "index": 854
+  },
+  {
+    "surface": "サンタローサ",
+    "reading": "saintroosa",
+    "code": "cr-kata11-855",
+    "index": 855
+  },
+  {
+    "surface": "ウェンチ",
+    "reading": "enchi",
+    "code": "cr-kata11-856",
+    "index": 856
+  },
+  {
+    "surface": "ゲレ",
+    "reading": "gere",
+    "code": "cr-kata11-857",
+    "index": 857
+  },
+  {
+    "surface": "サレハルド",
+    "reading": "sareharudo",
+    "code": "cr-kata11-858",
+    "index": 858
+  },
+  {
+    "surface": "ウォータールー",
+    "reading": "waterloo",
+    "code": "cr-kata11-859",
+    "index": 859
+  },
+  {
+    "surface": "トラナロ",
+    "reading": "toranaro",
+    "code": "cr-kata11-860",
+    "index": 860
+  },
+  {
+    "surface": "ヴァイターシュタット",
+    "reading": "vaitaashutatto",
+    "code": "cr-kata11-861",
+    "index": 861
+  },
+  {
+    "surface": "エランクール",
+    "reading": "erancoeur",
+    "code": "cr-kata11-862",
+    "index": 862
+  },
+  {
+    "surface": "プレンツラウアー・ベルク",
+    "reading": "purentsurauaaberuku",
+    "code": "cr-kata11-863",
+    "index": 863
+  },
+  {
+    "surface": "カノ",
+    "reading": "kano",
+    "code": "cr-kata11-864",
+    "index": 864
+  },
+  {
+    "surface": "ニュー・ブライトン",
+    "reading": "newburaiton",
+    "code": "cr-kata11-865",
+    "index": 865
+  },
+  {
+    "surface": "プロスチェヨフ",
+    "reading": "purosucheyofu",
+    "code": "cr-kata11-866",
+    "index": 866
+  },
+  {
+    "surface": "アントウェルペン",
+    "reading": "antwerpen",
+    "code": "cr-kata11-867",
+    "index": 867
+  },
+  {
+    "surface": "ペーザロ",
+    "reading": "peezaro",
+    "code": "cr-kata11-868",
+    "index": 868
+  },
+  {
+    "surface": "ウェスト・ハリウッド",
+    "reading": "westhollywood",
+    "code": "cr-kata11-869",
+    "index": 869
+  },
+  {
+    "surface": "サン・マロ",
+    "reading": "sunmalot",
+    "code": "cr-kata11-870",
+    "index": 870
+  },
+  {
+    "surface": "イーモラ",
+    "reading": "iimola",
+    "code": "cr-kata11-871",
+    "index": 871
+  },
+  {
+    "surface": "ルゼ",
+    "reading": "leze",
+    "code": "cr-kata11-872",
+    "index": 872
+  },
+  {
+    "surface": "ニューホープ",
+    "reading": "newhope",
+    "code": "cr-kata11-873",
+    "index": 873
+  },
+  {
+    "surface": "モンレアーレ",
+    "reading": "monreaare",
+    "code": "cr-kata11-874",
+    "index": 874
+  },
+  {
+    "surface": "デル・リオ",
+    "reading": "derurio",
+    "code": "cr-kata11-875",
+    "index": 875
+  },
+  {
+    "surface": "ヴォルゴグラード",
+    "reading": "volgograd",
+    "code": "cr-kata11-876",
+    "index": 876
+  },
+  {
+    "surface": "モリナ・デ・セグラ",
+    "reading": "morinadesegura",
+    "code": "cr-kata11-877",
+    "index": 877
+  },
+  {
+    "surface": "ラサ",
+    "reading": "lhasa",
+    "code": "cr-kata11-878",
+    "index": 878
+  },
+  {
+    "surface": "レシュノ",
+    "reading": "reshuno",
+    "code": "cr-kata11-879",
+    "index": 879
+  },
+  {
+    "surface": "イリバ",
+    "reading": "iriba",
+    "code": "cr-kata11-880",
+    "index": 880
+  },
+  {
+    "surface": "イリェウス",
+    "reading": "ireusu",
+    "code": "cr-kata11-881",
+    "index": 881
+  },
+  {
+    "surface": "セヴェロドヴィンスク",
+    "reading": "severodovinsuku",
+    "code": "cr-kata11-882",
+    "index": 882
+  },
+  {
+    "surface": "マーリブ",
+    "reading": "maalive",
+    "code": "cr-kata11-883",
+    "index": 883
+  },
+  {
+    "surface": "ムーアパーク",
+    "reading": "moorepark",
+    "code": "cr-kata11-884",
+    "index": 884
+  },
+  {
+    "surface": "ミェンヅィジェツ・ポドラスキ",
+    "reading": "menzijetsupodorasuki",
+    "code": "cr-kata11-885",
+    "index": 885
+  },
+  {
+    "surface": "レイクスティーブンス",
+    "reading": "lakesutiibunsu",
+    "code": "cr-kata11-886",
+    "index": 886
+  },
+  {
+    "surface": "ダマール",
+    "reading": "dammar",
+    "code": "cr-kata11-887",
+    "index": 887
+  },
+  {
+    "surface": "ウェスト・ブルームフィールド",
+    "reading": "westburuumufiirudo",
+    "code": "cr-kata11-888",
+    "index": 888
+  },
+  {
+    "surface": "ハイ・ウィカム",
+    "reading": "haiwecome",
+    "code": "cr-kata11-889",
+    "index": 889
+  },
+  {
+    "surface": "ティルブルフ",
+    "reading": "tilburg",
+    "code": "cr-kata11-890",
+    "index": 890
+  },
+  {
+    "surface": "ダマトゥル",
+    "reading": "damaturu",
+    "code": "cr-kata11-891",
+    "index": 891
+  },
+  {
+    "surface": "カイザースラウテルン",
+    "reading": "kaizaasurauterun",
+    "code": "cr-kata11-892",
+    "index": 892
+  },
+  {
+    "surface": "パラクー",
+    "reading": "paraku",
+    "code": "cr-kata11-893",
+    "index": 893
+  },
+  {
+    "surface": "スームィ",
+    "reading": "suumi",
+    "code": "cr-kata11-894",
+    "index": 894
+  },
+  {
+    "surface": "ブダ",
+    "reading": "buda",
+    "code": "cr-kata11-895",
+    "index": 895
+  },
+  {
+    "surface": "ペルガモン",
+    "reading": "perugamon",
+    "code": "cr-kata11-896",
+    "index": 896
+  },
+  {
+    "surface": "スタントン",
+    "reading": "stanton",
+    "code": "cr-kata11-897",
+    "index": 897
+  },
+  {
+    "surface": "ボッビリ",
+    "reading": "bobbiri",
+    "code": "cr-kata11-898",
+    "index": 898
+  },
+  {
+    "surface": "トメ",
+    "reading": "tome",
+    "code": "cr-kata11-899",
+    "index": 899
+  },
+  {
+    "surface": "ザウジ",
+    "reading": "theuji",
+    "code": "cr-kata11-900",
+    "index": 900
+  },
+  {
+    "surface": "ツシ",
+    "reading": "tsushi",
+    "code": "cr-kata11-901",
+    "index": 901
+  },
+  {
+    "surface": "サンアントニオオエステ",
+    "reading": "sanantoniooestation",
+    "code": "cr-kata11-902",
+    "index": 902
+  },
+  {
+    "surface": "モラガ",
+    "reading": "molaga",
+    "code": "cr-kata11-903",
+    "index": 903
+  },
+  {
+    "surface": "マザーリシャリーフ",
+    "reading": "mazaarishariifu",
+    "code": "cr-kata11-904",
+    "index": 904
+  },
+  {
+    "surface": "スキェルニェヴィツェ",
+    "reading": "sukerunevitse",
+    "code": "cr-kata11-905",
+    "index": 905
+  },
+  {
+    "surface": "メイッティーラ",
+    "reading": "maythira",
+    "code": "cr-kata11-906",
+    "index": 906
+  },
+  {
+    "surface": "ヤンゴン",
+    "reading": "yangon",
+    "code": "cr-kata11-907",
+    "index": 907
+  },
+  {
+    "surface": "オオイズミガクエンチョウ",
+    "reading": "ooizumigakuenchou",
+    "code": "cr-kata11-908",
+    "index": 908
+  },
+  {
+    "surface": "ノヴォズィプコフ",
+    "reading": "novozipukofu",
+    "code": "cr-kata11-909",
+    "index": 909
+  },
+  {
+    "surface": "サラトガスプリング",
+    "reading": "saratogaspring",
+    "code": "cr-kata11-910",
+    "index": 910
+  },
+  {
+    "surface": "イースト・グリンステッド",
+    "reading": "eastgreensuteddo",
+    "code": "cr-kata11-911",
+    "index": 911
+  },
+  {
+    "surface": "ウォリングフォード",
+    "reading": "wallingford",
+    "code": "cr-kata11-912",
+    "index": 912
+  },
+  {
+    "surface": "パルマ",
+    "reading": "palma",
+    "code": "cr-kata11-913",
+    "index": 913
+  },
+  {
+    "surface": "ホランド",
+    "reading": "holland",
+    "code": "cr-kata11-914",
+    "index": 914
+  },
+  {
+    "surface": "エルチェ",
+    "reading": "eruchi",
+    "code": "cr-kata11-915",
+    "index": 915
+  },
+  {
+    "surface": "テッラーサ",
+    "reading": "terraasa",
+    "code": "cr-kata11-916",
+    "index": 916
+  },
+  {
+    "surface": "ウスチ・カメノゴルスク",
+    "reading": "usuchikamenogorusuku",
+    "code": "cr-kata11-917",
+    "index": 917
+  },
+  {
+    "surface": "レオ",
+    "reading": "leo",
+    "code": "cr-kata11-918",
+    "index": 918
+  },
+  {
+    "surface": "アテブブ",
+    "reading": "atebubu",
+    "code": "cr-kata11-919",
+    "index": 919
+  },
+  {
+    "surface": "バム",
+    "reading": "bamu",
+    "code": "cr-kata11-920",
+    "index": 920
+  },
+  {
+    "surface": "グラース",
+    "reading": "grace",
+    "code": "cr-kata11-921",
+    "index": 921
+  },
+  {
+    "surface": "ウキマ",
+    "reading": "ukima",
+    "code": "cr-kata11-922",
+    "index": 922
+  },
+  {
+    "surface": "トルクメンバシ",
+    "reading": "torukumenbashi",
+    "code": "cr-kata11-923",
+    "index": 923
+  },
+  {
+    "surface": "ヤマグチ",
+    "reading": "yamaguchi",
+    "code": "cr-kata11-924",
+    "index": 924
+  },
+  {
+    "surface": "カットゥマンナルコイル",
+    "reading": "kattumannarukoiru",
+    "code": "cr-kata11-925",
+    "index": 925
+  },
+  {
+    "surface": "フレデリクトン",
+    "reading": "furederikuton",
+    "code": "cr-kata11-926",
+    "index": 926
+  },
+  {
+    "surface": "サロ",
+    "reading": "salo",
+    "code": "cr-kata11-927",
+    "index": 927
+  },
+  {
+    "surface": "ペンコ",
+    "reading": "penko",
+    "code": "cr-kata11-928",
+    "index": 928
+  },
+  {
+    "surface": "ノースマートルビーチ",
+    "reading": "noosumaatorubiichi",
+    "code": "cr-kata11-929",
+    "index": 929
+  },
+  {
+    "surface": "サドバリー",
+    "reading": "sadebarii",
+    "code": "cr-kata11-930",
+    "index": 930
+  },
+  {
+    "surface": "コーナーブルック",
+    "reading": "cornerburukku",
+    "code": "cr-kata11-931",
+    "index": 931
+  },
+  {
+    "surface": "アンジェ",
+    "reading": "anje",
+    "code": "cr-kata11-932",
+    "index": 932
+  },
+  {
+    "surface": "ヴィディシャー",
+    "reading": "vidishaa",
+    "code": "cr-kata11-933",
+    "index": 933
+  },
+  {
+    "surface": "レグニツァ",
+    "reading": "regunitsa",
+    "code": "cr-kata11-934",
+    "index": 934
+  },
+  {
+    "surface": "レイクウッド",
+    "reading": "lakewood",
+    "code": "cr-kata11-935",
+    "index": 935
+  },
+  {
+    "surface": "リンツ",
+    "reading": "lindt",
+    "code": "cr-kata11-936",
+    "index": 936
+  },
+  {
+    "surface": "カラオラ",
+    "reading": "karaora",
+    "code": "cr-kata11-937",
+    "index": 937
+  },
+  {
+    "surface": "ディスカバリー・ベイ",
+    "reading": "discoverybay",
+    "code": "cr-kata11-938",
+    "index": 938
+  },
+  {
+    "surface": "サットン・コールドフィールド",
+    "reading": "sattonkoorudofiirudo",
+    "code": "cr-kata11-939",
+    "index": 939
+  },
+  {
+    "surface": "リガ",
+    "reading": "riga",
+    "code": "cr-kata11-940",
+    "index": 940
+  },
+  {
+    "surface": "マルコス・フアレス",
+    "reading": "marcosfuaresu",
+    "code": "cr-kata11-941",
+    "index": 941
+  },
+  {
+    "surface": "ミッケリ",
+    "reading": "mikkeri",
+    "code": "cr-kata11-942",
+    "index": 942
+  },
+  {
+    "surface": "アレーゼ",
+    "reading": "arrayze",
+    "code": "cr-kata11-943",
+    "index": 943
+  },
+  {
+    "surface": "コモドーロ・リバダビア",
+    "reading": "komodoororibadabia",
+    "code": "cr-kata11-944",
+    "index": 944
+  },
+  {
+    "surface": "エルジン",
+    "reading": "elgin",
+    "code": "cr-kata11-945",
+    "index": 945
+  },
+  {
+    "surface": "プエルトカレーニョ",
+    "reading": "puerutokareenyo",
+    "code": "cr-kata11-946",
+    "index": 946
+  },
+  {
+    "surface": "バニワリード",
+    "reading": "baniwariido",
+    "code": "cr-kata11-947",
+    "index": 947
+  },
+  {
+    "surface": "オルヘイ",
+    "reading": "oruhey",
+    "code": "cr-kata11-948",
+    "index": 948
+  },
+  {
+    "surface": "アトウォーター",
+    "reading": "atoootaa",
+    "code": "cr-kata11-949",
+    "index": 949
+  },
+  {
+    "surface": "ホパ",
+    "reading": "hopa",
+    "code": "cr-kata11-950",
+    "index": 950
+  },
+  {
+    "surface": "ヴァンス",
+    "reading": "vansu",
+    "code": "cr-kata11-951",
+    "index": 951
+  },
+  {
+    "surface": "ビジャ・アレマーナ",
+    "reading": "bijaaremaana",
+    "code": "cr-kata11-952",
+    "index": 952
+  },
+  {
+    "surface": "ブリラム",
+    "reading": "burilamb",
+    "code": "cr-kata11-953",
+    "index": 953
+  },
+  {
+    "surface": "バタビア",
+    "reading": "batavia",
+    "code": "cr-kata11-954",
+    "index": 954
+  },
+  {
+    "surface": "ダノ",
+    "reading": "dano",
+    "code": "cr-kata11-955",
+    "index": 955
+  },
+  {
+    "surface": "モンティキアーリ",
+    "reading": "montikiaari",
+    "code": "cr-kata11-956",
+    "index": 956
+  },
+  {
+    "surface": "カシュガル",
+    "reading": "kashgar",
+    "code": "cr-kata11-957",
+    "index": 957
+  },
+  {
+    "surface": "ミト",
+    "reading": "mytho",
+    "code": "cr-kata11-958",
+    "index": 958
+  },
+  {
+    "surface": "コスティアンティニフカ",
+    "reading": "kosutiantinifuka",
+    "code": "cr-kata11-959",
+    "index": 959
+  },
+  {
+    "surface": "レイオア",
+    "reading": "layor",
+    "code": "cr-kata11-960",
+    "index": 960
+  },
+  {
+    "surface": "カティマ・ムリロ",
+    "reading": "categorymamuriro",
+    "code": "cr-kata11-961",
+    "index": 961
+  },
+  {
+    "surface": "トゥーバ",
+    "reading": "toba",
+    "code": "cr-kata11-962",
+    "index": 962
+  },
+  {
+    "surface": "エイムズ",
+    "reading": "eimuzu",
+    "code": "cr-kata11-963",
+    "index": 963
+  },
+  {
+    "surface": "ブカレスト",
+    "reading": "bukarest",
+    "code": "cr-kata11-964",
+    "index": 964
+  },
+  {
+    "surface": "リカシ",
+    "reading": "riskashi",
+    "code": "cr-kata11-965",
+    "index": 965
+  },
+  {
+    "surface": "ハンティンドン",
+    "reading": "hantindon",
+    "code": "cr-kata11-966",
+    "index": 966
+  },
+  {
+    "surface": "ウォレタ",
+    "reading": "oreta",
+    "code": "cr-kata11-967",
+    "index": 967
+  },
+  {
+    "surface": "プリルキ",
+    "reading": "puriruki",
+    "code": "cr-kata11-968",
+    "index": 968
+  },
+  {
+    "surface": "チェザーノ・マデルノ",
+    "reading": "chezaanomaderuno",
+    "code": "cr-kata11-969",
+    "index": 969
+  },
+  {
+    "surface": "アメカメカ",
+    "reading": "amekameka",
+    "code": "cr-kata11-970",
+    "index": 970
+  },
+  {
+    "surface": "サンペドロデフフイ",
+    "reading": "sanpedorodefufui",
+    "code": "cr-kata11-971",
+    "index": 971
+  },
+  {
+    "surface": "エチューカ",
+    "reading": "echuuka",
+    "code": "cr-kata11-972",
+    "index": 972
+  },
+  {
+    "surface": "クペラ",
+    "reading": "kupera",
+    "code": "cr-kata11-973",
+    "index": 973
+  },
+  {
+    "surface": "オリウエラ",
+    "reading": "oriwella",
+    "code": "cr-kata11-974",
+    "index": 974
+  },
+  {
+    "surface": "ピンプリ・チンチワッド",
+    "reading": "pinpurichinchiwaddo",
+    "code": "cr-kata11-975",
+    "index": 975
+  },
+  {
+    "surface": "ワンガラタ",
+    "reading": "wangarata",
+    "code": "cr-kata11-976",
+    "index": 976
+  },
+  {
+    "surface": "ベロオリゾンチ",
+    "reading": "beroorizonchi",
+    "code": "cr-kata11-977",
+    "index": 977
+  },
+  {
+    "surface": "タルグ・ムレシュ",
+    "reading": "tarugumureshu",
+    "code": "cr-kata11-978",
+    "index": 978
+  },
+  {
+    "surface": "ノヴォチェボクサルスク",
+    "reading": "novochebokusarusuku",
+    "code": "cr-kata11-979",
+    "index": 979
+  },
+  {
+    "surface": "エチミアジン",
+    "reading": "echimiajin",
+    "code": "cr-kata11-980",
+    "index": 980
+  },
+  {
+    "surface": "フォールリバー",
+    "reading": "fallriver",
+    "code": "cr-kata11-981",
+    "index": 981
+  },
+  {
+    "surface": "サンダカン",
+    "reading": "sandakan",
+    "code": "cr-kata11-982",
+    "index": 982
+  },
+  {
+    "surface": "ドゥケ・デ・カシアス",
+    "reading": "dukedekashiasu",
+    "code": "cr-kata11-983",
+    "index": 983
+  },
+  {
+    "surface": "チンサリ",
+    "reading": "chinsari",
+    "code": "cr-kata11-984",
+    "index": 984
+  },
+  {
+    "surface": "ノリッチ",
+    "reading": "norich",
+    "code": "cr-kata11-985",
+    "index": 985
+  },
+  {
+    "surface": "ジェンツァーノ・ディ・ローマ",
+    "reading": "jentsaanodirooma",
+    "code": "cr-kata11-986",
+    "index": 986
+  },
+  {
+    "surface": "オリョール",
+    "reading": "oryooru",
+    "code": "cr-kata11-987",
+    "index": 987
+  },
+  {
+    "surface": "ヘンダーソン",
+    "reading": "hendaason",
+    "code": "cr-kata11-988",
+    "index": 988
+  },
+  {
+    "surface": "ハラパ・デ・エンリケス",
+    "reading": "harapadeenrikesu",
+    "code": "cr-kata11-989",
+    "index": 989
+  },
+  {
+    "surface": "コリンウッド",
+    "reading": "cholinewood",
+    "code": "cr-kata11-990",
+    "index": 990
+  },
+  {
+    "surface": "ドリ",
+    "reading": "dori",
+    "code": "cr-kata11-991",
+    "index": 991
+  },
+  {
+    "surface": "ゲランド",
+    "reading": "gerando",
+    "code": "cr-kata11-992",
+    "index": 992
+  },
+  {
+    "surface": "ニュー・モールデン",
+    "reading": "newmallden",
+    "code": "cr-kata11-993",
+    "index": 993
+  },
+  {
+    "surface": "ナアアソンビュー",
+    "reading": "naaasonbyuu",
+    "code": "cr-kata11-994",
+    "index": 994
+  },
+  {
+    "surface": "ビガン",
+    "reading": "bigan",
+    "code": "cr-kata11-995",
+    "index": 995
+  },
+  {
+    "surface": "ジヴィエツ",
+    "reading": "jivietsu",
+    "code": "cr-kata11-996",
+    "index": 996
+  },
+  {
+    "surface": "フライジング",
+    "reading": "furising",
+    "code": "cr-kata11-997",
+    "index": 997
+  },
+  {
+    "surface": "ナムカム",
+    "reading": "numbercome",
+    "code": "cr-kata11-998",
+    "index": 998
+  },
+  {
+    "surface": "ノースチャールストン",
+    "reading": "northcharleston",
+    "code": "cr-kata11-999",
+    "index": 999
+  },
+  {
+    "surface": "ハーフ・ホロウ・ヒルズ",
+    "reading": "halfhollowhills",
+    "code": "cr-kata11-1000",
+    "index": 1000
+  },
+  {
+    "surface": "マッキニー",
+    "reading": "mckinney",
+    "code": "cr-kata11-1001",
+    "index": 1001
+  },
+  {
+    "surface": "スコータイ",
+    "reading": "sukhothai",
+    "code": "cr-kata11-1002",
+    "index": 1002
+  },
+  {
+    "surface": "サン・ホセ・デル・グアビアレ",
+    "reading": "sunjosederuguabiare",
+    "code": "cr-kata11-1003",
+    "index": 1003
+  },
+  {
+    "surface": "アラカジュ",
+    "reading": "arakaju",
+    "code": "cr-kata11-1004",
+    "index": 1004
+  },
+  {
+    "surface": "ブリンディジ",
+    "reading": "brindisi",
+    "code": "cr-kata11-1005",
+    "index": 1005
+  },
+  {
+    "surface": "ターイフ",
+    "reading": "taaifu",
+    "code": "cr-kata11-1006",
+    "index": 1006
+  },
+  {
+    "surface": "カルキン",
+    "reading": "culkin",
+    "code": "cr-kata11-1007",
+    "index": 1007
+  },
+  {
+    "surface": "エテルベーク",
+    "reading": "eterubeeku",
+    "code": "cr-kata11-1008",
+    "index": 1008
+  },
+  {
+    "surface": "ホワイト・プレインズ",
+    "reading": "whitepreins",
+    "code": "cr-kata11-1009",
+    "index": 1009
+  },
+  {
+    "surface": "レバークーゼン",
+    "reading": "rebaakuuzen",
+    "code": "cr-kata11-1010",
+    "index": 1010
+  },
+  {
+    "surface": "カフタ",
+    "reading": "cuffta",
+    "code": "cr-kata11-1011",
+    "index": 1011
+  },
+  {
+    "surface": "ウルム",
+    "reading": "urumu",
+    "code": "cr-kata11-1012",
+    "index": 1012
+  },
+  {
+    "surface": "ホイアン",
+    "reading": "hoian",
+    "code": "cr-kata11-1013",
+    "index": 1013
+  },
+  {
+    "surface": "サキ",
+    "reading": "saki",
+    "code": "cr-kata11-1014",
+    "index": 1014
+  },
+  {
+    "surface": "カッサーノ・ダッダ",
+    "reading": "cassanodadda",
+    "code": "cr-kata11-1015",
+    "index": 1015
+  },
+  {
+    "surface": "ブンバ",
+    "reading": "bunba",
+    "code": "cr-kata11-1016",
+    "index": 1016
+  },
+  {
+    "surface": "アヌマッス",
+    "reading": "anumass",
+    "code": "cr-kata11-1017",
+    "index": 1017
+  },
+  {
+    "surface": "マセル",
+    "reading": "maseru",
+    "code": "cr-kata11-1018",
+    "index": 1018
+  },
+  {
+    "surface": "カマテロ",
+    "reading": "kamaterrorism",
+    "code": "cr-kata11-1019",
+    "index": 1019
+  },
+  {
+    "surface": "ウォーナンブール",
+    "reading": "warnahnboole",
+    "code": "cr-kata11-1020",
+    "index": 1020
+  },
+  {
+    "surface": "フアン・ホセ・カステリ",
+    "reading": "juanjosekasuteri",
+    "code": "cr-kata11-1021",
+    "index": 1021
+  },
+  {
+    "surface": "フォート・レオナード・ウッド",
+    "reading": "fortleonardwood",
+    "code": "cr-kata11-1022",
+    "index": 1022
+  },
+  {
+    "surface": "コンピエーニュ",
+    "reading": "konpieenyu",
+    "code": "cr-kata11-1023",
+    "index": 1023
+  },
+  {
+    "surface": "ザグアン",
+    "reading": "zaguan",
+    "code": "cr-kata11-1024",
+    "index": 1024
+  },
+  {
+    "surface": "ランバートン",
+    "reading": "runbaaton",
+    "code": "cr-kata11-1025",
+    "index": 1025
+  },
+  {
+    "surface": "フィリップスブルフ",
+    "reading": "firippusuburufu",
+    "code": "cr-kata11-1026",
+    "index": 1026
+  },
+  {
+    "surface": "リオコロラド",
+    "reading": "riocolorado",
+    "code": "cr-kata11-1027",
+    "index": 1027
+  },
+  {
+    "surface": "プエルト・エスコンディード",
+    "reading": "puerutoesukondiido",
+    "code": "cr-kata11-1028",
+    "index": 1028
+  },
+  {
+    "surface": "カポシュヴァール",
+    "reading": "kaposhuvaaru",
+    "code": "cr-kata11-1029",
+    "index": 1029
+  },
+  {
+    "surface": "カンパナ",
+    "reading": "kanpana",
+    "code": "cr-kata11-1030",
+    "index": 1030
+  },
+  {
+    "surface": "イリンガ",
+    "reading": "iringa",
+    "code": "cr-kata11-1031",
+    "index": 1031
+  },
+  {
+    "surface": "セコンディ・タコラディ",
+    "reading": "sekonditakoradi",
+    "code": "cr-kata11-1032",
+    "index": 1032
+  },
+  {
+    "surface": "ジザフ",
+    "reading": "jizafu",
+    "code": "cr-kata11-1033",
+    "index": 1033
+  },
+  {
+    "surface": "ポキプシー",
+    "reading": "pokipushii",
+    "code": "cr-kata11-1034",
+    "index": 1034
+  },
+  {
+    "surface": "シェルブルック",
+    "reading": "shellburukku",
+    "code": "cr-kata11-1035",
+    "index": 1035
+  },
+  {
+    "surface": "グレーター・ノイダ",
+    "reading": "graternoida",
+    "code": "cr-kata11-1036",
+    "index": 1036
+  },
+  {
+    "surface": "スパニッシュ・タウン",
+    "reading": "spanishtown",
+    "code": "cr-kata11-1037",
+    "index": 1037
+  },
+  {
+    "surface": "セコン",
+    "reading": "sekon",
+    "code": "cr-kata11-1038",
+    "index": 1038
+  },
+  {
+    "surface": "ルジェフ",
+    "reading": "rujefu",
+    "code": "cr-kata11-1039",
+    "index": 1039
+  },
+  {
+    "surface": "スズン",
+    "reading": "suzun",
+    "code": "cr-kata11-1040",
+    "index": 1040
+  },
+  {
+    "surface": "リンジー",
+    "reading": "rinjii",
+    "code": "cr-kata11-1041",
+    "index": 1041
+  },
+  {
+    "surface": "コンプトン",
+    "reading": "compton",
+    "code": "cr-kata11-1042",
+    "index": 1042
+  },
+  {
+    "surface": "ボセンベレ",
+    "reading": "bosenbere",
+    "code": "cr-kata11-1043",
+    "index": 1043
+  },
+  {
+    "surface": "フォート・トーマス",
+    "reading": "fortthomas",
+    "code": "cr-kata11-1044",
+    "index": 1044
+  },
+  {
+    "surface": "ウェスト・ヘンプステッド",
+    "reading": "westhempsuteddo",
+    "code": "cr-kata11-1045",
+    "index": 1045
+  },
+  {
+    "surface": "クボタ",
+    "reading": "kubota",
+    "code": "cr-kata11-1046",
+    "index": 1046
+  },
+  {
+    "surface": "ピーターマリッツバーグ",
+    "reading": "pietermaritzburg",
+    "code": "cr-kata11-1047",
+    "index": 1047
+  },
+  {
+    "surface": "ツィロアノマンディディ",
+    "reading": "tsiroanomandidi",
+    "code": "cr-kata11-1048",
+    "index": 1048
+  },
+  {
+    "surface": "オオツ",
+    "reading": "ootsu",
+    "code": "cr-kata11-1049",
+    "index": 1049
+  },
+  {
+    "surface": "マスペス",
+    "reading": "masupesu",
+    "code": "cr-kata11-1050",
+    "index": 1050
+  },
+  {
+    "surface": "トルーカ",
+    "reading": "toruuka",
+    "code": "cr-kata11-1051",
+    "index": 1051
+  },
+  {
+    "surface": "ケラヴァ",
+    "reading": "kerava",
+    "code": "cr-kata11-1052",
+    "index": 1052
+  },
+  {
+    "surface": "グスタビア",
+    "reading": "gusutabia",
+    "code": "cr-kata11-1053",
+    "index": 1053
+  },
+  {
+    "surface": "イースト・キルブライド",
+    "reading": "eastkillbride",
+    "code": "cr-kata11-1054",
+    "index": 1054
+  },
+  {
+    "surface": "リベイラン・プレト",
+    "reading": "ribeiranpureto",
+    "code": "cr-kata11-1055",
+    "index": 1055
+  },
+  {
+    "surface": "メストレ",
+    "reading": "mestrain",
+    "code": "cr-kata11-1056",
+    "index": 1056
+  },
+  {
+    "surface": "マサヤ",
+    "reading": "masaya",
+    "code": "cr-kata11-1057",
+    "index": 1057
+  },
+  {
+    "surface": "ベルゲン",
+    "reading": "bergen",
+    "code": "cr-kata11-1058",
+    "index": 1058
+  },
+  {
+    "surface": "グリア",
+    "reading": "glia",
+    "code": "cr-kata11-1059",
+    "index": 1059
+  },
+  {
+    "surface": "ツァジン",
+    "reading": "tsajin",
+    "code": "cr-kata11-1060",
+    "index": 1060
+  },
+  {
+    "surface": "デジ",
+    "reading": "digital",
+    "code": "cr-kata11-1061",
+    "index": 1061
+  },
+  {
+    "surface": "バゴ",
+    "reading": "bago",
+    "code": "cr-kata11-1062",
+    "index": 1062
+  },
+  {
+    "surface": "レイリア",
+    "reading": "reiria",
+    "code": "cr-kata11-1063",
+    "index": 1063
+  },
+  {
+    "surface": "ジャムス",
+    "reading": "jamsu",
+    "code": "cr-kata11-1064",
+    "index": 1064
+  },
+  {
+    "surface": "サン・ドナ・ディ・ピアーヴェ",
+    "reading": "sundonadipiaave",
+    "code": "cr-kata11-1065",
+    "index": 1065
+  },
+  {
+    "surface": "セリア",
+    "reading": "seria",
+    "code": "cr-kata11-1066",
+    "index": 1066
+  },
+  {
+    "surface": "マーシュフィールド",
+    "reading": "maashufield",
+    "code": "cr-kata11-1067",
+    "index": 1067
+  },
+  {
+    "surface": "コストシン・ナド・オドロン",
+    "reading": "kosutoshinnadoodoron",
+    "code": "cr-kata11-1068",
+    "index": 1068
+  },
+  {
+    "surface": "ミンデン",
+    "reading": "minden",
+    "code": "cr-kata11-1069",
+    "index": 1069
+  },
+  {
+    "surface": "コーパスクリスティ",
+    "reading": "corpusclitorisstay",
+    "code": "cr-kata11-1070",
+    "index": 1070
+  },
+  {
+    "surface": "ナインワ",
+    "reading": "ninewa",
+    "code": "cr-kata11-1071",
+    "index": 1071
+  },
+  {
+    "surface": "トゥナプナ",
+    "reading": "tunapuna",
+    "code": "cr-kata11-1072",
+    "index": 1072
+  },
+  {
+    "surface": "ブラウンシュヴァイク",
+    "reading": "buraunshuvaiku",
+    "code": "cr-kata11-1073",
+    "index": 1073
+  },
+  {
+    "surface": "レブロン",
+    "reading": "revlon",
+    "code": "cr-kata11-1074",
+    "index": 1074
+  },
+  {
+    "surface": "ガオ",
+    "reading": "gao",
+    "code": "cr-kata11-1075",
+    "index": 1075
+  },
+  {
+    "surface": "ネマ",
+    "reading": "nema",
+    "code": "cr-kata11-1076",
+    "index": 1076
+  },
+  {
+    "surface": "ベッティアー",
+    "reading": "bettiaa",
+    "code": "cr-kata11-1077",
+    "index": 1077
+  },
+  {
+    "surface": "エル・エスコリアル",
+    "reading": "eruescorial",
+    "code": "cr-kata11-1078",
+    "index": 1078
+  },
+  {
+    "surface": "ポワントノワール",
+    "reading": "powantonowaaru",
+    "code": "cr-kata11-1079",
+    "index": 1079
+  },
+  {
+    "surface": "ヴェンツピルス",
+    "reading": "ventsupirusu",
+    "code": "cr-kata11-1080",
+    "index": 1080
+  },
+  {
+    "surface": "ルブリン",
+    "reading": "lublin",
+    "code": "cr-kata11-1081",
+    "index": 1081
+  },
+  {
+    "surface": "ワルグラ",
+    "reading": "warugras",
+    "code": "cr-kata11-1082",
+    "index": 1082
+  },
+  {
+    "surface": "トゥルヌ・マグレレ",
+    "reading": "turunumagurere",
+    "code": "cr-kata11-1083",
+    "index": 1083
+  },
+  {
+    "surface": "レッドディア",
+    "reading": "reddear",
+    "code": "cr-kata11-1084",
+    "index": 1084
+  },
+  {
+    "surface": "ブゾン",
+    "reading": "buzon",
+    "code": "cr-kata11-1085",
+    "index": 1085
+  },
+  {
+    "surface": "ラス・アル・ハイマ",
+    "reading": "lasaruhaima",
+    "code": "cr-kata11-1086",
+    "index": 1086
+  },
+  {
+    "surface": "ラコニア",
+    "reading": "rakonia",
+    "code": "cr-kata11-1087",
+    "index": 1087
+  },
+  {
+    "surface": "マイマナ",
+    "reading": "mymana",
+    "code": "cr-kata11-1088",
+    "index": 1088
+  },
+  {
+    "surface": "オーバーランドパーク",
+    "reading": "overlandpark",
+    "code": "cr-kata11-1089",
+    "index": 1089
+  },
+  {
+    "surface": "シウダ・オブレゴン",
+    "reading": "shiudaoburegon",
+    "code": "cr-kata11-1090",
+    "index": 1090
+  },
+  {
+    "surface": "スプリング・バレー",
+    "reading": "springvolley",
+    "code": "cr-kata11-1091",
+    "index": 1091
+  },
+  {
+    "surface": "フェイラ・デ・サンタナ",
+    "reading": "feiradessantana",
+    "code": "cr-kata11-1092",
+    "index": 1092
+  },
+  {
+    "surface": "モションマジャローヴァール",
+    "reading": "moshonmajaroovaaru",
+    "code": "cr-kata11-1093",
+    "index": 1093
+  },
+  {
+    "surface": "ヨラ",
+    "reading": "yora",
+    "code": "cr-kata11-1094",
+    "index": 1094
+  },
+  {
+    "surface": "ウェリントン",
+    "reading": "wellington",
+    "code": "cr-kata11-1095",
+    "index": 1095
+  },
+  {
+    "surface": "ランチョ・コードヴァ",
+    "reading": "ranchocodeva",
+    "code": "cr-kata11-1096",
+    "index": 1096
+  },
+  {
+    "surface": "コナーエフ",
+    "reading": "konaaefu",
+    "code": "cr-kata11-1097",
+    "index": 1097
+  },
+  {
+    "surface": "シルケボー",
+    "reading": "silkeborg",
+    "code": "cr-kata11-1098",
+    "index": 1098
+  },
+  {
+    "surface": "リウネ",
+    "reading": "riune",
+    "code": "cr-kata11-1099",
+    "index": 1099
+  },
+  {
+    "surface": "ハカ",
+    "reading": "haka",
+    "code": "cr-kata11-1100",
+    "index": 1100
+  },
+  {
+    "surface": "クライストチャーチ",
+    "reading": "christchurch",
+    "code": "cr-kata11-1101",
+    "index": 1101
+  },
+  {
+    "surface": "セントジョンズ",
+    "reading": "saintjohns",
+    "code": "cr-kata11-1102",
+    "index": 1102
+  },
+  {
+    "surface": "ニューベッドフォード",
+    "reading": "newbedford",
+    "code": "cr-kata11-1103",
+    "index": 1103
+  },
+  {
+    "surface": "ユカイア",
+    "reading": "yukaia",
+    "code": "cr-kata11-1104",
+    "index": 1104
+  },
+  {
+    "surface": "ドゥンクワ・オン・オフィン",
+    "reading": "dunkuwaonofin",
+    "code": "cr-kata11-1105",
+    "index": 1105
+  },
+  {
+    "surface": "ニューブローンフェルズ",
+    "reading": "nyuuburoonferuzu",
+    "code": "cr-kata11-1106",
+    "index": 1106
+  },
+  {
+    "surface": "カンダハール",
+    "reading": "kandahar",
+    "code": "cr-kata11-1107",
+    "index": 1107
+  },
+  {
+    "surface": "デントン",
+    "reading": "denton",
+    "code": "cr-kata11-1108",
+    "index": 1108
+  },
+  {
+    "surface": "サンティアゴ・デ・コンポステーラ",
+    "reading": "santiagodekonposuteera",
+    "code": "cr-kata11-1109",
+    "index": 1109
+  },
+  {
+    "surface": "タラベラ・デ・ラ・レイナ",
+    "reading": "taraberadesrareyna",
+    "code": "cr-kata11-1110",
+    "index": 1110
+  },
+  {
+    "surface": "マルセイユ",
+    "reading": "marseille",
+    "code": "cr-kata11-1111",
+    "index": 1111
+  },
+  {
+    "surface": "ニアンゴロコ",
+    "reading": "niangoroko",
+    "code": "cr-kata11-1112",
+    "index": 1112
+  },
+  {
+    "surface": "バサンクス",
+    "reading": "basankusu",
+    "code": "cr-kata11-1113",
+    "index": 1113
+  },
+  {
+    "surface": "シヴァガンガイ",
+    "reading": "sivagunguy",
+    "code": "cr-kata11-1114",
+    "index": 1114
+  },
+  {
+    "surface": "ミンデロ",
+    "reading": "mindero",
+    "code": "cr-kata11-1115",
+    "index": 1115
+  },
+  {
+    "surface": "プラジュアップキーリーカン",
+    "reading": "purajuappukiiriikan",
+    "code": "cr-kata11-1116",
+    "index": 1116
+  },
+  {
+    "surface": "ハンツィ",
+    "reading": "hantsi",
+    "code": "cr-kata11-1117",
+    "index": 1117
+  },
+  {
+    "surface": "アティ",
+    "reading": "ati",
+    "code": "cr-kata11-1118",
+    "index": 1118
+  },
+  {
+    "surface": "リーグシティ",
+    "reading": "leaguecity",
+    "code": "cr-kata11-1119",
+    "index": 1119
+  },
+  {
+    "surface": "シリアナ",
+    "reading": "shiriannouncer",
+    "code": "cr-kata11-1120",
+    "index": 1120
+  },
+  {
+    "surface": "ラホール",
+    "reading": "lahore",
+    "code": "cr-kata11-1121",
+    "index": 1121
+  },
+  {
+    "surface": "アフマダーバード",
+    "reading": "afumadaabaado",
+    "code": "cr-kata11-1122",
+    "index": 1122
+  },
+  {
+    "surface": "ゲイラン",
+    "reading": "gayrun",
+    "code": "cr-kata11-1123",
+    "index": 1123
+  },
+  {
+    "surface": "レイクウェールズ",
+    "reading": "lakewales",
+    "code": "cr-kata11-1124",
+    "index": 1124
+  },
+  {
+    "surface": "ボサンゴア",
+    "reading": "bosangoa",
+    "code": "cr-kata11-1125",
+    "index": 1125
+  },
+  {
+    "surface": "ヴェルサイユ",
+    "reading": "versailles",
+    "code": "cr-kata11-1126",
+    "index": 1126
+  },
+  {
+    "surface": "イスラ・クリスティナ",
+    "reading": "isurakurisutina",
+    "code": "cr-kata11-1127",
+    "index": 1127
+  },
+  {
+    "surface": "ホンマチ",
+    "reading": "phonemachi",
+    "code": "cr-kata11-1128",
+    "index": 1128
+  },
+  {
+    "surface": "ラフィア",
+    "reading": "rafia",
+    "code": "cr-kata11-1129",
+    "index": 1129
+  },
+  {
+    "surface": "キャイオンピア",
+    "reading": "kyaionpia",
+    "code": "cr-kata11-1130",
+    "index": 1130
+  },
+  {
+    "surface": "チノ",
+    "reading": "chino",
+    "code": "cr-kata11-1131",
+    "index": 1131
+  },
+  {
+    "surface": "マノクワリ",
+    "reading": "manokwari",
+    "code": "cr-kata11-1132",
+    "index": 1132
+  },
+  {
+    "surface": "ニテロイ",
+    "reading": "niteroi",
+    "code": "cr-kata11-1133",
+    "index": 1133
+  },
+  {
+    "surface": "モンテリマール",
+    "reading": "monterimaaru",
+    "code": "cr-kata11-1134",
+    "index": 1134
+  },
+  {
+    "surface": "リュッセルスハイム",
+    "reading": "ryusserusuhaimu",
+    "code": "cr-kata11-1135",
+    "index": 1135
+  },
+  {
+    "surface": "テンプル",
+    "reading": "temple",
+    "code": "cr-kata11-1136",
+    "index": 1136
+  },
+  {
+    "surface": "マキンドゥ",
+    "reading": "makindu",
+    "code": "cr-kata11-1137",
+    "index": 1137
+  },
+  {
+    "surface": "カルバラー",
+    "reading": "karbala",
+    "code": "cr-kata11-1138",
+    "index": 1138
+  },
+  {
+    "surface": "ヴァニエ",
+    "reading": "vanie",
+    "code": "cr-kata11-1139",
+    "index": 1139
+  },
+  {
+    "surface": "キンドゥ",
+    "reading": "kindu",
+    "code": "cr-kata11-1140",
+    "index": 1140
+  },
+  {
+    "surface": "イッブ",
+    "reading": "ibbu",
+    "code": "cr-kata11-1141",
+    "index": 1141
+  },
+  {
+    "surface": "パラ",
+    "reading": "para",
+    "code": "cr-kata11-1142",
+    "index": 1142
+  },
+  {
+    "surface": "カヤンザ",
+    "reading": "kayanza",
+    "code": "cr-kata11-1143",
+    "index": 1143
+  },
+  {
+    "surface": "イブラ",
+    "reading": "ibura",
+    "code": "cr-kata11-1144",
+    "index": 1144
+  },
+  {
+    "surface": "ユルマラ",
+    "reading": "yurumara",
+    "code": "cr-kata11-1145",
+    "index": 1145
+  },
+  {
+    "surface": "パットゥッコーッタイ",
+    "reading": "pattukkoottai",
+    "code": "cr-kata11-1146",
+    "index": 1146
+  },
+  {
+    "surface": "トロムソ",
+    "reading": "toromuso",
+    "code": "cr-kata11-1147",
+    "index": 1147
+  },
+  {
+    "surface": "ペリー",
+    "reading": "perry",
+    "code": "cr-kata11-1148",
+    "index": 1148
+  },
+  {
+    "surface": "キナルト",
+    "reading": "kinaruto",
+    "code": "cr-kata11-1149",
+    "index": 1149
+  },
+  {
+    "surface": "ロスモチス",
+    "reading": "rosumochisu",
+    "code": "cr-kata11-1150",
+    "index": 1150
+  },
+  {
+    "surface": "ビレジク",
+    "reading": "birejiku",
+    "code": "cr-kata11-1151",
+    "index": 1151
+  },
+  {
+    "surface": "アピア",
+    "reading": "apia",
+    "code": "cr-kata11-1152",
+    "index": 1152
+  },
+  {
+    "surface": "アンダーソン",
+    "reading": "anderson",
+    "code": "cr-kata11-1153",
+    "index": 1153
+  },
+  {
+    "surface": "ランゲル",
+    "reading": "rangeru",
+    "code": "cr-kata11-1154",
+    "index": 1154
+  },
+  {
+    "surface": "ゴヤ",
+    "reading": "goya",
+    "code": "cr-kata11-1155",
+    "index": 1155
+  },
+  {
+    "surface": "モニン",
+    "reading": "monin",
+    "code": "cr-kata11-1156",
+    "index": 1156
+  },
+  {
+    "surface": "ガイエリ",
+    "reading": "guyeri",
+    "code": "cr-kata11-1157",
+    "index": 1157
+  },
+  {
+    "surface": "ドニプロペトロウシク",
+    "reading": "donipuropetoroushiku",
+    "code": "cr-kata11-1158",
+    "index": 1158
+  },
+  {
+    "surface": "ゲイタ",
+    "reading": "geita",
+    "code": "cr-kata11-1159",
+    "index": 1159
+  },
+  {
+    "surface": "ノーサンプトン",
+    "reading": "northampton",
+    "code": "cr-kata11-1160",
+    "index": 1160
+  },
+  {
+    "surface": "エシク",
+    "reading": "etsikh",
+    "code": "cr-kata11-1161",
+    "index": 1161
+  },
+  {
+    "surface": "ハランデール・ビーチ",
+    "reading": "harandeerubeach",
+    "code": "cr-kata11-1162",
+    "index": 1162
+  },
+  {
+    "surface": "ウルス・マルタン",
+    "reading": "uruthmartin",
+    "code": "cr-kata11-1163",
+    "index": 1163
+  },
+  {
+    "surface": "サワーイー・マードープル",
+    "reading": "sawaaiimaadoopuru",
+    "code": "cr-kata11-1164",
+    "index": 1164
+  },
+  {
+    "surface": "デラノ",
+    "reading": "derano",
+    "code": "cr-kata11-1165",
+    "index": 1165
+  },
+  {
+    "surface": "ヌーク",
+    "reading": "nuuku",
+    "code": "cr-kata11-1166",
+    "index": 1166
+  },
+  {
+    "surface": "ホーポグ",
+    "reading": "hoopogu",
+    "code": "cr-kata11-1167",
+    "index": 1167
+  },
+  {
+    "surface": "ダンバード",
+    "reading": "dhanbad",
+    "code": "cr-kata11-1168",
+    "index": 1168
+  },
+  {
+    "surface": "ガルダイア",
+    "reading": "galldiamond",
+    "code": "cr-kata11-1169",
+    "index": 1169
+  },
+  {
+    "surface": "エレクトロウグリ",
+    "reading": "erectlawgris",
+    "code": "cr-kata11-1170",
+    "index": 1170
+  },
+  {
+    "surface": "シュトゥットガルト",
+    "reading": "stuttgart",
+    "code": "cr-kata11-1171",
+    "index": 1171
+  },
+  {
+    "surface": "ウェストジョーダン",
+    "reading": "westjoodan",
+    "code": "cr-kata11-1172",
+    "index": 1172
+  },
+  {
+    "surface": "アル・アジジヤ",
+    "reading": "aruajijiya",
+    "code": "cr-kata11-1173",
+    "index": 1173
+  },
+  {
+    "surface": "チューリッヒ",
+    "reading": "zurich",
+    "code": "cr-kata11-1174",
+    "index": 1174
+  },
+  {
+    "surface": "ラ・アブラ",
+    "reading": "raabura",
+    "code": "cr-kata11-1175",
+    "index": 1175
+  },
+  {
+    "surface": "ホロ",
+    "reading": "jolo",
+    "code": "cr-kata11-1176",
+    "index": 1176
+  },
+  {
+    "surface": "アルバ・ユリア",
+    "reading": "arubajulia",
+    "code": "cr-kata11-1177",
+    "index": 1177
+  },
+  {
+    "surface": "ブジュンブラ",
+    "reading": "bujumbura",
+    "code": "cr-kata11-1178",
+    "index": 1178
+  },
+  {
+    "surface": "ゲルゼンキルヒェン",
+    "reading": "geruzenkiruhen",
+    "code": "cr-kata11-1179",
+    "index": 1179
+  },
+  {
+    "surface": "バトゥ・ブレンダム",
+    "reading": "batuburendamu",
+    "code": "cr-kata11-1180",
+    "index": 1180
+  },
+  {
+    "surface": "ホーホハイム・アム・マイン",
+    "reading": "hoochhaimamumein",
+    "code": "cr-kata11-1181",
+    "index": 1181
+  },
+  {
+    "surface": "ソルタヴァラ",
+    "reading": "sorutavara",
+    "code": "cr-kata11-1182",
+    "index": 1182
+  },
+  {
+    "surface": "ウィロー・ブルック",
+    "reading": "willowburukku",
+    "code": "cr-kata11-1183",
+    "index": 1183
+  },
+  {
+    "surface": "ウェランド",
+    "reading": "wayland",
+    "code": "cr-kata11-1184",
+    "index": 1184
+  },
+  {
+    "surface": "トゥガン",
+    "reading": "tugan",
+    "code": "cr-kata11-1185",
+    "index": 1185
+  },
+  {
+    "surface": "ヴロラ",
+    "reading": "vurora",
+    "code": "cr-kata11-1186",
+    "index": 1186
+  },
+  {
+    "surface": "ペルガミーノ",
+    "reading": "perugamiino",
+    "code": "cr-kata11-1187",
+    "index": 1187
+  },
+  {
+    "surface": "ミルトン・キーンズ",
+    "reading": "miltonkeynes",
+    "code": "cr-kata11-1188",
+    "index": 1188
+  },
+  {
+    "surface": "サンノレンゾ",
+    "reading": "sannorenzo",
+    "code": "cr-kata11-1189",
+    "index": 1189
+  },
+  {
+    "surface": "ウッジャイン",
+    "reading": "ujjain",
+    "code": "cr-kata11-1190",
+    "index": 1190
+  },
+  {
+    "surface": "シデルノ",
+    "reading": "shideruno",
+    "code": "cr-kata11-1191",
+    "index": 1191
+  },
+  {
+    "surface": "ファルージャ",
+    "reading": "faruuja",
+    "code": "cr-kata11-1192",
+    "index": 1192
+  },
+  {
+    "surface": "メダン",
+    "reading": "medan",
+    "code": "cr-kata11-1193",
+    "index": 1193
+  },
+  {
+    "surface": "ホジュフ",
+    "reading": "hojufu",
+    "code": "cr-kata11-1194",
+    "index": 1194
+  },
+  {
+    "surface": "グランドフォークス",
+    "reading": "gurandofookusu",
+    "code": "cr-kata11-1195",
+    "index": 1195
+  },
+  {
+    "surface": "ナンカーナー・サーヒブ",
+    "reading": "nankaanaasaahibu",
+    "code": "cr-kata11-1196",
+    "index": 1196
+  },
+  {
+    "surface": "ヴォトキンスク",
+    "reading": "votokinsuku",
+    "code": "cr-kata11-1197",
+    "index": 1197
+  },
+  {
+    "surface": "ピッツバーグ",
+    "reading": "pittsburgh",
+    "code": "cr-kata11-1198",
+    "index": 1198
+  },
+  {
+    "surface": "サン・ミゲル・デ・アジェンデ",
+    "reading": "sunmigerudesallende",
+    "code": "cr-kata11-1199",
+    "index": 1199
+  },
+  {
+    "surface": "リノ",
+    "reading": "reno",
+    "code": "cr-kata11-1200",
+    "index": 1200
+  },
+  {
+    "surface": "ハレ",
+    "reading": "hare",
+    "code": "cr-kata11-1201",
+    "index": 1201
+  },
+  {
+    "surface": "タラセリー",
+    "reading": "taraserie",
+    "code": "cr-kata11-1202",
+    "index": 1202
+  },
+  {
+    "surface": "フォートウォルトンビーチ",
+    "reading": "footoorutonbiichi",
+    "code": "cr-kata11-1203",
+    "index": 1203
+  },
+  {
+    "surface": "バート・ヴィルドゥンゲン",
+    "reading": "baatovirudungen",
+    "code": "cr-kata11-1204",
+    "index": 1204
+  },
+  {
+    "surface": "ンチェレンゲ",
+    "reading": "ncherenge",
+    "code": "cr-kata11-1205",
+    "index": 1205
+  },
+  {
+    "surface": "プリレプ",
+    "reading": "purirepu",
+    "code": "cr-kata11-1206",
+    "index": 1206
+  },
+  {
+    "surface": "スライデル",
+    "reading": "slydel",
+    "code": "cr-kata11-1207",
+    "index": 1207
+  },
+  {
+    "surface": "ダウニー",
+    "reading": "daunii",
+    "code": "cr-kata11-1208",
+    "index": 1208
+  },
+  {
+    "surface": "ティンドゥッカル",
+    "reading": "tindukkaru",
+    "code": "cr-kata11-1209",
+    "index": 1209
+  },
+  {
+    "surface": "セントラル・ポイント",
+    "reading": "centralpoint",
+    "code": "cr-kata11-1210",
+    "index": 1210
+  },
+  {
+    "surface": "ウヨ",
+    "reading": "uyo",
+    "code": "cr-kata11-1211",
+    "index": 1211
+  },
+  {
+    "surface": "ファーガソン",
+    "reading": "ferguson",
+    "code": "cr-kata11-1212",
+    "index": 1212
+  },
+  {
+    "surface": "コルミ",
+    "reading": "korumi",
+    "code": "cr-kata11-1213",
+    "index": 1213
+  },
+  {
+    "surface": "クリン",
+    "reading": "clean",
+    "code": "cr-kata11-1214",
+    "index": 1214
+  },
+  {
+    "surface": "トーランス",
+    "reading": "tooreims",
+    "code": "cr-kata11-1215",
+    "index": 1215
+  },
+  {
+    "surface": "クルガム・テーシル",
+    "reading": "kurugamuteeshiru",
+    "code": "cr-kata11-1216",
+    "index": 1216
+  },
+  {
+    "surface": "アルガンスエラ",
+    "reading": "arugansuera",
+    "code": "cr-kata11-1217",
+    "index": 1217
+  },
+  {
+    "surface": "サンティアゴ・デ・カリ",
+    "reading": "santiagodeskari",
+    "code": "cr-kata11-1218",
+    "index": 1218
+  },
+  {
+    "surface": "ヨエンスー",
+    "reading": "yoensuu",
+    "code": "cr-kata11-1219",
+    "index": 1219
+  },
+  {
+    "surface": "ラーンシュタイン",
+    "reading": "learnstein",
+    "code": "cr-kata11-1220",
+    "index": 1220
+  },
+  {
+    "surface": "ポールドペ",
+    "reading": "poorudope",
+    "code": "cr-kata11-1221",
+    "index": 1221
+  },
+  {
+    "surface": "サラガ",
+    "reading": "sarahga",
+    "code": "cr-kata11-1222",
+    "index": 1222
+  },
+  {
+    "surface": "バーンズリー",
+    "reading": "burnslee",
+    "code": "cr-kata11-1223",
+    "index": 1223
+  },
+  {
+    "surface": "バハ・ダ・チジューカ",
+    "reading": "bajadachijuuka",
+    "code": "cr-kata11-1224",
+    "index": 1224
+  },
+  {
+    "surface": "ルートヴィヒスブルク",
+    "reading": "ruutovihisuburuku",
+    "code": "cr-kata11-1225",
+    "index": 1225
+  },
+  {
+    "surface": "ナコンファノム",
+    "reading": "nakonfanomu",
+    "code": "cr-kata11-1226",
+    "index": 1226
+  },
+  {
+    "surface": "イドリブ",
+    "reading": "idlive",
+    "code": "cr-kata11-1227",
+    "index": 1227
+  },
+  {
+    "surface": "イース",
+    "reading": "iisu",
+    "code": "cr-kata11-1228",
+    "index": 1228
+  },
+  {
+    "surface": "ヒルトンヘッドアイランド",
+    "reading": "hiltonheadisland",
+    "code": "cr-kata11-1229",
+    "index": 1229
+  },
+  {
+    "surface": "シャールジャ",
+    "reading": "charja",
+    "code": "cr-kata11-1230",
+    "index": 1230
+  },
+  {
+    "surface": "カガヤン・デ・オロ",
+    "reading": "cagayandeoro",
+    "code": "cr-kata11-1231",
+    "index": 1231
+  },
+  {
+    "surface": "ボサンスカ・クルパ",
+    "reading": "bosansukakurupa",
+    "code": "cr-kata11-1232",
+    "index": 1232
+  },
+  {
+    "surface": "ガザ",
+    "reading": "gaza",
+    "code": "cr-kata11-1233",
+    "index": 1233
+  },
+  {
+    "surface": "ボーヌ",
+    "reading": "beaune",
+    "code": "cr-kata11-1234",
+    "index": 1234
+  },
+  {
+    "surface": "デセ",
+    "reading": "desse",
+    "code": "cr-kata11-1235",
+    "index": 1235
+  },
+  {
+    "surface": "ロザラム",
+    "reading": "rozalamb",
+    "code": "cr-kata11-1236",
+    "index": 1236
+  },
+  {
+    "surface": "アレッポ",
+    "reading": "aleppo",
+    "code": "cr-kata11-1237",
+    "index": 1237
+  },
+  {
+    "surface": "クレイユ",
+    "reading": "kureiyou",
+    "code": "cr-kata11-1238",
+    "index": 1238
+  },
+  {
+    "surface": "ザールブリュッケン",
+    "reading": "zaaruburyukken",
+    "code": "cr-kata11-1239",
+    "index": 1239
+  },
+  {
+    "surface": "フラッグスタッフ",
+    "reading": "flagstaff",
+    "code": "cr-kata11-1240",
+    "index": 1240
+  },
+  {
+    "surface": "ガディングラジ",
+    "reading": "gadinguraji",
+    "code": "cr-kata11-1241",
+    "index": 1241
+  },
+  {
+    "surface": "コンコード",
+    "reading": "konkoodo",
+    "code": "cr-kata11-1242",
+    "index": 1242
+  },
+  {
+    "surface": "コロンビア・ハイツ",
+    "reading": "columbiaheights",
+    "code": "cr-kata11-1243",
+    "index": 1243
+  },
+  {
+    "surface": "ダッカ",
+    "reading": "dacca",
+    "code": "cr-kata11-1244",
+    "index": 1244
+  },
+  {
+    "surface": "サンティアゴ・デ・ベラグアス",
+    "reading": "santiagodeberaguasu",
+    "code": "cr-kata11-1245",
+    "index": 1245
+  },
+  {
+    "surface": "プラセンシア",
+    "reading": "purasenshia",
+    "code": "cr-kata11-1246",
+    "index": 1246
+  },
+  {
+    "surface": "ゲーラ",
+    "reading": "geera",
+    "code": "cr-kata11-1247",
+    "index": 1247
+  },
+  {
+    "surface": "コルラ",
+    "reading": "korura",
+    "code": "cr-kata11-1248",
+    "index": 1248
+  },
+  {
+    "surface": "アトランティックシティ",
+    "reading": "atorantikkucity",
+    "code": "cr-kata11-1249",
+    "index": 1249
+  },
+  {
+    "surface": "ハンティ・マンシースク",
+    "reading": "hantimanshiisuku",
+    "code": "cr-kata11-1250",
+    "index": 1250
+  },
+  {
+    "surface": "ミルフォード",
+    "reading": "mirufoodo",
+    "code": "cr-kata11-1251",
+    "index": 1251
+  },
+  {
+    "surface": "クラマスフォールズ",
+    "reading": "kuramasufooruzu",
+    "code": "cr-kata11-1252",
+    "index": 1252
+  },
+  {
+    "surface": "ゲイルズバーグ",
+    "reading": "geiruzubaagu",
+    "code": "cr-kata11-1253",
+    "index": 1253
+  },
+  {
+    "surface": "インゴンボタ",
+    "reading": "ingonbota",
+    "code": "cr-kata11-1254",
+    "index": 1254
+  },
+  {
+    "surface": "キンバリー",
+    "reading": "kimberley",
+    "code": "cr-kata11-1255",
+    "index": 1255
+  },
+  {
+    "surface": "デヒワラ・マウントラビニア",
+    "reading": "dehiwaramauntorabinia",
+    "code": "cr-kata11-1256",
+    "index": 1256
+  },
+  {
+    "surface": "アルコルコン",
+    "reading": "arukorukon",
+    "code": "cr-kata11-1257",
+    "index": 1257
+  },
+  {
+    "surface": "シンガ",
+    "reading": "singha",
+    "code": "cr-kata11-1258",
+    "index": 1258
+  },
+  {
+    "surface": "ディミトロフグラード",
+    "reading": "dimitrovgrade",
+    "code": "cr-kata11-1259",
+    "index": 1259
+  },
+  {
+    "surface": "カリシュ",
+    "reading": "kalishu",
+    "code": "cr-kata11-1260",
+    "index": 1260
+  },
+  {
+    "surface": "セゲラ",
+    "reading": "segalley",
+    "code": "cr-kata11-1261",
+    "index": 1261
+  },
+  {
+    "surface": "アヴィニョン",
+    "reading": "avignon",
+    "code": "cr-kata11-1262",
+    "index": 1262
+  },
+  {
+    "surface": "ナコーンラーチャシーマー",
+    "reading": "nakoonraachashiimaa",
+    "code": "cr-kata11-1263",
+    "index": 1263
+  },
+  {
+    "surface": "ガナ",
+    "reading": "gana",
+    "code": "cr-kata11-1264",
+    "index": 1264
+  },
+  {
+    "surface": "コルドバ",
+    "reading": "cordova",
+    "code": "cr-kata11-1265",
+    "index": 1265
+  },
+  {
+    "surface": "タシュケント",
+    "reading": "tashkent",
+    "code": "cr-kata11-1266",
+    "index": 1266
+  },
+  {
+    "surface": "ミラマー",
+    "reading": "miramaa",
+    "code": "cr-kata11-1267",
+    "index": 1267
+  },
+  {
+    "surface": "ヤソトン",
+    "reading": "jesuston",
+    "code": "cr-kata11-1268",
+    "index": 1268
+  },
+  {
+    "surface": "ササヅカ",
+    "reading": "sasazuka",
+    "code": "cr-kata11-1269",
+    "index": 1269
+  },
+  {
+    "surface": "バスティア",
+    "reading": "bastiat",
+    "code": "cr-kata11-1270",
+    "index": 1270
+  },
+  {
+    "surface": "ウラジーミル",
+    "reading": "vladimir",
+    "code": "cr-kata11-1271",
+    "index": 1271
+  },
+  {
+    "surface": "ウールハースナガル",
+    "reading": "uuruhaasunagaru",
+    "code": "cr-kata11-1272",
+    "index": 1272
+  },
+  {
+    "surface": "チバ",
+    "reading": "chiba",
+    "code": "cr-kata11-1273",
+    "index": 1273
+  },
+  {
+    "surface": "ディーツェンバッハ",
+    "reading": "diitsenbahha",
+    "code": "cr-kata11-1274",
+    "index": 1274
+  },
+  {
+    "surface": "パスコ",
+    "reading": "pasuko",
+    "code": "cr-kata11-1275",
+    "index": 1275
+  },
+  {
+    "surface": "ワーラーナシー",
+    "reading": "waaraanashii",
+    "code": "cr-kata11-1276",
+    "index": 1276
+  },
+  {
+    "surface": "ラメンスコエ",
+    "reading": "ramensukoe",
+    "code": "cr-kata11-1277",
+    "index": 1277
+  },
+  {
+    "surface": "プロビデンス",
+    "reading": "providence",
+    "code": "cr-kata11-1278",
+    "index": 1278
+  },
+  {
+    "surface": "バッサーノ・デル・グラッパ",
+    "reading": "wassernoderugurappa",
+    "code": "cr-kata11-1279",
+    "index": 1279
+  },
+  {
+    "surface": "アップルトン",
+    "reading": "appleton",
+    "code": "cr-kata11-1280",
+    "index": 1280
+  },
+  {
+    "surface": "ネルール",
+    "reading": "nehrule",
+    "code": "cr-kata11-1281",
+    "index": 1281
+  },
+  {
+    "surface": "ペジノク",
+    "reading": "pejinoku",
+    "code": "cr-kata11-1282",
+    "index": 1282
+  },
+  {
+    "surface": "ガローウェ",
+    "reading": "garooe",
+    "code": "cr-kata11-1283",
+    "index": 1283
+  },
+  {
+    "surface": "カルロヴィ・ヴァリ",
+    "reading": "karurovivari",
+    "code": "cr-kata11-1284",
+    "index": 1284
+  },
+  {
+    "surface": "ヴィアナ・ドゥ・カステロ",
+    "reading": "vianadukasutero",
+    "code": "cr-kata11-1285",
+    "index": 1285
+  },
+  {
+    "surface": "グルバルガ",
+    "reading": "guruvarga",
+    "code": "cr-kata11-1286",
+    "index": 1286
+  },
+  {
+    "surface": "ゲーリー",
+    "reading": "geerii",
+    "code": "cr-kata11-1287",
+    "index": 1287
+  },
+  {
+    "surface": "プレストン",
+    "reading": "preston",
+    "code": "cr-kata11-1288",
+    "index": 1288
+  },
+  {
+    "surface": "サムラオン",
+    "reading": "samraon",
+    "code": "cr-kata11-1289",
+    "index": 1289
+  },
+  {
+    "surface": "ガーヒンク・バイ・ミュンヘン",
+    "reading": "gaahinkubymunchen",
+    "code": "cr-kata11-1290",
+    "index": 1290
+  },
+  {
+    "surface": "カゼルタ",
+    "reading": "kazeruta",
+    "code": "cr-kata11-1291",
+    "index": 1291
+  },
+  {
+    "surface": "ワリ",
+    "reading": "wari",
+    "code": "cr-kata11-1292",
+    "index": 1292
+  },
+  {
+    "surface": "ジェネラル・サントス",
+    "reading": "generalsantosu",
+    "code": "cr-kata11-1293",
+    "index": 1293
+  },
+  {
+    "surface": "ウィルキンスバーグ",
+    "reading": "irukinsuvague",
+    "code": "cr-kata11-1294",
+    "index": 1294
+  },
+  {
+    "surface": "ヴェレス",
+    "reading": "veresu",
+    "code": "cr-kata11-1295",
+    "index": 1295
+  },
+  {
+    "surface": "ポワチエ",
+    "reading": "poitiers",
+    "code": "cr-kata11-1296",
+    "index": 1296
+  },
+  {
+    "surface": "バイドア",
+    "reading": "bydoor",
+    "code": "cr-kata11-1297",
+    "index": 1297
+  },
+  {
+    "surface": "ブロンテ",
+    "reading": "bronte",
+    "code": "cr-kata11-1298",
+    "index": 1298
+  },
+  {
+    "surface": "プリンストン",
+    "reading": "princeton",
+    "code": "cr-kata11-1299",
+    "index": 1299
+  },
+  {
+    "surface": "コロラドスプリングス",
+    "reading": "kororadosupuringusu",
+    "code": "cr-kata11-1300",
+    "index": 1300
+  },
+  {
+    "surface": "アイモガスタ",
+    "reading": "eyemoderngirlsuta",
+    "code": "cr-kata11-1301",
+    "index": 1301
+  },
+  {
+    "surface": "バサヴァカリヤーン",
+    "reading": "basavakariyaan",
+    "code": "cr-kata11-1302",
+    "index": 1302
+  },
+  {
+    "surface": "ダドリー",
+    "reading": "dadorii",
+    "code": "cr-kata11-1303",
+    "index": 1303
+  },
+  {
+    "surface": "ディヴィチバザール",
+    "reading": "divichibazaaru",
+    "code": "cr-kata11-1304",
+    "index": 1304
+  },
+  {
+    "surface": "ペウアホ",
+    "reading": "peuaho",
+    "code": "cr-kata11-1305",
+    "index": 1305
+  },
+  {
+    "surface": "ヴァンドーム",
+    "reading": "vindome",
+    "code": "cr-kata11-1306",
+    "index": 1306
+  },
+  {
+    "surface": "マリックビル",
+    "reading": "marikkubuilding",
+    "code": "cr-kata11-1307",
+    "index": 1307
+  },
+  {
+    "surface": "カラカス",
+    "reading": "karakasu",
+    "code": "cr-kata11-1308",
+    "index": 1308
+  },
+  {
+    "surface": "カムループス",
+    "reading": "comeruupusu",
+    "code": "cr-kata11-1309",
+    "index": 1309
+  },
+  {
+    "surface": "コーヤンブットゥール",
+    "reading": "kooyanbuttuuru",
+    "code": "cr-kata11-1310",
+    "index": 1310
+  },
+  {
+    "surface": "サウスポートランド",
+    "reading": "southpootorando",
+    "code": "cr-kata11-1311",
+    "index": 1311
+  },
+  {
+    "surface": "ハートフォード",
+    "reading": "hartford",
+    "code": "cr-kata11-1312",
+    "index": 1312
+  },
+  {
+    "surface": "ディンソール",
+    "reading": "dinsooru",
+    "code": "cr-kata11-1313",
+    "index": 1313
+  },
+  {
+    "surface": "ヴィジャヤナガラム",
+    "reading": "vijayanagaramu",
+    "code": "cr-kata11-1314",
+    "index": 1314
+  },
+  {
+    "surface": "ミナミシベツチョウ",
+    "reading": "minamishibetsuchou",
+    "code": "cr-kata11-1315",
+    "index": 1315
+  },
+  {
+    "surface": "オーベルツハウゼン",
+    "reading": "ooberutsuhauzen",
+    "code": "cr-kata11-1316",
+    "index": 1316
+  },
+  {
+    "surface": "ロッツァーノ",
+    "reading": "rottsaano",
+    "code": "cr-kata11-1317",
+    "index": 1317
+  },
+  {
+    "surface": "ラーメーシュワラム",
+    "reading": "raameeshuwaramu",
+    "code": "cr-kata11-1318",
+    "index": 1318
+  },
+  {
+    "surface": "グアヤマ",
+    "reading": "guayama",
+    "code": "cr-kata11-1319",
+    "index": 1319
+  },
+  {
+    "surface": "ウジダ",
+    "reading": "ujida",
+    "code": "cr-kata11-1320",
+    "index": 1320
+  },
+  {
+    "surface": "ラジー",
+    "reading": "raji",
+    "code": "cr-kata11-1321",
+    "index": 1321
+  },
+  {
+    "surface": "リーヴァ・デル・ガルダ",
+    "reading": "riivuderugaruda",
+    "code": "cr-kata11-1322",
+    "index": 1322
+  },
+  {
+    "surface": "ベルサンド",
+    "reading": "bellsandwich",
+    "code": "cr-kata11-1323",
+    "index": 1323
+  },
+  {
+    "surface": "インバー・グローブ・ハイツ",
+    "reading": "inbaagloveheights",
+    "code": "cr-kata11-1324",
+    "index": 1324
+  },
+  {
+    "surface": "ベラクルス",
+    "reading": "berakurusu",
+    "code": "cr-kata11-1325",
+    "index": 1325
+  },
+  {
+    "surface": "アイラビスタ",
+    "reading": "airavista",
+    "code": "cr-kata11-1326",
+    "index": 1326
+  },
+  {
+    "surface": "サンホセデジャチャル",
+    "reading": "sanhosedejacharu",
+    "code": "cr-kata11-1327",
+    "index": 1327
+  },
+  {
+    "surface": "ブリッジタウン",
+    "reading": "bridgetown",
+    "code": "cr-kata11-1328",
+    "index": 1328
+  },
+  {
+    "surface": "ピェカルィ・シロンスキェ",
+    "reading": "pekarishironsuke",
+    "code": "cr-kata11-1329",
+    "index": 1329
+  },
+  {
+    "surface": "メイウッド",
+    "reading": "maywood",
+    "code": "cr-kata11-1330",
+    "index": 1330
+  },
+  {
+    "surface": "ヤッジール",
+    "reading": "yajjiiru",
+    "code": "cr-kata11-1331",
+    "index": 1331
+  },
+  {
+    "surface": "ゲレシク",
+    "reading": "geresikh",
+    "code": "cr-kata11-1332",
+    "index": 1332
+  },
+  {
+    "surface": "シウダー・デル・エステ",
+    "reading": "shiudaaderuesute",
+    "code": "cr-kata11-1333",
+    "index": 1333
+  },
+  {
+    "surface": "リーワー",
+    "reading": "riiwaa",
+    "code": "cr-kata11-1334",
+    "index": 1334
+  },
+  {
+    "surface": "ホーフハイム・アム・タウヌス",
+    "reading": "hoofuhaimuamutaunusu",
+    "code": "cr-kata11-1335",
+    "index": 1335
+  },
+  {
+    "surface": "ハーナウ",
+    "reading": "hanau",
+    "code": "cr-kata11-1336",
+    "index": 1336
+  },
+  {
+    "surface": "ミンヂャン",
+    "reading": "minzyan",
+    "code": "cr-kata11-1337",
+    "index": 1337
+  },
+  {
+    "surface": "ドナウエッシンゲン",
+    "reading": "donaueschingen",
+    "code": "cr-kata11-1338",
+    "index": 1338
+  },
+  {
+    "surface": "マハチカラ",
+    "reading": "mahachikara",
+    "code": "cr-kata11-1339",
+    "index": 1339
+  },
+  {
+    "surface": "ショーリャヴァンダーン",
+    "reading": "shooryavandaan",
+    "code": "cr-kata11-1340",
+    "index": 1340
+  },
+  {
+    "surface": "オカハンジャ",
+    "reading": "okahanja",
+    "code": "cr-kata11-1341",
+    "index": 1341
+  },
+  {
+    "surface": "ワシントンハイツ",
+    "reading": "washingtonheights",
+    "code": "cr-kata11-1342",
+    "index": 1342
+  },
+  {
+    "surface": "ヘッシシュ・オルデンドルフ",
+    "reading": "hesshishuorudendorufu",
+    "code": "cr-kata11-1343",
+    "index": 1343
+  },
+  {
+    "surface": "サンファンバウティスタ",
+    "reading": "sanfanbautista",
+    "code": "cr-kata11-1344",
+    "index": 1344
+  },
+  {
+    "surface": "フォートマイヤーズ",
+    "reading": "fortmaiyaazu",
+    "code": "cr-kata11-1345",
+    "index": 1345
+  },
+  {
+    "surface": "アウアチャパン",
+    "reading": "auerchapan",
+    "code": "cr-kata11-1346",
+    "index": 1346
+  },
+  {
+    "surface": "デバル",
+    "reading": "desbaru",
+    "code": "cr-kata11-1347",
+    "index": 1347
+  },
+  {
+    "surface": "ルシュニャ",
+    "reading": "rushunya",
+    "code": "cr-kata11-1348",
+    "index": 1348
+  },
+  {
+    "surface": "ファーゴ",
+    "reading": "fargo",
+    "code": "cr-kata11-1349",
+    "index": 1349
+  },
+  {
+    "surface": "イラクリオン",
+    "reading": "iraqlion",
+    "code": "cr-kata11-1350",
+    "index": 1350
+  },
+  {
+    "surface": "ロコジャ",
+    "reading": "rokoja",
+    "code": "cr-kata11-1351",
+    "index": 1351
+  },
+  {
+    "surface": "アリススプリングス",
+    "reading": "alicesprings",
+    "code": "cr-kata11-1352",
+    "index": 1352
+  },
+  {
+    "surface": "ウンム・アル・カイワイン",
+    "reading": "unmuarukaiwine",
+    "code": "cr-kata11-1353",
+    "index": 1353
+  },
+  {
+    "surface": "エスコンディード",
+    "reading": "esukondiido",
+    "code": "cr-kata11-1354",
+    "index": 1354
+  },
+  {
+    "surface": "ヘウムノ",
+    "reading": "heumuno",
+    "code": "cr-kata11-1355",
+    "index": 1355
+  },
+  {
+    "surface": "カウナス",
+    "reading": "kaunas",
+    "code": "cr-kata11-1356",
+    "index": 1356
+  },
+  {
+    "surface": "シャテルロー",
+    "reading": "chatellerault",
+    "code": "cr-kata11-1357",
+    "index": 1357
+  },
+  {
+    "surface": "ティミンズ",
+    "reading": "timinzu",
+    "code": "cr-kata11-1358",
+    "index": 1358
+  },
+  {
+    "surface": "ル・ペック",
+    "reading": "lepekku",
+    "code": "cr-kata11-1359",
+    "index": 1359
+  },
+  {
+    "surface": "シビトケ",
+    "reading": "shibitoke",
+    "code": "cr-kata11-1360",
+    "index": 1360
+  },
+  {
+    "surface": "ベントンビル",
+    "reading": "bentonbuilding",
+    "code": "cr-kata11-1361",
+    "index": 1361
+  },
+  {
+    "surface": "レムエラ",
+    "reading": "remuera",
+    "code": "cr-kata11-1362",
+    "index": 1362
+  },
+  {
+    "surface": "ミラ",
+    "reading": "mira",
+    "code": "cr-kata11-1363",
+    "index": 1363
+  },
+  {
+    "surface": "シウダ・ボリバル",
+    "reading": "shiudaboribaru",
+    "code": "cr-kata11-1364",
+    "index": 1364
+  },
+  {
+    "surface": "キチェヴォ",
+    "reading": "kichevo",
+    "code": "cr-kata11-1365",
+    "index": 1365
+  },
+  {
+    "surface": "エル・パソ",
+    "reading": "erupaso",
+    "code": "cr-kata11-1366",
+    "index": 1366
+  },
+  {
+    "surface": "グライフスヴァルト",
+    "reading": "greifswald",
+    "code": "cr-kata11-1367",
+    "index": 1367
+  },
+  {
+    "surface": "ウム・エル・ブアギ",
+    "reading": "umuerubuagi",
+    "code": "cr-kata11-1368",
+    "index": 1368
+  },
+  {
+    "surface": "チンゴラ",
+    "reading": "chingora",
+    "code": "cr-kata11-1369",
+    "index": 1369
+  },
+  {
+    "surface": "キティリピ",
+    "reading": "kitiripi",
+    "code": "cr-kata11-1370",
+    "index": 1370
+  },
+  {
+    "surface": "ボパール",
+    "reading": "bhopal",
+    "code": "cr-kata11-1371",
+    "index": 1371
+  },
+  {
+    "surface": "アンバトンドラザカ",
+    "reading": "anbatondorazaka",
+    "code": "cr-kata11-1372",
+    "index": 1372
+  },
+  {
+    "surface": "ヌクス",
+    "reading": "nukusu",
+    "code": "cr-kata11-1373",
+    "index": 1373
+  },
+  {
+    "surface": "ペイス",
+    "reading": "paysu",
+    "code": "cr-kata11-1374",
+    "index": 1374
+  },
+  {
+    "surface": "ワルダー",
+    "reading": "warudaa",
+    "code": "cr-kata11-1375",
+    "index": 1375
+  },
+  {
+    "surface": "ロマリンダ",
+    "reading": "romarinda",
+    "code": "cr-kata11-1376",
+    "index": 1376
+  },
+  {
+    "surface": "ナバティエ・エット・タハタ",
+    "reading": "nabatieettotahata",
+    "code": "cr-kata11-1377",
+    "index": 1377
+  },
+  {
+    "surface": "ヒューバー・ハイツ",
+    "reading": "hyuubarheights",
+    "code": "cr-kata11-1378",
+    "index": 1378
+  },
+  {
+    "surface": "ノイシュタット・バイ・コーブルク",
+    "reading": "noishutattobycoveruku",
+    "code": "cr-kata11-1379",
+    "index": 1379
+  },
+  {
+    "surface": "コアツァコアルコス",
+    "reading": "koatsakoarukosu",
+    "code": "cr-kata11-1380",
+    "index": 1380
+  },
+  {
+    "surface": "モンテムルロ",
+    "reading": "montemururo",
+    "code": "cr-kata11-1381",
+    "index": 1381
+  },
+  {
+    "surface": "リェイダ",
+    "reading": "reida",
+    "code": "cr-kata11-1382",
+    "index": 1382
+  },
+  {
+    "surface": "ビアリッツ",
+    "reading": "biarritz",
+    "code": "cr-kata11-1383",
+    "index": 1383
+  },
+  {
+    "surface": "アブハー",
+    "reading": "abuhaa",
+    "code": "cr-kata11-1384",
+    "index": 1384
+  },
+  {
+    "surface": "ビスクラ",
+    "reading": "visclarinet",
+    "code": "cr-kata11-1385",
+    "index": 1385
+  },
+  {
+    "surface": "モンゴメリー・ヴィレッジ",
+    "reading": "montgomeryvirejji",
+    "code": "cr-kata11-1386",
+    "index": 1386
+  },
+  {
+    "surface": "オーガスタ",
+    "reading": "augusta",
+    "code": "cr-kata11-1387",
+    "index": 1387
+  },
+  {
+    "surface": "アシラー",
+    "reading": "ashiraa",
+    "code": "cr-kata11-1388",
+    "index": 1388
+  },
+  {
+    "surface": "アヌラーダプラ",
+    "reading": "anuradhapura",
+    "code": "cr-kata11-1389",
+    "index": 1389
+  },
+  {
+    "surface": "ポイントフォーティン",
+    "reading": "pointofootin",
+    "code": "cr-kata11-1390",
+    "index": 1390
+  },
+  {
+    "surface": "ビント",
+    "reading": "bint",
+    "code": "cr-kata11-1391",
+    "index": 1391
+  },
+  {
+    "surface": "プロヴィデンス",
+    "reading": "providence",
+    "code": "cr-kata11-1392",
+    "index": 1392
+  },
+  {
+    "surface": "シーダー・フォルス",
+    "reading": "cedarforusu",
+    "code": "cr-kata11-1393",
+    "index": 1393
+  },
+  {
+    "surface": "コーブルク",
+    "reading": "coveruku",
+    "code": "cr-kata11-1394",
+    "index": 1394
+  },
+  {
+    "surface": "バート・エーンハウゼン",
+    "reading": "baatoeenhauzen",
+    "code": "cr-kata11-1395",
+    "index": 1395
+  },
+  {
+    "surface": "アマイグボ",
+    "reading": "amaigubo",
+    "code": "cr-kata11-1396",
+    "index": 1396
+  },
+  {
+    "surface": "マルクトオーバードルフ",
+    "reading": "marukutooobaadorufu",
+    "code": "cr-kata11-1397",
+    "index": 1397
+  },
+  {
+    "surface": "ジンデルフィンゲン",
+    "reading": "sindelfingen",
+    "code": "cr-kata11-1398",
+    "index": 1398
+  },
+  {
+    "surface": "フォス・ド・イグアス",
+    "reading": "fosudoiguasu",
+    "code": "cr-kata11-1399",
+    "index": 1399
+  },
+  {
+    "surface": "ミヒェルシュタット",
+    "reading": "michelstadt",
+    "code": "cr-kata11-1400",
+    "index": 1400
+  },
+  {
+    "surface": "バハラク",
+    "reading": "baharaku",
+    "code": "cr-kata11-1401",
+    "index": 1401
+  },
+  {
+    "surface": "ラピッドシティ",
+    "reading": "rapiddocity",
+    "code": "cr-kata11-1402",
+    "index": 1402
+  },
+  {
+    "surface": "ムキルテオ",
+    "reading": "mukiruteo",
+    "code": "cr-kata11-1403",
+    "index": 1403
+  },
+  {
+    "surface": "キリス",
+    "reading": "kirisu",
+    "code": "cr-kata11-1404",
+    "index": 1404
+  },
+  {
+    "surface": "レオガン",
+    "reading": "leogan",
+    "code": "cr-kata11-1405",
+    "index": 1405
+  },
+  {
+    "surface": "フロンティニャン",
+    "reading": "furontinyan",
+    "code": "cr-kata11-1406",
+    "index": 1406
+  },
+  {
+    "surface": "ヘラート",
+    "reading": "heraato",
+    "code": "cr-kata11-1407",
+    "index": 1407
+  },
+  {
+    "surface": "ラアス・タンヌーラ",
+    "reading": "raasutannuura",
+    "code": "cr-kata11-1408",
+    "index": 1408
+  },
+  {
+    "surface": "メディナ・デル・カンポ",
+    "reading": "medinaderucampo",
+    "code": "cr-kata11-1409",
+    "index": 1409
+  },
+  {
+    "surface": "フェデラルウェイ",
+    "reading": "federalway",
+    "code": "cr-kata11-1410",
+    "index": 1410
+  },
+  {
+    "surface": "サンタ・クルス・デ・バラホナ",
+    "reading": "saintkurusudebarahona",
+    "code": "cr-kata11-1411",
+    "index": 1411
+  },
+  {
+    "surface": "サーリー",
+    "reading": "sari",
+    "code": "cr-kata11-1412",
+    "index": 1412
+  },
+  {
+    "surface": "カボ",
+    "reading": "kabo",
+    "code": "cr-kata11-1413",
+    "index": 1413
+  },
+  {
+    "surface": "サウスバーリントン",
+    "reading": "southburlington",
+    "code": "cr-kata11-1414",
+    "index": 1414
+  },
+  {
+    "surface": "マーサーアイランド",
+    "reading": "maasaaisland",
+    "code": "cr-kata11-1415",
+    "index": 1415
+  },
+  {
+    "surface": "デイナポイント",
+    "reading": "deinapoint",
+    "code": "cr-kata11-1416",
+    "index": 1416
+  },
+  {
+    "surface": "シャーロットタウン",
+    "reading": "shaarottotown",
+    "code": "cr-kata11-1417",
+    "index": 1417
+  },
+  {
+    "surface": "ポートアーサー",
+    "reading": "portarthur",
+    "code": "cr-kata11-1418",
+    "index": 1418
+  },
+  {
+    "surface": "サール",
+    "reading": "searle",
+    "code": "cr-kata11-1419",
+    "index": 1419
+  },
+  {
+    "surface": "カロリナ",
+    "reading": "karorina",
+    "code": "cr-kata11-1420",
+    "index": 1420
+  },
+  {
+    "surface": "ウジツェ",
+    "reading": "ujitse",
+    "code": "cr-kata11-1421",
+    "index": 1421
+  },
+  {
+    "surface": "ケートマンスフープ",
+    "reading": "keetomansufuupu",
+    "code": "cr-kata11-1422",
+    "index": 1422
+  },
+  {
+    "surface": "エルケフ",
+    "reading": "erukefu",
+    "code": "cr-kata11-1423",
+    "index": 1423
+  },
+  {
+    "surface": "バート・ゾーデン・アム・タウヌス",
+    "reading": "baatozoodenamutaunusu",
+    "code": "cr-kata11-1424",
+    "index": 1424
+  },
+  {
+    "surface": "バトマン",
+    "reading": "batoman",
+    "code": "cr-kata11-1425",
+    "index": 1425
+  },
+  {
+    "surface": "アラオ",
+    "reading": "arao",
+    "code": "cr-kata11-1426",
+    "index": 1426
+  },
+  {
+    "surface": "フェルガナ",
+    "reading": "ferugana",
+    "code": "cr-kata11-1427",
+    "index": 1427
+  },
+  {
+    "surface": "テベン・メアンチェ",
+    "reading": "tebenmeanche",
+    "code": "cr-kata11-1428",
+    "index": 1428
+  },
+  {
+    "surface": "イヴァノヴォ",
+    "reading": "ivanovo",
+    "code": "cr-kata11-1429",
+    "index": 1429
+  },
+  {
+    "surface": "クラスノズナメンスク",
+    "reading": "kurasunozunamensuku",
+    "code": "cr-kata11-1430",
+    "index": 1430
+  },
+  {
+    "surface": "キゴマ",
+    "reading": "kigoma",
+    "code": "cr-kata11-1431",
+    "index": 1431
+  },
+  {
+    "surface": "ウプサラ",
+    "reading": "uppsala",
+    "code": "cr-kata11-1432",
+    "index": 1432
+  },
+  {
+    "surface": "ドゥランゴ",
+    "reading": "durango",
+    "code": "cr-kata11-1433",
+    "index": 1433
+  },
+  {
+    "surface": "チェスケー・ブデヨヴィツェ",
+    "reading": "chesukeebudeyovitse",
+    "code": "cr-kata11-1434",
+    "index": 1434
+  },
+  {
+    "surface": "シャルム・エル・シェイク",
+    "reading": "charmeerusheiku",
+    "code": "cr-kata11-1435",
+    "index": 1435
+  },
+  {
+    "surface": "ジラ",
+    "reading": "jira",
+    "code": "cr-kata11-1436",
+    "index": 1436
+  },
+  {
+    "surface": "アトバラ",
+    "reading": "atbara",
+    "code": "cr-kata11-1437",
+    "index": 1437
+  },
+  {
+    "surface": "タイニン",
+    "reading": "tainin",
+    "code": "cr-kata11-1438",
+    "index": 1438
+  },
+  {
+    "surface": "イタバシ",
+    "reading": "itabashi",
+    "code": "cr-kata11-1439",
+    "index": 1439
+  },
+  {
+    "surface": "バンダールランプン",
+    "reading": "bandaaruranpun",
+    "code": "cr-kata11-1440",
+    "index": 1440
+  },
+  {
+    "surface": "ヘトウラ",
+    "reading": "hetoura",
+    "code": "cr-kata11-1441",
+    "index": 1441
+  },
+  {
+    "surface": "レケナ",
+    "reading": "rekena",
+    "code": "cr-kata11-1442",
+    "index": 1442
+  },
+  {
+    "surface": "グランドアイランド",
+    "reading": "grandisland",
+    "code": "cr-kata11-1443",
+    "index": 1443
+  },
+  {
+    "surface": "コルバッハ",
+    "reading": "korubahha",
+    "code": "cr-kata11-1444",
+    "index": 1444
+  },
+  {
+    "surface": "モリオカシ",
+    "reading": "moriokashi",
+    "code": "cr-kata11-1445",
+    "index": 1445
+  },
+  {
+    "surface": "ケニウィック",
+    "reading": "keniikku",
+    "code": "cr-kata11-1446",
+    "index": 1446
+  },
+  {
+    "surface": "ボルガン",
+    "reading": "borugun",
+    "code": "cr-kata11-1447",
+    "index": 1447
+  },
+  {
+    "surface": "ロビト",
+    "reading": "lobito",
+    "code": "cr-kata11-1448",
+    "index": 1448
+  },
+  {
+    "surface": "ブフテア",
+    "reading": "bufutea",
+    "code": "cr-kata11-1449",
+    "index": 1449
+  },
+  {
+    "surface": "シカソ",
+    "reading": "shikasoviet",
+    "code": "cr-kata11-1450",
+    "index": 1450
+  },
+  {
+    "surface": "ドゥラスノ",
+    "reading": "durasuno",
+    "code": "cr-kata11-1451",
+    "index": 1451
+  },
+  {
+    "surface": "ブラワヨ",
+    "reading": "burawayo",
+    "code": "cr-kata11-1452",
+    "index": 1452
+  },
+  {
+    "surface": "スパニッシュ・ハーレム",
+    "reading": "spanishharem",
+    "code": "cr-kata11-1453",
+    "index": 1453
+  },
+  {
+    "surface": "サン・フェルナンド・デ・アプーレ",
+    "reading": "sunferunandodesapoulet",
+    "code": "cr-kata11-1454",
+    "index": 1454
+  },
+  {
+    "surface": "ポチェフストルーム",
+    "reading": "pochefusutoruumu",
+    "code": "cr-kata11-1455",
+    "index": 1455
+  },
+  {
+    "surface": "レー",
+    "reading": "ree",
+    "code": "cr-kata11-1456",
+    "index": 1456
+  },
+  {
+    "surface": "ピッシーノラ",
+    "reading": "pisshiinora",
+    "code": "cr-kata11-1457",
+    "index": 1457
+  },
+  {
+    "surface": "サンツ・ムンジュイック",
+    "reading": "santsumunjuikku",
+    "code": "cr-kata11-1458",
+    "index": 1458
+  },
+  {
+    "surface": "ブレイデントン",
+    "reading": "bureidenton",
+    "code": "cr-kata11-1459",
+    "index": 1459
+  },
+  {
+    "surface": "ホメリ",
+    "reading": "homeri",
+    "code": "cr-kata11-1460",
+    "index": 1460
+  },
+  {
+    "surface": "ロメ",
+    "reading": "lome",
+    "code": "cr-kata11-1461",
+    "index": 1461
+  },
+  {
+    "surface": "マンダレー",
+    "reading": "mandalay",
+    "code": "cr-kata11-1462",
+    "index": 1462
+  },
+  {
+    "surface": "アウランガーバード",
+    "reading": "aurangaabaado",
+    "code": "cr-kata11-1463",
+    "index": 1463
+  },
+  {
+    "surface": "トクピタ",
+    "reading": "tokupita",
+    "code": "cr-kata11-1464",
+    "index": 1464
+  },
+  {
+    "surface": "トッレ・デル・グレーコ",
+    "reading": "torrederugureeko",
+    "code": "cr-kata11-1465",
+    "index": 1465
+  },
+  {
+    "surface": "ヴェリカ・ゴリツァ",
+    "reading": "verikagoritsa",
+    "code": "cr-kata11-1466",
+    "index": 1466
+  },
+  {
+    "surface": "モロ",
+    "reading": "moro",
+    "code": "cr-kata11-1467",
+    "index": 1467
+  },
+  {
+    "surface": "ディヌーバ",
+    "reading": "dinuuba",
+    "code": "cr-kata11-1468",
+    "index": 1468
+  },
+  {
+    "surface": "ピワ",
+    "reading": "piwa",
+    "code": "cr-kata11-1469",
+    "index": 1469
+  },
+  {
+    "surface": "サンホセ",
+    "reading": "sanhose",
+    "code": "cr-kata11-1470",
+    "index": 1470
+  },
+  {
+    "surface": "マルベーリャ",
+    "reading": "marubeerya",
+    "code": "cr-kata11-1471",
+    "index": 1471
+  },
+  {
+    "surface": "キリヤット・シュモナ",
+    "reading": "kiriyattoshumona",
+    "code": "cr-kata11-1472",
+    "index": 1472
+  },
+  {
+    "surface": "ドミトロフ",
+    "reading": "domitorofu",
+    "code": "cr-kata11-1473",
+    "index": 1473
+  },
+  {
+    "surface": "ローワーハット",
+    "reading": "roowaahat",
+    "code": "cr-kata11-1474",
+    "index": 1474
+  },
+  {
+    "surface": "メロ",
+    "reading": "melody",
+    "code": "cr-kata11-1475",
+    "index": 1475
+  },
+  {
+    "surface": "バーデン・バイ・ウィーン",
+    "reading": "baadenbywien",
+    "code": "cr-kata11-1476",
+    "index": 1476
+  },
+  {
+    "surface": "トリニダ",
+    "reading": "torinida",
+    "code": "cr-kata11-1477",
+    "index": 1477
+  },
+  {
+    "surface": "ノーラ",
+    "reading": "noora",
+    "code": "cr-kata11-1478",
+    "index": 1478
+  },
+  {
+    "surface": "サンバーナーディーノ",
+    "reading": "sanbaanaadiino",
+    "code": "cr-kata11-1479",
+    "index": 1479
+  },
+  {
+    "surface": "ディアパガ",
+    "reading": "diapaga",
+    "code": "cr-kata11-1480",
+    "index": 1480
+  },
+  {
+    "surface": "ビトリス",
+    "reading": "bitorisu",
+    "code": "cr-kata11-1481",
+    "index": 1481
+  },
+  {
+    "surface": "ゴンベ",
+    "reading": "gombe",
+    "code": "cr-kata11-1482",
+    "index": 1482
+  },
+  {
+    "surface": "ニュー・ロンドン",
+    "reading": "newlondon",
+    "code": "cr-kata11-1483",
+    "index": 1483
+  },
+  {
+    "surface": "シェルビービル",
+    "reading": "chezrubybuilding",
+    "code": "cr-kata11-1484",
+    "index": 1484
+  },
+  {
+    "surface": "カタラガマ",
+    "reading": "kataragama",
+    "code": "cr-kata11-1485",
+    "index": 1485
+  },
+  {
+    "surface": "ノヴォモスコフスク",
+    "reading": "novomosukofusuku",
+    "code": "cr-kata11-1486",
+    "index": 1486
+  },
+  {
+    "surface": "ブリッジトン",
+    "reading": "bridgeton",
+    "code": "cr-kata11-1487",
+    "index": 1487
+  },
+  {
+    "surface": "クラーゲンフルト",
+    "reading": "kuraagenfuruto",
+    "code": "cr-kata11-1488",
+    "index": 1488
+  },
+  {
+    "surface": "アランヤ",
+    "reading": "alainya",
+    "code": "cr-kata11-1489",
+    "index": 1489
+  },
+  {
+    "surface": "ジェール",
+    "reading": "jeeru",
+    "code": "cr-kata11-1490",
+    "index": 1490
+  },
+  {
+    "surface": "トリヤッチ",
+    "reading": "toriyatchi",
+    "code": "cr-kata11-1491",
+    "index": 1491
+  },
+  {
+    "surface": "チェーホフ",
+    "reading": "chekhov",
+    "code": "cr-kata11-1492",
+    "index": 1492
+  },
+  {
+    "surface": "トマ",
+    "reading": "thomas",
+    "code": "cr-kata11-1493",
+    "index": 1493
+  },
+  {
+    "surface": "サンレーモ",
+    "reading": "sanremo",
+    "code": "cr-kata11-1494",
+    "index": 1494
+  },
+  {
+    "surface": "マートルビーチ",
+    "reading": "martlebeach",
+    "code": "cr-kata11-1495",
+    "index": 1495
+  },
+  {
+    "surface": "ランゲン",
+    "reading": "rangen",
+    "code": "cr-kata11-1496",
+    "index": 1496
+  },
+  {
+    "surface": "ブドヴァ",
+    "reading": "budova",
+    "code": "cr-kata11-1497",
+    "index": 1497
+  },
+  {
+    "surface": "ピュ",
+    "reading": "pyu",
+    "code": "cr-kata11-1498",
+    "index": 1498
+  },
+  {
+    "surface": "クイニョン",
+    "reading": "quinhon",
+    "code": "cr-kata11-1499",
+    "index": 1499
+  },
+  {
+    "surface": "アスル",
+    "reading": "azul",
+    "code": "cr-kata11-1500",
+    "index": 1500
+  },
+  {
+    "surface": "テベッサ",
+    "reading": "tebessa",
+    "code": "cr-kata11-1501",
+    "index": 1501
+  },
+  {
+    "surface": "ウォーターフォード",
+    "reading": "waterford",
+    "code": "cr-kata11-1502",
+    "index": 1502
+  },
+  {
+    "surface": "コヴェントリー",
+    "reading": "koventorii",
+    "code": "cr-kata11-1503",
+    "index": 1503
+  },
+  {
+    "surface": "コトラス",
+    "reading": "kotolath",
+    "code": "cr-kata11-1504",
+    "index": 1504
+  },
+  {
+    "surface": "サンダーランド",
+    "reading": "sandaarando",
+    "code": "cr-kata11-1505",
+    "index": 1505
+  },
+  {
+    "surface": "バレーリー",
+    "reading": "volleylee",
+    "code": "cr-kata11-1506",
+    "index": 1506
+  },
+  {
+    "surface": "ザリンジャイ",
+    "reading": "zarinjai",
+    "code": "cr-kata11-1507",
+    "index": 1507
+  },
+  {
+    "surface": "サケオ",
+    "reading": "sakeo",
+    "code": "cr-kata11-1508",
+    "index": 1508
+  },
+  {
+    "surface": "ウードゥル",
+    "reading": "uuduru",
+    "code": "cr-kata11-1509",
+    "index": 1509
+  },
+  {
+    "surface": "マチャラ",
+    "reading": "machara",
+    "code": "cr-kata11-1510",
+    "index": 1510
+  },
+  {
+    "surface": "ブランチャーズタウン",
+    "reading": "buranchaazutaun",
+    "code": "cr-kata11-1511",
+    "index": 1511
+  },
+  {
+    "surface": "ケアンズ",
+    "reading": "cairns",
+    "code": "cr-kata11-1512",
+    "index": 1512
+  },
+  {
+    "surface": "リゼ",
+    "reading": "rize",
+    "code": "cr-kata11-1513",
+    "index": 1513
+  },
+  {
+    "surface": "スタロガルド・グダニスキ",
+    "reading": "sutarogarudogudanisuki",
+    "code": "cr-kata11-1514",
+    "index": 1514
+  },
+  {
+    "surface": "テレジーナ",
+    "reading": "terejiina",
+    "code": "cr-kata11-1515",
+    "index": 1515
+  },
+  {
+    "surface": "ボールドウィンパーク",
+    "reading": "baldwinpark",
+    "code": "cr-kata11-1516",
+    "index": 1516
+  },
+  {
+    "surface": "ラングソン",
+    "reading": "ranguson",
+    "code": "cr-kata11-1517",
+    "index": 1517
+  },
+  {
+    "surface": "プエルト・ナターレス",
+    "reading": "puerutonataaresu",
+    "code": "cr-kata11-1518",
+    "index": 1518
+  },
+  {
+    "surface": "ビトリア",
+    "reading": "bitorear",
+    "code": "cr-kata11-1519",
+    "index": 1519
+  },
+  {
+    "surface": "フレゼリクスハウン",
+    "reading": "furezerikusuhaun",
+    "code": "cr-kata11-1520",
+    "index": 1520
+  },
+  {
+    "surface": "ズギェシ",
+    "reading": "zugeshi",
+    "code": "cr-kata11-1521",
+    "index": 1521
+  },
+  {
+    "surface": "ウェルコム",
+    "reading": "wellcom",
+    "code": "cr-kata11-1522",
+    "index": 1522
+  },
+  {
+    "surface": "サウスサンフランシスコ",
+    "reading": "southsanfuranshisuko",
+    "code": "cr-kata11-1523",
+    "index": 1523
+  },
+  {
+    "surface": "ベインティシンコ・デ・マヨ",
+    "reading": "beintishinkodemayo",
+    "code": "cr-kata11-1524",
+    "index": 1524
+  },
+  {
+    "surface": "チパタ",
+    "reading": "chipata",
+    "code": "cr-kata11-1525",
+    "index": 1525
+  },
+  {
+    "surface": "キングマン",
+    "reading": "kingman",
+    "code": "cr-kata11-1526",
+    "index": 1526
+  },
+  {
+    "surface": "ノヴォグラード・ヴォルィンスキー",
+    "reading": "novoguraadovorinsukii",
+    "code": "cr-kata11-1527",
+    "index": 1527
+  },
+  {
+    "surface": "スーク・アハラス",
+    "reading": "suqaharasu",
+    "code": "cr-kata11-1528",
+    "index": 1528
+  },
+  {
+    "surface": "ゴグリアル",
+    "reading": "gogreal",
+    "code": "cr-kata11-1529",
+    "index": 1529
+  },
+  {
+    "surface": "ズシ",
+    "reading": "zushi",
+    "code": "cr-kata11-1530",
+    "index": 1530
+  },
+  {
+    "surface": "ミンナ",
+    "reading": "minna",
+    "code": "cr-kata11-1531",
+    "index": 1531
+  },
+  {
+    "surface": "ピウラ",
+    "reading": "piura",
+    "code": "cr-kata11-1532",
+    "index": 1532
+  },
+  {
+    "surface": "リジュー",
+    "reading": "risjew",
+    "code": "cr-kata11-1533",
+    "index": 1533
+  },
+  {
+    "surface": "ナビムンバイ",
+    "reading": "navigationmunby",
+    "code": "cr-kata11-1534",
+    "index": 1534
+  },
+  {
+    "surface": "バンクスタウン",
+    "reading": "bankusutown",
+    "code": "cr-kata11-1535",
+    "index": 1535
+  },
+  {
+    "surface": "シャーロット・アマリー",
+    "reading": "shaarottoamateurlee",
+    "code": "cr-kata11-1536",
+    "index": 1536
+  },
+  {
+    "surface": "ナーガッパッティナム",
+    "reading": "naagappattinamu",
+    "code": "cr-kata11-1537",
+    "index": 1537
+  },
+  {
+    "surface": "バクザン",
+    "reading": "bakuzan",
+    "code": "cr-kata11-1538",
+    "index": 1538
+  },
+  {
+    "surface": "コモ",
+    "reading": "komo",
+    "code": "cr-kata11-1539",
+    "index": 1539
+  },
+  {
+    "surface": "シリストラ",
+    "reading": "shirestructuring",
+    "code": "cr-kata11-1540",
+    "index": 1540
+  },
+  {
+    "surface": "サンタナ・ド・リヴラメント",
+    "reading": "santanadorivuramento",
+    "code": "cr-kata11-1541",
+    "index": 1541
+  },
+  {
+    "surface": "ピャーポン",
+    "reading": "pyaapon",
+    "code": "cr-kata11-1542",
+    "index": 1542
+  },
+  {
+    "surface": "キングスウィンフォード",
+    "reading": "kingwinford",
+    "code": "cr-kata11-1543",
+    "index": 1543
+  },
+  {
+    "surface": "アンティグア・グアテマラ",
+    "reading": "antiguaguatemala",
+    "code": "cr-kata11-1544",
+    "index": 1544
+  },
+  {
+    "surface": "カナダ・デ・ゴメス",
+    "reading": "canadadesgomesu",
+    "code": "cr-kata11-1545",
+    "index": 1545
+  },
+  {
+    "surface": "ルディヤーナー",
+    "reading": "rudiyaana",
+    "code": "cr-kata11-1546",
+    "index": 1546
+  },
+  {
+    "surface": "フルーヒウ",
+    "reading": "furuuhiu",
+    "code": "cr-kata11-1547",
+    "index": 1547
+  },
+  {
+    "surface": "マリンガ",
+    "reading": "maringa",
+    "code": "cr-kata11-1548",
+    "index": 1548
+  },
+  {
+    "surface": "ベイジングストーク",
+    "reading": "beijingustork",
+    "code": "cr-kata11-1549",
+    "index": 1549
+  },
+  {
+    "surface": "ンダラタンド",
+    "reading": "ndaratando",
+    "code": "cr-kata11-1550",
+    "index": 1550
+  },
+  {
+    "surface": "バリャドリッド",
+    "reading": "baryadoriddo",
+    "code": "cr-kata11-1551",
+    "index": 1551
+  },
+  {
+    "surface": "タルディコルガン",
+    "reading": "tarudikorugan",
+    "code": "cr-kata11-1552",
+    "index": 1552
+  },
+  {
+    "surface": "ベト・シェアン",
+    "reading": "betochezanne",
+    "code": "cr-kata11-1553",
+    "index": 1553
+  },
+  {
+    "surface": "ブダペスト",
+    "reading": "budapest",
+    "code": "cr-kata11-1554",
+    "index": 1554
+  },
+  {
+    "surface": "カラーテ・ブリアンツァ",
+    "reading": "colorteaburiantsa",
+    "code": "cr-kata11-1555",
+    "index": 1555
+  },
+  {
+    "surface": "イバゲ",
+    "reading": "ibage",
+    "code": "cr-kata11-1556",
+    "index": 1556
+  },
+  {
+    "surface": "ウスリースク",
+    "reading": "usuriischooling",
+    "code": "cr-kata11-1557",
+    "index": 1557
+  },
+  {
+    "surface": "ワイパフ",
+    "reading": "waipafu",
+    "code": "cr-kata11-1558",
+    "index": 1558
+  },
+  {
+    "surface": "シディ・ベル・アッバス",
+    "reading": "shidebellabbasu",
+    "code": "cr-kata11-1559",
+    "index": 1559
+  },
+  {
+    "surface": "マオ",
+    "reading": "mao",
+    "code": "cr-kata11-1560",
+    "index": 1560
+  },
+  {
+    "surface": "フローニンゲン",
+    "reading": "groningen",
+    "code": "cr-kata11-1561",
+    "index": 1561
+  },
+  {
+    "surface": "ジャマルプル",
+    "reading": "jamalpull",
+    "code": "cr-kata11-1562",
+    "index": 1562
+  },
+  {
+    "surface": "ヘレス・デ・ラ・フロンテーラ",
+    "reading": "jerezderafuronteera",
+    "code": "cr-kata11-1563",
+    "index": 1563
+  },
+  {
+    "surface": "トゥールコワン",
+    "reading": "torukoone",
+    "code": "cr-kata11-1564",
+    "index": 1564
+  },
+  {
+    "surface": "コンコルド",
+    "reading": "concorde",
+    "code": "cr-kata11-1565",
+    "index": 1565
+  },
+  {
+    "surface": "パンタン",
+    "reading": "paotongue",
+    "code": "cr-kata11-1566",
+    "index": 1566
+  },
+  {
+    "surface": "デポック",
+    "reading": "depokku",
+    "code": "cr-kata11-1567",
+    "index": 1567
+  },
+  {
+    "surface": "マレ",
+    "reading": "maree",
+    "code": "cr-kata11-1568",
+    "index": 1568
+  },
+  {
+    "surface": "ハンティントンビーチ",
+    "reading": "huntingtonbeach",
+    "code": "cr-kata11-1569",
+    "index": 1569
+  },
+  {
+    "surface": "セントラルフォールズ",
+    "reading": "centralfall",
+    "code": "cr-kata11-1570",
+    "index": 1570
+  },
+  {
+    "surface": "ペタルーマ",
+    "reading": "petaruuma",
+    "code": "cr-kata11-1571",
+    "index": 1571
+  },
+  {
+    "surface": "ヨンカーズ",
+    "reading": "yonkers",
+    "code": "cr-kata11-1572",
+    "index": 1572
+  },
+  {
+    "surface": "ラ・フレーシュ",
+    "reading": "rafresh",
+    "code": "cr-kata11-1573",
+    "index": 1573
+  },
+  {
+    "surface": "ルートヴィッヒスハーフェン",
+    "reading": "ruutovihhisuhaafen",
+    "code": "cr-kata11-1574",
+    "index": 1574
+  },
+  {
+    "surface": "ゴハッド",
+    "reading": "gohaddo",
+    "code": "cr-kata11-1575",
+    "index": 1575
+  },
+  {
+    "surface": "ジボ",
+    "reading": "jibo",
+    "code": "cr-kata11-1576",
+    "index": 1576
+  },
+  {
+    "surface": "ウェストフィールド",
+    "reading": "westfield",
+    "code": "cr-kata11-1577",
+    "index": 1577
+  },
+  {
+    "surface": "クストヴォ",
+    "reading": "kusutovo",
+    "code": "cr-kata11-1578",
+    "index": 1578
+  },
+  {
+    "surface": "ロストフ・ナ・ドヌ",
+    "reading": "rostovnadonu",
+    "code": "cr-kata11-1579",
+    "index": 1579
+  },
+  {
+    "surface": "ドン・ベニート",
+    "reading": "donbeniito",
+    "code": "cr-kata11-1580",
+    "index": 1580
+  }
+]

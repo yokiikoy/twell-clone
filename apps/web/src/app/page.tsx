@@ -26,9 +26,13 @@ export default function Home() {
           （MIT））。
         </p>
         <p className="mt-1.5 text-xs leading-relaxed text-zinc-600">
-          ワードセットは現状、本家をデコンパイルして抽出した語表（
+          ワードセットは既定で本家デコンパイル由来の語表（
           <code className="rounded bg-zinc-200 px-1 text-zinc-800">public/twelljr-*.json</code>
-          ）を用いていますが、いずれクリーンルーム化した独自供出へ置き換える予定です。
+          ）。環境変数{" "}
+          <code className="rounded bg-zinc-200 px-1 text-zinc-800">NEXT_PUBLIC_WORDSET=cleanroom</code>
+          で <code className="rounded bg-zinc-200 px-1 text-zinc-800">public/cleanroom/</code>
+          のオープンライセンス系プレースホルダへ切替可能です（詳細は{" "}
+          <code className="rounded bg-zinc-200 px-1 text-zinc-800">docs/cleanroom/</code>）。
         </p>
       </header>
       <TypingCanvas />

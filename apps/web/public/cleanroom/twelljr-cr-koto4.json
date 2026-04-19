@@ -1,0 +1,4484 @@
+[
+  {
+    "surface": "自己顕示",
+    "reading": "jikokenji",
+    "code": "cr-koto4-0",
+    "index": 0
+  },
+  {
+    "surface": "一石二鳥",
+    "reading": "ichikokunichou",
+    "code": "cr-koto4-1",
+    "index": 1
+  },
+  {
+    "surface": "極悪非道",
+    "reading": "gokuakuhidou",
+    "code": "cr-koto4-2",
+    "index": 2
+  },
+  {
+    "surface": "千古不抜",
+    "reading": "senkofubatsu",
+    "code": "cr-koto4-3",
+    "index": 3
+  },
+  {
+    "surface": "閑雲野鶴",
+    "reading": "kanunyakaku",
+    "code": "cr-koto4-4",
+    "index": 4
+  },
+  {
+    "surface": "一利一害",
+    "reading": "ichiriichigai",
+    "code": "cr-koto4-5",
+    "index": 5
+  },
+  {
+    "surface": "門外不出",
+    "reading": "mongaifushutsu",
+    "code": "cr-koto4-6",
+    "index": 6
+  },
+  {
+    "surface": "国士無双",
+    "reading": "kokushimusou",
+    "code": "cr-koto4-7",
+    "index": 7
+  },
+  {
+    "surface": "経世済民",
+    "reading": "keiseisaimin",
+    "code": "cr-koto4-8",
+    "index": 8
+  },
+  {
+    "surface": "死屍累累",
+    "reading": "shishiruirui",
+    "code": "cr-koto4-9",
+    "index": 9
+  },
+  {
+    "surface": "極楽往生",
+    "reading": "gokurakuoujou",
+    "code": "cr-koto4-10",
+    "index": 10
+  },
+  {
+    "surface": "汚名返上",
+    "reading": "omeihenjou",
+    "code": "cr-koto4-11",
+    "index": 11
+  },
+  {
+    "surface": "私利私欲",
+    "reading": "shirishiyoku",
+    "code": "cr-koto4-12",
+    "index": 12
+  },
+  {
+    "surface": "前途洋洋",
+    "reading": "zentoyouyou",
+    "code": "cr-koto4-13",
+    "index": 13
+  },
+  {
+    "surface": "自己弁護",
+    "reading": "jikobengo",
+    "code": "cr-koto4-14",
+    "index": 14
+  },
+  {
+    "surface": "千射万箭",
+    "reading": "senshayorozuya",
+    "code": "cr-koto4-15",
+    "index": 15
+  },
+  {
+    "surface": "物見遊山",
+    "reading": "monomiyusan",
+    "code": "cr-koto4-16",
+    "index": 16
+  },
+  {
+    "surface": "言行一致",
+    "reading": "genkouitchi",
+    "code": "cr-koto4-17",
+    "index": 17
+  },
+  {
+    "surface": "未来永劫",
+    "reading": "miraieigou",
+    "code": "cr-koto4-18",
+    "index": 18
+  },
+  {
+    "surface": "義理人情",
+    "reading": "girininjou",
+    "code": "cr-koto4-19",
+    "index": 19
+  },
+  {
+    "surface": "冥然兀坐",
+    "reading": "meizenkotsuza",
+    "code": "cr-koto4-20",
+    "index": 20
+  },
+  {
+    "surface": "喧喧囂囂",
+    "reading": "kenkengougou",
+    "code": "cr-koto4-21",
+    "index": 21
+  },
+  {
+    "surface": "万世不易",
+    "reading": "manseifueki",
+    "code": "cr-koto4-22",
+    "index": 22
+  },
+  {
+    "surface": "東奔西走",
+    "reading": "touhonseisou",
+    "code": "cr-koto4-23",
+    "index": 23
+  },
+  {
+    "surface": "永久不変",
+    "reading": "eikyuufuhen",
+    "code": "cr-koto4-24",
+    "index": 24
+  },
+  {
+    "surface": "疾風迅雷",
+    "reading": "shippuujinrai",
+    "code": "cr-koto4-25",
+    "index": 25
+  },
+  {
+    "surface": "自家撞着",
+    "reading": "jikadouchaku",
+    "code": "cr-koto4-26",
+    "index": 26
+  },
+  {
+    "surface": "懇切丁寧",
+    "reading": "konsetsuteinei",
+    "code": "cr-koto4-27",
+    "index": 27
+  },
+  {
+    "surface": "嘉辰令月",
+    "reading": "kashinreigatsu",
+    "code": "cr-koto4-28",
+    "index": 28
+  },
+  {
+    "surface": "星河一天",
+    "reading": "hoshikawaitten",
+    "code": "cr-koto4-29",
+    "index": 29
+  },
+  {
+    "surface": "千言万語",
+    "reading": "sengenmango",
+    "code": "cr-koto4-30",
+    "index": 30
+  },
+  {
+    "surface": "蛙鳴蝉噪",
+    "reading": "kawazunarusemi",
+    "code": "cr-koto4-31",
+    "index": 31
+  },
+  {
+    "surface": "眼光炯炯",
+    "reading": "gankoukeikei",
+    "code": "cr-koto4-32",
+    "index": 32
+  },
+  {
+    "surface": "感慨無量",
+    "reading": "kangaimuryou",
+    "code": "cr-koto4-33",
+    "index": 33
+  },
+  {
+    "surface": "生生世世",
+    "reading": "shoujouseisei",
+    "code": "cr-koto4-34",
+    "index": 34
+  },
+  {
+    "surface": "快刀乱麻",
+    "reading": "kaitouranma",
+    "code": "cr-koto4-35",
+    "index": 35
+  },
+  {
+    "surface": "品行方正",
+    "reading": "hinkouhousei",
+    "code": "cr-koto4-36",
+    "index": 36
+  },
+  {
+    "surface": "断崖絶壁",
+    "reading": "dangaizeppeki",
+    "code": "cr-koto4-37",
+    "index": 37
+  },
+  {
+    "surface": "色即是空",
+    "reading": "shikisokuzekuu",
+    "code": "cr-koto4-38",
+    "index": 38
+  },
+  {
+    "surface": "群雄割拠",
+    "reading": "gunyuukakkyo",
+    "code": "cr-koto4-39",
+    "index": 39
+  },
+  {
+    "surface": "六臓六腑",
+    "reading": "rokuzouroppu",
+    "code": "cr-koto4-40",
+    "index": 40
+  },
+  {
+    "surface": "白黒分明",
+    "reading": "shirokurofunmyou",
+    "code": "cr-koto4-41",
+    "index": 41
+  },
+  {
+    "surface": "金石糸竹",
+    "reading": "kaneishishichiku",
+    "code": "cr-koto4-42",
+    "index": 42
+  },
+  {
+    "surface": "半官半民",
+    "reading": "hankanhanmin",
+    "code": "cr-koto4-43",
+    "index": 43
+  },
+  {
+    "surface": "切歯痛憤",
+    "reading": "sesshitsuufun",
+    "code": "cr-koto4-44",
+    "index": 44
+  },
+  {
+    "surface": "悪因悪果",
+    "reading": "akuinakka",
+    "code": "cr-koto4-45",
+    "index": 45
+  },
+  {
+    "surface": "暗中模索",
+    "reading": "anchuumosaku",
+    "code": "cr-koto4-46",
+    "index": 46
+  },
+  {
+    "surface": "天罰覿面",
+    "reading": "tenbatsutekimen",
+    "code": "cr-koto4-47",
+    "index": 47
+  },
+  {
+    "surface": "意気銷沈",
+    "reading": "ikishouchin",
+    "code": "cr-koto4-48",
+    "index": 48
+  },
+  {
+    "surface": "造次顛沛",
+    "reading": "zoujitenpai",
+    "code": "cr-koto4-49",
+    "index": 49
+  },
+  {
+    "surface": "一汁一菜",
+    "reading": "ichishiruichisai",
+    "code": "cr-koto4-50",
+    "index": 50
+  },
+  {
+    "surface": "無味乾燥",
+    "reading": "mumikansou",
+    "code": "cr-koto4-51",
+    "index": 51
+  },
+  {
+    "surface": "曖昧模糊",
+    "reading": "aimaimoko",
+    "code": "cr-koto4-52",
+    "index": 52
+  },
+  {
+    "surface": "有言実行",
+    "reading": "yuugenjikkou",
+    "code": "cr-koto4-53",
+    "index": 53
+  },
+  {
+    "surface": "妖怪変化",
+    "reading": "youkaihenka",
+    "code": "cr-koto4-54",
+    "index": 54
+  },
+  {
+    "surface": "公平無私",
+    "reading": "kouheimushi",
+    "code": "cr-koto4-55",
+    "index": 55
+  },
+  {
+    "surface": "泡沫夢幻",
+    "reading": "houmatsumugen",
+    "code": "cr-koto4-56",
+    "index": 56
+  },
+  {
+    "surface": "揣摩憶測",
+    "reading": "shimaokusoku",
+    "code": "cr-koto4-57",
+    "index": 57
+  },
+  {
+    "surface": "半信半疑",
+    "reading": "hanshinhangi",
+    "code": "cr-koto4-58",
+    "index": 58
+  },
+  {
+    "surface": "千古不易",
+    "reading": "senkofueki",
+    "code": "cr-koto4-59",
+    "index": 59
+  },
+  {
+    "surface": "一目瞭然",
+    "reading": "ichimokuryouzen",
+    "code": "cr-koto4-60",
+    "index": 60
+  },
+  {
+    "surface": "旭日昇天",
+    "reading": "asahishouten",
+    "code": "cr-koto4-61",
+    "index": 61
+  },
+  {
+    "surface": "愛別離苦",
+    "reading": "aibetsuriku",
+    "code": "cr-koto4-62",
+    "index": 62
+  },
+  {
+    "surface": "鄭衛桑間",
+    "reading": "teimamorukuwama",
+    "code": "cr-koto4-63",
+    "index": 63
+  },
+  {
+    "surface": "優勝劣敗",
+    "reading": "yuushoureppai",
+    "code": "cr-koto4-64",
+    "index": 64
+  },
+  {
+    "surface": "能工巧匠",
+    "reading": "noukoukoushou",
+    "code": "cr-koto4-65",
+    "index": 65
+  },
+  {
+    "surface": "愛縁機縁",
+    "reading": "aienkien",
+    "code": "cr-koto4-66",
+    "index": 66
+  },
+  {
+    "surface": "四百四病",
+    "reading": "yonhyakuyonbyou",
+    "code": "cr-koto4-67",
+    "index": 67
+  },
+  {
+    "surface": "一挙一動",
+    "reading": "ikkyoichidou",
+    "code": "cr-koto4-68",
+    "index": 68
+  },
+  {
+    "surface": "天真爛漫",
+    "reading": "tenshinranman",
+    "code": "cr-koto4-69",
+    "index": 69
+  },
+  {
+    "surface": "生殺与奪",
+    "reading": "seisatsuyodatsu",
+    "code": "cr-koto4-70",
+    "index": 70
+  },
+  {
+    "surface": "慈悲忍辱",
+    "reading": "jihininniku",
+    "code": "cr-koto4-71",
+    "index": 71
+  },
+  {
+    "surface": "盛者必衰",
+    "reading": "joushahissui",
+    "code": "cr-koto4-72",
+    "index": 72
+  },
+  {
+    "surface": "一長一短",
+    "reading": "itchouittan",
+    "code": "cr-koto4-73",
+    "index": 73
+  },
+  {
+    "surface": "魑魅魍魎",
+    "reading": "chimimouryou",
+    "code": "cr-koto4-74",
+    "index": 74
+  },
+  {
+    "surface": "一期一会",
+    "reading": "ichikiichie",
+    "code": "cr-koto4-75",
+    "index": 75
+  },
+  {
+    "surface": "侃侃諤諤",
+    "reading": "kankangakugaku",
+    "code": "cr-koto4-76",
+    "index": 76
+  },
+  {
+    "surface": "読書三余",
+    "reading": "dokushosanyo",
+    "code": "cr-koto4-77",
+    "index": 77
+  },
+  {
+    "surface": "比翼連理",
+    "reading": "hiyokurenri",
+    "code": "cr-koto4-78",
+    "index": 78
+  },
+  {
+    "surface": "質疑応答",
+    "reading": "shitsugioutou",
+    "code": "cr-koto4-79",
+    "index": 79
+  },
+  {
+    "surface": "無知蒙昧",
+    "reading": "muchimoumai",
+    "code": "cr-koto4-80",
+    "index": 80
+  },
+  {
+    "surface": "悪婦破家",
+    "reading": "akufuhaka",
+    "code": "cr-koto4-81",
+    "index": 81
+  },
+  {
+    "surface": "加減乗除",
+    "reading": "kagenjoujo",
+    "code": "cr-koto4-82",
+    "index": 82
+  },
+  {
+    "surface": "愚問愚答",
+    "reading": "gumongutou",
+    "code": "cr-koto4-83",
+    "index": 83
+  },
+  {
+    "surface": "曖昧糢糊",
+    "reading": "aimaimoko",
+    "code": "cr-koto4-84",
+    "index": 84
+  },
+  {
+    "surface": "非修非学",
+    "reading": "hishuhigaku",
+    "code": "cr-koto4-85",
+    "index": 85
+  },
+  {
+    "surface": "千変万化",
+    "reading": "senpenbanka",
+    "code": "cr-koto4-86",
+    "index": 86
+  },
+  {
+    "surface": "万代不変",
+    "reading": "mozufuhen",
+    "code": "cr-koto4-87",
+    "index": 87
+  },
+  {
+    "surface": "硝煙弾雨",
+    "reading": "shouendanu",
+    "code": "cr-koto4-88",
+    "index": 88
+  },
+  {
+    "surface": "浅学非才",
+    "reading": "sengakuhisai",
+    "code": "cr-koto4-89",
+    "index": 89
+  },
+  {
+    "surface": "烏飛兎走",
+    "reading": "karasuhitosou",
+    "code": "cr-koto4-90",
+    "index": 90
+  },
+  {
+    "surface": "旧套墨守",
+    "reading": "kyuutoubokushu",
+    "code": "cr-koto4-91",
+    "index": 91
+  },
+  {
+    "surface": "隔靴搔痒",
+    "reading": "kakkasouyou",
+    "code": "cr-koto4-92",
+    "index": 92
+  },
+  {
+    "surface": "大死一番",
+    "reading": "taishiichiban",
+    "code": "cr-koto4-93",
+    "index": 93
+  },
+  {
+    "surface": "免許皆伝",
+    "reading": "menkyokaiden",
+    "code": "cr-koto4-94",
+    "index": 94
+  },
+  {
+    "surface": "一切衆生",
+    "reading": "issaishujou",
+    "code": "cr-koto4-95",
+    "index": 95
+  },
+  {
+    "surface": "諸行無常",
+    "reading": "shogyoumujou",
+    "code": "cr-koto4-96",
+    "index": 96
+  },
+  {
+    "surface": "無病息災",
+    "reading": "mubyousokusai",
+    "code": "cr-koto4-97",
+    "index": 97
+  },
+  {
+    "surface": "一家団欒",
+    "reading": "ikkadanran",
+    "code": "cr-koto4-98",
+    "index": 98
+  },
+  {
+    "surface": "才子多病",
+    "reading": "saishitabyou",
+    "code": "cr-koto4-99",
+    "index": 99
+  },
+  {
+    "surface": "兀兀秃秃",
+    "reading": "kotsukotsu",
+    "code": "cr-koto4-100",
+    "index": 100
+  },
+  {
+    "surface": "見聞覚知",
+    "reading": "kenbunkakuchi",
+    "code": "cr-koto4-101",
+    "index": 101
+  },
+  {
+    "surface": "万世不刊",
+    "reading": "manseifukan",
+    "code": "cr-koto4-102",
+    "index": 102
+  },
+  {
+    "surface": "余韻嫋嫋",
+    "reading": "yoinjoujou",
+    "code": "cr-koto4-103",
+    "index": 103
+  },
+  {
+    "surface": "荒唐無稽",
+    "reading": "koutoumukei",
+    "code": "cr-koto4-104",
+    "index": 104
+  },
+  {
+    "surface": "三世一爨",
+    "reading": "sanseiichisan",
+    "code": "cr-koto4-105",
+    "index": 105
+  },
+  {
+    "surface": "草根木皮",
+    "reading": "soukonmokuhi",
+    "code": "cr-koto4-106",
+    "index": 106
+  },
+  {
+    "surface": "脱亜入欧",
+    "reading": "datsuanyuuou",
+    "code": "cr-koto4-107",
+    "index": 107
+  },
+  {
+    "surface": "冠婚葬祭",
+    "reading": "kankonsousai",
+    "code": "cr-koto4-108",
+    "index": 108
+  },
+  {
+    "surface": "蓴羹鱸膾",
+    "reading": "suzukinamasu",
+    "code": "cr-koto4-109",
+    "index": 109
+  },
+  {
+    "surface": "悠悠閑閑",
+    "reading": "yuuyuukankan",
+    "code": "cr-koto4-110",
+    "index": 110
+  },
+  {
+    "surface": "赤留兀剌",
+    "reading": "akatomekotsu",
+    "code": "cr-koto4-111",
+    "index": 111
+  },
+  {
+    "surface": "十年一昔",
+    "reading": "juunenhitomukashi",
+    "code": "cr-koto4-112",
+    "index": 112
+  },
+  {
+    "surface": "騰騰兀兀",
+    "reading": "kotsukotsu",
+    "code": "cr-koto4-113",
+    "index": 113
+  },
+  {
+    "surface": "平平凡凡",
+    "reading": "heiheibonbon",
+    "code": "cr-koto4-114",
+    "index": 114
+  },
+  {
+    "surface": "名誉毀損",
+    "reading": "meiyokison",
+    "code": "cr-koto4-115",
+    "index": 115
+  },
+  {
+    "surface": "階前万里",
+    "reading": "kaimaebanri",
+    "code": "cr-koto4-116",
+    "index": 116
+  },
+  {
+    "surface": "麤枝大葉",
+    "reading": "soedaooba",
+    "code": "cr-koto4-117",
+    "index": 117
+  },
+  {
+    "surface": "夜雨対床",
+    "reading": "yautaiyuka",
+    "code": "cr-koto4-118",
+    "index": 118
+  },
+  {
+    "surface": "独立独歩",
+    "reading": "dokuritsudoppo",
+    "code": "cr-koto4-119",
+    "index": 119
+  },
+  {
+    "surface": "尋常一様",
+    "reading": "jinjouichiyou",
+    "code": "cr-koto4-120",
+    "index": 120
+  },
+  {
+    "surface": "孤立無援",
+    "reading": "koritsumuen",
+    "code": "cr-koto4-121",
+    "index": 121
+  },
+  {
+    "surface": "浅学菲才",
+    "reading": "sengakuhisai",
+    "code": "cr-koto4-122",
+    "index": 122
+  },
+  {
+    "surface": "全知全能",
+    "reading": "zenchizennou",
+    "code": "cr-koto4-123",
+    "index": 123
+  },
+  {
+    "surface": "相碁井目",
+    "reading": "aigoseimoku",
+    "code": "cr-koto4-124",
+    "index": 124
+  },
+  {
+    "surface": "直立不動",
+    "reading": "chokuritsufudou",
+    "code": "cr-koto4-125",
+    "index": 125
+  },
+  {
+    "surface": "三段論法",
+    "reading": "sandanronpou",
+    "code": "cr-koto4-126",
+    "index": 126
+  },
+  {
+    "surface": "前途遼遠",
+    "reading": "zentoryouen",
+    "code": "cr-koto4-127",
+    "index": 127
+  },
+  {
+    "surface": "多岐亡羊",
+    "reading": "takibouyou",
+    "code": "cr-koto4-128",
+    "index": 128
+  },
+  {
+    "surface": "伯俞泣杖",
+    "reading": "hakutsue",
+    "code": "cr-koto4-129",
+    "index": 129
+  },
+  {
+    "surface": "覆雨翻雲",
+    "reading": "fukuukoboshikumo",
+    "code": "cr-koto4-130",
+    "index": 130
+  },
+  {
+    "surface": "永劫不変",
+    "reading": "eigoufuhen",
+    "code": "cr-koto4-131",
+    "index": 131
+  },
+  {
+    "surface": "彫心鏤骨",
+    "reading": "choushinrukotsu",
+    "code": "cr-koto4-132",
+    "index": 132
+  },
+  {
+    "surface": "山紫水明",
+    "reading": "sanshisuimei",
+    "code": "cr-koto4-133",
+    "index": 133
+  },
+  {
+    "surface": "悪人正機",
+    "reading": "akuninshouki",
+    "code": "cr-koto4-134",
+    "index": 134
+  },
+  {
+    "surface": "泰然自若",
+    "reading": "taizenjijaku",
+    "code": "cr-koto4-135",
+    "index": 135
+  },
+  {
+    "surface": "唯唯諾諾",
+    "reading": "iidakudaku",
+    "code": "cr-koto4-136",
+    "index": 136
+  },
+  {
+    "surface": "心神喪失",
+    "reading": "shinshinsoushitsu",
+    "code": "cr-koto4-137",
+    "index": 137
+  },
+  {
+    "surface": "神仏分離",
+    "reading": "shinbutsubunri",
+    "code": "cr-koto4-138",
+    "index": 138
+  },
+  {
+    "surface": "善男善女",
+    "reading": "zennanzennyo",
+    "code": "cr-koto4-139",
+    "index": 139
+  },
+  {
+    "surface": "万代不刊",
+    "reading": "mozufukan",
+    "code": "cr-koto4-140",
+    "index": 140
+  },
+  {
+    "surface": "尽忠報国",
+    "reading": "jinchuuhoukoku",
+    "code": "cr-koto4-141",
+    "index": 141
+  },
+  {
+    "surface": "嫗伏孕鬻",
+    "reading": "ounabuse",
+    "code": "cr-koto4-142",
+    "index": 142
+  },
+  {
+    "surface": "自問自答",
+    "reading": "jimonjitou",
+    "code": "cr-koto4-143",
+    "index": 143
+  },
+  {
+    "surface": "興味津津",
+    "reading": "kyoumishinshin",
+    "code": "cr-koto4-144",
+    "index": 144
+  },
+  {
+    "surface": "天地開闢",
+    "reading": "tenchikaibyaku",
+    "code": "cr-koto4-145",
+    "index": 145
+  },
+  {
+    "surface": "論功行賞",
+    "reading": "ronkoukoushou",
+    "code": "cr-koto4-146",
+    "index": 146
+  },
+  {
+    "surface": "談論風発",
+    "reading": "danronfuuhatsu",
+    "code": "cr-koto4-147",
+    "index": 147
+  },
+  {
+    "surface": "皇統連綿",
+    "reading": "koutourenmen",
+    "code": "cr-koto4-148",
+    "index": 148
+  },
+  {
+    "surface": "唯一無二",
+    "reading": "yuiitsumuni",
+    "code": "cr-koto4-149",
+    "index": 149
+  },
+  {
+    "surface": "狂瀾怒濤",
+    "reading": "kyourandotou",
+    "code": "cr-koto4-150",
+    "index": 150
+  },
+  {
+    "surface": "晴好雨奇",
+    "reading": "haruyoshiuki",
+    "code": "cr-koto4-151",
+    "index": 151
+  },
+  {
+    "surface": "有為転変",
+    "reading": "uitenpen",
+    "code": "cr-koto4-152",
+    "index": 152
+  },
+  {
+    "surface": "頭寒足熱",
+    "reading": "zukansokunetsu",
+    "code": "cr-koto4-153",
+    "index": 153
+  },
+  {
+    "surface": "盗人上戸",
+    "reading": "nusubitojougo",
+    "code": "cr-koto4-154",
+    "index": 154
+  },
+  {
+    "surface": "猫噬鸚鵡",
+    "reading": "nekooumu",
+    "code": "cr-koto4-155",
+    "index": 155
+  },
+  {
+    "surface": "花鳥風月",
+    "reading": "kachoufuugetsu",
+    "code": "cr-koto4-156",
+    "index": 156
+  },
+  {
+    "surface": "心猿意馬",
+    "reading": "shineniba",
+    "code": "cr-koto4-157",
+    "index": 157
+  },
+  {
+    "surface": "威風堂堂",
+    "reading": "ifuudoudou",
+    "code": "cr-koto4-158",
+    "index": 158
+  },
+  {
+    "surface": "既成事実",
+    "reading": "kiseijijitsu",
+    "code": "cr-koto4-159",
+    "index": 159
+  },
+  {
+    "surface": "衣冠束帯",
+    "reading": "ikansokutai",
+    "code": "cr-koto4-160",
+    "index": 160
+  },
+  {
+    "surface": "刻苦勉励",
+    "reading": "kokkubenrei",
+    "code": "cr-koto4-161",
+    "index": 161
+  },
+  {
+    "surface": "紆余曲折",
+    "reading": "uyokyokusetsu",
+    "code": "cr-koto4-162",
+    "index": 162
+  },
+  {
+    "surface": "少数精鋭",
+    "reading": "shousuuseiei",
+    "code": "cr-koto4-163",
+    "index": 163
+  },
+  {
+    "surface": "右顧左眄",
+    "reading": "ukosaben",
+    "code": "cr-koto4-164",
+    "index": 164
+  },
+  {
+    "surface": "起承転結",
+    "reading": "kishoutenketsu",
+    "code": "cr-koto4-165",
+    "index": 165
+  },
+  {
+    "surface": "煖衣飽食",
+    "reading": "houshoku",
+    "code": "cr-koto4-166",
+    "index": 166
+  },
+  {
+    "surface": "附和雷同",
+    "reading": "fuwaraidou",
+    "code": "cr-koto4-167",
+    "index": 167
+  },
+  {
+    "surface": "依怙贔屓",
+    "reading": "ekohiiki",
+    "code": "cr-koto4-168",
+    "index": 168
+  },
+  {
+    "surface": "淡粧濃抹",
+    "reading": "awashounou",
+    "code": "cr-koto4-169",
+    "index": 169
+  },
+  {
+    "surface": "敲氷求火",
+    "reading": "tatakikoorikyuuka",
+    "code": "cr-koto4-170",
+    "index": 170
+  },
+  {
+    "surface": "複雑怪奇",
+    "reading": "fukuzatsukaiki",
+    "code": "cr-koto4-171",
+    "index": 171
+  },
+  {
+    "surface": "天下無敵",
+    "reading": "tenkamuteki",
+    "code": "cr-koto4-172",
+    "index": 172
+  },
+  {
+    "surface": "勢力伯仲",
+    "reading": "seiryokuhakuchuu",
+    "code": "cr-koto4-173",
+    "index": 173
+  },
+  {
+    "surface": "勇気凛凛",
+    "reading": "yuukirinrin",
+    "code": "cr-koto4-174",
+    "index": 174
+  },
+  {
+    "surface": "百世不易",
+    "reading": "hyakuseifueki",
+    "code": "cr-koto4-175",
+    "index": 175
+  },
+  {
+    "surface": "不要不急",
+    "reading": "fuyoufukyuu",
+    "code": "cr-koto4-176",
+    "index": 176
+  },
+  {
+    "surface": "酔生夢死",
+    "reading": "suiseimushi",
+    "code": "cr-koto4-177",
+    "index": 177
+  },
+  {
+    "surface": "五臓六腑",
+    "reading": "gozouroppu",
+    "code": "cr-koto4-178",
+    "index": 178
+  },
+  {
+    "surface": "内股膏薬",
+    "reading": "uchimatakouyaku",
+    "code": "cr-koto4-179",
+    "index": 179
+  },
+  {
+    "surface": "錦衣玉食",
+    "reading": "kinitamashoku",
+    "code": "cr-koto4-180",
+    "index": 180
+  },
+  {
+    "surface": "意気阻喪",
+    "reading": "ikisosou",
+    "code": "cr-koto4-181",
+    "index": 181
+  },
+  {
+    "surface": "一栄一落",
+    "reading": "kazueichiraku",
+    "code": "cr-koto4-182",
+    "index": 182
+  },
+  {
+    "surface": "半死半生",
+    "reading": "hanshihansei",
+    "code": "cr-koto4-183",
+    "index": 183
+  },
+  {
+    "surface": "竜頭蛇尾",
+    "reading": "ryuuzudabi",
+    "code": "cr-koto4-184",
+    "index": 184
+  },
+  {
+    "surface": "読書亡羊",
+    "reading": "dokushobouyou",
+    "code": "cr-koto4-185",
+    "index": 185
+  },
+  {
+    "surface": "七転八倒",
+    "reading": "shichitenhattou",
+    "code": "cr-koto4-186",
+    "index": 186
+  },
+  {
+    "surface": "洪大無辺",
+    "reading": "koudaimuhen",
+    "code": "cr-koto4-187",
+    "index": 187
+  },
+  {
+    "surface": "万有引力",
+    "reading": "banyuuinryoku",
+    "code": "cr-koto4-188",
+    "index": 188
+  },
+  {
+    "surface": "付和雷同",
+    "reading": "fuwaraidou",
+    "code": "cr-koto4-189",
+    "index": 189
+  },
+  {
+    "surface": "深謀遠慮",
+    "reading": "shinbouenryo",
+    "code": "cr-koto4-190",
+    "index": 190
+  },
+  {
+    "surface": "兀兀陶陶",
+    "reading": "kotsukotsutoutou",
+    "code": "cr-koto4-191",
+    "index": 191
+  },
+  {
+    "surface": "不可抗力",
+    "reading": "fukakouryoku",
+    "code": "cr-koto4-192",
+    "index": 192
+  },
+  {
+    "surface": "喧喧諤諤",
+    "reading": "kenkengakugaku",
+    "code": "cr-koto4-193",
+    "index": 193
+  },
+  {
+    "surface": "常住不滅",
+    "reading": "joujuufumetsu",
+    "code": "cr-koto4-194",
+    "index": 194
+  },
+  {
+    "surface": "首尾一貫",
+    "reading": "shubiikkan",
+    "code": "cr-koto4-195",
+    "index": 195
+  },
+  {
+    "surface": "意志薄弱",
+    "reading": "ishihakujaku",
+    "code": "cr-koto4-196",
+    "index": 196
+  },
+  {
+    "surface": "雲竜井蛙",
+    "reading": "unryuuseia",
+    "code": "cr-koto4-197",
+    "index": 197
+  },
+  {
+    "surface": "人海戦術",
+    "reading": "jinkaisenjutsu",
+    "code": "cr-koto4-198",
+    "index": 198
+  },
+  {
+    "surface": "一擲千金",
+    "reading": "ittekisenkin",
+    "code": "cr-koto4-199",
+    "index": 199
+  },
+  {
+    "surface": "兀兀窮年",
+    "reading": "kotsukotsukyuunen",
+    "code": "cr-koto4-200",
+    "index": 200
+  },
+  {
+    "surface": "融通無碍",
+    "reading": "yuuzuumuge",
+    "code": "cr-koto4-201",
+    "index": 201
+  },
+  {
+    "surface": "袒裼裸裎",
+    "reading": "tansekihadaka",
+    "code": "cr-koto4-202",
+    "index": 202
+  },
+  {
+    "surface": "醇風美俗",
+    "reading": "junpuubizoku",
+    "code": "cr-koto4-203",
+    "index": 203
+  },
+  {
+    "surface": "自力更生",
+    "reading": "jirikikousei",
+    "code": "cr-koto4-204",
+    "index": 204
+  },
+  {
+    "surface": "朝栄暮落",
+    "reading": "asasakaekureochi",
+    "code": "cr-koto4-205",
+    "index": 205
+  },
+  {
+    "surface": "美辞麗句",
+    "reading": "bijireiku",
+    "code": "cr-koto4-206",
+    "index": 206
+  },
+  {
+    "surface": "落花流水",
+    "reading": "rakkaryuusui",
+    "code": "cr-koto4-207",
+    "index": 207
+  },
+  {
+    "surface": "突兀森郁",
+    "reading": "tokkotsumorikaoru",
+    "code": "cr-koto4-208",
+    "index": 208
+  },
+  {
+    "surface": "医食同源",
+    "reading": "ishokudougen",
+    "code": "cr-koto4-209",
+    "index": 209
+  },
+  {
+    "surface": "言行齟齬",
+    "reading": "genkousogo",
+    "code": "cr-koto4-210",
+    "index": 210
+  },
+  {
+    "surface": "試行錯誤",
+    "reading": "shikousakugo",
+    "code": "cr-koto4-211",
+    "index": 211
+  },
+  {
+    "surface": "三権分立",
+    "reading": "sankenbunritsu",
+    "code": "cr-koto4-212",
+    "index": 212
+  },
+  {
+    "surface": "天下一品",
+    "reading": "tenkaichihin",
+    "code": "cr-koto4-213",
+    "index": 213
+  },
+  {
+    "surface": "南船北馬",
+    "reading": "nansenhokuba",
+    "code": "cr-koto4-214",
+    "index": 214
+  },
+  {
+    "surface": "轗軻数奇",
+    "reading": "kankasuuki",
+    "code": "cr-koto4-215",
+    "index": 215
+  },
+  {
+    "surface": "神仏混交",
+    "reading": "shinbutsukonkou",
+    "code": "cr-koto4-216",
+    "index": 216
+  },
+  {
+    "surface": "阿附迎合",
+    "reading": "afugeigou",
+    "code": "cr-koto4-217",
+    "index": 217
+  },
+  {
+    "surface": "一家眷族",
+    "reading": "ikkakenzoku",
+    "code": "cr-koto4-218",
+    "index": 218
+  },
+  {
+    "surface": "現実逃避",
+    "reading": "genjitsutouhi",
+    "code": "cr-koto4-219",
+    "index": 219
+  },
+  {
+    "surface": "横行闊歩",
+    "reading": "oukoukappo",
+    "code": "cr-koto4-220",
+    "index": 220
+  },
+  {
+    "surface": "反面教師",
+    "reading": "hanmenkyoushi",
+    "code": "cr-koto4-221",
+    "index": 221
+  },
+  {
+    "surface": "日進月歩",
+    "reading": "nisshingeppo",
+    "code": "cr-koto4-222",
+    "index": 222
+  },
+  {
+    "surface": "読書三到",
+    "reading": "dokushosanitaru",
+    "code": "cr-koto4-223",
+    "index": 223
+  },
+  {
+    "surface": "古色蒼然",
+    "reading": "koshokusouzen",
+    "code": "cr-koto4-224",
+    "index": 224
+  },
+  {
+    "surface": "意気衝天",
+    "reading": "ikishouten",
+    "code": "cr-koto4-225",
+    "index": 225
+  },
+  {
+    "surface": "我田引鉄",
+    "reading": "gadenhikigane",
+    "code": "cr-koto4-226",
+    "index": 226
+  },
+  {
+    "surface": "欣喜雀躍",
+    "reading": "kinkijakuyaku",
+    "code": "cr-koto4-227",
+    "index": 227
+  },
+  {
+    "surface": "陶陶兀兀",
+    "reading": "toutoukotsukotsu",
+    "code": "cr-koto4-228",
+    "index": 228
+  },
+  {
+    "surface": "万古長青",
+    "reading": "bankochouao",
+    "code": "cr-koto4-229",
+    "index": 229
+  },
+  {
+    "surface": "面目躍如",
+    "reading": "menbokuyakujo",
+    "code": "cr-koto4-230",
+    "index": 230
+  },
+  {
+    "surface": "百花斉放",
+    "reading": "hyakkaseihou",
+    "code": "cr-koto4-231",
+    "index": 231
+  },
+  {
+    "surface": "自由自在",
+    "reading": "jiyuujizai",
+    "code": "cr-koto4-232",
+    "index": 232
+  },
+  {
+    "surface": "街談巷説",
+    "reading": "gaidankousetsu",
+    "code": "cr-koto4-233",
+    "index": 233
+  },
+  {
+    "surface": "博引旁証",
+    "reading": "hakuinboushou",
+    "code": "cr-koto4-234",
+    "index": 234
+  },
+  {
+    "surface": "淳風美俗",
+    "reading": "junpuubizoku",
+    "code": "cr-koto4-235",
+    "index": 235
+  },
+  {
+    "surface": "異路同帰",
+    "reading": "kotojidou",
+    "code": "cr-koto4-236",
+    "index": 236
+  },
+  {
+    "surface": "至上命令",
+    "reading": "shijoumeirei",
+    "code": "cr-koto4-237",
+    "index": 237
+  },
+  {
+    "surface": "自給自足",
+    "reading": "jikyuujisoku",
+    "code": "cr-koto4-238",
+    "index": 238
+  },
+  {
+    "surface": "他力本願",
+    "reading": "tarikihongan",
+    "code": "cr-koto4-239",
+    "index": 239
+  },
+  {
+    "surface": "永遠不変",
+    "reading": "eienfuhen",
+    "code": "cr-koto4-240",
+    "index": 240
+  },
+  {
+    "surface": "勧善懲悪",
+    "reading": "kanzenchouaku",
+    "code": "cr-koto4-241",
+    "index": 241
+  },
+  {
+    "surface": "一溜兀剌",
+    "reading": "ichitamekotsu",
+    "code": "cr-koto4-242",
+    "index": 242
+  },
+  {
+    "surface": "自由奔放",
+    "reading": "jiyuuhonpou",
+    "code": "cr-koto4-243",
+    "index": 243
+  },
+  {
+    "surface": "三日天下",
+    "reading": "mikkatenka",
+    "code": "cr-koto4-244",
+    "index": 244
+  },
+  {
+    "surface": "円転滑脱",
+    "reading": "entenkatsudatsu",
+    "code": "cr-koto4-245",
+    "index": 245
+  },
+  {
+    "surface": "綱紀粛正",
+    "reading": "koukishukusei",
+    "code": "cr-koto4-246",
+    "index": 246
+  },
+  {
+    "surface": "危機一髪",
+    "reading": "kikiippatsu",
+    "code": "cr-koto4-247",
+    "index": 247
+  },
+  {
+    "surface": "不老長寿",
+    "reading": "furouchouju",
+    "code": "cr-koto4-248",
+    "index": 248
+  },
+  {
+    "surface": "老少不定",
+    "reading": "roushoufutei",
+    "code": "cr-koto4-249",
+    "index": 249
+  },
+  {
+    "surface": "風雨対牀",
+    "reading": "fuuutaiyuka",
+    "code": "cr-koto4-250",
+    "index": 250
+  },
+  {
+    "surface": "気息奄奄",
+    "reading": "kisokuenen",
+    "code": "cr-koto4-251",
+    "index": 251
+  },
+  {
+    "surface": "社交辞令",
+    "reading": "shakoujirei",
+    "code": "cr-koto4-252",
+    "index": 252
+  },
+  {
+    "surface": "東西南北",
+    "reading": "touzainanboku",
+    "code": "cr-koto4-253",
+    "index": 253
+  },
+  {
+    "surface": "千山万水",
+    "reading": "senyamamansui",
+    "code": "cr-koto4-254",
+    "index": 254
+  },
+  {
+    "surface": "晴耕雨読",
+    "reading": "seikouudoku",
+    "code": "cr-koto4-255",
+    "index": 255
+  },
+  {
+    "surface": "奔放不羈",
+    "reading": "honpoufuki",
+    "code": "cr-koto4-256",
+    "index": 256
+  },
+  {
+    "surface": "鬼哭啾啾",
+    "reading": "kikokushuushuu",
+    "code": "cr-koto4-257",
+    "index": 257
+  },
+  {
+    "surface": "円融滑脱",
+    "reading": "enyuukatsudatsu",
+    "code": "cr-koto4-258",
+    "index": 258
+  },
+  {
+    "surface": "小心翼翼",
+    "reading": "shoushinyokuyoku",
+    "code": "cr-koto4-259",
+    "index": 259
+  },
+  {
+    "surface": "衆生済度",
+    "reading": "shujousaido",
+    "code": "cr-koto4-260",
+    "index": 260
+  },
+  {
+    "surface": "一日千秋",
+    "reading": "ichinichichiaki",
+    "code": "cr-koto4-261",
+    "index": 261
+  },
+  {
+    "surface": "神仏混淆",
+    "reading": "shinbutsukonkou",
+    "code": "cr-koto4-262",
+    "index": 262
+  },
+  {
+    "surface": "草行露宿",
+    "reading": "kusagyouroshuku",
+    "code": "cr-koto4-263",
+    "index": 263
+  },
+  {
+    "surface": "万古不磨",
+    "reading": "bankofuma",
+    "code": "cr-koto4-264",
+    "index": 264
+  },
+  {
+    "surface": "畜生残害",
+    "reading": "chikushouzangai",
+    "code": "cr-koto4-265",
+    "index": 265
+  },
+  {
+    "surface": "断章取義",
+    "reading": "danshoushugi",
+    "code": "cr-koto4-266",
+    "index": 266
+  },
+  {
+    "surface": "多事多難",
+    "reading": "tajitanan",
+    "code": "cr-koto4-267",
+    "index": 267
+  },
+  {
+    "surface": "祥月命日",
+    "reading": "shoutsukimeinichi",
+    "code": "cr-koto4-268",
+    "index": 268
+  },
+  {
+    "surface": "健康被害",
+    "reading": "kenkouhigai",
+    "code": "cr-koto4-269",
+    "index": 269
+  },
+  {
+    "surface": "波瀾万丈",
+    "reading": "haranbanjou",
+    "code": "cr-koto4-270",
+    "index": 270
+  },
+  {
+    "surface": "蜀犬吠日",
+    "reading": "shokuinuboenichi",
+    "code": "cr-koto4-271",
+    "index": 271
+  },
+  {
+    "surface": "万目睚眥",
+    "reading": "manmoku",
+    "code": "cr-koto4-272",
+    "index": 272
+  },
+  {
+    "surface": "有象無象",
+    "reading": "uzoumuzou",
+    "code": "cr-koto4-273",
+    "index": 273
+  },
+  {
+    "surface": "二束三文",
+    "reading": "nitabasanbun",
+    "code": "cr-koto4-274",
+    "index": 274
+  },
+  {
+    "surface": "頑固一徹",
+    "reading": "gankoittetsu",
+    "code": "cr-koto4-275",
+    "index": 275
+  },
+  {
+    "surface": "公明正大",
+    "reading": "koumeiseidai",
+    "code": "cr-koto4-276",
+    "index": 276
+  },
+  {
+    "surface": "牽強付会",
+    "reading": "kenkyoufukai",
+    "code": "cr-koto4-277",
+    "index": 277
+  },
+  {
+    "surface": "鱗次櫛比",
+    "reading": "rinjishippi",
+    "code": "cr-koto4-278",
+    "index": 278
+  },
+  {
+    "surface": "身体髪膚",
+    "reading": "shintaihappu",
+    "code": "cr-koto4-279",
+    "index": 279
+  },
+  {
+    "surface": "呵呵大笑",
+    "reading": "kakataishou",
+    "code": "cr-koto4-280",
+    "index": 280
+  },
+  {
+    "surface": "朽木糞牆",
+    "reading": "kutsukifun",
+    "code": "cr-koto4-281",
+    "index": 281
+  },
+  {
+    "surface": "欣求浄土",
+    "reading": "gongujoudo",
+    "code": "cr-koto4-282",
+    "index": 282
+  },
+  {
+    "surface": "独断専行",
+    "reading": "dokudansenkou",
+    "code": "cr-koto4-283",
+    "index": 283
+  },
+  {
+    "surface": "無二無三",
+    "reading": "munimusan",
+    "code": "cr-koto4-284",
+    "index": 284
+  },
+  {
+    "surface": "再三再四",
+    "reading": "saisansaishi",
+    "code": "cr-koto4-285",
+    "index": 285
+  },
+  {
+    "surface": "誠心誠意",
+    "reading": "seishinseii",
+    "code": "cr-koto4-286",
+    "index": 286
+  },
+  {
+    "surface": "周章狼狽",
+    "reading": "shuushouroubai",
+    "code": "cr-koto4-287",
+    "index": 287
+  },
+  {
+    "surface": "悪逆無道",
+    "reading": "akugyakubudou",
+    "code": "cr-koto4-288",
+    "index": 288
+  },
+  {
+    "surface": "難攻不落",
+    "reading": "nankoufuraku",
+    "code": "cr-koto4-289",
+    "index": 289
+  },
+  {
+    "surface": "平身低頭",
+    "reading": "heishinteitou",
+    "code": "cr-koto4-290",
+    "index": 290
+  },
+  {
+    "surface": "故事来歴",
+    "reading": "kojiraireki",
+    "code": "cr-koto4-291",
+    "index": 291
+  },
+  {
+    "surface": "切歯慷慨",
+    "reading": "sesshikougai",
+    "code": "cr-koto4-292",
+    "index": 292
+  },
+  {
+    "surface": "白水真人",
+    "reading": "hakusuimasato",
+    "code": "cr-koto4-293",
+    "index": 293
+  },
+  {
+    "surface": "孤城落日",
+    "reading": "kojourakujitsu",
+    "code": "cr-koto4-294",
+    "index": 294
+  },
+  {
+    "surface": "常住不断",
+    "reading": "joujuufudan",
+    "code": "cr-koto4-295",
+    "index": 295
+  },
+  {
+    "surface": "不撓不屈",
+    "reading": "futoufukutsu",
+    "code": "cr-koto4-296",
+    "index": 296
+  },
+  {
+    "surface": "開口一番",
+    "reading": "kaikouichiban",
+    "code": "cr-koto4-297",
+    "index": 297
+  },
+  {
+    "surface": "観天望気",
+    "reading": "kantenbouki",
+    "code": "cr-koto4-298",
+    "index": 298
+  },
+  {
+    "surface": "一心同体",
+    "reading": "isshindoutai",
+    "code": "cr-koto4-299",
+    "index": 299
+  },
+  {
+    "surface": "才子佳人",
+    "reading": "saishikajin",
+    "code": "cr-koto4-300",
+    "index": 300
+  },
+  {
+    "surface": "博覧強記",
+    "reading": "hakurankyouki",
+    "code": "cr-koto4-301",
+    "index": 301
+  },
+  {
+    "surface": "威風凛凛",
+    "reading": "ifuurinrin",
+    "code": "cr-koto4-302",
+    "index": 302
+  },
+  {
+    "surface": "万古長春",
+    "reading": "bankochoushun",
+    "code": "cr-koto4-303",
+    "index": 303
+  },
+  {
+    "surface": "佳人薄命",
+    "reading": "kajinhakumei",
+    "code": "cr-koto4-304",
+    "index": 304
+  },
+  {
+    "surface": "筆耕硯田",
+    "reading": "hikkousuzuriden",
+    "code": "cr-koto4-305",
+    "index": 305
+  },
+  {
+    "surface": "一致団結",
+    "reading": "itchidanketsu",
+    "code": "cr-koto4-306",
+    "index": 306
+  },
+  {
+    "surface": "意馬心猿",
+    "reading": "ibashinen",
+    "code": "cr-koto4-307",
+    "index": 307
+  },
+  {
+    "surface": "金城鉄壁",
+    "reading": "kinjouteppeki",
+    "code": "cr-koto4-308",
+    "index": 308
+  },
+  {
+    "surface": "懶懶攤攤",
+    "reading": "monogusamonogusa",
+    "code": "cr-koto4-309",
+    "index": 309
+  },
+  {
+    "surface": "汗牛充棟",
+    "reading": "kangyuujuutou",
+    "code": "cr-koto4-310",
+    "index": 310
+  },
+  {
+    "surface": "張三李四",
+    "reading": "chousanrishi",
+    "code": "cr-koto4-311",
+    "index": 311
+  },
+  {
+    "surface": "名誉挽回",
+    "reading": "meiyobankai",
+    "code": "cr-koto4-312",
+    "index": 312
+  },
+  {
+    "surface": "烏兎怱怱",
+    "reading": "utosousou",
+    "code": "cr-koto4-313",
+    "index": 313
+  },
+  {
+    "surface": "取捨選択",
+    "reading": "shushasentaku",
+    "code": "cr-koto4-314",
+    "index": 314
+  },
+  {
+    "surface": "起死回生",
+    "reading": "kishikaisei",
+    "code": "cr-koto4-315",
+    "index": 315
+  },
+  {
+    "surface": "七生報国",
+    "reading": "nanaohoukoku",
+    "code": "cr-koto4-316",
+    "index": 316
+  },
+  {
+    "surface": "一切合財",
+    "reading": "issaigassai",
+    "code": "cr-koto4-317",
+    "index": 317
+  },
+  {
+    "surface": "悪衣悪食",
+    "reading": "akuiakushoku",
+    "code": "cr-koto4-318",
+    "index": 318
+  },
+  {
+    "surface": "旗幟鮮明",
+    "reading": "kishisenmei",
+    "code": "cr-koto4-319",
+    "index": 319
+  },
+  {
+    "surface": "一刻千金",
+    "reading": "ikkokusenkin",
+    "code": "cr-koto4-320",
+    "index": 320
+  },
+  {
+    "surface": "一路平安",
+    "reading": "ichiroheian",
+    "code": "cr-koto4-321",
+    "index": 321
+  },
+  {
+    "surface": "因果応報",
+    "reading": "ingaouhou",
+    "code": "cr-koto4-322",
+    "index": 322
+  },
+  {
+    "surface": "鳴蝉潔飢",
+    "reading": "narusemiisagiyoue",
+    "code": "cr-koto4-323",
+    "index": 323
+  },
+  {
+    "surface": "森羅万象",
+    "reading": "shinrabanshou",
+    "code": "cr-koto4-324",
+    "index": 324
+  },
+  {
+    "surface": "規行矩歩",
+    "reading": "noriyukinorifu",
+    "code": "cr-koto4-325",
+    "index": 325
+  },
+  {
+    "surface": "異体同心",
+    "reading": "itaidoushin",
+    "code": "cr-koto4-326",
+    "index": 326
+  },
+  {
+    "surface": "幽寂閑雅",
+    "reading": "yuujakukanga",
+    "code": "cr-koto4-327",
+    "index": 327
+  },
+  {
+    "surface": "弱肉強食",
+    "reading": "jakunikukyoushoku",
+    "code": "cr-koto4-328",
+    "index": 328
+  },
+  {
+    "surface": "夏虫疑冰",
+    "reading": "natsumushigi",
+    "code": "cr-koto4-329",
+    "index": 329
+  },
+  {
+    "surface": "深慮遠謀",
+    "reading": "shinryoenbou",
+    "code": "cr-koto4-330",
+    "index": 330
+  },
+  {
+    "surface": "衍漫流爛",
+    "reading": "ryuuran",
+    "code": "cr-koto4-331",
+    "index": 331
+  },
+  {
+    "surface": "刀光剣影",
+    "reading": "katanakoukenkage",
+    "code": "cr-koto4-332",
+    "index": 332
+  },
+  {
+    "surface": "傍若無人",
+    "reading": "boujakumujin",
+    "code": "cr-koto4-333",
+    "index": 333
+  },
+  {
+    "surface": "流言飛語",
+    "reading": "ryuugenhigo",
+    "code": "cr-koto4-334",
+    "index": 334
+  },
+  {
+    "surface": "一問一答",
+    "reading": "ichimonichitou",
+    "code": "cr-koto4-335",
+    "index": 335
+  },
+  {
+    "surface": "跳梁跋扈",
+    "reading": "chouryoubakko",
+    "code": "cr-koto4-336",
+    "index": 336
+  },
+  {
+    "surface": "巳己巳己",
+    "reading": "mitsuchinotomionore",
+    "code": "cr-koto4-337",
+    "index": 337
+  },
+  {
+    "surface": "常住坐臥",
+    "reading": "joujuuzaga",
+    "code": "cr-koto4-338",
+    "index": 338
+  },
+  {
+    "surface": "悪魔調伏",
+    "reading": "akumachoubuku",
+    "code": "cr-koto4-339",
+    "index": 339
+  },
+  {
+    "surface": "厚顔無恥",
+    "reading": "kouganmuchi",
+    "code": "cr-koto4-340",
+    "index": 340
+  },
+  {
+    "surface": "一葉万里",
+    "reading": "ichiyoubanri",
+    "code": "cr-koto4-341",
+    "index": 341
+  },
+  {
+    "surface": "時期尚早",
+    "reading": "jikishousou",
+    "code": "cr-koto4-342",
+    "index": 342
+  },
+  {
+    "surface": "安穏無事",
+    "reading": "annonbuji",
+    "code": "cr-koto4-343",
+    "index": 343
+  },
+  {
+    "surface": "幽邃間雅",
+    "reading": "yuusuikanmiyabi",
+    "code": "cr-koto4-344",
+    "index": 344
+  },
+  {
+    "surface": "公序良俗",
+    "reading": "koujoryouzoku",
+    "code": "cr-koto4-345",
+    "index": 345
+  },
+  {
+    "surface": "流言蜚語",
+    "reading": "ryuugenhigo",
+    "code": "cr-koto4-346",
+    "index": 346
+  },
+  {
+    "surface": "事実無根",
+    "reading": "jijitsumukon",
+    "code": "cr-koto4-347",
+    "index": 347
+  },
+  {
+    "surface": "黄絹色糸",
+    "reading": "koukeniroito",
+    "code": "cr-koto4-348",
+    "index": 348
+  },
+  {
+    "surface": "器用貧乏",
+    "reading": "kiyoubinbou",
+    "code": "cr-koto4-349",
+    "index": 349
+  },
+  {
+    "surface": "一六勝負",
+    "reading": "ichirokushoubu",
+    "code": "cr-koto4-350",
+    "index": 350
+  },
+  {
+    "surface": "鬱肉漏脯",
+    "reading": "utsunikurouhojishi",
+    "code": "cr-koto4-351",
+    "index": 351
+  },
+  {
+    "surface": "蒟蒻問答",
+    "reading": "konnyakumondou",
+    "code": "cr-koto4-352",
+    "index": 352
+  },
+  {
+    "surface": "一日一善",
+    "reading": "ichinichikazuyoshi",
+    "code": "cr-koto4-353",
+    "index": 353
+  },
+  {
+    "surface": "対牀夜雨",
+    "reading": "taiyukayau",
+    "code": "cr-koto4-354",
+    "index": 354
+  },
+  {
+    "surface": "阿鼻叫喚",
+    "reading": "abikyoukan",
+    "code": "cr-koto4-355",
+    "index": 355
+  },
+  {
+    "surface": "不可思議",
+    "reading": "fukashigi",
+    "code": "cr-koto4-356",
+    "index": 356
+  },
+  {
+    "surface": "千篇一律",
+    "reading": "senhenichiritsu",
+    "code": "cr-koto4-357",
+    "index": 357
+  },
+  {
+    "surface": "終始一貫",
+    "reading": "shuushiikkan",
+    "code": "cr-koto4-358",
+    "index": 358
+  },
+  {
+    "surface": "異口同音",
+    "reading": "ikudouon",
+    "code": "cr-koto4-359",
+    "index": 359
+  },
+  {
+    "surface": "阿諛追従",
+    "reading": "ayutsuijuu",
+    "code": "cr-koto4-360",
+    "index": 360
+  },
+  {
+    "surface": "二人三脚",
+    "reading": "futarisankyaku",
+    "code": "cr-koto4-361",
+    "index": 361
+  },
+  {
+    "surface": "本末転倒",
+    "reading": "honmatsutentou",
+    "code": "cr-koto4-362",
+    "index": 362
+  },
+  {
+    "surface": "敬天愛人",
+    "reading": "keitenaijin",
+    "code": "cr-koto4-363",
+    "index": 363
+  },
+  {
+    "surface": "百家争鳴",
+    "reading": "hyakkasoumei",
+    "code": "cr-koto4-364",
+    "index": 364
+  },
+  {
+    "surface": "金剛不壊",
+    "reading": "kongoufue",
+    "code": "cr-koto4-365",
+    "index": 365
+  },
+  {
+    "surface": "只管打坐",
+    "reading": "hitasurataza",
+    "code": "cr-koto4-366",
+    "index": 366
+  },
+  {
+    "surface": "新陳代謝",
+    "reading": "shinchintaisha",
+    "code": "cr-koto4-367",
+    "index": 367
+  },
+  {
+    "surface": "満身創痍",
+    "reading": "manshinsoui",
+    "code": "cr-koto4-368",
+    "index": 368
+  },
+  {
+    "surface": "千秋万歳",
+    "reading": "chiakibanzai",
+    "code": "cr-koto4-369",
+    "index": 369
+  },
+  {
+    "surface": "一得一失",
+    "reading": "ittokuichishitsu",
+    "code": "cr-koto4-370",
+    "index": 370
+  },
+  {
+    "surface": "五臓五腑",
+    "reading": "gozougofu",
+    "code": "cr-koto4-371",
+    "index": 371
+  },
+  {
+    "surface": "雲壌月鼈",
+    "reading": "unjougetsubetsu",
+    "code": "cr-koto4-372",
+    "index": 372
+  },
+  {
+    "surface": "有耶無耶",
+    "reading": "uyamuya",
+    "code": "cr-koto4-373",
+    "index": 373
+  },
+  {
+    "surface": "千紫万紅",
+    "reading": "senshibankou",
+    "code": "cr-koto4-374",
+    "index": 374
+  },
+  {
+    "surface": "出処進退",
+    "reading": "shusshoshintai",
+    "code": "cr-koto4-375",
+    "index": 375
+  },
+  {
+    "surface": "四方八方",
+    "reading": "shikatahappou",
+    "code": "cr-koto4-376",
+    "index": 376
+  },
+  {
+    "surface": "一意専心",
+    "reading": "ichiisenshin",
+    "code": "cr-koto4-377",
+    "index": 377
+  },
+  {
+    "surface": "和洋折衷",
+    "reading": "wayousetchuu",
+    "code": "cr-koto4-378",
+    "index": 378
+  },
+  {
+    "surface": "大慈大悲",
+    "reading": "daijidaihi",
+    "code": "cr-koto4-379",
+    "index": 379
+  },
+  {
+    "surface": "一病息災",
+    "reading": "ichibyousokusai",
+    "code": "cr-koto4-380",
+    "index": 380
+  },
+  {
+    "surface": "異端邪説",
+    "reading": "itanjasetsu",
+    "code": "cr-koto4-381",
+    "index": 381
+  },
+  {
+    "surface": "山川万里",
+    "reading": "yamakawabanri",
+    "code": "cr-koto4-382",
+    "index": 382
+  },
+  {
+    "surface": "神出鬼没",
+    "reading": "shinshutsukibotsu",
+    "code": "cr-koto4-383",
+    "index": 383
+  },
+  {
+    "surface": "黄絹幼婦",
+    "reading": "koukenyoufu",
+    "code": "cr-koto4-384",
+    "index": 384
+  },
+  {
+    "surface": "三人官女",
+    "reading": "sanninkanjo",
+    "code": "cr-koto4-385",
+    "index": 385
+  },
+  {
+    "surface": "支離滅裂",
+    "reading": "shirimetsuretsu",
+    "code": "cr-koto4-386",
+    "index": 386
+  },
+  {
+    "surface": "幽邃閑雅",
+    "reading": "yuusuikanga",
+    "code": "cr-koto4-387",
+    "index": 387
+  },
+  {
+    "surface": "三三五五",
+    "reading": "sansangogo",
+    "code": "cr-koto4-388",
+    "index": 388
+  },
+  {
+    "surface": "兀兀淘淘",
+    "reading": "kotsukotsu",
+    "code": "cr-koto4-389",
+    "index": 389
+  },
+  {
+    "surface": "円滑洒脱",
+    "reading": "enkatsushadatsu",
+    "code": "cr-koto4-390",
+    "index": 390
+  },
+  {
+    "surface": "時時刻刻",
+    "reading": "jijikokkoku",
+    "code": "cr-koto4-391",
+    "index": 391
+  },
+  {
+    "surface": "傲岸不遜",
+    "reading": "gouganfuson",
+    "code": "cr-koto4-392",
+    "index": 392
+  },
+  {
+    "surface": "不羈奔放",
+    "reading": "fukihonpou",
+    "code": "cr-koto4-393",
+    "index": 393
+  },
+  {
+    "surface": "絶体絶命",
+    "reading": "zettaizetsumei",
+    "code": "cr-koto4-394",
+    "index": 394
+  },
+  {
+    "surface": "雲泥万里",
+    "reading": "undeibanri",
+    "code": "cr-koto4-395",
+    "index": 395
+  },
+  {
+    "surface": "歌舞音曲",
+    "reading": "kabuongyoku",
+    "code": "cr-koto4-396",
+    "index": 396
+  },
+  {
+    "surface": "有為無常",
+    "reading": "uimujou",
+    "code": "cr-koto4-397",
+    "index": 397
+  },
+  {
+    "surface": "素気清泚",
+    "reading": "sokkekiyoshi",
+    "code": "cr-koto4-398",
+    "index": 398
+  },
+  {
+    "surface": "家常茶飯",
+    "reading": "kajousahan",
+    "code": "cr-koto4-399",
+    "index": 399
+  },
+  {
+    "surface": "余裕綽綽",
+    "reading": "yoyuushakushaku",
+    "code": "cr-koto4-400",
+    "index": 400
+  },
+  {
+    "surface": "万世不朽",
+    "reading": "manseifukyuu",
+    "code": "cr-koto4-401",
+    "index": 401
+  },
+  {
+    "surface": "軽薄短小",
+    "reading": "keihakutanshou",
+    "code": "cr-koto4-402",
+    "index": 402
+  },
+  {
+    "surface": "一六兀剌",
+    "reading": "ichirokukotsu",
+    "code": "cr-koto4-403",
+    "index": 403
+  },
+  {
+    "surface": "口角飛沫",
+    "reading": "koukakuhimatsu",
+    "code": "cr-koto4-404",
+    "index": 404
+  },
+  {
+    "surface": "思慮分別",
+    "reading": "shiryobunbetsu",
+    "code": "cr-koto4-405",
+    "index": 405
+  },
+  {
+    "surface": "万古不易",
+    "reading": "bankofueki",
+    "code": "cr-koto4-406",
+    "index": 406
+  },
+  {
+    "surface": "黄塵万丈",
+    "reading": "koujinbanjou",
+    "code": "cr-koto4-407",
+    "index": 407
+  },
+  {
+    "surface": "兀兀欲吐",
+    "reading": "kotsukotsuyokuhaki",
+    "code": "cr-koto4-408",
+    "index": 408
+  },
+  {
+    "surface": "李下瓜田",
+    "reading": "rikakaden",
+    "code": "cr-koto4-409",
+    "index": 409
+  },
+  {
+    "surface": "愛及屋烏",
+    "reading": "aioyobiyakarasu",
+    "code": "cr-koto4-410",
+    "index": 410
+  },
+  {
+    "surface": "安寧秩序",
+    "reading": "anneichitsujo",
+    "code": "cr-koto4-411",
+    "index": 411
+  },
+  {
+    "surface": "杓子定規",
+    "reading": "shakushijougi",
+    "code": "cr-koto4-412",
+    "index": 412
+  },
+  {
+    "surface": "大願成就",
+    "reading": "taiganjouju",
+    "code": "cr-koto4-413",
+    "index": 413
+  },
+  {
+    "surface": "天地神明",
+    "reading": "tenchishinmei",
+    "code": "cr-koto4-414",
+    "index": 414
+  },
+  {
+    "surface": "越犬吠雪",
+    "reading": "etsuinuboeyuki",
+    "code": "cr-koto4-415",
+    "index": 415
+  },
+  {
+    "surface": "昨非今是",
+    "reading": "sakuhikonze",
+    "code": "cr-koto4-416",
+    "index": 416
+  },
+  {
+    "surface": "尸位素餐",
+    "reading": "shiisosan",
+    "code": "cr-koto4-417",
+    "index": 417
+  },
+  {
+    "surface": "平衡感覚",
+    "reading": "heikoukankaku",
+    "code": "cr-koto4-418",
+    "index": 418
+  },
+  {
+    "surface": "完全無欠",
+    "reading": "kanzenmuketsu",
+    "code": "cr-koto4-419",
+    "index": 419
+  },
+  {
+    "surface": "相互扶助",
+    "reading": "sougofujo",
+    "code": "cr-koto4-420",
+    "index": 420
+  },
+  {
+    "surface": "慇懃無礼",
+    "reading": "inginburei",
+    "code": "cr-koto4-421",
+    "index": 421
+  },
+  {
+    "surface": "前後左右",
+    "reading": "zengosayuu",
+    "code": "cr-koto4-422",
+    "index": 422
+  },
+  {
+    "surface": "咫尺千里",
+    "reading": "shisekisenri",
+    "code": "cr-koto4-423",
+    "index": 423
+  },
+  {
+    "surface": "三百代言",
+    "reading": "sanbyakudaigen",
+    "code": "cr-koto4-424",
+    "index": 424
+  },
+  {
+    "surface": "悠悠自適",
+    "reading": "yuuyuujiteki",
+    "code": "cr-koto4-425",
+    "index": 425
+  },
+  {
+    "surface": "鬱鬱葱葱",
+    "reading": "utsuutsukiki",
+    "code": "cr-koto4-426",
+    "index": 426
+  },
+  {
+    "surface": "万世不滅",
+    "reading": "manseifumetsu",
+    "code": "cr-koto4-427",
+    "index": 427
+  },
+  {
+    "surface": "乾坤一擲",
+    "reading": "kenkonitteki",
+    "code": "cr-koto4-428",
+    "index": 428
+  },
+  {
+    "surface": "広大無辺",
+    "reading": "koudaimuhen",
+    "code": "cr-koto4-429",
+    "index": 429
+  },
+  {
+    "surface": "甲論乙駁",
+    "reading": "kouronotsubaku",
+    "code": "cr-koto4-430",
+    "index": 430
+  },
+  {
+    "surface": "三者三様",
+    "reading": "sanshasanyou",
+    "code": "cr-koto4-431",
+    "index": 431
+  },
+  {
+    "surface": "世智弁聡",
+    "reading": "sechibensatoshi",
+    "code": "cr-koto4-432",
+    "index": 432
+  },
+  {
+    "surface": "兀兀騰騰",
+    "reading": "kotsukotsu",
+    "code": "cr-koto4-433",
+    "index": 433
+  },
+  {
+    "surface": "悪鬼羅刹",
+    "reading": "akukirasetsu",
+    "code": "cr-koto4-434",
+    "index": 434
+  },
+  {
+    "surface": "清廉潔白",
+    "reading": "seirenkeppaku",
+    "code": "cr-koto4-435",
+    "index": 435
+  },
+  {
+    "surface": "千古不磨",
+    "reading": "senkofuma",
+    "code": "cr-koto4-436",
+    "index": 436
+  },
+  {
+    "surface": "右往左往",
+    "reading": "uousaou",
+    "code": "cr-koto4-437",
+    "index": 437
+  },
+  {
+    "surface": "口頭試問",
+    "reading": "koutoushimon",
+    "code": "cr-koto4-438",
+    "index": 438
+  },
+  {
+    "surface": "一言半句",
+    "reading": "hitokotohanku",
+    "code": "cr-koto4-439",
+    "index": 439
+  },
+  {
+    "surface": "玩物喪志",
+    "reading": "kanbutsusoushi",
+    "code": "cr-koto4-440",
+    "index": 440
+  },
+  {
+    "surface": "罵詈讒謗",
+    "reading": "barizanbou",
+    "code": "cr-koto4-441",
+    "index": 441
+  },
+  {
+    "surface": "四海兄弟",
+    "reading": "shikaikyoudai",
+    "code": "cr-koto4-442",
+    "index": 442
+  },
+  {
+    "surface": "安心立命",
+    "reading": "anshinritsumei",
+    "code": "cr-koto4-443",
+    "index": 443
+  },
+  {
+    "surface": "古今東西",
+    "reading": "kokontouzai",
+    "code": "cr-koto4-444",
+    "index": 444
+  },
+  {
+    "surface": "暗中飛躍",
+    "reading": "anchuuhiyaku",
+    "code": "cr-koto4-445",
+    "index": 445
+  },
+  {
+    "surface": "六菖十菊",
+    "reading": "rokukiku",
+    "code": "cr-koto4-446",
+    "index": 446
+  },
+  {
+    "surface": "意気軒昂",
+    "reading": "ikikenkou",
+    "code": "cr-koto4-447",
+    "index": 447
+  },
+  {
+    "surface": "兼愛無私",
+    "reading": "kenaimushi",
+    "code": "cr-koto4-448",
+    "index": 448
+  },
+  {
+    "surface": "前虎後狼",
+    "reading": "maetoraatoookami",
+    "code": "cr-koto4-449",
+    "index": 449
+  },
+  {
+    "surface": "能鷹隠爪",
+    "reading": "noutakaintsume",
+    "code": "cr-koto4-450",
+    "index": 450
+  },
+  {
+    "surface": "内憂外患",
+    "reading": "naiyuugaikan",
+    "code": "cr-koto4-451",
+    "index": 451
+  },
+  {
+    "surface": "人跡未踏",
+    "reading": "jinsekimitou",
+    "code": "cr-koto4-452",
+    "index": 452
+  },
+  {
+    "surface": "優柔不断",
+    "reading": "yuujuufudan",
+    "code": "cr-koto4-453",
+    "index": 453
+  },
+  {
+    "surface": "非難囂囂",
+    "reading": "hinangougou",
+    "code": "cr-koto4-454",
+    "index": 454
+  },
+  {
+    "surface": "空即是色",
+    "reading": "kuusokuzeshiki",
+    "code": "cr-koto4-455",
+    "index": 455
+  },
+  {
+    "surface": "五花八門",
+    "reading": "gogehachimon",
+    "code": "cr-koto4-456",
+    "index": 456
+  },
+  {
+    "surface": "和気藹藹",
+    "reading": "wakiaiai",
+    "code": "cr-koto4-457",
+    "index": 457
+  },
+  {
+    "surface": "千古不滅",
+    "reading": "senkofumetsu",
+    "code": "cr-koto4-458",
+    "index": 458
+  },
+  {
+    "surface": "王畿千里",
+    "reading": "oukisenri",
+    "code": "cr-koto4-459",
+    "index": 459
+  },
+  {
+    "surface": "読書尚友",
+    "reading": "dokushoshouyuu",
+    "code": "cr-koto4-460",
+    "index": 460
+  },
+  {
+    "surface": "安居楽業",
+    "reading": "ankyogakugyou",
+    "code": "cr-koto4-461",
+    "index": 461
+  },
+  {
+    "surface": "効果覿面",
+    "reading": "koukatekimen",
+    "code": "cr-koto4-462",
+    "index": 462
+  },
+  {
+    "surface": "紫電一閃",
+    "reading": "shidenissen",
+    "code": "cr-koto4-463",
+    "index": 463
+  },
+  {
+    "surface": "迷惑千万",
+    "reading": "meiwakusenban",
+    "code": "cr-koto4-464",
+    "index": 464
+  },
+  {
+    "surface": "暗雲低迷",
+    "reading": "anunteimei",
+    "code": "cr-koto4-465",
+    "index": 465
+  },
+  {
+    "surface": "地殻変動",
+    "reading": "chikakuhendou",
+    "code": "cr-koto4-466",
+    "index": 466
+  },
+  {
+    "surface": "栄枯盛衰",
+    "reading": "eikoseisui",
+    "code": "cr-koto4-467",
+    "index": 467
+  },
+  {
+    "surface": "一進一退",
+    "reading": "isshinittai",
+    "code": "cr-koto4-468",
+    "index": 468
+  },
+  {
+    "surface": "一粒万倍",
+    "reading": "ichitsubumanbai",
+    "code": "cr-koto4-469",
+    "index": 469
+  },
+  {
+    "surface": "軍備拡張",
+    "reading": "gunbikakuchou",
+    "code": "cr-koto4-470",
+    "index": 470
+  },
+  {
+    "surface": "融通無礙",
+    "reading": "yuuzuumuge",
+    "code": "cr-koto4-471",
+    "index": 471
+  },
+  {
+    "surface": "裏急後重",
+    "reading": "urakyuugojuu",
+    "code": "cr-koto4-472",
+    "index": 472
+  },
+  {
+    "surface": "明鏡止水",
+    "reading": "meikyoushisui",
+    "code": "cr-koto4-473",
+    "index": 473
+  },
+  {
+    "surface": "千里万里",
+    "reading": "senribanri",
+    "code": "cr-koto4-474",
+    "index": 474
+  },
+  {
+    "surface": "十中八九",
+    "reading": "juuchuuhachikyuu",
+    "code": "cr-koto4-475",
+    "index": 475
+  },
+  {
+    "surface": "前代未聞",
+    "reading": "zendaimimon",
+    "code": "cr-koto4-476",
+    "index": 476
+  },
+  {
+    "surface": "四苦八苦",
+    "reading": "shikuhakku",
+    "code": "cr-koto4-477",
+    "index": 477
+  },
+  {
+    "surface": "徒手空拳",
+    "reading": "toshukuuken",
+    "code": "cr-koto4-478",
+    "index": 478
+  },
+  {
+    "surface": "不眠不休",
+    "reading": "fuminfukyuu",
+    "code": "cr-koto4-479",
+    "index": 479
+  },
+  {
+    "surface": "玉石混交",
+    "reading": "gyokusekikonkou",
+    "code": "cr-koto4-480",
+    "index": 480
+  },
+  {
+    "surface": "弄巧成拙",
+    "reading": "seitsutana",
+    "code": "cr-koto4-481",
+    "index": 481
+  },
+  {
+    "surface": "春夏秋冬",
+    "reading": "harunatsuakifuyu",
+    "code": "cr-koto4-482",
+    "index": 482
+  },
+  {
+    "surface": "千軍万馬",
+    "reading": "sengunbanba",
+    "code": "cr-koto4-483",
+    "index": 483
+  },
+  {
+    "surface": "富国強兵",
+    "reading": "fukokukyouhei",
+    "code": "cr-koto4-484",
+    "index": 484
+  },
+  {
+    "surface": "換骨奪胎",
+    "reading": "kankotsudattai",
+    "code": "cr-koto4-485",
+    "index": 485
+  },
+  {
+    "surface": "愛縁奇縁",
+    "reading": "aienkien",
+    "code": "cr-koto4-486",
+    "index": 486
+  },
+  {
+    "surface": "一家眷属",
+    "reading": "ikkakenzoku",
+    "code": "cr-koto4-487",
+    "index": 487
+  },
+  {
+    "surface": "老成持重",
+    "reading": "rouseijichou",
+    "code": "cr-koto4-488",
+    "index": 488
+  },
+  {
+    "surface": "二股膏薬",
+    "reading": "futamatakouyaku",
+    "code": "cr-koto4-489",
+    "index": 489
+  },
+  {
+    "surface": "喉元思案",
+    "reading": "nodomotoshian",
+    "code": "cr-koto4-490",
+    "index": 490
+  },
+  {
+    "surface": "身土不二",
+    "reading": "shindofuji",
+    "code": "cr-koto4-491",
+    "index": 491
+  },
+  {
+    "surface": "九死一生",
+    "reading": "kyuushiisshou",
+    "code": "cr-koto4-492",
+    "index": 492
+  },
+  {
+    "surface": "前途多難",
+    "reading": "zentotanan",
+    "code": "cr-koto4-493",
+    "index": 493
+  },
+  {
+    "surface": "手前味噌",
+    "reading": "temaemiso",
+    "code": "cr-koto4-494",
+    "index": 494
+  },
+  {
+    "surface": "沈思黙考",
+    "reading": "chinshimokkou",
+    "code": "cr-koto4-495",
+    "index": 495
+  },
+  {
+    "surface": "邂逅相遇",
+    "reading": "kaikoushou",
+    "code": "cr-koto4-496",
+    "index": 496
+  },
+  {
+    "surface": "鴻鳦満紙",
+    "reading": "ootorishi",
+    "code": "cr-koto4-497",
+    "index": 497
+  },
+  {
+    "surface": "林蘿秘邃",
+    "reading": "hayashi",
+    "code": "cr-koto4-498",
+    "index": 498
+  },
+  {
+    "surface": "悪事千里",
+    "reading": "akujisenri",
+    "code": "cr-koto4-499",
+    "index": 499
+  },
+  {
+    "surface": "以心伝心",
+    "reading": "ishindenshin",
+    "code": "cr-koto4-500",
+    "index": 500
+  },
+  {
+    "surface": "朝盈夕虚",
+    "reading": "asaeisekikyo",
+    "code": "cr-koto4-501",
+    "index": 501
+  },
+  {
+    "surface": "聖恩無彊",
+    "reading": "seionmutsuyoshi",
+    "code": "cr-koto4-502",
+    "index": 502
+  },
+  {
+    "surface": "一陽来復",
+    "reading": "ichiyouraifuku",
+    "code": "cr-koto4-503",
+    "index": 503
+  },
+  {
+    "surface": "敬神愛国",
+    "reading": "keishinaikoku",
+    "code": "cr-koto4-504",
+    "index": 504
+  },
+  {
+    "surface": "翻雲覆雨",
+    "reading": "koboshikumofukuu",
+    "code": "cr-koto4-505",
+    "index": 505
+  },
+  {
+    "surface": "天涯孤独",
+    "reading": "tengaikodoku",
+    "code": "cr-koto4-506",
+    "index": 506
+  },
+  {
+    "surface": "我田引水",
+    "reading": "gadeninsui",
+    "code": "cr-koto4-507",
+    "index": 507
+  },
+  {
+    "surface": "雲散霧消",
+    "reading": "unsanmushou",
+    "code": "cr-koto4-508",
+    "index": 508
+  },
+  {
+    "surface": "乱離骨灰",
+    "reading": "ranrikokkai",
+    "code": "cr-koto4-509",
+    "index": 509
+  },
+  {
+    "surface": "矛盾撞着",
+    "reading": "mujundouchaku",
+    "code": "cr-koto4-510",
+    "index": 510
+  },
+  {
+    "surface": "問答無用",
+    "reading": "mondoumuyou",
+    "code": "cr-koto4-511",
+    "index": 511
+  },
+  {
+    "surface": "経済成長",
+    "reading": "keizaiseichou",
+    "code": "cr-koto4-512",
+    "index": 512
+  },
+  {
+    "surface": "四角四面",
+    "reading": "shikakushimen",
+    "code": "cr-koto4-513",
+    "index": 513
+  },
+  {
+    "surface": "常住不壊",
+    "reading": "joujuufue",
+    "code": "cr-koto4-514",
+    "index": 514
+  },
+  {
+    "surface": "一日三秋",
+    "reading": "ichinichisanshuu",
+    "code": "cr-koto4-515",
+    "index": 515
+  },
+  {
+    "surface": "一世一代",
+    "reading": "ichiseiichidai",
+    "code": "cr-koto4-516",
+    "index": 516
+  },
+  {
+    "surface": "一衣帯水",
+    "reading": "ichiitaisui",
+    "code": "cr-koto4-517",
+    "index": 517
+  },
+  {
+    "surface": "前後不覚",
+    "reading": "zengofukaku",
+    "code": "cr-koto4-518",
+    "index": 518
+  },
+  {
+    "surface": "枝葉末節",
+    "reading": "edahamassetsu",
+    "code": "cr-koto4-519",
+    "index": 519
+  },
+  {
+    "surface": "事事物物",
+    "reading": "jijibutsubutsu",
+    "code": "cr-koto4-520",
+    "index": 520
+  },
+  {
+    "surface": "震天動地",
+    "reading": "shintendouchi",
+    "code": "cr-koto4-521",
+    "index": 521
+  },
+  {
+    "surface": "有名無実",
+    "reading": "yuumeimujitsu",
+    "code": "cr-koto4-522",
+    "index": 522
+  },
+  {
+    "surface": "一宿一飯",
+    "reading": "ichishukuichihan",
+    "code": "cr-koto4-523",
+    "index": 523
+  },
+  {
+    "surface": "緩急自在",
+    "reading": "kankyuujizai",
+    "code": "cr-koto4-524",
+    "index": 524
+  },
+  {
+    "surface": "正真正銘",
+    "reading": "shoushinshoumei",
+    "code": "cr-koto4-525",
+    "index": 525
+  },
+  {
+    "surface": "手枷足枷",
+    "reading": "tekaseashikase",
+    "code": "cr-koto4-526",
+    "index": 526
+  },
+  {
+    "surface": "薫陶成性",
+    "reading": "kuntouseisei",
+    "code": "cr-koto4-527",
+    "index": 527
+  },
+  {
+    "surface": "千差万別",
+    "reading": "sensabanbetsu",
+    "code": "cr-koto4-528",
+    "index": 528
+  },
+  {
+    "surface": "雨天決行",
+    "reading": "utenkekkou",
+    "code": "cr-koto4-529",
+    "index": 529
+  },
+  {
+    "surface": "旧態依然",
+    "reading": "kyuutaiizen",
+    "code": "cr-koto4-530",
+    "index": 530
+  },
+  {
+    "surface": "念仏三昧",
+    "reading": "nenbutsusamadhi",
+    "code": "cr-koto4-531",
+    "index": 531
+  },
+  {
+    "surface": "空前絶後",
+    "reading": "kuuzenzetsugo",
+    "code": "cr-koto4-532",
+    "index": 532
+  },
+  {
+    "surface": "貪官汚吏",
+    "reading": "donkanori",
+    "code": "cr-koto4-533",
+    "index": 533
+  },
+  {
+    "surface": "輾転反側",
+    "reading": "tentenhansoku",
+    "code": "cr-koto4-534",
+    "index": 534
+  },
+  {
+    "surface": "山川草木",
+    "reading": "yamakawakusaki",
+    "code": "cr-koto4-535",
+    "index": 535
+  },
+  {
+    "surface": "変幻自在",
+    "reading": "hengenjizai",
+    "code": "cr-koto4-536",
+    "index": 536
+  },
+  {
+    "surface": "一部始終",
+    "reading": "ichibushijuu",
+    "code": "cr-koto4-537",
+    "index": 537
+  },
+  {
+    "surface": "片言隻語",
+    "reading": "hengensekigo",
+    "code": "cr-koto4-538",
+    "index": 538
+  },
+  {
+    "surface": "一言一句",
+    "reading": "hitokotoikku",
+    "code": "cr-koto4-539",
+    "index": 539
+  },
+  {
+    "surface": "一目十行",
+    "reading": "ichimokujuugyou",
+    "code": "cr-koto4-540",
+    "index": 540
+  },
+  {
+    "surface": "愛多憎生",
+    "reading": "aitazousei",
+    "code": "cr-koto4-541",
+    "index": 541
+  },
+  {
+    "surface": "羅離粉灰",
+    "reading": "rarikonahai",
+    "code": "cr-koto4-542",
+    "index": 542
+  },
+  {
+    "surface": "虚心坦懐",
+    "reading": "kyoshintankai",
+    "code": "cr-koto4-543",
+    "index": 543
+  },
+  {
+    "surface": "当意即妙",
+    "reading": "touisokumyou",
+    "code": "cr-koto4-544",
+    "index": 544
+  },
+  {
+    "surface": "悪口雑言",
+    "reading": "waruguchizougen",
+    "code": "cr-koto4-545",
+    "index": 545
+  },
+  {
+    "surface": "自学自習",
+    "reading": "jigakujishuu",
+    "code": "cr-koto4-546",
+    "index": 546
+  },
+  {
+    "surface": "百花繚乱",
+    "reading": "hyakkaryouran",
+    "code": "cr-koto4-547",
+    "index": 547
+  },
+  {
+    "surface": "虚虚実実",
+    "reading": "kyokyojitsujitsu",
+    "code": "cr-koto4-548",
+    "index": 548
+  },
+  {
+    "surface": "軽裘肥馬",
+    "reading": "keikegoromohiba",
+    "code": "cr-koto4-549",
+    "index": 549
+  },
+  {
+    "surface": "隠忍自重",
+    "reading": "inninjichou",
+    "code": "cr-koto4-550",
+    "index": 550
+  },
+  {
+    "surface": "赤手空拳",
+    "reading": "sekishukuuken",
+    "code": "cr-koto4-551",
+    "index": 551
+  },
+  {
+    "surface": "人面獣心",
+    "reading": "jinmenjuushin",
+    "code": "cr-koto4-552",
+    "index": 552
+  },
+  {
+    "surface": "百世不磨",
+    "reading": "hyakuseifuma",
+    "code": "cr-koto4-553",
+    "index": 553
+  },
+  {
+    "surface": "不協和音",
+    "reading": "fukyouwaon",
+    "code": "cr-koto4-554",
+    "index": 554
+  },
+  {
+    "surface": "虎頭蛇尾",
+    "reading": "kotoudabi",
+    "code": "cr-koto4-555",
+    "index": 555
+  },
+  {
+    "surface": "艱難辛苦",
+    "reading": "kannanshinku",
+    "code": "cr-koto4-556",
+    "index": 556
+  },
+  {
+    "surface": "罵詈雑言",
+    "reading": "barizougen",
+    "code": "cr-koto4-557",
+    "index": 557
+  },
+  {
+    "surface": "文人墨客",
+    "reading": "bunjinbokkaku",
+    "code": "cr-koto4-558",
+    "index": 558
+  },
+  {
+    "surface": "神色自若",
+    "reading": "shinshokujijaku",
+    "code": "cr-koto4-559",
+    "index": 559
+  },
+  {
+    "surface": "蜩螗沸羹",
+    "reading": "kanakanaatsumono",
+    "code": "cr-koto4-560",
+    "index": 560
+  },
+  {
+    "surface": "不得要領",
+    "reading": "futokuyouryou",
+    "code": "cr-koto4-561",
+    "index": 561
+  },
+  {
+    "surface": "外交辞令",
+    "reading": "gaikoujirei",
+    "code": "cr-koto4-562",
+    "index": 562
+  },
+  {
+    "surface": "天長地久",
+    "reading": "tenchouchikyuu",
+    "code": "cr-koto4-563",
+    "index": 563
+  },
+  {
+    "surface": "千思万考",
+    "reading": "senshibankou",
+    "code": "cr-koto4-564",
+    "index": 564
+  },
+  {
+    "surface": "烏孫公主",
+    "reading": "usonkoushu",
+    "code": "cr-koto4-565",
+    "index": 565
+  },
+  {
+    "surface": "雨奇晴好",
+    "reading": "amekiharuyoshi",
+    "code": "cr-koto4-566",
+    "index": 566
+  },
+  {
+    "surface": "猪突豨勇",
+    "reading": "chototsukiisamu",
+    "code": "cr-koto4-567",
+    "index": 567
+  },
+  {
+    "surface": "一望千里",
+    "reading": "ichibousenri",
+    "code": "cr-koto4-568",
+    "index": 568
+  },
+  {
+    "surface": "千編一律",
+    "reading": "senhenichiritsu",
+    "code": "cr-koto4-569",
+    "index": 569
+  },
+  {
+    "surface": "一気呵成",
+    "reading": "ikkikasei",
+    "code": "cr-koto4-570",
+    "index": 570
+  },
+  {
+    "surface": "離合集散",
+    "reading": "rigoushuusan",
+    "code": "cr-koto4-571",
+    "index": 571
+  },
+  {
+    "surface": "粉骨砕身",
+    "reading": "funkotsusaishin",
+    "code": "cr-koto4-572",
+    "index": 572
+  },
+  {
+    "surface": "苦心惨憺",
+    "reading": "kushinsantan",
+    "code": "cr-koto4-573",
+    "index": 573
+  },
+  {
+    "surface": "一伍一什",
+    "reading": "ichigoichi",
+    "code": "cr-koto4-574",
+    "index": 574
+  },
+  {
+    "surface": "苦尽甘来",
+    "reading": "kuzukushiamaki",
+    "code": "cr-koto4-575",
+    "index": 575
+  },
+  {
+    "surface": "兀兀禿禿",
+    "reading": "kotsukotsuhagehage",
+    "code": "cr-koto4-576",
+    "index": 576
+  },
+  {
+    "surface": "𠮟咤激励",
+    "reading": "gekirei",
+    "code": "cr-koto4-577",
+    "index": 577
+  },
+  {
+    "surface": "万代不朽",
+    "reading": "mozufukyuu",
+    "code": "cr-koto4-578",
+    "index": 578
+  },
+  {
+    "surface": "悪漢無頼",
+    "reading": "akkanburai",
+    "code": "cr-koto4-579",
+    "index": 579
+  },
+  {
+    "surface": "壮言大語",
+    "reading": "sougendaigo",
+    "code": "cr-koto4-580",
+    "index": 580
+  },
+  {
+    "surface": "座作進退",
+    "reading": "zasakushintai",
+    "code": "cr-koto4-581",
+    "index": 581
+  },
+  {
+    "surface": "四字熟語",
+    "reading": "yonjijukugo",
+    "code": "cr-koto4-582",
+    "index": 582
+  },
+  {
+    "surface": "直截簡明",
+    "reading": "chokusetsukanmei",
+    "code": "cr-koto4-583",
+    "index": 583
+  },
+  {
+    "surface": "徹頭徹尾",
+    "reading": "tettoutetsubi",
+    "code": "cr-koto4-584",
+    "index": 584
+  },
+  {
+    "surface": "温故知新",
+    "reading": "onkochishin",
+    "code": "cr-koto4-585",
+    "index": 585
+  },
+  {
+    "surface": "揣摩臆測",
+    "reading": "shimaokusoku",
+    "code": "cr-koto4-586",
+    "index": 586
+  },
+  {
+    "surface": "粒粒辛苦",
+    "reading": "tsubutsubushinku",
+    "code": "cr-koto4-587",
+    "index": 587
+  },
+  {
+    "surface": "虎視眈眈",
+    "reading": "koshitantan",
+    "code": "cr-koto4-588",
+    "index": 588
+  },
+  {
+    "surface": "一髪千鈞",
+    "reading": "ippatsusenkin",
+    "code": "cr-koto4-589",
+    "index": 589
+  },
+  {
+    "surface": "多事多端",
+    "reading": "tajitatan",
+    "code": "cr-koto4-590",
+    "index": 590
+  },
+  {
+    "surface": "画蛇添足",
+    "reading": "gahebitenashi",
+    "code": "cr-koto4-591",
+    "index": 591
+  },
+  {
+    "surface": "大悟徹底",
+    "reading": "taigotettei",
+    "code": "cr-koto4-592",
+    "index": 592
+  },
+  {
+    "surface": "茫然自失",
+    "reading": "bouzenjishitsu",
+    "code": "cr-koto4-593",
+    "index": 593
+  },
+  {
+    "surface": "愛玩動物",
+    "reading": "aigandoubutsu",
+    "code": "cr-koto4-594",
+    "index": 594
+  },
+  {
+    "surface": "無量無辺",
+    "reading": "muryoumuhen",
+    "code": "cr-koto4-595",
+    "index": 595
+  },
+  {
+    "surface": "応急処置",
+    "reading": "oukyuushochi",
+    "code": "cr-koto4-596",
+    "index": 596
+  },
+  {
+    "surface": "神仏習合",
+    "reading": "shinbutsushuugou",
+    "code": "cr-koto4-597",
+    "index": 597
+  },
+  {
+    "surface": "唯我独尊",
+    "reading": "yuigadokuson",
+    "code": "cr-koto4-598",
+    "index": 598
+  },
+  {
+    "surface": "和光同塵",
+    "reading": "wakoudoujin",
+    "code": "cr-koto4-599",
+    "index": 599
+  },
+  {
+    "surface": "羊腸小径",
+    "reading": "youchoushoukei",
+    "code": "cr-koto4-600",
+    "index": 600
+  },
+  {
+    "surface": "瓏瓏兀兀",
+    "reading": "kotsukotsu",
+    "code": "cr-koto4-601",
+    "index": 601
+  },
+  {
+    "surface": "幽寂間雅",
+    "reading": "yuujakukanmiyabi",
+    "code": "cr-koto4-602",
+    "index": 602
+  },
+  {
+    "surface": "意味深長",
+    "reading": "imishinchou",
+    "code": "cr-koto4-603",
+    "index": 603
+  },
+  {
+    "surface": "阿吽二字",
+    "reading": "aunniji",
+    "code": "cr-koto4-604",
+    "index": 604
+  },
+  {
+    "surface": "傾側偃仰",
+    "reading": "keigawaenaogu",
+    "code": "cr-koto4-605",
+    "index": 605
+  },
+  {
+    "surface": "彫文刻鏤",
+    "reading": "choumonkoku",
+    "code": "cr-koto4-606",
+    "index": 606
+  },
+  {
+    "surface": "千古不朽",
+    "reading": "senkofukyuu",
+    "code": "cr-koto4-607",
+    "index": 607
+  },
+  {
+    "surface": "百鬼夜行",
+    "reading": "hyakkiyakou",
+    "code": "cr-koto4-608",
+    "index": 608
+  },
+  {
+    "surface": "重厚長大",
+    "reading": "juukouchoudai",
+    "code": "cr-koto4-609",
+    "index": 609
+  },
+  {
+    "surface": "十年一日",
+    "reading": "juunentsuitachi",
+    "code": "cr-koto4-610",
+    "index": 610
+  },
+  {
+    "surface": "一諾千金",
+    "reading": "ichidakusenkin",
+    "code": "cr-koto4-611",
+    "index": 611
+  },
+  {
+    "surface": "判官贔屓",
+    "reading": "houganhiiki",
+    "code": "cr-koto4-612",
+    "index": 612
+  },
+  {
+    "surface": "翼覆嫗煦",
+    "reading": "tsubasafukuouna",
+    "code": "cr-koto4-613",
+    "index": 613
+  },
+  {
+    "surface": "磊磊落落",
+    "reading": "rairairakuraku",
+    "code": "cr-koto4-614",
+    "index": 614
+  },
+  {
+    "surface": "衍曼流爛",
+    "reading": "ryuuran",
+    "code": "cr-koto4-615",
+    "index": 615
+  },
+  {
+    "surface": "意到随筆",
+    "reading": "iitaruzuihitsu",
+    "code": "cr-koto4-616",
+    "index": 616
+  },
+  {
+    "surface": "已己巳己",
+    "reading": "tsuchinotomionore",
+    "code": "cr-koto4-617",
+    "index": 617
+  },
+  {
+    "surface": "一弛一張",
+    "reading": "isshiitchou",
+    "code": "cr-koto4-618",
+    "index": 618
+  },
+  {
+    "surface": "相思相愛",
+    "reading": "soushisouai",
+    "code": "cr-koto4-619",
+    "index": 619
+  },
+  {
+    "surface": "多種多様",
+    "reading": "tashutayou",
+    "code": "cr-koto4-620",
+    "index": 620
+  },
+  {
+    "surface": "雨露霜雪",
+    "reading": "urosousetsu",
+    "code": "cr-koto4-621",
+    "index": 621
+  },
+  {
+    "surface": "暴飲暴食",
+    "reading": "bouinboushoku",
+    "code": "cr-koto4-622",
+    "index": 622
+  },
+  {
+    "surface": "薬石無効",
+    "reading": "yakusekimukou",
+    "code": "cr-koto4-623",
+    "index": 623
+  },
+  {
+    "surface": "常在戦場",
+    "reading": "jouzaisenjou",
+    "code": "cr-koto4-624",
+    "index": 624
+  },
+  {
+    "surface": "杯盤狼藉",
+    "reading": "haibanrouzeki",
+    "code": "cr-koto4-625",
+    "index": 625
+  },
+  {
+    "surface": "進退両難",
+    "reading": "shintairyounan",
+    "code": "cr-koto4-626",
+    "index": 626
+  },
+  {
+    "surface": "廃仏毀釈",
+    "reading": "haibutsukishaku",
+    "code": "cr-koto4-627",
+    "index": 627
+  },
+  {
+    "surface": "捲土重来",
+    "reading": "kendojuurai",
+    "code": "cr-koto4-628",
+    "index": 628
+  },
+  {
+    "surface": "適材適所",
+    "reading": "tekizaitekisho",
+    "code": "cr-koto4-629",
+    "index": 629
+  },
+  {
+    "surface": "竜驤虎視",
+    "reading": "ryuujoukoshi",
+    "code": "cr-koto4-630",
+    "index": 630
+  },
+  {
+    "surface": "鯨飲馬食",
+    "reading": "geiinbashoku",
+    "code": "cr-koto4-631",
+    "index": 631
+  },
+  {
+    "surface": "六臓五腑",
+    "reading": "rokuzougofu",
+    "code": "cr-koto4-632",
+    "index": 632
+  },
+  {
+    "surface": "権謀術数",
+    "reading": "kenboujussuu",
+    "code": "cr-koto4-633",
+    "index": 633
+  },
+  {
+    "surface": "運否天賦",
+    "reading": "unputenpu",
+    "code": "cr-koto4-634",
+    "index": 634
+  },
+  {
+    "surface": "善因善果",
+    "reading": "zeninzenka",
+    "code": "cr-koto4-635",
+    "index": 635
+  },
+  {
+    "surface": "不定愁訴",
+    "reading": "futeishuuso",
+    "code": "cr-koto4-636",
+    "index": 636
+  },
+  {
+    "surface": "晶瑩玲瓏",
+    "reading": "akirareirou",
+    "code": "cr-koto4-637",
+    "index": 637
+  },
+  {
+    "surface": "大言壮語",
+    "reading": "taigensougo",
+    "code": "cr-koto4-638",
+    "index": 638
+  },
+  {
+    "surface": "牛飲馬食",
+    "reading": "gyuuinbashoku",
+    "code": "cr-koto4-639",
+    "index": 639
+  },
+  {
+    "surface": "言語進退",
+    "reading": "gengoshintai",
+    "code": "cr-koto4-640",
+    "index": 640
+  },
+  {
+    "surface": "独立独行",
+    "reading": "dokuritsudokkou",
+    "code": "cr-koto4-641",
+    "index": 641
+  },
+  {
+    "surface": "喜怒哀楽",
+    "reading": "kidoairaku",
+    "code": "cr-koto4-642",
+    "index": 642
+  },
+  {
+    "surface": "一念発起",
+    "reading": "ichinenhokki",
+    "code": "cr-koto4-643",
+    "index": 643
+  },
+  {
+    "surface": "香囲粉陣",
+    "reading": "koukakoikonajin",
+    "code": "cr-koto4-644",
+    "index": 644
+  },
+  {
+    "surface": "生者必滅",
+    "reading": "shoujahitsumetsu",
+    "code": "cr-koto4-645",
+    "index": 645
+  },
+  {
+    "surface": "言語道断",
+    "reading": "gengodoudan",
+    "code": "cr-koto4-646",
+    "index": 646
+  },
+  {
+    "surface": "和顔愛語",
+    "reading": "wagaoaigo",
+    "code": "cr-koto4-647",
+    "index": 647
+  },
+  {
+    "surface": "挙国一致",
+    "reading": "kyokokuitchi",
+    "code": "cr-koto4-648",
+    "index": 648
+  },
+  {
+    "surface": "一言居士",
+    "reading": "hitokotokoji",
+    "code": "cr-koto4-649",
+    "index": 649
+  },
+  {
+    "surface": "三寒四温",
+    "reading": "sankanshion",
+    "code": "cr-koto4-650",
+    "index": 650
+  },
+  {
+    "surface": "狂喜乱舞",
+    "reading": "kyoukiranbu",
+    "code": "cr-koto4-651",
+    "index": 651
+  },
+  {
+    "surface": "同床異夢",
+    "reading": "doushouimu",
+    "code": "cr-koto4-652",
+    "index": 652
+  },
+  {
+    "surface": "不言不語",
+    "reading": "fugenfugo",
+    "code": "cr-koto4-653",
+    "index": 653
+  },
+  {
+    "surface": "豪華絢爛",
+    "reading": "goukakenran",
+    "code": "cr-koto4-654",
+    "index": 654
+  },
+  {
+    "surface": "遮二無二",
+    "reading": "shanimuni",
+    "code": "cr-koto4-655",
+    "index": 655
+  },
+  {
+    "surface": "千鈞一髪",
+    "reading": "senkinippatsu",
+    "code": "cr-koto4-656",
+    "index": 656
+  },
+  {
+    "surface": "怨憎会苦",
+    "reading": "onzoueku",
+    "code": "cr-koto4-657",
+    "index": 657
+  },
+  {
+    "surface": "六道輪廻",
+    "reading": "rikudourinne",
+    "code": "cr-koto4-658",
+    "index": 658
+  },
+  {
+    "surface": "豬突豨勇",
+    "reading": "kiisamu",
+    "code": "cr-koto4-659",
+    "index": 659
+  },
+  {
+    "surface": "花街柳巷",
+    "reading": "kagairyuuchimata",
+    "code": "cr-koto4-660",
+    "index": 660
+  },
+  {
+    "surface": "無理無体",
+    "reading": "murimutai",
+    "code": "cr-koto4-661",
+    "index": 661
+  },
+  {
+    "surface": "万代不易",
+    "reading": "mandaifueki",
+    "code": "cr-koto4-662",
+    "index": 662
+  },
+  {
+    "surface": "一目千本",
+    "reading": "hitomesenbon",
+    "code": "cr-koto4-663",
+    "index": 663
+  },
+  {
+    "surface": "武陵桃源",
+    "reading": "buryoutougen",
+    "code": "cr-koto4-664",
+    "index": 664
+  },
+  {
+    "surface": "絢爛豪華",
+    "reading": "kenrangouka",
+    "code": "cr-koto4-665",
+    "index": 665
+  },
+  {
+    "surface": "股座膏薬",
+    "reading": "matagurakouyaku",
+    "code": "cr-koto4-666",
+    "index": 666
+  },
+  {
+    "surface": "奇想天外",
+    "reading": "kisoutengai",
+    "code": "cr-koto4-667",
+    "index": 667
+  },
+  {
+    "surface": "至上命題",
+    "reading": "shijoumeidai",
+    "code": "cr-koto4-668",
+    "index": 668
+  },
+  {
+    "surface": "四百余州",
+    "reading": "yonhyakuyoshuu",
+    "code": "cr-koto4-669",
+    "index": 669
+  },
+  {
+    "surface": "音信不通",
+    "reading": "onshinfutsuu",
+    "code": "cr-koto4-670",
+    "index": 670
+  },
+  {
+    "surface": "失笑噴飯",
+    "reading": "shisshoufunpan",
+    "code": "cr-koto4-671",
+    "index": 671
+  },
+  {
+    "surface": "不朽不滅",
+    "reading": "fukyuufumetsu",
+    "code": "cr-koto4-672",
+    "index": 672
+  },
+  {
+    "surface": "是是非非",
+    "reading": "zezehihi",
+    "code": "cr-koto4-673",
+    "index": 673
+  },
+  {
+    "surface": "容姿端麗",
+    "reading": "youshitanrei",
+    "code": "cr-koto4-674",
+    "index": 674
+  },
+  {
+    "surface": "勇猛果敢",
+    "reading": "yuumoukakan",
+    "code": "cr-koto4-675",
+    "index": 675
+  },
+  {
+    "surface": "一張一弛",
+    "reading": "itchouisshi",
+    "code": "cr-koto4-676",
+    "index": 676
+  },
+  {
+    "surface": "竜頭鷁首",
+    "reading": "ryuuzugekishu",
+    "code": "cr-koto4-677",
+    "index": 677
+  },
+  {
+    "surface": "一六銀行",
+    "reading": "ichirokuginkou",
+    "code": "cr-koto4-678",
+    "index": 678
+  },
+  {
+    "surface": "豪放磊落",
+    "reading": "gouhourairaku",
+    "code": "cr-koto4-679",
+    "index": 679
+  },
+  {
+    "surface": "跼天蹐地",
+    "reading": "kyokutensekichi",
+    "code": "cr-koto4-680",
+    "index": 680
+  },
+  {
+    "surface": "豊衣足食",
+    "reading": "houisokushoku",
+    "code": "cr-koto4-681",
+    "index": 681
+  },
+  {
+    "surface": "意気投合",
+    "reading": "ikitougou",
+    "code": "cr-koto4-682",
+    "index": 682
+  },
+  {
+    "surface": "一網打尽",
+    "reading": "ichimoudajin",
+    "code": "cr-koto4-683",
+    "index": 683
+  },
+  {
+    "surface": "貫朽粟陳",
+    "reading": "kankyuuzokuchin",
+    "code": "cr-koto4-684",
+    "index": 684
+  },
+  {
+    "surface": "女人禁制",
+    "reading": "nyoninkinsei",
+    "code": "cr-koto4-685",
+    "index": 685
+  },
+  {
+    "surface": "七顚八倒",
+    "reading": "nanahattou",
+    "code": "cr-koto4-686",
+    "index": 686
+  },
+  {
+    "surface": "百尺竿頭",
+    "reading": "hyakushakukantou",
+    "code": "cr-koto4-687",
+    "index": 687
+  },
+  {
+    "surface": "表裏一体",
+    "reading": "hyouriittai",
+    "code": "cr-koto4-688",
+    "index": 688
+  },
+  {
+    "surface": "狐疑逡巡",
+    "reading": "kogishunjun",
+    "code": "cr-koto4-689",
+    "index": 689
+  },
+  {
+    "surface": "天変地異",
+    "reading": "tenpenchii",
+    "code": "cr-koto4-690",
+    "index": 690
+  },
+  {
+    "surface": "一蓮托生",
+    "reading": "ichirentakushou",
+    "code": "cr-koto4-691",
+    "index": 691
+  },
+  {
+    "surface": "射石飲羽",
+    "reading": "shaishiinhane",
+    "code": "cr-koto4-692",
+    "index": 692
+  },
+  {
+    "surface": "雨過天晴",
+    "reading": "amesugiappare",
+    "code": "cr-koto4-693",
+    "index": 693
+  },
+  {
+    "surface": "鄭衞桑閒",
+    "reading": "teimamorusou",
+    "code": "cr-koto4-694",
+    "index": 694
+  },
+  {
+    "surface": "全会一致",
+    "reading": "zenkaiitchi",
+    "code": "cr-koto4-695",
+    "index": 695
+  },
+  {
+    "surface": "意気沮喪",
+    "reading": "ikisosou",
+    "code": "cr-koto4-696",
+    "index": 696
+  },
+  {
+    "surface": "万世一系",
+    "reading": "manseiikkei",
+    "code": "cr-koto4-697",
+    "index": 697
+  },
+  {
+    "surface": "祗管打坐",
+    "reading": "shikantaza",
+    "code": "cr-koto4-698",
+    "index": 698
+  },
+  {
+    "surface": "時代錯誤",
+    "reading": "jidaisakugo",
+    "code": "cr-koto4-699",
+    "index": 699
+  },
+  {
+    "surface": "一心不乱",
+    "reading": "isshinfuran",
+    "code": "cr-koto4-700",
+    "index": 700
+  },
+  {
+    "surface": "縦横無尽",
+    "reading": "juuoumujin",
+    "code": "cr-koto4-701",
+    "index": 701
+  },
+  {
+    "surface": "一失一得",
+    "reading": "ichishitsuittoku",
+    "code": "cr-koto4-702",
+    "index": 702
+  },
+  {
+    "surface": "魯魚亥豕",
+    "reading": "rogyoiinoko",
+    "code": "cr-koto4-703",
+    "index": 703
+  },
+  {
+    "surface": "侈衣美食",
+    "reading": "bishoku",
+    "code": "cr-koto4-704",
+    "index": 704
+  },
+  {
+    "surface": "急転直下",
+    "reading": "kyuutenchokka",
+    "code": "cr-koto4-705",
+    "index": 705
+  },
+  {
+    "surface": "嘔啞嘲哳",
+    "reading": "azakeri",
+    "code": "cr-koto4-706",
+    "index": 706
+  },
+  {
+    "surface": "落花狼藉",
+    "reading": "rakkarouzeki",
+    "code": "cr-koto4-707",
+    "index": 707
+  },
+  {
+    "surface": "自画自賛",
+    "reading": "jigajisan",
+    "code": "cr-koto4-708",
+    "index": 708
+  },
+  {
+    "surface": "老驥伏櫪",
+    "reading": "roukifuku",
+    "code": "cr-koto4-709",
+    "index": 709
+  },
+  {
+    "surface": "夜深人静",
+    "reading": "yobukaninsei",
+    "code": "cr-koto4-710",
+    "index": 710
+  },
+  {
+    "surface": "鸚鵡学舌",
+    "reading": "oumugakuzetsu",
+    "code": "cr-koto4-711",
+    "index": 711
+  },
+  {
+    "surface": "愛執染着",
+    "reading": "aishuusomegi",
+    "code": "cr-koto4-712",
+    "index": 712
+  },
+  {
+    "surface": "巧言令色",
+    "reading": "kougenreishoku",
+    "code": "cr-koto4-713",
+    "index": 713
+  },
+  {
+    "surface": "八面玲瓏",
+    "reading": "hachimenreirou",
+    "code": "cr-koto4-714",
+    "index": 714
+  },
+  {
+    "surface": "正正堂堂",
+    "reading": "seiseidoudou",
+    "code": "cr-koto4-715",
+    "index": 715
+  },
+  {
+    "surface": "驚天動地",
+    "reading": "kyoutendouchi",
+    "code": "cr-koto4-716",
+    "index": 716
+  },
+  {
+    "surface": "神州不滅",
+    "reading": "shinshuufumetsu",
+    "code": "cr-koto4-717",
+    "index": 717
+  },
+  {
+    "surface": "老成円熟",
+    "reading": "rouseienjuku",
+    "code": "cr-koto4-718",
+    "index": 718
+  },
+  {
+    "surface": "勇気凜凜",
+    "reading": "yuukirinrin",
+    "code": "cr-koto4-719",
+    "index": 719
+  },
+  {
+    "surface": "不老不死",
+    "reading": "furoufushi",
+    "code": "cr-koto4-720",
+    "index": 720
+  },
+  {
+    "surface": "用意周到",
+    "reading": "youishuutou",
+    "code": "cr-koto4-721",
+    "index": 721
+  },
+  {
+    "surface": "簡単明瞭",
+    "reading": "kantanmeiryou",
+    "code": "cr-koto4-722",
+    "index": 722
+  },
+  {
+    "surface": "同名異人",
+    "reading": "doumeiijin",
+    "code": "cr-koto4-723",
+    "index": 723
+  },
+  {
+    "surface": "阿諛便佞",
+    "reading": "ayubin",
+    "code": "cr-koto4-724",
+    "index": 724
+  },
+  {
+    "surface": "万寿無疆",
+    "reading": "manjumugyou",
+    "code": "cr-koto4-725",
+    "index": 725
+  },
+  {
+    "surface": "大胆不敵",
+    "reading": "daitanfuteki",
+    "code": "cr-koto4-726",
+    "index": 726
+  },
+  {
+    "surface": "金科玉条",
+    "reading": "kinkagyokujou",
+    "code": "cr-koto4-727",
+    "index": 727
+  },
+  {
+    "surface": "鏡花水月",
+    "reading": "kyoukasuigetsu",
+    "code": "cr-koto4-728",
+    "index": 728
+  },
+  {
+    "surface": "一視同仁",
+    "reading": "isshidoujin",
+    "code": "cr-koto4-729",
+    "index": 729
+  },
+  {
+    "surface": "安車蒲輪",
+    "reading": "anshakabanorin",
+    "code": "cr-koto4-730",
+    "index": 730
+  },
+  {
+    "surface": "針小棒大",
+    "reading": "shinshouboudai",
+    "code": "cr-koto4-731",
+    "index": 731
+  },
+  {
+    "surface": "八面六臂",
+    "reading": "hachimenroppi",
+    "code": "cr-koto4-732",
+    "index": 732
+  },
+  {
+    "surface": "一件落着",
+    "reading": "ichikenrakuchaku",
+    "code": "cr-koto4-733",
+    "index": 733
+  },
+  {
+    "surface": "天上天下",
+    "reading": "tenjoutenka",
+    "code": "cr-koto4-734",
+    "index": 734
+  },
+  {
+    "surface": "劣勢挽回",
+    "reading": "resseibankai",
+    "code": "cr-koto4-735",
+    "index": 735
+  },
+  {
+    "surface": "無為無能",
+    "reading": "muimunou",
+    "code": "cr-koto4-736",
+    "index": 736
+  },
+  {
+    "surface": "一朝一夕",
+    "reading": "itchouisseki",
+    "code": "cr-koto4-737",
+    "index": 737
+  },
+  {
+    "surface": "良妻賢母",
+    "reading": "ryousaikenbo",
+    "code": "cr-koto4-738",
+    "index": 738
+  },
+  {
+    "surface": "雲外蒼天",
+    "reading": "ungaisouten",
+    "code": "cr-koto4-739",
+    "index": 739
+  },
+  {
+    "surface": "狂瀾怒涛",
+    "reading": "kyourandotou",
+    "code": "cr-koto4-740",
+    "index": 740
+  },
+  {
+    "surface": "軍備縮小",
+    "reading": "gunbishukushou",
+    "code": "cr-koto4-741",
+    "index": 741
+  },
+  {
+    "surface": "恒久不変",
+    "reading": "koukyuufuhen",
+    "code": "cr-koto4-742",
+    "index": 742
+  },
+  {
+    "surface": "連戦連勝",
+    "reading": "rensenrenshou",
+    "code": "cr-koto4-743",
+    "index": 743
+  },
+  {
+    "surface": "阿諛迎合",
+    "reading": "ayugeigou",
+    "code": "cr-koto4-744",
+    "index": 744
+  },
+  {
+    "surface": "夷蛮戎狄",
+    "reading": "ebisubanebisuteki",
+    "code": "cr-koto4-745",
+    "index": 745
+  },
+  {
+    "surface": "不俱戴天",
+    "reading": "fugutaiten",
+    "code": "cr-koto4-746",
+    "index": 746
+  }
+]

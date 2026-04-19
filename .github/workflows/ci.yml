@@ -1,0 +1,32 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  wordlists-v2:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install -e "packages/wordlists-v2[dev]"
+      - name: Pytest wordlists-v2
+        working-directory: packages/wordlists-v2
+        run: pytest -q
+
+  cleanroom-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install cleanroom-pipeline
+        run: pip install -e "packages/cleanroom-pipeline" pytest
+      - name: Pytest deck_filters
+        working-directory: packages/cleanroom-pipeline
+        run: pytest tests/test_deck_filters.py -q

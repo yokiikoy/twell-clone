@@ -1,0 +1,1010 @@
+[
+  {
+    "surface": "おっと",
+    "reading": "otto",
+    "code": "cr-jou8-0",
+    "index": 0
+  },
+  {
+    "surface": "いざ",
+    "reading": "iza",
+    "code": "cr-jou8-1",
+    "index": 1
+  },
+  {
+    "surface": "アハハハ",
+    "reading": "ahahaha",
+    "code": "cr-jou8-2",
+    "index": 2
+  },
+  {
+    "surface": "あーあ",
+    "reading": "aaa",
+    "code": "cr-jou8-3",
+    "index": 3
+  },
+  {
+    "surface": "ウーン",
+    "reading": "uun",
+    "code": "cr-jou8-4",
+    "index": 4
+  },
+  {
+    "surface": "えーと",
+    "reading": "eeto",
+    "code": "cr-jou8-5",
+    "index": 5
+  },
+  {
+    "surface": "ホッホッホッ",
+    "reading": "hohhohho",
+    "code": "cr-jou8-6",
+    "index": 6
+  },
+  {
+    "surface": "なっ",
+    "reading": "na",
+    "code": "cr-jou8-7",
+    "index": 7
+  },
+  {
+    "surface": "アーーー",
+    "reading": "aa",
+    "code": "cr-jou8-8",
+    "index": 8
+  },
+  {
+    "surface": "うっ",
+    "reading": "u",
+    "code": "cr-jou8-9",
+    "index": 9
+  },
+  {
+    "surface": "サヨーナラ",
+    "reading": "sayoonara",
+    "code": "cr-jou8-10",
+    "index": 10
+  },
+  {
+    "surface": "ハァー",
+    "reading": "haa",
+    "code": "cr-jou8-11",
+    "index": 11
+  },
+  {
+    "surface": "アハハハハ",
+    "reading": "ahahahaha",
+    "code": "cr-jou8-12",
+    "index": 12
+  },
+  {
+    "surface": "ゲッ",
+    "reading": "ge",
+    "code": "cr-jou8-13",
+    "index": 13
+  },
+  {
+    "surface": "いで",
+    "reading": "ide",
+    "code": "cr-jou8-14",
+    "index": 14
+  },
+  {
+    "surface": "わはは",
+    "reading": "wahaha",
+    "code": "cr-jou8-15",
+    "index": 15
+  },
+  {
+    "surface": "エヘン",
+    "reading": "ehen",
+    "code": "cr-jou8-16",
+    "index": 16
+  },
+  {
+    "surface": "あのー",
+    "reading": "anoo",
+    "code": "cr-jou8-17",
+    "index": 17
+  },
+  {
+    "surface": "ほっ",
+    "reading": "ho",
+    "code": "cr-jou8-18",
+    "index": 18
+  },
+  {
+    "surface": "ふう",
+    "reading": "fuu",
+    "code": "cr-jou8-19",
+    "index": 19
+  },
+  {
+    "surface": "ねぇ",
+    "reading": "ne",
+    "code": "cr-jou8-20",
+    "index": 20
+  },
+  {
+    "surface": "へー",
+    "reading": "hee",
+    "code": "cr-jou8-21",
+    "index": 21
+  },
+  {
+    "surface": "フフフ",
+    "reading": "fufufu",
+    "code": "cr-jou8-22",
+    "index": 22
+  },
+  {
+    "surface": "ううん",
+    "reading": "uun",
+    "code": "cr-jou8-23",
+    "index": 23
+  },
+  {
+    "surface": "フーン",
+    "reading": "fuun",
+    "code": "cr-jou8-24",
+    "index": 24
+  },
+  {
+    "surface": "えーー",
+    "reading": "ee",
+    "code": "cr-jou8-25",
+    "index": 25
+  },
+  {
+    "surface": "すん",
+    "reading": "sun",
+    "code": "cr-jou8-26",
+    "index": 26
+  },
+  {
+    "surface": "わぁ",
+    "reading": "wa",
+    "code": "cr-jou8-27",
+    "index": 27
+  },
+  {
+    "surface": "わっ",
+    "reading": "wa",
+    "code": "cr-jou8-28",
+    "index": 28
+  },
+  {
+    "surface": "フフッ",
+    "reading": "fufu",
+    "code": "cr-jou8-29",
+    "index": 29
+  },
+  {
+    "surface": "ヤッタ",
+    "reading": "yatta",
+    "code": "cr-jou8-30",
+    "index": 30
+  },
+  {
+    "surface": "ふーん",
+    "reading": "fuun",
+    "code": "cr-jou8-31",
+    "index": 31
+  },
+  {
+    "surface": "おめでとう",
+    "reading": "omedetou",
+    "code": "cr-jou8-32",
+    "index": 32
+  },
+  {
+    "surface": "オー",
+    "reading": "oo",
+    "code": "cr-jou8-33",
+    "index": 33
+  },
+  {
+    "surface": "ヤッター",
+    "reading": "yattaa",
+    "code": "cr-jou8-34",
+    "index": 34
+  },
+  {
+    "surface": "うわっ",
+    "reading": "uwa",
+    "code": "cr-jou8-35",
+    "index": 35
+  },
+  {
+    "surface": "うわ",
+    "reading": "uwa",
+    "code": "cr-jou8-36",
+    "index": 36
+  },
+  {
+    "surface": "ハクション",
+    "reading": "hakushon",
+    "code": "cr-jou8-37",
+    "index": 37
+  },
+  {
+    "surface": "へへへ",
+    "reading": "hehehe",
+    "code": "cr-jou8-38",
+    "index": 38
+  },
+  {
+    "surface": "コラ",
+    "reading": "kora",
+    "code": "cr-jou8-39",
+    "index": 39
+  },
+  {
+    "surface": "くっ",
+    "reading": "ku",
+    "code": "cr-jou8-40",
+    "index": 40
+  },
+  {
+    "surface": "アハハ",
+    "reading": "ahaha",
+    "code": "cr-jou8-41",
+    "index": 41
+  },
+  {
+    "surface": "なんちゃって",
+    "reading": "nanchatte",
+    "code": "cr-jou8-42",
+    "index": 42
+  },
+  {
+    "surface": "ウフフ",
+    "reading": "ufufu",
+    "code": "cr-jou8-43",
+    "index": 43
+  },
+  {
+    "surface": "オイ",
+    "reading": "oi",
+    "code": "cr-jou8-44",
+    "index": 44
+  },
+  {
+    "surface": "ありがとう",
+    "reading": "arigatou",
+    "code": "cr-jou8-45",
+    "index": 45
+  },
+  {
+    "surface": "フフ",
+    "reading": "fufu",
+    "code": "cr-jou8-46",
+    "index": 46
+  },
+  {
+    "surface": "ハァ",
+    "reading": "ha",
+    "code": "cr-jou8-47",
+    "index": 47
+  },
+  {
+    "surface": "ほら",
+    "reading": "hora",
+    "code": "cr-jou8-48",
+    "index": 48
+  },
+  {
+    "surface": "ヤーイ",
+    "reading": "yaai",
+    "code": "cr-jou8-49",
+    "index": 49
+  },
+  {
+    "surface": "おはよう",
+    "reading": "ohayou",
+    "code": "cr-jou8-50",
+    "index": 50
+  },
+  {
+    "surface": "ヨイショ",
+    "reading": "yoisho",
+    "code": "cr-jou8-51",
+    "index": 51
+  },
+  {
+    "surface": "あははは",
+    "reading": "ahahaha",
+    "code": "cr-jou8-52",
+    "index": 52
+  },
+  {
+    "surface": "アーア",
+    "reading": "aaa",
+    "code": "cr-jou8-53",
+    "index": 53
+  },
+  {
+    "surface": "しっ",
+    "reading": "shi",
+    "code": "cr-jou8-54",
+    "index": 54
+  },
+  {
+    "surface": "あはは",
+    "reading": "ahaha",
+    "code": "cr-jou8-55",
+    "index": 55
+  },
+  {
+    "surface": "ほう",
+    "reading": "hou",
+    "code": "cr-jou8-56",
+    "index": 56
+  },
+  {
+    "surface": "ぐはっ",
+    "reading": "guha",
+    "code": "cr-jou8-57",
+    "index": 57
+  },
+  {
+    "surface": "さよなら",
+    "reading": "sayonara",
+    "code": "cr-jou8-58",
+    "index": 58
+  },
+  {
+    "surface": "今晩は",
+    "reading": "konbanha",
+    "code": "cr-jou8-59",
+    "index": 59
+  },
+  {
+    "surface": "やれ",
+    "reading": "yare",
+    "code": "cr-jou8-60",
+    "index": 60
+  },
+  {
+    "surface": "サヨウナラ",
+    "reading": "sayounara",
+    "code": "cr-jou8-61",
+    "index": 61
+  },
+  {
+    "surface": "ねえ",
+    "reading": "nee",
+    "code": "cr-jou8-62",
+    "index": 62
+  },
+  {
+    "surface": "なあ",
+    "reading": "naa",
+    "code": "cr-jou8-63",
+    "index": 63
+  },
+  {
+    "surface": "さようなら",
+    "reading": "sayounara",
+    "code": "cr-jou8-64",
+    "index": 64
+  },
+  {
+    "surface": "トホホ",
+    "reading": "tohoho",
+    "code": "cr-jou8-65",
+    "index": 65
+  },
+  {
+    "surface": "もー",
+    "reading": "moo",
+    "code": "cr-jou8-66",
+    "index": 66
+  },
+  {
+    "surface": "アア",
+    "reading": "aa",
+    "code": "cr-jou8-67",
+    "index": 67
+  },
+  {
+    "surface": "あう",
+    "reading": "au",
+    "code": "cr-jou8-68",
+    "index": 68
+  },
+  {
+    "surface": "バイバイ",
+    "reading": "byby",
+    "code": "cr-jou8-69",
+    "index": 69
+  },
+  {
+    "surface": "イェイ",
+    "reading": "ei",
+    "code": "cr-jou8-70",
+    "index": 70
+  },
+  {
+    "surface": "おおっ",
+    "reading": "oo",
+    "code": "cr-jou8-71",
+    "index": 71
+  },
+  {
+    "surface": "えー",
+    "reading": "ee",
+    "code": "cr-jou8-72",
+    "index": 72
+  },
+  {
+    "surface": "シーッ",
+    "reading": "shii",
+    "code": "cr-jou8-73",
+    "index": 73
+  },
+  {
+    "surface": "ああ",
+    "reading": "aa",
+    "code": "cr-jou8-74",
+    "index": 74
+  },
+  {
+    "surface": "アアア",
+    "reading": "aaa",
+    "code": "cr-jou8-75",
+    "index": 75
+  },
+  {
+    "surface": "ハイサイ",
+    "reading": "haisai",
+    "code": "cr-jou8-76",
+    "index": 76
+  },
+  {
+    "surface": "あいたた",
+    "reading": "aitata",
+    "code": "cr-jou8-77",
+    "index": 77
+  },
+  {
+    "surface": "ハイ・ウィカム",
+    "reading": "haiwecome",
+    "code": "cr-jou8-78",
+    "index": 78
+  },
+  {
+    "surface": "ハアー",
+    "reading": "haaa",
+    "code": "cr-jou8-79",
+    "index": 79
+  },
+  {
+    "surface": "はん",
+    "reading": "han",
+    "code": "cr-jou8-80",
+    "index": 80
+  },
+  {
+    "surface": "有難う",
+    "reading": "arigatou",
+    "code": "cr-jou8-81",
+    "index": 81
+  },
+  {
+    "surface": "やい",
+    "reading": "yai",
+    "code": "cr-jou8-82",
+    "index": 82
+  },
+  {
+    "surface": "アッハッハ",
+    "reading": "ahhahha",
+    "code": "cr-jou8-83",
+    "index": 83
+  },
+  {
+    "surface": "こんにちは",
+    "reading": "konnichiha",
+    "code": "cr-jou8-84",
+    "index": 84
+  },
+  {
+    "surface": "アカンベー",
+    "reading": "akanbee",
+    "code": "cr-jou8-85",
+    "index": 85
+  },
+  {
+    "surface": "どっこい",
+    "reading": "dokkoi",
+    "code": "cr-jou8-86",
+    "index": 86
+  },
+  {
+    "surface": "いえ",
+    "reading": "ie",
+    "code": "cr-jou8-87",
+    "index": 87
+  },
+  {
+    "surface": "あらっ",
+    "reading": "ara",
+    "code": "cr-jou8-88",
+    "index": 88
+  },
+  {
+    "surface": "うむ",
+    "reading": "umu",
+    "code": "cr-jou8-89",
+    "index": 89
+  },
+  {
+    "surface": "あら",
+    "reading": "ara",
+    "code": "cr-jou8-90",
+    "index": 90
+  },
+  {
+    "surface": "んー",
+    "reading": "nn",
+    "code": "cr-jou8-91",
+    "index": 91
+  },
+  {
+    "surface": "ハァーッ",
+    "reading": "haa",
+    "code": "cr-jou8-92",
+    "index": 92
+  },
+  {
+    "surface": "ほお",
+    "reading": "hoo",
+    "code": "cr-jou8-93",
+    "index": 93
+  },
+  {
+    "surface": "えっと",
+    "reading": "etto",
+    "code": "cr-jou8-94",
+    "index": 94
+  },
+  {
+    "surface": "ぎゃ",
+    "reading": "gya",
+    "code": "cr-jou8-95",
+    "index": 95
+  },
+  {
+    "surface": "ハア",
+    "reading": "haa",
+    "code": "cr-jou8-96",
+    "index": 96
+  },
+  {
+    "surface": "あー",
+    "reading": "aa",
+    "code": "cr-jou8-97",
+    "index": 97
+  },
+  {
+    "surface": "ふふっ",
+    "reading": "fufu",
+    "code": "cr-jou8-98",
+    "index": 98
+  },
+  {
+    "surface": "ありがと",
+    "reading": "arigato",
+    "code": "cr-jou8-99",
+    "index": 99
+  },
+  {
+    "surface": "チェッ",
+    "reading": "che",
+    "code": "cr-jou8-100",
+    "index": 100
+  },
+  {
+    "surface": "ねっ",
+    "reading": "ne",
+    "code": "cr-jou8-101",
+    "index": 101
+  },
+  {
+    "surface": "エー",
+    "reading": "ee",
+    "code": "cr-jou8-102",
+    "index": 102
+  },
+  {
+    "surface": "ふふふ",
+    "reading": "fufufu",
+    "code": "cr-jou8-103",
+    "index": 103
+  },
+  {
+    "surface": "ええ",
+    "reading": "ee",
+    "code": "cr-jou8-104",
+    "index": 104
+  },
+  {
+    "surface": "ひっ",
+    "reading": "hi",
+    "code": "cr-jou8-105",
+    "index": 105
+  },
+  {
+    "surface": "アァ",
+    "reading": "a",
+    "code": "cr-jou8-106",
+    "index": 106
+  },
+  {
+    "surface": "アー",
+    "reading": "aa",
+    "code": "cr-jou8-107",
+    "index": 107
+  },
+  {
+    "surface": "くくっ",
+    "reading": "kukutto",
+    "code": "cr-jou8-108",
+    "index": 108
+  },
+  {
+    "surface": "よし",
+    "reading": "yoshi",
+    "code": "cr-jou8-109",
+    "index": 109
+  },
+  {
+    "surface": "もとい",
+    "reading": "motoi",
+    "code": "cr-jou8-110",
+    "index": 110
+  },
+  {
+    "surface": "おい",
+    "reading": "oi",
+    "code": "cr-jou8-111",
+    "index": 111
+  },
+  {
+    "surface": "アッ",
+    "reading": "a",
+    "code": "cr-jou8-112",
+    "index": 112
+  },
+  {
+    "surface": "ほほ",
+    "reading": "hoho",
+    "code": "cr-jou8-113",
+    "index": 113
+  },
+  {
+    "surface": "エイヤッ",
+    "reading": "eiya",
+    "code": "cr-jou8-114",
+    "index": 114
+  },
+  {
+    "surface": "くそっ",
+    "reading": "kuso",
+    "code": "cr-jou8-115",
+    "index": 115
+  },
+  {
+    "surface": "しーっ",
+    "reading": "shii",
+    "code": "cr-jou8-116",
+    "index": 116
+  },
+  {
+    "surface": "はっ",
+    "reading": "ha",
+    "code": "cr-jou8-117",
+    "index": 117
+  },
+  {
+    "surface": "アラ",
+    "reading": "ara",
+    "code": "cr-jou8-118",
+    "index": 118
+  },
+  {
+    "surface": "いやいや",
+    "reading": "iyaiya",
+    "code": "cr-jou8-119",
+    "index": 119
+  },
+  {
+    "surface": "いやぁ",
+    "reading": "iya",
+    "code": "cr-jou8-120",
+    "index": 120
+  },
+  {
+    "surface": "おやすみ",
+    "reading": "oyasumi",
+    "code": "cr-jou8-121",
+    "index": 121
+  },
+  {
+    "surface": "クソ",
+    "reading": "kuso",
+    "code": "cr-jou8-122",
+    "index": 122
+  },
+  {
+    "surface": "ヤレ",
+    "reading": "yare",
+    "code": "cr-jou8-123",
+    "index": 123
+  },
+  {
+    "surface": "はい",
+    "reading": "hai",
+    "code": "cr-jou8-124",
+    "index": 124
+  },
+  {
+    "surface": "有り難う",
+    "reading": "arigatou",
+    "code": "cr-jou8-125",
+    "index": 125
+  },
+  {
+    "surface": "さあ",
+    "reading": "saa",
+    "code": "cr-jou8-126",
+    "index": 126
+  },
+  {
+    "surface": "ウイ",
+    "reading": "ui",
+    "code": "cr-jou8-127",
+    "index": 127
+  },
+  {
+    "surface": "いいえ",
+    "reading": "iie",
+    "code": "cr-jou8-128",
+    "index": 128
+  },
+  {
+    "surface": "ううむ",
+    "reading": "uumu",
+    "code": "cr-jou8-129",
+    "index": 129
+  },
+  {
+    "surface": "ささ",
+    "reading": "sasa",
+    "code": "cr-jou8-130",
+    "index": 130
+  },
+  {
+    "surface": "ほえ",
+    "reading": "hoe",
+    "code": "cr-jou8-131",
+    "index": 131
+  },
+  {
+    "surface": "いや",
+    "reading": "iya",
+    "code": "cr-jou8-132",
+    "index": 132
+  },
+  {
+    "surface": "ひい",
+    "reading": "hii",
+    "code": "cr-jou8-133",
+    "index": 133
+  },
+  {
+    "surface": "クックックッ",
+    "reading": "kukkukku",
+    "code": "cr-jou8-134",
+    "index": 134
+  },
+  {
+    "surface": "カワユス",
+    "reading": "kawayusu",
+    "code": "cr-jou8-135",
+    "index": 135
+  },
+  {
+    "surface": "わはははは",
+    "reading": "wahahahaha",
+    "code": "cr-jou8-136",
+    "index": 136
+  },
+  {
+    "surface": "ククク",
+    "reading": "kukuku",
+    "code": "cr-jou8-137",
+    "index": 137
+  },
+  {
+    "surface": "いやあ",
+    "reading": "iyaa",
+    "code": "cr-jou8-138",
+    "index": 138
+  },
+  {
+    "surface": "サヨナラ",
+    "reading": "sayonara",
+    "code": "cr-jou8-139",
+    "index": 139
+  },
+  {
+    "surface": "うわあ",
+    "reading": "uwaa",
+    "code": "cr-jou8-140",
+    "index": 140
+  },
+  {
+    "surface": "フェーン",
+    "reading": "feen",
+    "code": "cr-jou8-141",
+    "index": 141
+  },
+  {
+    "surface": "そうそう",
+    "reading": "sousou",
+    "code": "cr-jou8-142",
+    "index": 142
+  },
+  {
+    "surface": "あっ",
+    "reading": "a",
+    "code": "cr-jou8-143",
+    "index": 143
+  },
+  {
+    "surface": "くそ",
+    "reading": "kuso",
+    "code": "cr-jou8-144",
+    "index": 144
+  },
+  {
+    "surface": "エイ",
+    "reading": "ei",
+    "code": "cr-jou8-145",
+    "index": 145
+  },
+  {
+    "surface": "うふふ",
+    "reading": "ufufu",
+    "code": "cr-jou8-146",
+    "index": 146
+  },
+  {
+    "surface": "ウーンソケット",
+    "reading": "uunsocket",
+    "code": "cr-jou8-147",
+    "index": 147
+  },
+  {
+    "surface": "げっ",
+    "reading": "ge",
+    "code": "cr-jou8-148",
+    "index": 148
+  },
+  {
+    "surface": "ハッケヨイ",
+    "reading": "hakkeyoi",
+    "code": "cr-jou8-149",
+    "index": 149
+  },
+  {
+    "surface": "アッカンベー",
+    "reading": "akkanbee",
+    "code": "cr-jou8-150",
+    "index": 150
+  },
+  {
+    "surface": "まー",
+    "reading": "maa",
+    "code": "cr-jou8-151",
+    "index": 151
+  },
+  {
+    "surface": "ふふ",
+    "reading": "fufu",
+    "code": "cr-jou8-152",
+    "index": 152
+  },
+  {
+    "surface": "なぁー",
+    "reading": "naa",
+    "code": "cr-jou8-153",
+    "index": 153
+  },
+  {
+    "surface": "おっ",
+    "reading": "o",
+    "code": "cr-jou8-154",
+    "index": 154
+  },
+  {
+    "surface": "あぁ",
+    "reading": "a",
+    "code": "cr-jou8-155",
+    "index": 155
+  },
+  {
+    "surface": "おえ",
+    "reading": "oe",
+    "code": "cr-jou8-156",
+    "index": 156
+  },
+  {
+    "surface": "アーー",
+    "reading": "aa",
+    "code": "cr-jou8-157",
+    "index": 157
+  },
+  {
+    "surface": "よっ",
+    "reading": "yo",
+    "code": "cr-jou8-158",
+    "index": 158
+  },
+  {
+    "surface": "ハアーッ",
+    "reading": "haaa",
+    "code": "cr-jou8-159",
+    "index": 159
+  },
+  {
+    "surface": "もしもし",
+    "reading": "moshimoshi",
+    "code": "cr-jou8-160",
+    "index": 160
+  },
+  {
+    "surface": "えっ",
+    "reading": "e",
+    "code": "cr-jou8-161",
+    "index": 161
+  },
+  {
+    "surface": "いやー",
+    "reading": "iyaa",
+    "code": "cr-jou8-162",
+    "index": 162
+  },
+  {
+    "surface": "ハイ",
+    "reading": "hai",
+    "code": "cr-jou8-163",
+    "index": 163
+  },
+  {
+    "surface": "けっ",
+    "reading": "ke",
+    "code": "cr-jou8-164",
+    "index": 164
+  },
+  {
+    "surface": "はぁ",
+    "reading": "ha",
+    "code": "cr-jou8-165",
+    "index": 165
+  },
+  {
+    "surface": "うん",
+    "reading": "un",
+    "code": "cr-jou8-166",
+    "index": 166
+  },
+  {
+    "surface": "アーッ",
+    "reading": "aa",
+    "code": "cr-jou8-167",
+    "index": 167
+  }
+]

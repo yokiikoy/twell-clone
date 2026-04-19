@@ -1,0 +1,2954 @@
+[
+  {
+    "surface": "ヨーシン",
+    "reading": "eosine",
+    "code": "cr-kata9-0",
+    "index": 0
+  },
+  {
+    "surface": "ユーモレスク",
+    "reading": "humoresque",
+    "code": "cr-kata9-1",
+    "index": 1
+  },
+  {
+    "surface": "ヤジウマ",
+    "reading": "yajiuma",
+    "code": "cr-kata9-2",
+    "index": 2
+  },
+  {
+    "surface": "ヤママユガ",
+    "reading": "yamamayuga",
+    "code": "cr-kata9-3",
+    "index": 3
+  },
+  {
+    "surface": "ヤマモガシ",
+    "reading": "yamamogashi",
+    "code": "cr-kata9-4",
+    "index": 4
+  },
+  {
+    "surface": "ヤマアイ",
+    "reading": "yamaeye",
+    "code": "cr-kata9-5",
+    "index": 5
+  },
+  {
+    "surface": "ユウゲショウ",
+    "reading": "yuugeshou",
+    "code": "cr-kata9-6",
+    "index": 6
+  },
+  {
+    "surface": "ユニーク",
+    "reading": "unique",
+    "code": "cr-kata9-7",
+    "index": 7
+  },
+  {
+    "surface": "ヨッテル",
+    "reading": "yotteru",
+    "code": "cr-kata9-8",
+    "index": 8
+  },
+  {
+    "surface": "ヨークシャーテリア",
+    "reading": "yorkshireterrier",
+    "code": "cr-kata9-9",
+    "index": 9
+  },
+  {
+    "surface": "ユキウサギ",
+    "reading": "yukiusagi",
+    "code": "cr-kata9-10",
+    "index": 10
+  },
+  {
+    "surface": "ヤスリ",
+    "reading": "yasuri",
+    "code": "cr-kata9-11",
+    "index": 11
+  },
+  {
+    "surface": "ユーフオー",
+    "reading": "yuufuoo",
+    "code": "cr-kata9-12",
+    "index": 12
+  },
+  {
+    "surface": "ヤマナシ",
+    "reading": "yamanashi",
+    "code": "cr-kata9-13",
+    "index": 13
+  },
+  {
+    "surface": "ヤンキー",
+    "reading": "yankee",
+    "code": "cr-kata9-14",
+    "index": 14
+  },
+  {
+    "surface": "ヨブ",
+    "reading": "job",
+    "code": "cr-kata9-15",
+    "index": 15
+  },
+  {
+    "surface": "ユニットキッチン",
+    "reading": "unitkitchen",
+    "code": "cr-kata9-16",
+    "index": 16
+  },
+  {
+    "surface": "ヤマアラシ",
+    "reading": "yamaarashi",
+    "code": "cr-kata9-17",
+    "index": 17
+  },
+  {
+    "surface": "ヤケド",
+    "reading": "yakedo",
+    "code": "cr-kata9-18",
+    "index": 18
+  },
+  {
+    "surface": "ヨイッショ",
+    "reading": "yoissho",
+    "code": "cr-kata9-19",
+    "index": 19
+  },
+  {
+    "surface": "ヨード",
+    "reading": "jod",
+    "code": "cr-kata9-20",
+    "index": 20
+  },
+  {
+    "surface": "ヤガ",
+    "reading": "yaga",
+    "code": "cr-kata9-21",
+    "index": 21
+  },
+  {
+    "surface": "ユーザ",
+    "reading": "user",
+    "code": "cr-kata9-22",
+    "index": 22
+  },
+  {
+    "surface": "ユニットバス",
+    "reading": "unitbus",
+    "code": "cr-kata9-23",
+    "index": 23
+  },
+  {
+    "surface": "ヤンガンビ",
+    "reading": "yanganbi",
+    "code": "cr-kata9-24",
+    "index": 24
+  },
+  {
+    "surface": "ユーゲニズム",
+    "reading": "yuugenizumu",
+    "code": "cr-kata9-25",
+    "index": 25
+  },
+  {
+    "surface": "ユルガ",
+    "reading": "yuruga",
+    "code": "cr-kata9-26",
+    "index": 26
+  },
+  {
+    "surface": "ヨーロッパ",
+    "reading": "europa",
+    "code": "cr-kata9-27",
+    "index": 27
+  },
+  {
+    "surface": "ヨシキリザメ",
+    "reading": "yoshikirizame",
+    "code": "cr-kata9-28",
+    "index": 28
+  },
+  {
+    "surface": "ヨーヨー",
+    "reading": "yooyoo",
+    "code": "cr-kata9-29",
+    "index": 29
+  },
+  {
+    "surface": "ヤマザクラ",
+    "reading": "yamazakura",
+    "code": "cr-kata9-30",
+    "index": 30
+  },
+  {
+    "surface": "ヤムサ",
+    "reading": "yamsa",
+    "code": "cr-kata9-31",
+    "index": 31
+  },
+  {
+    "surface": "ユーエスエー",
+    "reading": "yuuesuee",
+    "code": "cr-kata9-32",
+    "index": 32
+  },
+  {
+    "surface": "ユーザンス",
+    "reading": "usance",
+    "code": "cr-kata9-33",
+    "index": 33
+  },
+  {
+    "surface": "ヤナギ",
+    "reading": "yanagi",
+    "code": "cr-kata9-34",
+    "index": 34
+  },
+  {
+    "surface": "ユーティカ",
+    "reading": "youtika",
+    "code": "cr-kata9-35",
+    "index": 35
+  },
+  {
+    "surface": "ユーゴスラヴィア",
+    "reading": "yugoslavia",
+    "code": "cr-kata9-36",
+    "index": 36
+  },
+  {
+    "surface": "ヤキモキ",
+    "reading": "yakimoki",
+    "code": "cr-kata9-37",
+    "index": 37
+  },
+  {
+    "surface": "ヤマルリソウ",
+    "reading": "yamarurisou",
+    "code": "cr-kata9-38",
+    "index": 38
+  },
+  {
+    "surface": "ユーボート",
+    "reading": "youboat",
+    "code": "cr-kata9-39",
+    "index": 39
+  },
+  {
+    "surface": "ヤマヨモギ",
+    "reading": "yamayomogi",
+    "code": "cr-kata9-40",
+    "index": 40
+  },
+  {
+    "surface": "ヤリサー",
+    "reading": "yarisir",
+    "code": "cr-kata9-41",
+    "index": 41
+  },
+  {
+    "surface": "ユウガオ",
+    "reading": "yuugao",
+    "code": "cr-kata9-42",
+    "index": 42
+  },
+  {
+    "surface": "ヤキソバ",
+    "reading": "yakisoba",
+    "code": "cr-kata9-43",
+    "index": 43
+  },
+  {
+    "surface": "ユミル",
+    "reading": "youmill",
+    "code": "cr-kata9-44",
+    "index": 44
+  },
+  {
+    "surface": "ヤンバン",
+    "reading": "janvan",
+    "code": "cr-kata9-45",
+    "index": 45
+  },
+  {
+    "surface": "ユニセックス",
+    "reading": "unisex",
+    "code": "cr-kata9-46",
+    "index": 46
+  },
+  {
+    "surface": "ヨゴレ",
+    "reading": "yogore",
+    "code": "cr-kata9-47",
+    "index": 47
+  },
+  {
+    "surface": "ヤツデ",
+    "reading": "yatsude",
+    "code": "cr-kata9-48",
+    "index": 48
+  },
+  {
+    "surface": "ユニコーン",
+    "reading": "unicorn",
+    "code": "cr-kata9-49",
+    "index": 49
+  },
+  {
+    "surface": "ヤマ",
+    "reading": "yama",
+    "code": "cr-kata9-50",
+    "index": 50
+  },
+  {
+    "surface": "ヤンボル",
+    "reading": "janboru",
+    "code": "cr-kata9-51",
+    "index": 51
+  },
+  {
+    "surface": "ヨクト",
+    "reading": "yokuto",
+    "code": "cr-kata9-52",
+    "index": 52
+  },
+  {
+    "surface": "ユムシ",
+    "reading": "youmushi",
+    "code": "cr-kata9-53",
+    "index": 53
+  },
+  {
+    "surface": "ユトレヒト",
+    "reading": "utrecht",
+    "code": "cr-kata9-54",
+    "index": 54
+  },
+  {
+    "surface": "ユッカ",
+    "reading": "jukka",
+    "code": "cr-kata9-55",
+    "index": 55
+  },
+  {
+    "surface": "ヤドリバエ",
+    "reading": "yadoribae",
+    "code": "cr-kata9-56",
+    "index": 56
+  },
+  {
+    "surface": "ユーザインターフェース",
+    "reading": "userinterface",
+    "code": "cr-kata9-57",
+    "index": 57
+  },
+  {
+    "surface": "ユーターン",
+    "reading": "youturn",
+    "code": "cr-kata9-58",
+    "index": 58
+  },
+  {
+    "surface": "ヤマセミ",
+    "reading": "yamasemi",
+    "code": "cr-kata9-59",
+    "index": 59
+  },
+  {
+    "surface": "ヤオイ",
+    "reading": "yaoi",
+    "code": "cr-kata9-60",
+    "index": 60
+  },
+  {
+    "surface": "ヤマバク",
+    "reading": "yamabaku",
+    "code": "cr-kata9-61",
+    "index": 61
+  },
+  {
+    "surface": "ヨーイドン",
+    "reading": "yooidon",
+    "code": "cr-kata9-62",
+    "index": 62
+  },
+  {
+    "surface": "ヤモト",
+    "reading": "yamoto",
+    "code": "cr-kata9-63",
+    "index": 63
+  },
+  {
+    "surface": "ユズリハ",
+    "reading": "yuzuriha",
+    "code": "cr-kata9-64",
+    "index": 64
+  },
+  {
+    "surface": "ユーグレナ",
+    "reading": "euglena",
+    "code": "cr-kata9-65",
+    "index": 65
+  },
+  {
+    "surface": "ヤーウェ",
+    "reading": "yahweh",
+    "code": "cr-kata9-66",
+    "index": 66
+  },
+  {
+    "surface": "ヤード",
+    "reading": "yard",
+    "code": "cr-kata9-67",
+    "index": 67
+  },
+  {
+    "surface": "ヤマネコ",
+    "reading": "yamaneko",
+    "code": "cr-kata9-68",
+    "index": 68
+  },
+  {
+    "surface": "ヤラー",
+    "reading": "yaraa",
+    "code": "cr-kata9-69",
+    "index": 69
+  },
+  {
+    "surface": "ユーエスビーメモリー",
+    "reading": "youesubiimemory",
+    "code": "cr-kata9-70",
+    "index": 70
+  },
+  {
+    "surface": "ヤリチン",
+    "reading": "yarichin",
+    "code": "cr-kata9-71",
+    "index": 71
+  },
+  {
+    "surface": "ヤーコン",
+    "reading": "yacon",
+    "code": "cr-kata9-72",
+    "index": 72
+  },
+  {
+    "surface": "ユーザーアカウント",
+    "reading": "useraccount",
+    "code": "cr-kata9-73",
+    "index": 73
+  },
+  {
+    "surface": "ユーザービリティー",
+    "reading": "yuuzaabiritii",
+    "code": "cr-kata9-74",
+    "index": 74
+  },
+  {
+    "surface": "ユビキタス",
+    "reading": "ubiquitous",
+    "code": "cr-kata9-75",
+    "index": 75
+  },
+  {
+    "surface": "ユンヨンチャー",
+    "reading": "yunyonchaa",
+    "code": "cr-kata9-76",
+    "index": 76
+  },
+  {
+    "surface": "ユニゾン",
+    "reading": "unison",
+    "code": "cr-kata9-77",
+    "index": 77
+  },
+  {
+    "surface": "ヨツバシオガマ",
+    "reading": "yotsubashiogama",
+    "code": "cr-kata9-78",
+    "index": 78
+  },
+  {
+    "surface": "ユーザビリティー",
+    "reading": "usability",
+    "code": "cr-kata9-79",
+    "index": 79
+  },
+  {
+    "surface": "ユマ",
+    "reading": "uma",
+    "code": "cr-kata9-80",
+    "index": 80
+  },
+  {
+    "surface": "ユキツバキ",
+    "reading": "yukitsubaki",
+    "code": "cr-kata9-81",
+    "index": 81
+  },
+  {
+    "surface": "ヤマアリ",
+    "reading": "yamaari",
+    "code": "cr-kata9-82",
+    "index": 82
+  },
+  {
+    "surface": "ヤクーツク",
+    "reading": "yakutsk",
+    "code": "cr-kata9-83",
+    "index": 83
+  },
+  {
+    "surface": "ユニオンジャック",
+    "reading": "unionjack",
+    "code": "cr-kata9-84",
+    "index": 84
+  },
+  {
+    "surface": "ヤツ",
+    "reading": "yatsu",
+    "code": "cr-kata9-85",
+    "index": 85
+  },
+  {
+    "surface": "ユーモア",
+    "reading": "humor",
+    "code": "cr-kata9-86",
+    "index": 86
+  },
+  {
+    "surface": "ヨスジフエダイ",
+    "reading": "yosujifuedai",
+    "code": "cr-kata9-87",
+    "index": 87
+  },
+  {
+    "surface": "ヨードチンキ",
+    "reading": "jodtinktur",
+    "code": "cr-kata9-88",
+    "index": 88
+  },
+  {
+    "surface": "ヤナギタデ",
+    "reading": "yanagitade",
+    "code": "cr-kata9-89",
+    "index": 89
+  },
+  {
+    "surface": "ユーエヌ",
+    "reading": "yuuenu",
+    "code": "cr-kata9-90",
+    "index": 90
+  },
+  {
+    "surface": "ヤーパン",
+    "reading": "japao",
+    "code": "cr-kata9-91",
+    "index": 91
+  },
+  {
+    "surface": "ヤツバキクイムシ",
+    "reading": "yatsubakikuimushi",
+    "code": "cr-kata9-92",
+    "index": 92
+  },
+  {
+    "surface": "ユーザビリティ",
+    "reading": "usability",
+    "code": "cr-kata9-93",
+    "index": 93
+  },
+  {
+    "surface": "ユニティー",
+    "reading": "unity",
+    "code": "cr-kata9-94",
+    "index": 94
+  },
+  {
+    "surface": "ユキホオジロ",
+    "reading": "yukihoojiro",
+    "code": "cr-kata9-95",
+    "index": 95
+  },
+  {
+    "surface": "ユルユル",
+    "reading": "yuruyuru",
+    "code": "cr-kata9-96",
+    "index": 96
+  },
+  {
+    "surface": "ユーレカ",
+    "reading": "yuureka",
+    "code": "cr-kata9-97",
+    "index": 97
+  },
+  {
+    "surface": "ヤールド",
+    "reading": "yaarudo",
+    "code": "cr-kata9-98",
+    "index": 98
+  },
+  {
+    "surface": "ヨシキリ",
+    "reading": "yoshikiri",
+    "code": "cr-kata9-99",
+    "index": 99
+  },
+  {
+    "surface": "ヤマグワ",
+    "reading": "yamaguwa",
+    "code": "cr-kata9-100",
+    "index": 100
+  },
+  {
+    "surface": "ヤシヌヴァタ",
+    "reading": "yashinuvata",
+    "code": "cr-kata9-101",
+    "index": 101
+  },
+  {
+    "surface": "ユニセフ",
+    "reading": "yunisefu",
+    "code": "cr-kata9-102",
+    "index": 102
+  },
+  {
+    "surface": "ヤッタ",
+    "reading": "yatta",
+    "code": "cr-kata9-103",
+    "index": 103
+  },
+  {
+    "surface": "ヤマンバ",
+    "reading": "yamanba",
+    "code": "cr-kata9-104",
+    "index": 104
+  },
+  {
+    "surface": "ユーエイチエフ",
+    "reading": "yuueichiefu",
+    "code": "cr-kata9-105",
+    "index": 105
+  },
+  {
+    "surface": "ヤマブキソウ",
+    "reading": "yamabukisou",
+    "code": "cr-kata9-106",
+    "index": 106
+  },
+  {
+    "surface": "ヤブコウジ",
+    "reading": "yabukouji",
+    "code": "cr-kata9-107",
+    "index": 107
+  },
+  {
+    "surface": "ヤカイソウ",
+    "reading": "yakaisou",
+    "code": "cr-kata9-108",
+    "index": 108
+  },
+  {
+    "surface": "ユーエスビー",
+    "reading": "youesubii",
+    "code": "cr-kata9-109",
+    "index": 109
+  },
+  {
+    "surface": "ヨジウムチンキ",
+    "reading": "jodtinktur",
+    "code": "cr-kata9-110",
+    "index": 110
+  },
+  {
+    "surface": "ヤマブキベラ",
+    "reading": "yamabukibera",
+    "code": "cr-kata9-111",
+    "index": 111
+  },
+  {
+    "surface": "ユタ",
+    "reading": "utah",
+    "code": "cr-kata9-112",
+    "index": 112
+  },
+  {
+    "surface": "ヨーバ・リンダ",
+    "reading": "yoobarinda",
+    "code": "cr-kata9-113",
+    "index": 113
+  },
+  {
+    "surface": "ヨーロピアンプラン",
+    "reading": "europeanplan",
+    "code": "cr-kata9-114",
+    "index": 114
+  },
+  {
+    "surface": "ヨコシマハギ",
+    "reading": "yokoshimahagi",
+    "code": "cr-kata9-115",
+    "index": 115
+  },
+  {
+    "surface": "ヤングスタウン",
+    "reading": "youngsutaun",
+    "code": "cr-kata9-116",
+    "index": 116
+  },
+  {
+    "surface": "ユースケース",
+    "reading": "youthcase",
+    "code": "cr-kata9-117",
+    "index": 117
+  },
+  {
+    "surface": "ユーコン",
+    "reading": "yuukon",
+    "code": "cr-kata9-118",
+    "index": 118
+  },
+  {
+    "surface": "ヤク",
+    "reading": "yak",
+    "code": "cr-kata9-119",
+    "index": 119
+  },
+  {
+    "surface": "ユーエフオー",
+    "reading": "yuuefuoo",
+    "code": "cr-kata9-120",
+    "index": 120
+  },
+  {
+    "surface": "ユニバーサルスペース",
+    "reading": "universalspace",
+    "code": "cr-kata9-121",
+    "index": 121
+  },
+  {
+    "surface": "ヤエムグラ",
+    "reading": "yaemugura",
+    "code": "cr-kata9-122",
+    "index": 122
+  },
+  {
+    "surface": "ヤブヘビ",
+    "reading": "yabuhebi",
+    "code": "cr-kata9-123",
+    "index": 123
+  },
+  {
+    "surface": "ヤンチョ",
+    "reading": "yancho",
+    "code": "cr-kata9-124",
+    "index": 124
+  },
+  {
+    "surface": "ヤギミルク",
+    "reading": "yagimilk",
+    "code": "cr-kata9-125",
+    "index": 125
+  },
+  {
+    "surface": "ユーティリティー",
+    "reading": "utility",
+    "code": "cr-kata9-126",
+    "index": 126
+  },
+  {
+    "surface": "ユズ",
+    "reading": "yuzu",
+    "code": "cr-kata9-127",
+    "index": 127
+  },
+  {
+    "surface": "ユニク",
+    "reading": "yuniku",
+    "code": "cr-kata9-128",
+    "index": 128
+  },
+  {
+    "surface": "ヤヴォジュノ",
+    "reading": "yavojuno",
+    "code": "cr-kata9-129",
+    "index": 129
+  },
+  {
+    "surface": "ヤジ",
+    "reading": "yaji",
+    "code": "cr-kata9-130",
+    "index": 130
+  },
+  {
+    "surface": "ヨオロッパ",
+    "reading": "europa",
+    "code": "cr-kata9-131",
+    "index": 131
+  },
+  {
+    "surface": "ヤブガラシ",
+    "reading": "yabugarashi",
+    "code": "cr-kata9-132",
+    "index": 132
+  },
+  {
+    "surface": "ヤマバト",
+    "reading": "yamabato",
+    "code": "cr-kata9-133",
+    "index": 133
+  },
+  {
+    "surface": "ヤロスラヴリ",
+    "reading": "yarosuravuri",
+    "code": "cr-kata9-134",
+    "index": 134
+  },
+  {
+    "surface": "ヤワ",
+    "reading": "yawa",
+    "code": "cr-kata9-135",
+    "index": 135
+  },
+  {
+    "surface": "ヤニ",
+    "reading": "yani",
+    "code": "cr-kata9-136",
+    "index": 136
+  },
+  {
+    "surface": "ユーミン",
+    "reading": "yuming",
+    "code": "cr-kata9-137",
+    "index": 137
+  },
+  {
+    "surface": "ヤドカリ",
+    "reading": "yadokari",
+    "code": "cr-kata9-138",
+    "index": 138
+  },
+  {
+    "surface": "ヤマシギ",
+    "reading": "yamashigi",
+    "code": "cr-kata9-139",
+    "index": 139
+  },
+  {
+    "surface": "ユーラトム",
+    "reading": "yuuratomu",
+    "code": "cr-kata9-140",
+    "index": 140
+  },
+  {
+    "surface": "ヤリカタギ",
+    "reading": "yarikatagi",
+    "code": "cr-kata9-141",
+    "index": 141
+  },
+  {
+    "surface": "ユーエスビーハブ",
+    "reading": "yuuesubiihabu",
+    "code": "cr-kata9-142",
+    "index": 142
+  },
+  {
+    "surface": "ヤンデレ",
+    "reading": "jandere",
+    "code": "cr-kata9-143",
+    "index": 143
+  },
+  {
+    "surface": "ヤーヴェ",
+    "reading": "yaave",
+    "code": "cr-kata9-144",
+    "index": 144
+  },
+  {
+    "surface": "ヨタ",
+    "reading": "yota",
+    "code": "cr-kata9-145",
+    "index": 145
+  },
+  {
+    "surface": "ヨコハマシ",
+    "reading": "yokohamashi",
+    "code": "cr-kata9-146",
+    "index": 146
+  },
+  {
+    "surface": "ユウトピア",
+    "reading": "youtopia",
+    "code": "cr-kata9-147",
+    "index": 147
+  },
+  {
+    "surface": "ヤマドリ",
+    "reading": "yamadori",
+    "code": "cr-kata9-148",
+    "index": 148
+  },
+  {
+    "surface": "ヨットハーバー",
+    "reading": "yachtharbor",
+    "code": "cr-kata9-149",
+    "index": 149
+  },
+  {
+    "surface": "ヤケ",
+    "reading": "yake",
+    "code": "cr-kata9-150",
+    "index": 150
+  },
+  {
+    "surface": "ユニプロセッサ",
+    "reading": "yuniprocessor",
+    "code": "cr-kata9-151",
+    "index": 151
+  },
+  {
+    "surface": "ヤメテン",
+    "reading": "yameten",
+    "code": "cr-kata9-152",
+    "index": 152
+  },
+  {
+    "surface": "ヤラハタ",
+    "reading": "yarahata",
+    "code": "cr-kata9-153",
+    "index": 153
+  },
+  {
+    "surface": "ユリノキ",
+    "reading": "yurinoki",
+    "code": "cr-kata9-154",
+    "index": 154
+  },
+  {
+    "surface": "ヤマツツジ",
+    "reading": "yamatsutsuji",
+    "code": "cr-kata9-155",
+    "index": 155
+  },
+  {
+    "surface": "ユーフォニューム",
+    "reading": "yuufonyuumu",
+    "code": "cr-kata9-156",
+    "index": 156
+  },
+  {
+    "surface": "ヤモリ",
+    "reading": "yamori",
+    "code": "cr-kata9-157",
+    "index": 157
+  },
+  {
+    "surface": "ヤマビワ",
+    "reading": "yamabiwa",
+    "code": "cr-kata9-158",
+    "index": 158
+  },
+  {
+    "surface": "ヨパール",
+    "reading": "yopearl",
+    "code": "cr-kata9-159",
+    "index": 159
+  },
+  {
+    "surface": "ヤッター",
+    "reading": "yattaa",
+    "code": "cr-kata9-160",
+    "index": 160
+  },
+  {
+    "surface": "ユーラシア",
+    "reading": "eurasia",
+    "code": "cr-kata9-161",
+    "index": 161
+  },
+  {
+    "surface": "ユリ",
+    "reading": "yuri",
+    "code": "cr-kata9-162",
+    "index": 162
+  },
+  {
+    "surface": "ヨコハマ",
+    "reading": "yokohama",
+    "code": "cr-kata9-163",
+    "index": 163
+  },
+  {
+    "surface": "ヤギ",
+    "reading": "yagi",
+    "code": "cr-kata9-164",
+    "index": 164
+  },
+  {
+    "surface": "ヨオロツパ",
+    "reading": "europa",
+    "code": "cr-kata9-165",
+    "index": 165
+  },
+  {
+    "surface": "ヤコブスタード",
+    "reading": "yakobusutaado",
+    "code": "cr-kata9-166",
+    "index": 166
+  },
+  {
+    "surface": "ヤチネズミ",
+    "reading": "yachinezumi",
+    "code": "cr-kata9-167",
+    "index": 167
+  },
+  {
+    "surface": "ヤウコ",
+    "reading": "yauko",
+    "code": "cr-kata9-168",
+    "index": 168
+  },
+  {
+    "surface": "ユルキャラ",
+    "reading": "yurucharacter",
+    "code": "cr-kata9-169",
+    "index": 169
+  },
+  {
+    "surface": "ヤママユ",
+    "reading": "yamamayu",
+    "code": "cr-kata9-170",
+    "index": 170
+  },
+  {
+    "surface": "ヨモギ",
+    "reading": "yomogi",
+    "code": "cr-kata9-171",
+    "index": 171
+  },
+  {
+    "surface": "ユーズド",
+    "reading": "yuuzudo",
+    "code": "cr-kata9-172",
+    "index": 172
+  },
+  {
+    "surface": "ヨエンスー",
+    "reading": "yoensuu",
+    "code": "cr-kata9-173",
+    "index": 173
+  },
+  {
+    "surface": "ユーユーデコード",
+    "reading": "youyoudecode",
+    "code": "cr-kata9-174",
+    "index": 174
+  },
+  {
+    "surface": "ユーザービリティ",
+    "reading": "yuuzaabiriti",
+    "code": "cr-kata9-175",
+    "index": 175
+  },
+  {
+    "surface": "ヤリコン",
+    "reading": "yarikon",
+    "code": "cr-kata9-176",
+    "index": 176
+  },
+  {
+    "surface": "ユイ",
+    "reading": "yui",
+    "code": "cr-kata9-177",
+    "index": 177
+  },
+  {
+    "surface": "ヨット",
+    "reading": "yacht",
+    "code": "cr-kata9-178",
+    "index": 178
+  },
+  {
+    "surface": "ユージェニックス",
+    "reading": "eugenics",
+    "code": "cr-kata9-179",
+    "index": 179
+  },
+  {
+    "surface": "ユモレスク",
+    "reading": "humoresque",
+    "code": "cr-kata9-180",
+    "index": 180
+  },
+  {
+    "surface": "ユニオンショップ",
+    "reading": "unionshop",
+    "code": "cr-kata9-181",
+    "index": 181
+  },
+  {
+    "surface": "ユーゴ",
+    "reading": "yugoslavia",
+    "code": "cr-kata9-182",
+    "index": 182
+  },
+  {
+    "surface": "ヤコウボク",
+    "reading": "yakouboku",
+    "code": "cr-kata9-183",
+    "index": 183
+  },
+  {
+    "surface": "ヤッジール",
+    "reading": "yajjiiru",
+    "code": "cr-kata9-184",
+    "index": 184
+  },
+  {
+    "surface": "ヨナグニサン",
+    "reading": "yonagunisan",
+    "code": "cr-kata9-185",
+    "index": 185
+  },
+  {
+    "surface": "ヤクザル",
+    "reading": "yakuzaru",
+    "code": "cr-kata9-186",
+    "index": 186
+  },
+  {
+    "surface": "ヤブカ",
+    "reading": "yabuka",
+    "code": "cr-kata9-187",
+    "index": 187
+  },
+  {
+    "surface": "ヤマカガシ",
+    "reading": "yamakagashi",
+    "code": "cr-kata9-188",
+    "index": 188
+  },
+  {
+    "surface": "ヤマウルシ",
+    "reading": "yamaurushi",
+    "code": "cr-kata9-189",
+    "index": 189
+  },
+  {
+    "surface": "ヤーン",
+    "reading": "yarn",
+    "code": "cr-kata9-190",
+    "index": 190
+  },
+  {
+    "surface": "ユーエスエスアール",
+    "reading": "youesuesuart",
+    "code": "cr-kata9-191",
+    "index": 191
+  },
+  {
+    "surface": "ヨズガト",
+    "reading": "yozugato",
+    "code": "cr-kata9-192",
+    "index": 192
+  },
+  {
+    "surface": "ユニット",
+    "reading": "unit",
+    "code": "cr-kata9-193",
+    "index": 193
+  },
+  {
+    "surface": "ヤマタノオロチ",
+    "reading": "yamatanoorochi",
+    "code": "cr-kata9-194",
+    "index": 194
+  },
+  {
+    "surface": "ユニタード",
+    "reading": "yunitaado",
+    "code": "cr-kata9-195",
+    "index": 195
+  },
+  {
+    "surface": "ヤイヤイ",
+    "reading": "yaiyai",
+    "code": "cr-kata9-196",
+    "index": 196
+  },
+  {
+    "surface": "ヨジリオオトカゲ",
+    "reading": "yojiriootokage",
+    "code": "cr-kata9-197",
+    "index": 197
+  },
+  {
+    "surface": "ユーザアカウント",
+    "reading": "useraccount",
+    "code": "cr-kata9-198",
+    "index": 198
+  },
+  {
+    "surface": "ユニオンデール",
+    "reading": "uniondayle",
+    "code": "cr-kata9-199",
+    "index": 199
+  },
+  {
+    "surface": "ユーズネット",
+    "reading": "yuuzunetto",
+    "code": "cr-kata9-200",
+    "index": 200
+  },
+  {
+    "surface": "ヨコスジフエダイ",
+    "reading": "yokosujifuedai",
+    "code": "cr-kata9-201",
+    "index": 201
+  },
+  {
+    "surface": "ユーゴースラヴィア",
+    "reading": "yugoslavia",
+    "code": "cr-kata9-202",
+    "index": 202
+  },
+  {
+    "surface": "ユータナジー",
+    "reading": "euthanasie",
+    "code": "cr-kata9-203",
+    "index": 203
+  },
+  {
+    "surface": "ヤマユリ",
+    "reading": "yamayuri",
+    "code": "cr-kata9-204",
+    "index": 204
+  },
+  {
+    "surface": "ヤマブシタケ",
+    "reading": "yamabushitake",
+    "code": "cr-kata9-205",
+    "index": 205
+  },
+  {
+    "surface": "ヨコエビ",
+    "reading": "yokoebi",
+    "code": "cr-kata9-206",
+    "index": 206
+  },
+  {
+    "surface": "ヤモリザメ",
+    "reading": "yamorizame",
+    "code": "cr-kata9-207",
+    "index": 207
+  },
+  {
+    "surface": "ヤマグチシ",
+    "reading": "yamaguchishi",
+    "code": "cr-kata9-208",
+    "index": 208
+  },
+  {
+    "surface": "ヤキマ",
+    "reading": "yakima",
+    "code": "cr-kata9-209",
+    "index": 209
+  },
+  {
+    "surface": "ヤシノキ",
+    "reading": "yashinoki",
+    "code": "cr-kata9-210",
+    "index": 210
+  },
+  {
+    "surface": "ユージーン",
+    "reading": "eugene",
+    "code": "cr-kata9-211",
+    "index": 211
+  },
+  {
+    "surface": "ユプシロン",
+    "reading": "upsilon",
+    "code": "cr-kata9-212",
+    "index": 212
+  },
+  {
+    "surface": "ユニフォーミティー",
+    "reading": "uniformity",
+    "code": "cr-kata9-213",
+    "index": 213
+  },
+  {
+    "surface": "ヨハネ",
+    "reading": "iohannes",
+    "code": "cr-kata9-214",
+    "index": 214
+  },
+  {
+    "surface": "ヤゴディナ",
+    "reading": "yagodina",
+    "code": "cr-kata9-215",
+    "index": 215
+  },
+  {
+    "surface": "ヨーガ",
+    "reading": "yoga",
+    "code": "cr-kata9-216",
+    "index": 216
+  },
+  {
+    "surface": "ヤーデージ",
+    "reading": "yardage",
+    "code": "cr-kata9-217",
+    "index": 217
+  },
+  {
+    "surface": "ヨウジウオ",
+    "reading": "youjiuo",
+    "code": "cr-kata9-218",
+    "index": 218
+  },
+  {
+    "surface": "ユーアールエル",
+    "reading": "youartel",
+    "code": "cr-kata9-219",
+    "index": 219
+  },
+  {
+    "surface": "ヨロイグサ",
+    "reading": "yoroigusa",
+    "code": "cr-kata9-220",
+    "index": 220
+  },
+  {
+    "surface": "ユカイパ",
+    "reading": "yukaipa",
+    "code": "cr-kata9-221",
+    "index": 221
+  },
+  {
+    "surface": "ヤスジチョウチョウウオ",
+    "reading": "yasujichouchouuo",
+    "code": "cr-kata9-222",
+    "index": 222
+  },
+  {
+    "surface": "ヨナヴァ",
+    "reading": "yonava",
+    "code": "cr-kata9-223",
+    "index": 223
+  },
+  {
+    "surface": "ヤースージュ",
+    "reading": "yaasuuju",
+    "code": "cr-kata9-224",
+    "index": 224
+  },
+  {
+    "surface": "ヤムスクロ",
+    "reading": "yamoussoukro",
+    "code": "cr-kata9-225",
+    "index": 225
+  },
+  {
+    "surface": "ヨチヨチ",
+    "reading": "yochiyochi",
+    "code": "cr-kata9-226",
+    "index": 226
+  },
+  {
+    "surface": "ヨグソミネバリ",
+    "reading": "yogusominebari",
+    "code": "cr-kata9-227",
+    "index": 227
+  },
+  {
+    "surface": "ヤエクチナシ",
+    "reading": "yaekuchinashi",
+    "code": "cr-kata9-228",
+    "index": 228
+  },
+  {
+    "surface": "ユダヤ",
+    "reading": "judaea",
+    "code": "cr-kata9-229",
+    "index": 229
+  },
+  {
+    "surface": "ヤブカラシ",
+    "reading": "yabukarashi",
+    "code": "cr-kata9-230",
+    "index": 230
+  },
+  {
+    "surface": "ユニットロード",
+    "reading": "unitroad",
+    "code": "cr-kata9-231",
+    "index": 231
+  },
+  {
+    "surface": "ヤニカ・カプ",
+    "reading": "yanikakapu",
+    "code": "cr-kata9-232",
+    "index": 232
+  },
+  {
+    "surface": "ユラユラ",
+    "reading": "yurayura",
+    "code": "cr-kata9-233",
+    "index": 233
+  },
+  {
+    "surface": "ヨメガカサガイ",
+    "reading": "yomegakasagai",
+    "code": "cr-kata9-234",
+    "index": 234
+  },
+  {
+    "surface": "ヤブ",
+    "reading": "yabu",
+    "code": "cr-kata9-235",
+    "index": 235
+  },
+  {
+    "surface": "ユークリッド",
+    "reading": "euclid",
+    "code": "cr-kata9-236",
+    "index": 236
+  },
+  {
+    "surface": "ヤソトン",
+    "reading": "jesuston",
+    "code": "cr-kata9-237",
+    "index": 237
+  },
+  {
+    "surface": "ヨーロッパオオナマズ",
+    "reading": "yooroppaoonamazu",
+    "code": "cr-kata9-238",
+    "index": 238
+  },
+  {
+    "surface": "ヤチダモ",
+    "reading": "yachidamo",
+    "code": "cr-kata9-239",
+    "index": 239
+  },
+  {
+    "surface": "ヤマビーバー",
+    "reading": "yamabeaver",
+    "code": "cr-kata9-240",
+    "index": 240
+  },
+  {
+    "surface": "ユニヴァーサル",
+    "reading": "universal",
+    "code": "cr-kata9-241",
+    "index": 241
+  },
+  {
+    "surface": "ユートピアン",
+    "reading": "utopian",
+    "code": "cr-kata9-242",
+    "index": 242
+  },
+  {
+    "surface": "ユーニーク",
+    "reading": "yuuniiku",
+    "code": "cr-kata9-243",
+    "index": 243
+  },
+  {
+    "surface": "ヤマガ",
+    "reading": "yamaga",
+    "code": "cr-kata9-244",
+    "index": 244
+  },
+  {
+    "surface": "ヤケクソ",
+    "reading": "yakekuso",
+    "code": "cr-kata9-245",
+    "index": 245
+  },
+  {
+    "surface": "ヤマシマウマ",
+    "reading": "yamashimauma",
+    "code": "cr-kata9-246",
+    "index": 246
+  },
+  {
+    "surface": "ヤブミョウガ",
+    "reading": "yabumyouga",
+    "code": "cr-kata9-247",
+    "index": 247
+  },
+  {
+    "surface": "ユーザインタフェース",
+    "reading": "userinterface",
+    "code": "cr-kata9-248",
+    "index": 248
+  },
+  {
+    "surface": "ユニバーサル",
+    "reading": "universal",
+    "code": "cr-kata9-249",
+    "index": 249
+  },
+  {
+    "surface": "ヤムチャ",
+    "reading": "yamucha",
+    "code": "cr-kata9-250",
+    "index": 250
+  },
+  {
+    "surface": "ヤブカンゾウ",
+    "reading": "yabukanzou",
+    "code": "cr-kata9-251",
+    "index": 251
+  },
+  {
+    "surface": "ヨグルト",
+    "reading": "yogurt",
+    "code": "cr-kata9-252",
+    "index": 252
+  },
+  {
+    "surface": "ヨロピク",
+    "reading": "yoropiku",
+    "code": "cr-kata9-253",
+    "index": 253
+  },
+  {
+    "surface": "ユーフォー",
+    "reading": "youfour",
+    "code": "cr-kata9-254",
+    "index": 254
+  },
+  {
+    "surface": "ユニバース",
+    "reading": "yunibaasu",
+    "code": "cr-kata9-255",
+    "index": 255
+  },
+  {
+    "surface": "ユーフォニウム",
+    "reading": "yuufoniumu",
+    "code": "cr-kata9-256",
+    "index": 256
+  },
+  {
+    "surface": "ヤイ",
+    "reading": "yai",
+    "code": "cr-kata9-257",
+    "index": 257
+  },
+  {
+    "surface": "ヨークシャー・テリア",
+    "reading": "yorkshireterrier",
+    "code": "cr-kata9-258",
+    "index": 258
+  },
+  {
+    "surface": "ヤマノイモ",
+    "reading": "yamanoimo",
+    "code": "cr-kata9-259",
+    "index": 259
+  },
+  {
+    "surface": "ヤソ",
+    "reading": "jesus",
+    "code": "cr-kata9-260",
+    "index": 260
+  },
+  {
+    "surface": "ヨーロピアンシーバス",
+    "reading": "europeanseabus",
+    "code": "cr-kata9-261",
+    "index": 261
+  },
+  {
+    "surface": "ユーカラ",
+    "reading": "yukar",
+    "code": "cr-kata9-262",
+    "index": 262
+  },
+  {
+    "surface": "ヤイトムシ",
+    "reading": "yaitomushi",
+    "code": "cr-kata9-263",
+    "index": 263
+  },
+  {
+    "surface": "ヤッピー",
+    "reading": "yuppie",
+    "code": "cr-kata9-264",
+    "index": 264
+  },
+  {
+    "surface": "ヨゴレザメ",
+    "reading": "yogorezame",
+    "code": "cr-kata9-265",
+    "index": 265
+  },
+  {
+    "surface": "ヨラ",
+    "reading": "yora",
+    "code": "cr-kata9-266",
+    "index": 266
+  },
+  {
+    "surface": "ユンボ",
+    "reading": "yumbo",
+    "code": "cr-kata9-267",
+    "index": 267
+  },
+  {
+    "surface": "ヤンゴン",
+    "reading": "yangon",
+    "code": "cr-kata9-268",
+    "index": 268
+  },
+  {
+    "surface": "ユニフォーム",
+    "reading": "uniform",
+    "code": "cr-kata9-269",
+    "index": 269
+  },
+  {
+    "surface": "ヨダレカケ",
+    "reading": "yodarekake",
+    "code": "cr-kata9-270",
+    "index": 270
+  },
+  {
+    "surface": "ヤマグルマ",
+    "reading": "yamaguruma",
+    "code": "cr-kata9-271",
+    "index": 271
+  },
+  {
+    "surface": "ユマニスム",
+    "reading": "humanism",
+    "code": "cr-kata9-272",
+    "index": 272
+  },
+  {
+    "surface": "ヨットレース",
+    "reading": "yachtreesu",
+    "code": "cr-kata9-273",
+    "index": 273
+  },
+  {
+    "surface": "ユータナージー",
+    "reading": "yuutanaajii",
+    "code": "cr-kata9-274",
+    "index": 274
+  },
+  {
+    "surface": "ヤンエグ",
+    "reading": "yanegu",
+    "code": "cr-kata9-275",
+    "index": 275
+  },
+  {
+    "surface": "ユッケ",
+    "reading": "yukke",
+    "code": "cr-kata9-276",
+    "index": 276
+  },
+  {
+    "surface": "ヤマナラシ",
+    "reading": "yamanarashi",
+    "code": "cr-kata9-277",
+    "index": 277
+  },
+  {
+    "surface": "ユレモ",
+    "reading": "yuremo",
+    "code": "cr-kata9-278",
+    "index": 278
+  },
+  {
+    "surface": "ユーフォニアム",
+    "reading": "yuufoniamu",
+    "code": "cr-kata9-279",
+    "index": 279
+  },
+  {
+    "surface": "ヤマウズラ",
+    "reading": "yamauzura",
+    "code": "cr-kata9-280",
+    "index": 280
+  },
+  {
+    "surface": "ユニットプライシング",
+    "reading": "unitpricing",
+    "code": "cr-kata9-281",
+    "index": 281
+  },
+  {
+    "surface": "ヤムシ",
+    "reading": "yamushi",
+    "code": "cr-kata9-282",
+    "index": 282
+  },
+  {
+    "surface": "ヨウシュヤマゴボウ",
+    "reading": "youshuyamagobou",
+    "code": "cr-kata9-283",
+    "index": 283
+  },
+  {
+    "surface": "ヤジブカ",
+    "reading": "yajibuka",
+    "code": "cr-kata9-284",
+    "index": 284
+  },
+  {
+    "surface": "ヤッホー",
+    "reading": "yahhoo",
+    "code": "cr-kata9-285",
+    "index": 285
+  },
+  {
+    "surface": "ヨヒンビン",
+    "reading": "yohimbine",
+    "code": "cr-kata9-286",
+    "index": 286
+  },
+  {
+    "surface": "ユーロピウム",
+    "reading": "europium",
+    "code": "cr-kata9-287",
+    "index": 287
+  },
+  {
+    "surface": "ヤマハギ",
+    "reading": "yamahagi",
+    "code": "cr-kata9-288",
+    "index": 288
+  },
+  {
+    "surface": "ヨウスコウワニ",
+    "reading": "yousukouwani",
+    "code": "cr-kata9-289",
+    "index": 289
+  },
+  {
+    "surface": "ユートピア",
+    "reading": "utopia",
+    "code": "cr-kata9-290",
+    "index": 290
+  },
+  {
+    "surface": "ユティリティー",
+    "reading": "yutiritii",
+    "code": "cr-kata9-291",
+    "index": 291
+  },
+  {
+    "surface": "ヨーロッパモミ",
+    "reading": "europamomi",
+    "code": "cr-kata9-292",
+    "index": 292
+  },
+  {
+    "surface": "ヤレ",
+    "reading": "yare",
+    "code": "cr-kata9-293",
+    "index": 293
+  },
+  {
+    "surface": "ユーゴースラビア",
+    "reading": "yugoslavia",
+    "code": "cr-kata9-294",
+    "index": 294
+  },
+  {
+    "surface": "ヤリモク",
+    "reading": "yarimoku",
+    "code": "cr-kata9-295",
+    "index": 295
+  },
+  {
+    "surface": "ヨウグルト",
+    "reading": "youguruto",
+    "code": "cr-kata9-296",
+    "index": 296
+  },
+  {
+    "surface": "ヤッケ",
+    "reading": "jacke",
+    "code": "cr-kata9-297",
+    "index": 297
+  },
+  {
+    "surface": "ヨーグルト",
+    "reading": "yogurt",
+    "code": "cr-kata9-298",
+    "index": 298
+  },
+  {
+    "surface": "ヤシ",
+    "reading": "yashi",
+    "code": "cr-kata9-299",
+    "index": 299
+  },
+  {
+    "surface": "ユーディオメーター",
+    "reading": "eudiometer",
+    "code": "cr-kata9-300",
+    "index": 300
+  },
+  {
+    "surface": "ユニターム",
+    "reading": "yuniterm",
+    "code": "cr-kata9-301",
+    "index": 301
+  },
+  {
+    "surface": "ヤンマ",
+    "reading": "yanma",
+    "code": "cr-kata9-302",
+    "index": 302
+  },
+  {
+    "surface": "ユーエッチエフ",
+    "reading": "yuuetchiefu",
+    "code": "cr-kata9-303",
+    "index": 303
+  },
+  {
+    "surface": "ヨコバイ",
+    "reading": "yokobai",
+    "code": "cr-kata9-304",
+    "index": 304
+  },
+  {
+    "surface": "ユスラウメ",
+    "reading": "yusuraume",
+    "code": "cr-kata9-305",
+    "index": 305
+  },
+  {
+    "surface": "ユーロ",
+    "reading": "euro",
+    "code": "cr-kata9-306",
+    "index": 306
+  },
+  {
+    "surface": "ヤブサメ",
+    "reading": "yabusame",
+    "code": "cr-kata9-307",
+    "index": 307
+  },
+  {
+    "surface": "ヤハウェ",
+    "reading": "yahweh",
+    "code": "cr-kata9-308",
+    "index": 308
+  },
+  {
+    "surface": "ユーロビジョン",
+    "reading": "eurovision",
+    "code": "cr-kata9-309",
+    "index": 309
+  },
+  {
+    "surface": "ヤマガラ",
+    "reading": "yamagara",
+    "code": "cr-kata9-310",
+    "index": 310
+  },
+  {
+    "surface": "ユウダ",
+    "reading": "youdade",
+    "code": "cr-kata9-311",
+    "index": 311
+  },
+  {
+    "surface": "ヨーテボリ",
+    "reading": "goteborg",
+    "code": "cr-kata9-312",
+    "index": 312
+  },
+  {
+    "surface": "ユキザサ",
+    "reading": "yukizasa",
+    "code": "cr-kata9-313",
+    "index": 313
+  },
+  {
+    "surface": "ユーザーインタフェース",
+    "reading": "userinterface",
+    "code": "cr-kata9-314",
+    "index": 314
+  },
+  {
+    "surface": "ヤボ",
+    "reading": "yabo",
+    "code": "cr-kata9-315",
+    "index": 315
+  },
+  {
+    "surface": "ユーアイ",
+    "reading": "youeye",
+    "code": "cr-kata9-316",
+    "index": 316
+  },
+  {
+    "surface": "ユーザンスビル",
+    "reading": "usancebuilding",
+    "code": "cr-kata9-317",
+    "index": 317
+  },
+  {
+    "surface": "ヨーロピアン",
+    "reading": "european",
+    "code": "cr-kata9-318",
+    "index": 318
+  },
+  {
+    "surface": "ユニオン",
+    "reading": "union",
+    "code": "cr-kata9-319",
+    "index": 319
+  },
+  {
+    "surface": "ヤマトシミ",
+    "reading": "yamatoshimi",
+    "code": "cr-kata9-320",
+    "index": 320
+  },
+  {
+    "surface": "ユースホステル",
+    "reading": "youthhostel",
+    "code": "cr-kata9-321",
+    "index": 321
+  },
+  {
+    "surface": "ヨコワ",
+    "reading": "yokowa",
+    "code": "cr-kata9-322",
+    "index": 322
+  },
+  {
+    "surface": "ユーロコミュニズム",
+    "reading": "yuurokomyunizumu",
+    "code": "cr-kata9-323",
+    "index": 323
+  },
+  {
+    "surface": "ヤマボウシ",
+    "reading": "yamaboushi",
+    "code": "cr-kata9-324",
+    "index": 324
+  },
+  {
+    "surface": "ヤコ",
+    "reading": "yako",
+    "code": "cr-kata9-325",
+    "index": 325
+  },
+  {
+    "surface": "ヨウング",
+    "reading": "youngu",
+    "code": "cr-kata9-326",
+    "index": 326
+  },
+  {
+    "surface": "ヤマガタシ",
+    "reading": "yamagatashi",
+    "code": "cr-kata9-327",
+    "index": 327
+  },
+  {
+    "surface": "ユーピーエス",
+    "reading": "youpeaes",
+    "code": "cr-kata9-328",
+    "index": 328
+  },
+  {
+    "surface": "ヨジウム",
+    "reading": "jodium",
+    "code": "cr-kata9-329",
+    "index": 329
+  },
+  {
+    "surface": "ヤウンデ",
+    "reading": "yaounde",
+    "code": "cr-kata9-330",
+    "index": 330
+  },
+  {
+    "surface": "ユーズドカー",
+    "reading": "yuuzudocar",
+    "code": "cr-kata9-331",
+    "index": 331
+  },
+  {
+    "surface": "ヤフオク",
+    "reading": "yafuoku",
+    "code": "cr-kata9-332",
+    "index": 332
+  },
+  {
+    "surface": "ヤオ",
+    "reading": "yao",
+    "code": "cr-kata9-333",
+    "index": 333
+  },
+  {
+    "surface": "ヨーロパ",
+    "reading": "yooropa",
+    "code": "cr-kata9-334",
+    "index": 334
+  },
+  {
+    "surface": "ユビザル",
+    "reading": "yubizaru",
+    "code": "cr-kata9-335",
+    "index": 335
+  },
+  {
+    "surface": "ヤグルマギク",
+    "reading": "yagurumagiku",
+    "code": "cr-kata9-336",
+    "index": 336
+  },
+  {
+    "surface": "ヨシガモ",
+    "reading": "yoshigamo",
+    "code": "cr-kata9-337",
+    "index": 337
+  },
+  {
+    "surface": "ヤラセ",
+    "reading": "yarase",
+    "code": "cr-kata9-338",
+    "index": 338
+  },
+  {
+    "surface": "ヤング",
+    "reading": "young",
+    "code": "cr-kata9-339",
+    "index": 339
+  },
+  {
+    "surface": "ヤダケ",
+    "reading": "yadake",
+    "code": "cr-kata9-340",
+    "index": 340
+  },
+  {
+    "surface": "ヨツヤ",
+    "reading": "yotsuya",
+    "code": "cr-kata9-341",
+    "index": 341
+  },
+  {
+    "surface": "ユークロマチン",
+    "reading": "youchromatin",
+    "code": "cr-kata9-342",
+    "index": 342
+  },
+  {
+    "surface": "ユルマラ",
+    "reading": "yurumara",
+    "code": "cr-kata9-343",
+    "index": 343
+  },
+  {
+    "surface": "ヤブイヌ",
+    "reading": "yabuinu",
+    "code": "cr-kata9-344",
+    "index": 344
+  },
+  {
+    "surface": "ユリイカ",
+    "reading": "heureka",
+    "code": "cr-kata9-345",
+    "index": 345
+  },
+  {
+    "surface": "ユース",
+    "reading": "youth",
+    "code": "cr-kata9-346",
+    "index": 346
+  },
+  {
+    "surface": "ヤンチャ",
+    "reading": "yancha",
+    "code": "cr-kata9-347",
+    "index": 347
+  },
+  {
+    "surface": "ユーザーインターフェイス",
+    "reading": "userinterface",
+    "code": "cr-kata9-348",
+    "index": 348
+  },
+  {
+    "surface": "ユニテリアン",
+    "reading": "unitarian",
+    "code": "cr-kata9-349",
+    "index": 349
+  },
+  {
+    "surface": "ユーロピアン",
+    "reading": "european",
+    "code": "cr-kata9-350",
+    "index": 350
+  },
+  {
+    "surface": "ユーフォロジー",
+    "reading": "yuuforojii",
+    "code": "cr-kata9-351",
+    "index": 351
+  },
+  {
+    "surface": "ヤブネ",
+    "reading": "yabune",
+    "code": "cr-kata9-352",
+    "index": 352
+  },
+  {
+    "surface": "ユービキタス",
+    "reading": "yuubikitasu",
+    "code": "cr-kata9-353",
+    "index": 353
+  },
+  {
+    "surface": "ユウレイグモ",
+    "reading": "yuureigumo",
+    "code": "cr-kata9-354",
+    "index": 354
+  },
+  {
+    "surface": "ヤマモモ",
+    "reading": "yamamomo",
+    "code": "cr-kata9-355",
+    "index": 355
+  },
+  {
+    "surface": "ヤタガラス",
+    "reading": "yatagarasu",
+    "code": "cr-kata9-356",
+    "index": 356
+  },
+  {
+    "surface": "ヨルダン",
+    "reading": "jordan",
+    "code": "cr-kata9-357",
+    "index": 357
+  },
+  {
+    "surface": "ヤングスタ",
+    "reading": "youngsuta",
+    "code": "cr-kata9-358",
+    "index": 358
+  },
+  {
+    "surface": "ヤンビオ",
+    "reading": "janbio",
+    "code": "cr-kata9-359",
+    "index": 359
+  },
+  {
+    "surface": "ヨーデル",
+    "reading": "jodel",
+    "code": "cr-kata9-360",
+    "index": 360
+  },
+  {
+    "surface": "ユバシティ",
+    "reading": "yubacity",
+    "code": "cr-kata9-361",
+    "index": 361
+  },
+  {
+    "surface": "ヤルヴェンパー",
+    "reading": "yaruvenpaa",
+    "code": "cr-kata9-362",
+    "index": 362
+  },
+  {
+    "surface": "ユーモリスト",
+    "reading": "humorist",
+    "code": "cr-kata9-363",
+    "index": 363
+  },
+  {
+    "surface": "ユキチ",
+    "reading": "yukichi",
+    "code": "cr-kata9-364",
+    "index": 364
+  },
+  {
+    "surface": "ユーユーエンコード",
+    "reading": "youyouencode",
+    "code": "cr-kata9-365",
+    "index": 365
+  },
+  {
+    "surface": "ユニバーサルサービス",
+    "reading": "universalservice",
+    "code": "cr-kata9-366",
+    "index": 366
+  },
+  {
+    "surface": "ヤマニレ",
+    "reading": "yamanire",
+    "code": "cr-kata9-367",
+    "index": 367
+  },
+  {
+    "surface": "ユニプロセッサー",
+    "reading": "yuniprocessor",
+    "code": "cr-kata9-368",
+    "index": 368
+  },
+  {
+    "surface": "ユウゼン",
+    "reading": "yuuzen",
+    "code": "cr-kata9-369",
+    "index": 369
+  },
+  {
+    "surface": "ヨルガオ",
+    "reading": "yorugao",
+    "code": "cr-kata9-370",
+    "index": 370
+  },
+  {
+    "surface": "ユニバーシティー",
+    "reading": "university",
+    "code": "cr-kata9-371",
+    "index": 371
+  },
+  {
+    "surface": "ユー",
+    "reading": "you",
+    "code": "cr-kata9-372",
+    "index": 372
+  },
+  {
+    "surface": "ヨメナ",
+    "reading": "yomena",
+    "code": "cr-kata9-373",
+    "index": 373
+  },
+  {
+    "surface": "ヤシガニ",
+    "reading": "yashigani",
+    "code": "cr-kata9-374",
+    "index": 374
+  },
+  {
+    "surface": "ヤキモチ",
+    "reading": "yakimochi",
+    "code": "cr-kata9-375",
+    "index": 375
+  },
+  {
+    "surface": "ユースティス",
+    "reading": "youstaysu",
+    "code": "cr-kata9-376",
+    "index": 376
+  },
+  {
+    "surface": "ヨガ",
+    "reading": "yoga",
+    "code": "cr-kata9-377",
+    "index": 377
+  },
+  {
+    "surface": "ヨロヨロ",
+    "reading": "yoroyoro",
+    "code": "cr-kata9-378",
+    "index": 378
+  },
+  {
+    "surface": "ヨレヨレ",
+    "reading": "yoreyore",
+    "code": "cr-kata9-379",
+    "index": 379
+  },
+  {
+    "surface": "ユキヒョウ",
+    "reading": "yukihyou",
+    "code": "cr-kata9-380",
+    "index": 380
+  },
+  {
+    "surface": "ヨシュカル・オラ",
+    "reading": "yoshukaruora",
+    "code": "cr-kata9-381",
+    "index": 381
+  },
+  {
+    "surface": "ユーマ",
+    "reading": "yuuma",
+    "code": "cr-kata9-382",
+    "index": 382
+  },
+  {
+    "surface": "ヨハネスブルグ",
+    "reading": "johannesburg",
+    "code": "cr-kata9-383",
+    "index": 383
+  },
+  {
+    "surface": "ヨセ",
+    "reading": "yose",
+    "code": "cr-kata9-384",
+    "index": 384
+  },
+  {
+    "surface": "ヤーイ",
+    "reading": "yaai",
+    "code": "cr-kata9-385",
+    "index": 385
+  },
+  {
+    "surface": "ユニラテラリズム",
+    "reading": "unilateralism",
+    "code": "cr-kata9-386",
+    "index": 386
+  },
+  {
+    "surface": "ヨツメウオ",
+    "reading": "yotsumeuo",
+    "code": "cr-kata9-387",
+    "index": 387
+  },
+  {
+    "surface": "ユージン",
+    "reading": "eugene",
+    "code": "cr-kata9-388",
+    "index": 388
+  },
+  {
+    "surface": "ユーテルゼン",
+    "reading": "yuuteruzen",
+    "code": "cr-kata9-389",
+    "index": 389
+  },
+  {
+    "surface": "ヨシノボリ",
+    "reading": "yoshinobori",
+    "code": "cr-kata9-390",
+    "index": 390
+  },
+  {
+    "surface": "ユナイテッド",
+    "reading": "united",
+    "code": "cr-kata9-391",
+    "index": 391
+  },
+  {
+    "surface": "ヤコウガイ",
+    "reading": "yakouguy",
+    "code": "cr-kata9-392",
+    "index": 392
+  },
+  {
+    "surface": "ヤマネ",
+    "reading": "yamane",
+    "code": "cr-kata9-393",
+    "index": 393
+  },
+  {
+    "surface": "ユーカリ",
+    "reading": "eucalyptus",
+    "code": "cr-kata9-394",
+    "index": 394
+  },
+  {
+    "surface": "ユニキャスト",
+    "reading": "yunicast",
+    "code": "cr-kata9-395",
+    "index": 395
+  },
+  {
+    "surface": "ユビキノン",
+    "reading": "yubikinon",
+    "code": "cr-kata9-396",
+    "index": 396
+  },
+  {
+    "surface": "ヤシキノ",
+    "reading": "yashikino",
+    "code": "cr-kata9-397",
+    "index": 397
+  },
+  {
+    "surface": "ヨコ",
+    "reading": "yoko",
+    "code": "cr-kata9-398",
+    "index": 398
+  },
+  {
+    "surface": "ヨツメジカ",
+    "reading": "yotsumejika",
+    "code": "cr-kata9-399",
+    "index": 399
+  },
+  {
+    "surface": "ユニバーシアード",
+    "reading": "universiade",
+    "code": "cr-kata9-400",
+    "index": 400
+  },
+  {
+    "surface": "ヨウナシ",
+    "reading": "younashi",
+    "code": "cr-kata9-401",
+    "index": 401
+  },
+  {
+    "surface": "ヤンママ",
+    "reading": "janmama",
+    "code": "cr-kata9-402",
+    "index": 402
+  },
+  {
+    "surface": "ユウロピウム",
+    "reading": "europium",
+    "code": "cr-kata9-403",
+    "index": 403
+  },
+  {
+    "surface": "ユキワリソウ",
+    "reading": "yukiwarisou",
+    "code": "cr-kata9-404",
+    "index": 404
+  },
+  {
+    "surface": "ユーザーサポート",
+    "reading": "usersupport",
+    "code": "cr-kata9-405",
+    "index": 405
+  },
+  {
+    "surface": "ヤマガタ",
+    "reading": "yamagata",
+    "code": "cr-kata9-406",
+    "index": 406
+  },
+  {
+    "surface": "ヤズド",
+    "reading": "yazd",
+    "code": "cr-kata9-407",
+    "index": 407
+  },
+  {
+    "surface": "ユーザインタフェイス",
+    "reading": "userintaface",
+    "code": "cr-kata9-408",
+    "index": 408
+  },
+  {
+    "surface": "ヤロヴァ",
+    "reading": "yarova",
+    "code": "cr-kata9-409",
+    "index": 409
+  },
+  {
+    "surface": "ヨークトン",
+    "reading": "yoketon",
+    "code": "cr-kata9-410",
+    "index": 410
+  },
+  {
+    "surface": "ユキダルマ",
+    "reading": "yukidaruma",
+    "code": "cr-kata9-411",
+    "index": 411
+  },
+  {
+    "surface": "ヤリヘラザメ",
+    "reading": "yariherazame",
+    "code": "cr-kata9-412",
+    "index": 412
+  },
+  {
+    "surface": "ユリア",
+    "reading": "urea",
+    "code": "cr-kata9-413",
+    "index": 413
+  },
+  {
+    "surface": "ユーエン",
+    "reading": "youen",
+    "code": "cr-kata9-414",
+    "index": 414
+  },
+  {
+    "surface": "ヤリマン",
+    "reading": "yariman",
+    "code": "cr-kata9-415",
+    "index": 415
+  },
+  {
+    "surface": "ユカラ",
+    "reading": "youkara",
+    "code": "cr-kata9-416",
+    "index": 416
+  },
+  {
+    "surface": "ユージオメーター",
+    "reading": "eudiometer",
+    "code": "cr-kata9-417",
+    "index": 417
+  },
+  {
+    "surface": "ユニックス",
+    "reading": "yunikkusu",
+    "code": "cr-kata9-418",
+    "index": 418
+  },
+  {
+    "surface": "ヤラッパ",
+    "reading": "jalappe",
+    "code": "cr-kata9-419",
+    "index": 419
+  },
+  {
+    "surface": "ユキヤナギ",
+    "reading": "yukiyanagi",
+    "code": "cr-kata9-420",
+    "index": 420
+  },
+  {
+    "surface": "ヨウイドン",
+    "reading": "youidon",
+    "code": "cr-kata9-421",
+    "index": 421
+  },
+  {
+    "surface": "ユーエムエー",
+    "reading": "yuuemuee",
+    "code": "cr-kata9-422",
+    "index": 422
+  },
+  {
+    "surface": "ユイチー",
+    "reading": "yuichi",
+    "code": "cr-kata9-423",
+    "index": 423
+  },
+  {
+    "surface": "ヨタカ",
+    "reading": "yotaka",
+    "code": "cr-kata9-424",
+    "index": 424
+  },
+  {
+    "surface": "ユスリカ",
+    "reading": "yusurika",
+    "code": "cr-kata9-425",
+    "index": 425
+  },
+  {
+    "surface": "ユーゴスラビア",
+    "reading": "yugoslavia",
+    "code": "cr-kata9-426",
+    "index": 426
+  },
+  {
+    "surface": "ヤリイカ",
+    "reading": "yariika",
+    "code": "cr-kata9-427",
+    "index": 427
+  },
+  {
+    "surface": "ユーティリティ",
+    "reading": "utility",
+    "code": "cr-kata9-428",
+    "index": 428
+  },
+  {
+    "surface": "ヨウモウザル",
+    "reading": "youmouzaru",
+    "code": "cr-kata9-429",
+    "index": 429
+  },
+  {
+    "surface": "ヤゴ",
+    "reading": "yago",
+    "code": "cr-kata9-430",
+    "index": 430
+  },
+  {
+    "surface": "ヤイロチョウ",
+    "reading": "yairochou",
+    "code": "cr-kata9-431",
+    "index": 431
+  },
+  {
+    "surface": "ヤバイ",
+    "reading": "yabai",
+    "code": "cr-kata9-432",
+    "index": 432
+  },
+  {
+    "surface": "ヤマノカミ",
+    "reading": "yamanokami",
+    "code": "cr-kata9-433",
+    "index": 433
+  },
+  {
+    "surface": "ヨシ",
+    "reading": "yoshi",
+    "code": "cr-kata9-434",
+    "index": 434
+  },
+  {
+    "surface": "ヨメガカサ",
+    "reading": "yomegakasa",
+    "code": "cr-kata9-435",
+    "index": 435
+  },
+  {
+    "surface": "ヤマカン",
+    "reading": "yamakan",
+    "code": "cr-kata9-436",
+    "index": 436
+  },
+  {
+    "surface": "ヤラメスゲ",
+    "reading": "yaramesuge",
+    "code": "cr-kata9-437",
+    "index": 437
+  },
+  {
+    "surface": "ユキノシタ",
+    "reading": "yukinoshita",
+    "code": "cr-kata9-438",
+    "index": 438
+  },
+  {
+    "surface": "ユーザインターフェイス",
+    "reading": "userinterface",
+    "code": "cr-kata9-439",
+    "index": 439
+  },
+  {
+    "surface": "ヤスデ",
+    "reading": "yasude",
+    "code": "cr-kata9-440",
+    "index": 440
+  },
+  {
+    "surface": "ヤルタ",
+    "reading": "yalta",
+    "code": "cr-kata9-441",
+    "index": 441
+  },
+  {
+    "surface": "ユカイア",
+    "reading": "yukaia",
+    "code": "cr-kata9-442",
+    "index": 442
+  },
+  {
+    "surface": "ユウスゲ",
+    "reading": "yuusuge",
+    "code": "cr-kata9-443",
+    "index": 443
+  },
+  {
+    "surface": "ヤミイソハゼ",
+    "reading": "yamiisohaze",
+    "code": "cr-kata9-444",
+    "index": 444
+  },
+  {
+    "surface": "ユニファイ",
+    "reading": "unify",
+    "code": "cr-kata9-445",
+    "index": 445
+  },
+  {
+    "surface": "ユーロクラート",
+    "reading": "yuurokuraato",
+    "code": "cr-kata9-446",
+    "index": 446
+  },
+  {
+    "surface": "ヤロチン",
+    "reading": "yaroyotchin",
+    "code": "cr-kata9-447",
+    "index": 447
+  },
+  {
+    "surface": "ヤマブキ",
+    "reading": "yamabuki",
+    "code": "cr-kata9-448",
+    "index": 448
+  },
+  {
+    "surface": "ユニオンシティ",
+    "reading": "unioncity",
+    "code": "cr-kata9-449",
+    "index": 449
+  },
+  {
+    "surface": "ヨヒンベ",
+    "reading": "yohimbe",
+    "code": "cr-kata9-450",
+    "index": 450
+  },
+  {
+    "surface": "ユーロダラー",
+    "reading": "eurodollar",
+    "code": "cr-kata9-451",
+    "index": 451
+  },
+  {
+    "surface": "ヤイトハタ",
+    "reading": "yaitohata",
+    "code": "cr-kata9-452",
+    "index": 452
+  },
+  {
+    "surface": "ヨーロッパオオヤマネコ",
+    "reading": "europaooyamaneko",
+    "code": "cr-kata9-453",
+    "index": 453
+  },
+  {
+    "surface": "ヤクザ",
+    "reading": "yakuza",
+    "code": "cr-kata9-454",
+    "index": 454
+  },
+  {
+    "surface": "ユヴァスキュラ",
+    "reading": "yuvasukyura",
+    "code": "cr-kata9-455",
+    "index": 455
+  },
+  {
+    "surface": "ヤリタナゴ",
+    "reading": "yaritanago",
+    "code": "cr-kata9-456",
+    "index": 456
+  },
+  {
+    "surface": "ヤマメ",
+    "reading": "yamame",
+    "code": "cr-kata9-457",
+    "index": 457
+  },
+  {
+    "surface": "ヨーマン",
+    "reading": "yeoman",
+    "code": "cr-kata9-458",
+    "index": 458
+  },
+  {
+    "surface": "ヨウド",
+    "reading": "youdo",
+    "code": "cr-kata9-459",
+    "index": 459
+  },
+  {
+    "surface": "ユニフィケーション",
+    "reading": "unification",
+    "code": "cr-kata9-460",
+    "index": 460
+  },
+  {
+    "surface": "ユリカモメ",
+    "reading": "yurikamome",
+    "code": "cr-kata9-461",
+    "index": 461
+  },
+  {
+    "surface": "ヨンカーズ",
+    "reading": "yonkers",
+    "code": "cr-kata9-462",
+    "index": 462
+  },
+  {
+    "surface": "ユーカリスト",
+    "reading": "eucharist",
+    "code": "cr-kata9-463",
+    "index": 463
+  },
+  {
+    "surface": "ユニコード",
+    "reading": "yunikoodo",
+    "code": "cr-kata9-464",
+    "index": 464
+  },
+  {
+    "surface": "ユニットシステム",
+    "reading": "unitsystem",
+    "code": "cr-kata9-465",
+    "index": 465
+  },
+  {
+    "surface": "ユネップ",
+    "reading": "yuneppu",
+    "code": "cr-kata9-466",
+    "index": 466
+  },
+  {
+    "surface": "ユーモラス",
+    "reading": "humorous",
+    "code": "cr-kata9-467",
+    "index": 467
+  },
+  {
+    "surface": "ヤマハッカ",
+    "reading": "yamahakka",
+    "code": "cr-kata9-468",
+    "index": 468
+  },
+  {
+    "surface": "ヤクシカ",
+    "reading": "yakushika",
+    "code": "cr-kata9-469",
+    "index": 469
+  },
+  {
+    "surface": "ヨーク",
+    "reading": "yoke",
+    "code": "cr-kata9-470",
+    "index": 470
+  },
+  {
+    "surface": "ユニファイア",
+    "reading": "yunifire",
+    "code": "cr-kata9-471",
+    "index": 471
+  },
+  {
+    "surface": "ユーザーインターフェース",
+    "reading": "userinterface",
+    "code": "cr-kata9-472",
+    "index": 472
+  },
+  {
+    "surface": "ヤール",
+    "reading": "yard",
+    "code": "cr-kata9-473",
+    "index": 473
+  },
+  {
+    "surface": "ヨッチャン",
+    "reading": "yocchan",
+    "code": "cr-kata9-474",
+    "index": 474
+  },
+  {
+    "surface": "ヨイショ",
+    "reading": "yoisho",
+    "code": "cr-kata9-475",
+    "index": 475
+  },
+  {
+    "surface": "ヨーマンリー",
+    "reading": "yeomanry",
+    "code": "cr-kata9-476",
+    "index": 476
+  },
+  {
+    "surface": "ユーサネイジア",
+    "reading": "euthanasia",
+    "code": "cr-kata9-477",
+    "index": 477
+  },
+  {
+    "surface": "ヨウサイ",
+    "reading": "yousai",
+    "code": "cr-kata9-478",
+    "index": 478
+  },
+  {
+    "surface": "ヤマグチ",
+    "reading": "yamaguchi",
+    "code": "cr-kata9-479",
+    "index": 479
+  },
+  {
+    "surface": "ユニバーシティプレース",
+    "reading": "universityplace",
+    "code": "cr-kata9-480",
+    "index": 480
+  },
+  {
+    "surface": "ヤブニッケイ",
+    "reading": "yabunikkei",
+    "code": "cr-kata9-481",
+    "index": 481
+  },
+  {
+    "surface": "ユーザーズ",
+    "reading": "user",
+    "code": "cr-kata9-482",
+    "index": 482
+  },
+  {
+    "surface": "ユルト",
+    "reading": "yurt",
+    "code": "cr-kata9-483",
+    "index": 483
+  },
+  {
+    "surface": "ユーフェミズム",
+    "reading": "euphemism",
+    "code": "cr-kata9-484",
+    "index": 484
+  },
+  {
+    "surface": "ユニホーム",
+    "reading": "uniform",
+    "code": "cr-kata9-485",
+    "index": 485
+  },
+  {
+    "surface": "ヨーチン",
+    "reading": "jodtinktur",
+    "code": "cr-kata9-486",
+    "index": 486
+  },
+  {
+    "surface": "ヤマイモ",
+    "reading": "yamaimo",
+    "code": "cr-kata9-487",
+    "index": 487
+  },
+  {
+    "surface": "ヤエナリ",
+    "reading": "yaenari",
+    "code": "cr-kata9-488",
+    "index": 488
+  },
+  {
+    "surface": "ユーザー",
+    "reading": "user",
+    "code": "cr-kata9-489",
+    "index": 489
+  },
+  {
+    "surface": "ユースマーケット",
+    "reading": "youthmarket",
+    "code": "cr-kata9-490",
+    "index": 490
+  },
+  {
+    "surface": "ユードラ",
+    "reading": "youdraft",
+    "code": "cr-kata9-491",
+    "index": 491
+  }
+]

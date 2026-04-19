@@ -1,0 +1,10400 @@
+[
+  {
+    "surface": "漕い",
+    "reading": "koi",
+    "code": "cr-jou1-0",
+    "index": 0
+  },
+  {
+    "surface": "いそい",
+    "reading": "isoi",
+    "code": "cr-jou1-1",
+    "index": 1
+  },
+  {
+    "surface": "つき進ん",
+    "reading": "tsukisusun",
+    "code": "cr-jou1-2",
+    "index": 2
+  },
+  {
+    "surface": "寝そべっ",
+    "reading": "nesobe",
+    "code": "cr-jou1-3",
+    "index": 3
+  },
+  {
+    "surface": "払え",
+    "reading": "harae",
+    "code": "cr-jou1-4",
+    "index": 4
+  },
+  {
+    "surface": "損なっ",
+    "reading": "sokona",
+    "code": "cr-jou1-5",
+    "index": 5
+  },
+  {
+    "surface": "辿りつい",
+    "reading": "tadoritsui",
+    "code": "cr-jou1-6",
+    "index": 6
+  },
+  {
+    "surface": "済ん",
+    "reading": "sun",
+    "code": "cr-jou1-7",
+    "index": 7
+  },
+  {
+    "surface": "たどりつく",
+    "reading": "tadoritsuku",
+    "code": "cr-jou1-8",
+    "index": 8
+  },
+  {
+    "surface": "習わ",
+    "reading": "narawa",
+    "code": "cr-jou1-9",
+    "index": 9
+  },
+  {
+    "surface": "欠かせ",
+    "reading": "kakase",
+    "code": "cr-jou1-10",
+    "index": 10
+  },
+  {
+    "surface": "落とす",
+    "reading": "otosu",
+    "code": "cr-jou1-11",
+    "index": 11
+  },
+  {
+    "surface": "招き",
+    "reading": "maneki",
+    "code": "cr-jou1-12",
+    "index": 12
+  },
+  {
+    "surface": "探しまわっ",
+    "reading": "sagashimawa",
+    "code": "cr-jou1-13",
+    "index": 13
+  },
+  {
+    "surface": "すすん",
+    "reading": "susun",
+    "code": "cr-jou1-14",
+    "index": 14
+  },
+  {
+    "surface": "しめくくっ",
+    "reading": "shimekuku",
+    "code": "cr-jou1-15",
+    "index": 15
+  },
+  {
+    "surface": "差し伸べ",
+    "reading": "sashinobe",
+    "code": "cr-jou1-16",
+    "index": 16
+  },
+  {
+    "surface": "動く",
+    "reading": "ugoku",
+    "code": "cr-jou1-17",
+    "index": 17
+  },
+  {
+    "surface": "はじめる",
+    "reading": "hajimeru",
+    "code": "cr-jou1-18",
+    "index": 18
+  },
+  {
+    "surface": "食わ",
+    "reading": "kuwa",
+    "code": "cr-jou1-19",
+    "index": 19
+  },
+  {
+    "surface": "呆れ",
+    "reading": "akire",
+    "code": "cr-jou1-20",
+    "index": 20
+  },
+  {
+    "surface": "込めよう",
+    "reading": "komeyou",
+    "code": "cr-jou1-21",
+    "index": 21
+  },
+  {
+    "surface": "入れ替える",
+    "reading": "irekaeru",
+    "code": "cr-jou1-22",
+    "index": 22
+  },
+  {
+    "surface": "ぶら下がっ",
+    "reading": "burasaga",
+    "code": "cr-jou1-23",
+    "index": 23
+  },
+  {
+    "surface": "抱き締め",
+    "reading": "dakishime",
+    "code": "cr-jou1-24",
+    "index": 24
+  },
+  {
+    "surface": "伴わ",
+    "reading": "tomonawa",
+    "code": "cr-jou1-25",
+    "index": 25
+  },
+  {
+    "surface": "抱きすくめ",
+    "reading": "dakisukume",
+    "code": "cr-jou1-26",
+    "index": 26
+  },
+  {
+    "surface": "妬い",
+    "reading": "yai",
+    "code": "cr-jou1-27",
+    "index": 27
+  },
+  {
+    "surface": "崩し",
+    "reading": "kuzushi",
+    "code": "cr-jou1-28",
+    "index": 28
+  },
+  {
+    "surface": "注ぐ",
+    "reading": "sosogu",
+    "code": "cr-jou1-29",
+    "index": 29
+  },
+  {
+    "surface": "刺す",
+    "reading": "sasu",
+    "code": "cr-jou1-30",
+    "index": 30
+  },
+  {
+    "surface": "見捨て",
+    "reading": "misute",
+    "code": "cr-jou1-31",
+    "index": 31
+  },
+  {
+    "surface": "起きれ",
+    "reading": "okire",
+    "code": "cr-jou1-32",
+    "index": 32
+  },
+  {
+    "surface": "あふれかえっ",
+    "reading": "afurekae",
+    "code": "cr-jou1-33",
+    "index": 33
+  },
+  {
+    "surface": "取り消そう",
+    "reading": "torikesou",
+    "code": "cr-jou1-34",
+    "index": 34
+  },
+  {
+    "surface": "持ちこたえ",
+    "reading": "mochikotae",
+    "code": "cr-jou1-35",
+    "index": 35
+  },
+  {
+    "surface": "めざし",
+    "reading": "mezashi",
+    "code": "cr-jou1-36",
+    "index": 36
+  },
+  {
+    "surface": "召し上がる",
+    "reading": "meshiagaru",
+    "code": "cr-jou1-37",
+    "index": 37
+  },
+  {
+    "surface": "追い出さ",
+    "reading": "oidasa",
+    "code": "cr-jou1-38",
+    "index": 38
+  },
+  {
+    "surface": "おし進める",
+    "reading": "oshisusumeru",
+    "code": "cr-jou1-39",
+    "index": 39
+  },
+  {
+    "surface": "読ん",
+    "reading": "yon",
+    "code": "cr-jou1-40",
+    "index": 40
+  },
+  {
+    "surface": "しゃべらさ",
+    "reading": "shaberasa",
+    "code": "cr-jou1-41",
+    "index": 41
+  },
+  {
+    "surface": "侮っ",
+    "reading": "anado",
+    "code": "cr-jou1-42",
+    "index": 42
+  },
+  {
+    "surface": "控え",
+    "reading": "hikae",
+    "code": "cr-jou1-43",
+    "index": 43
+  },
+  {
+    "surface": "静まっ",
+    "reading": "shizuma",
+    "code": "cr-jou1-44",
+    "index": 44
+  },
+  {
+    "surface": "浸す",
+    "reading": "hitasu",
+    "code": "cr-jou1-45",
+    "index": 45
+  },
+  {
+    "surface": "届け",
+    "reading": "todoke",
+    "code": "cr-jou1-46",
+    "index": 46
+  },
+  {
+    "surface": "つくら",
+    "reading": "tsukura",
+    "code": "cr-jou1-47",
+    "index": 47
+  },
+  {
+    "surface": "運ぶ",
+    "reading": "hakobu",
+    "code": "cr-jou1-48",
+    "index": 48
+  },
+  {
+    "surface": "稼い",
+    "reading": "kasei",
+    "code": "cr-jou1-49",
+    "index": 49
+  },
+  {
+    "surface": "もめ",
+    "reading": "mome",
+    "code": "cr-jou1-50",
+    "index": 50
+  },
+  {
+    "surface": "好む",
+    "reading": "konomu",
+    "code": "cr-jou1-51",
+    "index": 51
+  },
+  {
+    "surface": "飲む",
+    "reading": "nomu",
+    "code": "cr-jou1-52",
+    "index": 52
+  },
+  {
+    "surface": "いただけれ",
+    "reading": "itadakere",
+    "code": "cr-jou1-53",
+    "index": 53
+  },
+  {
+    "surface": "こなす",
+    "reading": "konasu",
+    "code": "cr-jou1-54",
+    "index": 54
+  },
+  {
+    "surface": "使い切る",
+    "reading": "tsukaikiru",
+    "code": "cr-jou1-55",
+    "index": 55
+  },
+  {
+    "surface": "売り込もう",
+    "reading": "urikomou",
+    "code": "cr-jou1-56",
+    "index": 56
+  },
+  {
+    "surface": "付く",
+    "reading": "tsuku",
+    "code": "cr-jou1-57",
+    "index": 57
+  },
+  {
+    "surface": "討っ",
+    "reading": "u",
+    "code": "cr-jou1-58",
+    "index": 58
+  },
+  {
+    "surface": "駆り集め",
+    "reading": "kariatsume",
+    "code": "cr-jou1-59",
+    "index": 59
+  },
+  {
+    "surface": "もちかけ",
+    "reading": "mochikake",
+    "code": "cr-jou1-60",
+    "index": 60
+  },
+  {
+    "surface": "切る",
+    "reading": "kiru",
+    "code": "cr-jou1-61",
+    "index": 61
+  },
+  {
+    "surface": "頼ま",
+    "reading": "tanoma",
+    "code": "cr-jou1-62",
+    "index": 62
+  },
+  {
+    "surface": "消え去っ",
+    "reading": "kiesa",
+    "code": "cr-jou1-63",
+    "index": 63
+  },
+  {
+    "surface": "渡さ",
+    "reading": "watasa",
+    "code": "cr-jou1-64",
+    "index": 64
+  },
+  {
+    "surface": "めげ",
+    "reading": "mege",
+    "code": "cr-jou1-65",
+    "index": 65
+  },
+  {
+    "surface": "塗ら",
+    "reading": "nura",
+    "code": "cr-jou1-66",
+    "index": 66
+  },
+  {
+    "surface": "走っ",
+    "reading": "hashi",
+    "code": "cr-jou1-67",
+    "index": 67
+  },
+  {
+    "surface": "好ん",
+    "reading": "konon",
+    "code": "cr-jou1-68",
+    "index": 68
+  },
+  {
+    "surface": "渡る",
+    "reading": "wataru",
+    "code": "cr-jou1-69",
+    "index": 69
+  },
+  {
+    "surface": "次ぐ",
+    "reading": "tsugu",
+    "code": "cr-jou1-70",
+    "index": 70
+  },
+  {
+    "surface": "食い止めよう",
+    "reading": "kuitomeyou",
+    "code": "cr-jou1-71",
+    "index": 71
+  },
+  {
+    "surface": "むせ",
+    "reading": "muse",
+    "code": "cr-jou1-72",
+    "index": 72
+  },
+  {
+    "surface": "極まっ",
+    "reading": "kiwama",
+    "code": "cr-jou1-73",
+    "index": 73
+  },
+  {
+    "surface": "生やし",
+    "reading": "hayashi",
+    "code": "cr-jou1-74",
+    "index": 74
+  },
+  {
+    "surface": "きれる",
+    "reading": "kireru",
+    "code": "cr-jou1-75",
+    "index": 75
+  },
+  {
+    "surface": "選ん",
+    "reading": "eran",
+    "code": "cr-jou1-76",
+    "index": 76
+  },
+  {
+    "surface": "生き残る",
+    "reading": "ikinokoru",
+    "code": "cr-jou1-77",
+    "index": 77
+  },
+  {
+    "surface": "口ずさん",
+    "reading": "kuchizusan",
+    "code": "cr-jou1-78",
+    "index": 78
+  },
+  {
+    "surface": "ちがう",
+    "reading": "chigau",
+    "code": "cr-jou1-79",
+    "index": 79
+  },
+  {
+    "surface": "いき",
+    "reading": "iki",
+    "code": "cr-jou1-80",
+    "index": 80
+  },
+  {
+    "surface": "成し遂げる",
+    "reading": "nashitogeru",
+    "code": "cr-jou1-81",
+    "index": 81
+  },
+  {
+    "surface": "死ね",
+    "reading": "shine",
+    "code": "cr-jou1-82",
+    "index": 82
+  },
+  {
+    "surface": "とりかかろう",
+    "reading": "torikakarou",
+    "code": "cr-jou1-83",
+    "index": 83
+  },
+  {
+    "surface": "さわぐ",
+    "reading": "sawagu",
+    "code": "cr-jou1-84",
+    "index": 84
+  },
+  {
+    "surface": "タメ",
+    "reading": "tame",
+    "code": "cr-jou1-85",
+    "index": 85
+  },
+  {
+    "surface": "かがめ",
+    "reading": "kagame",
+    "code": "cr-jou1-86",
+    "index": 86
+  },
+  {
+    "surface": "とおし",
+    "reading": "tooshi",
+    "code": "cr-jou1-87",
+    "index": 87
+  },
+  {
+    "surface": "閉じ",
+    "reading": "toji",
+    "code": "cr-jou1-88",
+    "index": 88
+  },
+  {
+    "surface": "たたき出す",
+    "reading": "tatakidasu",
+    "code": "cr-jou1-89",
+    "index": 89
+  },
+  {
+    "surface": "ならっ",
+    "reading": "nara",
+    "code": "cr-jou1-90",
+    "index": 90
+  },
+  {
+    "surface": "追いかける",
+    "reading": "oikakeru",
+    "code": "cr-jou1-91",
+    "index": 91
+  },
+  {
+    "surface": "押さ",
+    "reading": "osa",
+    "code": "cr-jou1-92",
+    "index": 92
+  },
+  {
+    "surface": "略さ",
+    "reading": "ryakusa",
+    "code": "cr-jou1-93",
+    "index": 93
+  },
+  {
+    "surface": "守れる",
+    "reading": "mamoreru",
+    "code": "cr-jou1-94",
+    "index": 94
+  },
+  {
+    "surface": "かわす",
+    "reading": "kawasu",
+    "code": "cr-jou1-95",
+    "index": 95
+  },
+  {
+    "surface": "囲ま",
+    "reading": "kakoma",
+    "code": "cr-jou1-96",
+    "index": 96
+  },
+  {
+    "surface": "心がける",
+    "reading": "kokorogakeru",
+    "code": "cr-jou1-97",
+    "index": 97
+  },
+  {
+    "surface": "投げつける",
+    "reading": "nagetsukeru",
+    "code": "cr-jou1-98",
+    "index": 98
+  },
+  {
+    "surface": "殴りつけ",
+    "reading": "naguritsuke",
+    "code": "cr-jou1-99",
+    "index": 99
+  },
+  {
+    "surface": "むしる",
+    "reading": "mushiru",
+    "code": "cr-jou1-100",
+    "index": 100
+  },
+  {
+    "surface": "吹き荒れる",
+    "reading": "fukiareru",
+    "code": "cr-jou1-101",
+    "index": 101
+  },
+  {
+    "surface": "描ける",
+    "reading": "egakeru",
+    "code": "cr-jou1-102",
+    "index": 102
+  },
+  {
+    "surface": "続い",
+    "reading": "tsuzui",
+    "code": "cr-jou1-103",
+    "index": 103
+  },
+  {
+    "surface": "起こそう",
+    "reading": "okosou",
+    "code": "cr-jou1-104",
+    "index": 104
+  },
+  {
+    "surface": "懲り",
+    "reading": "kori",
+    "code": "cr-jou1-105",
+    "index": 105
+  },
+  {
+    "surface": "とまっ",
+    "reading": "toma",
+    "code": "cr-jou1-106",
+    "index": 106
+  },
+  {
+    "surface": "憎ま",
+    "reading": "nikuma",
+    "code": "cr-jou1-107",
+    "index": 107
+  },
+  {
+    "surface": "教える",
+    "reading": "oshieru",
+    "code": "cr-jou1-108",
+    "index": 108
+  },
+  {
+    "surface": "ありあまる",
+    "reading": "ariamaru",
+    "code": "cr-jou1-109",
+    "index": 109
+  },
+  {
+    "surface": "抜け出そう",
+    "reading": "nukedasou",
+    "code": "cr-jou1-110",
+    "index": 110
+  },
+  {
+    "surface": "あやなす",
+    "reading": "ayanasu",
+    "code": "cr-jou1-111",
+    "index": 111
+  },
+  {
+    "surface": "結び付ける",
+    "reading": "musubitsukeru",
+    "code": "cr-jou1-112",
+    "index": 112
+  },
+  {
+    "surface": "決し",
+    "reading": "kesshi",
+    "code": "cr-jou1-113",
+    "index": 113
+  },
+  {
+    "surface": "たたずん",
+    "reading": "tatazun",
+    "code": "cr-jou1-114",
+    "index": 114
+  },
+  {
+    "surface": "たどり着い",
+    "reading": "tadoritsui",
+    "code": "cr-jou1-115",
+    "index": 115
+  },
+  {
+    "surface": "鳴ら",
+    "reading": "nara",
+    "code": "cr-jou1-116",
+    "index": 116
+  },
+  {
+    "surface": "だまれ",
+    "reading": "damare",
+    "code": "cr-jou1-117",
+    "index": 117
+  },
+  {
+    "surface": "率い",
+    "reading": "hikii",
+    "code": "cr-jou1-118",
+    "index": 118
+  },
+  {
+    "surface": "残る",
+    "reading": "nokoru",
+    "code": "cr-jou1-119",
+    "index": 119
+  },
+  {
+    "surface": "どなりつけ",
+    "reading": "donaritsuke",
+    "code": "cr-jou1-120",
+    "index": 120
+  },
+  {
+    "surface": "旅立つ",
+    "reading": "tabidatsu",
+    "code": "cr-jou1-121",
+    "index": 121
+  },
+  {
+    "surface": "償う",
+    "reading": "tsugunau",
+    "code": "cr-jou1-122",
+    "index": 122
+  },
+  {
+    "surface": "追っ",
+    "reading": "o",
+    "code": "cr-jou1-123",
+    "index": 123
+  },
+  {
+    "surface": "やりあう",
+    "reading": "yariau",
+    "code": "cr-jou1-124",
+    "index": 124
+  },
+  {
+    "surface": "就い",
+    "reading": "tsui",
+    "code": "cr-jou1-125",
+    "index": 125
+  },
+  {
+    "surface": "かき消さ",
+    "reading": "kakikesa",
+    "code": "cr-jou1-126",
+    "index": 126
+  },
+  {
+    "surface": "習う",
+    "reading": "narau",
+    "code": "cr-jou1-127",
+    "index": 127
+  },
+  {
+    "surface": "とがめだて",
+    "reading": "togamedate",
+    "code": "cr-jou1-128",
+    "index": 128
+  },
+  {
+    "surface": "すっぽ抜け",
+    "reading": "supponuke",
+    "code": "cr-jou1-129",
+    "index": 129
+  },
+  {
+    "surface": "ひけらかす",
+    "reading": "hikerakasu",
+    "code": "cr-jou1-130",
+    "index": 130
+  },
+  {
+    "surface": "振り向け",
+    "reading": "furimuke",
+    "code": "cr-jou1-131",
+    "index": 131
+  },
+  {
+    "surface": "広げよう",
+    "reading": "hirogeyou",
+    "code": "cr-jou1-132",
+    "index": 132
+  },
+  {
+    "surface": "破ら",
+    "reading": "yabura",
+    "code": "cr-jou1-133",
+    "index": 133
+  },
+  {
+    "surface": "殴る",
+    "reading": "naguru",
+    "code": "cr-jou1-134",
+    "index": 134
+  },
+  {
+    "surface": "ねらい撃っ",
+    "reading": "neraiu",
+    "code": "cr-jou1-135",
+    "index": 135
+  },
+  {
+    "surface": "食っ",
+    "reading": "shoku",
+    "code": "cr-jou1-136",
+    "index": 136
+  },
+  {
+    "surface": "閉じ込め",
+    "reading": "tojikome",
+    "code": "cr-jou1-137",
+    "index": 137
+  },
+  {
+    "surface": "加わる",
+    "reading": "kuwawaru",
+    "code": "cr-jou1-138",
+    "index": 138
+  },
+  {
+    "surface": "逃げ",
+    "reading": "nige",
+    "code": "cr-jou1-139",
+    "index": 139
+  },
+  {
+    "surface": "わきかえっ",
+    "reading": "wakikae",
+    "code": "cr-jou1-140",
+    "index": 140
+  },
+  {
+    "surface": "みろ",
+    "reading": "miro",
+    "code": "cr-jou1-141",
+    "index": 141
+  },
+  {
+    "surface": "沈ん",
+    "reading": "shizun",
+    "code": "cr-jou1-142",
+    "index": 142
+  },
+  {
+    "surface": "逃さ",
+    "reading": "nogasa",
+    "code": "cr-jou1-143",
+    "index": 143
+  },
+  {
+    "surface": "与える",
+    "reading": "ataeru",
+    "code": "cr-jou1-144",
+    "index": 144
+  },
+  {
+    "surface": "引きつけ",
+    "reading": "hikitsuke",
+    "code": "cr-jou1-145",
+    "index": 145
+  },
+  {
+    "surface": "曳い",
+    "reading": "hii",
+    "code": "cr-jou1-146",
+    "index": 146
+  },
+  {
+    "surface": "通わ",
+    "reading": "kayowa",
+    "code": "cr-jou1-147",
+    "index": 147
+  },
+  {
+    "surface": "打ちこん",
+    "reading": "uchikon",
+    "code": "cr-jou1-148",
+    "index": 148
+  },
+  {
+    "surface": "作れる",
+    "reading": "tsukureru",
+    "code": "cr-jou1-149",
+    "index": 149
+  },
+  {
+    "surface": "違っ",
+    "reading": "chiga",
+    "code": "cr-jou1-150",
+    "index": 150
+  },
+  {
+    "surface": "みとめ",
+    "reading": "mitome",
+    "code": "cr-jou1-151",
+    "index": 151
+  },
+  {
+    "surface": "適さ",
+    "reading": "tekisa",
+    "code": "cr-jou1-152",
+    "index": 152
+  },
+  {
+    "surface": "行き詰まっ",
+    "reading": "ikizuma",
+    "code": "cr-jou1-153",
+    "index": 153
+  },
+  {
+    "surface": "振り向き",
+    "reading": "furimuki",
+    "code": "cr-jou1-154",
+    "index": 154
+  },
+  {
+    "surface": "打ち破っ",
+    "reading": "uchiyabu",
+    "code": "cr-jou1-155",
+    "index": 155
+  },
+  {
+    "surface": "ひろっ",
+    "reading": "hiro",
+    "code": "cr-jou1-156",
+    "index": 156
+  },
+  {
+    "surface": "取り違え",
+    "reading": "torichigae",
+    "code": "cr-jou1-157",
+    "index": 157
+  },
+  {
+    "surface": "こびりつい",
+    "reading": "kobiritsui",
+    "code": "cr-jou1-158",
+    "index": 158
+  },
+  {
+    "surface": "満た",
+    "reading": "mita",
+    "code": "cr-jou1-159",
+    "index": 159
+  },
+  {
+    "surface": "輝い",
+    "reading": "kagayai",
+    "code": "cr-jou1-160",
+    "index": 160
+  },
+  {
+    "surface": "すむ",
+    "reading": "sumu",
+    "code": "cr-jou1-161",
+    "index": 161
+  },
+  {
+    "surface": "吸い",
+    "reading": "sui",
+    "code": "cr-jou1-162",
+    "index": 162
+  },
+  {
+    "surface": "進ま",
+    "reading": "susuma",
+    "code": "cr-jou1-163",
+    "index": 163
+  },
+  {
+    "surface": "さしだし",
+    "reading": "sashidashi",
+    "code": "cr-jou1-164",
+    "index": 164
+  },
+  {
+    "surface": "言え",
+    "reading": "ie",
+    "code": "cr-jou1-165",
+    "index": 165
+  },
+  {
+    "surface": "溢れだし",
+    "reading": "afuredashi",
+    "code": "cr-jou1-166",
+    "index": 166
+  },
+  {
+    "surface": "年老い",
+    "reading": "toshioi",
+    "code": "cr-jou1-167",
+    "index": 167
+  },
+  {
+    "surface": "変わっ",
+    "reading": "kawa",
+    "code": "cr-jou1-168",
+    "index": 168
+  },
+  {
+    "surface": "やりとげる",
+    "reading": "yaritogeru",
+    "code": "cr-jou1-169",
+    "index": 169
+  },
+  {
+    "surface": "言い張る",
+    "reading": "iiharu",
+    "code": "cr-jou1-170",
+    "index": 170
+  },
+  {
+    "surface": "余る",
+    "reading": "amaru",
+    "code": "cr-jou1-171",
+    "index": 171
+  },
+  {
+    "surface": "引き起こそう",
+    "reading": "hikiokosou",
+    "code": "cr-jou1-172",
+    "index": 172
+  },
+  {
+    "surface": "召し上がっ",
+    "reading": "meshiaga",
+    "code": "cr-jou1-173",
+    "index": 173
+  },
+  {
+    "surface": "はぐらかさ",
+    "reading": "hagurakasa",
+    "code": "cr-jou1-174",
+    "index": 174
+  },
+  {
+    "surface": "見逃さ",
+    "reading": "minogasa",
+    "code": "cr-jou1-175",
+    "index": 175
+  },
+  {
+    "surface": "ゆすっ",
+    "reading": "yusu",
+    "code": "cr-jou1-176",
+    "index": 176
+  },
+  {
+    "surface": "起きあがっ",
+    "reading": "okiaga",
+    "code": "cr-jou1-177",
+    "index": 177
+  },
+  {
+    "surface": "威張り散らそう",
+    "reading": "ibarichirasou",
+    "code": "cr-jou1-178",
+    "index": 178
+  },
+  {
+    "surface": "敗れ",
+    "reading": "yabure",
+    "code": "cr-jou1-179",
+    "index": 179
+  },
+  {
+    "surface": "聞き入れよう",
+    "reading": "kikiireyou",
+    "code": "cr-jou1-180",
+    "index": 180
+  },
+  {
+    "surface": "わすれ",
+    "reading": "wasure",
+    "code": "cr-jou1-181",
+    "index": 181
+  },
+  {
+    "surface": "占める",
+    "reading": "shimeru",
+    "code": "cr-jou1-182",
+    "index": 182
+  },
+  {
+    "surface": "誉め",
+    "reading": "home",
+    "code": "cr-jou1-183",
+    "index": 183
+  },
+  {
+    "surface": "企ん",
+    "reading": "takuran",
+    "code": "cr-jou1-184",
+    "index": 184
+  },
+  {
+    "surface": "営む",
+    "reading": "itonamu",
+    "code": "cr-jou1-185",
+    "index": 185
+  },
+  {
+    "surface": "ぶち当たる",
+    "reading": "buchiataru",
+    "code": "cr-jou1-186",
+    "index": 186
+  },
+  {
+    "surface": "失わ",
+    "reading": "ushinawa",
+    "code": "cr-jou1-187",
+    "index": 187
+  },
+  {
+    "surface": "ほめちぎっ",
+    "reading": "homechigi",
+    "code": "cr-jou1-188",
+    "index": 188
+  },
+  {
+    "surface": "取り戻そう",
+    "reading": "torimodosou",
+    "code": "cr-jou1-189",
+    "index": 189
+  },
+  {
+    "surface": "かまわ",
+    "reading": "kamawa",
+    "code": "cr-jou1-190",
+    "index": 190
+  },
+  {
+    "surface": "撮っ",
+    "reading": "to",
+    "code": "cr-jou1-191",
+    "index": 191
+  },
+  {
+    "surface": "壊し",
+    "reading": "kowashi",
+    "code": "cr-jou1-192",
+    "index": 192
+  },
+  {
+    "surface": "脅え",
+    "reading": "obie",
+    "code": "cr-jou1-193",
+    "index": 193
+  },
+  {
+    "surface": "解し",
+    "reading": "kaishi",
+    "code": "cr-jou1-194",
+    "index": 194
+  },
+  {
+    "surface": "噛ま",
+    "reading": "kama",
+    "code": "cr-jou1-195",
+    "index": 195
+  },
+  {
+    "surface": "寄りかかっ",
+    "reading": "yorikaka",
+    "code": "cr-jou1-196",
+    "index": 196
+  },
+  {
+    "surface": "きりぬけ",
+    "reading": "kirinuke",
+    "code": "cr-jou1-197",
+    "index": 197
+  },
+  {
+    "surface": "悩まし",
+    "reading": "nayamashi",
+    "code": "cr-jou1-198",
+    "index": 198
+  },
+  {
+    "surface": "殴りかかっ",
+    "reading": "nagurikaka",
+    "code": "cr-jou1-199",
+    "index": 199
+  },
+  {
+    "surface": "治ら",
+    "reading": "naora",
+    "code": "cr-jou1-200",
+    "index": 200
+  },
+  {
+    "surface": "立っ",
+    "reading": "ta",
+    "code": "cr-jou1-201",
+    "index": 201
+  },
+  {
+    "surface": "切ら",
+    "reading": "kira",
+    "code": "cr-jou1-202",
+    "index": 202
+  },
+  {
+    "surface": "まかなう",
+    "reading": "makanau",
+    "code": "cr-jou1-203",
+    "index": 203
+  },
+  {
+    "surface": "打ち勝つ",
+    "reading": "uchikatsu",
+    "code": "cr-jou1-204",
+    "index": 204
+  },
+  {
+    "surface": "押し分け",
+    "reading": "oshiwake",
+    "code": "cr-jou1-205",
+    "index": 205
+  },
+  {
+    "surface": "売りさばい",
+    "reading": "urisabai",
+    "code": "cr-jou1-206",
+    "index": 206
+  },
+  {
+    "surface": "浮かび上がれ",
+    "reading": "ukabiagare",
+    "code": "cr-jou1-207",
+    "index": 207
+  },
+  {
+    "surface": "しまいこん",
+    "reading": "shimaikon",
+    "code": "cr-jou1-208",
+    "index": 208
+  },
+  {
+    "surface": "冒し",
+    "reading": "okashi",
+    "code": "cr-jou1-209",
+    "index": 209
+  },
+  {
+    "surface": "揚げ",
+    "reading": "age",
+    "code": "cr-jou1-210",
+    "index": 210
+  },
+  {
+    "surface": "生き延びよう",
+    "reading": "ikinobiyou",
+    "code": "cr-jou1-211",
+    "index": 211
+  },
+  {
+    "surface": "落とさ",
+    "reading": "otosa",
+    "code": "cr-jou1-212",
+    "index": 212
+  },
+  {
+    "surface": "怠ら",
+    "reading": "okotara",
+    "code": "cr-jou1-213",
+    "index": 213
+  },
+  {
+    "surface": "治す",
+    "reading": "naosu",
+    "code": "cr-jou1-214",
+    "index": 214
+  },
+  {
+    "surface": "生まれつい",
+    "reading": "umaretsui",
+    "code": "cr-jou1-215",
+    "index": 215
+  },
+  {
+    "surface": "こめ",
+    "reading": "kome",
+    "code": "cr-jou1-216",
+    "index": 216
+  },
+  {
+    "surface": "比べる",
+    "reading": "kuraberu",
+    "code": "cr-jou1-217",
+    "index": 217
+  },
+  {
+    "surface": "脱し",
+    "reading": "dasshi",
+    "code": "cr-jou1-218",
+    "index": 218
+  },
+  {
+    "surface": "引き継ごう",
+    "reading": "hikitsugou",
+    "code": "cr-jou1-219",
+    "index": 219
+  },
+  {
+    "surface": "終える",
+    "reading": "oeru",
+    "code": "cr-jou1-220",
+    "index": 220
+  },
+  {
+    "surface": "集まっ",
+    "reading": "atsuma",
+    "code": "cr-jou1-221",
+    "index": 221
+  },
+  {
+    "surface": "洗わ",
+    "reading": "arawa",
+    "code": "cr-jou1-222",
+    "index": 222
+  },
+  {
+    "surface": "書か",
+    "reading": "kaka",
+    "code": "cr-jou1-223",
+    "index": 223
+  },
+  {
+    "surface": "保て",
+    "reading": "tamote",
+    "code": "cr-jou1-224",
+    "index": 224
+  },
+  {
+    "surface": "勝っ",
+    "reading": "ka",
+    "code": "cr-jou1-225",
+    "index": 225
+  },
+  {
+    "surface": "飲み",
+    "reading": "nomi",
+    "code": "cr-jou1-226",
+    "index": 226
+  },
+  {
+    "surface": "のぞきこん",
+    "reading": "nozokikon",
+    "code": "cr-jou1-227",
+    "index": 227
+  },
+  {
+    "surface": "勝て",
+    "reading": "kate",
+    "code": "cr-jou1-228",
+    "index": 228
+  },
+  {
+    "surface": "つかまえよう",
+    "reading": "tsukamaeyou",
+    "code": "cr-jou1-229",
+    "index": 229
+  },
+  {
+    "surface": "持ち上げる",
+    "reading": "mochiageru",
+    "code": "cr-jou1-230",
+    "index": 230
+  },
+  {
+    "surface": "構わ",
+    "reading": "kamawa",
+    "code": "cr-jou1-231",
+    "index": 231
+  },
+  {
+    "surface": "着い",
+    "reading": "tsui",
+    "code": "cr-jou1-232",
+    "index": 232
+  },
+  {
+    "surface": "たたきつけ",
+    "reading": "tatakitsuke",
+    "code": "cr-jou1-233",
+    "index": 233
+  },
+  {
+    "surface": "混ぜ",
+    "reading": "maze",
+    "code": "cr-jou1-234",
+    "index": 234
+  },
+  {
+    "surface": "戻っ",
+    "reading": "modo",
+    "code": "cr-jou1-235",
+    "index": 235
+  },
+  {
+    "surface": "解ける",
+    "reading": "tokeru",
+    "code": "cr-jou1-236",
+    "index": 236
+  },
+  {
+    "surface": "あやそう",
+    "reading": "ayasou",
+    "code": "cr-jou1-237",
+    "index": 237
+  },
+  {
+    "surface": "横切っ",
+    "reading": "yokogi",
+    "code": "cr-jou1-238",
+    "index": 238
+  },
+  {
+    "surface": "従わ",
+    "reading": "shitagawa",
+    "code": "cr-jou1-239",
+    "index": 239
+  },
+  {
+    "surface": "申しこん",
+    "reading": "moushikon",
+    "code": "cr-jou1-240",
+    "index": 240
+  },
+  {
+    "surface": "壊さ",
+    "reading": "kowasa",
+    "code": "cr-jou1-241",
+    "index": 241
+  },
+  {
+    "surface": "飛ん",
+    "reading": "ton",
+    "code": "cr-jou1-242",
+    "index": 242
+  },
+  {
+    "surface": "知ろう",
+    "reading": "shirou",
+    "code": "cr-jou1-243",
+    "index": 243
+  },
+  {
+    "surface": "おちぶれ",
+    "reading": "ochibure",
+    "code": "cr-jou1-244",
+    "index": 244
+  },
+  {
+    "surface": "ござい",
+    "reading": "gozai",
+    "code": "cr-jou1-245",
+    "index": 245
+  },
+  {
+    "surface": "すくん",
+    "reading": "sukun",
+    "code": "cr-jou1-246",
+    "index": 246
+  },
+  {
+    "surface": "なげ",
+    "reading": "nage",
+    "code": "cr-jou1-247",
+    "index": 247
+  },
+  {
+    "surface": "晒さ",
+    "reading": "sarasa",
+    "code": "cr-jou1-248",
+    "index": 248
+  },
+  {
+    "surface": "問う",
+    "reading": "tou",
+    "code": "cr-jou1-249",
+    "index": 249
+  },
+  {
+    "surface": "掘っ",
+    "reading": "ho",
+    "code": "cr-jou1-250",
+    "index": 250
+  },
+  {
+    "surface": "語ら",
+    "reading": "katara",
+    "code": "cr-jou1-251",
+    "index": 251
+  },
+  {
+    "surface": "よっぱらっ",
+    "reading": "yoppara",
+    "code": "cr-jou1-252",
+    "index": 252
+  },
+  {
+    "surface": "貰う",
+    "reading": "morau",
+    "code": "cr-jou1-253",
+    "index": 253
+  },
+  {
+    "surface": "断ら",
+    "reading": "kotowara",
+    "code": "cr-jou1-254",
+    "index": 254
+  },
+  {
+    "surface": "乗りこん",
+    "reading": "norikon",
+    "code": "cr-jou1-255",
+    "index": 255
+  },
+  {
+    "surface": "除き",
+    "reading": "nozoki",
+    "code": "cr-jou1-256",
+    "index": 256
+  },
+  {
+    "surface": "叶っ",
+    "reading": "kana",
+    "code": "cr-jou1-257",
+    "index": 257
+  },
+  {
+    "surface": "探さ",
+    "reading": "sagasa",
+    "code": "cr-jou1-258",
+    "index": 258
+  },
+  {
+    "surface": "秘め",
+    "reading": "hime",
+    "code": "cr-jou1-259",
+    "index": 259
+  },
+  {
+    "surface": "ぐらつい",
+    "reading": "guratsui",
+    "code": "cr-jou1-260",
+    "index": 260
+  },
+  {
+    "surface": "がんばろう",
+    "reading": "ganbarou",
+    "code": "cr-jou1-261",
+    "index": 261
+  },
+  {
+    "surface": "座る",
+    "reading": "suwaru",
+    "code": "cr-jou1-262",
+    "index": 262
+  },
+  {
+    "surface": "もらおう",
+    "reading": "moraou",
+    "code": "cr-jou1-263",
+    "index": 263
+  },
+  {
+    "surface": "過ごす",
+    "reading": "sugosu",
+    "code": "cr-jou1-264",
+    "index": 264
+  },
+  {
+    "surface": "挟ん",
+    "reading": "hasan",
+    "code": "cr-jou1-265",
+    "index": 265
+  },
+  {
+    "surface": "駆け下っ",
+    "reading": "kakekuda",
+    "code": "cr-jou1-266",
+    "index": 266
+  },
+  {
+    "surface": "待ちわび",
+    "reading": "machiwabi",
+    "code": "cr-jou1-267",
+    "index": 267
+  },
+  {
+    "surface": "ひっくり返っ",
+    "reading": "hikkurikae",
+    "code": "cr-jou1-268",
+    "index": 268
+  },
+  {
+    "surface": "伺い",
+    "reading": "ukagai",
+    "code": "cr-jou1-269",
+    "index": 269
+  },
+  {
+    "surface": "分かろう",
+    "reading": "wakarou",
+    "code": "cr-jou1-270",
+    "index": 270
+  },
+  {
+    "surface": "いっ",
+    "reading": "i",
+    "code": "cr-jou1-271",
+    "index": 271
+  },
+  {
+    "surface": "省け",
+    "reading": "habuke",
+    "code": "cr-jou1-272",
+    "index": 272
+  },
+  {
+    "surface": "払いのけよう",
+    "reading": "harainokeyou",
+    "code": "cr-jou1-273",
+    "index": 273
+  },
+  {
+    "surface": "扱う",
+    "reading": "atsukau",
+    "code": "cr-jou1-274",
+    "index": 274
+  },
+  {
+    "surface": "考え出そう",
+    "reading": "kangaedasou",
+    "code": "cr-jou1-275",
+    "index": 275
+  },
+  {
+    "surface": "降りかかる",
+    "reading": "furikakaru",
+    "code": "cr-jou1-276",
+    "index": 276
+  },
+  {
+    "surface": "おっしゃい",
+    "reading": "osshai",
+    "code": "cr-jou1-277",
+    "index": 277
+  },
+  {
+    "surface": "湧きあふれ",
+    "reading": "wakiafure",
+    "code": "cr-jou1-278",
+    "index": 278
+  },
+  {
+    "surface": "あたっ",
+    "reading": "ata",
+    "code": "cr-jou1-279",
+    "index": 279
+  },
+  {
+    "surface": "うずくまっ",
+    "reading": "uzukuma",
+    "code": "cr-jou1-280",
+    "index": 280
+  },
+  {
+    "surface": "請う",
+    "reading": "kou",
+    "code": "cr-jou1-281",
+    "index": 281
+  },
+  {
+    "surface": "引き取り",
+    "reading": "hikitori",
+    "code": "cr-jou1-282",
+    "index": 282
+  },
+  {
+    "surface": "増やさ",
+    "reading": "fuyasa",
+    "code": "cr-jou1-283",
+    "index": 283
+  },
+  {
+    "surface": "仕込ま",
+    "reading": "shikoma",
+    "code": "cr-jou1-284",
+    "index": 284
+  },
+  {
+    "surface": "飼っ",
+    "reading": "ka",
+    "code": "cr-jou1-285",
+    "index": 285
+  },
+  {
+    "surface": "微笑み",
+    "reading": "hohoemi",
+    "code": "cr-jou1-286",
+    "index": 286
+  },
+  {
+    "surface": "祭る",
+    "reading": "matsuru",
+    "code": "cr-jou1-287",
+    "index": 287
+  },
+  {
+    "surface": "守っ",
+    "reading": "mamo",
+    "code": "cr-jou1-288",
+    "index": 288
+  },
+  {
+    "surface": "過っ",
+    "reading": "yogi",
+    "code": "cr-jou1-289",
+    "index": 289
+  },
+  {
+    "surface": "やり遂げる",
+    "reading": "yaritogeru",
+    "code": "cr-jou1-290",
+    "index": 290
+  },
+  {
+    "surface": "舞い上がる",
+    "reading": "maiagaru",
+    "code": "cr-jou1-291",
+    "index": 291
+  },
+  {
+    "surface": "楽しめる",
+    "reading": "tanoshimeru",
+    "code": "cr-jou1-292",
+    "index": 292
+  },
+  {
+    "surface": "そびれ",
+    "reading": "sobire",
+    "code": "cr-jou1-293",
+    "index": 293
+  },
+  {
+    "surface": "覗き込ん",
+    "reading": "nozokikon",
+    "code": "cr-jou1-294",
+    "index": 294
+  },
+  {
+    "surface": "こすり",
+    "reading": "kosuri",
+    "code": "cr-jou1-295",
+    "index": 295
+  },
+  {
+    "surface": "抱きつい",
+    "reading": "dakitsui",
+    "code": "cr-jou1-296",
+    "index": 296
+  },
+  {
+    "surface": "しめくくり",
+    "reading": "shimekukuri",
+    "code": "cr-jou1-297",
+    "index": 297
+  },
+  {
+    "surface": "信じ込ま",
+    "reading": "shinjikoma",
+    "code": "cr-jou1-298",
+    "index": 298
+  },
+  {
+    "surface": "危ぶま",
+    "reading": "ayabuma",
+    "code": "cr-jou1-299",
+    "index": 299
+  },
+  {
+    "surface": "登れる",
+    "reading": "noboreru",
+    "code": "cr-jou1-300",
+    "index": 300
+  },
+  {
+    "surface": "投げつけ",
+    "reading": "nagetsuke",
+    "code": "cr-jou1-301",
+    "index": 301
+  },
+  {
+    "surface": "取り掛かっ",
+    "reading": "torikaka",
+    "code": "cr-jou1-302",
+    "index": 302
+  },
+  {
+    "surface": "すり減らし",
+    "reading": "suriherashi",
+    "code": "cr-jou1-303",
+    "index": 303
+  },
+  {
+    "surface": "誤る",
+    "reading": "ayamaru",
+    "code": "cr-jou1-304",
+    "index": 304
+  },
+  {
+    "surface": "打ち明ける",
+    "reading": "uchiakeru",
+    "code": "cr-jou1-305",
+    "index": 305
+  },
+  {
+    "surface": "裏切る",
+    "reading": "uragiru",
+    "code": "cr-jou1-306",
+    "index": 306
+  },
+  {
+    "surface": "煮え立た",
+    "reading": "nietata",
+    "code": "cr-jou1-307",
+    "index": 307
+  },
+  {
+    "surface": "来れ",
+    "reading": "kore",
+    "code": "cr-jou1-308",
+    "index": 308
+  },
+  {
+    "surface": "辿り着き",
+    "reading": "tadoritsuki",
+    "code": "cr-jou1-309",
+    "index": 309
+  },
+  {
+    "surface": "成りすまし",
+    "reading": "narisumashi",
+    "code": "cr-jou1-310",
+    "index": 310
+  },
+  {
+    "surface": "使わ",
+    "reading": "tsukawa",
+    "code": "cr-jou1-311",
+    "index": 311
+  },
+  {
+    "surface": "恐れおののい",
+    "reading": "osoreononoi",
+    "code": "cr-jou1-312",
+    "index": 312
+  },
+  {
+    "surface": "焼い",
+    "reading": "yai",
+    "code": "cr-jou1-313",
+    "index": 313
+  },
+  {
+    "surface": "まぎれこま",
+    "reading": "magirekoma",
+    "code": "cr-jou1-314",
+    "index": 314
+  },
+  {
+    "surface": "わい",
+    "reading": "wai",
+    "code": "cr-jou1-315",
+    "index": 315
+  },
+  {
+    "surface": "出せる",
+    "reading": "daseru",
+    "code": "cr-jou1-316",
+    "index": 316
+  },
+  {
+    "surface": "取り集める",
+    "reading": "toriatsumeru",
+    "code": "cr-jou1-317",
+    "index": 317
+  },
+  {
+    "surface": "狂っ",
+    "reading": "kuru",
+    "code": "cr-jou1-318",
+    "index": 318
+  },
+  {
+    "surface": "結ん",
+    "reading": "musun",
+    "code": "cr-jou1-319",
+    "index": 319
+  },
+  {
+    "surface": "遺し",
+    "reading": "nokoshi",
+    "code": "cr-jou1-320",
+    "index": 320
+  },
+  {
+    "surface": "つきとめ",
+    "reading": "tsukitome",
+    "code": "cr-jou1-321",
+    "index": 321
+  },
+  {
+    "surface": "追い払おう",
+    "reading": "oiharaou",
+    "code": "cr-jou1-322",
+    "index": 322
+  },
+  {
+    "surface": "書き留め",
+    "reading": "kakitome",
+    "code": "cr-jou1-323",
+    "index": 323
+  },
+  {
+    "surface": "寝れ",
+    "reading": "nere",
+    "code": "cr-jou1-324",
+    "index": 324
+  },
+  {
+    "surface": "捕っ",
+    "reading": "to",
+    "code": "cr-jou1-325",
+    "index": 325
+  },
+  {
+    "surface": "解い",
+    "reading": "toi",
+    "code": "cr-jou1-326",
+    "index": 326
+  },
+  {
+    "surface": "きい",
+    "reading": "kii",
+    "code": "cr-jou1-327",
+    "index": 327
+  },
+  {
+    "surface": "そぐわ",
+    "reading": "soguwa",
+    "code": "cr-jou1-328",
+    "index": 328
+  },
+  {
+    "surface": "交え",
+    "reading": "majie",
+    "code": "cr-jou1-329",
+    "index": 329
+  },
+  {
+    "surface": "あきらめる",
+    "reading": "akirameru",
+    "code": "cr-jou1-330",
+    "index": 330
+  },
+  {
+    "surface": "ボル",
+    "reading": "boru",
+    "code": "cr-jou1-331",
+    "index": 331
+  },
+  {
+    "surface": "発っ",
+    "reading": "ta",
+    "code": "cr-jou1-332",
+    "index": 332
+  },
+  {
+    "surface": "障る",
+    "reading": "sawaru",
+    "code": "cr-jou1-333",
+    "index": 333
+  },
+  {
+    "surface": "馴染め",
+    "reading": "najime",
+    "code": "cr-jou1-334",
+    "index": 334
+  },
+  {
+    "surface": "出迎え",
+    "reading": "demukae",
+    "code": "cr-jou1-335",
+    "index": 335
+  },
+  {
+    "surface": "放りださ",
+    "reading": "houridasa",
+    "code": "cr-jou1-336",
+    "index": 336
+  },
+  {
+    "surface": "歩み入る",
+    "reading": "ayumiiru",
+    "code": "cr-jou1-337",
+    "index": 337
+  },
+  {
+    "surface": "泳ぐ",
+    "reading": "oyogu",
+    "code": "cr-jou1-338",
+    "index": 338
+  },
+  {
+    "surface": "突き刺さっ",
+    "reading": "tsukisasa",
+    "code": "cr-jou1-339",
+    "index": 339
+  },
+  {
+    "surface": "走り込ん",
+    "reading": "hashirikon",
+    "code": "cr-jou1-340",
+    "index": 340
+  },
+  {
+    "surface": "述べる",
+    "reading": "noberu",
+    "code": "cr-jou1-341",
+    "index": 341
+  },
+  {
+    "surface": "省ける",
+    "reading": "habukeru",
+    "code": "cr-jou1-342",
+    "index": 342
+  },
+  {
+    "surface": "吹き飛ばさ",
+    "reading": "fukitobasa",
+    "code": "cr-jou1-343",
+    "index": 343
+  },
+  {
+    "surface": "取りしきれ",
+    "reading": "torishikire",
+    "code": "cr-jou1-344",
+    "index": 344
+  },
+  {
+    "surface": "返っ",
+    "reading": "kae",
+    "code": "cr-jou1-345",
+    "index": 345
+  },
+  {
+    "surface": "切り詰める",
+    "reading": "kiritsumeru",
+    "code": "cr-jou1-346",
+    "index": 346
+  },
+  {
+    "surface": "とっ",
+    "reading": "to",
+    "code": "cr-jou1-347",
+    "index": 347
+  },
+  {
+    "surface": "しゃがみこん",
+    "reading": "shagamikon",
+    "code": "cr-jou1-348",
+    "index": 348
+  },
+  {
+    "surface": "産まれる",
+    "reading": "umareru",
+    "code": "cr-jou1-349",
+    "index": 349
+  },
+  {
+    "surface": "乗じ",
+    "reading": "jouji",
+    "code": "cr-jou1-350",
+    "index": 350
+  },
+  {
+    "surface": "襲う",
+    "reading": "osou",
+    "code": "cr-jou1-351",
+    "index": 351
+  },
+  {
+    "surface": "冷え込む",
+    "reading": "hiekomu",
+    "code": "cr-jou1-352",
+    "index": 352
+  },
+  {
+    "surface": "のしかかる",
+    "reading": "noshikakaru",
+    "code": "cr-jou1-353",
+    "index": 353
+  },
+  {
+    "surface": "たちこめる",
+    "reading": "tachikomeru",
+    "code": "cr-jou1-354",
+    "index": 354
+  },
+  {
+    "surface": "のぼせ上がっ",
+    "reading": "noboseaga",
+    "code": "cr-jou1-355",
+    "index": 355
+  },
+  {
+    "surface": "歩け",
+    "reading": "aruke",
+    "code": "cr-jou1-356",
+    "index": 356
+  },
+  {
+    "surface": "ねだる",
+    "reading": "nedaru",
+    "code": "cr-jou1-357",
+    "index": 357
+  },
+  {
+    "surface": "上がり",
+    "reading": "agari",
+    "code": "cr-jou1-358",
+    "index": 358
+  },
+  {
+    "surface": "促し",
+    "reading": "unagashi",
+    "code": "cr-jou1-359",
+    "index": 359
+  },
+  {
+    "surface": "渇い",
+    "reading": "kawai",
+    "code": "cr-jou1-360",
+    "index": 360
+  },
+  {
+    "surface": "挟まっ",
+    "reading": "hasama",
+    "code": "cr-jou1-361",
+    "index": 361
+  },
+  {
+    "surface": "上がり込ん",
+    "reading": "agarikon",
+    "code": "cr-jou1-362",
+    "index": 362
+  },
+  {
+    "surface": "殺げ",
+    "reading": "soge",
+    "code": "cr-jou1-363",
+    "index": 363
+  },
+  {
+    "surface": "頂い",
+    "reading": "itadai",
+    "code": "cr-jou1-364",
+    "index": 364
+  },
+  {
+    "surface": "うかがえる",
+    "reading": "ukagaeru",
+    "code": "cr-jou1-365",
+    "index": 365
+  },
+  {
+    "surface": "気取っ",
+    "reading": "kido",
+    "code": "cr-jou1-366",
+    "index": 366
+  },
+  {
+    "surface": "死に絶えれ",
+    "reading": "shinitaere",
+    "code": "cr-jou1-367",
+    "index": 367
+  },
+  {
+    "surface": "立ち直る",
+    "reading": "tachinaoru",
+    "code": "cr-jou1-368",
+    "index": 368
+  },
+  {
+    "surface": "鳴り響く",
+    "reading": "narihibiku",
+    "code": "cr-jou1-369",
+    "index": 369
+  },
+  {
+    "surface": "縛り上げ",
+    "reading": "shibariage",
+    "code": "cr-jou1-370",
+    "index": 370
+  },
+  {
+    "surface": "かわし",
+    "reading": "kawashi",
+    "code": "cr-jou1-371",
+    "index": 371
+  },
+  {
+    "surface": "みのっ",
+    "reading": "mino",
+    "code": "cr-jou1-372",
+    "index": 372
+  },
+  {
+    "surface": "測る",
+    "reading": "hakaru",
+    "code": "cr-jou1-373",
+    "index": 373
+  },
+  {
+    "surface": "酔っぱらっ",
+    "reading": "yoppara",
+    "code": "cr-jou1-374",
+    "index": 374
+  },
+  {
+    "surface": "充て",
+    "reading": "ate",
+    "code": "cr-jou1-375",
+    "index": 375
+  },
+  {
+    "surface": "話し合っ",
+    "reading": "hanashia",
+    "code": "cr-jou1-376",
+    "index": 376
+  },
+  {
+    "surface": "叶え",
+    "reading": "kanae",
+    "code": "cr-jou1-377",
+    "index": 377
+  },
+  {
+    "surface": "書き換える",
+    "reading": "kakikaeru",
+    "code": "cr-jou1-378",
+    "index": 378
+  },
+  {
+    "surface": "すくいあげ",
+    "reading": "sukuiage",
+    "code": "cr-jou1-379",
+    "index": 379
+  },
+  {
+    "surface": "取り合おう",
+    "reading": "toriaou",
+    "code": "cr-jou1-380",
+    "index": 380
+  },
+  {
+    "surface": "さきだち",
+    "reading": "sakidachi",
+    "code": "cr-jou1-381",
+    "index": 381
+  },
+  {
+    "surface": "染まっ",
+    "reading": "soma",
+    "code": "cr-jou1-382",
+    "index": 382
+  },
+  {
+    "surface": "通し",
+    "reading": "tooshi",
+    "code": "cr-jou1-383",
+    "index": 383
+  },
+  {
+    "surface": "起き上がっ",
+    "reading": "okiaga",
+    "code": "cr-jou1-384",
+    "index": 384
+  },
+  {
+    "surface": "追いつこう",
+    "reading": "oitsukou",
+    "code": "cr-jou1-385",
+    "index": 385
+  },
+  {
+    "surface": "聞き取れる",
+    "reading": "kikitoreru",
+    "code": "cr-jou1-386",
+    "index": 386
+  },
+  {
+    "surface": "とらえ",
+    "reading": "torae",
+    "code": "cr-jou1-387",
+    "index": 387
+  },
+  {
+    "surface": "見合わせる",
+    "reading": "miawaseru",
+    "code": "cr-jou1-388",
+    "index": 388
+  },
+  {
+    "surface": "あらためよう",
+    "reading": "aratameyou",
+    "code": "cr-jou1-389",
+    "index": 389
+  },
+  {
+    "surface": "言い",
+    "reading": "ii",
+    "code": "cr-jou1-390",
+    "index": 390
+  },
+  {
+    "surface": "おびき出し",
+    "reading": "obikidashi",
+    "code": "cr-jou1-391",
+    "index": 391
+  },
+  {
+    "surface": "抜く",
+    "reading": "nuku",
+    "code": "cr-jou1-392",
+    "index": 392
+  },
+  {
+    "surface": "いけ",
+    "reading": "ike",
+    "code": "cr-jou1-393",
+    "index": 393
+  },
+  {
+    "surface": "出せ",
+    "reading": "dase",
+    "code": "cr-jou1-394",
+    "index": 394
+  },
+  {
+    "surface": "取り崩そう",
+    "reading": "torikuzusou",
+    "code": "cr-jou1-395",
+    "index": 395
+  },
+  {
+    "surface": "湧き上がる",
+    "reading": "wakiagaru",
+    "code": "cr-jou1-396",
+    "index": 396
+  },
+  {
+    "surface": "引き継い",
+    "reading": "hikitsui",
+    "code": "cr-jou1-397",
+    "index": 397
+  },
+  {
+    "surface": "向かっ",
+    "reading": "muka",
+    "code": "cr-jou1-398",
+    "index": 398
+  },
+  {
+    "surface": "要ら",
+    "reading": "ira",
+    "code": "cr-jou1-399",
+    "index": 399
+  },
+  {
+    "surface": "生じ",
+    "reading": "shouji",
+    "code": "cr-jou1-400",
+    "index": 400
+  },
+  {
+    "surface": "やき",
+    "reading": "yaki",
+    "code": "cr-jou1-401",
+    "index": 401
+  },
+  {
+    "surface": "整っ",
+    "reading": "totono",
+    "code": "cr-jou1-402",
+    "index": 402
+  },
+  {
+    "surface": "ぶっつづけ",
+    "reading": "buttsuzuke",
+    "code": "cr-jou1-403",
+    "index": 403
+  },
+  {
+    "surface": "黙ら",
+    "reading": "damara",
+    "code": "cr-jou1-404",
+    "index": 404
+  },
+  {
+    "surface": "合う",
+    "reading": "au",
+    "code": "cr-jou1-405",
+    "index": 405
+  },
+  {
+    "surface": "行きつく",
+    "reading": "ikitsuku",
+    "code": "cr-jou1-406",
+    "index": 406
+  },
+  {
+    "surface": "あげつらう",
+    "reading": "agetsurau",
+    "code": "cr-jou1-407",
+    "index": 407
+  },
+  {
+    "surface": "補う",
+    "reading": "oginau",
+    "code": "cr-jou1-408",
+    "index": 408
+  },
+  {
+    "surface": "吹き飛ばし",
+    "reading": "fukitobashi",
+    "code": "cr-jou1-409",
+    "index": 409
+  },
+  {
+    "surface": "しまう",
+    "reading": "shimau",
+    "code": "cr-jou1-410",
+    "index": 410
+  },
+  {
+    "surface": "落とし入れよう",
+    "reading": "otoshiireyou",
+    "code": "cr-jou1-411",
+    "index": 411
+  },
+  {
+    "surface": "帯び",
+    "reading": "obi",
+    "code": "cr-jou1-412",
+    "index": 412
+  },
+  {
+    "surface": "決め",
+    "reading": "kime",
+    "code": "cr-jou1-413",
+    "index": 413
+  },
+  {
+    "surface": "いばりちらし",
+    "reading": "ibarichirashi",
+    "code": "cr-jou1-414",
+    "index": 414
+  },
+  {
+    "surface": "ちかづい",
+    "reading": "chikazui",
+    "code": "cr-jou1-415",
+    "index": 415
+  },
+  {
+    "surface": "苦しむ",
+    "reading": "kurushimu",
+    "code": "cr-jou1-416",
+    "index": 416
+  },
+  {
+    "surface": "推し進める",
+    "reading": "oshisusumeru",
+    "code": "cr-jou1-417",
+    "index": 417
+  },
+  {
+    "surface": "貫い",
+    "reading": "tsuranui",
+    "code": "cr-jou1-418",
+    "index": 418
+  },
+  {
+    "surface": "縫い上げる",
+    "reading": "nuiageru",
+    "code": "cr-jou1-419",
+    "index": 419
+  },
+  {
+    "surface": "頼ら",
+    "reading": "tayora",
+    "code": "cr-jou1-420",
+    "index": 420
+  },
+  {
+    "surface": "通れ",
+    "reading": "toore",
+    "code": "cr-jou1-421",
+    "index": 421
+  },
+  {
+    "surface": "返さ",
+    "reading": "kaesa",
+    "code": "cr-jou1-422",
+    "index": 422
+  },
+  {
+    "surface": "弾ける",
+    "reading": "hikeru",
+    "code": "cr-jou1-423",
+    "index": 423
+  },
+  {
+    "surface": "掘り当てよう",
+    "reading": "horiateyou",
+    "code": "cr-jou1-424",
+    "index": 424
+  },
+  {
+    "surface": "見開い",
+    "reading": "mihirai",
+    "code": "cr-jou1-425",
+    "index": 425
+  },
+  {
+    "surface": "持てる",
+    "reading": "moteru",
+    "code": "cr-jou1-426",
+    "index": 426
+  },
+  {
+    "surface": "載せ",
+    "reading": "nose",
+    "code": "cr-jou1-427",
+    "index": 427
+  },
+  {
+    "surface": "絞り取っ",
+    "reading": "shiborito",
+    "code": "cr-jou1-428",
+    "index": 428
+  },
+  {
+    "surface": "はかれ",
+    "reading": "hakare",
+    "code": "cr-jou1-429",
+    "index": 429
+  },
+  {
+    "surface": "いただける",
+    "reading": "itadakeru",
+    "code": "cr-jou1-430",
+    "index": 430
+  },
+  {
+    "surface": "助かっ",
+    "reading": "tasuka",
+    "code": "cr-jou1-431",
+    "index": 431
+  },
+  {
+    "surface": "空かし",
+    "reading": "sukashi",
+    "code": "cr-jou1-432",
+    "index": 432
+  },
+  {
+    "surface": "来よう",
+    "reading": "koyou",
+    "code": "cr-jou1-433",
+    "index": 433
+  },
+  {
+    "surface": "ほうりこん",
+    "reading": "hourikon",
+    "code": "cr-jou1-434",
+    "index": 434
+  },
+  {
+    "surface": "切り落とし",
+    "reading": "kiriotoshi",
+    "code": "cr-jou1-435",
+    "index": 435
+  },
+  {
+    "surface": "騒ぐ",
+    "reading": "sawagu",
+    "code": "cr-jou1-436",
+    "index": 436
+  },
+  {
+    "surface": "押し上げる",
+    "reading": "oshiageru",
+    "code": "cr-jou1-437",
+    "index": 437
+  },
+  {
+    "surface": "欠け",
+    "reading": "kake",
+    "code": "cr-jou1-438",
+    "index": 438
+  },
+  {
+    "surface": "先立た",
+    "reading": "sakidata",
+    "code": "cr-jou1-439",
+    "index": 439
+  },
+  {
+    "surface": "会い",
+    "reading": "ai",
+    "code": "cr-jou1-440",
+    "index": 440
+  },
+  {
+    "surface": "鎮め",
+    "reading": "shizume",
+    "code": "cr-jou1-441",
+    "index": 441
+  },
+  {
+    "surface": "あこがれる",
+    "reading": "akogareru",
+    "code": "cr-jou1-442",
+    "index": 442
+  },
+  {
+    "surface": "やっつける",
+    "reading": "yattsukeru",
+    "code": "cr-jou1-443",
+    "index": 443
+  },
+  {
+    "surface": "戻せ",
+    "reading": "modose",
+    "code": "cr-jou1-444",
+    "index": 444
+  },
+  {
+    "surface": "嘆い",
+    "reading": "nagei",
+    "code": "cr-jou1-445",
+    "index": 445
+  },
+  {
+    "surface": "儲けよう",
+    "reading": "moukeyou",
+    "code": "cr-jou1-446",
+    "index": 446
+  },
+  {
+    "surface": "欺く",
+    "reading": "azamuku",
+    "code": "cr-jou1-447",
+    "index": 447
+  },
+  {
+    "surface": "つかめ",
+    "reading": "tsukame",
+    "code": "cr-jou1-448",
+    "index": 448
+  },
+  {
+    "surface": "我を張っ",
+    "reading": "warewoha",
+    "code": "cr-jou1-449",
+    "index": 449
+  },
+  {
+    "surface": "突っ込ん",
+    "reading": "tsukkon",
+    "code": "cr-jou1-450",
+    "index": 450
+  },
+  {
+    "surface": "鳴っ",
+    "reading": "na",
+    "code": "cr-jou1-451",
+    "index": 451
+  },
+  {
+    "surface": "書き取っ",
+    "reading": "kakito",
+    "code": "cr-jou1-452",
+    "index": 452
+  },
+  {
+    "surface": "うなだれ",
+    "reading": "unadare",
+    "code": "cr-jou1-453",
+    "index": 453
+  },
+  {
+    "surface": "招く",
+    "reading": "maneku",
+    "code": "cr-jou1-454",
+    "index": 454
+  },
+  {
+    "surface": "迷わ",
+    "reading": "mayowa",
+    "code": "cr-jou1-455",
+    "index": 455
+  },
+  {
+    "surface": "課せ",
+    "reading": "kase",
+    "code": "cr-jou1-456",
+    "index": 456
+  },
+  {
+    "surface": "きづい",
+    "reading": "kizui",
+    "code": "cr-jou1-457",
+    "index": 457
+  },
+  {
+    "surface": "断つ",
+    "reading": "tatsu",
+    "code": "cr-jou1-458",
+    "index": 458
+  },
+  {
+    "surface": "改め",
+    "reading": "aratame",
+    "code": "cr-jou1-459",
+    "index": 459
+  },
+  {
+    "surface": "寝転ん",
+    "reading": "nekoron",
+    "code": "cr-jou1-460",
+    "index": 460
+  },
+  {
+    "surface": "奪い取っ",
+    "reading": "ubaito",
+    "code": "cr-jou1-461",
+    "index": 461
+  },
+  {
+    "surface": "届い",
+    "reading": "todoi",
+    "code": "cr-jou1-462",
+    "index": 462
+  },
+  {
+    "surface": "生き",
+    "reading": "iki",
+    "code": "cr-jou1-463",
+    "index": 463
+  },
+  {
+    "surface": "含む",
+    "reading": "fukumu",
+    "code": "cr-jou1-464",
+    "index": 464
+  },
+  {
+    "surface": "かきむしり",
+    "reading": "kakimushiri",
+    "code": "cr-jou1-465",
+    "index": 465
+  },
+  {
+    "surface": "取り乱さ",
+    "reading": "torimidasa",
+    "code": "cr-jou1-466",
+    "index": 466
+  },
+  {
+    "surface": "食らっ",
+    "reading": "kura",
+    "code": "cr-jou1-467",
+    "index": 467
+  },
+  {
+    "surface": "待つ",
+    "reading": "matsu",
+    "code": "cr-jou1-468",
+    "index": 468
+  },
+  {
+    "surface": "定まる",
+    "reading": "sadamaru",
+    "code": "cr-jou1-469",
+    "index": 469
+  },
+  {
+    "surface": "取り残さ",
+    "reading": "torinokosa",
+    "code": "cr-jou1-470",
+    "index": 470
+  },
+  {
+    "surface": "遊べ",
+    "reading": "asobe",
+    "code": "cr-jou1-471",
+    "index": 471
+  },
+  {
+    "surface": "弱める",
+    "reading": "yowameru",
+    "code": "cr-jou1-472",
+    "index": 472
+  },
+  {
+    "surface": "支払わ",
+    "reading": "shiharawa",
+    "code": "cr-jou1-473",
+    "index": 473
+  },
+  {
+    "surface": "加わっ",
+    "reading": "kuwawa",
+    "code": "cr-jou1-474",
+    "index": 474
+  },
+  {
+    "surface": "見張っ",
+    "reading": "miha",
+    "code": "cr-jou1-475",
+    "index": 475
+  },
+  {
+    "surface": "呼ぼう",
+    "reading": "yobou",
+    "code": "cr-jou1-476",
+    "index": 476
+  },
+  {
+    "surface": "聴い",
+    "reading": "kii",
+    "code": "cr-jou1-477",
+    "index": 477
+  },
+  {
+    "surface": "付け込ん",
+    "reading": "tsukekon",
+    "code": "cr-jou1-478",
+    "index": 478
+  },
+  {
+    "surface": "飽き",
+    "reading": "aki",
+    "code": "cr-jou1-479",
+    "index": 479
+  },
+  {
+    "surface": "あやつる",
+    "reading": "ayatsuru",
+    "code": "cr-jou1-480",
+    "index": 480
+  },
+  {
+    "surface": "近づく",
+    "reading": "chikazuku",
+    "code": "cr-jou1-481",
+    "index": 481
+  },
+  {
+    "surface": "寝る",
+    "reading": "neru",
+    "code": "cr-jou1-482",
+    "index": 482
+  },
+  {
+    "surface": "せきたて",
+    "reading": "sekitate",
+    "code": "cr-jou1-483",
+    "index": 483
+  },
+  {
+    "surface": "飛びかかっ",
+    "reading": "tobikaka",
+    "code": "cr-jou1-484",
+    "index": 484
+  },
+  {
+    "surface": "腐ら",
+    "reading": "kusara",
+    "code": "cr-jou1-485",
+    "index": 485
+  },
+  {
+    "surface": "怒鳴りつけ",
+    "reading": "donaritsuke",
+    "code": "cr-jou1-486",
+    "index": 486
+  },
+  {
+    "surface": "潜む",
+    "reading": "hisomu",
+    "code": "cr-jou1-487",
+    "index": 487
+  },
+  {
+    "surface": "謝っ",
+    "reading": "ayama",
+    "code": "cr-jou1-488",
+    "index": 488
+  },
+  {
+    "surface": "もてる",
+    "reading": "moteru",
+    "code": "cr-jou1-489",
+    "index": 489
+  },
+  {
+    "surface": "及ぼす",
+    "reading": "oyobosu",
+    "code": "cr-jou1-490",
+    "index": 490
+  },
+  {
+    "surface": "愛す",
+    "reading": "aisu",
+    "code": "cr-jou1-491",
+    "index": 491
+  },
+  {
+    "surface": "添える",
+    "reading": "soeru",
+    "code": "cr-jou1-492",
+    "index": 492
+  },
+  {
+    "surface": "敷い",
+    "reading": "shii",
+    "code": "cr-jou1-493",
+    "index": 493
+  },
+  {
+    "surface": "携え",
+    "reading": "tazusae",
+    "code": "cr-jou1-494",
+    "index": 494
+  },
+  {
+    "surface": "戻し",
+    "reading": "modoshi",
+    "code": "cr-jou1-495",
+    "index": 495
+  },
+  {
+    "surface": "溜めよう",
+    "reading": "tameyou",
+    "code": "cr-jou1-496",
+    "index": 496
+  },
+  {
+    "surface": "追いやら",
+    "reading": "oiyara",
+    "code": "cr-jou1-497",
+    "index": 497
+  },
+  {
+    "surface": "つくろう",
+    "reading": "tsukurou",
+    "code": "cr-jou1-498",
+    "index": 498
+  },
+  {
+    "surface": "思い悩ん",
+    "reading": "omoinayan",
+    "code": "cr-jou1-499",
+    "index": 499
+  },
+  {
+    "surface": "込ん",
+    "reading": "kon",
+    "code": "cr-jou1-500",
+    "index": 500
+  },
+  {
+    "surface": "作っ",
+    "reading": "tsuku",
+    "code": "cr-jou1-501",
+    "index": 501
+  },
+  {
+    "surface": "つけ",
+    "reading": "tsuke",
+    "code": "cr-jou1-502",
+    "index": 502
+  },
+  {
+    "surface": "震えあがっ",
+    "reading": "furueaga",
+    "code": "cr-jou1-503",
+    "index": 503
+  },
+  {
+    "surface": "思いがけ",
+    "reading": "omoigake",
+    "code": "cr-jou1-504",
+    "index": 504
+  },
+  {
+    "surface": "だまっ",
+    "reading": "dama",
+    "code": "cr-jou1-505",
+    "index": 505
+  },
+  {
+    "surface": "有り余る",
+    "reading": "ariamaru",
+    "code": "cr-jou1-506",
+    "index": 506
+  },
+  {
+    "surface": "任ぜ",
+    "reading": "ninze",
+    "code": "cr-jou1-507",
+    "index": 507
+  },
+  {
+    "surface": "いらだた",
+    "reading": "iradata",
+    "code": "cr-jou1-508",
+    "index": 508
+  },
+  {
+    "surface": "飛び上がっ",
+    "reading": "tobiaga",
+    "code": "cr-jou1-509",
+    "index": 509
+  },
+  {
+    "surface": "たたき出し",
+    "reading": "tatakidashi",
+    "code": "cr-jou1-510",
+    "index": 510
+  },
+  {
+    "surface": "差し込む",
+    "reading": "sashikomu",
+    "code": "cr-jou1-511",
+    "index": 511
+  },
+  {
+    "surface": "救う",
+    "reading": "sukuu",
+    "code": "cr-jou1-512",
+    "index": 512
+  },
+  {
+    "surface": "欲張っ",
+    "reading": "yokuba",
+    "code": "cr-jou1-513",
+    "index": 513
+  },
+  {
+    "surface": "保っ",
+    "reading": "tamo",
+    "code": "cr-jou1-514",
+    "index": 514
+  },
+  {
+    "surface": "係わる",
+    "reading": "kakawaru",
+    "code": "cr-jou1-515",
+    "index": 515
+  },
+  {
+    "surface": "たいらげ",
+    "reading": "tairage",
+    "code": "cr-jou1-516",
+    "index": 516
+  },
+  {
+    "surface": "言い表わす",
+    "reading": "iiarawasu",
+    "code": "cr-jou1-517",
+    "index": 517
+  },
+  {
+    "surface": "かかる",
+    "reading": "kakaru",
+    "code": "cr-jou1-518",
+    "index": 518
+  },
+  {
+    "surface": "舞い降りる",
+    "reading": "maioriru",
+    "code": "cr-jou1-519",
+    "index": 519
+  },
+  {
+    "surface": "あらわせ",
+    "reading": "arawase",
+    "code": "cr-jou1-520",
+    "index": 520
+  },
+  {
+    "surface": "もらさ",
+    "reading": "morasa",
+    "code": "cr-jou1-521",
+    "index": 521
+  },
+  {
+    "surface": "望ん",
+    "reading": "nozon",
+    "code": "cr-jou1-522",
+    "index": 522
+  },
+  {
+    "surface": "尽くせ",
+    "reading": "tsukuse",
+    "code": "cr-jou1-523",
+    "index": 523
+  },
+  {
+    "surface": "入りびたる",
+    "reading": "iribitaru",
+    "code": "cr-jou1-524",
+    "index": 524
+  },
+  {
+    "surface": "こまる",
+    "reading": "komaru",
+    "code": "cr-jou1-525",
+    "index": 525
+  },
+  {
+    "surface": "修め",
+    "reading": "osame",
+    "code": "cr-jou1-526",
+    "index": 526
+  },
+  {
+    "surface": "回る",
+    "reading": "mawaru",
+    "code": "cr-jou1-527",
+    "index": 527
+  },
+  {
+    "surface": "扱わ",
+    "reading": "atsukawa",
+    "code": "cr-jou1-528",
+    "index": 528
+  },
+  {
+    "surface": "受け止めれ",
+    "reading": "uketomere",
+    "code": "cr-jou1-529",
+    "index": 529
+  },
+  {
+    "surface": "起きる",
+    "reading": "okiru",
+    "code": "cr-jou1-530",
+    "index": 530
+  },
+  {
+    "surface": "騒が",
+    "reading": "sawaga",
+    "code": "cr-jou1-531",
+    "index": 531
+  },
+  {
+    "surface": "色付い",
+    "reading": "irozui",
+    "code": "cr-jou1-532",
+    "index": 532
+  },
+  {
+    "surface": "呈する",
+    "reading": "teisuru",
+    "code": "cr-jou1-533",
+    "index": 533
+  },
+  {
+    "surface": "まくしたて",
+    "reading": "makushitate",
+    "code": "cr-jou1-534",
+    "index": 534
+  },
+  {
+    "surface": "跳び上がれ",
+    "reading": "tobiagare",
+    "code": "cr-jou1-535",
+    "index": 535
+  },
+  {
+    "surface": "かから",
+    "reading": "kakara",
+    "code": "cr-jou1-536",
+    "index": 536
+  },
+  {
+    "surface": "並はずれ",
+    "reading": "namihazure",
+    "code": "cr-jou1-537",
+    "index": 537
+  },
+  {
+    "surface": "呼び起こし",
+    "reading": "yobiokoshi",
+    "code": "cr-jou1-538",
+    "index": 538
+  },
+  {
+    "surface": "そそい",
+    "reading": "sosoi",
+    "code": "cr-jou1-539",
+    "index": 539
+  },
+  {
+    "surface": "イケ",
+    "reading": "ike",
+    "code": "cr-jou1-540",
+    "index": 540
+  },
+  {
+    "surface": "ひざまずい",
+    "reading": "hizamazui",
+    "code": "cr-jou1-541",
+    "index": 541
+  },
+  {
+    "surface": "遊ば",
+    "reading": "asoba",
+    "code": "cr-jou1-542",
+    "index": 542
+  },
+  {
+    "surface": "売りつける",
+    "reading": "uritsukeru",
+    "code": "cr-jou1-543",
+    "index": 543
+  },
+  {
+    "surface": "弾い",
+    "reading": "hii",
+    "code": "cr-jou1-544",
+    "index": 544
+  },
+  {
+    "surface": "かむ",
+    "reading": "kamu",
+    "code": "cr-jou1-545",
+    "index": 545
+  },
+  {
+    "surface": "通う",
+    "reading": "kayou",
+    "code": "cr-jou1-546",
+    "index": 546
+  },
+  {
+    "surface": "ともなっ",
+    "reading": "tomona",
+    "code": "cr-jou1-547",
+    "index": 547
+  },
+  {
+    "surface": "滑り降りる",
+    "reading": "suberioriru",
+    "code": "cr-jou1-548",
+    "index": 548
+  },
+  {
+    "surface": "乗り切る",
+    "reading": "norikiru",
+    "code": "cr-jou1-549",
+    "index": 549
+  },
+  {
+    "surface": "怠っ",
+    "reading": "okota",
+    "code": "cr-jou1-550",
+    "index": 550
+  },
+  {
+    "surface": "殴ら",
+    "reading": "nagura",
+    "code": "cr-jou1-551",
+    "index": 551
+  },
+  {
+    "surface": "測っ",
+    "reading": "haka",
+    "code": "cr-jou1-552",
+    "index": 552
+  },
+  {
+    "surface": "にらみつけ",
+    "reading": "niramitsuke",
+    "code": "cr-jou1-553",
+    "index": 553
+  },
+  {
+    "surface": "閉じ込もっ",
+    "reading": "tojikomo",
+    "code": "cr-jou1-554",
+    "index": 554
+  },
+  {
+    "surface": "施さ",
+    "reading": "hodokosa",
+    "code": "cr-jou1-555",
+    "index": 555
+  },
+  {
+    "surface": "踏みにじっ",
+    "reading": "fuminiji",
+    "code": "cr-jou1-556",
+    "index": 556
+  },
+  {
+    "surface": "とりすまし",
+    "reading": "torisumashi",
+    "code": "cr-jou1-557",
+    "index": 557
+  },
+  {
+    "surface": "向かい合っ",
+    "reading": "mukaia",
+    "code": "cr-jou1-558",
+    "index": 558
+  },
+  {
+    "surface": "立ちすくん",
+    "reading": "tachisukun",
+    "code": "cr-jou1-559",
+    "index": 559
+  },
+  {
+    "surface": "降ら",
+    "reading": "fura",
+    "code": "cr-jou1-560",
+    "index": 560
+  },
+  {
+    "surface": "応える",
+    "reading": "kotaeru",
+    "code": "cr-jou1-561",
+    "index": 561
+  },
+  {
+    "surface": "すべりおりる",
+    "reading": "suberioriru",
+    "code": "cr-jou1-562",
+    "index": 562
+  },
+  {
+    "surface": "出る",
+    "reading": "deru",
+    "code": "cr-jou1-563",
+    "index": 563
+  },
+  {
+    "surface": "如か",
+    "reading": "shika",
+    "code": "cr-jou1-564",
+    "index": 564
+  },
+  {
+    "surface": "言述べる",
+    "reading": "iinoberu",
+    "code": "cr-jou1-565",
+    "index": 565
+  },
+  {
+    "surface": "繰り広げ",
+    "reading": "kurihiroge",
+    "code": "cr-jou1-566",
+    "index": 566
+  },
+  {
+    "surface": "任じ",
+    "reading": "ninji",
+    "code": "cr-jou1-567",
+    "index": 567
+  },
+  {
+    "surface": "冒さ",
+    "reading": "okasa",
+    "code": "cr-jou1-568",
+    "index": 568
+  },
+  {
+    "surface": "つけ加え",
+    "reading": "tsukekuwae",
+    "code": "cr-jou1-569",
+    "index": 569
+  },
+  {
+    "surface": "辞め",
+    "reading": "yame",
+    "code": "cr-jou1-570",
+    "index": 570
+  },
+  {
+    "surface": "もたれかかる",
+    "reading": "motarekakaru",
+    "code": "cr-jou1-571",
+    "index": 571
+  },
+  {
+    "surface": "飽きる",
+    "reading": "akiru",
+    "code": "cr-jou1-572",
+    "index": 572
+  },
+  {
+    "surface": "打ち負かす",
+    "reading": "uchimakasu",
+    "code": "cr-jou1-573",
+    "index": 573
+  },
+  {
+    "surface": "むさぼっ",
+    "reading": "musabo",
+    "code": "cr-jou1-574",
+    "index": 574
+  },
+  {
+    "surface": "遊ん",
+    "reading": "ason",
+    "code": "cr-jou1-575",
+    "index": 575
+  },
+  {
+    "surface": "立た",
+    "reading": "tata",
+    "code": "cr-jou1-576",
+    "index": 576
+  },
+  {
+    "surface": "有る",
+    "reading": "aru",
+    "code": "cr-jou1-577",
+    "index": 577
+  },
+  {
+    "surface": "潜め",
+    "reading": "hisome",
+    "code": "cr-jou1-578",
+    "index": 578
+  },
+  {
+    "surface": "立ち上がれ",
+    "reading": "tachiagare",
+    "code": "cr-jou1-579",
+    "index": 579
+  },
+  {
+    "surface": "がんばれる",
+    "reading": "ganbareru",
+    "code": "cr-jou1-580",
+    "index": 580
+  },
+  {
+    "surface": "さらけ出し",
+    "reading": "sarakedashi",
+    "code": "cr-jou1-581",
+    "index": 581
+  },
+  {
+    "surface": "引き裂い",
+    "reading": "hikisai",
+    "code": "cr-jou1-582",
+    "index": 582
+  },
+  {
+    "surface": "成ら",
+    "reading": "nara",
+    "code": "cr-jou1-583",
+    "index": 583
+  },
+  {
+    "surface": "潰さ",
+    "reading": "tsubusa",
+    "code": "cr-jou1-584",
+    "index": 584
+  },
+  {
+    "surface": "あせっ",
+    "reading": "ase",
+    "code": "cr-jou1-585",
+    "index": 585
+  },
+  {
+    "surface": "戻す",
+    "reading": "modosu",
+    "code": "cr-jou1-586",
+    "index": 586
+  },
+  {
+    "surface": "思いあがっ",
+    "reading": "omoiaga",
+    "code": "cr-jou1-587",
+    "index": 587
+  },
+  {
+    "surface": "打ちのめさ",
+    "reading": "uchinomesa",
+    "code": "cr-jou1-588",
+    "index": 588
+  },
+  {
+    "surface": "願えれ",
+    "reading": "negaere",
+    "code": "cr-jou1-589",
+    "index": 589
+  },
+  {
+    "surface": "捕まえ",
+    "reading": "tsukamae",
+    "code": "cr-jou1-590",
+    "index": 590
+  },
+  {
+    "surface": "履く",
+    "reading": "haku",
+    "code": "cr-jou1-591",
+    "index": 591
+  },
+  {
+    "surface": "しゃべれ",
+    "reading": "shabere",
+    "code": "cr-jou1-592",
+    "index": 592
+  },
+  {
+    "surface": "なめ",
+    "reading": "name",
+    "code": "cr-jou1-593",
+    "index": 593
+  },
+  {
+    "surface": "集まる",
+    "reading": "atsumaru",
+    "code": "cr-jou1-594",
+    "index": 594
+  },
+  {
+    "surface": "いだい",
+    "reading": "idai",
+    "code": "cr-jou1-595",
+    "index": 595
+  },
+  {
+    "surface": "描き",
+    "reading": "egaki",
+    "code": "cr-jou1-596",
+    "index": 596
+  },
+  {
+    "surface": "下さ",
+    "reading": "kudasa",
+    "code": "cr-jou1-597",
+    "index": 597
+  },
+  {
+    "surface": "属さ",
+    "reading": "zokusa",
+    "code": "cr-jou1-598",
+    "index": 598
+  },
+  {
+    "surface": "受かり",
+    "reading": "ukari",
+    "code": "cr-jou1-599",
+    "index": 599
+  },
+  {
+    "surface": "叩か",
+    "reading": "tataka",
+    "code": "cr-jou1-600",
+    "index": 600
+  },
+  {
+    "surface": "見つけ",
+    "reading": "mitsuke",
+    "code": "cr-jou1-601",
+    "index": 601
+  },
+  {
+    "surface": "抱い",
+    "reading": "idai",
+    "code": "cr-jou1-602",
+    "index": 602
+  },
+  {
+    "surface": "学べ",
+    "reading": "manabe",
+    "code": "cr-jou1-603",
+    "index": 603
+  },
+  {
+    "surface": "払っ",
+    "reading": "hara",
+    "code": "cr-jou1-604",
+    "index": 604
+  },
+  {
+    "surface": "昇ら",
+    "reading": "nobora",
+    "code": "cr-jou1-605",
+    "index": 605
+  },
+  {
+    "surface": "あげ",
+    "reading": "age",
+    "code": "cr-jou1-606",
+    "index": 606
+  },
+  {
+    "surface": "吹き払う",
+    "reading": "fukiharau",
+    "code": "cr-jou1-607",
+    "index": 607
+  },
+  {
+    "surface": "入ら",
+    "reading": "haira",
+    "code": "cr-jou1-608",
+    "index": 608
+  },
+  {
+    "surface": "盗む",
+    "reading": "nusumu",
+    "code": "cr-jou1-609",
+    "index": 609
+  },
+  {
+    "surface": "関わら",
+    "reading": "kakawara",
+    "code": "cr-jou1-610",
+    "index": 610
+  },
+  {
+    "surface": "待ち伏せる",
+    "reading": "machibuseru",
+    "code": "cr-jou1-611",
+    "index": 611
+  },
+  {
+    "surface": "狩っ",
+    "reading": "ka",
+    "code": "cr-jou1-612",
+    "index": 612
+  },
+  {
+    "surface": "従っ",
+    "reading": "shitaga",
+    "code": "cr-jou1-613",
+    "index": 613
+  },
+  {
+    "surface": "住みつい",
+    "reading": "sumitsui",
+    "code": "cr-jou1-614",
+    "index": 614
+  },
+  {
+    "surface": "怒鳴る",
+    "reading": "donaru",
+    "code": "cr-jou1-615",
+    "index": 615
+  },
+  {
+    "surface": "病ん",
+    "reading": "yan",
+    "code": "cr-jou1-616",
+    "index": 616
+  },
+  {
+    "surface": "強まっ",
+    "reading": "tsuyoma",
+    "code": "cr-jou1-617",
+    "index": 617
+  },
+  {
+    "surface": "思う",
+    "reading": "omou",
+    "code": "cr-jou1-618",
+    "index": 618
+  },
+  {
+    "surface": "擦れる",
+    "reading": "sureru",
+    "code": "cr-jou1-619",
+    "index": 619
+  },
+  {
+    "surface": "返り咲い",
+    "reading": "kaerizai",
+    "code": "cr-jou1-620",
+    "index": 620
+  },
+  {
+    "surface": "立ち込め",
+    "reading": "tachikome",
+    "code": "cr-jou1-621",
+    "index": 621
+  },
+  {
+    "surface": "痛め",
+    "reading": "itame",
+    "code": "cr-jou1-622",
+    "index": 622
+  },
+  {
+    "surface": "遊びまわっ",
+    "reading": "asobimawa",
+    "code": "cr-jou1-623",
+    "index": 623
+  },
+  {
+    "surface": "貶める",
+    "reading": "otoshimeru",
+    "code": "cr-jou1-624",
+    "index": 624
+  },
+  {
+    "surface": "慕っ",
+    "reading": "shita",
+    "code": "cr-jou1-625",
+    "index": 625
+  },
+  {
+    "surface": "かれる",
+    "reading": "kareru",
+    "code": "cr-jou1-626",
+    "index": 626
+  },
+  {
+    "surface": "取り戻せる",
+    "reading": "torimodoseru",
+    "code": "cr-jou1-627",
+    "index": 627
+  },
+  {
+    "surface": "撮る",
+    "reading": "toru",
+    "code": "cr-jou1-628",
+    "index": 628
+  },
+  {
+    "surface": "帰ら",
+    "reading": "kaera",
+    "code": "cr-jou1-629",
+    "index": 629
+  },
+  {
+    "surface": "下がる",
+    "reading": "sagaru",
+    "code": "cr-jou1-630",
+    "index": 630
+  },
+  {
+    "surface": "ひっぱたく",
+    "reading": "hippataku",
+    "code": "cr-jou1-631",
+    "index": 631
+  },
+  {
+    "surface": "畳ん",
+    "reading": "tatan",
+    "code": "cr-jou1-632",
+    "index": 632
+  },
+  {
+    "surface": "なあれ",
+    "reading": "naare",
+    "code": "cr-jou1-633",
+    "index": 633
+  },
+  {
+    "surface": "嗅い",
+    "reading": "kai",
+    "code": "cr-jou1-634",
+    "index": 634
+  },
+  {
+    "surface": "たくわえる",
+    "reading": "takuwaeru",
+    "code": "cr-jou1-635",
+    "index": 635
+  },
+  {
+    "surface": "見る",
+    "reading": "miru",
+    "code": "cr-jou1-636",
+    "index": 636
+  },
+  {
+    "surface": "分け合っ",
+    "reading": "wakea",
+    "code": "cr-jou1-637",
+    "index": 637
+  },
+  {
+    "surface": "さかのぼる",
+    "reading": "sakanoboru",
+    "code": "cr-jou1-638",
+    "index": 638
+  },
+  {
+    "surface": "落ちつけよ",
+    "reading": "ochitsukeyo",
+    "code": "cr-jou1-639",
+    "index": 639
+  },
+  {
+    "surface": "覚ます",
+    "reading": "samasu",
+    "code": "cr-jou1-640",
+    "index": 640
+  },
+  {
+    "surface": "ふさぎ込ん",
+    "reading": "fusagikon",
+    "code": "cr-jou1-641",
+    "index": 641
+  },
+  {
+    "surface": "つき出し",
+    "reading": "tsukidashi",
+    "code": "cr-jou1-642",
+    "index": 642
+  },
+  {
+    "surface": "そそっ",
+    "reading": "soso",
+    "code": "cr-jou1-643",
+    "index": 643
+  },
+  {
+    "surface": "歩む",
+    "reading": "ayumu",
+    "code": "cr-jou1-644",
+    "index": 644
+  },
+  {
+    "surface": "走り出",
+    "reading": "hashiride",
+    "code": "cr-jou1-645",
+    "index": 645
+  },
+  {
+    "surface": "通りぬける",
+    "reading": "toorinukeru",
+    "code": "cr-jou1-646",
+    "index": 646
+  },
+  {
+    "surface": "勝る",
+    "reading": "masaru",
+    "code": "cr-jou1-647",
+    "index": 647
+  },
+  {
+    "surface": "封切ら",
+    "reading": "fuugira",
+    "code": "cr-jou1-648",
+    "index": 648
+  },
+  {
+    "surface": "引き受けよう",
+    "reading": "hikiukeyou",
+    "code": "cr-jou1-649",
+    "index": 649
+  },
+  {
+    "surface": "付き合っ",
+    "reading": "tsukia",
+    "code": "cr-jou1-650",
+    "index": 650
+  },
+  {
+    "surface": "曝け出す",
+    "reading": "sarakedasu",
+    "code": "cr-jou1-651",
+    "index": 651
+  },
+  {
+    "surface": "あり余る",
+    "reading": "ariamaru",
+    "code": "cr-jou1-652",
+    "index": 652
+  },
+  {
+    "surface": "つまみあげ",
+    "reading": "tsumamiage",
+    "code": "cr-jou1-653",
+    "index": 653
+  },
+  {
+    "surface": "取りかかる",
+    "reading": "torikakaru",
+    "code": "cr-jou1-654",
+    "index": 654
+  },
+  {
+    "surface": "頼っ",
+    "reading": "tayo",
+    "code": "cr-jou1-655",
+    "index": 655
+  },
+  {
+    "surface": "よみがえっ",
+    "reading": "yomigae",
+    "code": "cr-jou1-656",
+    "index": 656
+  },
+  {
+    "surface": "とり囲ま",
+    "reading": "torikakoma",
+    "code": "cr-jou1-657",
+    "index": 657
+  },
+  {
+    "surface": "寄る",
+    "reading": "yoru",
+    "code": "cr-jou1-658",
+    "index": 658
+  },
+  {
+    "surface": "あたる",
+    "reading": "ataru",
+    "code": "cr-jou1-659",
+    "index": 659
+  },
+  {
+    "surface": "飾っ",
+    "reading": "kaza",
+    "code": "cr-jou1-660",
+    "index": 660
+  },
+  {
+    "surface": "踏む",
+    "reading": "fumu",
+    "code": "cr-jou1-661",
+    "index": 661
+  },
+  {
+    "surface": "たえしのん",
+    "reading": "taeshinon",
+    "code": "cr-jou1-662",
+    "index": 662
+  },
+  {
+    "surface": "引っかかっ",
+    "reading": "hikkaka",
+    "code": "cr-jou1-663",
+    "index": 663
+  },
+  {
+    "surface": "暮らせる",
+    "reading": "kuraseru",
+    "code": "cr-jou1-664",
+    "index": 664
+  },
+  {
+    "surface": "呼び合う",
+    "reading": "yobiau",
+    "code": "cr-jou1-665",
+    "index": 665
+  },
+  {
+    "surface": "かかれる",
+    "reading": "kakareru",
+    "code": "cr-jou1-666",
+    "index": 666
+  },
+  {
+    "surface": "利く",
+    "reading": "kiku",
+    "code": "cr-jou1-667",
+    "index": 667
+  },
+  {
+    "surface": "はちきれ",
+    "reading": "hachikire",
+    "code": "cr-jou1-668",
+    "index": 668
+  },
+  {
+    "surface": "思い切っ",
+    "reading": "omoiki",
+    "code": "cr-jou1-669",
+    "index": 669
+  },
+  {
+    "surface": "突き止める",
+    "reading": "tsukitomeru",
+    "code": "cr-jou1-670",
+    "index": 670
+  },
+  {
+    "surface": "疑わ",
+    "reading": "utagawa",
+    "code": "cr-jou1-671",
+    "index": 671
+  },
+  {
+    "surface": "食う",
+    "reading": "kuu",
+    "code": "cr-jou1-672",
+    "index": 672
+  },
+  {
+    "surface": "持ちくずし",
+    "reading": "mochikuzushi",
+    "code": "cr-jou1-673",
+    "index": 673
+  },
+  {
+    "surface": "売っ",
+    "reading": "u",
+    "code": "cr-jou1-674",
+    "index": 674
+  },
+  {
+    "surface": "手がける",
+    "reading": "tegakeru",
+    "code": "cr-jou1-675",
+    "index": 675
+  },
+  {
+    "surface": "探す",
+    "reading": "sagasu",
+    "code": "cr-jou1-676",
+    "index": 676
+  },
+  {
+    "surface": "避け",
+    "reading": "sake",
+    "code": "cr-jou1-677",
+    "index": 677
+  },
+  {
+    "surface": "着飾っ",
+    "reading": "kikaza",
+    "code": "cr-jou1-678",
+    "index": 678
+  },
+  {
+    "surface": "イケる",
+    "reading": "ikeru",
+    "code": "cr-jou1-679",
+    "index": 679
+  },
+  {
+    "surface": "尖っ",
+    "reading": "toga",
+    "code": "cr-jou1-680",
+    "index": 680
+  },
+  {
+    "surface": "会わ",
+    "reading": "awa",
+    "code": "cr-jou1-681",
+    "index": 681
+  },
+  {
+    "surface": "取り出そう",
+    "reading": "toridasou",
+    "code": "cr-jou1-682",
+    "index": 682
+  },
+  {
+    "surface": "とび出し",
+    "reading": "tobidashi",
+    "code": "cr-jou1-683",
+    "index": 683
+  },
+  {
+    "surface": "塞い",
+    "reading": "sei",
+    "code": "cr-jou1-684",
+    "index": 684
+  },
+  {
+    "surface": "けしかけ",
+    "reading": "keshikake",
+    "code": "cr-jou1-685",
+    "index": 685
+  },
+  {
+    "surface": "貧し",
+    "reading": "hinshi",
+    "code": "cr-jou1-686",
+    "index": 686
+  },
+  {
+    "surface": "ふりしぼっ",
+    "reading": "furishibo",
+    "code": "cr-jou1-687",
+    "index": 687
+  },
+  {
+    "surface": "買わさ",
+    "reading": "kawasa",
+    "code": "cr-jou1-688",
+    "index": 688
+  },
+  {
+    "surface": "切り離し",
+    "reading": "kirihanashi",
+    "code": "cr-jou1-689",
+    "index": 689
+  },
+  {
+    "surface": "配る",
+    "reading": "kubaru",
+    "code": "cr-jou1-690",
+    "index": 690
+  },
+  {
+    "surface": "倒れ",
+    "reading": "taore",
+    "code": "cr-jou1-691",
+    "index": 691
+  },
+  {
+    "surface": "サボっ",
+    "reading": "sabo",
+    "code": "cr-jou1-692",
+    "index": 692
+  },
+  {
+    "surface": "きれ",
+    "reading": "kire",
+    "code": "cr-jou1-693",
+    "index": 693
+  },
+  {
+    "surface": "しゃべれる",
+    "reading": "shabereru",
+    "code": "cr-jou1-694",
+    "index": 694
+  },
+  {
+    "surface": "取りだし",
+    "reading": "toridashi",
+    "code": "cr-jou1-695",
+    "index": 695
+  },
+  {
+    "surface": "こすりあわせ",
+    "reading": "kosuriawase",
+    "code": "cr-jou1-696",
+    "index": 696
+  },
+  {
+    "surface": "混じり合わ",
+    "reading": "majiriawa",
+    "code": "cr-jou1-697",
+    "index": 697
+  },
+  {
+    "surface": "もてあまし",
+    "reading": "moteamashi",
+    "code": "cr-jou1-698",
+    "index": 698
+  },
+  {
+    "surface": "まがっ",
+    "reading": "maga",
+    "code": "cr-jou1-699",
+    "index": 699
+  },
+  {
+    "surface": "ばらす",
+    "reading": "barasu",
+    "code": "cr-jou1-700",
+    "index": 700
+  },
+  {
+    "surface": "くれる",
+    "reading": "kureru",
+    "code": "cr-jou1-701",
+    "index": 701
+  },
+  {
+    "surface": "そそのかし",
+    "reading": "sosonokashi",
+    "code": "cr-jou1-702",
+    "index": 702
+  },
+  {
+    "surface": "開ける",
+    "reading": "akeru",
+    "code": "cr-jou1-703",
+    "index": 703
+  },
+  {
+    "surface": "除い",
+    "reading": "nozoi",
+    "code": "cr-jou1-704",
+    "index": 704
+  },
+  {
+    "surface": "昇る",
+    "reading": "noboru",
+    "code": "cr-jou1-705",
+    "index": 705
+  },
+  {
+    "surface": "いがみ合っ",
+    "reading": "igamia",
+    "code": "cr-jou1-706",
+    "index": 706
+  },
+  {
+    "surface": "描き分ける",
+    "reading": "egakiwakeru",
+    "code": "cr-jou1-707",
+    "index": 707
+  },
+  {
+    "surface": "わたろう",
+    "reading": "watarou",
+    "code": "cr-jou1-708",
+    "index": 708
+  },
+  {
+    "surface": "称せ",
+    "reading": "shouse",
+    "code": "cr-jou1-709",
+    "index": 709
+  },
+  {
+    "surface": "あしらう",
+    "reading": "ashirau",
+    "code": "cr-jou1-710",
+    "index": 710
+  },
+  {
+    "surface": "連れ去り",
+    "reading": "tsuresari",
+    "code": "cr-jou1-711",
+    "index": 711
+  },
+  {
+    "surface": "持て",
+    "reading": "mote",
+    "code": "cr-jou1-712",
+    "index": 712
+  },
+  {
+    "surface": "申し上げ",
+    "reading": "moushiage",
+    "code": "cr-jou1-713",
+    "index": 713
+  },
+  {
+    "surface": "滅びる",
+    "reading": "horobiru",
+    "code": "cr-jou1-714",
+    "index": 714
+  },
+  {
+    "surface": "乗り込ん",
+    "reading": "norikon",
+    "code": "cr-jou1-715",
+    "index": 715
+  },
+  {
+    "surface": "怖じ",
+    "reading": "oji",
+    "code": "cr-jou1-716",
+    "index": 716
+  },
+  {
+    "surface": "這い上がっ",
+    "reading": "haiaga",
+    "code": "cr-jou1-717",
+    "index": 717
+  },
+  {
+    "surface": "届く",
+    "reading": "todoku",
+    "code": "cr-jou1-718",
+    "index": 718
+  },
+  {
+    "surface": "語り",
+    "reading": "katari",
+    "code": "cr-jou1-719",
+    "index": 719
+  },
+  {
+    "surface": "埋め合わす",
+    "reading": "umeawasu",
+    "code": "cr-jou1-720",
+    "index": 720
+  },
+  {
+    "surface": "捉え",
+    "reading": "torae",
+    "code": "cr-jou1-721",
+    "index": 721
+  },
+  {
+    "surface": "すべりこま",
+    "reading": "suberikoma",
+    "code": "cr-jou1-722",
+    "index": 722
+  },
+  {
+    "surface": "言いかえれ",
+    "reading": "iikaere",
+    "code": "cr-jou1-723",
+    "index": 723
+  },
+  {
+    "surface": "かぎ回っ",
+    "reading": "kagimawa",
+    "code": "cr-jou1-724",
+    "index": 724
+  },
+  {
+    "surface": "とめる",
+    "reading": "tomeru",
+    "code": "cr-jou1-725",
+    "index": 725
+  },
+  {
+    "surface": "拭き",
+    "reading": "fuki",
+    "code": "cr-jou1-726",
+    "index": 726
+  },
+  {
+    "surface": "薄れ",
+    "reading": "usure",
+    "code": "cr-jou1-727",
+    "index": 727
+  },
+  {
+    "surface": "始めよう",
+    "reading": "hajimeyou",
+    "code": "cr-jou1-728",
+    "index": 728
+  },
+  {
+    "surface": "勧め",
+    "reading": "susume",
+    "code": "cr-jou1-729",
+    "index": 729
+  },
+  {
+    "surface": "処し",
+    "reading": "shoshi",
+    "code": "cr-jou1-730",
+    "index": 730
+  },
+  {
+    "surface": "やっ",
+    "reading": "ya",
+    "code": "cr-jou1-731",
+    "index": 731
+  },
+  {
+    "surface": "撥ね付け",
+    "reading": "hanetsuke",
+    "code": "cr-jou1-732",
+    "index": 732
+  },
+  {
+    "surface": "食いとめる",
+    "reading": "kuitomeru",
+    "code": "cr-jou1-733",
+    "index": 733
+  },
+  {
+    "surface": "噛みつぶし",
+    "reading": "kamitsubushi",
+    "code": "cr-jou1-734",
+    "index": 734
+  },
+  {
+    "surface": "解り",
+    "reading": "wakari",
+    "code": "cr-jou1-735",
+    "index": 735
+  },
+  {
+    "surface": "見れ",
+    "reading": "mire",
+    "code": "cr-jou1-736",
+    "index": 736
+  },
+  {
+    "surface": "探し出し",
+    "reading": "sagashidashi",
+    "code": "cr-jou1-737",
+    "index": 737
+  },
+  {
+    "surface": "転じ",
+    "reading": "tenji",
+    "code": "cr-jou1-738",
+    "index": 738
+  },
+  {
+    "surface": "つかん",
+    "reading": "tsukan",
+    "code": "cr-jou1-739",
+    "index": 739
+  },
+  {
+    "surface": "聴く",
+    "reading": "kiku",
+    "code": "cr-jou1-740",
+    "index": 740
+  },
+  {
+    "surface": "対し",
+    "reading": "taishi",
+    "code": "cr-jou1-741",
+    "index": 741
+  },
+  {
+    "surface": "化し",
+    "reading": "kashi",
+    "code": "cr-jou1-742",
+    "index": 742
+  },
+  {
+    "surface": "行い",
+    "reading": "okonai",
+    "code": "cr-jou1-743",
+    "index": 743
+  },
+  {
+    "surface": "締める",
+    "reading": "shimeru",
+    "code": "cr-jou1-744",
+    "index": 744
+  },
+  {
+    "surface": "競いあっ",
+    "reading": "kisoia",
+    "code": "cr-jou1-745",
+    "index": 745
+  },
+  {
+    "surface": "許さ",
+    "reading": "yurusa",
+    "code": "cr-jou1-746",
+    "index": 746
+  },
+  {
+    "surface": "富め",
+    "reading": "tome",
+    "code": "cr-jou1-747",
+    "index": 747
+  },
+  {
+    "surface": "背け",
+    "reading": "somuke",
+    "code": "cr-jou1-748",
+    "index": 748
+  },
+  {
+    "surface": "おさめ",
+    "reading": "osame",
+    "code": "cr-jou1-749",
+    "index": 749
+  },
+  {
+    "surface": "かきわけ",
+    "reading": "kakiwake",
+    "code": "cr-jou1-750",
+    "index": 750
+  },
+  {
+    "surface": "築き上げ",
+    "reading": "kizukiage",
+    "code": "cr-jou1-751",
+    "index": 751
+  },
+  {
+    "surface": "溺れ",
+    "reading": "obore",
+    "code": "cr-jou1-752",
+    "index": 752
+  },
+  {
+    "surface": "困る",
+    "reading": "komaru",
+    "code": "cr-jou1-753",
+    "index": 753
+  },
+  {
+    "surface": "引き起こさ",
+    "reading": "hikiokosa",
+    "code": "cr-jou1-754",
+    "index": 754
+  },
+  {
+    "surface": "開い",
+    "reading": "hirai",
+    "code": "cr-jou1-755",
+    "index": 755
+  },
+  {
+    "surface": "落ち込ん",
+    "reading": "ochikon",
+    "code": "cr-jou1-756",
+    "index": 756
+  },
+  {
+    "surface": "築きあげ",
+    "reading": "kizukiage",
+    "code": "cr-jou1-757",
+    "index": 757
+  },
+  {
+    "surface": "踏み消し",
+    "reading": "fumikeshi",
+    "code": "cr-jou1-758",
+    "index": 758
+  },
+  {
+    "surface": "募る",
+    "reading": "tsunoru",
+    "code": "cr-jou1-759",
+    "index": 759
+  },
+  {
+    "surface": "放す",
+    "reading": "hanasu",
+    "code": "cr-jou1-760",
+    "index": 760
+  },
+  {
+    "surface": "泳ぎ",
+    "reading": "oyogi",
+    "code": "cr-jou1-761",
+    "index": 761
+  },
+  {
+    "surface": "覚ませ",
+    "reading": "samase",
+    "code": "cr-jou1-762",
+    "index": 762
+  },
+  {
+    "surface": "せりあがっ",
+    "reading": "seriaga",
+    "code": "cr-jou1-763",
+    "index": 763
+  },
+  {
+    "surface": "あおり立て",
+    "reading": "aoritate",
+    "code": "cr-jou1-764",
+    "index": 764
+  },
+  {
+    "surface": "任さ",
+    "reading": "makasa",
+    "code": "cr-jou1-765",
+    "index": 765
+  },
+  {
+    "surface": "愛さ",
+    "reading": "aisa",
+    "code": "cr-jou1-766",
+    "index": 766
+  },
+  {
+    "surface": "営ん",
+    "reading": "itonan",
+    "code": "cr-jou1-767",
+    "index": 767
+  },
+  {
+    "surface": "消さ",
+    "reading": "kesa",
+    "code": "cr-jou1-768",
+    "index": 768
+  },
+  {
+    "surface": "あわせよう",
+    "reading": "awaseyou",
+    "code": "cr-jou1-769",
+    "index": 769
+  },
+  {
+    "surface": "盗ま",
+    "reading": "nusuma",
+    "code": "cr-jou1-770",
+    "index": 770
+  },
+  {
+    "surface": "頂け",
+    "reading": "itadake",
+    "code": "cr-jou1-771",
+    "index": 771
+  },
+  {
+    "surface": "通そう",
+    "reading": "toosou",
+    "code": "cr-jou1-772",
+    "index": 772
+  },
+  {
+    "surface": "感じとっ",
+    "reading": "kanjito",
+    "code": "cr-jou1-773",
+    "index": 773
+  },
+  {
+    "surface": "ヨセ",
+    "reading": "yose",
+    "code": "cr-jou1-774",
+    "index": 774
+  },
+  {
+    "surface": "ひったくら",
+    "reading": "hittakura",
+    "code": "cr-jou1-775",
+    "index": 775
+  },
+  {
+    "surface": "渡れ",
+    "reading": "watare",
+    "code": "cr-jou1-776",
+    "index": 776
+  },
+  {
+    "surface": "空ける",
+    "reading": "akeru",
+    "code": "cr-jou1-777",
+    "index": 777
+  },
+  {
+    "surface": "入ろう",
+    "reading": "hairou",
+    "code": "cr-jou1-778",
+    "index": 778
+  },
+  {
+    "surface": "見抜か",
+    "reading": "minuka",
+    "code": "cr-jou1-779",
+    "index": 779
+  },
+  {
+    "surface": "こい",
+    "reading": "koi",
+    "code": "cr-jou1-780",
+    "index": 780
+  },
+  {
+    "surface": "誘わ",
+    "reading": "sasowa",
+    "code": "cr-jou1-781",
+    "index": 781
+  },
+  {
+    "surface": "彫っ",
+    "reading": "ho",
+    "code": "cr-jou1-782",
+    "index": 782
+  },
+  {
+    "surface": "読み取っ",
+    "reading": "yomito",
+    "code": "cr-jou1-783",
+    "index": 783
+  },
+  {
+    "surface": "許そう",
+    "reading": "yurusou",
+    "code": "cr-jou1-784",
+    "index": 784
+  },
+  {
+    "surface": "会っ",
+    "reading": "kai",
+    "code": "cr-jou1-785",
+    "index": 785
+  },
+  {
+    "surface": "挑む",
+    "reading": "idomu",
+    "code": "cr-jou1-786",
+    "index": 786
+  },
+  {
+    "surface": "上げろ",
+    "reading": "agero",
+    "code": "cr-jou1-787",
+    "index": 787
+  },
+  {
+    "surface": "悲しま",
+    "reading": "kanashima",
+    "code": "cr-jou1-788",
+    "index": 788
+  },
+  {
+    "surface": "踊りあがっ",
+    "reading": "odoriaga",
+    "code": "cr-jou1-789",
+    "index": 789
+  },
+  {
+    "surface": "定める",
+    "reading": "sadameru",
+    "code": "cr-jou1-790",
+    "index": 790
+  },
+  {
+    "surface": "滅ぼし",
+    "reading": "horoboshi",
+    "code": "cr-jou1-791",
+    "index": 791
+  },
+  {
+    "surface": "めぐらし",
+    "reading": "megurashi",
+    "code": "cr-jou1-792",
+    "index": 792
+  },
+  {
+    "surface": "出掛け",
+    "reading": "dekake",
+    "code": "cr-jou1-793",
+    "index": 793
+  },
+  {
+    "surface": "使い果たし",
+    "reading": "tsukaihatashi",
+    "code": "cr-jou1-794",
+    "index": 794
+  },
+  {
+    "surface": "受け取る",
+    "reading": "uketoru",
+    "code": "cr-jou1-795",
+    "index": 795
+  },
+  {
+    "surface": "寝れる",
+    "reading": "nereru",
+    "code": "cr-jou1-796",
+    "index": 796
+  },
+  {
+    "surface": "見張ら",
+    "reading": "mihara",
+    "code": "cr-jou1-797",
+    "index": 797
+  },
+  {
+    "surface": "撃っ",
+    "reading": "u",
+    "code": "cr-jou1-798",
+    "index": 798
+  },
+  {
+    "surface": "吠え",
+    "reading": "hoe",
+    "code": "cr-jou1-799",
+    "index": 799
+  },
+  {
+    "surface": "臆する",
+    "reading": "okusuru",
+    "code": "cr-jou1-800",
+    "index": 800
+  },
+  {
+    "surface": "したがう",
+    "reading": "shitagau",
+    "code": "cr-jou1-801",
+    "index": 801
+  },
+  {
+    "surface": "かまう",
+    "reading": "kamau",
+    "code": "cr-jou1-802",
+    "index": 802
+  },
+  {
+    "surface": "刻ん",
+    "reading": "kizan",
+    "code": "cr-jou1-803",
+    "index": 803
+  },
+  {
+    "surface": "見知ら",
+    "reading": "mishira",
+    "code": "cr-jou1-804",
+    "index": 804
+  },
+  {
+    "surface": "捨て",
+    "reading": "sute",
+    "code": "cr-jou1-805",
+    "index": 805
+  },
+  {
+    "surface": "持ち上がっ",
+    "reading": "mochiaga",
+    "code": "cr-jou1-806",
+    "index": 806
+  },
+  {
+    "surface": "決め付ける",
+    "reading": "kimetsukeru",
+    "code": "cr-jou1-807",
+    "index": 807
+  },
+  {
+    "surface": "持た",
+    "reading": "mota",
+    "code": "cr-jou1-808",
+    "index": 808
+  },
+  {
+    "surface": "競っ",
+    "reading": "kiso",
+    "code": "cr-jou1-809",
+    "index": 809
+  },
+  {
+    "surface": "かたづける",
+    "reading": "katazukeru",
+    "code": "cr-jou1-810",
+    "index": 810
+  },
+  {
+    "surface": "合わせよう",
+    "reading": "awaseyou",
+    "code": "cr-jou1-811",
+    "index": 811
+  },
+  {
+    "surface": "着れ",
+    "reading": "kire",
+    "code": "cr-jou1-812",
+    "index": 812
+  },
+  {
+    "surface": "馬鹿げ",
+    "reading": "bakage",
+    "code": "cr-jou1-813",
+    "index": 813
+  },
+  {
+    "surface": "眠れ",
+    "reading": "nemure",
+    "code": "cr-jou1-814",
+    "index": 814
+  },
+  {
+    "surface": "振り返ら",
+    "reading": "furikaera",
+    "code": "cr-jou1-815",
+    "index": 815
+  },
+  {
+    "surface": "尽くし",
+    "reading": "tsukushi",
+    "code": "cr-jou1-816",
+    "index": 816
+  },
+  {
+    "surface": "拒ん",
+    "reading": "koban",
+    "code": "cr-jou1-817",
+    "index": 817
+  },
+  {
+    "surface": "降り積もる",
+    "reading": "furitsumoru",
+    "code": "cr-jou1-818",
+    "index": 818
+  },
+  {
+    "surface": "こきおろし",
+    "reading": "kokioroshi",
+    "code": "cr-jou1-819",
+    "index": 819
+  },
+  {
+    "surface": "気づか",
+    "reading": "kizuka",
+    "code": "cr-jou1-820",
+    "index": 820
+  },
+  {
+    "surface": "仰ぐ",
+    "reading": "aogu",
+    "code": "cr-jou1-821",
+    "index": 821
+  },
+  {
+    "surface": "食い止め",
+    "reading": "kuitome",
+    "code": "cr-jou1-822",
+    "index": 822
+  },
+  {
+    "surface": "眠ろう",
+    "reading": "nemurou",
+    "code": "cr-jou1-823",
+    "index": 823
+  },
+  {
+    "surface": "まとわりつい",
+    "reading": "matowaritsui",
+    "code": "cr-jou1-824",
+    "index": 824
+  },
+  {
+    "surface": "あやまっ",
+    "reading": "ayama",
+    "code": "cr-jou1-825",
+    "index": 825
+  },
+  {
+    "surface": "優る",
+    "reading": "masaru",
+    "code": "cr-jou1-826",
+    "index": 826
+  },
+  {
+    "surface": "当たり散らし",
+    "reading": "atarichirashi",
+    "code": "cr-jou1-827",
+    "index": 827
+  },
+  {
+    "surface": "生き残れる",
+    "reading": "ikinokoreru",
+    "code": "cr-jou1-828",
+    "index": 828
+  },
+  {
+    "surface": "学びとれる",
+    "reading": "manabitoreru",
+    "code": "cr-jou1-829",
+    "index": 829
+  },
+  {
+    "surface": "拾っ",
+    "reading": "juu",
+    "code": "cr-jou1-830",
+    "index": 830
+  },
+  {
+    "surface": "やろう",
+    "reading": "yarou",
+    "code": "cr-jou1-831",
+    "index": 831
+  },
+  {
+    "surface": "興っ",
+    "reading": "oko",
+    "code": "cr-jou1-832",
+    "index": 832
+  },
+  {
+    "surface": "見せびらかす",
+    "reading": "misebirakasu",
+    "code": "cr-jou1-833",
+    "index": 833
+  },
+  {
+    "surface": "注い",
+    "reading": "sosoi",
+    "code": "cr-jou1-834",
+    "index": 834
+  },
+  {
+    "surface": "飼い慣らさ",
+    "reading": "kainarasa",
+    "code": "cr-jou1-835",
+    "index": 835
+  },
+  {
+    "surface": "くらえ",
+    "reading": "kurae",
+    "code": "cr-jou1-836",
+    "index": 836
+  },
+  {
+    "surface": "割り当てる",
+    "reading": "wariateru",
+    "code": "cr-jou1-837",
+    "index": 837
+  },
+  {
+    "surface": "攻める",
+    "reading": "semeru",
+    "code": "cr-jou1-838",
+    "index": 838
+  },
+  {
+    "surface": "取りかかっ",
+    "reading": "torikaka",
+    "code": "cr-jou1-839",
+    "index": 839
+  },
+  {
+    "surface": "授かっ",
+    "reading": "sazuka",
+    "code": "cr-jou1-840",
+    "index": 840
+  },
+  {
+    "surface": "宛て",
+    "reading": "ate",
+    "code": "cr-jou1-841",
+    "index": 841
+  },
+  {
+    "surface": "寝かしつけ",
+    "reading": "nekashitsuke",
+    "code": "cr-jou1-842",
+    "index": 842
+  },
+  {
+    "surface": "立ちあがろう",
+    "reading": "tachiagarou",
+    "code": "cr-jou1-843",
+    "index": 843
+  },
+  {
+    "surface": "塗りたくっ",
+    "reading": "nuritaku",
+    "code": "cr-jou1-844",
+    "index": 844
+  },
+  {
+    "surface": "閉じこもる",
+    "reading": "tojikomoru",
+    "code": "cr-jou1-845",
+    "index": 845
+  },
+  {
+    "surface": "強める",
+    "reading": "tsuyomeru",
+    "code": "cr-jou1-846",
+    "index": 846
+  },
+  {
+    "surface": "震え上がっ",
+    "reading": "furueaga",
+    "code": "cr-jou1-847",
+    "index": 847
+  },
+  {
+    "surface": "こわれ",
+    "reading": "koware",
+    "code": "cr-jou1-848",
+    "index": 848
+  },
+  {
+    "surface": "魅せ",
+    "reading": "mise",
+    "code": "cr-jou1-849",
+    "index": 849
+  },
+  {
+    "surface": "こすり落とし",
+    "reading": "kosuriotoshi",
+    "code": "cr-jou1-850",
+    "index": 850
+  },
+  {
+    "surface": "置け",
+    "reading": "oke",
+    "code": "cr-jou1-851",
+    "index": 851
+  },
+  {
+    "surface": "踊ろう",
+    "reading": "odorou",
+    "code": "cr-jou1-852",
+    "index": 852
+  },
+  {
+    "surface": "掻き分け",
+    "reading": "kakiwake",
+    "code": "cr-jou1-853",
+    "index": 853
+  },
+  {
+    "surface": "閉める",
+    "reading": "shimeru",
+    "code": "cr-jou1-854",
+    "index": 854
+  },
+  {
+    "surface": "ひったくっ",
+    "reading": "hittaku",
+    "code": "cr-jou1-855",
+    "index": 855
+  },
+  {
+    "surface": "痛む",
+    "reading": "itamu",
+    "code": "cr-jou1-856",
+    "index": 856
+  },
+  {
+    "surface": "沿っ",
+    "reading": "so",
+    "code": "cr-jou1-857",
+    "index": 857
+  },
+  {
+    "surface": "直せる",
+    "reading": "naoseru",
+    "code": "cr-jou1-858",
+    "index": 858
+  },
+  {
+    "surface": "戻り",
+    "reading": "modori",
+    "code": "cr-jou1-859",
+    "index": 859
+  },
+  {
+    "surface": "働か",
+    "reading": "hataraka",
+    "code": "cr-jou1-860",
+    "index": 860
+  },
+  {
+    "surface": "出来上がる",
+    "reading": "dekiagaru",
+    "code": "cr-jou1-861",
+    "index": 861
+  },
+  {
+    "surface": "亡くなり",
+    "reading": "nakunari",
+    "code": "cr-jou1-862",
+    "index": 862
+  },
+  {
+    "surface": "退い",
+    "reading": "shirizoi",
+    "code": "cr-jou1-863",
+    "index": 863
+  },
+  {
+    "surface": "はい出し",
+    "reading": "haidashi",
+    "code": "cr-jou1-864",
+    "index": 864
+  },
+  {
+    "surface": "聞き漏らさ",
+    "reading": "kikimorasa",
+    "code": "cr-jou1-865",
+    "index": 865
+  },
+  {
+    "surface": "きまっ",
+    "reading": "kima",
+    "code": "cr-jou1-866",
+    "index": 866
+  },
+  {
+    "surface": "貸そう",
+    "reading": "kasou",
+    "code": "cr-jou1-867",
+    "index": 867
+  },
+  {
+    "surface": "歩こう",
+    "reading": "arukou",
+    "code": "cr-jou1-868",
+    "index": 868
+  },
+  {
+    "surface": "消えゆく",
+    "reading": "kieyuku",
+    "code": "cr-jou1-869",
+    "index": 869
+  },
+  {
+    "surface": "転がり落ち",
+    "reading": "korogariochi",
+    "code": "cr-jou1-870",
+    "index": 870
+  },
+  {
+    "surface": "書き写し",
+    "reading": "kakiutsushi",
+    "code": "cr-jou1-871",
+    "index": 871
+  },
+  {
+    "surface": "取り囲む",
+    "reading": "torikakomu",
+    "code": "cr-jou1-872",
+    "index": 872
+  },
+  {
+    "surface": "摘ん",
+    "reading": "tsun",
+    "code": "cr-jou1-873",
+    "index": 873
+  },
+  {
+    "surface": "そこなわ",
+    "reading": "sokonawa",
+    "code": "cr-jou1-874",
+    "index": 874
+  },
+  {
+    "surface": "押し入っ",
+    "reading": "oshii",
+    "code": "cr-jou1-875",
+    "index": 875
+  },
+  {
+    "surface": "築く",
+    "reading": "kizuku",
+    "code": "cr-jou1-876",
+    "index": 876
+  },
+  {
+    "surface": "しかりつけ",
+    "reading": "shikaritsuke",
+    "code": "cr-jou1-877",
+    "index": 877
+  },
+  {
+    "surface": "怒る",
+    "reading": "okoru",
+    "code": "cr-jou1-878",
+    "index": 878
+  },
+  {
+    "surface": "煽い",
+    "reading": "aoi",
+    "code": "cr-jou1-879",
+    "index": 879
+  },
+  {
+    "surface": "そこなう",
+    "reading": "sokonau",
+    "code": "cr-jou1-880",
+    "index": 880
+  },
+  {
+    "surface": "晴れ上がっ",
+    "reading": "hareaga",
+    "code": "cr-jou1-881",
+    "index": 881
+  },
+  {
+    "surface": "ぶらつい",
+    "reading": "buratsui",
+    "code": "cr-jou1-882",
+    "index": 882
+  },
+  {
+    "surface": "ふみきっ",
+    "reading": "fumiki",
+    "code": "cr-jou1-883",
+    "index": 883
+  },
+  {
+    "surface": "慶ん",
+    "reading": "yorokon",
+    "code": "cr-jou1-884",
+    "index": 884
+  },
+  {
+    "surface": "釣っ",
+    "reading": "tsu",
+    "code": "cr-jou1-885",
+    "index": 885
+  },
+  {
+    "surface": "慌てふためい",
+    "reading": "awatefutamei",
+    "code": "cr-jou1-886",
+    "index": 886
+  },
+  {
+    "surface": "辞し",
+    "reading": "jishi",
+    "code": "cr-jou1-887",
+    "index": 887
+  },
+  {
+    "surface": "そそぎ入れ",
+    "reading": "sosogiire",
+    "code": "cr-jou1-888",
+    "index": 888
+  },
+  {
+    "surface": "正し",
+    "reading": "tadashi",
+    "code": "cr-jou1-889",
+    "index": 889
+  },
+  {
+    "surface": "しずめよう",
+    "reading": "shizumeyou",
+    "code": "cr-jou1-890",
+    "index": 890
+  },
+  {
+    "surface": "もどっ",
+    "reading": "modo",
+    "code": "cr-jou1-891",
+    "index": 891
+  },
+  {
+    "surface": "生きる",
+    "reading": "ikiru",
+    "code": "cr-jou1-892",
+    "index": 892
+  },
+  {
+    "surface": "引っかける",
+    "reading": "hikkakeru",
+    "code": "cr-jou1-893",
+    "index": 893
+  },
+  {
+    "surface": "利かし",
+    "reading": "kikashi",
+    "code": "cr-jou1-894",
+    "index": 894
+  },
+  {
+    "surface": "やり遂げよう",
+    "reading": "yaritogeyou",
+    "code": "cr-jou1-895",
+    "index": 895
+  },
+  {
+    "surface": "話し合おう",
+    "reading": "hanashiaou",
+    "code": "cr-jou1-896",
+    "index": 896
+  },
+  {
+    "surface": "出し抜こう",
+    "reading": "dashinukou",
+    "code": "cr-jou1-897",
+    "index": 897
+  },
+  {
+    "surface": "会う",
+    "reading": "au",
+    "code": "cr-jou1-898",
+    "index": 898
+  },
+  {
+    "surface": "漂う",
+    "reading": "tadayou",
+    "code": "cr-jou1-899",
+    "index": 899
+  },
+  {
+    "surface": "無くなっ",
+    "reading": "nakuna",
+    "code": "cr-jou1-900",
+    "index": 900
+  },
+  {
+    "surface": "開か",
+    "reading": "hiraka",
+    "code": "cr-jou1-901",
+    "index": 901
+  },
+  {
+    "surface": "巻き起こす",
+    "reading": "makiokosu",
+    "code": "cr-jou1-902",
+    "index": 902
+  },
+  {
+    "surface": "於い",
+    "reading": "oi",
+    "code": "cr-jou1-903",
+    "index": 903
+  },
+  {
+    "surface": "乗り切り",
+    "reading": "norikiri",
+    "code": "cr-jou1-904",
+    "index": 904
+  },
+  {
+    "surface": "見下さ",
+    "reading": "mikudasa",
+    "code": "cr-jou1-905",
+    "index": 905
+  },
+  {
+    "surface": "増す",
+    "reading": "masu",
+    "code": "cr-jou1-906",
+    "index": 906
+  },
+  {
+    "surface": "生じる",
+    "reading": "shoujiru",
+    "code": "cr-jou1-907",
+    "index": 907
+  },
+  {
+    "surface": "謹ん",
+    "reading": "tsutsushin",
+    "code": "cr-jou1-908",
+    "index": 908
+  },
+  {
+    "surface": "駆け込ん",
+    "reading": "kakekon",
+    "code": "cr-jou1-909",
+    "index": 909
+  },
+  {
+    "surface": "取り払っ",
+    "reading": "torihara",
+    "code": "cr-jou1-910",
+    "index": 910
+  },
+  {
+    "surface": "投げ下ろせ",
+    "reading": "nageorose",
+    "code": "cr-jou1-911",
+    "index": 911
+  },
+  {
+    "surface": "くれれ",
+    "reading": "kurere",
+    "code": "cr-jou1-912",
+    "index": 912
+  },
+  {
+    "surface": "討た",
+    "reading": "uta",
+    "code": "cr-jou1-913",
+    "index": 913
+  },
+  {
+    "surface": "とりもどし",
+    "reading": "torimodoshi",
+    "code": "cr-jou1-914",
+    "index": 914
+  },
+  {
+    "surface": "言い聞かせよう",
+    "reading": "iikikaseyou",
+    "code": "cr-jou1-915",
+    "index": 915
+  },
+  {
+    "surface": "描か",
+    "reading": "egaka",
+    "code": "cr-jou1-916",
+    "index": 916
+  },
+  {
+    "surface": "喜ぶ",
+    "reading": "yorokobu",
+    "code": "cr-jou1-917",
+    "index": 917
+  },
+  {
+    "surface": "あけ",
+    "reading": "ake",
+    "code": "cr-jou1-918",
+    "index": 918
+  },
+  {
+    "surface": "ののしる",
+    "reading": "nonoshiru",
+    "code": "cr-jou1-919",
+    "index": 919
+  },
+  {
+    "surface": "聞か",
+    "reading": "kika",
+    "code": "cr-jou1-920",
+    "index": 920
+  },
+  {
+    "surface": "困り",
+    "reading": "komari",
+    "code": "cr-jou1-921",
+    "index": 921
+  },
+  {
+    "surface": "舞い降り",
+    "reading": "maiori",
+    "code": "cr-jou1-922",
+    "index": 922
+  },
+  {
+    "surface": "亡くなっ",
+    "reading": "nakuna",
+    "code": "cr-jou1-923",
+    "index": 923
+  },
+  {
+    "surface": "残ら",
+    "reading": "nokora",
+    "code": "cr-jou1-924",
+    "index": 924
+  },
+  {
+    "surface": "やぶら",
+    "reading": "yabura",
+    "code": "cr-jou1-925",
+    "index": 925
+  },
+  {
+    "surface": "ふきとばさ",
+    "reading": "fukitobasa",
+    "code": "cr-jou1-926",
+    "index": 926
+  },
+  {
+    "surface": "おっしゃっ",
+    "reading": "ossha",
+    "code": "cr-jou1-927",
+    "index": 927
+  },
+  {
+    "surface": "遂げる",
+    "reading": "togeru",
+    "code": "cr-jou1-928",
+    "index": 928
+  },
+  {
+    "surface": "ふりかえっ",
+    "reading": "furikae",
+    "code": "cr-jou1-929",
+    "index": 929
+  },
+  {
+    "surface": "押しつぶし",
+    "reading": "oshitsubushi",
+    "code": "cr-jou1-930",
+    "index": 930
+  },
+  {
+    "surface": "あく",
+    "reading": "aku",
+    "code": "cr-jou1-931",
+    "index": 931
+  },
+  {
+    "surface": "解き明かせ",
+    "reading": "tokiakase",
+    "code": "cr-jou1-932",
+    "index": 932
+  },
+  {
+    "surface": "引く",
+    "reading": "hiku",
+    "code": "cr-jou1-933",
+    "index": 933
+  },
+  {
+    "surface": "はぐれ",
+    "reading": "hagure",
+    "code": "cr-jou1-934",
+    "index": 934
+  },
+  {
+    "surface": "馴染む",
+    "reading": "najimu",
+    "code": "cr-jou1-935",
+    "index": 935
+  },
+  {
+    "surface": "負っ",
+    "reading": "o",
+    "code": "cr-jou1-936",
+    "index": 936
+  },
+  {
+    "surface": "曲っ",
+    "reading": "kyoku",
+    "code": "cr-jou1-937",
+    "index": 937
+  },
+  {
+    "surface": "抑えつけ",
+    "reading": "osaetsuke",
+    "code": "cr-jou1-938",
+    "index": 938
+  },
+  {
+    "surface": "こじら",
+    "reading": "kojira",
+    "code": "cr-jou1-939",
+    "index": 939
+  },
+  {
+    "surface": "光る",
+    "reading": "hikaru",
+    "code": "cr-jou1-940",
+    "index": 940
+  },
+  {
+    "surface": "下さっ",
+    "reading": "kudasa",
+    "code": "cr-jou1-941",
+    "index": 941
+  },
+  {
+    "surface": "こぼれおち",
+    "reading": "koboreochi",
+    "code": "cr-jou1-942",
+    "index": 942
+  },
+  {
+    "surface": "当たっ",
+    "reading": "ata",
+    "code": "cr-jou1-943",
+    "index": 943
+  },
+  {
+    "surface": "閉じこもっ",
+    "reading": "tojikomo",
+    "code": "cr-jou1-944",
+    "index": 944
+  },
+  {
+    "surface": "なぐりつけ",
+    "reading": "naguritsuke",
+    "code": "cr-jou1-945",
+    "index": 945
+  },
+  {
+    "surface": "押し流し",
+    "reading": "oshinagashi",
+    "code": "cr-jou1-946",
+    "index": 946
+  },
+  {
+    "surface": "引き取っ",
+    "reading": "hikito",
+    "code": "cr-jou1-947",
+    "index": 947
+  },
+  {
+    "surface": "あろう",
+    "reading": "arou",
+    "code": "cr-jou1-948",
+    "index": 948
+  },
+  {
+    "surface": "至っ",
+    "reading": "ita",
+    "code": "cr-jou1-949",
+    "index": 949
+  },
+  {
+    "surface": "絶やさ",
+    "reading": "tayasa",
+    "code": "cr-jou1-950",
+    "index": 950
+  },
+  {
+    "surface": "出さ",
+    "reading": "dasa",
+    "code": "cr-jou1-951",
+    "index": 951
+  },
+  {
+    "surface": "言い返そう",
+    "reading": "iikaesou",
+    "code": "cr-jou1-952",
+    "index": 952
+  },
+  {
+    "surface": "預け",
+    "reading": "azuke",
+    "code": "cr-jou1-953",
+    "index": 953
+  },
+  {
+    "surface": "ふる",
+    "reading": "furu",
+    "code": "cr-jou1-954",
+    "index": 954
+  },
+  {
+    "surface": "伝わり落ち",
+    "reading": "tsutawariochi",
+    "code": "cr-jou1-955",
+    "index": 955
+  },
+  {
+    "surface": "沸い",
+    "reading": "wai",
+    "code": "cr-jou1-956",
+    "index": 956
+  },
+  {
+    "surface": "下がっ",
+    "reading": "saga",
+    "code": "cr-jou1-957",
+    "index": 957
+  },
+  {
+    "surface": "泣き喚い",
+    "reading": "nakiwamei",
+    "code": "cr-jou1-958",
+    "index": 958
+  },
+  {
+    "surface": "死ん",
+    "reading": "shin",
+    "code": "cr-jou1-959",
+    "index": 959
+  },
+  {
+    "surface": "送っ",
+    "reading": "oku",
+    "code": "cr-jou1-960",
+    "index": 960
+  },
+  {
+    "surface": "飛び回っ",
+    "reading": "tobimawa",
+    "code": "cr-jou1-961",
+    "index": 961
+  },
+  {
+    "surface": "分かり",
+    "reading": "wakari",
+    "code": "cr-jou1-962",
+    "index": 962
+  },
+  {
+    "surface": "みる",
+    "reading": "miru",
+    "code": "cr-jou1-963",
+    "index": 963
+  },
+  {
+    "surface": "つくす",
+    "reading": "tsukusu",
+    "code": "cr-jou1-964",
+    "index": 964
+  },
+  {
+    "surface": "気取ら",
+    "reading": "kidora",
+    "code": "cr-jou1-965",
+    "index": 965
+  },
+  {
+    "surface": "かがみこん",
+    "reading": "kagamikon",
+    "code": "cr-jou1-966",
+    "index": 966
+  },
+  {
+    "surface": "よろこん",
+    "reading": "yorokon",
+    "code": "cr-jou1-967",
+    "index": 967
+  },
+  {
+    "surface": "なづけ",
+    "reading": "nazuke",
+    "code": "cr-jou1-968",
+    "index": 968
+  },
+  {
+    "surface": "射抜い",
+    "reading": "inui",
+    "code": "cr-jou1-969",
+    "index": 969
+  },
+  {
+    "surface": "書き移し",
+    "reading": "kakiutsushi",
+    "code": "cr-jou1-970",
+    "index": 970
+  },
+  {
+    "surface": "取り除く",
+    "reading": "torinozoku",
+    "code": "cr-jou1-971",
+    "index": 971
+  },
+  {
+    "surface": "応えよう",
+    "reading": "kotaeyou",
+    "code": "cr-jou1-972",
+    "index": 972
+  },
+  {
+    "surface": "泣きじゃくっ",
+    "reading": "nakijaku",
+    "code": "cr-jou1-973",
+    "index": 973
+  },
+  {
+    "surface": "見せびらかさ",
+    "reading": "misebirakasa",
+    "code": "cr-jou1-974",
+    "index": 974
+  },
+  {
+    "surface": "治し",
+    "reading": "naoshi",
+    "code": "cr-jou1-975",
+    "index": 975
+  },
+  {
+    "surface": "降りる",
+    "reading": "oriru",
+    "code": "cr-jou1-976",
+    "index": 976
+  },
+  {
+    "surface": "叱ら",
+    "reading": "shikara",
+    "code": "cr-jou1-977",
+    "index": 977
+  },
+  {
+    "surface": "味わっ",
+    "reading": "ajiwa",
+    "code": "cr-jou1-978",
+    "index": 978
+  },
+  {
+    "surface": "のれ",
+    "reading": "nore",
+    "code": "cr-jou1-979",
+    "index": 979
+  },
+  {
+    "surface": "散らばっ",
+    "reading": "chiraba",
+    "code": "cr-jou1-980",
+    "index": 980
+  },
+  {
+    "surface": "立ち寄る",
+    "reading": "tachiyoru",
+    "code": "cr-jou1-981",
+    "index": 981
+  },
+  {
+    "surface": "勤めあげ",
+    "reading": "tsutomeage",
+    "code": "cr-jou1-982",
+    "index": 982
+  },
+  {
+    "surface": "目さ",
+    "reading": "mokusa",
+    "code": "cr-jou1-983",
+    "index": 983
+  },
+  {
+    "surface": "誤っ",
+    "reading": "ayama",
+    "code": "cr-jou1-984",
+    "index": 984
+  },
+  {
+    "surface": "愛する",
+    "reading": "aisuru",
+    "code": "cr-jou1-985",
+    "index": 985
+  },
+  {
+    "surface": "焼け落ちる",
+    "reading": "yakeochiru",
+    "code": "cr-jou1-986",
+    "index": 986
+  },
+  {
+    "surface": "振っ",
+    "reading": "fu",
+    "code": "cr-jou1-987",
+    "index": 987
+  },
+  {
+    "surface": "撮ら",
+    "reading": "tora",
+    "code": "cr-jou1-988",
+    "index": 988
+  },
+  {
+    "surface": "帰れ",
+    "reading": "kaere",
+    "code": "cr-jou1-989",
+    "index": 989
+  },
+  {
+    "surface": "取り替える",
+    "reading": "torikaeru",
+    "code": "cr-jou1-990",
+    "index": 990
+  },
+  {
+    "surface": "散っ",
+    "reading": "chi",
+    "code": "cr-jou1-991",
+    "index": 991
+  },
+  {
+    "surface": "跳び上がろう",
+    "reading": "tobiagarou",
+    "code": "cr-jou1-992",
+    "index": 992
+  },
+  {
+    "surface": "引き裂か",
+    "reading": "hikisaka",
+    "code": "cr-jou1-993",
+    "index": 993
+  },
+  {
+    "surface": "すりむい",
+    "reading": "surimui",
+    "code": "cr-jou1-994",
+    "index": 994
+  },
+  {
+    "surface": "帰っ",
+    "reading": "kae",
+    "code": "cr-jou1-995",
+    "index": 995
+  },
+  {
+    "surface": "かきむしっ",
+    "reading": "kakimushi",
+    "code": "cr-jou1-996",
+    "index": 996
+  },
+  {
+    "surface": "投じ",
+    "reading": "touji",
+    "code": "cr-jou1-997",
+    "index": 997
+  },
+  {
+    "surface": "罰せ",
+    "reading": "basse",
+    "code": "cr-jou1-998",
+    "index": 998
+  },
+  {
+    "surface": "紛らし",
+    "reading": "magirashi",
+    "code": "cr-jou1-999",
+    "index": 999
+  },
+  {
+    "surface": "飛び上がら",
+    "reading": "tobiagara",
+    "code": "cr-jou1-1000",
+    "index": 1000
+  },
+  {
+    "surface": "立てかけ",
+    "reading": "tatekake",
+    "code": "cr-jou1-1001",
+    "index": 1001
+  },
+  {
+    "surface": "知れ",
+    "reading": "shire",
+    "code": "cr-jou1-1002",
+    "index": 1002
+  },
+  {
+    "surface": "もどし",
+    "reading": "modoshi",
+    "code": "cr-jou1-1003",
+    "index": 1003
+  },
+  {
+    "surface": "抜かす",
+    "reading": "nukasu",
+    "code": "cr-jou1-1004",
+    "index": 1004
+  },
+  {
+    "surface": "吹き止ん",
+    "reading": "fukiyan",
+    "code": "cr-jou1-1005",
+    "index": 1005
+  },
+  {
+    "surface": "取りつか",
+    "reading": "toritsuka",
+    "code": "cr-jou1-1006",
+    "index": 1006
+  },
+  {
+    "surface": "成さ",
+    "reading": "nasa",
+    "code": "cr-jou1-1007",
+    "index": 1007
+  },
+  {
+    "surface": "跳ね返っ",
+    "reading": "hanekae",
+    "code": "cr-jou1-1008",
+    "index": 1008
+  },
+  {
+    "surface": "迷っ",
+    "reading": "mayo",
+    "code": "cr-jou1-1009",
+    "index": 1009
+  },
+  {
+    "surface": "囲ん",
+    "reading": "kakon",
+    "code": "cr-jou1-1010",
+    "index": 1010
+  },
+  {
+    "surface": "暖める",
+    "reading": "atatameru",
+    "code": "cr-jou1-1011",
+    "index": 1011
+  },
+  {
+    "surface": "壊す",
+    "reading": "kowasu",
+    "code": "cr-jou1-1012",
+    "index": 1012
+  },
+  {
+    "surface": "付か",
+    "reading": "tsuka",
+    "code": "cr-jou1-1013",
+    "index": 1013
+  },
+  {
+    "surface": "乗り違え",
+    "reading": "norichigae",
+    "code": "cr-jou1-1014",
+    "index": 1014
+  },
+  {
+    "surface": "よじ登っ",
+    "reading": "yojinobo",
+    "code": "cr-jou1-1015",
+    "index": 1015
+  },
+  {
+    "surface": "とりまとめ",
+    "reading": "torimatome",
+    "code": "cr-jou1-1016",
+    "index": 1016
+  },
+  {
+    "surface": "働かし",
+    "reading": "hatarakashi",
+    "code": "cr-jou1-1017",
+    "index": 1017
+  },
+  {
+    "surface": "ずらかれ",
+    "reading": "zurakare",
+    "code": "cr-jou1-1018",
+    "index": 1018
+  },
+  {
+    "surface": "深める",
+    "reading": "fukameru",
+    "code": "cr-jou1-1019",
+    "index": 1019
+  },
+  {
+    "surface": "引きこもっ",
+    "reading": "hikikomo",
+    "code": "cr-jou1-1020",
+    "index": 1020
+  },
+  {
+    "surface": "貰わ",
+    "reading": "morawa",
+    "code": "cr-jou1-1021",
+    "index": 1021
+  },
+  {
+    "surface": "にらみ",
+    "reading": "nirami",
+    "code": "cr-jou1-1022",
+    "index": 1022
+  },
+  {
+    "surface": "獲っ",
+    "reading": "to",
+    "code": "cr-jou1-1023",
+    "index": 1023
+  },
+  {
+    "surface": "うかる",
+    "reading": "ukaru",
+    "code": "cr-jou1-1024",
+    "index": 1024
+  },
+  {
+    "surface": "引き込ま",
+    "reading": "hikikoma",
+    "code": "cr-jou1-1025",
+    "index": 1025
+  },
+  {
+    "surface": "落ちぶれ",
+    "reading": "ochibure",
+    "code": "cr-jou1-1026",
+    "index": 1026
+  },
+  {
+    "surface": "燃え",
+    "reading": "moe",
+    "code": "cr-jou1-1027",
+    "index": 1027
+  },
+  {
+    "surface": "めかしこん",
+    "reading": "mekashikon",
+    "code": "cr-jou1-1028",
+    "index": 1028
+  },
+  {
+    "surface": "続け",
+    "reading": "tsuzuke",
+    "code": "cr-jou1-1029",
+    "index": 1029
+  },
+  {
+    "surface": "ぬい",
+    "reading": "nui",
+    "code": "cr-jou1-1030",
+    "index": 1030
+  },
+  {
+    "surface": "貼り合わせる",
+    "reading": "hariawaseru",
+    "code": "cr-jou1-1031",
+    "index": 1031
+  },
+  {
+    "surface": "上回る",
+    "reading": "uwamawaru",
+    "code": "cr-jou1-1032",
+    "index": 1032
+  },
+  {
+    "surface": "行き",
+    "reading": "iki",
+    "code": "cr-jou1-1033",
+    "index": 1033
+  },
+  {
+    "surface": "逸す",
+    "reading": "issu",
+    "code": "cr-jou1-1034",
+    "index": 1034
+  },
+  {
+    "surface": "目立ち",
+    "reading": "medachi",
+    "code": "cr-jou1-1035",
+    "index": 1035
+  },
+  {
+    "surface": "ほとばしる",
+    "reading": "hotobashiru",
+    "code": "cr-jou1-1036",
+    "index": 1036
+  },
+  {
+    "surface": "待ちかまえ",
+    "reading": "machikamae",
+    "code": "cr-jou1-1037",
+    "index": 1037
+  },
+  {
+    "surface": "しがみつき",
+    "reading": "shigamitsuki",
+    "code": "cr-jou1-1038",
+    "index": 1038
+  },
+  {
+    "surface": "引き入れる",
+    "reading": "hikiireru",
+    "code": "cr-jou1-1039",
+    "index": 1039
+  },
+  {
+    "surface": "省き",
+    "reading": "habuki",
+    "code": "cr-jou1-1040",
+    "index": 1040
+  },
+  {
+    "surface": "取れる",
+    "reading": "toreru",
+    "code": "cr-jou1-1041",
+    "index": 1041
+  },
+  {
+    "surface": "なろう",
+    "reading": "narou",
+    "code": "cr-jou1-1042",
+    "index": 1042
+  },
+  {
+    "surface": "裂ける",
+    "reading": "sakeru",
+    "code": "cr-jou1-1043",
+    "index": 1043
+  },
+  {
+    "surface": "見つけよう",
+    "reading": "mitsukeyou",
+    "code": "cr-jou1-1044",
+    "index": 1044
+  },
+  {
+    "surface": "跳ね飛ばさ",
+    "reading": "hanetobasa",
+    "code": "cr-jou1-1045",
+    "index": 1045
+  },
+  {
+    "surface": "間違える",
+    "reading": "machigaeru",
+    "code": "cr-jou1-1046",
+    "index": 1046
+  },
+  {
+    "surface": "ひっくり返る",
+    "reading": "hikkurikaeru",
+    "code": "cr-jou1-1047",
+    "index": 1047
+  },
+  {
+    "surface": "駆け上がっ",
+    "reading": "kakeaga",
+    "code": "cr-jou1-1048",
+    "index": 1048
+  },
+  {
+    "surface": "追い落とさ",
+    "reading": "oiotosa",
+    "code": "cr-jou1-1049",
+    "index": 1049
+  },
+  {
+    "surface": "荒れる",
+    "reading": "areru",
+    "code": "cr-jou1-1050",
+    "index": 1050
+  },
+  {
+    "surface": "追いつか",
+    "reading": "oitsuka",
+    "code": "cr-jou1-1051",
+    "index": 1051
+  },
+  {
+    "surface": "目立つ",
+    "reading": "medatsu",
+    "code": "cr-jou1-1052",
+    "index": 1052
+  },
+  {
+    "surface": "にらみ付け",
+    "reading": "niramitsuke",
+    "code": "cr-jou1-1053",
+    "index": 1053
+  },
+  {
+    "surface": "歩き回っ",
+    "reading": "arukimawa",
+    "code": "cr-jou1-1054",
+    "index": 1054
+  },
+  {
+    "surface": "知らさ",
+    "reading": "shirasa",
+    "code": "cr-jou1-1055",
+    "index": 1055
+  },
+  {
+    "surface": "書き留める",
+    "reading": "kakitomeru",
+    "code": "cr-jou1-1056",
+    "index": 1056
+  },
+  {
+    "surface": "飲み込ま",
+    "reading": "nomikoma",
+    "code": "cr-jou1-1057",
+    "index": 1057
+  },
+  {
+    "surface": "のせる",
+    "reading": "noseru",
+    "code": "cr-jou1-1058",
+    "index": 1058
+  },
+  {
+    "surface": "はいら",
+    "reading": "haira",
+    "code": "cr-jou1-1059",
+    "index": 1059
+  },
+  {
+    "surface": "もらう",
+    "reading": "morau",
+    "code": "cr-jou1-1060",
+    "index": 1060
+  },
+  {
+    "surface": "モテ",
+    "reading": "mote",
+    "code": "cr-jou1-1061",
+    "index": 1061
+  },
+  {
+    "surface": "いらっしゃい",
+    "reading": "irasshai",
+    "code": "cr-jou1-1062",
+    "index": 1062
+  },
+  {
+    "surface": "透け",
+    "reading": "suke",
+    "code": "cr-jou1-1063",
+    "index": 1063
+  },
+  {
+    "surface": "立ち上がっ",
+    "reading": "tachiaga",
+    "code": "cr-jou1-1064",
+    "index": 1064
+  },
+  {
+    "surface": "みせびらかす",
+    "reading": "misebirakasu",
+    "code": "cr-jou1-1065",
+    "index": 1065
+  },
+  {
+    "surface": "くわさ",
+    "reading": "kuwasa",
+    "code": "cr-jou1-1066",
+    "index": 1066
+  },
+  {
+    "surface": "導い",
+    "reading": "michibii",
+    "code": "cr-jou1-1067",
+    "index": 1067
+  },
+  {
+    "surface": "逃げよう",
+    "reading": "nigeyou",
+    "code": "cr-jou1-1068",
+    "index": 1068
+  },
+  {
+    "surface": "でる",
+    "reading": "deru",
+    "code": "cr-jou1-1069",
+    "index": 1069
+  },
+  {
+    "surface": "取り払おう",
+    "reading": "toriharaou",
+    "code": "cr-jou1-1070",
+    "index": 1070
+  },
+  {
+    "surface": "図っ",
+    "reading": "zu",
+    "code": "cr-jou1-1071",
+    "index": 1071
+  },
+  {
+    "surface": "知っ",
+    "reading": "shi",
+    "code": "cr-jou1-1072",
+    "index": 1072
+  },
+  {
+    "surface": "占め",
+    "reading": "shime",
+    "code": "cr-jou1-1073",
+    "index": 1073
+  },
+  {
+    "surface": "通りかかっ",
+    "reading": "toorikaka",
+    "code": "cr-jou1-1074",
+    "index": 1074
+  },
+  {
+    "surface": "演じ",
+    "reading": "enji",
+    "code": "cr-jou1-1075",
+    "index": 1075
+  },
+  {
+    "surface": "ねむっ",
+    "reading": "nemu",
+    "code": "cr-jou1-1076",
+    "index": 1076
+  },
+  {
+    "surface": "動か",
+    "reading": "ugoka",
+    "code": "cr-jou1-1077",
+    "index": 1077
+  },
+  {
+    "surface": "仕舞っ",
+    "reading": "shima",
+    "code": "cr-jou1-1078",
+    "index": 1078
+  },
+  {
+    "surface": "駆け巡っ",
+    "reading": "kakemegu",
+    "code": "cr-jou1-1079",
+    "index": 1079
+  },
+  {
+    "surface": "いらしゃい",
+    "reading": "irashai",
+    "code": "cr-jou1-1080",
+    "index": 1080
+  },
+  {
+    "surface": "悔やん",
+    "reading": "kuyan",
+    "code": "cr-jou1-1081",
+    "index": 1081
+  },
+  {
+    "surface": "肥え",
+    "reading": "koe",
+    "code": "cr-jou1-1082",
+    "index": 1082
+  },
+  {
+    "surface": "ふさぎ込む",
+    "reading": "fusagikomu",
+    "code": "cr-jou1-1083",
+    "index": 1083
+  },
+  {
+    "surface": "たれこめ",
+    "reading": "tarekome",
+    "code": "cr-jou1-1084",
+    "index": 1084
+  },
+  {
+    "surface": "書く",
+    "reading": "kaku",
+    "code": "cr-jou1-1085",
+    "index": 1085
+  },
+  {
+    "surface": "頂き",
+    "reading": "itadaki",
+    "code": "cr-jou1-1086",
+    "index": 1086
+  },
+  {
+    "surface": "誉めちぎっ",
+    "reading": "homechigi",
+    "code": "cr-jou1-1087",
+    "index": 1087
+  },
+  {
+    "surface": "聞こえる",
+    "reading": "kikoeru",
+    "code": "cr-jou1-1088",
+    "index": 1088
+  },
+  {
+    "surface": "使い切っ",
+    "reading": "tsukaiki",
+    "code": "cr-jou1-1089",
+    "index": 1089
+  },
+  {
+    "surface": "語りかけ",
+    "reading": "katarikake",
+    "code": "cr-jou1-1090",
+    "index": 1090
+  },
+  {
+    "surface": "取り締まる",
+    "reading": "torishimaru",
+    "code": "cr-jou1-1091",
+    "index": 1091
+  },
+  {
+    "surface": "あざ笑っ",
+    "reading": "azawara",
+    "code": "cr-jou1-1092",
+    "index": 1092
+  },
+  {
+    "surface": "たわん",
+    "reading": "tawan",
+    "code": "cr-jou1-1093",
+    "index": 1093
+  },
+  {
+    "surface": "なくなり",
+    "reading": "nakunari",
+    "code": "cr-jou1-1094",
+    "index": 1094
+  },
+  {
+    "surface": "つきまとっ",
+    "reading": "tsukimato",
+    "code": "cr-jou1-1095",
+    "index": 1095
+  },
+  {
+    "surface": "教わっ",
+    "reading": "osowa",
+    "code": "cr-jou1-1096",
+    "index": 1096
+  },
+  {
+    "surface": "読める",
+    "reading": "yomeru",
+    "code": "cr-jou1-1097",
+    "index": 1097
+  },
+  {
+    "surface": "書き付けよう",
+    "reading": "kakitsukeyou",
+    "code": "cr-jou1-1098",
+    "index": 1098
+  },
+  {
+    "surface": "満ちあふれ",
+    "reading": "michiafure",
+    "code": "cr-jou1-1099",
+    "index": 1099
+  },
+  {
+    "surface": "のばす",
+    "reading": "nobasu",
+    "code": "cr-jou1-1100",
+    "index": 1100
+  },
+  {
+    "surface": "抱く",
+    "reading": "idaku",
+    "code": "cr-jou1-1101",
+    "index": 1101
+  },
+  {
+    "surface": "奮い起こし",
+    "reading": "furuiokoshi",
+    "code": "cr-jou1-1102",
+    "index": 1102
+  },
+  {
+    "surface": "混ん",
+    "reading": "kon",
+    "code": "cr-jou1-1103",
+    "index": 1103
+  },
+  {
+    "surface": "有れ",
+    "reading": "are",
+    "code": "cr-jou1-1104",
+    "index": 1104
+  },
+  {
+    "surface": "さぐっ",
+    "reading": "sagu",
+    "code": "cr-jou1-1105",
+    "index": 1105
+  },
+  {
+    "surface": "言い逃れよう",
+    "reading": "iinogareyou",
+    "code": "cr-jou1-1106",
+    "index": 1106
+  },
+  {
+    "surface": "ゆでれ",
+    "reading": "yudere",
+    "code": "cr-jou1-1107",
+    "index": 1107
+  },
+  {
+    "surface": "逃げ出し",
+    "reading": "nigedashi",
+    "code": "cr-jou1-1108",
+    "index": 1108
+  },
+  {
+    "surface": "立ち向かっ",
+    "reading": "tachimuka",
+    "code": "cr-jou1-1109",
+    "index": 1109
+  },
+  {
+    "surface": "躍っ",
+    "reading": "odo",
+    "code": "cr-jou1-1110",
+    "index": 1110
+  },
+  {
+    "surface": "つきまとう",
+    "reading": "tsukimatou",
+    "code": "cr-jou1-1111",
+    "index": 1111
+  },
+  {
+    "surface": "補おう",
+    "reading": "oginaou",
+    "code": "cr-jou1-1112",
+    "index": 1112
+  },
+  {
+    "surface": "くらむ",
+    "reading": "kuramu",
+    "code": "cr-jou1-1113",
+    "index": 1113
+  },
+  {
+    "surface": "立ち向かい",
+    "reading": "tachimukai",
+    "code": "cr-jou1-1114",
+    "index": 1114
+  },
+  {
+    "surface": "浮かん",
+    "reading": "ukan",
+    "code": "cr-jou1-1115",
+    "index": 1115
+  },
+  {
+    "surface": "ねじ込ん",
+    "reading": "nejikon",
+    "code": "cr-jou1-1116",
+    "index": 1116
+  },
+  {
+    "surface": "うけたまわり",
+    "reading": "uketamawari",
+    "code": "cr-jou1-1117",
+    "index": 1117
+  },
+  {
+    "surface": "なりあがっ",
+    "reading": "nariaga",
+    "code": "cr-jou1-1118",
+    "index": 1118
+  },
+  {
+    "surface": "違う",
+    "reading": "chigau",
+    "code": "cr-jou1-1119",
+    "index": 1119
+  },
+  {
+    "surface": "しがみつく",
+    "reading": "shigamitsuku",
+    "code": "cr-jou1-1120",
+    "index": 1120
+  },
+  {
+    "surface": "失くし",
+    "reading": "nakushi",
+    "code": "cr-jou1-1121",
+    "index": 1121
+  },
+  {
+    "surface": "とどまる",
+    "reading": "todomaru",
+    "code": "cr-jou1-1122",
+    "index": 1122
+  },
+  {
+    "surface": "担い",
+    "reading": "ninai",
+    "code": "cr-jou1-1123",
+    "index": 1123
+  },
+  {
+    "surface": "つけあがる",
+    "reading": "tsukeagaru",
+    "code": "cr-jou1-1124",
+    "index": 1124
+  },
+  {
+    "surface": "しでかそう",
+    "reading": "shidekasou",
+    "code": "cr-jou1-1125",
+    "index": 1125
+  },
+  {
+    "surface": "包ま",
+    "reading": "tsutsuma",
+    "code": "cr-jou1-1126",
+    "index": 1126
+  },
+  {
+    "surface": "きりとっ",
+    "reading": "kirito",
+    "code": "cr-jou1-1127",
+    "index": 1127
+  },
+  {
+    "surface": "慎ん",
+    "reading": "tsutsushin",
+    "code": "cr-jou1-1128",
+    "index": 1128
+  },
+  {
+    "surface": "譲ら",
+    "reading": "yuzura",
+    "code": "cr-jou1-1129",
+    "index": 1129
+  },
+  {
+    "surface": "跳び上がら",
+    "reading": "tobiagara",
+    "code": "cr-jou1-1130",
+    "index": 1130
+  },
+  {
+    "surface": "からかわ",
+    "reading": "karakawa",
+    "code": "cr-jou1-1131",
+    "index": 1131
+  },
+  {
+    "surface": "並べ",
+    "reading": "narabe",
+    "code": "cr-jou1-1132",
+    "index": 1132
+  },
+  {
+    "surface": "いつわっ",
+    "reading": "itsuwa",
+    "code": "cr-jou1-1133",
+    "index": 1133
+  },
+  {
+    "surface": "まもら",
+    "reading": "mamora",
+    "code": "cr-jou1-1134",
+    "index": 1134
+  },
+  {
+    "surface": "訳せれ",
+    "reading": "yakusere",
+    "code": "cr-jou1-1135",
+    "index": 1135
+  },
+  {
+    "surface": "置か",
+    "reading": "oka",
+    "code": "cr-jou1-1136",
+    "index": 1136
+  },
+  {
+    "surface": "習っ",
+    "reading": "nara",
+    "code": "cr-jou1-1137",
+    "index": 1137
+  },
+  {
+    "surface": "流す",
+    "reading": "nagasu",
+    "code": "cr-jou1-1138",
+    "index": 1138
+  },
+  {
+    "surface": "入り交じっ",
+    "reading": "irimaji",
+    "code": "cr-jou1-1139",
+    "index": 1139
+  },
+  {
+    "surface": "下る",
+    "reading": "kudaru",
+    "code": "cr-jou1-1140",
+    "index": 1140
+  },
+  {
+    "surface": "持ち歩か",
+    "reading": "mochiaruka",
+    "code": "cr-jou1-1141",
+    "index": 1141
+  },
+  {
+    "surface": "打ち砕く",
+    "reading": "uchikudaku",
+    "code": "cr-jou1-1142",
+    "index": 1142
+  },
+  {
+    "surface": "ひっかかる",
+    "reading": "hikkakaru",
+    "code": "cr-jou1-1143",
+    "index": 1143
+  },
+  {
+    "surface": "取り扱わ",
+    "reading": "toriatsukawa",
+    "code": "cr-jou1-1144",
+    "index": 1144
+  },
+  {
+    "surface": "苛立っ",
+    "reading": "irada",
+    "code": "cr-jou1-1145",
+    "index": 1145
+  },
+  {
+    "surface": "存じ",
+    "reading": "zonji",
+    "code": "cr-jou1-1146",
+    "index": 1146
+  },
+  {
+    "surface": "たくらん",
+    "reading": "takuran",
+    "code": "cr-jou1-1147",
+    "index": 1147
+  },
+  {
+    "surface": "濡らし",
+    "reading": "nurashi",
+    "code": "cr-jou1-1148",
+    "index": 1148
+  },
+  {
+    "surface": "覗き込む",
+    "reading": "nozokikomu",
+    "code": "cr-jou1-1149",
+    "index": 1149
+  },
+  {
+    "surface": "かくまおう",
+    "reading": "kakumaou",
+    "code": "cr-jou1-1150",
+    "index": 1150
+  },
+  {
+    "surface": "逃げる",
+    "reading": "nigeru",
+    "code": "cr-jou1-1151",
+    "index": 1151
+  },
+  {
+    "surface": "泊まっ",
+    "reading": "toma",
+    "code": "cr-jou1-1152",
+    "index": 1152
+  },
+  {
+    "surface": "通り過ぎる",
+    "reading": "toorisugiru",
+    "code": "cr-jou1-1153",
+    "index": 1153
+  },
+  {
+    "surface": "越え",
+    "reading": "koe",
+    "code": "cr-jou1-1154",
+    "index": 1154
+  },
+  {
+    "surface": "害し",
+    "reading": "gaishi",
+    "code": "cr-jou1-1155",
+    "index": 1155
+  },
+  {
+    "surface": "聞い",
+    "reading": "kii",
+    "code": "cr-jou1-1156",
+    "index": 1156
+  },
+  {
+    "surface": "凍る",
+    "reading": "kooru",
+    "code": "cr-jou1-1157",
+    "index": 1157
+  },
+  {
+    "surface": "填まり",
+    "reading": "hamari",
+    "code": "cr-jou1-1158",
+    "index": 1158
+  },
+  {
+    "surface": "妨げる",
+    "reading": "samatageru",
+    "code": "cr-jou1-1159",
+    "index": 1159
+  },
+  {
+    "surface": "満ち溢れ",
+    "reading": "michiafure",
+    "code": "cr-jou1-1160",
+    "index": 1160
+  },
+  {
+    "surface": "取っ組み",
+    "reading": "tokkumi",
+    "code": "cr-jou1-1161",
+    "index": 1161
+  },
+  {
+    "surface": "くずれる",
+    "reading": "kuzureru",
+    "code": "cr-jou1-1162",
+    "index": 1162
+  },
+  {
+    "surface": "叱る",
+    "reading": "shikaru",
+    "code": "cr-jou1-1163",
+    "index": 1163
+  },
+  {
+    "surface": "引き受ける",
+    "reading": "hikiukeru",
+    "code": "cr-jou1-1164",
+    "index": 1164
+  },
+  {
+    "surface": "ゆすり取っ",
+    "reading": "yusurito",
+    "code": "cr-jou1-1165",
+    "index": 1165
+  },
+  {
+    "surface": "のばし",
+    "reading": "nobashi",
+    "code": "cr-jou1-1166",
+    "index": 1166
+  },
+  {
+    "surface": "遭っ",
+    "reading": "a",
+    "code": "cr-jou1-1167",
+    "index": 1167
+  },
+  {
+    "surface": "気づかっ",
+    "reading": "kizuka",
+    "code": "cr-jou1-1168",
+    "index": 1168
+  },
+  {
+    "surface": "あたえ",
+    "reading": "atae",
+    "code": "cr-jou1-1169",
+    "index": 1169
+  },
+  {
+    "surface": "切り抜い",
+    "reading": "kirinui",
+    "code": "cr-jou1-1170",
+    "index": 1170
+  },
+  {
+    "surface": "抱える",
+    "reading": "kakaeru",
+    "code": "cr-jou1-1171",
+    "index": 1171
+  },
+  {
+    "surface": "きめ",
+    "reading": "kime",
+    "code": "cr-jou1-1172",
+    "index": 1172
+  },
+  {
+    "surface": "省い",
+    "reading": "habui",
+    "code": "cr-jou1-1173",
+    "index": 1173
+  },
+  {
+    "surface": "要し",
+    "reading": "youshi",
+    "code": "cr-jou1-1174",
+    "index": 1174
+  },
+  {
+    "surface": "笑う",
+    "reading": "warau",
+    "code": "cr-jou1-1175",
+    "index": 1175
+  },
+  {
+    "surface": "刈っ",
+    "reading": "ka",
+    "code": "cr-jou1-1176",
+    "index": 1176
+  },
+  {
+    "surface": "望ま",
+    "reading": "nozoma",
+    "code": "cr-jou1-1177",
+    "index": 1177
+  },
+  {
+    "surface": "はかどり",
+    "reading": "hakadori",
+    "code": "cr-jou1-1178",
+    "index": 1178
+  },
+  {
+    "surface": "間に合わ",
+    "reading": "maniawa",
+    "code": "cr-jou1-1179",
+    "index": 1179
+  },
+  {
+    "surface": "若返っ",
+    "reading": "wakagae",
+    "code": "cr-jou1-1180",
+    "index": 1180
+  },
+  {
+    "surface": "聞き",
+    "reading": "kiki",
+    "code": "cr-jou1-1181",
+    "index": 1181
+  },
+  {
+    "surface": "使いこなせ",
+    "reading": "tsukaikonase",
+    "code": "cr-jou1-1182",
+    "index": 1182
+  },
+  {
+    "surface": "要する",
+    "reading": "yousuru",
+    "code": "cr-jou1-1183",
+    "index": 1183
+  },
+  {
+    "surface": "引き離す",
+    "reading": "hikihanasu",
+    "code": "cr-jou1-1184",
+    "index": 1184
+  },
+  {
+    "surface": "貯めよう",
+    "reading": "tameyou",
+    "code": "cr-jou1-1185",
+    "index": 1185
+  },
+  {
+    "surface": "でしゃばら",
+    "reading": "deshabara",
+    "code": "cr-jou1-1186",
+    "index": 1186
+  },
+  {
+    "surface": "せがん",
+    "reading": "segan",
+    "code": "cr-jou1-1187",
+    "index": 1187
+  },
+  {
+    "surface": "こまねい",
+    "reading": "komanei",
+    "code": "cr-jou1-1188",
+    "index": 1188
+  },
+  {
+    "surface": "鳴い",
+    "reading": "nai",
+    "code": "cr-jou1-1189",
+    "index": 1189
+  },
+  {
+    "surface": "渡っ",
+    "reading": "wata",
+    "code": "cr-jou1-1190",
+    "index": 1190
+  },
+  {
+    "surface": "帰する",
+    "reading": "kisuru",
+    "code": "cr-jou1-1191",
+    "index": 1191
+  },
+  {
+    "surface": "替わっ",
+    "reading": "kawa",
+    "code": "cr-jou1-1192",
+    "index": 1192
+  },
+  {
+    "surface": "務める",
+    "reading": "tsutomeru",
+    "code": "cr-jou1-1193",
+    "index": 1193
+  },
+  {
+    "surface": "急が",
+    "reading": "isoga",
+    "code": "cr-jou1-1194",
+    "index": 1194
+  },
+  {
+    "surface": "帰る",
+    "reading": "kaeru",
+    "code": "cr-jou1-1195",
+    "index": 1195
+  },
+  {
+    "surface": "し終える",
+    "reading": "shioeru",
+    "code": "cr-jou1-1196",
+    "index": 1196
+  },
+  {
+    "surface": "立ち上がる",
+    "reading": "tachiagaru",
+    "code": "cr-jou1-1197",
+    "index": 1197
+  },
+  {
+    "surface": "泳が",
+    "reading": "eiga",
+    "code": "cr-jou1-1198",
+    "index": 1198
+  },
+  {
+    "surface": "渦巻く",
+    "reading": "uzumaku",
+    "code": "cr-jou1-1199",
+    "index": 1199
+  },
+  {
+    "surface": "使える",
+    "reading": "tsukaeru",
+    "code": "cr-jou1-1200",
+    "index": 1200
+  },
+  {
+    "surface": "削ら",
+    "reading": "kezura",
+    "code": "cr-jou1-1201",
+    "index": 1201
+  },
+  {
+    "surface": "発する",
+    "reading": "hassuru",
+    "code": "cr-jou1-1202",
+    "index": 1202
+  },
+  {
+    "surface": "あるきまわっ",
+    "reading": "arukimawa",
+    "code": "cr-jou1-1203",
+    "index": 1203
+  },
+  {
+    "surface": "始まら",
+    "reading": "hajimara",
+    "code": "cr-jou1-1204",
+    "index": 1204
+  },
+  {
+    "surface": "並ぶ",
+    "reading": "narabu",
+    "code": "cr-jou1-1205",
+    "index": 1205
+  },
+  {
+    "surface": "うる",
+    "reading": "uru",
+    "code": "cr-jou1-1206",
+    "index": 1206
+  },
+  {
+    "surface": "成し",
+    "reading": "nashi",
+    "code": "cr-jou1-1207",
+    "index": 1207
+  },
+  {
+    "surface": "食いちぎっ",
+    "reading": "kuichigi",
+    "code": "cr-jou1-1208",
+    "index": 1208
+  },
+  {
+    "surface": "すがりつい",
+    "reading": "sugaritsui",
+    "code": "cr-jou1-1209",
+    "index": 1209
+  },
+  {
+    "surface": "閉め",
+    "reading": "shime",
+    "code": "cr-jou1-1210",
+    "index": 1210
+  },
+  {
+    "surface": "見通す",
+    "reading": "mitoosu",
+    "code": "cr-jou1-1211",
+    "index": 1211
+  },
+  {
+    "surface": "学ん",
+    "reading": "manan",
+    "code": "cr-jou1-1212",
+    "index": 1212
+  },
+  {
+    "surface": "保つ",
+    "reading": "tamotsu",
+    "code": "cr-jou1-1213",
+    "index": 1213
+  },
+  {
+    "surface": "逢わ",
+    "reading": "awa",
+    "code": "cr-jou1-1214",
+    "index": 1214
+  },
+  {
+    "surface": "飼わ",
+    "reading": "kawa",
+    "code": "cr-jou1-1215",
+    "index": 1215
+  },
+  {
+    "surface": "紛らわせる",
+    "reading": "magirawaseru",
+    "code": "cr-jou1-1216",
+    "index": 1216
+  },
+  {
+    "surface": "攻め",
+    "reading": "seme",
+    "code": "cr-jou1-1217",
+    "index": 1217
+  },
+  {
+    "surface": "学ぶ",
+    "reading": "manabu",
+    "code": "cr-jou1-1218",
+    "index": 1218
+  },
+  {
+    "surface": "湿らし",
+    "reading": "shimerashi",
+    "code": "cr-jou1-1219",
+    "index": 1219
+  },
+  {
+    "surface": "悲しん",
+    "reading": "kanashin",
+    "code": "cr-jou1-1220",
+    "index": 1220
+  },
+  {
+    "surface": "養わ",
+    "reading": "yashinawa",
+    "code": "cr-jou1-1221",
+    "index": 1221
+  },
+  {
+    "surface": "なすりつけ",
+    "reading": "nasuritsuke",
+    "code": "cr-jou1-1222",
+    "index": 1222
+  },
+  {
+    "surface": "引い",
+    "reading": "hii",
+    "code": "cr-jou1-1223",
+    "index": 1223
+  },
+  {
+    "surface": "話さ",
+    "reading": "hanasa",
+    "code": "cr-jou1-1224",
+    "index": 1224
+  },
+  {
+    "surface": "遭い",
+    "reading": "ai",
+    "code": "cr-jou1-1225",
+    "index": 1225
+  },
+  {
+    "surface": "見逃し",
+    "reading": "minogashi",
+    "code": "cr-jou1-1226",
+    "index": 1226
+  },
+  {
+    "surface": "粟立つ",
+    "reading": "awadatsu",
+    "code": "cr-jou1-1227",
+    "index": 1227
+  },
+  {
+    "surface": "踏み",
+    "reading": "fumi",
+    "code": "cr-jou1-1228",
+    "index": 1228
+  },
+  {
+    "surface": "荒らす",
+    "reading": "arasu",
+    "code": "cr-jou1-1229",
+    "index": 1229
+  },
+  {
+    "surface": "固まる",
+    "reading": "katamaru",
+    "code": "cr-jou1-1230",
+    "index": 1230
+  },
+  {
+    "surface": "退け",
+    "reading": "shirizoke",
+    "code": "cr-jou1-1231",
+    "index": 1231
+  },
+  {
+    "surface": "残っ",
+    "reading": "noko",
+    "code": "cr-jou1-1232",
+    "index": 1232
+  },
+  {
+    "surface": "集め",
+    "reading": "atsume",
+    "code": "cr-jou1-1233",
+    "index": 1233
+  },
+  {
+    "surface": "励まさ",
+    "reading": "hagemasa",
+    "code": "cr-jou1-1234",
+    "index": 1234
+  },
+  {
+    "surface": "思い直し",
+    "reading": "omoinaoshi",
+    "code": "cr-jou1-1235",
+    "index": 1235
+  },
+  {
+    "surface": "当てはまる",
+    "reading": "atehamaru",
+    "code": "cr-jou1-1236",
+    "index": 1236
+  },
+  {
+    "surface": "恵まれ",
+    "reading": "megumare",
+    "code": "cr-jou1-1237",
+    "index": 1237
+  },
+  {
+    "surface": "覗く",
+    "reading": "nozoku",
+    "code": "cr-jou1-1238",
+    "index": 1238
+  },
+  {
+    "surface": "悩ま",
+    "reading": "nayama",
+    "code": "cr-jou1-1239",
+    "index": 1239
+  },
+  {
+    "surface": "負う",
+    "reading": "ou",
+    "code": "cr-jou1-1240",
+    "index": 1240
+  },
+  {
+    "surface": "はしゃい",
+    "reading": "hashai",
+    "code": "cr-jou1-1241",
+    "index": 1241
+  },
+  {
+    "surface": "隠す",
+    "reading": "kakusu",
+    "code": "cr-jou1-1242",
+    "index": 1242
+  },
+  {
+    "surface": "発せ",
+    "reading": "hasse",
+    "code": "cr-jou1-1243",
+    "index": 1243
+  },
+  {
+    "surface": "こらえよう",
+    "reading": "koraeyou",
+    "code": "cr-jou1-1244",
+    "index": 1244
+  },
+  {
+    "surface": "立ちふさがっ",
+    "reading": "tachifusaga",
+    "code": "cr-jou1-1245",
+    "index": 1245
+  },
+  {
+    "surface": "思いとどまっ",
+    "reading": "omoitodoma",
+    "code": "cr-jou1-1246",
+    "index": 1246
+  },
+  {
+    "surface": "領し",
+    "reading": "ryoushi",
+    "code": "cr-jou1-1247",
+    "index": 1247
+  },
+  {
+    "surface": "取り計らっ",
+    "reading": "torihakara",
+    "code": "cr-jou1-1248",
+    "index": 1248
+  },
+  {
+    "surface": "俯い",
+    "reading": "utsumui",
+    "code": "cr-jou1-1249",
+    "index": 1249
+  },
+  {
+    "surface": "抱え込み",
+    "reading": "kakaekomi",
+    "code": "cr-jou1-1250",
+    "index": 1250
+  },
+  {
+    "surface": "いく",
+    "reading": "iku",
+    "code": "cr-jou1-1251",
+    "index": 1251
+  },
+  {
+    "surface": "みわける",
+    "reading": "miwakeru",
+    "code": "cr-jou1-1252",
+    "index": 1252
+  },
+  {
+    "surface": "泣きわめい",
+    "reading": "nakiwamei",
+    "code": "cr-jou1-1253",
+    "index": 1253
+  },
+  {
+    "surface": "引きおろし",
+    "reading": "hikioroshi",
+    "code": "cr-jou1-1254",
+    "index": 1254
+  },
+  {
+    "surface": "作る",
+    "reading": "tsukuru",
+    "code": "cr-jou1-1255",
+    "index": 1255
+  },
+  {
+    "surface": "貸さ",
+    "reading": "kasa",
+    "code": "cr-jou1-1256",
+    "index": 1256
+  },
+  {
+    "surface": "助け",
+    "reading": "tasuke",
+    "code": "cr-jou1-1257",
+    "index": 1257
+  },
+  {
+    "surface": "作れ",
+    "reading": "tsukure",
+    "code": "cr-jou1-1258",
+    "index": 1258
+  },
+  {
+    "surface": "しぼり取っ",
+    "reading": "shiborito",
+    "code": "cr-jou1-1259",
+    "index": 1259
+  },
+  {
+    "surface": "劣っ",
+    "reading": "oto",
+    "code": "cr-jou1-1260",
+    "index": 1260
+  },
+  {
+    "surface": "手伝う",
+    "reading": "tetsudau",
+    "code": "cr-jou1-1261",
+    "index": 1261
+  },
+  {
+    "surface": "くっつけよう",
+    "reading": "kuttsukeyou",
+    "code": "cr-jou1-1262",
+    "index": 1262
+  },
+  {
+    "surface": "なまけ",
+    "reading": "namake",
+    "code": "cr-jou1-1263",
+    "index": 1263
+  },
+  {
+    "surface": "おくっ",
+    "reading": "oku",
+    "code": "cr-jou1-1264",
+    "index": 1264
+  },
+  {
+    "surface": "切り抜ける",
+    "reading": "kirinukeru",
+    "code": "cr-jou1-1265",
+    "index": 1265
+  },
+  {
+    "surface": "降っ",
+    "reading": "fu",
+    "code": "cr-jou1-1266",
+    "index": 1266
+  },
+  {
+    "surface": "認めよう",
+    "reading": "mitomeyou",
+    "code": "cr-jou1-1267",
+    "index": 1267
+  },
+  {
+    "surface": "嫌う",
+    "reading": "kirau",
+    "code": "cr-jou1-1268",
+    "index": 1268
+  },
+  {
+    "surface": "づい",
+    "reading": "zui",
+    "code": "cr-jou1-1269",
+    "index": 1269
+  },
+  {
+    "surface": "たどり着く",
+    "reading": "tadoritsuku",
+    "code": "cr-jou1-1270",
+    "index": 1270
+  },
+  {
+    "surface": "向く",
+    "reading": "muku",
+    "code": "cr-jou1-1271",
+    "index": 1271
+  },
+  {
+    "surface": "くつろげる",
+    "reading": "kutsurogeru",
+    "code": "cr-jou1-1272",
+    "index": 1272
+  },
+  {
+    "surface": "分かれ",
+    "reading": "wakare",
+    "code": "cr-jou1-1273",
+    "index": 1273
+  },
+  {
+    "surface": "割る",
+    "reading": "wareru",
+    "code": "cr-jou1-1274",
+    "index": 1274
+  },
+  {
+    "surface": "なくし",
+    "reading": "nakushi",
+    "code": "cr-jou1-1275",
+    "index": 1275
+  },
+  {
+    "surface": "つかまろう",
+    "reading": "tsukamarou",
+    "code": "cr-jou1-1276",
+    "index": 1276
+  },
+  {
+    "surface": "とどく",
+    "reading": "todoku",
+    "code": "cr-jou1-1277",
+    "index": 1277
+  },
+  {
+    "surface": "計っ",
+    "reading": "kei",
+    "code": "cr-jou1-1278",
+    "index": 1278
+  },
+  {
+    "surface": "狂う",
+    "reading": "kuruu",
+    "code": "cr-jou1-1279",
+    "index": 1279
+  },
+  {
+    "surface": "入り込み",
+    "reading": "hairikomi",
+    "code": "cr-jou1-1280",
+    "index": 1280
+  },
+  {
+    "surface": "生きながらえ",
+    "reading": "ikinagarae",
+    "code": "cr-jou1-1281",
+    "index": 1281
+  },
+  {
+    "surface": "這え",
+    "reading": "hae",
+    "code": "cr-jou1-1282",
+    "index": 1282
+  },
+  {
+    "surface": "覆いかぶさっ",
+    "reading": "ooikabusa",
+    "code": "cr-jou1-1283",
+    "index": 1283
+  },
+  {
+    "surface": "帰し",
+    "reading": "kaeshi",
+    "code": "cr-jou1-1284",
+    "index": 1284
+  },
+  {
+    "surface": "着せ",
+    "reading": "kise",
+    "code": "cr-jou1-1285",
+    "index": 1285
+  },
+  {
+    "surface": "慌て",
+    "reading": "awate",
+    "code": "cr-jou1-1286",
+    "index": 1286
+  },
+  {
+    "surface": "生む",
+    "reading": "umu",
+    "code": "cr-jou1-1287",
+    "index": 1287
+  },
+  {
+    "surface": "静まり返っ",
+    "reading": "shizumarikae",
+    "code": "cr-jou1-1288",
+    "index": 1288
+  },
+  {
+    "surface": "もい",
+    "reading": "moi",
+    "code": "cr-jou1-1289",
+    "index": 1289
+  },
+  {
+    "surface": "しがみつい",
+    "reading": "shigamitsui",
+    "code": "cr-jou1-1290",
+    "index": 1290
+  },
+  {
+    "surface": "届ける",
+    "reading": "todokeru",
+    "code": "cr-jou1-1291",
+    "index": 1291
+  },
+  {
+    "surface": "焼ける",
+    "reading": "yakeru",
+    "code": "cr-jou1-1292",
+    "index": 1292
+  },
+  {
+    "surface": "通え",
+    "reading": "kayoe",
+    "code": "cr-jou1-1293",
+    "index": 1293
+  },
+  {
+    "surface": "付き合おう",
+    "reading": "tsukiaou",
+    "code": "cr-jou1-1294",
+    "index": 1294
+  },
+  {
+    "surface": "組み立てる",
+    "reading": "kumitateru",
+    "code": "cr-jou1-1295",
+    "index": 1295
+  },
+  {
+    "surface": "待ちこがれ",
+    "reading": "machikogare",
+    "code": "cr-jou1-1296",
+    "index": 1296
+  },
+  {
+    "surface": "続けれ",
+    "reading": "tsuzukere",
+    "code": "cr-jou1-1297",
+    "index": 1297
+  },
+  {
+    "surface": "評すれ",
+    "reading": "hyousure",
+    "code": "cr-jou1-1298",
+    "index": 1298
+  },
+  {
+    "surface": "並べれ",
+    "reading": "narabere",
+    "code": "cr-jou1-1299",
+    "index": 1299
+  },
+  {
+    "surface": "成る",
+    "reading": "naru",
+    "code": "cr-jou1-1300",
+    "index": 1300
+  },
+  {
+    "surface": "代っ",
+    "reading": "kawa",
+    "code": "cr-jou1-1301",
+    "index": 1301
+  },
+  {
+    "surface": "回ら",
+    "reading": "mawara",
+    "code": "cr-jou1-1302",
+    "index": 1302
+  },
+  {
+    "surface": "競う",
+    "reading": "kisou",
+    "code": "cr-jou1-1303",
+    "index": 1303
+  },
+  {
+    "surface": "たたきこん",
+    "reading": "tatakikon",
+    "code": "cr-jou1-1304",
+    "index": 1304
+  },
+  {
+    "surface": "著し",
+    "reading": "arawashi",
+    "code": "cr-jou1-1305",
+    "index": 1305
+  },
+  {
+    "surface": "講じる",
+    "reading": "koujiru",
+    "code": "cr-jou1-1306",
+    "index": 1306
+  },
+  {
+    "surface": "もみ合っ",
+    "reading": "momia",
+    "code": "cr-jou1-1307",
+    "index": 1307
+  },
+  {
+    "surface": "立ち向かう",
+    "reading": "tachimukau",
+    "code": "cr-jou1-1308",
+    "index": 1308
+  },
+  {
+    "surface": "終え",
+    "reading": "oe",
+    "code": "cr-jou1-1309",
+    "index": 1309
+  },
+  {
+    "surface": "譲っ",
+    "reading": "yuzu",
+    "code": "cr-jou1-1310",
+    "index": 1310
+  },
+  {
+    "surface": "書き",
+    "reading": "kaki",
+    "code": "cr-jou1-1311",
+    "index": 1311
+  },
+  {
+    "surface": "差し伸べる",
+    "reading": "sashinoberu",
+    "code": "cr-jou1-1312",
+    "index": 1312
+  },
+  {
+    "surface": "取り下げる",
+    "reading": "torisageru",
+    "code": "cr-jou1-1313",
+    "index": 1313
+  },
+  {
+    "surface": "罹っ",
+    "reading": "kaka",
+    "code": "cr-jou1-1314",
+    "index": 1314
+  },
+  {
+    "surface": "受かっ",
+    "reading": "uka",
+    "code": "cr-jou1-1315",
+    "index": 1315
+  },
+  {
+    "surface": "止め",
+    "reading": "tome",
+    "code": "cr-jou1-1316",
+    "index": 1316
+  },
+  {
+    "surface": "輝く",
+    "reading": "kagayaku",
+    "code": "cr-jou1-1317",
+    "index": 1317
+  },
+  {
+    "surface": "言う",
+    "reading": "yuu",
+    "code": "cr-jou1-1318",
+    "index": 1318
+  },
+  {
+    "surface": "始まる",
+    "reading": "hajimaru",
+    "code": "cr-jou1-1319",
+    "index": 1319
+  },
+  {
+    "surface": "突く",
+    "reading": "tsuku",
+    "code": "cr-jou1-1320",
+    "index": 1320
+  },
+  {
+    "surface": "射さ",
+    "reading": "sasa",
+    "code": "cr-jou1-1321",
+    "index": 1321
+  },
+  {
+    "surface": "立ち入ら",
+    "reading": "tachiira",
+    "code": "cr-jou1-1322",
+    "index": 1322
+  },
+  {
+    "surface": "積ん",
+    "reading": "tsun",
+    "code": "cr-jou1-1323",
+    "index": 1323
+  },
+  {
+    "surface": "たべる",
+    "reading": "taberu",
+    "code": "cr-jou1-1324",
+    "index": 1324
+  },
+  {
+    "surface": "聴か",
+    "reading": "kika",
+    "code": "cr-jou1-1325",
+    "index": 1325
+  },
+  {
+    "surface": "仕上げよう",
+    "reading": "shiageyou",
+    "code": "cr-jou1-1326",
+    "index": 1326
+  },
+  {
+    "surface": "徹する",
+    "reading": "tessuru",
+    "code": "cr-jou1-1327",
+    "index": 1327
+  },
+  {
+    "surface": "下ろす",
+    "reading": "orosu",
+    "code": "cr-jou1-1328",
+    "index": 1328
+  },
+  {
+    "surface": "結わえ",
+    "reading": "yuwae",
+    "code": "cr-jou1-1329",
+    "index": 1329
+  },
+  {
+    "surface": "すすり泣く",
+    "reading": "susurinaku",
+    "code": "cr-jou1-1330",
+    "index": 1330
+  },
+  {
+    "surface": "うらやむ",
+    "reading": "urayamu",
+    "code": "cr-jou1-1331",
+    "index": 1331
+  },
+  {
+    "surface": "そびえ",
+    "reading": "sobie",
+    "code": "cr-jou1-1332",
+    "index": 1332
+  },
+  {
+    "surface": "せびろう",
+    "reading": "sebirou",
+    "code": "cr-jou1-1333",
+    "index": 1333
+  },
+  {
+    "surface": "聞きなさ",
+    "reading": "kikinasa",
+    "code": "cr-jou1-1334",
+    "index": 1334
+  },
+  {
+    "surface": "吸う",
+    "reading": "suu",
+    "code": "cr-jou1-1335",
+    "index": 1335
+  },
+  {
+    "surface": "剃っ",
+    "reading": "so",
+    "code": "cr-jou1-1336",
+    "index": 1336
+  },
+  {
+    "surface": "立ち去る",
+    "reading": "tachisaru",
+    "code": "cr-jou1-1337",
+    "index": 1337
+  },
+  {
+    "surface": "込め",
+    "reading": "kome",
+    "code": "cr-jou1-1338",
+    "index": 1338
+  },
+  {
+    "surface": "愚痴っ",
+    "reading": "guchi",
+    "code": "cr-jou1-1339",
+    "index": 1339
+  },
+  {
+    "surface": "磨く",
+    "reading": "migaku",
+    "code": "cr-jou1-1340",
+    "index": 1340
+  },
+  {
+    "surface": "眺め",
+    "reading": "nagame",
+    "code": "cr-jou1-1341",
+    "index": 1341
+  },
+  {
+    "surface": "回す",
+    "reading": "mawasu",
+    "code": "cr-jou1-1342",
+    "index": 1342
+  },
+  {
+    "surface": "いたし",
+    "reading": "itashi",
+    "code": "cr-jou1-1343",
+    "index": 1343
+  },
+  {
+    "surface": "植え",
+    "reading": "ue",
+    "code": "cr-jou1-1344",
+    "index": 1344
+  },
+  {
+    "surface": "あてはまる",
+    "reading": "atehamaru",
+    "code": "cr-jou1-1345",
+    "index": 1345
+  },
+  {
+    "surface": "塗っ",
+    "reading": "nu",
+    "code": "cr-jou1-1346",
+    "index": 1346
+  },
+  {
+    "surface": "泳い",
+    "reading": "eii",
+    "code": "cr-jou1-1347",
+    "index": 1347
+  },
+  {
+    "surface": "ひらく",
+    "reading": "hiraku",
+    "code": "cr-jou1-1348",
+    "index": 1348
+  },
+  {
+    "surface": "話し合う",
+    "reading": "hanashiau",
+    "code": "cr-jou1-1349",
+    "index": 1349
+  },
+  {
+    "surface": "間に合っ",
+    "reading": "mania",
+    "code": "cr-jou1-1350",
+    "index": 1350
+  },
+  {
+    "surface": "患う",
+    "reading": "wazurau",
+    "code": "cr-jou1-1351",
+    "index": 1351
+  },
+  {
+    "surface": "臨み",
+    "reading": "nozomi",
+    "code": "cr-jou1-1352",
+    "index": 1352
+  },
+  {
+    "surface": "熟す",
+    "reading": "jukusu",
+    "code": "cr-jou1-1353",
+    "index": 1353
+  },
+  {
+    "surface": "妬ん",
+    "reading": "netan",
+    "code": "cr-jou1-1354",
+    "index": 1354
+  },
+  {
+    "surface": "かぶる",
+    "reading": "kaburu",
+    "code": "cr-jou1-1355",
+    "index": 1355
+  },
+  {
+    "surface": "つかまっ",
+    "reading": "tsukama",
+    "code": "cr-jou1-1356",
+    "index": 1356
+  },
+  {
+    "surface": "はさみ込ん",
+    "reading": "hasamikon",
+    "code": "cr-jou1-1357",
+    "index": 1357
+  },
+  {
+    "surface": "作り上げ",
+    "reading": "tsukuriage",
+    "code": "cr-jou1-1358",
+    "index": 1358
+  },
+  {
+    "surface": "受け",
+    "reading": "uke",
+    "code": "cr-jou1-1359",
+    "index": 1359
+  },
+  {
+    "surface": "移す",
+    "reading": "utsusu",
+    "code": "cr-jou1-1360",
+    "index": 1360
+  },
+  {
+    "surface": "示す",
+    "reading": "shimesu",
+    "code": "cr-jou1-1361",
+    "index": 1361
+  },
+  {
+    "surface": "去っ",
+    "reading": "sa",
+    "code": "cr-jou1-1362",
+    "index": 1362
+  },
+  {
+    "surface": "言い表せ",
+    "reading": "iiarawase",
+    "code": "cr-jou1-1363",
+    "index": 1363
+  },
+  {
+    "surface": "なだめよう",
+    "reading": "nadameyou",
+    "code": "cr-jou1-1364",
+    "index": 1364
+  },
+  {
+    "surface": "任せる",
+    "reading": "makaseru",
+    "code": "cr-jou1-1365",
+    "index": 1365
+  },
+  {
+    "surface": "すべりこん",
+    "reading": "suberikon",
+    "code": "cr-jou1-1366",
+    "index": 1366
+  },
+  {
+    "surface": "付い",
+    "reading": "tsui",
+    "code": "cr-jou1-1367",
+    "index": 1367
+  },
+  {
+    "surface": "憎み合っ",
+    "reading": "nikumia",
+    "code": "cr-jou1-1368",
+    "index": 1368
+  },
+  {
+    "surface": "覚め",
+    "reading": "same",
+    "code": "cr-jou1-1369",
+    "index": 1369
+  },
+  {
+    "surface": "とびぬけ",
+    "reading": "tobinuke",
+    "code": "cr-jou1-1370",
+    "index": 1370
+  },
+  {
+    "surface": "許せ",
+    "reading": "yuruse",
+    "code": "cr-jou1-1371",
+    "index": 1371
+  },
+  {
+    "surface": "はねのけ",
+    "reading": "hanenoke",
+    "code": "cr-jou1-1372",
+    "index": 1372
+  },
+  {
+    "surface": "押し流さ",
+    "reading": "oshinagasa",
+    "code": "cr-jou1-1373",
+    "index": 1373
+  },
+  {
+    "surface": "動き回っ",
+    "reading": "ugokimawa",
+    "code": "cr-jou1-1374",
+    "index": 1374
+  },
+  {
+    "surface": "まいっ",
+    "reading": "mai",
+    "code": "cr-jou1-1375",
+    "index": 1375
+  },
+  {
+    "surface": "成っ",
+    "reading": "na",
+    "code": "cr-jou1-1376",
+    "index": 1376
+  },
+  {
+    "surface": "見守っ",
+    "reading": "mimamo",
+    "code": "cr-jou1-1377",
+    "index": 1377
+  },
+  {
+    "surface": "組ん",
+    "reading": "kun",
+    "code": "cr-jou1-1378",
+    "index": 1378
+  },
+  {
+    "surface": "考え付か",
+    "reading": "kangaetsuka",
+    "code": "cr-jou1-1379",
+    "index": 1379
+  },
+  {
+    "surface": "行く",
+    "reading": "iku",
+    "code": "cr-jou1-1380",
+    "index": 1380
+  },
+  {
+    "surface": "切り開い",
+    "reading": "kirihirai",
+    "code": "cr-jou1-1381",
+    "index": 1381
+  },
+  {
+    "surface": "降れ",
+    "reading": "fure",
+    "code": "cr-jou1-1382",
+    "index": 1382
+  },
+  {
+    "surface": "慣らす",
+    "reading": "narasu",
+    "code": "cr-jou1-1383",
+    "index": 1383
+  },
+  {
+    "surface": "引っかから",
+    "reading": "hikkakara",
+    "code": "cr-jou1-1384",
+    "index": 1384
+  },
+  {
+    "surface": "飛び乗っ",
+    "reading": "tobino",
+    "code": "cr-jou1-1385",
+    "index": 1385
+  },
+  {
+    "surface": "問わ",
+    "reading": "towa",
+    "code": "cr-jou1-1386",
+    "index": 1386
+  },
+  {
+    "surface": "伴う",
+    "reading": "tomonau",
+    "code": "cr-jou1-1387",
+    "index": 1387
+  },
+  {
+    "surface": "討とう",
+    "reading": "utou",
+    "code": "cr-jou1-1388",
+    "index": 1388
+  },
+  {
+    "surface": "かけあがっ",
+    "reading": "kakeaga",
+    "code": "cr-jou1-1389",
+    "index": 1389
+  },
+  {
+    "surface": "かいくぐる",
+    "reading": "kaikuguru",
+    "code": "cr-jou1-1390",
+    "index": 1390
+  },
+  {
+    "surface": "むしり取ら",
+    "reading": "mushiritora",
+    "code": "cr-jou1-1391",
+    "index": 1391
+  },
+  {
+    "surface": "運び込ま",
+    "reading": "hakobikoma",
+    "code": "cr-jou1-1392",
+    "index": 1392
+  },
+  {
+    "surface": "打ち上げよう",
+    "reading": "uchiageyou",
+    "code": "cr-jou1-1393",
+    "index": 1393
+  },
+  {
+    "surface": "歩く",
+    "reading": "aruku",
+    "code": "cr-jou1-1394",
+    "index": 1394
+  },
+  {
+    "surface": "見渡せる",
+    "reading": "miwataseru",
+    "code": "cr-jou1-1395",
+    "index": 1395
+  },
+  {
+    "surface": "ほっつき歩い",
+    "reading": "hottsukiarui",
+    "code": "cr-jou1-1396",
+    "index": 1396
+  },
+  {
+    "surface": "吹か",
+    "reading": "fuka",
+    "code": "cr-jou1-1397",
+    "index": 1397
+  },
+  {
+    "surface": "いがみあっ",
+    "reading": "igamia",
+    "code": "cr-jou1-1398",
+    "index": 1398
+  },
+  {
+    "surface": "謝り",
+    "reading": "ayamari",
+    "code": "cr-jou1-1399",
+    "index": 1399
+  },
+  {
+    "surface": "破い",
+    "reading": "yabui",
+    "code": "cr-jou1-1400",
+    "index": 1400
+  },
+  {
+    "surface": "来る",
+    "reading": "kuru",
+    "code": "cr-jou1-1401",
+    "index": 1401
+  },
+  {
+    "surface": "吐き出す",
+    "reading": "hakidasu",
+    "code": "cr-jou1-1402",
+    "index": 1402
+  },
+  {
+    "surface": "探し",
+    "reading": "sagashi",
+    "code": "cr-jou1-1403",
+    "index": 1403
+  },
+  {
+    "surface": "でき",
+    "reading": "deki",
+    "code": "cr-jou1-1404",
+    "index": 1404
+  },
+  {
+    "surface": "まわる",
+    "reading": "mawaru",
+    "code": "cr-jou1-1405",
+    "index": 1405
+  },
+  {
+    "surface": "くらん",
+    "reading": "kuran",
+    "code": "cr-jou1-1406",
+    "index": 1406
+  },
+  {
+    "surface": "引き剥がし",
+    "reading": "hikihagashi",
+    "code": "cr-jou1-1407",
+    "index": 1407
+  },
+  {
+    "surface": "助ける",
+    "reading": "tasukeru",
+    "code": "cr-jou1-1408",
+    "index": 1408
+  },
+  {
+    "surface": "温まっ",
+    "reading": "atatama",
+    "code": "cr-jou1-1409",
+    "index": 1409
+  },
+  {
+    "surface": "求めよう",
+    "reading": "motomeyou",
+    "code": "cr-jou1-1410",
+    "index": 1410
+  },
+  {
+    "surface": "立ちあがっ",
+    "reading": "tachiaga",
+    "code": "cr-jou1-1411",
+    "index": 1411
+  },
+  {
+    "surface": "編む",
+    "reading": "amu",
+    "code": "cr-jou1-1412",
+    "index": 1412
+  },
+  {
+    "surface": "サボッ",
+    "reading": "sabo",
+    "code": "cr-jou1-1413",
+    "index": 1413
+  },
+  {
+    "surface": "飛べ",
+    "reading": "tobe",
+    "code": "cr-jou1-1414",
+    "index": 1414
+  },
+  {
+    "surface": "とりかかっ",
+    "reading": "torikaka",
+    "code": "cr-jou1-1415",
+    "index": 1415
+  },
+  {
+    "surface": "近づけ",
+    "reading": "chikazuke",
+    "code": "cr-jou1-1416",
+    "index": 1416
+  },
+  {
+    "surface": "因ん",
+    "reading": "chinan",
+    "code": "cr-jou1-1417",
+    "index": 1417
+  },
+  {
+    "surface": "ひっかい",
+    "reading": "hikkai",
+    "code": "cr-jou1-1418",
+    "index": 1418
+  },
+  {
+    "surface": "取り巻か",
+    "reading": "torimaka",
+    "code": "cr-jou1-1419",
+    "index": 1419
+  },
+  {
+    "surface": "くらまそう",
+    "reading": "kuramasou",
+    "code": "cr-jou1-1420",
+    "index": 1420
+  },
+  {
+    "surface": "返せ",
+    "reading": "kaese",
+    "code": "cr-jou1-1421",
+    "index": 1421
+  },
+  {
+    "surface": "尖ら",
+    "reading": "togara",
+    "code": "cr-jou1-1422",
+    "index": 1422
+  },
+  {
+    "surface": "あがる",
+    "reading": "agaru",
+    "code": "cr-jou1-1423",
+    "index": 1423
+  },
+  {
+    "surface": "ぶっちゃけ",
+    "reading": "butchake",
+    "code": "cr-jou1-1424",
+    "index": 1424
+  },
+  {
+    "surface": "読め",
+    "reading": "yome",
+    "code": "cr-jou1-1425",
+    "index": 1425
+  },
+  {
+    "surface": "吸わ",
+    "reading": "suwa",
+    "code": "cr-jou1-1426",
+    "index": 1426
+  },
+  {
+    "surface": "思いとどまら",
+    "reading": "omoitodomara",
+    "code": "cr-jou1-1427",
+    "index": 1427
+  },
+  {
+    "surface": "ぶち当たっ",
+    "reading": "buchiata",
+    "code": "cr-jou1-1428",
+    "index": 1428
+  },
+  {
+    "surface": "出かけよう",
+    "reading": "dekakeyou",
+    "code": "cr-jou1-1429",
+    "index": 1429
+  },
+  {
+    "surface": "引きずっ",
+    "reading": "hikizu",
+    "code": "cr-jou1-1430",
+    "index": 1430
+  },
+  {
+    "surface": "得よう",
+    "reading": "eyou",
+    "code": "cr-jou1-1431",
+    "index": 1431
+  },
+  {
+    "surface": "続く",
+    "reading": "tsuzuku",
+    "code": "cr-jou1-1432",
+    "index": 1432
+  },
+  {
+    "surface": "作ら",
+    "reading": "tsukura",
+    "code": "cr-jou1-1433",
+    "index": 1433
+  },
+  {
+    "surface": "やり遂げ",
+    "reading": "yaritoge",
+    "code": "cr-jou1-1434",
+    "index": 1434
+  },
+  {
+    "surface": "誓っ",
+    "reading": "chika",
+    "code": "cr-jou1-1435",
+    "index": 1435
+  },
+  {
+    "surface": "調え",
+    "reading": "totonoe",
+    "code": "cr-jou1-1436",
+    "index": 1436
+  },
+  {
+    "surface": "やり込める",
+    "reading": "yarikomeru",
+    "code": "cr-jou1-1437",
+    "index": 1437
+  },
+  {
+    "surface": "浮かび上がっ",
+    "reading": "ukabiaga",
+    "code": "cr-jou1-1438",
+    "index": 1438
+  },
+  {
+    "surface": "語っ",
+    "reading": "go",
+    "code": "cr-jou1-1439",
+    "index": 1439
+  },
+  {
+    "surface": "裂い",
+    "reading": "sai",
+    "code": "cr-jou1-1440",
+    "index": 1440
+  },
+  {
+    "surface": "萌え",
+    "reading": "moe",
+    "code": "cr-jou1-1441",
+    "index": 1441
+  },
+  {
+    "surface": "勤しもう",
+    "reading": "isoshimou",
+    "code": "cr-jou1-1442",
+    "index": 1442
+  },
+  {
+    "surface": "続か",
+    "reading": "tsuzuka",
+    "code": "cr-jou1-1443",
+    "index": 1443
+  },
+  {
+    "surface": "うろつき",
+    "reading": "urotsuki",
+    "code": "cr-jou1-1444",
+    "index": 1444
+  },
+  {
+    "surface": "着る",
+    "reading": "kiru",
+    "code": "cr-jou1-1445",
+    "index": 1445
+  },
+  {
+    "surface": "あがめ",
+    "reading": "agame",
+    "code": "cr-jou1-1446",
+    "index": 1446
+  },
+  {
+    "surface": "絞っ",
+    "reading": "shibo",
+    "code": "cr-jou1-1447",
+    "index": 1447
+  },
+  {
+    "surface": "思い浮かべ",
+    "reading": "omoiukabe",
+    "code": "cr-jou1-1448",
+    "index": 1448
+  },
+  {
+    "surface": "置い",
+    "reading": "oi",
+    "code": "cr-jou1-1449",
+    "index": 1449
+  },
+  {
+    "surface": "編ん",
+    "reading": "an",
+    "code": "cr-jou1-1450",
+    "index": 1450
+  },
+  {
+    "surface": "そり落とし",
+    "reading": "soriotoshi",
+    "code": "cr-jou1-1451",
+    "index": 1451
+  },
+  {
+    "surface": "纏わりつい",
+    "reading": "matsuwaritsui",
+    "code": "cr-jou1-1452",
+    "index": 1452
+  },
+  {
+    "surface": "なさる",
+    "reading": "nasaru",
+    "code": "cr-jou1-1453",
+    "index": 1453
+  },
+  {
+    "surface": "まくり",
+    "reading": "makuri",
+    "code": "cr-jou1-1454",
+    "index": 1454
+  },
+  {
+    "surface": "なりすまし",
+    "reading": "narisumashi",
+    "code": "cr-jou1-1455",
+    "index": 1455
+  },
+  {
+    "surface": "にぎっ",
+    "reading": "nigi",
+    "code": "cr-jou1-1456",
+    "index": 1456
+  },
+  {
+    "surface": "結ぶ",
+    "reading": "musubu",
+    "code": "cr-jou1-1457",
+    "index": 1457
+  },
+  {
+    "surface": "貫く",
+    "reading": "tsuranuku",
+    "code": "cr-jou1-1458",
+    "index": 1458
+  },
+  {
+    "surface": "心行く",
+    "reading": "kokoroyuku",
+    "code": "cr-jou1-1459",
+    "index": 1459
+  },
+  {
+    "surface": "うぬぼれる",
+    "reading": "unuboreru",
+    "code": "cr-jou1-1460",
+    "index": 1460
+  },
+  {
+    "surface": "起ころう",
+    "reading": "okorou",
+    "code": "cr-jou1-1461",
+    "index": 1461
+  },
+  {
+    "surface": "儲かる",
+    "reading": "moukaru",
+    "code": "cr-jou1-1462",
+    "index": 1462
+  },
+  {
+    "surface": "乗り込もう",
+    "reading": "norikomou",
+    "code": "cr-jou1-1463",
+    "index": 1463
+  },
+  {
+    "surface": "防が",
+    "reading": "fusega",
+    "code": "cr-jou1-1464",
+    "index": 1464
+  },
+  {
+    "surface": "停まる",
+    "reading": "tomaru",
+    "code": "cr-jou1-1465",
+    "index": 1465
+  },
+  {
+    "surface": "呼び",
+    "reading": "yobi",
+    "code": "cr-jou1-1466",
+    "index": 1466
+  },
+  {
+    "surface": "褒め称える",
+    "reading": "hometataeru",
+    "code": "cr-jou1-1467",
+    "index": 1467
+  },
+  {
+    "surface": "つなぐ",
+    "reading": "tsunagu",
+    "code": "cr-jou1-1468",
+    "index": 1468
+  },
+  {
+    "surface": "遠ざけ",
+    "reading": "toozake",
+    "code": "cr-jou1-1469",
+    "index": 1469
+  },
+  {
+    "surface": "増える",
+    "reading": "fueru",
+    "code": "cr-jou1-1470",
+    "index": 1470
+  },
+  {
+    "surface": "押さえよう",
+    "reading": "osaeyou",
+    "code": "cr-jou1-1471",
+    "index": 1471
+  },
+  {
+    "surface": "すれ",
+    "reading": "sure",
+    "code": "cr-jou1-1472",
+    "index": 1472
+  },
+  {
+    "surface": "建てる",
+    "reading": "tateru",
+    "code": "cr-jou1-1473",
+    "index": 1473
+  },
+  {
+    "surface": "立ち止まっ",
+    "reading": "tachidoma",
+    "code": "cr-jou1-1474",
+    "index": 1474
+  },
+  {
+    "surface": "勝ち取れる",
+    "reading": "kachitoreru",
+    "code": "cr-jou1-1475",
+    "index": 1475
+  },
+  {
+    "surface": "成す",
+    "reading": "nasu",
+    "code": "cr-jou1-1476",
+    "index": 1476
+  },
+  {
+    "surface": "乗れる",
+    "reading": "noreru",
+    "code": "cr-jou1-1477",
+    "index": 1477
+  },
+  {
+    "surface": "扱っ",
+    "reading": "atsuka",
+    "code": "cr-jou1-1478",
+    "index": 1478
+  },
+  {
+    "surface": "張る",
+    "reading": "haru",
+    "code": "cr-jou1-1479",
+    "index": 1479
+  },
+  {
+    "surface": "丸め",
+    "reading": "marume",
+    "code": "cr-jou1-1480",
+    "index": 1480
+  },
+  {
+    "surface": "すくおう",
+    "reading": "sukuou",
+    "code": "cr-jou1-1481",
+    "index": 1481
+  },
+  {
+    "surface": "受け取ろう",
+    "reading": "uketorou",
+    "code": "cr-jou1-1482",
+    "index": 1482
+  },
+  {
+    "surface": "もたせかけ",
+    "reading": "motasekake",
+    "code": "cr-jou1-1483",
+    "index": 1483
+  },
+  {
+    "surface": "足す",
+    "reading": "tasu",
+    "code": "cr-jou1-1484",
+    "index": 1484
+  },
+  {
+    "surface": "もぐっ",
+    "reading": "mogu",
+    "code": "cr-jou1-1485",
+    "index": 1485
+  },
+  {
+    "surface": "騒い",
+    "reading": "sawai",
+    "code": "cr-jou1-1486",
+    "index": 1486
+  },
+  {
+    "surface": "落ち着けよ",
+    "reading": "ochitsukeyo",
+    "code": "cr-jou1-1487",
+    "index": 1487
+  },
+  {
+    "surface": "くずれ",
+    "reading": "kuzure",
+    "code": "cr-jou1-1488",
+    "index": 1488
+  },
+  {
+    "surface": "やせよう",
+    "reading": "yaseyou",
+    "code": "cr-jou1-1489",
+    "index": 1489
+  },
+  {
+    "surface": "だましとっ",
+    "reading": "damashito",
+    "code": "cr-jou1-1490",
+    "index": 1490
+  },
+  {
+    "surface": "食べ過ぎる",
+    "reading": "tabesugiru",
+    "code": "cr-jou1-1491",
+    "index": 1491
+  },
+  {
+    "surface": "否ま",
+    "reading": "inama",
+    "code": "cr-jou1-1492",
+    "index": 1492
+  },
+  {
+    "surface": "かっ飛ばし",
+    "reading": "kattobashi",
+    "code": "cr-jou1-1493",
+    "index": 1493
+  },
+  {
+    "surface": "喘い",
+    "reading": "aei",
+    "code": "cr-jou1-1494",
+    "index": 1494
+  },
+  {
+    "surface": "くっつけ",
+    "reading": "kuttsuke",
+    "code": "cr-jou1-1495",
+    "index": 1495
+  },
+  {
+    "surface": "残れ",
+    "reading": "nokore",
+    "code": "cr-jou1-1496",
+    "index": 1496
+  },
+  {
+    "surface": "進ん",
+    "reading": "susun",
+    "code": "cr-jou1-1497",
+    "index": 1497
+  },
+  {
+    "surface": "取りもどし",
+    "reading": "torimodoshi",
+    "code": "cr-jou1-1498",
+    "index": 1498
+  },
+  {
+    "surface": "黙っ",
+    "reading": "dama",
+    "code": "cr-jou1-1499",
+    "index": 1499
+  },
+  {
+    "surface": "休す",
+    "reading": "kyuusu",
+    "code": "cr-jou1-1500",
+    "index": 1500
+  },
+  {
+    "surface": "受け取れ",
+    "reading": "uketore",
+    "code": "cr-jou1-1501",
+    "index": 1501
+  },
+  {
+    "surface": "使う",
+    "reading": "tsukau",
+    "code": "cr-jou1-1502",
+    "index": 1502
+  },
+  {
+    "surface": "接ぐ",
+    "reading": "hagu",
+    "code": "cr-jou1-1503",
+    "index": 1503
+  },
+  {
+    "surface": "阻ん",
+    "reading": "haban",
+    "code": "cr-jou1-1504",
+    "index": 1504
+  },
+  {
+    "surface": "打ち枯らし",
+    "reading": "uchikarashi",
+    "code": "cr-jou1-1505",
+    "index": 1505
+  },
+  {
+    "surface": "好ま",
+    "reading": "konoma",
+    "code": "cr-jou1-1506",
+    "index": 1506
+  },
+  {
+    "surface": "掻い",
+    "reading": "kai",
+    "code": "cr-jou1-1507",
+    "index": 1507
+  },
+  {
+    "surface": "含める",
+    "reading": "fukumeru",
+    "code": "cr-jou1-1508",
+    "index": 1508
+  },
+  {
+    "surface": "貫こう",
+    "reading": "tsuranukou",
+    "code": "cr-jou1-1509",
+    "index": 1509
+  },
+  {
+    "surface": "とれる",
+    "reading": "toreru",
+    "code": "cr-jou1-1510",
+    "index": 1510
+  },
+  {
+    "surface": "送り返し",
+    "reading": "okurikaeshi",
+    "code": "cr-jou1-1511",
+    "index": 1511
+  },
+  {
+    "surface": "重んじ",
+    "reading": "omonji",
+    "code": "cr-jou1-1512",
+    "index": 1512
+  },
+  {
+    "surface": "摘む",
+    "reading": "tsumu",
+    "code": "cr-jou1-1513",
+    "index": 1513
+  },
+  {
+    "surface": "しゃべら",
+    "reading": "shabera",
+    "code": "cr-jou1-1514",
+    "index": 1514
+  },
+  {
+    "surface": "壊そう",
+    "reading": "kowasou",
+    "code": "cr-jou1-1515",
+    "index": 1515
+  },
+  {
+    "surface": "払い落とす",
+    "reading": "haraiotosu",
+    "code": "cr-jou1-1516",
+    "index": 1516
+  },
+  {
+    "surface": "おそれ入り",
+    "reading": "osoreiri",
+    "code": "cr-jou1-1517",
+    "index": 1517
+  },
+  {
+    "surface": "聞く",
+    "reading": "kiku",
+    "code": "cr-jou1-1518",
+    "index": 1518
+  },
+  {
+    "surface": "就く",
+    "reading": "zuku",
+    "code": "cr-jou1-1519",
+    "index": 1519
+  },
+  {
+    "surface": "埋め合わせる",
+    "reading": "umeawaseru",
+    "code": "cr-jou1-1520",
+    "index": 1520
+  },
+  {
+    "surface": "触る",
+    "reading": "sawaru",
+    "code": "cr-jou1-1521",
+    "index": 1521
+  },
+  {
+    "surface": "はねつけ",
+    "reading": "hanetsuke",
+    "code": "cr-jou1-1522",
+    "index": 1522
+  },
+  {
+    "surface": "避けよ",
+    "reading": "sakeyo",
+    "code": "cr-jou1-1523",
+    "index": 1523
+  },
+  {
+    "surface": "取り壊す",
+    "reading": "torikowasu",
+    "code": "cr-jou1-1524",
+    "index": 1524
+  },
+  {
+    "surface": "似通っ",
+    "reading": "nikayo",
+    "code": "cr-jou1-1525",
+    "index": 1525
+  },
+  {
+    "surface": "止めれ",
+    "reading": "tomere",
+    "code": "cr-jou1-1526",
+    "index": 1526
+  },
+  {
+    "surface": "覆っ",
+    "reading": "oo",
+    "code": "cr-jou1-1527",
+    "index": 1527
+  },
+  {
+    "surface": "見ろ",
+    "reading": "miro",
+    "code": "cr-jou1-1528",
+    "index": 1528
+  },
+  {
+    "surface": "いちゃつく",
+    "reading": "ichatsuku",
+    "code": "cr-jou1-1529",
+    "index": 1529
+  },
+  {
+    "surface": "仕上がっ",
+    "reading": "shiaga",
+    "code": "cr-jou1-1530",
+    "index": 1530
+  },
+  {
+    "surface": "磨い",
+    "reading": "migai",
+    "code": "cr-jou1-1531",
+    "index": 1531
+  },
+  {
+    "surface": "受け取っ",
+    "reading": "uketo",
+    "code": "cr-jou1-1532",
+    "index": 1532
+  },
+  {
+    "surface": "痛ん",
+    "reading": "itan",
+    "code": "cr-jou1-1533",
+    "index": 1533
+  },
+  {
+    "surface": "冒す",
+    "reading": "okasu",
+    "code": "cr-jou1-1534",
+    "index": 1534
+  },
+  {
+    "surface": "押す",
+    "reading": "osu",
+    "code": "cr-jou1-1535",
+    "index": 1535
+  },
+  {
+    "surface": "湿っ",
+    "reading": "shime",
+    "code": "cr-jou1-1536",
+    "index": 1536
+  },
+  {
+    "surface": "死にかかっ",
+    "reading": "shinikaka",
+    "code": "cr-jou1-1537",
+    "index": 1537
+  },
+  {
+    "surface": "並ん",
+    "reading": "naran",
+    "code": "cr-jou1-1538",
+    "index": 1538
+  },
+  {
+    "surface": "建っ",
+    "reading": "ta",
+    "code": "cr-jou1-1539",
+    "index": 1539
+  },
+  {
+    "surface": "飲み干す",
+    "reading": "nomihosu",
+    "code": "cr-jou1-1540",
+    "index": 1540
+  },
+  {
+    "surface": "決めつけ",
+    "reading": "kimetsuke",
+    "code": "cr-jou1-1541",
+    "index": 1541
+  },
+  {
+    "surface": "商っ",
+    "reading": "shou",
+    "code": "cr-jou1-1542",
+    "index": 1542
+  },
+  {
+    "surface": "転がっ",
+    "reading": "koroga",
+    "code": "cr-jou1-1543",
+    "index": 1543
+  },
+  {
+    "surface": "断ち切っ",
+    "reading": "tachiki",
+    "code": "cr-jou1-1544",
+    "index": 1544
+  },
+  {
+    "surface": "かかえこん",
+    "reading": "kakaekon",
+    "code": "cr-jou1-1545",
+    "index": 1545
+  },
+  {
+    "surface": "任せ",
+    "reading": "makase",
+    "code": "cr-jou1-1546",
+    "index": 1546
+  },
+  {
+    "surface": "知ら",
+    "reading": "shira",
+    "code": "cr-jou1-1547",
+    "index": 1547
+  },
+  {
+    "surface": "優れ",
+    "reading": "sugure",
+    "code": "cr-jou1-1548",
+    "index": 1548
+  },
+  {
+    "surface": "閉じる",
+    "reading": "tojiru",
+    "code": "cr-jou1-1549",
+    "index": 1549
+  },
+  {
+    "surface": "貰っ",
+    "reading": "mora",
+    "code": "cr-jou1-1550",
+    "index": 1550
+  },
+  {
+    "surface": "おちつか",
+    "reading": "ochitsuka",
+    "code": "cr-jou1-1551",
+    "index": 1551
+  },
+  {
+    "surface": "求める",
+    "reading": "motomeru",
+    "code": "cr-jou1-1552",
+    "index": 1552
+  },
+  {
+    "surface": "取り返そう",
+    "reading": "torikaesou",
+    "code": "cr-jou1-1553",
+    "index": 1553
+  },
+  {
+    "surface": "もらえ",
+    "reading": "morae",
+    "code": "cr-jou1-1554",
+    "index": 1554
+  },
+  {
+    "surface": "打ち負かし",
+    "reading": "uchimakashi",
+    "code": "cr-jou1-1555",
+    "index": 1555
+  },
+  {
+    "surface": "もらし",
+    "reading": "morashi",
+    "code": "cr-jou1-1556",
+    "index": 1556
+  },
+  {
+    "surface": "瞬く",
+    "reading": "shibatataku",
+    "code": "cr-jou1-1557",
+    "index": 1557
+  },
+  {
+    "surface": "やりとげ",
+    "reading": "yaritoge",
+    "code": "cr-jou1-1558",
+    "index": 1558
+  },
+  {
+    "surface": "働け",
+    "reading": "hatarake",
+    "code": "cr-jou1-1559",
+    "index": 1559
+  },
+  {
+    "surface": "送る",
+    "reading": "okuru",
+    "code": "cr-jou1-1560",
+    "index": 1560
+  },
+  {
+    "surface": "見下ろし",
+    "reading": "mioroshi",
+    "code": "cr-jou1-1561",
+    "index": 1561
+  },
+  {
+    "surface": "振るっ",
+    "reading": "furu",
+    "code": "cr-jou1-1562",
+    "index": 1562
+  },
+  {
+    "surface": "当たる",
+    "reading": "ataru",
+    "code": "cr-jou1-1563",
+    "index": 1563
+  },
+  {
+    "surface": "聞き入れる",
+    "reading": "kikiireru",
+    "code": "cr-jou1-1564",
+    "index": 1564
+  },
+  {
+    "surface": "招い",
+    "reading": "manei",
+    "code": "cr-jou1-1565",
+    "index": 1565
+  },
+  {
+    "surface": "継ぐ",
+    "reading": "tsugu",
+    "code": "cr-jou1-1566",
+    "index": 1566
+  },
+  {
+    "surface": "飛び越える",
+    "reading": "tobikoeru",
+    "code": "cr-jou1-1567",
+    "index": 1567
+  },
+  {
+    "surface": "分かっ",
+    "reading": "waka",
+    "code": "cr-jou1-1568",
+    "index": 1568
+  },
+  {
+    "surface": "立ち止まり",
+    "reading": "tachidomari",
+    "code": "cr-jou1-1569",
+    "index": 1569
+  },
+  {
+    "surface": "急げ",
+    "reading": "isoge",
+    "code": "cr-jou1-1570",
+    "index": 1570
+  },
+  {
+    "surface": "腐っ",
+    "reading": "kusa",
+    "code": "cr-jou1-1571",
+    "index": 1571
+  },
+  {
+    "surface": "迎え",
+    "reading": "mukae",
+    "code": "cr-jou1-1572",
+    "index": 1572
+  },
+  {
+    "surface": "添う",
+    "reading": "sou",
+    "code": "cr-jou1-1573",
+    "index": 1573
+  },
+  {
+    "surface": "買いかぶっ",
+    "reading": "kaikabu",
+    "code": "cr-jou1-1574",
+    "index": 1574
+  },
+  {
+    "surface": "かき集めよう",
+    "reading": "kakiatsumeyou",
+    "code": "cr-jou1-1575",
+    "index": 1575
+  },
+  {
+    "surface": "立ち直れ",
+    "reading": "tachinaore",
+    "code": "cr-jou1-1576",
+    "index": 1576
+  },
+  {
+    "surface": "示せ",
+    "reading": "shimese",
+    "code": "cr-jou1-1577",
+    "index": 1577
+  },
+  {
+    "surface": "拒ま",
+    "reading": "kobama",
+    "code": "cr-jou1-1578",
+    "index": 1578
+  },
+  {
+    "surface": "座っ",
+    "reading": "suwa",
+    "code": "cr-jou1-1579",
+    "index": 1579
+  },
+  {
+    "surface": "捨てよう",
+    "reading": "suteyou",
+    "code": "cr-jou1-1580",
+    "index": 1580
+  },
+  {
+    "surface": "休ま",
+    "reading": "yasuma",
+    "code": "cr-jou1-1581",
+    "index": 1581
+  },
+  {
+    "surface": "溶け合わ",
+    "reading": "tokeawa",
+    "code": "cr-jou1-1582",
+    "index": 1582
+  },
+  {
+    "surface": "舞い上がっ",
+    "reading": "maiaga",
+    "code": "cr-jou1-1583",
+    "index": 1583
+  },
+  {
+    "surface": "消え失せ",
+    "reading": "kieuse",
+    "code": "cr-jou1-1584",
+    "index": 1584
+  },
+  {
+    "surface": "持ち上げよう",
+    "reading": "mochiageyou",
+    "code": "cr-jou1-1585",
+    "index": 1585
+  },
+  {
+    "surface": "まっ",
+    "reading": "ma",
+    "code": "cr-jou1-1586",
+    "index": 1586
+  },
+  {
+    "surface": "着き",
+    "reading": "tsuki",
+    "code": "cr-jou1-1587",
+    "index": 1587
+  },
+  {
+    "surface": "ひけらかそう",
+    "reading": "hikerakasou",
+    "code": "cr-jou1-1588",
+    "index": 1588
+  },
+  {
+    "surface": "なびか",
+    "reading": "nabika",
+    "code": "cr-jou1-1589",
+    "index": 1589
+  },
+  {
+    "surface": "混ぜる",
+    "reading": "mazeru",
+    "code": "cr-jou1-1590",
+    "index": 1590
+  },
+  {
+    "surface": "買わ",
+    "reading": "kawa",
+    "code": "cr-jou1-1591",
+    "index": 1591
+  },
+  {
+    "surface": "制する",
+    "reading": "seisuru",
+    "code": "cr-jou1-1592",
+    "index": 1592
+  },
+  {
+    "surface": "解き明かさ",
+    "reading": "tokiakasa",
+    "code": "cr-jou1-1593",
+    "index": 1593
+  },
+  {
+    "surface": "わきあがり",
+    "reading": "wakiagari",
+    "code": "cr-jou1-1594",
+    "index": 1594
+  },
+  {
+    "surface": "泳ごう",
+    "reading": "oyogou",
+    "code": "cr-jou1-1595",
+    "index": 1595
+  },
+  {
+    "surface": "入り込ん",
+    "reading": "hairikon",
+    "code": "cr-jou1-1596",
+    "index": 1596
+  },
+  {
+    "surface": "負え",
+    "reading": "oe",
+    "code": "cr-jou1-1597",
+    "index": 1597
+  },
+  {
+    "surface": "やらさ",
+    "reading": "yarasa",
+    "code": "cr-jou1-1598",
+    "index": 1598
+  },
+  {
+    "surface": "降る",
+    "reading": "furu",
+    "code": "cr-jou1-1599",
+    "index": 1599
+  },
+  {
+    "surface": "える",
+    "reading": "eru",
+    "code": "cr-jou1-1600",
+    "index": 1600
+  },
+  {
+    "surface": "被る",
+    "reading": "kaburu",
+    "code": "cr-jou1-1601",
+    "index": 1601
+  },
+  {
+    "surface": "語り合っ",
+    "reading": "kataria",
+    "code": "cr-jou1-1602",
+    "index": 1602
+  },
+  {
+    "surface": "始まっ",
+    "reading": "hajima",
+    "code": "cr-jou1-1603",
+    "index": 1603
+  },
+  {
+    "surface": "行える",
+    "reading": "okonaeru",
+    "code": "cr-jou1-1604",
+    "index": 1604
+  },
+  {
+    "surface": "かぞえ",
+    "reading": "kazoe",
+    "code": "cr-jou1-1605",
+    "index": 1605
+  },
+  {
+    "surface": "浴びせかけ",
+    "reading": "abisekake",
+    "code": "cr-jou1-1606",
+    "index": 1606
+  },
+  {
+    "surface": "もがい",
+    "reading": "mogai",
+    "code": "cr-jou1-1607",
+    "index": 1607
+  },
+  {
+    "surface": "話せ",
+    "reading": "hanase",
+    "code": "cr-jou1-1608",
+    "index": 1608
+  },
+  {
+    "surface": "かない",
+    "reading": "kanai",
+    "code": "cr-jou1-1609",
+    "index": 1609
+  },
+  {
+    "surface": "使いこなす",
+    "reading": "tsukaikonasu",
+    "code": "cr-jou1-1610",
+    "index": 1610
+  },
+  {
+    "surface": "ひっぱたい",
+    "reading": "hippatai",
+    "code": "cr-jou1-1611",
+    "index": 1611
+  },
+  {
+    "surface": "運ば",
+    "reading": "hakoba",
+    "code": "cr-jou1-1612",
+    "index": 1612
+  },
+  {
+    "surface": "振る舞おう",
+    "reading": "furumaou",
+    "code": "cr-jou1-1613",
+    "index": 1613
+  },
+  {
+    "surface": "とれ",
+    "reading": "tore",
+    "code": "cr-jou1-1614",
+    "index": 1614
+  },
+  {
+    "surface": "押し入ろう",
+    "reading": "oshiirou",
+    "code": "cr-jou1-1615",
+    "index": 1615
+  },
+  {
+    "surface": "話そう",
+    "reading": "hanasou",
+    "code": "cr-jou1-1616",
+    "index": 1616
+  },
+  {
+    "surface": "伴っ",
+    "reading": "tomona",
+    "code": "cr-jou1-1617",
+    "index": 1617
+  },
+  {
+    "surface": "損ね",
+    "reading": "sokone",
+    "code": "cr-jou1-1618",
+    "index": 1618
+  },
+  {
+    "surface": "吹き散らし",
+    "reading": "fukichirashi",
+    "code": "cr-jou1-1619",
+    "index": 1619
+  },
+  {
+    "surface": "眠り込ん",
+    "reading": "nemurikon",
+    "code": "cr-jou1-1620",
+    "index": 1620
+  },
+  {
+    "surface": "叩こう",
+    "reading": "tatakou",
+    "code": "cr-jou1-1621",
+    "index": 1621
+  },
+  {
+    "surface": "くだけ",
+    "reading": "kudake",
+    "code": "cr-jou1-1622",
+    "index": 1622
+  },
+  {
+    "surface": "噛む",
+    "reading": "kamu",
+    "code": "cr-jou1-1623",
+    "index": 1623
+  },
+  {
+    "surface": "座ら",
+    "reading": "suwara",
+    "code": "cr-jou1-1624",
+    "index": 1624
+  },
+  {
+    "surface": "さわる",
+    "reading": "sawaru",
+    "code": "cr-jou1-1625",
+    "index": 1625
+  },
+  {
+    "surface": "断た",
+    "reading": "tata",
+    "code": "cr-jou1-1626",
+    "index": 1626
+  },
+  {
+    "surface": "待ち焦がれ",
+    "reading": "machikogare",
+    "code": "cr-jou1-1627",
+    "index": 1627
+  },
+  {
+    "surface": "仕立て上げ",
+    "reading": "shitateage",
+    "code": "cr-jou1-1628",
+    "index": 1628
+  },
+  {
+    "surface": "おもえる",
+    "reading": "omoeru",
+    "code": "cr-jou1-1629",
+    "index": 1629
+  },
+  {
+    "surface": "食い違っ",
+    "reading": "kuichiga",
+    "code": "cr-jou1-1630",
+    "index": 1630
+  },
+  {
+    "surface": "捕まえよう",
+    "reading": "tsukamaeyou",
+    "code": "cr-jou1-1631",
+    "index": 1631
+  },
+  {
+    "surface": "聞きもらす",
+    "reading": "kikimorasu",
+    "code": "cr-jou1-1632",
+    "index": 1632
+  },
+  {
+    "surface": "放さ",
+    "reading": "hanasa",
+    "code": "cr-jou1-1633",
+    "index": 1633
+  },
+  {
+    "surface": "誘き寄せ",
+    "reading": "obikiyose",
+    "code": "cr-jou1-1634",
+    "index": 1634
+  },
+  {
+    "surface": "しぶっ",
+    "reading": "shibu",
+    "code": "cr-jou1-1635",
+    "index": 1635
+  },
+  {
+    "surface": "おく",
+    "reading": "oku",
+    "code": "cr-jou1-1636",
+    "index": 1636
+  },
+  {
+    "surface": "ころし",
+    "reading": "koroshi",
+    "code": "cr-jou1-1637",
+    "index": 1637
+  },
+  {
+    "surface": "ふける",
+    "reading": "fukeru",
+    "code": "cr-jou1-1638",
+    "index": 1638
+  },
+  {
+    "surface": "ふやし",
+    "reading": "fuyashi",
+    "code": "cr-jou1-1639",
+    "index": 1639
+  },
+  {
+    "surface": "おろす",
+    "reading": "orosu",
+    "code": "cr-jou1-1640",
+    "index": 1640
+  },
+  {
+    "surface": "あげる",
+    "reading": "ageru",
+    "code": "cr-jou1-1641",
+    "index": 1641
+  },
+  {
+    "surface": "量っ",
+    "reading": "ryou",
+    "code": "cr-jou1-1642",
+    "index": 1642
+  },
+  {
+    "surface": "睨む",
+    "reading": "niramu",
+    "code": "cr-jou1-1643",
+    "index": 1643
+  },
+  {
+    "surface": "いらっしゃら",
+    "reading": "irasshara",
+    "code": "cr-jou1-1644",
+    "index": 1644
+  },
+  {
+    "surface": "笑い飛ばし",
+    "reading": "waraitobashi",
+    "code": "cr-jou1-1645",
+    "index": 1645
+  },
+  {
+    "surface": "足り",
+    "reading": "tari",
+    "code": "cr-jou1-1646",
+    "index": 1646
+  },
+  {
+    "surface": "許す",
+    "reading": "yurusu",
+    "code": "cr-jou1-1647",
+    "index": 1647
+  },
+  {
+    "surface": "説き伏せ",
+    "reading": "tokifuse",
+    "code": "cr-jou1-1648",
+    "index": 1648
+  },
+  {
+    "surface": "伝え",
+    "reading": "tsutae",
+    "code": "cr-jou1-1649",
+    "index": 1649
+  },
+  {
+    "surface": "みつける",
+    "reading": "mitsukeru",
+    "code": "cr-jou1-1650",
+    "index": 1650
+  },
+  {
+    "surface": "喋ら",
+    "reading": "shabera",
+    "code": "cr-jou1-1651",
+    "index": 1651
+  },
+  {
+    "surface": "下さる",
+    "reading": "kudasaru",
+    "code": "cr-jou1-1652",
+    "index": 1652
+  },
+  {
+    "surface": "押しのける",
+    "reading": "oshinokeru",
+    "code": "cr-jou1-1653",
+    "index": 1653
+  },
+  {
+    "surface": "踊る",
+    "reading": "odoru",
+    "code": "cr-jou1-1654",
+    "index": 1654
+  },
+  {
+    "surface": "しでかす",
+    "reading": "shidekasu",
+    "code": "cr-jou1-1655",
+    "index": 1655
+  },
+  {
+    "surface": "肖り",
+    "reading": "ayakari",
+    "code": "cr-jou1-1656",
+    "index": 1656
+  },
+  {
+    "surface": "写す",
+    "reading": "utsusu",
+    "code": "cr-jou1-1657",
+    "index": 1657
+  },
+  {
+    "surface": "解く",
+    "reading": "toku",
+    "code": "cr-jou1-1658",
+    "index": 1658
+  },
+  {
+    "surface": "しがみ付い",
+    "reading": "shigamitsui",
+    "code": "cr-jou1-1659",
+    "index": 1659
+  },
+  {
+    "surface": "弱り",
+    "reading": "yowari",
+    "code": "cr-jou1-1660",
+    "index": 1660
+  },
+  {
+    "surface": "離さ",
+    "reading": "hanasa",
+    "code": "cr-jou1-1661",
+    "index": 1661
+  },
+  {
+    "surface": "効い",
+    "reading": "kii",
+    "code": "cr-jou1-1662",
+    "index": 1662
+  },
+  {
+    "surface": "つながっ",
+    "reading": "tsunaga",
+    "code": "cr-jou1-1663",
+    "index": 1663
+  },
+  {
+    "surface": "押し開けよう",
+    "reading": "oshiakeyou",
+    "code": "cr-jou1-1664",
+    "index": 1664
+  },
+  {
+    "surface": "置く",
+    "reading": "oku",
+    "code": "cr-jou1-1665",
+    "index": 1665
+  },
+  {
+    "surface": "売ら",
+    "reading": "ura",
+    "code": "cr-jou1-1666",
+    "index": 1666
+  },
+  {
+    "surface": "落ち込む",
+    "reading": "ochikomu",
+    "code": "cr-jou1-1667",
+    "index": 1667
+  },
+  {
+    "surface": "縫い合わせる",
+    "reading": "nuiawaseru",
+    "code": "cr-jou1-1668",
+    "index": 1668
+  },
+  {
+    "surface": "くだされ",
+    "reading": "kudasare",
+    "code": "cr-jou1-1669",
+    "index": 1669
+  },
+  {
+    "surface": "甘んじ",
+    "reading": "amanji",
+    "code": "cr-jou1-1670",
+    "index": 1670
+  },
+  {
+    "surface": "骨折っ",
+    "reading": "kossetsu",
+    "code": "cr-jou1-1671",
+    "index": 1671
+  },
+  {
+    "surface": "教え込む",
+    "reading": "oshiekomu",
+    "code": "cr-jou1-1672",
+    "index": 1672
+  },
+  {
+    "surface": "焼け",
+    "reading": "yake",
+    "code": "cr-jou1-1673",
+    "index": 1673
+  },
+  {
+    "surface": "のぞき込ん",
+    "reading": "nozokikon",
+    "code": "cr-jou1-1674",
+    "index": 1674
+  },
+  {
+    "surface": "生れ育て",
+    "reading": "umaresodate",
+    "code": "cr-jou1-1675",
+    "index": 1675
+  },
+  {
+    "surface": "いう",
+    "reading": "iu",
+    "code": "cr-jou1-1676",
+    "index": 1676
+  },
+  {
+    "surface": "侮る",
+    "reading": "anadoru",
+    "code": "cr-jou1-1677",
+    "index": 1677
+  },
+  {
+    "surface": "ぱくつい",
+    "reading": "pakutsui",
+    "code": "cr-jou1-1678",
+    "index": 1678
+  },
+  {
+    "surface": "止む",
+    "reading": "yamu",
+    "code": "cr-jou1-1679",
+    "index": 1679
+  },
+  {
+    "surface": "騙し取ら",
+    "reading": "damashitora",
+    "code": "cr-jou1-1680",
+    "index": 1680
+  },
+  {
+    "surface": "目論ん",
+    "reading": "mokuron",
+    "code": "cr-jou1-1681",
+    "index": 1681
+  },
+  {
+    "surface": "でっち上げる",
+    "reading": "detchiageru",
+    "code": "cr-jou1-1682",
+    "index": 1682
+  },
+  {
+    "surface": "閉じよ",
+    "reading": "tojiyo",
+    "code": "cr-jou1-1683",
+    "index": 1683
+  },
+  {
+    "surface": "振り返っ",
+    "reading": "furikae",
+    "code": "cr-jou1-1684",
+    "index": 1684
+  },
+  {
+    "surface": "喜ばそう",
+    "reading": "yorokobasou",
+    "code": "cr-jou1-1685",
+    "index": 1685
+  },
+  {
+    "surface": "問いただし",
+    "reading": "toitadashi",
+    "code": "cr-jou1-1686",
+    "index": 1686
+  },
+  {
+    "surface": "やつれ",
+    "reading": "yatsure",
+    "code": "cr-jou1-1687",
+    "index": 1687
+  },
+  {
+    "surface": "載っ",
+    "reading": "no",
+    "code": "cr-jou1-1688",
+    "index": 1688
+  },
+  {
+    "surface": "認める",
+    "reading": "mitomeru",
+    "code": "cr-jou1-1689",
+    "index": 1689
+  },
+  {
+    "surface": "打つ",
+    "reading": "utsu",
+    "code": "cr-jou1-1690",
+    "index": 1690
+  },
+  {
+    "surface": "さそっ",
+    "reading": "saso",
+    "code": "cr-jou1-1691",
+    "index": 1691
+  },
+  {
+    "surface": "まるめこみ",
+    "reading": "marumekomi",
+    "code": "cr-jou1-1692",
+    "index": 1692
+  },
+  {
+    "surface": "泣き止ん",
+    "reading": "nakiyan",
+    "code": "cr-jou1-1693",
+    "index": 1693
+  },
+  {
+    "surface": "破りすて",
+    "reading": "yaburisute",
+    "code": "cr-jou1-1694",
+    "index": 1694
+  },
+  {
+    "surface": "暴れまわっ",
+    "reading": "abaremawa",
+    "code": "cr-jou1-1695",
+    "index": 1695
+  },
+  {
+    "surface": "居座り",
+    "reading": "isuwari",
+    "code": "cr-jou1-1696",
+    "index": 1696
+  },
+  {
+    "surface": "立ちのぼっ",
+    "reading": "tachinobo",
+    "code": "cr-jou1-1697",
+    "index": 1697
+  },
+  {
+    "surface": "きき",
+    "reading": "kiki",
+    "code": "cr-jou1-1698",
+    "index": 1698
+  },
+  {
+    "surface": "貰え",
+    "reading": "morae",
+    "code": "cr-jou1-1699",
+    "index": 1699
+  },
+  {
+    "surface": "生まれ育っ",
+    "reading": "umaresoda",
+    "code": "cr-jou1-1700",
+    "index": 1700
+  },
+  {
+    "surface": "駆け上がる",
+    "reading": "kakeagaru",
+    "code": "cr-jou1-1701",
+    "index": 1701
+  },
+  {
+    "surface": "動きまわっ",
+    "reading": "ugokimawa",
+    "code": "cr-jou1-1702",
+    "index": 1702
+  },
+  {
+    "surface": "下っ",
+    "reading": "shita",
+    "code": "cr-jou1-1703",
+    "index": 1703
+  },
+  {
+    "surface": "やり",
+    "reading": "yari",
+    "code": "cr-jou1-1704",
+    "index": 1704
+  },
+  {
+    "surface": "照らさ",
+    "reading": "terasa",
+    "code": "cr-jou1-1705",
+    "index": 1705
+  },
+  {
+    "surface": "恨む",
+    "reading": "uramu",
+    "code": "cr-jou1-1706",
+    "index": 1706
+  },
+  {
+    "surface": "言いつかっ",
+    "reading": "iitsuka",
+    "code": "cr-jou1-1707",
+    "index": 1707
+  },
+  {
+    "surface": "凝る",
+    "reading": "koru",
+    "code": "cr-jou1-1708",
+    "index": 1708
+  },
+  {
+    "surface": "説きさとし",
+    "reading": "tokisatoshi",
+    "code": "cr-jou1-1709",
+    "index": 1709
+  },
+  {
+    "surface": "たまげ",
+    "reading": "tamage",
+    "code": "cr-jou1-1710",
+    "index": 1710
+  },
+  {
+    "surface": "いただい",
+    "reading": "itadai",
+    "code": "cr-jou1-1711",
+    "index": 1711
+  },
+  {
+    "surface": "応じ",
+    "reading": "ouji",
+    "code": "cr-jou1-1712",
+    "index": 1712
+  },
+  {
+    "surface": "殴っ",
+    "reading": "nagu",
+    "code": "cr-jou1-1713",
+    "index": 1713
+  },
+  {
+    "surface": "はかっ",
+    "reading": "haka",
+    "code": "cr-jou1-1714",
+    "index": 1714
+  },
+  {
+    "surface": "叱っ",
+    "reading": "shika",
+    "code": "cr-jou1-1715",
+    "index": 1715
+  },
+  {
+    "surface": "聞き飽き",
+    "reading": "kikiaki",
+    "code": "cr-jou1-1716",
+    "index": 1716
+  },
+  {
+    "surface": "備わっ",
+    "reading": "sonawa",
+    "code": "cr-jou1-1717",
+    "index": 1717
+  },
+  {
+    "surface": "駆け上っ",
+    "reading": "kakenobo",
+    "code": "cr-jou1-1718",
+    "index": 1718
+  },
+  {
+    "surface": "ひか",
+    "reading": "hika",
+    "code": "cr-jou1-1719",
+    "index": 1719
+  },
+  {
+    "surface": "避ける",
+    "reading": "sakeru",
+    "code": "cr-jou1-1720",
+    "index": 1720
+  },
+  {
+    "surface": "しあげ",
+    "reading": "shiage",
+    "code": "cr-jou1-1721",
+    "index": 1721
+  },
+  {
+    "surface": "はずれる",
+    "reading": "hazureru",
+    "code": "cr-jou1-1722",
+    "index": 1722
+  },
+  {
+    "surface": "訊ね",
+    "reading": "tazune",
+    "code": "cr-jou1-1723",
+    "index": 1723
+  },
+  {
+    "surface": "太ら",
+    "reading": "futora",
+    "code": "cr-jou1-1724",
+    "index": 1724
+  },
+  {
+    "surface": "立ちあがる",
+    "reading": "tachiagaru",
+    "code": "cr-jou1-1725",
+    "index": 1725
+  },
+  {
+    "surface": "たぐり",
+    "reading": "taguri",
+    "code": "cr-jou1-1726",
+    "index": 1726
+  },
+  {
+    "surface": "引き受け",
+    "reading": "hikiuke",
+    "code": "cr-jou1-1727",
+    "index": 1727
+  },
+  {
+    "surface": "さぐれ",
+    "reading": "sagure",
+    "code": "cr-jou1-1728",
+    "index": 1728
+  },
+  {
+    "surface": "突き落とさ",
+    "reading": "tsukiotosa",
+    "code": "cr-jou1-1729",
+    "index": 1729
+  },
+  {
+    "surface": "罵っ",
+    "reading": "nonoshi",
+    "code": "cr-jou1-1730",
+    "index": 1730
+  },
+  {
+    "surface": "怒ら",
+    "reading": "okora",
+    "code": "cr-jou1-1731",
+    "index": 1731
+  },
+  {
+    "surface": "受け入れる",
+    "reading": "ukeireru",
+    "code": "cr-jou1-1732",
+    "index": 1732
+  }
+]

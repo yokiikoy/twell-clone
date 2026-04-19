@@ -1,0 +1,3800 @@
+[
+  {
+    "surface": "痛い",
+    "reading": "itai",
+    "code": "cr-jou2-0",
+    "index": 0
+  },
+  {
+    "surface": "甘く",
+    "reading": "amaku",
+    "code": "cr-jou2-1",
+    "index": 1
+  },
+  {
+    "surface": "しんどい",
+    "reading": "shindoi",
+    "code": "cr-jou2-2",
+    "index": 2
+  },
+  {
+    "surface": "面白く",
+    "reading": "omoshiroku",
+    "code": "cr-jou2-3",
+    "index": 3
+  },
+  {
+    "surface": "すくない",
+    "reading": "sukunai",
+    "code": "cr-jou2-4",
+    "index": 4
+  },
+  {
+    "surface": "えぐい",
+    "reading": "egui",
+    "code": "cr-jou2-5",
+    "index": 5
+  },
+  {
+    "surface": "可愛",
+    "reading": "kawai",
+    "code": "cr-jou2-6",
+    "index": 6
+  },
+  {
+    "surface": "高けれ",
+    "reading": "takakere",
+    "code": "cr-jou2-7",
+    "index": 7
+  },
+  {
+    "surface": "かたい",
+    "reading": "katai",
+    "code": "cr-jou2-8",
+    "index": 8
+  },
+  {
+    "surface": "甲斐甲斐しく",
+    "reading": "kaigaishiku",
+    "code": "cr-jou2-9",
+    "index": 9
+  },
+  {
+    "surface": "忙しけれ",
+    "reading": "isogashikere",
+    "code": "cr-jou2-10",
+    "index": 10
+  },
+  {
+    "surface": "塩辛い",
+    "reading": "shiokarai",
+    "code": "cr-jou2-11",
+    "index": 11
+  },
+  {
+    "surface": "難しく",
+    "reading": "muzukashiku",
+    "code": "cr-jou2-12",
+    "index": 12
+  },
+  {
+    "surface": "多かっ",
+    "reading": "ooka",
+    "code": "cr-jou2-13",
+    "index": 13
+  },
+  {
+    "surface": "めぼしい",
+    "reading": "meboshii",
+    "code": "cr-jou2-14",
+    "index": 14
+  },
+  {
+    "surface": "高い",
+    "reading": "takai",
+    "code": "cr-jou2-15",
+    "index": 15
+  },
+  {
+    "surface": "おそい",
+    "reading": "osoi",
+    "code": "cr-jou2-16",
+    "index": 16
+  },
+  {
+    "surface": "鋭く",
+    "reading": "surudoku",
+    "code": "cr-jou2-17",
+    "index": 17
+  },
+  {
+    "surface": "狭い",
+    "reading": "semai",
+    "code": "cr-jou2-18",
+    "index": 18
+  },
+  {
+    "surface": "ずうずうしい",
+    "reading": "zuuzuushii",
+    "code": "cr-jou2-19",
+    "index": 19
+  },
+  {
+    "surface": "深い",
+    "reading": "bukai",
+    "code": "cr-jou2-20",
+    "index": 20
+  },
+  {
+    "surface": "ヤバイ",
+    "reading": "yabai",
+    "code": "cr-jou2-21",
+    "index": 21
+  },
+  {
+    "surface": "多く",
+    "reading": "ooku",
+    "code": "cr-jou2-22",
+    "index": 22
+  },
+  {
+    "surface": "優し",
+    "reading": "yasashi",
+    "code": "cr-jou2-23",
+    "index": 23
+  },
+  {
+    "surface": "アツイ",
+    "reading": "atsui",
+    "code": "cr-jou2-24",
+    "index": 24
+  },
+  {
+    "surface": "おとなしい",
+    "reading": "otonashii",
+    "code": "cr-jou2-25",
+    "index": 25
+  },
+  {
+    "surface": "香ばしい",
+    "reading": "koubashii",
+    "code": "cr-jou2-26",
+    "index": 26
+  },
+  {
+    "surface": "すっごい",
+    "reading": "suggoi",
+    "code": "cr-jou2-27",
+    "index": 27
+  },
+  {
+    "surface": "ずるがしこい",
+    "reading": "zurugashikoi",
+    "code": "cr-jou2-28",
+    "index": 28
+  },
+  {
+    "surface": "近かっ",
+    "reading": "chikaka",
+    "code": "cr-jou2-29",
+    "index": 29
+  },
+  {
+    "surface": "すばやく",
+    "reading": "subayaku",
+    "code": "cr-jou2-30",
+    "index": 30
+  },
+  {
+    "surface": "快く",
+    "reading": "kokoroyoku",
+    "code": "cr-jou2-31",
+    "index": 31
+  },
+  {
+    "surface": "安っぽい",
+    "reading": "yasuppoi",
+    "code": "cr-jou2-32",
+    "index": 32
+  },
+  {
+    "surface": "つらく",
+    "reading": "tsuraku",
+    "code": "cr-jou2-33",
+    "index": 33
+  },
+  {
+    "surface": "すくなく",
+    "reading": "sukunaku",
+    "code": "cr-jou2-34",
+    "index": 34
+  },
+  {
+    "surface": "懐かしい",
+    "reading": "natsukashii",
+    "code": "cr-jou2-35",
+    "index": 35
+  },
+  {
+    "surface": "おとなしく",
+    "reading": "otonashiku",
+    "code": "cr-jou2-36",
+    "index": 36
+  },
+  {
+    "surface": "ものすごい",
+    "reading": "monosugoi",
+    "code": "cr-jou2-37",
+    "index": 37
+  },
+  {
+    "surface": "うっとうしく",
+    "reading": "uttoushiku",
+    "code": "cr-jou2-38",
+    "index": 38
+  },
+  {
+    "surface": "柔らかい",
+    "reading": "yawarakai",
+    "code": "cr-jou2-39",
+    "index": 39
+  },
+  {
+    "surface": "さびしかっ",
+    "reading": "sabishika",
+    "code": "cr-jou2-40",
+    "index": 40
+  },
+  {
+    "surface": "強く",
+    "reading": "tsuyoku",
+    "code": "cr-jou2-41",
+    "index": 41
+  },
+  {
+    "surface": "恐かっ",
+    "reading": "kowaka",
+    "code": "cr-jou2-42",
+    "index": 42
+  },
+  {
+    "surface": "辛かっ",
+    "reading": "tsuraka",
+    "code": "cr-jou2-43",
+    "index": 43
+  },
+  {
+    "surface": "愛らしく",
+    "reading": "airashiku",
+    "code": "cr-jou2-44",
+    "index": 44
+  },
+  {
+    "surface": "気難しい",
+    "reading": "kimuzukashii",
+    "code": "cr-jou2-45",
+    "index": 45
+  },
+  {
+    "surface": "正しい",
+    "reading": "tadashii",
+    "code": "cr-jou2-46",
+    "index": 46
+  },
+  {
+    "surface": "蒸し暑",
+    "reading": "mushiatsu",
+    "code": "cr-jou2-47",
+    "index": 47
+  },
+  {
+    "surface": "弱く",
+    "reading": "yowaku",
+    "code": "cr-jou2-48",
+    "index": 48
+  },
+  {
+    "surface": "名高い",
+    "reading": "nadakai",
+    "code": "cr-jou2-49",
+    "index": 49
+  },
+  {
+    "surface": "気高い",
+    "reading": "kedakai",
+    "code": "cr-jou2-50",
+    "index": 50
+  },
+  {
+    "surface": "安い",
+    "reading": "yasui",
+    "code": "cr-jou2-51",
+    "index": 51
+  },
+  {
+    "surface": "遅い",
+    "reading": "osoi",
+    "code": "cr-jou2-52",
+    "index": 52
+  },
+  {
+    "surface": "冷たい",
+    "reading": "tsumetai",
+    "code": "cr-jou2-53",
+    "index": 53
+  },
+  {
+    "surface": "ぎこちない",
+    "reading": "gikochinai",
+    "code": "cr-jou2-54",
+    "index": 54
+  },
+  {
+    "surface": "そっけない",
+    "reading": "sokkenai",
+    "code": "cr-jou2-55",
+    "index": 55
+  },
+  {
+    "surface": "四角い",
+    "reading": "shikakii",
+    "code": "cr-jou2-56",
+    "index": 56
+  },
+  {
+    "surface": "悲しい",
+    "reading": "kanashii",
+    "code": "cr-jou2-57",
+    "index": 57
+  },
+  {
+    "surface": "恐く",
+    "reading": "kowaku",
+    "code": "cr-jou2-58",
+    "index": 58
+  },
+  {
+    "surface": "多い",
+    "reading": "ooi",
+    "code": "cr-jou2-59",
+    "index": 59
+  },
+  {
+    "surface": "エライ",
+    "reading": "erai",
+    "code": "cr-jou2-60",
+    "index": 60
+  },
+  {
+    "surface": "大きく",
+    "reading": "ookiku",
+    "code": "cr-jou2-61",
+    "index": 61
+  },
+  {
+    "surface": "古き",
+    "reading": "furuki",
+    "code": "cr-jou2-62",
+    "index": 62
+  },
+  {
+    "surface": "美しい",
+    "reading": "utsukushii",
+    "code": "cr-jou2-63",
+    "index": 63
+  },
+  {
+    "surface": "あやうく",
+    "reading": "ayauku",
+    "code": "cr-jou2-64",
+    "index": 64
+  },
+  {
+    "surface": "広い",
+    "reading": "hiroi",
+    "code": "cr-jou2-65",
+    "index": 65
+  },
+  {
+    "surface": "険しい",
+    "reading": "kewashii",
+    "code": "cr-jou2-66",
+    "index": 66
+  },
+  {
+    "surface": "あつかましく",
+    "reading": "atsukamashiku",
+    "code": "cr-jou2-67",
+    "index": 67
+  },
+  {
+    "surface": "えげつない",
+    "reading": "egetsunai",
+    "code": "cr-jou2-68",
+    "index": 68
+  },
+  {
+    "surface": "にくらし",
+    "reading": "nikurashi",
+    "code": "cr-jou2-69",
+    "index": 69
+  },
+  {
+    "surface": "寒かっ",
+    "reading": "samuka",
+    "code": "cr-jou2-70",
+    "index": 70
+  },
+  {
+    "surface": "欲しい",
+    "reading": "hoshii",
+    "code": "cr-jou2-71",
+    "index": 71
+  },
+  {
+    "surface": "冷たく",
+    "reading": "tsumetaku",
+    "code": "cr-jou2-72",
+    "index": 72
+  },
+  {
+    "surface": "旨かっ",
+    "reading": "umaka",
+    "code": "cr-jou2-73",
+    "index": 73
+  },
+  {
+    "surface": "恋しく",
+    "reading": "koishiku",
+    "code": "cr-jou2-74",
+    "index": 74
+  },
+  {
+    "surface": "なかろう",
+    "reading": "nakarou",
+    "code": "cr-jou2-75",
+    "index": 75
+  },
+  {
+    "surface": "たやすい",
+    "reading": "tayasui",
+    "code": "cr-jou2-76",
+    "index": 76
+  },
+  {
+    "surface": "面白けれ",
+    "reading": "omoshirokere",
+    "code": "cr-jou2-77",
+    "index": 77
+  },
+  {
+    "surface": "堅い",
+    "reading": "katai",
+    "code": "cr-jou2-78",
+    "index": 78
+  },
+  {
+    "surface": "なれなれし",
+    "reading": "narenareshi",
+    "code": "cr-jou2-79",
+    "index": 79
+  },
+  {
+    "surface": "さびしく",
+    "reading": "sabishiku",
+    "code": "cr-jou2-80",
+    "index": 80
+  },
+  {
+    "surface": "キモイ",
+    "reading": "kimoi",
+    "code": "cr-jou2-81",
+    "index": 81
+  },
+  {
+    "surface": "おかし",
+    "reading": "okashi",
+    "code": "cr-jou2-82",
+    "index": 82
+  },
+  {
+    "surface": "なけれ",
+    "reading": "nakere",
+    "code": "cr-jou2-83",
+    "index": 83
+  },
+  {
+    "surface": "きつく",
+    "reading": "kitsuku",
+    "code": "cr-jou2-84",
+    "index": 84
+  },
+  {
+    "surface": "疑わしい",
+    "reading": "utagawashii",
+    "code": "cr-jou2-85",
+    "index": 85
+  },
+  {
+    "surface": "淋しい",
+    "reading": "sabishii",
+    "code": "cr-jou2-86",
+    "index": 86
+  },
+  {
+    "surface": "うすく",
+    "reading": "usuku",
+    "code": "cr-jou2-87",
+    "index": 87
+  },
+  {
+    "surface": "凄く",
+    "reading": "sugoku",
+    "code": "cr-jou2-88",
+    "index": 88
+  },
+  {
+    "surface": "重かっ",
+    "reading": "omoka",
+    "code": "cr-jou2-89",
+    "index": 89
+  },
+  {
+    "surface": "おし",
+    "reading": "oshi",
+    "code": "cr-jou2-90",
+    "index": 90
+  },
+  {
+    "surface": "鈍い",
+    "reading": "nibui",
+    "code": "cr-jou2-91",
+    "index": 91
+  },
+  {
+    "surface": "深かっ",
+    "reading": "bukaka",
+    "code": "cr-jou2-92",
+    "index": 92
+  },
+  {
+    "surface": "疎い",
+    "reading": "utoi",
+    "code": "cr-jou2-93",
+    "index": 93
+  },
+  {
+    "surface": "悪しかれ",
+    "reading": "ashikare",
+    "code": "cr-jou2-94",
+    "index": 94
+  },
+  {
+    "surface": "暑い",
+    "reading": "atsui",
+    "code": "cr-jou2-95",
+    "index": 95
+  },
+  {
+    "surface": "やばい",
+    "reading": "yabai",
+    "code": "cr-jou2-96",
+    "index": 96
+  },
+  {
+    "surface": "惜しみなく",
+    "reading": "oshiminaku",
+    "code": "cr-jou2-97",
+    "index": 97
+  },
+  {
+    "surface": "かわい",
+    "reading": "kawai",
+    "code": "cr-jou2-98",
+    "index": 98
+  },
+  {
+    "surface": "寒く",
+    "reading": "samuku",
+    "code": "cr-jou2-99",
+    "index": 99
+  },
+  {
+    "surface": "詳しく",
+    "reading": "kuwashiku",
+    "code": "cr-jou2-100",
+    "index": 100
+  },
+  {
+    "surface": "気難しかっ",
+    "reading": "kimuzukashika",
+    "code": "cr-jou2-101",
+    "index": 101
+  },
+  {
+    "surface": "良き",
+    "reading": "yoki",
+    "code": "cr-jou2-102",
+    "index": 102
+  },
+  {
+    "surface": "強い",
+    "reading": "tsuyoi",
+    "code": "cr-jou2-103",
+    "index": 103
+  },
+  {
+    "surface": "浅黒い",
+    "reading": "asaguroi",
+    "code": "cr-jou2-104",
+    "index": 104
+  },
+  {
+    "surface": "仕方ない",
+    "reading": "shikatanai",
+    "code": "cr-jou2-105",
+    "index": 105
+  },
+  {
+    "surface": "蒸し暑い",
+    "reading": "mushiatsui",
+    "code": "cr-jou2-106",
+    "index": 106
+  },
+  {
+    "surface": "せわしなく",
+    "reading": "sewashinaku",
+    "code": "cr-jou2-107",
+    "index": 107
+  },
+  {
+    "surface": "甘い",
+    "reading": "amai",
+    "code": "cr-jou2-108",
+    "index": 108
+  },
+  {
+    "surface": "ゆるぎない",
+    "reading": "yuruginai",
+    "code": "cr-jou2-109",
+    "index": 109
+  },
+  {
+    "surface": "大きい",
+    "reading": "ookii",
+    "code": "cr-jou2-110",
+    "index": 110
+  },
+  {
+    "surface": "低かっ",
+    "reading": "hikuka",
+    "code": "cr-jou2-111",
+    "index": 111
+  },
+  {
+    "surface": "勇ましかっ",
+    "reading": "isamashika",
+    "code": "cr-jou2-112",
+    "index": 112
+  },
+  {
+    "surface": "青い",
+    "reading": "aoi",
+    "code": "cr-jou2-113",
+    "index": 113
+  },
+  {
+    "surface": "恐ろしい",
+    "reading": "osoroshii",
+    "code": "cr-jou2-114",
+    "index": 114
+  },
+  {
+    "surface": "よろしかっ",
+    "reading": "yoroshika",
+    "code": "cr-jou2-115",
+    "index": 115
+  },
+  {
+    "surface": "遅かれ",
+    "reading": "osokare",
+    "code": "cr-jou2-116",
+    "index": 116
+  },
+  {
+    "surface": "塩っぱい",
+    "reading": "shoppai",
+    "code": "cr-jou2-117",
+    "index": 117
+  },
+  {
+    "surface": "赤く",
+    "reading": "akaku",
+    "code": "cr-jou2-118",
+    "index": 118
+  },
+  {
+    "surface": "ぎこちなく",
+    "reading": "gikochinaku",
+    "code": "cr-jou2-119",
+    "index": 119
+  },
+  {
+    "surface": "難しかっ",
+    "reading": "muzukashika",
+    "code": "cr-jou2-120",
+    "index": 120
+  },
+  {
+    "surface": "美し",
+    "reading": "utsukushi",
+    "code": "cr-jou2-121",
+    "index": 121
+  },
+  {
+    "surface": "賢かっ",
+    "reading": "kashikoka",
+    "code": "cr-jou2-122",
+    "index": 122
+  },
+  {
+    "surface": "うれしい",
+    "reading": "ureshii",
+    "code": "cr-jou2-123",
+    "index": 123
+  },
+  {
+    "surface": "よろしい",
+    "reading": "yoroshii",
+    "code": "cr-jou2-124",
+    "index": 124
+  },
+  {
+    "surface": "カタい",
+    "reading": "katai",
+    "code": "cr-jou2-125",
+    "index": 125
+  },
+  {
+    "surface": "親しく",
+    "reading": "shitashiku",
+    "code": "cr-jou2-126",
+    "index": 126
+  },
+  {
+    "surface": "明るい",
+    "reading": "akarui",
+    "code": "cr-jou2-127",
+    "index": 127
+  },
+  {
+    "surface": "なつっこく",
+    "reading": "natsukkoku",
+    "code": "cr-jou2-128",
+    "index": 128
+  },
+  {
+    "surface": "づよい",
+    "reading": "zuyoi",
+    "code": "cr-jou2-129",
+    "index": 129
+  },
+  {
+    "surface": "はかない",
+    "reading": "hakanai",
+    "code": "cr-jou2-130",
+    "index": 130
+  },
+  {
+    "surface": "ふさわしく",
+    "reading": "fusawashiku",
+    "code": "cr-jou2-131",
+    "index": 131
+  },
+  {
+    "surface": "良けれ",
+    "reading": "yokere",
+    "code": "cr-jou2-132",
+    "index": 132
+  },
+  {
+    "surface": "楽し",
+    "reading": "tanoshi",
+    "code": "cr-jou2-133",
+    "index": 133
+  },
+  {
+    "surface": "ずるい",
+    "reading": "zurui",
+    "code": "cr-jou2-134",
+    "index": 134
+  },
+  {
+    "surface": "すさまじかっ",
+    "reading": "susamajika",
+    "code": "cr-jou2-135",
+    "index": 135
+  },
+  {
+    "surface": "なき",
+    "reading": "naki",
+    "code": "cr-jou2-136",
+    "index": 136
+  },
+  {
+    "surface": "だらしなく",
+    "reading": "darashinaku",
+    "code": "cr-jou2-137",
+    "index": 137
+  },
+  {
+    "surface": "えらい",
+    "reading": "erai",
+    "code": "cr-jou2-138",
+    "index": 138
+  },
+  {
+    "surface": "目ざとく",
+    "reading": "mezatoku",
+    "code": "cr-jou2-139",
+    "index": 139
+  },
+  {
+    "surface": "明るく",
+    "reading": "akaruku",
+    "code": "cr-jou2-140",
+    "index": 140
+  },
+  {
+    "surface": "ずうずうしく",
+    "reading": "zuuzuushiku",
+    "code": "cr-jou2-141",
+    "index": 141
+  },
+  {
+    "surface": "望ましい",
+    "reading": "nozomashii",
+    "code": "cr-jou2-142",
+    "index": 142
+  },
+  {
+    "surface": "すばらしく",
+    "reading": "subarashiku",
+    "code": "cr-jou2-143",
+    "index": 143
+  },
+  {
+    "surface": "しぶとい",
+    "reading": "shibutoi",
+    "code": "cr-jou2-144",
+    "index": 144
+  },
+  {
+    "surface": "やさしく",
+    "reading": "yasashiku",
+    "code": "cr-jou2-145",
+    "index": 145
+  },
+  {
+    "surface": "亡き",
+    "reading": "naki",
+    "code": "cr-jou2-146",
+    "index": 146
+  },
+  {
+    "surface": "小さく",
+    "reading": "chiisaku",
+    "code": "cr-jou2-147",
+    "index": 147
+  },
+  {
+    "surface": "激しい",
+    "reading": "hageshii",
+    "code": "cr-jou2-148",
+    "index": 148
+  },
+  {
+    "surface": "そらぞらしい",
+    "reading": "sorazorashii",
+    "code": "cr-jou2-149",
+    "index": 149
+  },
+  {
+    "surface": "やむなく",
+    "reading": "yamunaku",
+    "code": "cr-jou2-150",
+    "index": 150
+  },
+  {
+    "surface": "あたたかく",
+    "reading": "atatakaku",
+    "code": "cr-jou2-151",
+    "index": 151
+  },
+  {
+    "surface": "よかれ",
+    "reading": "yokare",
+    "code": "cr-jou2-152",
+    "index": 152
+  },
+  {
+    "surface": "太い",
+    "reading": "futoi",
+    "code": "cr-jou2-153",
+    "index": 153
+  },
+  {
+    "surface": "軽く",
+    "reading": "karuku",
+    "code": "cr-jou2-154",
+    "index": 154
+  },
+  {
+    "surface": "あたたかい",
+    "reading": "atatakai",
+    "code": "cr-jou2-155",
+    "index": 155
+  },
+  {
+    "surface": "臭い",
+    "reading": "kusai",
+    "code": "cr-jou2-156",
+    "index": 156
+  },
+  {
+    "surface": "あったかい",
+    "reading": "attakai",
+    "code": "cr-jou2-157",
+    "index": 157
+  },
+  {
+    "surface": "ありがたく",
+    "reading": "arigataku",
+    "code": "cr-jou2-158",
+    "index": 158
+  },
+  {
+    "surface": "寂し",
+    "reading": "sabishi",
+    "code": "cr-jou2-159",
+    "index": 159
+  },
+  {
+    "surface": "細かい",
+    "reading": "komakai",
+    "code": "cr-jou2-160",
+    "index": 160
+  },
+  {
+    "surface": "濃く",
+    "reading": "koku",
+    "code": "cr-jou2-161",
+    "index": 161
+  },
+  {
+    "surface": "まずかっ",
+    "reading": "mazuka",
+    "code": "cr-jou2-162",
+    "index": 162
+  },
+  {
+    "surface": "優しく",
+    "reading": "yasashiku",
+    "code": "cr-jou2-163",
+    "index": 163
+  },
+  {
+    "surface": "無く",
+    "reading": "naku",
+    "code": "cr-jou2-164",
+    "index": 164
+  },
+  {
+    "surface": "おもしろく",
+    "reading": "omoshiroku",
+    "code": "cr-jou2-165",
+    "index": 165
+  },
+  {
+    "surface": "悪かっ",
+    "reading": "waruka",
+    "code": "cr-jou2-166",
+    "index": 166
+  },
+  {
+    "surface": "おそく",
+    "reading": "osoku",
+    "code": "cr-jou2-167",
+    "index": 167
+  },
+  {
+    "surface": "明るかっ",
+    "reading": "akaruka",
+    "code": "cr-jou2-168",
+    "index": 168
+  },
+  {
+    "surface": "あつい",
+    "reading": "atsui",
+    "code": "cr-jou2-169",
+    "index": 169
+  },
+  {
+    "surface": "上手い",
+    "reading": "umai",
+    "code": "cr-jou2-170",
+    "index": 170
+  },
+  {
+    "surface": "優しい",
+    "reading": "yasashii",
+    "code": "cr-jou2-171",
+    "index": 171
+  },
+  {
+    "surface": "浅い",
+    "reading": "asai",
+    "code": "cr-jou2-172",
+    "index": 172
+  },
+  {
+    "surface": "寒し",
+    "reading": "samushi",
+    "code": "cr-jou2-173",
+    "index": 173
+  },
+  {
+    "surface": "凄い",
+    "reading": "sugoi",
+    "code": "cr-jou2-174",
+    "index": 174
+  },
+  {
+    "surface": "厳しく",
+    "reading": "kibishiku",
+    "code": "cr-jou2-175",
+    "index": 175
+  },
+  {
+    "surface": "物憂",
+    "reading": "monou",
+    "code": "cr-jou2-176",
+    "index": 176
+  },
+  {
+    "surface": "うっとうしい",
+    "reading": "uttoushii",
+    "code": "cr-jou2-177",
+    "index": 177
+  },
+  {
+    "surface": "ひろう",
+    "reading": "hirou",
+    "code": "cr-jou2-178",
+    "index": 178
+  },
+  {
+    "surface": "なかっ",
+    "reading": "naka",
+    "code": "cr-jou2-179",
+    "index": 179
+  },
+  {
+    "surface": "細かく",
+    "reading": "komakaku",
+    "code": "cr-jou2-180",
+    "index": 180
+  },
+  {
+    "surface": "そっけなかっ",
+    "reading": "sokkenaka",
+    "code": "cr-jou2-181",
+    "index": 181
+  },
+  {
+    "surface": "小うるさい",
+    "reading": "kourusai",
+    "code": "cr-jou2-182",
+    "index": 182
+  },
+  {
+    "surface": "羨ましく",
+    "reading": "urayamashiku",
+    "code": "cr-jou2-183",
+    "index": 183
+  },
+  {
+    "surface": "すげー",
+    "reading": "sugee",
+    "code": "cr-jou2-184",
+    "index": 184
+  },
+  {
+    "surface": "いそがし",
+    "reading": "isogashi",
+    "code": "cr-jou2-185",
+    "index": 185
+  },
+  {
+    "surface": "むなしい",
+    "reading": "munashii",
+    "code": "cr-jou2-186",
+    "index": 186
+  },
+  {
+    "surface": "侘しい",
+    "reading": "wabishii",
+    "code": "cr-jou2-187",
+    "index": 187
+  },
+  {
+    "surface": "カワイイ",
+    "reading": "kawaii",
+    "code": "cr-jou2-188",
+    "index": 188
+  },
+  {
+    "surface": "厳し",
+    "reading": "kibishi",
+    "code": "cr-jou2-189",
+    "index": 189
+  },
+  {
+    "surface": "ほしい",
+    "reading": "hoshii",
+    "code": "cr-jou2-190",
+    "index": 190
+  },
+  {
+    "surface": "程遠い",
+    "reading": "hodotooi",
+    "code": "cr-jou2-191",
+    "index": 191
+  },
+  {
+    "surface": "黒く",
+    "reading": "kuroku",
+    "code": "cr-jou2-192",
+    "index": 192
+  },
+  {
+    "surface": "濃かっ",
+    "reading": "koka",
+    "code": "cr-jou2-193",
+    "index": 193
+  },
+  {
+    "surface": "青白い",
+    "reading": "aojiroi",
+    "code": "cr-jou2-194",
+    "index": 194
+  },
+  {
+    "surface": "酷い",
+    "reading": "hidoi",
+    "code": "cr-jou2-195",
+    "index": 195
+  },
+  {
+    "surface": "つましい",
+    "reading": "tsumashii",
+    "code": "cr-jou2-196",
+    "index": 196
+  },
+  {
+    "surface": "苦い",
+    "reading": "nigai",
+    "code": "cr-jou2-197",
+    "index": 197
+  },
+  {
+    "surface": "あっけなく",
+    "reading": "akkenaku",
+    "code": "cr-jou2-198",
+    "index": 198
+  },
+  {
+    "surface": "荒い",
+    "reading": "arai",
+    "code": "cr-jou2-199",
+    "index": 199
+  },
+  {
+    "surface": "でかい",
+    "reading": "dekai",
+    "code": "cr-jou2-200",
+    "index": 200
+  },
+  {
+    "surface": "硬く",
+    "reading": "kataku",
+    "code": "cr-jou2-201",
+    "index": 201
+  },
+  {
+    "surface": "暖かく",
+    "reading": "atatakaku",
+    "code": "cr-jou2-202",
+    "index": 202
+  },
+  {
+    "surface": "美しき",
+    "reading": "utsukushiki",
+    "code": "cr-jou2-203",
+    "index": 203
+  },
+  {
+    "surface": "有難く",
+    "reading": "arigataku",
+    "code": "cr-jou2-204",
+    "index": 204
+  },
+  {
+    "surface": "厳しい",
+    "reading": "kibishii",
+    "code": "cr-jou2-205",
+    "index": 205
+  },
+  {
+    "surface": "いかめしい",
+    "reading": "ikameshii",
+    "code": "cr-jou2-206",
+    "index": 206
+  },
+  {
+    "surface": "欲しかっ",
+    "reading": "hoshika",
+    "code": "cr-jou2-207",
+    "index": 207
+  },
+  {
+    "surface": "良かっ",
+    "reading": "yoka",
+    "code": "cr-jou2-208",
+    "index": 208
+  },
+  {
+    "surface": "つつがなく",
+    "reading": "tsutsuganaku",
+    "code": "cr-jou2-209",
+    "index": 209
+  },
+  {
+    "surface": "もろい",
+    "reading": "moroi",
+    "code": "cr-jou2-210",
+    "index": 210
+  },
+  {
+    "surface": "等しい",
+    "reading": "hitoshii",
+    "code": "cr-jou2-211",
+    "index": 211
+  },
+  {
+    "surface": "短い",
+    "reading": "mijikai",
+    "code": "cr-jou2-212",
+    "index": 212
+  },
+  {
+    "surface": "遠い",
+    "reading": "tooi",
+    "code": "cr-jou2-213",
+    "index": 213
+  },
+  {
+    "surface": "弱い",
+    "reading": "yowai",
+    "code": "cr-jou2-214",
+    "index": 214
+  },
+  {
+    "surface": "長く",
+    "reading": "nagaku",
+    "code": "cr-jou2-215",
+    "index": 215
+  },
+  {
+    "surface": "はやい",
+    "reading": "hayai",
+    "code": "cr-jou2-216",
+    "index": 216
+  },
+  {
+    "surface": "すげえ",
+    "reading": "sugee",
+    "code": "cr-jou2-217",
+    "index": 217
+  },
+  {
+    "surface": "おいし",
+    "reading": "oishi",
+    "code": "cr-jou2-218",
+    "index": 218
+  },
+  {
+    "surface": "物凄く",
+    "reading": "monosugoku",
+    "code": "cr-jou2-219",
+    "index": 219
+  },
+  {
+    "surface": "小さい",
+    "reading": "chiisai",
+    "code": "cr-jou2-220",
+    "index": 220
+  },
+  {
+    "surface": "きつ",
+    "reading": "kitsu",
+    "code": "cr-jou2-221",
+    "index": 221
+  },
+  {
+    "surface": "嬉しい",
+    "reading": "ureshii",
+    "code": "cr-jou2-222",
+    "index": 222
+  },
+  {
+    "surface": "はやく",
+    "reading": "hayaku",
+    "code": "cr-jou2-223",
+    "index": 223
+  },
+  {
+    "surface": "多けれ",
+    "reading": "ookere",
+    "code": "cr-jou2-224",
+    "index": 224
+  },
+  {
+    "surface": "辛い",
+    "reading": "tsurai",
+    "code": "cr-jou2-225",
+    "index": 225
+  },
+  {
+    "surface": "さびしい",
+    "reading": "sabishii",
+    "code": "cr-jou2-226",
+    "index": 226
+  },
+  {
+    "surface": "貧しく",
+    "reading": "mazushiku",
+    "code": "cr-jou2-227",
+    "index": 227
+  },
+  {
+    "surface": "口汚なく",
+    "reading": "kuchigitanaku",
+    "code": "cr-jou2-228",
+    "index": 228
+  },
+  {
+    "surface": "鬱陶しい",
+    "reading": "uttoushii",
+    "code": "cr-jou2-229",
+    "index": 229
+  },
+  {
+    "surface": "美しかっ",
+    "reading": "utsukushika",
+    "code": "cr-jou2-230",
+    "index": 230
+  },
+  {
+    "surface": "すごい",
+    "reading": "sugoi",
+    "code": "cr-jou2-231",
+    "index": 231
+  },
+  {
+    "surface": "疑い深",
+    "reading": "utagaibuka",
+    "code": "cr-jou2-232",
+    "index": 232
+  },
+  {
+    "surface": "心地よく",
+    "reading": "kokochiyoku",
+    "code": "cr-jou2-233",
+    "index": 233
+  },
+  {
+    "surface": "ばかばかしい",
+    "reading": "bakabakashii",
+    "code": "cr-jou2-234",
+    "index": 234
+  },
+  {
+    "surface": "厚く",
+    "reading": "atsuku",
+    "code": "cr-jou2-235",
+    "index": 235
+  },
+  {
+    "surface": "幼く",
+    "reading": "osanaku",
+    "code": "cr-jou2-236",
+    "index": 236
+  },
+  {
+    "surface": "尊い",
+    "reading": "toutoi",
+    "code": "cr-jou2-237",
+    "index": 237
+  },
+  {
+    "surface": "しかたなく",
+    "reading": "shikatanaku",
+    "code": "cr-jou2-238",
+    "index": 238
+  },
+  {
+    "surface": "はずかしい",
+    "reading": "hazukashii",
+    "code": "cr-jou2-239",
+    "index": 239
+  },
+  {
+    "surface": "力強い",
+    "reading": "chikarazuyoi",
+    "code": "cr-jou2-240",
+    "index": 240
+  },
+  {
+    "surface": "あやし",
+    "reading": "ayashi",
+    "code": "cr-jou2-241",
+    "index": 241
+  },
+  {
+    "surface": "うらやましく",
+    "reading": "urayamashiku",
+    "code": "cr-jou2-242",
+    "index": 242
+  },
+  {
+    "surface": "珍しく",
+    "reading": "mezurashiku",
+    "code": "cr-jou2-243",
+    "index": 243
+  },
+  {
+    "surface": "可愛かっ",
+    "reading": "kawaika",
+    "code": "cr-jou2-244",
+    "index": 244
+  },
+  {
+    "surface": "面倒くさい",
+    "reading": "mendoukusai",
+    "code": "cr-jou2-245",
+    "index": 245
+  },
+  {
+    "surface": "恐い",
+    "reading": "kowai",
+    "code": "cr-jou2-246",
+    "index": 246
+  },
+  {
+    "surface": "なく",
+    "reading": "naku",
+    "code": "cr-jou2-247",
+    "index": 247
+  },
+  {
+    "surface": "いい",
+    "reading": "ii",
+    "code": "cr-jou2-248",
+    "index": 248
+  },
+  {
+    "surface": "嬉しかっ",
+    "reading": "ureshika",
+    "code": "cr-jou2-249",
+    "index": 249
+  },
+  {
+    "surface": "しつこく",
+    "reading": "shitsukoku",
+    "code": "cr-jou2-250",
+    "index": 250
+  },
+  {
+    "surface": "危うい",
+    "reading": "ayaui",
+    "code": "cr-jou2-251",
+    "index": 251
+  },
+  {
+    "surface": "けわしい",
+    "reading": "kewashii",
+    "code": "cr-jou2-252",
+    "index": 252
+  },
+  {
+    "surface": "暗く",
+    "reading": "kuraku",
+    "code": "cr-jou2-253",
+    "index": 253
+  },
+  {
+    "surface": "汚い",
+    "reading": "kitanai",
+    "code": "cr-jou2-254",
+    "index": 254
+  },
+  {
+    "surface": "うるさい",
+    "reading": "urusai",
+    "code": "cr-jou2-255",
+    "index": 255
+  },
+  {
+    "surface": "青く",
+    "reading": "aoku",
+    "code": "cr-jou2-256",
+    "index": 256
+  },
+  {
+    "surface": "欲しく",
+    "reading": "hoshiku",
+    "code": "cr-jou2-257",
+    "index": 257
+  },
+  {
+    "surface": "恋しかっ",
+    "reading": "koishika",
+    "code": "cr-jou2-258",
+    "index": 258
+  },
+  {
+    "surface": "上手く",
+    "reading": "umaku",
+    "code": "cr-jou2-259",
+    "index": 259
+  },
+  {
+    "surface": "温かく",
+    "reading": "atatakaku",
+    "code": "cr-jou2-260",
+    "index": 260
+  },
+  {
+    "surface": "遅く",
+    "reading": "osoku",
+    "code": "cr-jou2-261",
+    "index": 261
+  },
+  {
+    "surface": "勇ましい",
+    "reading": "isamashii",
+    "code": "cr-jou2-262",
+    "index": 262
+  },
+  {
+    "surface": "ここちよい",
+    "reading": "kokochiyoi",
+    "code": "cr-jou2-263",
+    "index": 263
+  },
+  {
+    "surface": "大人しく",
+    "reading": "otonashiku",
+    "code": "cr-jou2-264",
+    "index": 264
+  },
+  {
+    "surface": "若き",
+    "reading": "wakaki",
+    "code": "cr-jou2-265",
+    "index": 265
+  },
+  {
+    "surface": "固く",
+    "reading": "kataku",
+    "code": "cr-jou2-266",
+    "index": 266
+  },
+  {
+    "surface": "堅苦しい",
+    "reading": "katakurushii",
+    "code": "cr-jou2-267",
+    "index": 267
+  },
+  {
+    "surface": "うれしかっ",
+    "reading": "ureshika",
+    "code": "cr-jou2-268",
+    "index": 268
+  },
+  {
+    "surface": "こわ",
+    "reading": "kowa",
+    "code": "cr-jou2-269",
+    "index": 269
+  },
+  {
+    "surface": "忙しい",
+    "reading": "isogashii",
+    "code": "cr-jou2-270",
+    "index": 270
+  },
+  {
+    "surface": "たわいない",
+    "reading": "tawainai",
+    "code": "cr-jou2-271",
+    "index": 271
+  },
+  {
+    "surface": "賢い",
+    "reading": "kashikoi",
+    "code": "cr-jou2-272",
+    "index": 272
+  },
+  {
+    "surface": "黒い",
+    "reading": "kuroi",
+    "code": "cr-jou2-273",
+    "index": 273
+  },
+  {
+    "surface": "親し",
+    "reading": "shitashi",
+    "code": "cr-jou2-274",
+    "index": 274
+  },
+  {
+    "surface": "平たく",
+    "reading": "hirataku",
+    "code": "cr-jou2-275",
+    "index": 275
+  },
+  {
+    "surface": "可愛い",
+    "reading": "kawaii",
+    "code": "cr-jou2-276",
+    "index": 276
+  },
+  {
+    "surface": "素晴らしい",
+    "reading": "subarashii",
+    "code": "cr-jou2-277",
+    "index": 277
+  },
+  {
+    "surface": "やさし",
+    "reading": "yasashi",
+    "code": "cr-jou2-278",
+    "index": 278
+  },
+  {
+    "surface": "恐ろし",
+    "reading": "osoroshi",
+    "code": "cr-jou2-279",
+    "index": 279
+  },
+  {
+    "surface": "もの凄い",
+    "reading": "monosugoi",
+    "code": "cr-jou2-280",
+    "index": 280
+  },
+  {
+    "surface": "たどたどしい",
+    "reading": "tadotadoshii",
+    "code": "cr-jou2-281",
+    "index": 281
+  },
+  {
+    "surface": "重たかっ",
+    "reading": "omotaka",
+    "code": "cr-jou2-282",
+    "index": 282
+  },
+  {
+    "surface": "だらしない",
+    "reading": "darashinai",
+    "code": "cr-jou2-283",
+    "index": 283
+  },
+  {
+    "surface": "恥ずかしい",
+    "reading": "hazukashii",
+    "code": "cr-jou2-284",
+    "index": 284
+  },
+  {
+    "surface": "かたじけない",
+    "reading": "katajikenai",
+    "code": "cr-jou2-285",
+    "index": 285
+  },
+  {
+    "surface": "えら",
+    "reading": "era",
+    "code": "cr-jou2-286",
+    "index": 286
+  },
+  {
+    "surface": "つつましい",
+    "reading": "tsutsumashii",
+    "code": "cr-jou2-287",
+    "index": 287
+  },
+  {
+    "surface": "デカイ",
+    "reading": "dekai",
+    "code": "cr-jou2-288",
+    "index": 288
+  },
+  {
+    "surface": "古く",
+    "reading": "furuku",
+    "code": "cr-jou2-289",
+    "index": 289
+  },
+  {
+    "surface": "素晴らしく",
+    "reading": "subarashiku",
+    "code": "cr-jou2-290",
+    "index": 290
+  },
+  {
+    "surface": "よけれ",
+    "reading": "yokere",
+    "code": "cr-jou2-291",
+    "index": 291
+  },
+  {
+    "surface": "わるい",
+    "reading": "warui",
+    "code": "cr-jou2-292",
+    "index": 292
+  },
+  {
+    "surface": "長かっ",
+    "reading": "nagaka",
+    "code": "cr-jou2-293",
+    "index": 293
+  },
+  {
+    "surface": "うれしく",
+    "reading": "ureshiku",
+    "code": "cr-jou2-294",
+    "index": 294
+  },
+  {
+    "surface": "寒い",
+    "reading": "samui",
+    "code": "cr-jou2-295",
+    "index": 295
+  },
+  {
+    "surface": "丸い",
+    "reading": "marii",
+    "code": "cr-jou2-296",
+    "index": 296
+  },
+  {
+    "surface": "か弱かっ",
+    "reading": "kayowaka",
+    "code": "cr-jou2-297",
+    "index": 297
+  },
+  {
+    "surface": "長い",
+    "reading": "nagai",
+    "code": "cr-jou2-298",
+    "index": 298
+  },
+  {
+    "surface": "おもしろい",
+    "reading": "omoshiroi",
+    "code": "cr-jou2-299",
+    "index": 299
+  },
+  {
+    "surface": "眠たかっ",
+    "reading": "nemutaka",
+    "code": "cr-jou2-300",
+    "index": 300
+  },
+  {
+    "surface": "息苦し",
+    "reading": "ikigurushi",
+    "code": "cr-jou2-301",
+    "index": 301
+  },
+  {
+    "surface": "おそ",
+    "reading": "oso",
+    "code": "cr-jou2-302",
+    "index": 302
+  },
+  {
+    "surface": "無かっ",
+    "reading": "naka",
+    "code": "cr-jou2-303",
+    "index": 303
+  },
+  {
+    "surface": "面白かっ",
+    "reading": "omoshiroka",
+    "code": "cr-jou2-304",
+    "index": 304
+  },
+  {
+    "surface": "あどけない",
+    "reading": "adokenai",
+    "code": "cr-jou2-305",
+    "index": 305
+  },
+  {
+    "surface": "酸っぱい",
+    "reading": "suppai",
+    "code": "cr-jou2-306",
+    "index": 306
+  },
+  {
+    "surface": "少な",
+    "reading": "sukuna",
+    "code": "cr-jou2-307",
+    "index": 307
+  },
+  {
+    "surface": "速く",
+    "reading": "hayaku",
+    "code": "cr-jou2-308",
+    "index": 308
+  },
+  {
+    "surface": "少なかれ",
+    "reading": "sukunakare",
+    "code": "cr-jou2-309",
+    "index": 309
+  },
+  {
+    "surface": "浅から",
+    "reading": "asakara",
+    "code": "cr-jou2-310",
+    "index": 310
+  },
+  {
+    "surface": "苦し",
+    "reading": "kurushi",
+    "code": "cr-jou2-311",
+    "index": 311
+  },
+  {
+    "surface": "おいしかっ",
+    "reading": "oishika",
+    "code": "cr-jou2-312",
+    "index": 312
+  },
+  {
+    "surface": "はじい",
+    "reading": "hajii",
+    "code": "cr-jou2-313",
+    "index": 313
+  },
+  {
+    "surface": "暖かかっ",
+    "reading": "atatakaka",
+    "code": "cr-jou2-314",
+    "index": 314
+  },
+  {
+    "surface": "早かれ",
+    "reading": "hayakare",
+    "code": "cr-jou2-315",
+    "index": 315
+  },
+  {
+    "surface": "面白",
+    "reading": "omoshiro",
+    "code": "cr-jou2-316",
+    "index": 316
+  },
+  {
+    "surface": "厚い",
+    "reading": "atsui",
+    "code": "cr-jou2-317",
+    "index": 317
+  },
+  {
+    "surface": "惜しい",
+    "reading": "oshii",
+    "code": "cr-jou2-318",
+    "index": 318
+  },
+  {
+    "surface": "恥ずかしく",
+    "reading": "hazukashiku",
+    "code": "cr-jou2-319",
+    "index": 319
+  },
+  {
+    "surface": "よき",
+    "reading": "yoki",
+    "code": "cr-jou2-320",
+    "index": 320
+  },
+  {
+    "surface": "おもい",
+    "reading": "omoi",
+    "code": "cr-jou2-321",
+    "index": 321
+  },
+  {
+    "surface": "幅広い",
+    "reading": "habahiroi",
+    "code": "cr-jou2-322",
+    "index": 322
+  },
+  {
+    "surface": "固い",
+    "reading": "katai",
+    "code": "cr-jou2-323",
+    "index": 323
+  },
+  {
+    "surface": "温かい",
+    "reading": "atatakai",
+    "code": "cr-jou2-324",
+    "index": 324
+  },
+  {
+    "surface": "こっぴどく",
+    "reading": "koppidoku",
+    "code": "cr-jou2-325",
+    "index": 325
+  },
+  {
+    "surface": "はげしく",
+    "reading": "hageshiku",
+    "code": "cr-jou2-326",
+    "index": 326
+  },
+  {
+    "surface": "ツライ",
+    "reading": "tsurai",
+    "code": "cr-jou2-327",
+    "index": 327
+  },
+  {
+    "surface": "暑く",
+    "reading": "atsuku",
+    "code": "cr-jou2-328",
+    "index": 328
+  },
+  {
+    "surface": "気まずかっ",
+    "reading": "kimazuka",
+    "code": "cr-jou2-329",
+    "index": 329
+  },
+  {
+    "surface": "うれし",
+    "reading": "ureshi",
+    "code": "cr-jou2-330",
+    "index": 330
+  },
+  {
+    "surface": "ひもじ",
+    "reading": "himoji",
+    "code": "cr-jou2-331",
+    "index": 331
+  },
+  {
+    "surface": "熱かっ",
+    "reading": "atsuka",
+    "code": "cr-jou2-332",
+    "index": 332
+  },
+  {
+    "surface": "でかけれ",
+    "reading": "dekakere",
+    "code": "cr-jou2-333",
+    "index": 333
+  },
+  {
+    "surface": "おかしく",
+    "reading": "okashiku",
+    "code": "cr-jou2-334",
+    "index": 334
+  },
+  {
+    "surface": "おいしく",
+    "reading": "oishiku",
+    "code": "cr-jou2-335",
+    "index": 335
+  },
+  {
+    "surface": "忙しかっ",
+    "reading": "isogashika",
+    "code": "cr-jou2-336",
+    "index": 336
+  },
+  {
+    "surface": "甘かっ",
+    "reading": "amaka",
+    "code": "cr-jou2-337",
+    "index": 337
+  },
+  {
+    "surface": "熱い",
+    "reading": "atsui",
+    "code": "cr-jou2-338",
+    "index": 338
+  },
+  {
+    "surface": "ぬるく",
+    "reading": "nuruku",
+    "code": "cr-jou2-339",
+    "index": 339
+  },
+  {
+    "surface": "からかっ",
+    "reading": "karaka",
+    "code": "cr-jou2-340",
+    "index": 340
+  },
+  {
+    "surface": "目ざとい",
+    "reading": "mezatoi",
+    "code": "cr-jou2-341",
+    "index": 341
+  },
+  {
+    "surface": "赤かっ",
+    "reading": "akaka",
+    "code": "cr-jou2-342",
+    "index": 342
+  },
+  {
+    "surface": "心強い",
+    "reading": "kokorozuyoi",
+    "code": "cr-jou2-343",
+    "index": 343
+  },
+  {
+    "surface": "後ろ暗い",
+    "reading": "ushirogurai",
+    "code": "cr-jou2-344",
+    "index": 344
+  },
+  {
+    "surface": "はずかしく",
+    "reading": "hazukashiku",
+    "code": "cr-jou2-345",
+    "index": 345
+  },
+  {
+    "surface": "渋い",
+    "reading": "shibui",
+    "code": "cr-jou2-346",
+    "index": 346
+  },
+  {
+    "surface": "無き",
+    "reading": "naki",
+    "code": "cr-jou2-347",
+    "index": 347
+  },
+  {
+    "surface": "涼しかっ",
+    "reading": "suzushika",
+    "code": "cr-jou2-348",
+    "index": 348
+  },
+  {
+    "surface": "騒がしく",
+    "reading": "sawagashiku",
+    "code": "cr-jou2-349",
+    "index": 349
+  },
+  {
+    "surface": "だらしな",
+    "reading": "darashina",
+    "code": "cr-jou2-350",
+    "index": 350
+  },
+  {
+    "surface": "卑しい",
+    "reading": "iyashii",
+    "code": "cr-jou2-351",
+    "index": 351
+  },
+  {
+    "surface": "欲し",
+    "reading": "hoshi",
+    "code": "cr-jou2-352",
+    "index": 352
+  },
+  {
+    "surface": "疑わし",
+    "reading": "utagawashi",
+    "code": "cr-jou2-353",
+    "index": 353
+  },
+  {
+    "surface": "かわいらしい",
+    "reading": "kawairashii",
+    "code": "cr-jou2-354",
+    "index": 354
+  },
+  {
+    "surface": "ない",
+    "reading": "nai",
+    "code": "cr-jou2-355",
+    "index": 355
+  },
+  {
+    "surface": "広く",
+    "reading": "hiroku",
+    "code": "cr-jou2-356",
+    "index": 356
+  },
+  {
+    "surface": "厳めしい",
+    "reading": "ikameshii",
+    "code": "cr-jou2-357",
+    "index": 357
+  },
+  {
+    "surface": "恐ろしく",
+    "reading": "osoroshiku",
+    "code": "cr-jou2-358",
+    "index": 358
+  },
+  {
+    "surface": "鋭い",
+    "reading": "surudoi",
+    "code": "cr-jou2-359",
+    "index": 359
+  },
+  {
+    "surface": "みすぼらしく",
+    "reading": "misuborashiku",
+    "code": "cr-jou2-360",
+    "index": 360
+  },
+  {
+    "surface": "美しく",
+    "reading": "utsukushiku",
+    "code": "cr-jou2-361",
+    "index": 361
+  },
+  {
+    "surface": "そっけなく",
+    "reading": "sokkenaku",
+    "code": "cr-jou2-362",
+    "index": 362
+  },
+  {
+    "surface": "手厚く",
+    "reading": "teatsuku",
+    "code": "cr-jou2-363",
+    "index": 363
+  },
+  {
+    "surface": "近い",
+    "reading": "chikai",
+    "code": "cr-jou2-364",
+    "index": 364
+  },
+  {
+    "surface": "危うく",
+    "reading": "ayauku",
+    "code": "cr-jou2-365",
+    "index": 365
+  },
+  {
+    "surface": "早く",
+    "reading": "hayaku",
+    "code": "cr-jou2-366",
+    "index": 366
+  },
+  {
+    "surface": "良く",
+    "reading": "yoku",
+    "code": "cr-jou2-367",
+    "index": 367
+  },
+  {
+    "surface": "苦しい",
+    "reading": "kurushii",
+    "code": "cr-jou2-368",
+    "index": 368
+  },
+  {
+    "surface": "冷たかっ",
+    "reading": "tsumetaka",
+    "code": "cr-jou2-369",
+    "index": 369
+  },
+  {
+    "surface": "シブ",
+    "reading": "shibu",
+    "code": "cr-jou2-370",
+    "index": 370
+  },
+  {
+    "surface": "鈍く",
+    "reading": "nibuku",
+    "code": "cr-jou2-371",
+    "index": 371
+  },
+  {
+    "surface": "誇らし",
+    "reading": "hokorashi",
+    "code": "cr-jou2-372",
+    "index": 372
+  },
+  {
+    "surface": "細い",
+    "reading": "hosoi",
+    "code": "cr-jou2-373",
+    "index": 373
+  },
+  {
+    "surface": "うるさく",
+    "reading": "urusaku",
+    "code": "cr-jou2-374",
+    "index": 374
+  },
+  {
+    "surface": "高かっ",
+    "reading": "takaka",
+    "code": "cr-jou2-375",
+    "index": 375
+  },
+  {
+    "surface": "寂しい",
+    "reading": "sabishii",
+    "code": "cr-jou2-376",
+    "index": 376
+  },
+  {
+    "surface": "低けれ",
+    "reading": "hikukere",
+    "code": "cr-jou2-377",
+    "index": 377
+  },
+  {
+    "surface": "多き",
+    "reading": "ooki",
+    "code": "cr-jou2-378",
+    "index": 378
+  },
+  {
+    "surface": "粘り強い",
+    "reading": "nebarizuyoi",
+    "code": "cr-jou2-379",
+    "index": 379
+  },
+  {
+    "surface": "苛立たしい",
+    "reading": "iradatashii",
+    "code": "cr-jou2-380",
+    "index": 380
+  },
+  {
+    "surface": "短かっ",
+    "reading": "mijikaka",
+    "code": "cr-jou2-381",
+    "index": 381
+  },
+  {
+    "surface": "あぶない",
+    "reading": "abunai",
+    "code": "cr-jou2-382",
+    "index": 382
+  },
+  {
+    "surface": "白かっ",
+    "reading": "shiroka",
+    "code": "cr-jou2-383",
+    "index": 383
+  },
+  {
+    "surface": "若い",
+    "reading": "wakai",
+    "code": "cr-jou2-384",
+    "index": 384
+  },
+  {
+    "surface": "ぎょうぎょうしく",
+    "reading": "gyougyoushiku",
+    "code": "cr-jou2-385",
+    "index": 385
+  },
+  {
+    "surface": "正しく",
+    "reading": "tadashiku",
+    "code": "cr-jou2-386",
+    "index": 386
+  },
+  {
+    "surface": "寂しく",
+    "reading": "sabishiku",
+    "code": "cr-jou2-387",
+    "index": 387
+  },
+  {
+    "surface": "きわどい",
+    "reading": "kiwadoi",
+    "code": "cr-jou2-388",
+    "index": 388
+  },
+  {
+    "surface": "すばらしい",
+    "reading": "subarashii",
+    "code": "cr-jou2-389",
+    "index": 389
+  },
+  {
+    "surface": "遠く",
+    "reading": "tooku",
+    "code": "cr-jou2-390",
+    "index": 390
+  },
+  {
+    "surface": "楽しい",
+    "reading": "tanoshii",
+    "code": "cr-jou2-391",
+    "index": 391
+  },
+  {
+    "surface": "易しい",
+    "reading": "yasashii",
+    "code": "cr-jou2-392",
+    "index": 392
+  },
+  {
+    "surface": "やさしかっ",
+    "reading": "yasashika",
+    "code": "cr-jou2-393",
+    "index": 393
+  },
+  {
+    "surface": "くわしく",
+    "reading": "kuwashiku",
+    "code": "cr-jou2-394",
+    "index": 394
+  },
+  {
+    "surface": "セコイ",
+    "reading": "sekoi",
+    "code": "cr-jou2-395",
+    "index": 395
+  },
+  {
+    "surface": "醜い",
+    "reading": "minikii",
+    "code": "cr-jou2-396",
+    "index": 396
+  },
+  {
+    "surface": "めでたい",
+    "reading": "medetai",
+    "code": "cr-jou2-397",
+    "index": 397
+  },
+  {
+    "surface": "安く",
+    "reading": "yasuku",
+    "code": "cr-jou2-398",
+    "index": 398
+  },
+  {
+    "surface": "多かれ",
+    "reading": "ookare",
+    "code": "cr-jou2-399",
+    "index": 399
+  },
+  {
+    "surface": "可愛らしい",
+    "reading": "kawairashii",
+    "code": "cr-jou2-400",
+    "index": 400
+  },
+  {
+    "surface": "きたない",
+    "reading": "kitanai",
+    "code": "cr-jou2-401",
+    "index": 401
+  },
+  {
+    "surface": "愛くるしい",
+    "reading": "aikurushii",
+    "code": "cr-jou2-402",
+    "index": 402
+  },
+  {
+    "surface": "少なく",
+    "reading": "sukunaku",
+    "code": "cr-jou2-403",
+    "index": 403
+  },
+  {
+    "surface": "いそがしい",
+    "reading": "isogashii",
+    "code": "cr-jou2-404",
+    "index": 404
+  },
+  {
+    "surface": "狭く",
+    "reading": "semaku",
+    "code": "cr-jou2-405",
+    "index": 405
+  },
+  {
+    "surface": "ほど近い",
+    "reading": "hodochikai",
+    "code": "cr-jou2-406",
+    "index": 406
+  },
+  {
+    "surface": "薄い",
+    "reading": "usui",
+    "code": "cr-jou2-407",
+    "index": 407
+  },
+  {
+    "surface": "やかましい",
+    "reading": "yakamashii",
+    "code": "cr-jou2-408",
+    "index": 408
+  },
+  {
+    "surface": "重く",
+    "reading": "omoku",
+    "code": "cr-jou2-409",
+    "index": 409
+  },
+  {
+    "surface": "さりげなく",
+    "reading": "sarigenaku",
+    "code": "cr-jou2-410",
+    "index": 410
+  },
+  {
+    "surface": "たのし",
+    "reading": "tanoshi",
+    "code": "cr-jou2-411",
+    "index": 411
+  },
+  {
+    "surface": "良かれ",
+    "reading": "yokare",
+    "code": "cr-jou2-412",
+    "index": 412
+  },
+  {
+    "surface": "腹黒い",
+    "reading": "haraguroi",
+    "code": "cr-jou2-413",
+    "index": 413
+  },
+  {
+    "surface": "まずく",
+    "reading": "mazuku",
+    "code": "cr-jou2-414",
+    "index": 414
+  },
+  {
+    "surface": "厳しかっ",
+    "reading": "kibishika",
+    "code": "cr-jou2-415",
+    "index": 415
+  },
+  {
+    "surface": "短く",
+    "reading": "mijikaku",
+    "code": "cr-jou2-416",
+    "index": 416
+  },
+  {
+    "surface": "うらやましい",
+    "reading": "urayamashii",
+    "code": "cr-jou2-417",
+    "index": 417
+  },
+  {
+    "surface": "すさまじい",
+    "reading": "susamajii",
+    "code": "cr-jou2-418",
+    "index": 418
+  },
+  {
+    "surface": "心無い",
+    "reading": "kokoronai",
+    "code": "cr-jou2-419",
+    "index": 419
+  },
+  {
+    "surface": "悲し",
+    "reading": "kanashi",
+    "code": "cr-jou2-420",
+    "index": 420
+  },
+  {
+    "surface": "煩わしかっ",
+    "reading": "wazurawashika",
+    "code": "cr-jou2-421",
+    "index": 421
+  },
+  {
+    "surface": "丸く",
+    "reading": "maruku",
+    "code": "cr-jou2-422",
+    "index": 422
+  },
+  {
+    "surface": "素早く",
+    "reading": "subayaku",
+    "code": "cr-jou2-423",
+    "index": 423
+  },
+  {
+    "surface": "面白い",
+    "reading": "omoshiroi",
+    "code": "cr-jou2-424",
+    "index": 424
+  },
+  {
+    "surface": "貧しい",
+    "reading": "mazushii",
+    "code": "cr-jou2-425",
+    "index": 425
+  },
+  {
+    "surface": "素っ気なく",
+    "reading": "sokkenaku",
+    "code": "cr-jou2-426",
+    "index": 426
+  },
+  {
+    "surface": "イタイ",
+    "reading": "itai",
+    "code": "cr-jou2-427",
+    "index": 427
+  },
+  {
+    "surface": "むなしく",
+    "reading": "munashiku",
+    "code": "cr-jou2-428",
+    "index": 428
+  },
+  {
+    "surface": "少なから",
+    "reading": "sukunakara",
+    "code": "cr-jou2-429",
+    "index": 429
+  },
+  {
+    "surface": "難しい",
+    "reading": "muzukashii",
+    "code": "cr-jou2-430",
+    "index": 430
+  },
+  {
+    "surface": "根深い",
+    "reading": "nebukai",
+    "code": "cr-jou2-431",
+    "index": 431
+  },
+  {
+    "surface": "あかく",
+    "reading": "akaku",
+    "code": "cr-jou2-432",
+    "index": 432
+  },
+  {
+    "surface": "たやすく",
+    "reading": "tayasuku",
+    "code": "cr-jou2-433",
+    "index": 433
+  },
+  {
+    "surface": "麗し",
+    "reading": "uruwashi",
+    "code": "cr-jou2-434",
+    "index": 434
+  },
+  {
+    "surface": "大きかっ",
+    "reading": "ookika",
+    "code": "cr-jou2-435",
+    "index": 435
+  },
+  {
+    "surface": "悲しかっ",
+    "reading": "kanashika",
+    "code": "cr-jou2-436",
+    "index": 436
+  },
+  {
+    "surface": "まずい",
+    "reading": "mazui",
+    "code": "cr-jou2-437",
+    "index": 437
+  },
+  {
+    "surface": "思わしく",
+    "reading": "omowashiku",
+    "code": "cr-jou2-438",
+    "index": 438
+  },
+  {
+    "surface": "忙し",
+    "reading": "isogashi",
+    "code": "cr-jou2-439",
+    "index": 439
+  },
+  {
+    "surface": "いとおしく",
+    "reading": "itooshiku",
+    "code": "cr-jou2-440",
+    "index": 440
+  },
+  {
+    "surface": "待ち遠しい",
+    "reading": "machidooshii",
+    "code": "cr-jou2-441",
+    "index": 441
+  },
+  {
+    "surface": "ひろい",
+    "reading": "hiroi",
+    "code": "cr-jou2-442",
+    "index": 442
+  },
+  {
+    "surface": "みみっちい",
+    "reading": "mimitchii",
+    "code": "cr-jou2-443",
+    "index": 443
+  },
+  {
+    "surface": "腹立たし",
+    "reading": "haradatashi",
+    "code": "cr-jou2-444",
+    "index": 444
+  },
+  {
+    "surface": "ほしかっ",
+    "reading": "hoshika",
+    "code": "cr-jou2-445",
+    "index": 445
+  },
+  {
+    "surface": "たくましい",
+    "reading": "takumashii",
+    "code": "cr-jou2-446",
+    "index": 446
+  },
+  {
+    "surface": "毛深い",
+    "reading": "kebukai",
+    "code": "cr-jou2-447",
+    "index": 447
+  },
+  {
+    "surface": "涼しい",
+    "reading": "suzushii",
+    "code": "cr-jou2-448",
+    "index": 448
+  },
+  {
+    "surface": "重たい",
+    "reading": "omotai",
+    "code": "cr-jou2-449",
+    "index": 449
+  },
+  {
+    "surface": "悲しく",
+    "reading": "kanashiku",
+    "code": "cr-jou2-450",
+    "index": 450
+  },
+  {
+    "surface": "早い",
+    "reading": "hayai",
+    "code": "cr-jou2-451",
+    "index": 451
+  },
+  {
+    "surface": "眠かっ",
+    "reading": "nemuka",
+    "code": "cr-jou2-452",
+    "index": 452
+  },
+  {
+    "surface": "厚かましく",
+    "reading": "atsukamashiku",
+    "code": "cr-jou2-453",
+    "index": 453
+  },
+  {
+    "surface": "真っ白い",
+    "reading": "masshiroi",
+    "code": "cr-jou2-454",
+    "index": 454
+  },
+  {
+    "surface": "粗い",
+    "reading": "arai",
+    "code": "cr-jou2-455",
+    "index": 455
+  },
+  {
+    "surface": "嘆かわしい",
+    "reading": "nagekawashii",
+    "code": "cr-jou2-456",
+    "index": 456
+  },
+  {
+    "surface": "愛らしい",
+    "reading": "airashii",
+    "code": "cr-jou2-457",
+    "index": 457
+  },
+  {
+    "surface": "若く",
+    "reading": "wakaku",
+    "code": "cr-jou2-458",
+    "index": 458
+  },
+  {
+    "surface": "悩ましい",
+    "reading": "nayamashii",
+    "code": "cr-jou2-459",
+    "index": 459
+  },
+  {
+    "surface": "速かっ",
+    "reading": "hayaka",
+    "code": "cr-jou2-460",
+    "index": 460
+  },
+  {
+    "surface": "よろしけれ",
+    "reading": "yoroshikere",
+    "code": "cr-jou2-461",
+    "index": 461
+  },
+  {
+    "surface": "悪く",
+    "reading": "waruku",
+    "code": "cr-jou2-462",
+    "index": 462
+  },
+  {
+    "surface": "クサイ",
+    "reading": "kusai",
+    "code": "cr-jou2-463",
+    "index": 463
+  },
+  {
+    "surface": "聡い",
+    "reading": "satoi",
+    "code": "cr-jou2-464",
+    "index": 464
+  },
+  {
+    "surface": "かゆい",
+    "reading": "kayui",
+    "code": "cr-jou2-465",
+    "index": 465
+  },
+  {
+    "surface": "乏しい",
+    "reading": "toboshii",
+    "code": "cr-jou2-466",
+    "index": 466
+  },
+  {
+    "surface": "詳しい",
+    "reading": "kuwashii",
+    "code": "cr-jou2-467",
+    "index": 467
+  },
+  {
+    "surface": "なかれ",
+    "reading": "nakare",
+    "code": "cr-jou2-468",
+    "index": 468
+  },
+  {
+    "surface": "気恥ずかしい",
+    "reading": "kihazukashii",
+    "code": "cr-jou2-469",
+    "index": 469
+  },
+  {
+    "surface": "ちかい",
+    "reading": "chikai",
+    "code": "cr-jou2-470",
+    "index": 470
+  },
+  {
+    "surface": "よい",
+    "reading": "yoi",
+    "code": "cr-jou2-471",
+    "index": 471
+  },
+  {
+    "surface": "軟らかく",
+    "reading": "yawarakaku",
+    "code": "cr-jou2-472",
+    "index": 472
+  },
+  {
+    "surface": "少なかっ",
+    "reading": "sukunaka",
+    "code": "cr-jou2-473",
+    "index": 473
+  },
+  {
+    "surface": "低く",
+    "reading": "hikuku",
+    "code": "cr-jou2-474",
+    "index": 474
+  },
+  {
+    "surface": "赤い",
+    "reading": "akai",
+    "code": "cr-jou2-475",
+    "index": 475
+  },
+  {
+    "surface": "忙しく",
+    "reading": "isogashiku",
+    "code": "cr-jou2-476",
+    "index": 476
+  },
+  {
+    "surface": "うまかっ",
+    "reading": "umaka",
+    "code": "cr-jou2-477",
+    "index": 477
+  },
+  {
+    "surface": "賢く",
+    "reading": "kashikoku",
+    "code": "cr-jou2-478",
+    "index": 478
+  },
+  {
+    "surface": "粗く",
+    "reading": "araku",
+    "code": "cr-jou2-479",
+    "index": 479
+  },
+  {
+    "surface": "失い",
+    "reading": "nai",
+    "code": "cr-jou2-480",
+    "index": 480
+  },
+  {
+    "surface": "おもしろ",
+    "reading": "omoshiro",
+    "code": "cr-jou2-481",
+    "index": 481
+  },
+  {
+    "surface": "難し",
+    "reading": "muzukashi",
+    "code": "cr-jou2-482",
+    "index": 482
+  },
+  {
+    "surface": "哀しい",
+    "reading": "kanashii",
+    "code": "cr-jou2-483",
+    "index": 483
+  },
+  {
+    "surface": "痛ましい",
+    "reading": "itamashii",
+    "code": "cr-jou2-484",
+    "index": 484
+  },
+  {
+    "surface": "きつい",
+    "reading": "kitsui",
+    "code": "cr-jou2-485",
+    "index": 485
+  },
+  {
+    "surface": "嬉し",
+    "reading": "ureshi",
+    "code": "cr-jou2-486",
+    "index": 486
+  },
+  {
+    "surface": "なさけない",
+    "reading": "nasakenai",
+    "code": "cr-jou2-487",
+    "index": 487
+  },
+  {
+    "surface": "みすぼらしい",
+    "reading": "misuborashii",
+    "code": "cr-jou2-488",
+    "index": 488
+  },
+  {
+    "surface": "すごく",
+    "reading": "sugoku",
+    "code": "cr-jou2-489",
+    "index": 489
+  },
+  {
+    "surface": "偉い",
+    "reading": "erai",
+    "code": "cr-jou2-490",
+    "index": 490
+  },
+  {
+    "surface": "ものすごく",
+    "reading": "monosugoku",
+    "code": "cr-jou2-491",
+    "index": 491
+  },
+  {
+    "surface": "楽しかっ",
+    "reading": "tanoshika",
+    "code": "cr-jou2-492",
+    "index": 492
+  },
+  {
+    "surface": "良い",
+    "reading": "yoi",
+    "code": "cr-jou2-493",
+    "index": 493
+  },
+  {
+    "surface": "心深い",
+    "reading": "kokorofukai",
+    "code": "cr-jou2-494",
+    "index": 494
+  },
+  {
+    "surface": "なつかしい",
+    "reading": "natsukashii",
+    "code": "cr-jou2-495",
+    "index": 495
+  },
+  {
+    "surface": "恐ろしかっ",
+    "reading": "osoroshika",
+    "code": "cr-jou2-496",
+    "index": 496
+  },
+  {
+    "surface": "柔らかく",
+    "reading": "yawarakaku",
+    "code": "cr-jou2-497",
+    "index": 497
+  },
+  {
+    "surface": "素っ気ない",
+    "reading": "sokkenai",
+    "code": "cr-jou2-498",
+    "index": 498
+  },
+  {
+    "surface": "乏しかっ",
+    "reading": "toboshika",
+    "code": "cr-jou2-499",
+    "index": 499
+  },
+  {
+    "surface": "強かっ",
+    "reading": "tsuyoka",
+    "code": "cr-jou2-500",
+    "index": 500
+  },
+  {
+    "surface": "ありがたい",
+    "reading": "arigatai",
+    "code": "cr-jou2-501",
+    "index": 501
+  },
+  {
+    "surface": "淡い",
+    "reading": "awai",
+    "code": "cr-jou2-502",
+    "index": 502
+  },
+  {
+    "surface": "頼もしい",
+    "reading": "tanomoshii",
+    "code": "cr-jou2-503",
+    "index": 503
+  },
+  {
+    "surface": "こわい",
+    "reading": "kowai",
+    "code": "cr-jou2-504",
+    "index": 504
+  },
+  {
+    "surface": "著しい",
+    "reading": "ichijirushii",
+    "code": "cr-jou2-505",
+    "index": 505
+  },
+  {
+    "surface": "怖く",
+    "reading": "kowaku",
+    "code": "cr-jou2-506",
+    "index": 506
+  },
+  {
+    "surface": "分厚い",
+    "reading": "buachii",
+    "code": "cr-jou2-507",
+    "index": 507
+  },
+  {
+    "surface": "悔し",
+    "reading": "kuyashi",
+    "code": "cr-jou2-508",
+    "index": 508
+  },
+  {
+    "surface": "悪い",
+    "reading": "warui",
+    "code": "cr-jou2-509",
+    "index": 509
+  },
+  {
+    "surface": "手強い",
+    "reading": "tegowai",
+    "code": "cr-jou2-510",
+    "index": 510
+  },
+  {
+    "surface": "遅かっ",
+    "reading": "osoka",
+    "code": "cr-jou2-511",
+    "index": 511
+  },
+  {
+    "surface": "かわいく",
+    "reading": "kawaiku",
+    "code": "cr-jou2-512",
+    "index": 512
+  },
+  {
+    "surface": "優しかっ",
+    "reading": "yasashika",
+    "code": "cr-jou2-513",
+    "index": 513
+  },
+  {
+    "surface": "ナガ",
+    "reading": "naga",
+    "code": "cr-jou2-514",
+    "index": 514
+  },
+  {
+    "surface": "惜し",
+    "reading": "oshi",
+    "code": "cr-jou2-515",
+    "index": 515
+  },
+  {
+    "surface": "キツイ",
+    "reading": "kitsui",
+    "code": "cr-jou2-516",
+    "index": 516
+  },
+  {
+    "surface": "ひどく",
+    "reading": "hidoku",
+    "code": "cr-jou2-517",
+    "index": 517
+  },
+  {
+    "surface": "新しい",
+    "reading": "atarashii",
+    "code": "cr-jou2-518",
+    "index": 518
+  },
+  {
+    "surface": "あぶなく",
+    "reading": "abunaku",
+    "code": "cr-jou2-519",
+    "index": 519
+  },
+  {
+    "surface": "わかく",
+    "reading": "wakaku",
+    "code": "cr-jou2-520",
+    "index": 520
+  },
+  {
+    "surface": "等しく",
+    "reading": "hitoshiku",
+    "code": "cr-jou2-521",
+    "index": 521
+  },
+  {
+    "surface": "口汚く",
+    "reading": "kuchigitanaku",
+    "code": "cr-jou2-522",
+    "index": 522
+  },
+  {
+    "surface": "軽い",
+    "reading": "karui",
+    "code": "cr-jou2-523",
+    "index": 523
+  },
+  {
+    "surface": "てひどい",
+    "reading": "tehidoi",
+    "code": "cr-jou2-524",
+    "index": 524
+  },
+  {
+    "surface": "よから",
+    "reading": "yokara",
+    "code": "cr-jou2-525",
+    "index": 525
+  },
+  {
+    "surface": "つらい",
+    "reading": "tsurai",
+    "code": "cr-jou2-526",
+    "index": 526
+  },
+  {
+    "surface": "まぶしい",
+    "reading": "mabushii",
+    "code": "cr-jou2-527",
+    "index": 527
+  },
+  {
+    "surface": "空い",
+    "reading": "munashii",
+    "code": "cr-jou2-528",
+    "index": 528
+  },
+  {
+    "surface": "高く",
+    "reading": "takaku",
+    "code": "cr-jou2-529",
+    "index": 529
+  },
+  {
+    "surface": "よそよそし",
+    "reading": "yosoyososhi",
+    "code": "cr-jou2-530",
+    "index": 530
+  },
+  {
+    "surface": "黄色く",
+    "reading": "kiiroku",
+    "code": "cr-jou2-531",
+    "index": 531
+  },
+  {
+    "surface": "おかしい",
+    "reading": "okashii",
+    "code": "cr-jou2-532",
+    "index": 532
+  },
+  {
+    "surface": "ぶかい",
+    "reading": "bukai",
+    "code": "cr-jou2-533",
+    "index": 533
+  },
+  {
+    "surface": "もろく",
+    "reading": "moroku",
+    "code": "cr-jou2-534",
+    "index": 534
+  },
+  {
+    "surface": "懐っこい",
+    "reading": "natsukkoi",
+    "code": "cr-jou2-535",
+    "index": 535
+  },
+  {
+    "surface": "かわいらしく",
+    "reading": "kawairashiku",
+    "code": "cr-jou2-536",
+    "index": 536
+  },
+  {
+    "surface": "痛かっ",
+    "reading": "itaka",
+    "code": "cr-jou2-537",
+    "index": 537
+  },
+  {
+    "surface": "速い",
+    "reading": "hayai",
+    "code": "cr-jou2-538",
+    "index": 538
+  },
+  {
+    "surface": "オモロイ",
+    "reading": "omoroi",
+    "code": "cr-jou2-539",
+    "index": 539
+  },
+  {
+    "surface": "スゴク",
+    "reading": "sugoku",
+    "code": "cr-jou2-540",
+    "index": 540
+  },
+  {
+    "surface": "スゴイ",
+    "reading": "sugoi",
+    "code": "cr-jou2-541",
+    "index": 541
+  },
+  {
+    "surface": "気難し",
+    "reading": "kimuzukashi",
+    "code": "cr-jou2-542",
+    "index": 542
+  },
+  {
+    "surface": "怖かっ",
+    "reading": "kowaka",
+    "code": "cr-jou2-543",
+    "index": 543
+  },
+  {
+    "surface": "輝かしい",
+    "reading": "kagayakashii",
+    "code": "cr-jou2-544",
+    "index": 544
+  },
+  {
+    "surface": "悔しい",
+    "reading": "kuyashii",
+    "code": "cr-jou2-545",
+    "index": 545
+  },
+  {
+    "surface": "きびしい",
+    "reading": "kibishii",
+    "code": "cr-jou2-546",
+    "index": 546
+  },
+  {
+    "surface": "しおらしい",
+    "reading": "shiorashii",
+    "code": "cr-jou2-547",
+    "index": 547
+  },
+  {
+    "surface": "うまい",
+    "reading": "umai",
+    "code": "cr-jou2-548",
+    "index": 548
+  },
+  {
+    "surface": "おかしかっ",
+    "reading": "okashika",
+    "code": "cr-jou2-549",
+    "index": 549
+  },
+  {
+    "surface": "貧しかっ",
+    "reading": "mazushika",
+    "code": "cr-jou2-550",
+    "index": 550
+  },
+  {
+    "surface": "幼い",
+    "reading": "osanai",
+    "code": "cr-jou2-551",
+    "index": 551
+  },
+  {
+    "surface": "ウルサイ",
+    "reading": "urusai",
+    "code": "cr-jou2-552",
+    "index": 552
+  },
+  {
+    "surface": "若かっ",
+    "reading": "wakaka",
+    "code": "cr-jou2-553",
+    "index": 553
+  },
+  {
+    "surface": "危ない",
+    "reading": "abunai",
+    "code": "cr-jou2-554",
+    "index": 554
+  },
+  {
+    "surface": "眠い",
+    "reading": "nemui",
+    "code": "cr-jou2-555",
+    "index": 555
+  },
+  {
+    "surface": "遠から",
+    "reading": "tookara",
+    "code": "cr-jou2-556",
+    "index": 556
+  },
+  {
+    "surface": "ひどい",
+    "reading": "hidoi",
+    "code": "cr-jou2-557",
+    "index": 557
+  },
+  {
+    "surface": "薄く",
+    "reading": "usuku",
+    "code": "cr-jou2-558",
+    "index": 558
+  },
+  {
+    "surface": "おとなし",
+    "reading": "otonashi",
+    "code": "cr-jou2-559",
+    "index": 559
+  },
+  {
+    "surface": "恥ずかし",
+    "reading": "hazukashi",
+    "code": "cr-jou2-560",
+    "index": 560
+  },
+  {
+    "surface": "カシコ",
+    "reading": "kashiko",
+    "code": "cr-jou2-561",
+    "index": 561
+  },
+  {
+    "surface": "甲高い",
+    "reading": "kandakai",
+    "code": "cr-jou2-562",
+    "index": 562
+  },
+  {
+    "surface": "トロい",
+    "reading": "toroi",
+    "code": "cr-jou2-563",
+    "index": 563
+  },
+  {
+    "surface": "すっごく",
+    "reading": "suggoku",
+    "code": "cr-jou2-564",
+    "index": 564
+  },
+  {
+    "surface": "濃い",
+    "reading": "koi",
+    "code": "cr-jou2-565",
+    "index": 565
+  },
+  {
+    "surface": "苦しかっ",
+    "reading": "kurushika",
+    "code": "cr-jou2-566",
+    "index": 566
+  },
+  {
+    "surface": "堅く",
+    "reading": "kataku",
+    "code": "cr-jou2-567",
+    "index": 567
+  },
+  {
+    "surface": "やかましく",
+    "reading": "yakamashiku",
+    "code": "cr-jou2-568",
+    "index": 568
+  },
+  {
+    "surface": "ふさわしい",
+    "reading": "fusawashii",
+    "code": "cr-jou2-569",
+    "index": 569
+  },
+  {
+    "surface": "わるかっ",
+    "reading": "waruka",
+    "code": "cr-jou2-570",
+    "index": 570
+  },
+  {
+    "surface": "いとしい",
+    "reading": "itoshii",
+    "code": "cr-jou2-571",
+    "index": 571
+  },
+  {
+    "surface": "うすい",
+    "reading": "usui",
+    "code": "cr-jou2-572",
+    "index": 572
+  },
+  {
+    "surface": "マズイ",
+    "reading": "mazui",
+    "code": "cr-jou2-573",
+    "index": 573
+  },
+  {
+    "surface": "低い",
+    "reading": "hikui",
+    "code": "cr-jou2-574",
+    "index": 574
+  },
+  {
+    "surface": "オカシイ",
+    "reading": "okashii",
+    "code": "cr-jou2-575",
+    "index": 575
+  },
+  {
+    "surface": "古い",
+    "reading": "furui",
+    "code": "cr-jou2-576",
+    "index": 576
+  },
+  {
+    "surface": "涼しく",
+    "reading": "suzushiku",
+    "code": "cr-jou2-577",
+    "index": 577
+  },
+  {
+    "surface": "ヒドイ",
+    "reading": "hidoi",
+    "code": "cr-jou2-578",
+    "index": 578
+  },
+  {
+    "surface": "かっこいい",
+    "reading": "kakkoii",
+    "code": "cr-jou2-579",
+    "index": 579
+  },
+  {
+    "surface": "重い",
+    "reading": "omoi",
+    "code": "cr-jou2-580",
+    "index": 580
+  },
+  {
+    "surface": "よかっ",
+    "reading": "yoka",
+    "code": "cr-jou2-581",
+    "index": 581
+  },
+  {
+    "surface": "かわいい",
+    "reading": "kawaii",
+    "code": "cr-jou2-582",
+    "index": 582
+  },
+  {
+    "surface": "むずかしく",
+    "reading": "muzukashiku",
+    "code": "cr-jou2-583",
+    "index": 583
+  },
+  {
+    "surface": "弱かっ",
+    "reading": "yowaka",
+    "code": "cr-jou2-584",
+    "index": 584
+  },
+  {
+    "surface": "おいしい",
+    "reading": "oishii",
+    "code": "cr-jou2-585",
+    "index": 585
+  },
+  {
+    "surface": "いそがしかっ",
+    "reading": "isogashika",
+    "code": "cr-jou2-586",
+    "index": 586
+  },
+  {
+    "surface": "暗い",
+    "reading": "kurai",
+    "code": "cr-jou2-587",
+    "index": 587
+  },
+  {
+    "surface": "騒がしい",
+    "reading": "sawagashii",
+    "code": "cr-jou2-588",
+    "index": 588
+  },
+  {
+    "surface": "嬉しく",
+    "reading": "ureshiku",
+    "code": "cr-jou2-589",
+    "index": 589
+  },
+  {
+    "surface": "楽しく",
+    "reading": "tanoshiku",
+    "code": "cr-jou2-590",
+    "index": 590
+  },
+  {
+    "surface": "なーい",
+    "reading": "naai",
+    "code": "cr-jou2-591",
+    "index": 591
+  },
+  {
+    "surface": "眠く",
+    "reading": "nemuku",
+    "code": "cr-jou2-592",
+    "index": 592
+  },
+  {
+    "surface": "黄色い",
+    "reading": "kiiroi",
+    "code": "cr-jou2-593",
+    "index": 593
+  },
+  {
+    "surface": "怪しい",
+    "reading": "ayashii",
+    "code": "cr-jou2-594",
+    "index": 594
+  },
+  {
+    "surface": "白く",
+    "reading": "shiroku",
+    "code": "cr-jou2-595",
+    "index": 595
+  },
+  {
+    "surface": "怖い",
+    "reading": "kowai",
+    "code": "cr-jou2-596",
+    "index": 596
+  },
+  {
+    "surface": "ウザイ",
+    "reading": "uzai",
+    "code": "cr-jou2-597",
+    "index": 597
+  },
+  {
+    "surface": "暑けれ",
+    "reading": "atsukere",
+    "code": "cr-jou2-598",
+    "index": 598
+  },
+  {
+    "surface": "あくどい",
+    "reading": "akudoi",
+    "code": "cr-jou2-599",
+    "index": 599
+  },
+  {
+    "surface": "有難",
+    "reading": "arigata",
+    "code": "cr-jou2-600",
+    "index": 600
+  },
+  {
+    "surface": "いかがわしい",
+    "reading": "ikagawashii",
+    "code": "cr-jou2-601",
+    "index": 601
+  },
+  {
+    "surface": "むずかしい",
+    "reading": "muzukashii",
+    "code": "cr-jou2-602",
+    "index": 602
+  },
+  {
+    "surface": "オイシイ",
+    "reading": "oishii",
+    "code": "cr-jou2-603",
+    "index": 603
+  },
+  {
+    "surface": "暗かっ",
+    "reading": "kuraka",
+    "code": "cr-jou2-604",
+    "index": 604
+  },
+  {
+    "surface": "無い",
+    "reading": "nai",
+    "code": "cr-jou2-605",
+    "index": 605
+  },
+  {
+    "surface": "正しかっ",
+    "reading": "tadashika",
+    "code": "cr-jou2-606",
+    "index": 606
+  },
+  {
+    "surface": "旨く",
+    "reading": "umaku",
+    "code": "cr-jou2-607",
+    "index": 607
+  },
+  {
+    "surface": "でかく",
+    "reading": "dekaku",
+    "code": "cr-jou2-608",
+    "index": 608
+  },
+  {
+    "surface": "親しい",
+    "reading": "shitashii",
+    "code": "cr-jou2-609",
+    "index": 609
+  },
+  {
+    "surface": "逞しく",
+    "reading": "takumashiku",
+    "code": "cr-jou2-610",
+    "index": 610
+  },
+  {
+    "surface": "イイ",
+    "reading": "ii",
+    "code": "cr-jou2-611",
+    "index": 611
+  },
+  {
+    "surface": "情けない",
+    "reading": "nasakenai",
+    "code": "cr-jou2-612",
+    "index": 612
+  },
+  {
+    "surface": "羨まし",
+    "reading": "urayamashi",
+    "code": "cr-jou2-613",
+    "index": 613
+  },
+  {
+    "surface": "白い",
+    "reading": "shiroi",
+    "code": "cr-jou2-614",
+    "index": 614
+  },
+  {
+    "surface": "素早",
+    "reading": "subaya",
+    "code": "cr-jou2-615",
+    "index": 615
+  },
+  {
+    "surface": "待ちどおしく",
+    "reading": "machidooshiku",
+    "code": "cr-jou2-616",
+    "index": 616
+  },
+  {
+    "surface": "小憎らしい",
+    "reading": "konikurashii",
+    "code": "cr-jou2-617",
+    "index": 617
+  },
+  {
+    "surface": "怪し",
+    "reading": "ayashi",
+    "code": "cr-jou2-618",
+    "index": 618
+  },
+  {
+    "surface": "珍しい",
+    "reading": "mezurashii",
+    "code": "cr-jou2-619",
+    "index": 619
+  },
+  {
+    "surface": "やさしい",
+    "reading": "yasashii",
+    "code": "cr-jou2-620",
+    "index": 620
+  },
+  {
+    "surface": "ずる賢い",
+    "reading": "zurugashikoi",
+    "code": "cr-jou2-621",
+    "index": 621
+  },
+  {
+    "surface": "涙もろい",
+    "reading": "namidamoroi",
+    "code": "cr-jou2-622",
+    "index": 622
+  },
+  {
+    "surface": "後ろめた",
+    "reading": "ushirometa",
+    "code": "cr-jou2-623",
+    "index": 623
+  },
+  {
+    "surface": "少ない",
+    "reading": "sukunai",
+    "code": "cr-jou2-624",
+    "index": 624
+  },
+  {
+    "surface": "ねむく",
+    "reading": "nemuku",
+    "code": "cr-jou2-625",
+    "index": 625
+  },
+  {
+    "surface": "暖かい",
+    "reading": "atatakai",
+    "code": "cr-jou2-626",
+    "index": 626
+  },
+  {
+    "surface": "深く",
+    "reading": "fukaku",
+    "code": "cr-jou2-627",
+    "index": 627
+  },
+  {
+    "surface": "しつこい",
+    "reading": "shitsukoi",
+    "code": "cr-jou2-628",
+    "index": 628
+  },
+  {
+    "surface": "美味しい",
+    "reading": "oishii",
+    "code": "cr-jou2-629",
+    "index": 629
+  },
+  {
+    "surface": "激しく",
+    "reading": "hageshiku",
+    "code": "cr-jou2-630",
+    "index": 630
+  },
+  {
+    "surface": "うまく",
+    "reading": "umaku",
+    "code": "cr-jou2-631",
+    "index": 631
+  },
+  {
+    "surface": "痛く",
+    "reading": "itaku",
+    "code": "cr-jou2-632",
+    "index": 632
+  }
+]

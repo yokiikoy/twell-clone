@@ -64,7 +64,7 @@ function syntheticNKeydown(from: InputEvent): InputEvent {
   return new InputEvent(
     new InputStroke(VirtualKeys.N, "keydown"),
     from.keyboardState,
-    performance.now()
+    from.timestamp
   );
 }
 

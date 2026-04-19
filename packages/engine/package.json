@@ -12,6 +12,7 @@
     }
   },
   "scripts": {
+    "postinstall": "node scripts/patch-emiel-valibot.mjs",
     "build": "tsc --noEmit",
     "test": "vitest run",
     "extract:bas": "tsx scripts/extract-bas-triples.ts",
@@ -27,7 +28,8 @@
     "extract:kata2": "tsx scripts/extract-bas-triples.ts ../../twjrdecomp/Kata2.bas 500",
     "extract:kata3": "tsx scripts/extract-bas-triples.ts ../../twjrdecomp/Kata3.bas 500",
     "extract:koto1": "tsx scripts/extract-bas-triples.ts ../../twjrdecomp/Koto1.bas 500",
-    "extract:koto2": "tsx scripts/extract-bas-triples.ts ../../twjrdecomp/Koto2.bas 500"
+    "extract:koto2": "tsx scripts/extract-bas-triples.ts ../../twjrdecomp/Koto2.bas 500",
+    "cleanroom:join-strokes": "tsx scripts/cleanroom-join-strokes.ts"
   },
   "devDependencies": {
     "tsx": "^4.19.2",
@@ -37,6 +39,7 @@
   "dependencies": {
     "emiel": "^0.3.0",
     "iconv-lite": "^0.7.2",
+    "valibot": "^1.3.1",
     "wanakana": "^5.3.1"
   }
 }

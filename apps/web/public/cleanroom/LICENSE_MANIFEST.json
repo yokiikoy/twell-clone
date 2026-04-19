@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "effective_license_hint": "Apache-2.0",
+  "entries": [
+    {
+      "id": "wordfreq",
+      "spdx": "Apache-2.0",
+      "attribution_html": "<span>Frequency-ranked Japanese tokens: <a href=\"https://github.com/rspeer/wordfreq\">wordfreq</a> (Apache-2.0). Aggregated corpora may include CC-licensed upstream text; verify <a href=\"https://github.com/rspeer/wordfreq#citation\">project citation notes</a> before redistribution.</span>"
+    },
+    {
+      "id": "unidic-lite",
+      "spdx": "BSD-3-Clause",
+      "attribution_html": "<span>Morphological analysis for romaji: <a href=\"https://github.com/polm/unidic-lite\">unidic-lite</a> (BSD-3-Clause).</span>"
+    },
+    {
+      "id": "cutlet",
+      "spdx": "MIT",
+      "attribution_html": "<span>Romaji generation: <a href=\"https://github.com/polm/cutlet\">Cutlet</a> (MIT).</span>"
+    },
+    {
+      "id": "sudachidict-core",
+      "spdx": "Apache-2.0",
+      "attribution_html": "<span>Morphological normalization: <a href=\"https://github.com/WorksApplications/SudachiDict\">SudachiDict</a> (Apache-2.0).</span>"
+    },
+    {
+      "id": "sentence-transformers-paraphrase-multilingual-MiniLM-L12-v2",
+      "spdx": "Apache-2.0",
+      "attribution_html": "<span>Semantic similarity: <a href=\"https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2\">paraphrase-multilingual-MiniLM-L12-v2</a> via <code>sentence-transformers</code> (Apache-2.0). Model weights are downloaded at build time, not committed to the repo.</span>"
+    },
+    {
+      "id": "typewell-jr-engine-mozc-strokes",
+      "spdx": "Apache-2.0",
+      "attribution_html": "<span>Stroke counts derived from Mozc-derived typing kana (see <code>@typewell-jr/engine</code> / emiel stroke budget).</span>"
+    }
+  ]
+}
