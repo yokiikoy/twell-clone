@@ -24,7 +24,7 @@ function qwertyJisLayout(): KeyboardLayout {
 
 /**
  * emiel が構築した Mozc 系オートマトンにおいて、**空入力から**そのかな行を
- * 最短経路で打ち終えるのに要するストローク数（`pendingStroke.length` の初期値）。
+ * 最短経路で打ち終えるのに要するストローク数（`currentView().pendingStroke.length` の初期値）。
  * 語間スペースはターゲット文字列に含めたまま渡す（例: `あ い`）。
  *
  * `layout` は **実プレイで `build(mozcRomanRuleForKeyboard(layout), kanaLine.normalize("NFC"))` に渡すのと同じ**にすること。
@@ -39,5 +39,5 @@ export function mozcMinStrokesForHiraganaLine(
   if (!s) return 0;
   const romanLayout = layout ?? qwertyJisLayout();
   const auto = build(mozcRomanRuleForKeyboard(romanLayout), s);
-  return auto.getPendingStroke().length;
+  return auto.currentView().pendingStroke.length;
 }

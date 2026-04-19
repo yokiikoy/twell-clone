@@ -64,7 +64,7 @@ function syntheticNKeydown(from: InputEvent): InputEvent {
   return new InputEvent(
     new InputStroke(VirtualKeys.N, "keydown"),
     from.keyboardState,
-    new Date()
+    performance.now()
   );
 }
 
@@ -90,7 +90,7 @@ export function inputWithNnBeforeSpaceIfNeeded(
   }
 
   if (
-    nextKanaNeedsNnAssist(automaton.getPendingWord()) &&
+    nextKanaNeedsNnAssist(automaton.currentView().pendingWord) &&
     lastSucceededKeyWasN(automaton)
   ) {
     const nEvt = syntheticNKeydown(evt);

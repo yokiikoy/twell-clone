@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@typewell-jr/engine": "*",
-    "emiel": "^0.2.0",
+    "emiel": "^0.3.0",
     "fflate": "^0.8.2",
     "next": "^15.1.0",
     "react": "^19.0.0",

@@ -151,12 +151,12 @@ export function activateCompat(
     );
     if (!keyStroke) return;
     keyboardState.keydown(keyStroke.key);
-    const now = new Date();
+    const ts = ke.timeStamp;
     keyEventHandler(
       new InputEvent(
         keyStroke,
         new KeyboardState([...keyboardState.downedKeys]),
-        now
+        ts
       )
     );
   };
@@ -169,12 +169,13 @@ export function activateCompat(
     );
     if (!keyStroke) return;
     keyboardState.keyup(keyStroke.key);
-    const now = new Date();
+    const ke = evt as KeyboardEvent;
+    const ts = ke.timeStamp;
     keyEventHandler(
       new InputEvent(
         keyStroke,
         new KeyboardState([...keyboardState.downedKeys]),
-        now
+        ts
       )
     );
   };

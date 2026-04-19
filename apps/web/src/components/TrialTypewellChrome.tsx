@@ -17,7 +17,7 @@ const LATENCY_HELP =
 const CHART_HELP =
   "国語Ｒ Module1 チャート上の級（経過総秒から参照）。試行完了後は確定ラベルと一致。";
 const MISS_HELP =
-  "emiel の failedInputCount（無効打鍵の累計）。試行では **keydown のみ** をオートマトンに渡し、keyup による二重 failed を避けます。OS の keydown リピートは入力層で無視。本家のミス定義とは一致しない場合があります。";
+  "emiel の eventsView().failedCount（無効打鍵の累計）。試行では **keydown のみ** をオートマトンに渡し、keyup による二重 failed を避けます。OS の keydown リピートは入力層で無視。本家のミス定義とは一致しない場合があります。";
 
 const CHART_LADDER_LABELS: readonly string[] = [...MODULE1_CHART_LABEL_ORDER, "-"];
 
@@ -51,7 +51,7 @@ export function TrialStatusStrip({
 }: {
   runPhase: TrialRunPhase;
   trialForStrip: StrokeTrialRenderState | null;
-  /** 試行中は emiel `Automaton.failedInputCount`；試行外は null */
+  /** 試行中は emiel `eventsView().failedCount`；試行外は null */
   missCount: number | null;
 }) {
   const elapsed = trialForStrip?.elapsedMs ?? 0;

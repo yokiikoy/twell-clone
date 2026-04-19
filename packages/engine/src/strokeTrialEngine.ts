@@ -7,7 +7,7 @@ import type { PaceColor, ScoringProfile } from "./types.js";
 import { twellJrLabelFromTotalSeconds } from "./twelljr/module1Core.js";
 
 export interface StrokeTrialConfig {
-  /** Quota for confirmed strokes (e.g. emiel `finishedStroke.length`). */
+  /** Quota for confirmed strokes (e.g. emiel `currentView().finishedStroke.length`). */
   trialStrokeCount: number;
   goalLevelId: string;
   scoringProfile?: ScoringProfile;

@@ -39,7 +39,7 @@ import {
 } from "./TrialTypewellChrome";
 import { useCallback, useEffect, useReducer, useRef, useState } from "react";
 
-/** 国語Ｒ Web 版: 確定ストローク数（emiel `finishedStroke.length`） */
+/** 国語Ｒ Web 版: 確定ストローク数（emiel `currentView().finishedStroke.length`） */
 const TRIAL_STROKES = 400;
 
 const COUNTDOWN_SECONDS = 3;
@@ -319,7 +319,8 @@ function EmielTrialBody({
   trial: StrokeTrialRenderState;
 }) {
   const { finished } = trial;
-  const jpLen = automaton.getFinishedWord().length;
+  const cv = automaton.currentView();
+  const jpLen = cv.finishedWord.length;
   const activeSeg = finished ? -1 : wordIndexFromTypingProgress(segments, jpLen);
 
   const segmentWordClass = (wi: number) =>
@@ -332,8 +333,8 @@ function EmielTrialBody({
   const jpFont =
     '"Yu Gothic UI","Yu Gothic",Meiryo,"Hiragino Sans","Hiragino Kaku Gothic ProN",sans-serif';
 
-  const fr = automaton.getFinishedRoman();
-  const pr = automaton.getPendingRoman();
+  const fr = cv.finishedRoman;
+  const pr = cv.pendingRoman;
 
   return (
     <div className="flex w-full min-h-0 flex-col justify-start text-sm leading-relaxed text-zinc-900">
@@ -713,16 +714,16 @@ export function TypingCanvas() {
       if (runPhaseRef.current !== "playing") return;
       const auto = autoRef.current;
       if (!auto) return;
-      if (auto.getFinishedStroke().length >= TRIAL_STROKES) return;
+      if (auto.currentView().finishedStroke.length >= TRIAL_STROKES) return;
 
       // ローマ字オートマトンはストロークを keydown で扱う。keyup も input に渡すと、離鍵が再度
       // `failed` になり failedInputCount が二重に増えやすい（体感 1 ミスで 2）。
       // activateCompat 側の KeyboardState は keyup で更新済みなので、次の keydown の修飾状態は正しい。
       if (e.input.type !== "keydown") return;
 
-      const before = auto.getFinishedStroke().length;
+      const before = auto.currentView().finishedStroke.length;
       const result = inputWithNnBeforeSpaceIfNeeded(auto, e);
-      const after = auto.getFinishedStroke().length;
+      const after = auto.currentView().finishedStroke.length;
       const now = performance.now();
       strokeEngRef.current?.applyEmielStep(now, before, after);
 
@@ -758,7 +759,7 @@ export function TypingCanvas() {
             confirmedStrokes: rs.confirmedStrokeCount,
             elapsedMs: rs.elapsedMs,
             resultLevelId: rs.resultLevelId,
-            missCount: au.getFailedInputCount(),
+            missCount: au.eventsView().failedCount,
           });
         }
       }
@@ -780,7 +781,7 @@ export function TypingCanvas() {
     const prevent = (e: KeyboardEvent) => {
       if (runPhaseRef.current !== "playing") return;
       const auto = autoRef.current;
-      if (!auto || auto.getFinishedStroke().length >= TRIAL_STROKES) return;
+      if (!auto || auto.currentView().finishedStroke.length >= TRIAL_STROKES) return;
       if (e.ctrlKey || e.metaKey || e.altKey) return;
       if (e.key.length === 1 || e.key === "Backspace" || e.key === " ") {
         e.preventDefault();
@@ -928,7 +929,7 @@ export function TypingCanvas() {
               trialForStrip={trialForStrip}
               missCount={
                 auto && (runPhase === "playing" || runPhase === "finished")
-                  ? auto.getFailedInputCount()
+                  ? auto.eventsView().failedCount
                   : null
               }
             />
