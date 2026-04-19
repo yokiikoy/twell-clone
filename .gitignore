@@ -7,6 +7,8 @@ out
 # Local DetailLog batch reports (machine-specific paths)
 logs/
 *.log
+# Full native Time*.log copies (may contain personal trial data)
+packages/engine/fixtures/timelog-native/TimeKHJY-full.bin
 .env
 .env*.local
 .DS_Store

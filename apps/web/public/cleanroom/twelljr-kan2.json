@@ -1,0 +1,6602 @@
+[
+  {
+    "surface": "道産子",
+    "reading": "dosanshi",
+    "code": "cr-kan2-0",
+    "index": 0
+  },
+  {
+    "surface": "盛り合わせ",
+    "reading": "moriawase",
+    "code": "cr-kan2-1",
+    "index": 1
+  },
+  {
+    "surface": "差し当たり",
+    "reading": "sashiatari",
+    "code": "cr-kan2-2",
+    "index": 2
+  },
+  {
+    "surface": "受け付ける",
+    "reading": "uketsukeru",
+    "code": "cr-kan2-3",
+    "index": 3
+  },
+  {
+    "surface": "見世物",
+    "reading": "misemono",
+    "code": "cr-kan2-4",
+    "index": 4
+  },
+  {
+    "surface": "巻き起こす",
+    "reading": "makiokosu",
+    "code": "cr-kan2-5",
+    "index": 5
+  },
+  {
+    "surface": "出来心",
+    "reading": "dekigokoro",
+    "code": "cr-kan2-6",
+    "index": 6
+  },
+  {
+    "surface": "具志堅",
+    "reading": "gushiken",
+    "code": "cr-kan2-7",
+    "index": 7
+  },
+  {
+    "surface": "突き上げる",
+    "reading": "tsukiageru",
+    "code": "cr-kan2-8",
+    "index": 8
+  },
+  {
+    "surface": "思いっ切り",
+    "reading": "omoikkiri",
+    "code": "cr-kan2-9",
+    "index": 9
+  },
+  {
+    "surface": "合気道",
+    "reading": "aikimichi",
+    "code": "cr-kan2-10",
+    "index": 10
+  },
+  {
+    "surface": "埋め合わせ",
+    "reading": "umeawase",
+    "code": "cr-kan2-11",
+    "index": 11
+  },
+  {
+    "surface": "当事者",
+    "reading": "toujisha",
+    "code": "cr-kan2-12",
+    "index": 12
+  },
+  {
+    "surface": "万葉集",
+    "reading": "manyoushuu",
+    "code": "cr-kan2-13",
+    "index": 13
+  },
+  {
+    "surface": "定性的",
+    "reading": "teiseiteki",
+    "code": "cr-kan2-14",
+    "index": 14
+  },
+  {
+    "surface": "突き詰める",
+    "reading": "tsukitsumeru",
+    "code": "cr-kan2-15",
+    "index": 15
+  },
+  {
+    "surface": "波瀾万丈",
+    "reading": "haranbanjou",
+    "code": "cr-kan2-16",
+    "index": 16
+  },
+  {
+    "surface": "一身上",
+    "reading": "ichishinjou",
+    "code": "cr-kan2-17",
+    "index": 17
+  },
+  {
+    "surface": "余所者",
+    "reading": "yosomono",
+    "code": "cr-kan2-18",
+    "index": 18
+  },
+  {
+    "surface": "親孝行",
+    "reading": "oyakoukou",
+    "code": "cr-kan2-19",
+    "index": 19
+  },
+  {
+    "surface": "曽我部",
+    "reading": "sogabe",
+    "code": "cr-kan2-20",
+    "index": 20
+  },
+  {
+    "surface": "勝手口",
+    "reading": "katteguchi",
+    "code": "cr-kan2-21",
+    "index": 21
+  },
+  {
+    "surface": "長丁場",
+    "reading": "nagachouba",
+    "code": "cr-kan2-22",
+    "index": 22
+  },
+  {
+    "surface": "突き付ける",
+    "reading": "tsukitsukeru",
+    "code": "cr-kan2-23",
+    "index": 23
+  },
+  {
+    "surface": "一昨日",
+    "reading": "issakunichi",
+    "code": "cr-kan2-24",
+    "index": 24
+  },
+  {
+    "surface": "取り掛かり",
+    "reading": "torikakari",
+    "code": "cr-kan2-25",
+    "index": 25
+  },
+  {
+    "surface": "西明石",
+    "reading": "nishiakashi",
+    "code": "cr-kan2-26",
+    "index": 26
+  },
+  {
+    "surface": "身勝手",
+    "reading": "migatte",
+    "code": "cr-kan2-27",
+    "index": 27
+  },
+  {
+    "surface": "当たり障り",
+    "reading": "atarisawari",
+    "code": "cr-kan2-28",
+    "index": 28
+  },
+  {
+    "surface": "使い果たし",
+    "reading": "tsukaihatashi",
+    "code": "cr-kan2-29",
+    "index": 29
+  },
+  {
+    "surface": "予讃線",
+    "reading": "yosansen",
+    "code": "cr-kan2-30",
+    "index": 30
+  },
+  {
+    "surface": "表沙汰",
+    "reading": "hyousata",
+    "code": "cr-kan2-31",
+    "index": 31
+  },
+  {
+    "surface": "大久保",
+    "reading": "ookubo",
+    "code": "cr-kan2-32",
+    "index": 32
+  },
+  {
+    "surface": "興信所",
+    "reading": "koushinsho",
+    "code": "cr-kan2-33",
+    "index": 33
+  },
+  {
+    "surface": "御子柴",
+    "reading": "mikoshiba",
+    "code": "cr-kan2-34",
+    "index": 34
+  },
+  {
+    "surface": "取り掛かっ",
+    "reading": "torikaka",
+    "code": "cr-kan2-35",
+    "index": 35
+  },
+  {
+    "surface": "思い起こす",
+    "reading": "omoiokosu",
+    "code": "cr-kan2-36",
+    "index": 36
+  },
+  {
+    "surface": "向上心",
+    "reading": "koujoushin",
+    "code": "cr-kan2-37",
+    "index": 37
+  },
+  {
+    "surface": "打ち上げる",
+    "reading": "uchiageru",
+    "code": "cr-kan2-38",
+    "index": 38
+  },
+  {
+    "surface": "中之条",
+    "reading": "nakanojou",
+    "code": "cr-kan2-39",
+    "index": 39
+  },
+  {
+    "surface": "森羅万象",
+    "reading": "shinrabanshou",
+    "code": "cr-kan2-40",
+    "index": 40
+  },
+  {
+    "surface": "拍子抜け",
+    "reading": "hyoushinuke",
+    "code": "cr-kan2-41",
+    "index": 41
+  },
+  {
+    "surface": "突き止める",
+    "reading": "tsukitomeru",
+    "code": "cr-kan2-42",
+    "index": 42
+  },
+  {
+    "surface": "明石家",
+    "reading": "akashiya",
+    "code": "cr-kan2-43",
+    "index": 43
+  },
+  {
+    "surface": "引き出物",
+    "reading": "hikidemono",
+    "code": "cr-kan2-44",
+    "index": 44
+  },
+  {
+    "surface": "人道的",
+    "reading": "jindouteki",
+    "code": "cr-kan2-45",
+    "index": 45
+  },
+  {
+    "surface": "意気地",
+    "reading": "ikichi",
+    "code": "cr-kan2-46",
+    "index": 46
+  },
+  {
+    "surface": "使い勝手",
+    "reading": "tsukaikatte",
+    "code": "cr-kan2-47",
+    "index": 47
+  },
+  {
+    "surface": "画期的",
+    "reading": "kakkiteki",
+    "code": "cr-kan2-48",
+    "index": 48
+  },
+  {
+    "surface": "巻き起こし",
+    "reading": "makiokoshi",
+    "code": "cr-kan2-49",
+    "index": 49
+  },
+  {
+    "surface": "取り上げる",
+    "reading": "toriageru",
+    "code": "cr-kan2-50",
+    "index": 50
+  },
+  {
+    "surface": "引き締まっ",
+    "reading": "hikishima",
+    "code": "cr-kan2-51",
+    "index": 51
+  },
+  {
+    "surface": "変わり果て",
+    "reading": "kawarihate",
+    "code": "cr-kan2-52",
+    "index": 52
+  },
+  {
+    "surface": "百合子",
+    "reading": "yuriko",
+    "code": "cr-kan2-53",
+    "index": 53
+  },
+  {
+    "surface": "巻き上げる",
+    "reading": "makiageru",
+    "code": "cr-kan2-54",
+    "index": 54
+  },
+  {
+    "surface": "志布志",
+    "reading": "shibushi",
+    "code": "cr-kan2-55",
+    "index": 55
+  },
+  {
+    "surface": "御法度",
+    "reading": "gohatto",
+    "code": "cr-kan2-56",
+    "index": 56
+  },
+  {
+    "surface": "言い聞かせ",
+    "reading": "iikikase",
+    "code": "cr-kan2-57",
+    "index": 57
+  },
+  {
+    "surface": "百目鬼",
+    "reading": "hyakumokuki",
+    "code": "cr-kan2-58",
+    "index": 58
+  },
+  {
+    "surface": "盛り上げる",
+    "reading": "moriageru",
+    "code": "cr-kan2-59",
+    "index": 59
+  },
+  {
+    "surface": "天橋立",
+    "reading": "tenhashidate",
+    "code": "cr-kan2-60",
+    "index": 60
+  },
+  {
+    "surface": "取り仕切る",
+    "reading": "torishikiru",
+    "code": "cr-kan2-61",
+    "index": 61
+  },
+  {
+    "surface": "優柔不断",
+    "reading": "yuujuufudan",
+    "code": "cr-kan2-62",
+    "index": 62
+  },
+  {
+    "surface": "成れの果て",
+    "reading": "narenohate",
+    "code": "cr-kan2-63",
+    "index": 63
+  },
+  {
+    "surface": "堪忍袋",
+    "reading": "kanninfukuro",
+    "code": "cr-kan2-64",
+    "index": 64
+  },
+  {
+    "surface": "切磋琢磨",
+    "reading": "sessatakuma",
+    "code": "cr-kan2-65",
+    "index": 65
+  },
+  {
+    "surface": "意気込む",
+    "reading": "ikigomu",
+    "code": "cr-kan2-66",
+    "index": 66
+  },
+  {
+    "surface": "取り仕切っ",
+    "reading": "torishiki",
+    "code": "cr-kan2-67",
+    "index": 67
+  },
+  {
+    "surface": "落花生",
+    "reading": "rakkasei",
+    "code": "cr-kan2-68",
+    "index": 68
+  },
+  {
+    "surface": "使い果たす",
+    "reading": "tsukaihatasu",
+    "code": "cr-kan2-69",
+    "index": 69
+  },
+  {
+    "surface": "正念場",
+    "reading": "shounenjou",
+    "code": "cr-kan2-70",
+    "index": 70
+  },
+  {
+    "surface": "追い上げる",
+    "reading": "oiageru",
+    "code": "cr-kan2-71",
+    "index": 71
+  },
+  {
+    "surface": "突き抜ける",
+    "reading": "tsukinukeru",
+    "code": "cr-kan2-72",
+    "index": 72
+  },
+  {
+    "surface": "座右の銘",
+    "reading": "zaunomei",
+    "code": "cr-kan2-73",
+    "index": 73
+  },
+  {
+    "surface": "奥多摩",
+    "reading": "okutama",
+    "code": "cr-kan2-74",
+    "index": 74
+  },
+  {
+    "surface": "向き合える",
+    "reading": "mukiaeru",
+    "code": "cr-kan2-75",
+    "index": 75
+  },
+  {
+    "surface": "宜野座",
+    "reading": "ginoza",
+    "code": "cr-kan2-76",
+    "index": 76
+  },
+  {
+    "surface": "召し上がり",
+    "reading": "meshiagari",
+    "code": "cr-kan2-77",
+    "index": 77
+  },
+  {
+    "surface": "差し掛かっ",
+    "reading": "sashikaka",
+    "code": "cr-kan2-78",
+    "index": 78
+  },
+  {
+    "surface": "下克上",
+    "reading": "gekokujou",
+    "code": "cr-kan2-79",
+    "index": 79
+  },
+  {
+    "surface": "日弁連",
+    "reading": "nichibenren",
+    "code": "cr-kan2-80",
+    "index": 80
+  },
+  {
+    "surface": "思い起こし",
+    "reading": "omoiokoshi",
+    "code": "cr-kan2-81",
+    "index": 81
+  },
+  {
+    "surface": "御用達",
+    "reading": "goyoutashi",
+    "code": "cr-kan2-82",
+    "index": 82
+  },
+  {
+    "surface": "引き起こし",
+    "reading": "hikiokoshi",
+    "code": "cr-kan2-83",
+    "index": 83
+  },
+  {
+    "surface": "甲信越",
+    "reading": "koushinetsu",
+    "code": "cr-kan2-84",
+    "index": 84
+  },
+  {
+    "surface": "引き締まる",
+    "reading": "hikishimaru",
+    "code": "cr-kan2-85",
+    "index": 85
+  },
+  {
+    "surface": "卑弥呼",
+    "reading": "himiko",
+    "code": "cr-kan2-86",
+    "index": 86
+  },
+  {
+    "surface": "一目散",
+    "reading": "ichimokusan",
+    "code": "cr-kan2-87",
+    "index": 87
+  },
+  {
+    "surface": "差し向ける",
+    "reading": "sashimukeru",
+    "code": "cr-kan2-88",
+    "index": 88
+  },
+  {
+    "surface": "喜代子",
+    "reading": "kiyoko",
+    "code": "cr-kan2-89",
+    "index": 89
+  },
+  {
+    "surface": "苦労人",
+    "reading": "kurounin",
+    "code": "cr-kan2-90",
+    "index": 90
+  },
+  {
+    "surface": "高句麗",
+    "reading": "koukuri",
+    "code": "cr-kan2-91",
+    "index": 91
+  },
+  {
+    "surface": "取り掛かる",
+    "reading": "torikakaru",
+    "code": "cr-kan2-92",
+    "index": 92
+  },
+  {
+    "surface": "吹き抜ける",
+    "reading": "fukinukeru",
+    "code": "cr-kan2-93",
+    "index": 93
+  },
+  {
+    "surface": "和洋折衷",
+    "reading": "wayousetchuu",
+    "code": "cr-kan2-94",
+    "index": 94
+  },
+  {
+    "surface": "大蔵経",
+    "reading": "daizoukyou",
+    "code": "cr-kan2-95",
+    "index": 95
+  },
+  {
+    "surface": "召し上がっ",
+    "reading": "meshiaga",
+    "code": "cr-kan2-96",
+    "index": 96
+  },
+  {
+    "surface": "合言葉",
+    "reading": "aikotoba",
+    "code": "cr-kan2-97",
+    "index": 97
+  },
+  {
+    "surface": "生半可",
+    "reading": "namahanka",
+    "code": "cr-kan2-98",
+    "index": 98
+  },
+  {
+    "surface": "美智子",
+    "reading": "michiko",
+    "code": "cr-kan2-99",
+    "index": 99
+  },
+  {
+    "surface": "入出力",
+    "reading": "nyuushutsuryoku",
+    "code": "cr-kan2-100",
+    "index": 100
+  },
+  {
+    "surface": "打ち明ける",
+    "reading": "uchiakeru",
+    "code": "cr-kan2-101",
+    "index": 101
+  },
+  {
+    "surface": "思い上がり",
+    "reading": "omoiagari",
+    "code": "cr-kan2-102",
+    "index": 102
+  },
+  {
+    "surface": "壱番屋",
+    "reading": "ichibanya",
+    "code": "cr-kan2-103",
+    "index": 103
+  },
+  {
+    "surface": "思い上がっ",
+    "reading": "omoiaga",
+    "code": "cr-kan2-104",
+    "index": 104
+  },
+  {
+    "surface": "厚生省",
+    "reading": "kouseishou",
+    "code": "cr-kan2-105",
+    "index": 105
+  },
+  {
+    "surface": "重なり合っ",
+    "reading": "kasanaria",
+    "code": "cr-kan2-106",
+    "index": 106
+  },
+  {
+    "surface": "勘三郎",
+    "reading": "kanzaburou",
+    "code": "cr-kan2-107",
+    "index": 107
+  },
+  {
+    "surface": "意地っ張り",
+    "reading": "ijippari",
+    "code": "cr-kan2-108",
+    "index": 108
+  },
+  {
+    "surface": "立ち向かう",
+    "reading": "tachimukau",
+    "code": "cr-kan2-109",
+    "index": 109
+  },
+  {
+    "surface": "小金井",
+    "reading": "koganei",
+    "code": "cr-kan2-110",
+    "index": 110
+  },
+  {
+    "surface": "四苦八苦",
+    "reading": "shikuhakku",
+    "code": "cr-kan2-111",
+    "index": 111
+  },
+  {
+    "surface": "丸坊主",
+    "reading": "marubouzu",
+    "code": "cr-kan2-112",
+    "index": 112
+  },
+  {
+    "surface": "清少納言",
+    "reading": "seishounagon",
+    "code": "cr-kan2-113",
+    "index": 113
+  },
+  {
+    "surface": "取り寄せる",
+    "reading": "toriyoseru",
+    "code": "cr-kan2-114",
+    "index": 114
+  },
+  {
+    "surface": "取り締まり",
+    "reading": "torishimari",
+    "code": "cr-kan2-115",
+    "index": 115
+  },
+  {
+    "surface": "真面目",
+    "reading": "majime",
+    "code": "cr-kan2-116",
+    "index": 116
+  },
+  {
+    "surface": "大道芸",
+    "reading": "daidougei",
+    "code": "cr-kan2-117",
+    "index": 117
+  },
+  {
+    "surface": "名乗り出",
+    "reading": "nanoride",
+    "code": "cr-kan2-118",
+    "index": 118
+  },
+  {
+    "surface": "突拍子",
+    "reading": "tohhyoushi",
+    "code": "cr-kan2-119",
+    "index": 119
+  },
+  {
+    "surface": "差し上げる",
+    "reading": "sashiageru",
+    "code": "cr-kan2-120",
+    "index": 120
+  },
+  {
+    "surface": "取り締まっ",
+    "reading": "torishima",
+    "code": "cr-kan2-121",
+    "index": 121
+  },
+  {
+    "surface": "不意打ち",
+    "reading": "fuiuchi",
+    "code": "cr-kan2-122",
+    "index": 122
+  },
+  {
+    "surface": "割り切れる",
+    "reading": "warikireru",
+    "code": "cr-kan2-123",
+    "index": 123
+  },
+  {
+    "surface": "落ち武者",
+    "reading": "ochimusha",
+    "code": "cr-kan2-124",
+    "index": 124
+  },
+  {
+    "surface": "落とし込む",
+    "reading": "otoshikomu",
+    "code": "cr-kan2-125",
+    "index": 125
+  },
+  {
+    "surface": "突き合わせ",
+    "reading": "tsukiawase",
+    "code": "cr-kan2-126",
+    "index": 126
+  },
+  {
+    "surface": "一苦労",
+    "reading": "ichikurou",
+    "code": "cr-kan2-127",
+    "index": 127
+  },
+  {
+    "surface": "修羅場",
+    "reading": "shurajou",
+    "code": "cr-kan2-128",
+    "index": 128
+  },
+  {
+    "surface": "森久保",
+    "reading": "morikubo",
+    "code": "cr-kan2-129",
+    "index": 129
+  },
+  {
+    "surface": "引っ込み思案",
+    "reading": "hikkomishian",
+    "code": "cr-kan2-130",
+    "index": 130
+  },
+  {
+    "surface": "八幡西",
+    "reading": "yahatanishi",
+    "code": "cr-kan2-131",
+    "index": 131
+  },
+  {
+    "surface": "天保山",
+    "reading": "tenpouyama",
+    "code": "cr-kan2-132",
+    "index": 132
+  },
+  {
+    "surface": "中高生",
+    "reading": "chuukousei",
+    "code": "cr-kan2-133",
+    "index": 133
+  },
+  {
+    "surface": "心意気",
+    "reading": "shiniki",
+    "code": "cr-kan2-134",
+    "index": 134
+  },
+  {
+    "surface": "世話焼き",
+    "reading": "sewayaki",
+    "code": "cr-kan2-135",
+    "index": 135
+  },
+  {
+    "surface": "勝負事",
+    "reading": "shoubuji",
+    "code": "cr-kan2-136",
+    "index": 136
+  },
+  {
+    "surface": "打ち付ける",
+    "reading": "uchitsukeru",
+    "code": "cr-kan2-137",
+    "index": 137
+  },
+  {
+    "surface": "新天地",
+    "reading": "shintenchi",
+    "code": "cr-kan2-138",
+    "index": 138
+  },
+  {
+    "surface": "人懐っこく",
+    "reading": "hitonatsukkoku",
+    "code": "cr-kan2-139",
+    "index": 139
+  },
+  {
+    "surface": "旭化成",
+    "reading": "asahikasei",
+    "code": "cr-kan2-140",
+    "index": 140
+  },
+  {
+    "surface": "着心地",
+    "reading": "kigokochi",
+    "code": "cr-kan2-141",
+    "index": 141
+  },
+  {
+    "surface": "名付け親",
+    "reading": "nazukeoya",
+    "code": "cr-kan2-142",
+    "index": 142
+  },
+  {
+    "surface": "解き明かし",
+    "reading": "tokiakashi",
+    "code": "cr-kan2-143",
+    "index": 143
+  },
+  {
+    "surface": "取り計らっ",
+    "reading": "torihakara",
+    "code": "cr-kan2-144",
+    "index": 144
+  },
+  {
+    "surface": "羅針盤",
+    "reading": "rashinban",
+    "code": "cr-kan2-145",
+    "index": 145
+  },
+  {
+    "surface": "几帳面",
+    "reading": "kichoumen",
+    "code": "cr-kan2-146",
+    "index": 146
+  },
+  {
+    "surface": "明朝体",
+    "reading": "myouchoukarada",
+    "code": "cr-kan2-147",
+    "index": 147
+  },
+  {
+    "surface": "土俵際",
+    "reading": "dohyousai",
+    "code": "cr-kan2-148",
+    "index": 148
+  },
+  {
+    "surface": "科捜研",
+    "reading": "kasouken",
+    "code": "cr-kan2-149",
+    "index": 149
+  },
+  {
+    "surface": "千駄木",
+    "reading": "sendagi",
+    "code": "cr-kan2-150",
+    "index": 150
+  },
+  {
+    "surface": "引き取り手",
+    "reading": "hikitorite",
+    "code": "cr-kan2-151",
+    "index": 151
+  },
+  {
+    "surface": "取り込める",
+    "reading": "torikomeru",
+    "code": "cr-kan2-152",
+    "index": 152
+  },
+  {
+    "surface": "受け止める",
+    "reading": "uketomeru",
+    "code": "cr-kan2-153",
+    "index": 153
+  },
+  {
+    "surface": "沙悟浄",
+    "reading": "sunagojou",
+    "code": "cr-kan2-154",
+    "index": 154
+  },
+  {
+    "surface": "引き立てる",
+    "reading": "hikitateru",
+    "code": "cr-kan2-155",
+    "index": 155
+  },
+  {
+    "surface": "成り上がり",
+    "reading": "nariagari",
+    "code": "cr-kan2-156",
+    "index": 156
+  },
+  {
+    "surface": "浮き上がる",
+    "reading": "ukiagaru",
+    "code": "cr-kan2-157",
+    "index": 157
+  },
+  {
+    "surface": "打ち解ける",
+    "reading": "uchitokeru",
+    "code": "cr-kan2-158",
+    "index": 158
+  },
+  {
+    "surface": "天動説",
+    "reading": "tendousetsu",
+    "code": "cr-kan2-159",
+    "index": 159
+  },
+  {
+    "surface": "蜃気楼",
+    "reading": "shinkirou",
+    "code": "cr-kan2-160",
+    "index": 160
+  },
+  {
+    "surface": "手前味噌",
+    "reading": "temaemiso",
+    "code": "cr-kan2-161",
+    "index": 161
+  },
+  {
+    "surface": "伊万里",
+    "reading": "imari",
+    "code": "cr-kan2-162",
+    "index": 162
+  },
+  {
+    "surface": "一安心",
+    "reading": "ichianshin",
+    "code": "cr-kan2-163",
+    "index": 163
+  },
+  {
+    "surface": "取り付ける",
+    "reading": "toritsukeru",
+    "code": "cr-kan2-164",
+    "index": 164
+  },
+  {
+    "surface": "五郎丸",
+    "reading": "goroumaru",
+    "code": "cr-kan2-165",
+    "index": 165
+  },
+  {
+    "surface": "名乗り出る",
+    "reading": "nanorideru",
+    "code": "cr-kan2-166",
+    "index": 166
+  },
+  {
+    "surface": "弁財天",
+    "reading": "bezaiten",
+    "code": "cr-kan2-167",
+    "index": 167
+  },
+  {
+    "surface": "下伊那",
+    "reading": "shimoina",
+    "code": "cr-kan2-168",
+    "index": 168
+  },
+  {
+    "surface": "被験者",
+    "reading": "hikensha",
+    "code": "cr-kan2-169",
+    "index": 169
+  },
+  {
+    "surface": "御代田",
+    "reading": "miyota",
+    "code": "cr-kan2-170",
+    "index": 170
+  },
+  {
+    "surface": "突き刺さっ",
+    "reading": "tsukisasa",
+    "code": "cr-kan2-171",
+    "index": 171
+  },
+  {
+    "surface": "大根おろし",
+    "reading": "daikonoroshi",
+    "code": "cr-kan2-172",
+    "index": 172
+  },
+  {
+    "surface": "敷布団",
+    "reading": "shikifudan",
+    "code": "cr-kan2-173",
+    "index": 173
+  },
+  {
+    "surface": "突き飛ばし",
+    "reading": "tsukitobashi",
+    "code": "cr-kan2-174",
+    "index": 174
+  },
+  {
+    "surface": "淳之介",
+    "reading": "junnosuke",
+    "code": "cr-kan2-175",
+    "index": 175
+  },
+  {
+    "surface": "差出人",
+    "reading": "sashidashinin",
+    "code": "cr-kan2-176",
+    "index": 176
+  },
+  {
+    "surface": "突き落とし",
+    "reading": "tsukiotoshi",
+    "code": "cr-kan2-177",
+    "index": 177
+  },
+  {
+    "surface": "成り下がる",
+    "reading": "narisagaru",
+    "code": "cr-kan2-178",
+    "index": 178
+  },
+  {
+    "surface": "清志郎",
+    "reading": "kiyoshirou",
+    "code": "cr-kan2-179",
+    "index": 179
+  },
+  {
+    "surface": "口約束",
+    "reading": "kuchiyakusoku",
+    "code": "cr-kan2-180",
+    "index": 180
+  },
+  {
+    "surface": "取り締まる",
+    "reading": "torishimaru",
+    "code": "cr-kan2-181",
+    "index": 181
+  },
+  {
+    "surface": "瀬戸内",
+    "reading": "setonai",
+    "code": "cr-kan2-182",
+    "index": 182
+  },
+  {
+    "surface": "金比羅",
+    "reading": "konpira",
+    "code": "cr-kan2-183",
+    "index": 183
+  },
+  {
+    "surface": "土壇場",
+    "reading": "dotanba",
+    "code": "cr-kan2-184",
+    "index": 184
+  },
+  {
+    "surface": "表参道",
+    "reading": "hyousandou",
+    "code": "cr-kan2-185",
+    "index": 185
+  },
+  {
+    "surface": "薄力粉",
+    "reading": "hakurikikona",
+    "code": "cr-kan2-186",
+    "index": 186
+  },
+  {
+    "surface": "理知的",
+    "reading": "richiteki",
+    "code": "cr-kan2-187",
+    "index": 187
+  },
+  {
+    "surface": "三菱ふそう",
+    "reading": "mitsubishifusou",
+    "code": "cr-kan2-188",
+    "index": 188
+  },
+  {
+    "surface": "出来事",
+    "reading": "dekigoto",
+    "code": "cr-kan2-189",
+    "index": 189
+  },
+  {
+    "surface": "日蓮宗",
+    "reading": "nichirenshuu",
+    "code": "cr-kan2-190",
+    "index": 190
+  },
+  {
+    "surface": "本八幡",
+    "reading": "honhachiman",
+    "code": "cr-kan2-191",
+    "index": 191
+  },
+  {
+    "surface": "羅生門",
+    "reading": "rashoumon",
+    "code": "cr-kan2-192",
+    "index": 192
+  },
+  {
+    "surface": "触れ合える",
+    "reading": "fureaeru",
+    "code": "cr-kan2-193",
+    "index": 193
+  },
+  {
+    "surface": "立役者",
+    "reading": "riyyakusha",
+    "code": "cr-kan2-194",
+    "index": 194
+  },
+  {
+    "surface": "海老蔵",
+    "reading": "ebizou",
+    "code": "cr-kan2-195",
+    "index": 195
+  },
+  {
+    "surface": "人身御供",
+    "reading": "jinshingoku",
+    "code": "cr-kan2-196",
+    "index": 196
+  },
+  {
+    "surface": "用心棒",
+    "reading": "youjinbou",
+    "code": "cr-kan2-197",
+    "index": 197
+  },
+  {
+    "surface": "申し上げる",
+    "reading": "moushiageru",
+    "code": "cr-kan2-198",
+    "index": 198
+  },
+  {
+    "surface": "立ち向かっ",
+    "reading": "tachimuka",
+    "code": "cr-kan2-199",
+    "index": 199
+  },
+  {
+    "surface": "語呂合わせ",
+    "reading": "goroawase",
+    "code": "cr-kan2-200",
+    "index": 200
+  },
+  {
+    "surface": "多度津",
+    "reading": "tadotsu",
+    "code": "cr-kan2-201",
+    "index": 201
+  },
+  {
+    "surface": "手土産",
+    "reading": "temiyage",
+    "code": "cr-kan2-202",
+    "index": 202
+  },
+  {
+    "surface": "縁起物",
+    "reading": "engibutsu",
+    "code": "cr-kan2-203",
+    "index": 203
+  },
+  {
+    "surface": "付け加える",
+    "reading": "tsukekuwaeru",
+    "code": "cr-kan2-204",
+    "index": 204
+  },
+  {
+    "surface": "津久見",
+    "reading": "tsukumi",
+    "code": "cr-kan2-205",
+    "index": 205
+  },
+  {
+    "surface": "資生堂",
+    "reading": "shiseidou",
+    "code": "cr-kan2-206",
+    "index": 206
+  },
+  {
+    "surface": "召し上がれ",
+    "reading": "meshiagare",
+    "code": "cr-kan2-207",
+    "index": 207
+  },
+  {
+    "surface": "間仕切り",
+    "reading": "majikiri",
+    "code": "cr-kan2-208",
+    "index": 208
+  },
+  {
+    "surface": "平清盛",
+    "reading": "hirakiyomori",
+    "code": "cr-kan2-209",
+    "index": 209
+  },
+  {
+    "surface": "真正面",
+    "reading": "mashoumen",
+    "code": "cr-kan2-210",
+    "index": 210
+  },
+  {
+    "surface": "盛り沢山",
+    "reading": "moritakusan",
+    "code": "cr-kan2-211",
+    "index": 211
+  },
+  {
+    "surface": "明太子",
+    "reading": "mentaiko",
+    "code": "cr-kan2-212",
+    "index": 212
+  },
+  {
+    "surface": "人懐っこい",
+    "reading": "hitonatsukkoi",
+    "code": "cr-kan2-213",
+    "index": 213
+  },
+  {
+    "surface": "思い起こさ",
+    "reading": "omoiokosa",
+    "code": "cr-kan2-214",
+    "index": 214
+  },
+  {
+    "surface": "盛り上がれ",
+    "reading": "moriagare",
+    "code": "cr-kan2-215",
+    "index": 215
+  },
+  {
+    "surface": "安息香",
+    "reading": "ansokukou",
+    "code": "cr-kan2-216",
+    "index": 216
+  },
+  {
+    "surface": "謳い文句",
+    "reading": "utaimonku",
+    "code": "cr-kan2-217",
+    "index": 217
+  },
+  {
+    "surface": "意気込み",
+    "reading": "ikikomi",
+    "code": "cr-kan2-218",
+    "index": 218
+  },
+  {
+    "surface": "和気あいあい",
+    "reading": "wakiaiai",
+    "code": "cr-kan2-219",
+    "index": 219
+  },
+  {
+    "surface": "中標津",
+    "reading": "nakashibetsu",
+    "code": "cr-kan2-220",
+    "index": 220
+  },
+  {
+    "surface": "風土記",
+    "reading": "fuudoki",
+    "code": "cr-kan2-221",
+    "index": 221
+  },
+  {
+    "surface": "手一杯",
+    "reading": "teippai",
+    "code": "cr-kan2-222",
+    "index": 222
+  },
+  {
+    "surface": "八幡東",
+    "reading": "yahatahigashi",
+    "code": "cr-kan2-223",
+    "index": 223
+  },
+  {
+    "surface": "引き寄せる",
+    "reading": "hikiyoseru",
+    "code": "cr-kan2-224",
+    "index": 224
+  },
+  {
+    "surface": "酌み交わし",
+    "reading": "kumikawashi",
+    "code": "cr-kan2-225",
+    "index": 225
+  },
+  {
+    "surface": "育て上げる",
+    "reading": "sodateageru",
+    "code": "cr-kan2-226",
+    "index": 226
+  },
+  {
+    "surface": "炎天下",
+    "reading": "entenshita",
+    "code": "cr-kan2-227",
+    "index": 227
+  },
+  {
+    "surface": "取り締まら",
+    "reading": "torishimara",
+    "code": "cr-kan2-228",
+    "index": 228
+  },
+  {
+    "surface": "鬼太郎",
+    "reading": "onitarou",
+    "code": "cr-kan2-229",
+    "index": 229
+  },
+  {
+    "surface": "天台宗",
+    "reading": "tendaishuu",
+    "code": "cr-kan2-230",
+    "index": 230
+  },
+  {
+    "surface": "先天的",
+    "reading": "sententeki",
+    "code": "cr-kan2-231",
+    "index": 231
+  },
+  {
+    "surface": "瀬戸際",
+    "reading": "setogiwa",
+    "code": "cr-kan2-232",
+    "index": 232
+  },
+  {
+    "surface": "立ち往生",
+    "reading": "tachioujou",
+    "code": "cr-kan2-233",
+    "index": 233
+  },
+  {
+    "surface": "伊香保",
+    "reading": "ikaho",
+    "code": "cr-kan2-234",
+    "index": 234
+  },
+  {
+    "surface": "打ち込める",
+    "reading": "uchikomeru",
+    "code": "cr-kan2-235",
+    "index": 235
+  },
+  {
+    "surface": "西臼杵",
+    "reading": "nishiusuki",
+    "code": "cr-kan2-236",
+    "index": 236
+  },
+  {
+    "surface": "引っ掛かり",
+    "reading": "hikkakari",
+    "code": "cr-kan2-237",
+    "index": 237
+  },
+  {
+    "surface": "伊集院",
+    "reading": "ijuuin",
+    "code": "cr-kan2-238",
+    "index": 238
+  },
+  {
+    "surface": "一点張り",
+    "reading": "ichitenbari",
+    "code": "cr-kan2-239",
+    "index": 239
+  },
+  {
+    "surface": "取り沙汰",
+    "reading": "torisata",
+    "code": "cr-kan2-240",
+    "index": 240
+  },
+  {
+    "surface": "位置づける",
+    "reading": "ichizukeru",
+    "code": "cr-kan2-241",
+    "index": 241
+  },
+  {
+    "surface": "吉本興業",
+    "reading": "yoshimotokougyou",
+    "code": "cr-kan2-242",
+    "index": 242
+  },
+  {
+    "surface": "出来栄え",
+    "reading": "dekibae",
+    "code": "cr-kan2-243",
+    "index": 243
+  },
+  {
+    "surface": "嘉手納",
+    "reading": "kadena",
+    "code": "cr-kan2-244",
+    "index": 244
+  },
+  {
+    "surface": "お好み焼き",
+    "reading": "okonomiyaki",
+    "code": "cr-kan2-245",
+    "index": 245
+  },
+  {
+    "surface": "早智子",
+    "reading": "sachiko",
+    "code": "cr-kan2-246",
+    "index": 246
+  },
+  {
+    "surface": "曹洞宗",
+    "reading": "soutoushuu",
+    "code": "cr-kan2-247",
+    "index": 247
+  },
+  {
+    "surface": "引き起こす",
+    "reading": "hikiokosu",
+    "code": "cr-kan2-248",
+    "index": 248
+  },
+  {
+    "surface": "大盤振る舞い",
+    "reading": "oobanfurumai",
+    "code": "cr-kan2-249",
+    "index": 249
+  },
+  {
+    "surface": "人情味",
+    "reading": "ninjoumi",
+    "code": "cr-kan2-250",
+    "index": 250
+  },
+  {
+    "surface": "向かい合っ",
+    "reading": "mukaia",
+    "code": "cr-kan2-251",
+    "index": 251
+  },
+  {
+    "surface": "詰め合わせ",
+    "reading": "tsumeawase",
+    "code": "cr-kan2-252",
+    "index": 252
+  },
+  {
+    "surface": "引き入れる",
+    "reading": "hikiireru",
+    "code": "cr-kan2-253",
+    "index": 253
+  },
+  {
+    "surface": "密入国",
+    "reading": "mitsunyuukoku",
+    "code": "cr-kan2-254",
+    "index": 254
+  },
+  {
+    "surface": "立ち向かわ",
+    "reading": "tachimukawa",
+    "code": "cr-kan2-255",
+    "index": 255
+  },
+  {
+    "surface": "飯田線",
+    "reading": "iidasen",
+    "code": "cr-kan2-256",
+    "index": 256
+  },
+  {
+    "surface": "隣り合わせ",
+    "reading": "tonariawase",
+    "code": "cr-kan2-257",
+    "index": 257
+  },
+  {
+    "surface": "一所懸命",
+    "reading": "isshokenmei",
+    "code": "cr-kan2-258",
+    "index": 258
+  },
+  {
+    "surface": "大器晩成",
+    "reading": "taikibansei",
+    "code": "cr-kan2-259",
+    "index": 259
+  },
+  {
+    "surface": "一筋縄",
+    "reading": "hitosujinawa",
+    "code": "cr-kan2-260",
+    "index": 260
+  },
+  {
+    "surface": "屁理屈",
+    "reading": "herikutsu",
+    "code": "cr-kan2-261",
+    "index": 261
+  },
+  {
+    "surface": "百太郎",
+    "reading": "hyakutarou",
+    "code": "cr-kan2-262",
+    "index": 262
+  },
+  {
+    "surface": "手間取り",
+    "reading": "temadori",
+    "code": "cr-kan2-263",
+    "index": 263
+  },
+  {
+    "surface": "取り立てる",
+    "reading": "toritateru",
+    "code": "cr-kan2-264",
+    "index": 264
+  },
+  {
+    "surface": "盛り上がら",
+    "reading": "moriagara",
+    "code": "cr-kan2-265",
+    "index": 265
+  },
+  {
+    "surface": "駆り立てる",
+    "reading": "karitateru",
+    "code": "cr-kan2-266",
+    "index": 266
+  },
+  {
+    "surface": "二等兵",
+    "reading": "nitouhei",
+    "code": "cr-kan2-267",
+    "index": 267
+  },
+  {
+    "surface": "土石流",
+    "reading": "dosekiryuu",
+    "code": "cr-kan2-268",
+    "index": 268
+  },
+  {
+    "surface": "天変地異",
+    "reading": "tenpenchii",
+    "code": "cr-kan2-269",
+    "index": 269
+  },
+  {
+    "surface": "差し伸べる",
+    "reading": "sashinoberu",
+    "code": "cr-kan2-270",
+    "index": 270
+  },
+  {
+    "surface": "入り乱れる",
+    "reading": "irimidareru",
+    "code": "cr-kan2-271",
+    "index": 271
+  },
+  {
+    "surface": "湯布院",
+    "reading": "yufuin",
+    "code": "cr-kan2-272",
+    "index": 272
+  },
+  {
+    "surface": "断末魔",
+    "reading": "danmatsuma",
+    "code": "cr-kan2-273",
+    "index": 273
+  },
+  {
+    "surface": "一之瀬",
+    "reading": "ichinose",
+    "code": "cr-kan2-274",
+    "index": 274
+  },
+  {
+    "surface": "割り当てる",
+    "reading": "wariateru",
+    "code": "cr-kan2-275",
+    "index": 275
+  },
+  {
+    "surface": "引っこ抜く",
+    "reading": "hikkonuku",
+    "code": "cr-kan2-276",
+    "index": 276
+  },
+  {
+    "surface": "お引き受け",
+    "reading": "ohikiuke",
+    "code": "cr-kan2-277",
+    "index": 277
+  },
+  {
+    "surface": "優等生",
+    "reading": "yuutousei",
+    "code": "cr-kan2-278",
+    "index": 278
+  },
+  {
+    "surface": "立ち込める",
+    "reading": "tachikomeru",
+    "code": "cr-kan2-279",
+    "index": 279
+  },
+  {
+    "surface": "予告編",
+    "reading": "yokokuhen",
+    "code": "cr-kan2-280",
+    "index": 280
+  },
+  {
+    "surface": "二刀流",
+    "reading": "nitouryuu",
+    "code": "cr-kan2-281",
+    "index": 281
+  },
+  {
+    "surface": "目玉焼き",
+    "reading": "medamayaki",
+    "code": "cr-kan2-282",
+    "index": 282
+  },
+  {
+    "surface": "大御所",
+    "reading": "daigosho",
+    "code": "cr-kan2-283",
+    "index": 283
+  },
+  {
+    "surface": "保奈美",
+    "reading": "honami",
+    "code": "cr-kan2-284",
+    "index": 284
+  },
+  {
+    "surface": "引き受ける",
+    "reading": "hikiukeru",
+    "code": "cr-kan2-285",
+    "index": 285
+  },
+  {
+    "surface": "御堂筋",
+    "reading": "midousuji",
+    "code": "cr-kan2-286",
+    "index": 286
+  },
+  {
+    "surface": "切り替わる",
+    "reading": "kirikawaru",
+    "code": "cr-kan2-287",
+    "index": 287
+  },
+  {
+    "surface": "生真面目",
+    "reading": "kimajime",
+    "code": "cr-kan2-288",
+    "index": 288
+  },
+  {
+    "surface": "御苦労",
+    "reading": "gokurou",
+    "code": "cr-kan2-289",
+    "index": 289
+  },
+  {
+    "surface": "総一郎",
+    "reading": "souichirou",
+    "code": "cr-kan2-290",
+    "index": 290
+  },
+  {
+    "surface": "吸い上げる",
+    "reading": "suiageru",
+    "code": "cr-kan2-291",
+    "index": 291
+  },
+  {
+    "surface": "遣唐使",
+    "reading": "kentoushi",
+    "code": "cr-kan2-292",
+    "index": 292
+  },
+  {
+    "surface": "向かい合わ",
+    "reading": "mukaiawa",
+    "code": "cr-kan2-293",
+    "index": 293
+  },
+  {
+    "surface": "得意気",
+    "reading": "tokuiki",
+    "code": "cr-kan2-294",
+    "index": 294
+  },
+  {
+    "surface": "面倒くさい",
+    "reading": "mendoukusai",
+    "code": "cr-kan2-295",
+    "index": 295
+  },
+  {
+    "surface": "遊撃手",
+    "reading": "yuugekishu",
+    "code": "cr-kan2-296",
+    "index": 296
+  },
+  {
+    "surface": "面倒臭い",
+    "reading": "mendoukusai",
+    "code": "cr-kan2-297",
+    "index": 297
+  },
+  {
+    "surface": "切り抜ける",
+    "reading": "kirinukeru",
+    "code": "cr-kan2-298",
+    "index": 298
+  },
+  {
+    "surface": "吉之助",
+    "reading": "kichinosuke",
+    "code": "cr-kan2-299",
+    "index": 299
+  },
+  {
+    "surface": "自分勝手",
+    "reading": "jibunkatte",
+    "code": "cr-kan2-300",
+    "index": 300
+  },
+  {
+    "surface": "外神田",
+    "reading": "sotokanda",
+    "code": "cr-kan2-301",
+    "index": 301
+  },
+  {
+    "surface": "言い聞かせる",
+    "reading": "iikikaseru",
+    "code": "cr-kan2-302",
+    "index": 302
+  },
+  {
+    "surface": "若旦那",
+    "reading": "wakadanna",
+    "code": "cr-kan2-303",
+    "index": 303
+  },
+  {
+    "surface": "満里奈",
+    "reading": "marina",
+    "code": "cr-kan2-304",
+    "index": 304
+  },
+  {
+    "surface": "気仙沼",
+    "reading": "kesennuma",
+    "code": "cr-kan2-305",
+    "index": 305
+  },
+  {
+    "surface": "張り巡らせ",
+    "reading": "harimegurase",
+    "code": "cr-kan2-306",
+    "index": 306
+  },
+  {
+    "surface": "苫米地",
+    "reading": "tomabechi",
+    "code": "cr-kan2-307",
+    "index": 307
+  },
+  {
+    "surface": "左右田",
+    "reading": "souda",
+    "code": "cr-kan2-308",
+    "index": 308
+  },
+  {
+    "surface": "那智勝浦",
+    "reading": "nachikatsuura",
+    "code": "cr-kan2-309",
+    "index": 309
+  },
+  {
+    "surface": "四面楚歌",
+    "reading": "shimensoka",
+    "code": "cr-kan2-310",
+    "index": 310
+  },
+  {
+    "surface": "浮かび上がる",
+    "reading": "ukabiagaru",
+    "code": "cr-kan2-311",
+    "index": 311
+  },
+  {
+    "surface": "張り巡らさ",
+    "reading": "harimegurasa",
+    "code": "cr-kan2-312",
+    "index": 312
+  },
+  {
+    "surface": "突き落とす",
+    "reading": "tsukiotosu",
+    "code": "cr-kan2-313",
+    "index": 313
+  },
+  {
+    "surface": "西麻布",
+    "reading": "nishiazabu",
+    "code": "cr-kan2-314",
+    "index": 314
+  },
+  {
+    "surface": "好都合",
+    "reading": "koutsugou",
+    "code": "cr-kan2-315",
+    "index": 315
+  },
+  {
+    "surface": "突き飛ばさ",
+    "reading": "tsukitobasa",
+    "code": "cr-kan2-316",
+    "index": 316
+  },
+  {
+    "surface": "道化師",
+    "reading": "doukeshi",
+    "code": "cr-kan2-317",
+    "index": 317
+  },
+  {
+    "surface": "大道具",
+    "reading": "daidougu",
+    "code": "cr-kan2-318",
+    "index": 318
+  },
+  {
+    "surface": "引き付ける",
+    "reading": "hikitsukeru",
+    "code": "cr-kan2-319",
+    "index": 319
+  },
+  {
+    "surface": "由布院",
+    "reading": "yufuin",
+    "code": "cr-kan2-320",
+    "index": 320
+  },
+  {
+    "surface": "意気投合",
+    "reading": "ikitougou",
+    "code": "cr-kan2-321",
+    "index": 321
+  },
+  {
+    "surface": "突き刺さる",
+    "reading": "tsukisasaru",
+    "code": "cr-kan2-322",
+    "index": 322
+  },
+  {
+    "surface": "転入生",
+    "reading": "tennyuusei",
+    "code": "cr-kan2-323",
+    "index": 323
+  },
+  {
+    "surface": "押し寄せる",
+    "reading": "oshiyoseru",
+    "code": "cr-kan2-324",
+    "index": 324
+  },
+  {
+    "surface": "出来上がり",
+    "reading": "dekiagari",
+    "code": "cr-kan2-325",
+    "index": 325
+  },
+  {
+    "surface": "成り上がっ",
+    "reading": "nariaga",
+    "code": "cr-kan2-326",
+    "index": 326
+  },
+  {
+    "surface": "持ち上がり",
+    "reading": "mochiagari",
+    "code": "cr-kan2-327",
+    "index": 327
+  },
+  {
+    "surface": "奥羽本線",
+    "reading": "ouuhonsen",
+    "code": "cr-kan2-328",
+    "index": 328
+  },
+  {
+    "surface": "引き締める",
+    "reading": "hikishimeru",
+    "code": "cr-kan2-329",
+    "index": 329
+  },
+  {
+    "surface": "騒ぎ立てる",
+    "reading": "sawagitateru",
+    "code": "cr-kan2-330",
+    "index": 330
+  },
+  {
+    "surface": "真言宗",
+    "reading": "shingonshuu",
+    "code": "cr-kan2-331",
+    "index": 331
+  },
+  {
+    "surface": "独壇場",
+    "reading": "dokudanjou",
+    "code": "cr-kan2-332",
+    "index": 332
+  },
+  {
+    "surface": "出来合い",
+    "reading": "dekiai",
+    "code": "cr-kan2-333",
+    "index": 333
+  },
+  {
+    "surface": "人民元",
+    "reading": "jinminmoto",
+    "code": "cr-kan2-334",
+    "index": 334
+  },
+  {
+    "surface": "読み上げる",
+    "reading": "yomiageru",
+    "code": "cr-kan2-335",
+    "index": 335
+  },
+  {
+    "surface": "丸ノ内線",
+    "reading": "marunouchisen",
+    "code": "cr-kan2-336",
+    "index": 336
+  },
+  {
+    "surface": "持ち合わせ",
+    "reading": "mochiawase",
+    "code": "cr-kan2-337",
+    "index": 337
+  },
+  {
+    "surface": "茶飯事",
+    "reading": "sahanji",
+    "code": "cr-kan2-338",
+    "index": 338
+  },
+  {
+    "surface": "取り合わせ",
+    "reading": "toriawase",
+    "code": "cr-kan2-339",
+    "index": 339
+  },
+  {
+    "surface": "一生懸命",
+    "reading": "isshoukenmei",
+    "code": "cr-kan2-340",
+    "index": 340
+  },
+  {
+    "surface": "麻里奈",
+    "reading": "marina",
+    "code": "cr-kan2-341",
+    "index": 341
+  },
+  {
+    "surface": "発起人",
+    "reading": "hokkinin",
+    "code": "cr-kan2-342",
+    "index": 342
+  },
+  {
+    "surface": "気苦労",
+    "reading": "kikurou",
+    "code": "cr-kan2-343",
+    "index": 343
+  },
+  {
+    "surface": "栄一郎",
+    "reading": "eiichirou",
+    "code": "cr-kan2-344",
+    "index": 344
+  },
+  {
+    "surface": "一寸法師",
+    "reading": "ichisunhoushi",
+    "code": "cr-kan2-345",
+    "index": 345
+  },
+  {
+    "surface": "田布施",
+    "reading": "tabuse",
+    "code": "cr-kan2-346",
+    "index": 346
+  },
+  {
+    "surface": "舞い上がり",
+    "reading": "maiagari",
+    "code": "cr-kan2-347",
+    "index": 347
+  },
+  {
+    "surface": "大納言",
+    "reading": "dainagon",
+    "code": "cr-kan2-348",
+    "index": 348
+  },
+  {
+    "surface": "起承転結",
+    "reading": "kishoutenketsu",
+    "code": "cr-kan2-349",
+    "index": 349
+  },
+  {
+    "surface": "集英社",
+    "reading": "shuueisha",
+    "code": "cr-kan2-350",
+    "index": 350
+  },
+  {
+    "surface": "一蓮托生",
+    "reading": "ichirentakushou",
+    "code": "cr-kan2-351",
+    "index": 351
+  },
+  {
+    "surface": "可哀相",
+    "reading": "kawaisou",
+    "code": "cr-kan2-352",
+    "index": 352
+  },
+  {
+    "surface": "相手方",
+    "reading": "aitekata",
+    "code": "cr-kan2-353",
+    "index": 353
+  },
+  {
+    "surface": "支離滅裂",
+    "reading": "shirimetsuretsu",
+    "code": "cr-kan2-354",
+    "index": 354
+  },
+  {
+    "surface": "本塁打",
+    "reading": "honruida",
+    "code": "cr-kan2-355",
+    "index": 355
+  },
+  {
+    "surface": "乗り合わせ",
+    "reading": "noriawase",
+    "code": "cr-kan2-356",
+    "index": 356
+  },
+  {
+    "surface": "高野連",
+    "reading": "kouyaren",
+    "code": "cr-kan2-357",
+    "index": 357
+  },
+  {
+    "surface": "引っこ抜い",
+    "reading": "hikkonui",
+    "code": "cr-kan2-358",
+    "index": 358
+  },
+  {
+    "surface": "音沙汰",
+    "reading": "onsata",
+    "code": "cr-kan2-359",
+    "index": 359
+  },
+  {
+    "surface": "理不尽",
+    "reading": "rifujin",
+    "code": "cr-kan2-360",
+    "index": 360
+  },
+  {
+    "surface": "取り逃がす",
+    "reading": "torinigasu",
+    "code": "cr-kan2-361",
+    "index": 361
+  },
+  {
+    "surface": "名残惜しい",
+    "reading": "nagorioshii",
+    "code": "cr-kan2-362",
+    "index": 362
+  },
+  {
+    "surface": "有頂天",
+    "reading": "uchouten",
+    "code": "cr-kan2-363",
+    "index": 363
+  },
+  {
+    "surface": "成り下がっ",
+    "reading": "narisaga",
+    "code": "cr-kan2-364",
+    "index": 364
+  },
+  {
+    "surface": "相模原",
+    "reading": "sagamihara",
+    "code": "cr-kan2-365",
+    "index": 365
+  },
+  {
+    "surface": "手裏剣",
+    "reading": "shuriken",
+    "code": "cr-kan2-366",
+    "index": 366
+  },
+  {
+    "surface": "様子見",
+    "reading": "yousumi",
+    "code": "cr-kan2-367",
+    "index": 367
+  },
+  {
+    "surface": "御影石",
+    "reading": "mikageishi",
+    "code": "cr-kan2-368",
+    "index": 368
+  },
+  {
+    "surface": "通行人",
+    "reading": "tsuukounin",
+    "code": "cr-kan2-369",
+    "index": 369
+  },
+  {
+    "surface": "取り押さえる",
+    "reading": "toriosaeru",
+    "code": "cr-kan2-370",
+    "index": 370
+  },
+  {
+    "surface": "宇多津",
+    "reading": "utazu",
+    "code": "cr-kan2-371",
+    "index": 371
+  },
+  {
+    "surface": "呼び覚まし",
+    "reading": "yobisamashi",
+    "code": "cr-kan2-372",
+    "index": 372
+  },
+  {
+    "surface": "追い詰める",
+    "reading": "oitsumeru",
+    "code": "cr-kan2-373",
+    "index": 373
+  },
+  {
+    "surface": "裏番組",
+    "reading": "urabangumi",
+    "code": "cr-kan2-374",
+    "index": 374
+  },
+  {
+    "surface": "手間取っ",
+    "reading": "temado",
+    "code": "cr-kan2-375",
+    "index": 375
+  },
+  {
+    "surface": "芽衣子",
+    "reading": "meiko",
+    "code": "cr-kan2-376",
+    "index": 376
+  },
+  {
+    "surface": "吹き飛ばす",
+    "reading": "fukitobasu",
+    "code": "cr-kan2-377",
+    "index": 377
+  },
+  {
+    "surface": "半蔵門",
+    "reading": "hanzoumon",
+    "code": "cr-kan2-378",
+    "index": 378
+  },
+  {
+    "surface": "仲見世",
+    "reading": "nakamise",
+    "code": "cr-kan2-379",
+    "index": 379
+  },
+  {
+    "surface": "早乙女",
+    "reading": "saotome",
+    "code": "cr-kan2-380",
+    "index": 380
+  },
+  {
+    "surface": "脳味噌",
+    "reading": "noumiso",
+    "code": "cr-kan2-381",
+    "index": 381
+  },
+  {
+    "surface": "盛り上がり",
+    "reading": "moriagari",
+    "code": "cr-kan2-382",
+    "index": 382
+  },
+  {
+    "surface": "似顔絵",
+    "reading": "nigaoe",
+    "code": "cr-kan2-383",
+    "index": 383
+  },
+  {
+    "surface": "絆創膏",
+    "reading": "bansoukou",
+    "code": "cr-kan2-384",
+    "index": 384
+  },
+  {
+    "surface": "駆け抜ける",
+    "reading": "kakenukeru",
+    "code": "cr-kan2-385",
+    "index": 385
+  },
+  {
+    "surface": "千利休",
+    "reading": "sennorikyuu",
+    "code": "cr-kan2-386",
+    "index": 386
+  },
+  {
+    "surface": "幕張メッセ",
+    "reading": "makuharimesse",
+    "code": "cr-kan2-387",
+    "index": 387
+  },
+  {
+    "surface": "非常識",
+    "reading": "hijoushiki",
+    "code": "cr-kan2-388",
+    "index": 388
+  },
+  {
+    "surface": "天下一品",
+    "reading": "tenkaichihin",
+    "code": "cr-kan2-389",
+    "index": 389
+  },
+  {
+    "surface": "赤味噌",
+    "reading": "akamiso",
+    "code": "cr-kan2-390",
+    "index": 390
+  },
+  {
+    "surface": "仁王立ち",
+    "reading": "nioudachi",
+    "code": "cr-kan2-391",
+    "index": 391
+  },
+  {
+    "surface": "位置付ける",
+    "reading": "ichitsukeru",
+    "code": "cr-kan2-392",
+    "index": 392
+  },
+  {
+    "surface": "取っ組み合い",
+    "reading": "tokkumiai",
+    "code": "cr-kan2-393",
+    "index": 393
+  },
+  {
+    "surface": "現在地",
+    "reading": "genzaichi",
+    "code": "cr-kan2-394",
+    "index": 394
+  },
+  {
+    "surface": "任天堂",
+    "reading": "nintendou",
+    "code": "cr-kan2-395",
+    "index": 395
+  },
+  {
+    "surface": "一義的",
+    "reading": "ichigiteki",
+    "code": "cr-kan2-396",
+    "index": 396
+  },
+  {
+    "surface": "食い意地",
+    "reading": "kuiiji",
+    "code": "cr-kan2-397",
+    "index": 397
+  },
+  {
+    "surface": "身支度",
+    "reading": "mishitaku",
+    "code": "cr-kan2-398",
+    "index": 398
+  },
+  {
+    "surface": "被写体",
+    "reading": "hishatai",
+    "code": "cr-kan2-399",
+    "index": 399
+  },
+  {
+    "surface": "公益社",
+    "reading": "kouekisha",
+    "code": "cr-kan2-400",
+    "index": 400
+  },
+  {
+    "surface": "切り上げる",
+    "reading": "kiriageru",
+    "code": "cr-kan2-401",
+    "index": 401
+  },
+  {
+    "surface": "伊之助",
+    "reading": "inosuke",
+    "code": "cr-kan2-402",
+    "index": 402
+  },
+  {
+    "surface": "切り替わり",
+    "reading": "kirikawari",
+    "code": "cr-kan2-403",
+    "index": 403
+  },
+  {
+    "surface": "真駒内",
+    "reading": "makomanai",
+    "code": "cr-kan2-404",
+    "index": 404
+  },
+  {
+    "surface": "奈美恵",
+    "reading": "namie",
+    "code": "cr-kan2-405",
+    "index": 405
+  },
+  {
+    "surface": "引き出せる",
+    "reading": "hikidaseru",
+    "code": "cr-kan2-406",
+    "index": 406
+  },
+  {
+    "surface": "諸行無常",
+    "reading": "shogyoumujou",
+    "code": "cr-kan2-407",
+    "index": 407
+  },
+  {
+    "surface": "乱高下",
+    "reading": "rankouge",
+    "code": "cr-kan2-408",
+    "index": 408
+  },
+  {
+    "surface": "一触即発",
+    "reading": "isshokusokuhatsu",
+    "code": "cr-kan2-409",
+    "index": 409
+  },
+  {
+    "surface": "目白押し",
+    "reading": "mejirooshi",
+    "code": "cr-kan2-410",
+    "index": 410
+  },
+  {
+    "surface": "引き揚げる",
+    "reading": "hikiageru",
+    "code": "cr-kan2-411",
+    "index": 411
+  },
+  {
+    "surface": "執着心",
+    "reading": "shuuchakushin",
+    "code": "cr-kan2-412",
+    "index": 412
+  },
+  {
+    "surface": "注意報",
+    "reading": "chuuihou",
+    "code": "cr-kan2-413",
+    "index": 413
+  },
+  {
+    "surface": "引っ掛かっ",
+    "reading": "hikkaka",
+    "code": "cr-kan2-414",
+    "index": 414
+  },
+  {
+    "surface": "留守番",
+    "reading": "rusuban",
+    "code": "cr-kan2-415",
+    "index": 415
+  },
+  {
+    "surface": "一期一会",
+    "reading": "ichikiichie",
+    "code": "cr-kan2-416",
+    "index": 416
+  },
+  {
+    "surface": "八方塞がり",
+    "reading": "happoufusagari",
+    "code": "cr-kan2-417",
+    "index": 417
+  },
+  {
+    "surface": "錬金術",
+    "reading": "renkinjutsu",
+    "code": "cr-kan2-418",
+    "index": 418
+  },
+  {
+    "surface": "締め付ける",
+    "reading": "shimetsukeru",
+    "code": "cr-kan2-419",
+    "index": 419
+  },
+  {
+    "surface": "見つけ出し",
+    "reading": "mitsukedashi",
+    "code": "cr-kan2-420",
+    "index": 420
+  },
+  {
+    "surface": "常套句",
+    "reading": "joutouku",
+    "code": "cr-kan2-421",
+    "index": 421
+  },
+  {
+    "surface": "持ち上がる",
+    "reading": "mochiagaru",
+    "code": "cr-kan2-422",
+    "index": 422
+  },
+  {
+    "surface": "立ち尽くし",
+    "reading": "tachitsukushi",
+    "code": "cr-kan2-423",
+    "index": 423
+  },
+  {
+    "surface": "千代田",
+    "reading": "chiyoda",
+    "code": "cr-kan2-424",
+    "index": 424
+  },
+  {
+    "surface": "一辺倒",
+    "reading": "ippentou",
+    "code": "cr-kan2-425",
+    "index": 425
+  },
+  {
+    "surface": "吹き飛ばし",
+    "reading": "fukitobashi",
+    "code": "cr-kan2-426",
+    "index": 426
+  },
+  {
+    "surface": "参勤交代",
+    "reading": "sankinkoutai",
+    "code": "cr-kan2-427",
+    "index": 427
+  },
+  {
+    "surface": "魑魅魍魎",
+    "reading": "chimimouryou",
+    "code": "cr-kan2-428",
+    "index": 428
+  },
+  {
+    "surface": "求心力",
+    "reading": "kyuushinryoku",
+    "code": "cr-kan2-429",
+    "index": 429
+  },
+  {
+    "surface": "迎え入れる",
+    "reading": "mukaeireru",
+    "code": "cr-kan2-430",
+    "index": 430
+  },
+  {
+    "surface": "長津田",
+    "reading": "nagatsuta",
+    "code": "cr-kan2-431",
+    "index": 431
+  },
+  {
+    "surface": "小手先",
+    "reading": "kotesaki",
+    "code": "cr-kan2-432",
+    "index": 432
+  },
+  {
+    "surface": "浮世絵",
+    "reading": "ukiyoe",
+    "code": "cr-kan2-433",
+    "index": 433
+  },
+  {
+    "surface": "引きずり出し",
+    "reading": "hikizuridashi",
+    "code": "cr-kan2-434",
+    "index": 434
+  },
+  {
+    "surface": "突き刺さり",
+    "reading": "tsukisasari",
+    "code": "cr-kan2-435",
+    "index": 435
+  },
+  {
+    "surface": "焼死体",
+    "reading": "shoushitai",
+    "code": "cr-kan2-436",
+    "index": 436
+  },
+  {
+    "surface": "天王山",
+    "reading": "tennousan",
+    "code": "cr-kan2-437",
+    "index": 437
+  },
+  {
+    "surface": "四方八方",
+    "reading": "shikatahappou",
+    "code": "cr-kan2-438",
+    "index": 438
+  },
+  {
+    "surface": "差し押さえ",
+    "reading": "sashiosae",
+    "code": "cr-kan2-439",
+    "index": 439
+  },
+  {
+    "surface": "土俵入り",
+    "reading": "dohyouiri",
+    "code": "cr-kan2-440",
+    "index": 440
+  },
+  {
+    "surface": "盛り上がっ",
+    "reading": "moriaga",
+    "code": "cr-kan2-441",
+    "index": 441
+  },
+  {
+    "surface": "非の打ち所",
+    "reading": "hinouchidokoro",
+    "code": "cr-kan2-442",
+    "index": 442
+  },
+  {
+    "surface": "因果律",
+    "reading": "ingaritsu",
+    "code": "cr-kan2-443",
+    "index": 443
+  },
+  {
+    "surface": "引きずり込ま",
+    "reading": "hikizurikoma",
+    "code": "cr-kan2-444",
+    "index": 444
+  },
+  {
+    "surface": "甲子園",
+    "reading": "koushien",
+    "code": "cr-kan2-445",
+    "index": 445
+  },
+  {
+    "surface": "御曹司",
+    "reading": "onzoushi",
+    "code": "cr-kan2-446",
+    "index": 446
+  },
+  {
+    "surface": "大黒天",
+    "reading": "daikokuten",
+    "code": "cr-kan2-447",
+    "index": 447
+  },
+  {
+    "surface": "盛り上がる",
+    "reading": "moriagaru",
+    "code": "cr-kan2-448",
+    "index": 448
+  },
+  {
+    "surface": "見せ付ける",
+    "reading": "misetsukeru",
+    "code": "cr-kan2-449",
+    "index": 449
+  },
+  {
+    "surface": "小文字",
+    "reading": "shoumoji",
+    "code": "cr-kan2-450",
+    "index": 450
+  },
+  {
+    "surface": "大飯原発",
+    "reading": "ooigenpatsu",
+    "code": "cr-kan2-451",
+    "index": 451
+  },
+  {
+    "surface": "仲間入り",
+    "reading": "nakamairi",
+    "code": "cr-kan2-452",
+    "index": 452
+  },
+  {
+    "surface": "久茂地",
+    "reading": "kumoji",
+    "code": "cr-kan2-453",
+    "index": 453
+  },
+  {
+    "surface": "桃太郎",
+    "reading": "momotarou",
+    "code": "cr-kan2-454",
+    "index": 454
+  },
+  {
+    "surface": "申し合わせ",
+    "reading": "moushiawase",
+    "code": "cr-kan2-455",
+    "index": 455
+  },
+  {
+    "surface": "入れ替わり",
+    "reading": "irekawari",
+    "code": "cr-kan2-456",
+    "index": 456
+  },
+  {
+    "surface": "お祭り騒ぎ",
+    "reading": "omatsurisawagi",
+    "code": "cr-kan2-457",
+    "index": 457
+  },
+  {
+    "surface": "常磐線",
+    "reading": "joubansen",
+    "code": "cr-kan2-458",
+    "index": 458
+  },
+  {
+    "surface": "松葉杖",
+    "reading": "matsubatsue",
+    "code": "cr-kan2-459",
+    "index": 459
+  },
+  {
+    "surface": "落ち着ける",
+    "reading": "ochitsukeru",
+    "code": "cr-kan2-460",
+    "index": 460
+  },
+  {
+    "surface": "会津若松",
+    "reading": "aizuwakamatsu",
+    "code": "cr-kan2-461",
+    "index": 461
+  },
+  {
+    "surface": "可哀想",
+    "reading": "kawaisou",
+    "code": "cr-kan2-462",
+    "index": 462
+  },
+  {
+    "surface": "格納庫",
+    "reading": "kakunouko",
+    "code": "cr-kan2-463",
+    "index": 463
+  },
+  {
+    "surface": "取り入れる",
+    "reading": "toriireru",
+    "code": "cr-kan2-464",
+    "index": 464
+  },
+  {
+    "surface": "朝比奈",
+    "reading": "asahina",
+    "code": "cr-kan2-465",
+    "index": 465
+  },
+  {
+    "surface": "超弩級",
+    "reading": "choudokyuu",
+    "code": "cr-kan2-466",
+    "index": 466
+  },
+  {
+    "surface": "相談役",
+    "reading": "soudanyaku",
+    "code": "cr-kan2-467",
+    "index": 467
+  },
+  {
+    "surface": "顔見知り",
+    "reading": "kaomishiri",
+    "code": "cr-kan2-468",
+    "index": 468
+  },
+  {
+    "surface": "吹き荒れる",
+    "reading": "fukiareru",
+    "code": "cr-kan2-469",
+    "index": 469
+  },
+  {
+    "surface": "影武者",
+    "reading": "kagemusha",
+    "code": "cr-kan2-470",
+    "index": 470
+  },
+  {
+    "surface": "八百屋",
+    "reading": "yaoya",
+    "code": "cr-kan2-471",
+    "index": 471
+  },
+  {
+    "surface": "中性子",
+    "reading": "chuuseishi",
+    "code": "cr-kan2-472",
+    "index": 472
+  },
+  {
+    "surface": "喜八郎",
+    "reading": "kihachirou",
+    "code": "cr-kan2-473",
+    "index": 473
+  },
+  {
+    "surface": "表裏一体",
+    "reading": "hyouriittai",
+    "code": "cr-kan2-474",
+    "index": 474
+  },
+  {
+    "surface": "力仕事",
+    "reading": "chikarashigoto",
+    "code": "cr-kan2-475",
+    "index": 475
+  },
+  {
+    "surface": "座布団",
+    "reading": "zafuton",
+    "code": "cr-kan2-476",
+    "index": 476
+  },
+  {
+    "surface": "武蔵境",
+    "reading": "musashisakai",
+    "code": "cr-kan2-477",
+    "index": 477
+  },
+  {
+    "surface": "扶桑社",
+    "reading": "fusousha",
+    "code": "cr-kan2-478",
+    "index": 478
+  },
+  {
+    "surface": "波佐見",
+    "reading": "hasami",
+    "code": "cr-kan2-479",
+    "index": 479
+  },
+  {
+    "surface": "高千穂",
+    "reading": "takachiho",
+    "code": "cr-kan2-480",
+    "index": 480
+  },
+  {
+    "surface": "引き落とし",
+    "reading": "hikiotoshi",
+    "code": "cr-kan2-481",
+    "index": 481
+  },
+  {
+    "surface": "阿修羅",
+    "reading": "ashura",
+    "code": "cr-kan2-482",
+    "index": 482
+  },
+  {
+    "surface": "上小阿仁",
+    "reading": "kamikoani",
+    "code": "cr-kan2-483",
+    "index": 483
+  },
+  {
+    "surface": "貴美子",
+    "reading": "kimiko",
+    "code": "cr-kan2-484",
+    "index": 484
+  },
+  {
+    "surface": "意味合い",
+    "reading": "imiai",
+    "code": "cr-kan2-485",
+    "index": 485
+  },
+  {
+    "surface": "小矢部",
+    "reading": "oyabe",
+    "code": "cr-kan2-486",
+    "index": 486
+  },
+  {
+    "surface": "阿倍野",
+    "reading": "abeno",
+    "code": "cr-kan2-487",
+    "index": 487
+  },
+  {
+    "surface": "仲間割れ",
+    "reading": "nakamaware",
+    "code": "cr-kan2-488",
+    "index": 488
+  },
+  {
+    "surface": "目の当たり",
+    "reading": "manoatari",
+    "code": "cr-kan2-489",
+    "index": 489
+  },
+  {
+    "surface": "臨済宗",
+    "reading": "rinzaishuu",
+    "code": "cr-kan2-490",
+    "index": 490
+  },
+  {
+    "surface": "呼び起こす",
+    "reading": "yobiokosu",
+    "code": "cr-kan2-491",
+    "index": 491
+  },
+  {
+    "surface": "呼び起こし",
+    "reading": "yobiokoshi",
+    "code": "cr-kan2-492",
+    "index": 492
+  },
+  {
+    "surface": "オウム真理教",
+    "reading": "oumushinrikyou",
+    "code": "cr-kan2-493",
+    "index": 493
+  },
+  {
+    "surface": "長宗我部",
+    "reading": "chousokabe",
+    "code": "cr-kan2-494",
+    "index": 494
+  },
+  {
+    "surface": "見物人",
+    "reading": "kenbutsunin",
+    "code": "cr-kan2-495",
+    "index": 495
+  },
+  {
+    "surface": "検査官",
+    "reading": "kensakan",
+    "code": "cr-kan2-496",
+    "index": 496
+  },
+  {
+    "surface": "思う存分",
+    "reading": "omouzonbun",
+    "code": "cr-kan2-497",
+    "index": 497
+  },
+  {
+    "surface": "請負人",
+    "reading": "ukeoinin",
+    "code": "cr-kan2-498",
+    "index": 498
+  },
+  {
+    "surface": "流鏑馬",
+    "reading": "yabusame",
+    "code": "cr-kan2-499",
+    "index": 499
+  },
+  {
+    "surface": "阿久根",
+    "reading": "akune",
+    "code": "cr-kan2-500",
+    "index": 500
+  },
+  {
+    "surface": "年甲斐",
+    "reading": "toshigai",
+    "code": "cr-kan2-501",
+    "index": 501
+  },
+  {
+    "surface": "駄洒落",
+    "reading": "dajare",
+    "code": "cr-kan2-502",
+    "index": 502
+  },
+  {
+    "surface": "看板娘",
+    "reading": "kanbanmusume",
+    "code": "cr-kan2-503",
+    "index": 503
+  },
+  {
+    "surface": "買い替える",
+    "reading": "kaikaeru",
+    "code": "cr-kan2-504",
+    "index": 504
+  },
+  {
+    "surface": "不純物",
+    "reading": "fujunbutsu",
+    "code": "cr-kan2-505",
+    "index": 505
+  },
+  {
+    "surface": "代官山",
+    "reading": "daikanyama",
+    "code": "cr-kan2-506",
+    "index": 506
+  },
+  {
+    "surface": "書き上げる",
+    "reading": "kakiageru",
+    "code": "cr-kan2-507",
+    "index": 507
+  },
+  {
+    "surface": "英一郎",
+    "reading": "eiichirou",
+    "code": "cr-kan2-508",
+    "index": 508
+  },
+  {
+    "surface": "案山子",
+    "reading": "kakashi",
+    "code": "cr-kan2-509",
+    "index": 509
+  },
+  {
+    "surface": "話半分",
+    "reading": "hanashihanbun",
+    "code": "cr-kan2-510",
+    "index": 510
+  },
+  {
+    "surface": "茶目っ気",
+    "reading": "chamekke",
+    "code": "cr-kan2-511",
+    "index": 511
+  },
+  {
+    "surface": "海老原",
+    "reading": "ebihara",
+    "code": "cr-kan2-512",
+    "index": 512
+  },
+  {
+    "surface": "真知子",
+    "reading": "machiko",
+    "code": "cr-kan2-513",
+    "index": 513
+  },
+  {
+    "surface": "謙太郎",
+    "reading": "kentarou",
+    "code": "cr-kan2-514",
+    "index": 514
+  },
+  {
+    "surface": "研ぎ澄まさ",
+    "reading": "togisumasa",
+    "code": "cr-kan2-515",
+    "index": 515
+  },
+  {
+    "surface": "集大成",
+    "reading": "shuutaisei",
+    "code": "cr-kan2-516",
+    "index": 516
+  },
+  {
+    "surface": "入れ替わる",
+    "reading": "irekawaru",
+    "code": "cr-kan2-517",
+    "index": 517
+  },
+  {
+    "surface": "書き込める",
+    "reading": "kakikomeru",
+    "code": "cr-kan2-518",
+    "index": 518
+  },
+  {
+    "surface": "大理石",
+    "reading": "dairiseki",
+    "code": "cr-kan2-519",
+    "index": 519
+  },
+  {
+    "surface": "阿鼻叫喚",
+    "reading": "abikyoukan",
+    "code": "cr-kan2-520",
+    "index": 520
+  },
+  {
+    "surface": "朔太郎",
+    "reading": "sakutarou",
+    "code": "cr-kan2-521",
+    "index": 521
+  },
+  {
+    "surface": "司令塔",
+    "reading": "shireitou",
+    "code": "cr-kan2-522",
+    "index": 522
+  },
+  {
+    "surface": "差し掛かる",
+    "reading": "sashikakaru",
+    "code": "cr-kan2-523",
+    "index": 523
+  },
+  {
+    "surface": "語り合える",
+    "reading": "katariaeru",
+    "code": "cr-kan2-524",
+    "index": 524
+  },
+  {
+    "surface": "吹き出物",
+    "reading": "fukidemono",
+    "code": "cr-kan2-525",
+    "index": 525
+  },
+  {
+    "surface": "出来上がる",
+    "reading": "dekiagaru",
+    "code": "cr-kan2-526",
+    "index": 526
+  },
+  {
+    "surface": "呼び寄せる",
+    "reading": "yobiyoseru",
+    "code": "cr-kan2-527",
+    "index": 527
+  },
+  {
+    "surface": "投げ入れる",
+    "reading": "nageireru",
+    "code": "cr-kan2-528",
+    "index": 528
+  },
+  {
+    "surface": "引っ掛かる",
+    "reading": "hikkakaru",
+    "code": "cr-kan2-529",
+    "index": 529
+  },
+  {
+    "surface": "一喜一憂",
+    "reading": "ikkiichiyuu",
+    "code": "cr-kan2-530",
+    "index": 530
+  },
+  {
+    "surface": "大雑把",
+    "reading": "oozappa",
+    "code": "cr-kan2-531",
+    "index": 531
+  },
+  {
+    "surface": "海老名",
+    "reading": "ebina",
+    "code": "cr-kan2-532",
+    "index": 532
+  },
+  {
+    "surface": "付き合える",
+    "reading": "tsukiaeru",
+    "code": "cr-kan2-533",
+    "index": 533
+  },
+  {
+    "surface": "太極拳",
+    "reading": "taikyokuken",
+    "code": "cr-kan2-534",
+    "index": 534
+  },
+  {
+    "surface": "永谷園",
+    "reading": "nagatanien",
+    "code": "cr-kan2-535",
+    "index": 535
+  },
+  {
+    "surface": "地球儀",
+    "reading": "chikyuugi",
+    "code": "cr-kan2-536",
+    "index": 536
+  },
+  {
+    "surface": "上機嫌",
+    "reading": "joukigen",
+    "code": "cr-kan2-537",
+    "index": 537
+  },
+  {
+    "surface": "二律背反",
+    "reading": "niritsuhaihan",
+    "code": "cr-kan2-538",
+    "index": 538
+  },
+  {
+    "surface": "落とし込ん",
+    "reading": "otoshikon",
+    "code": "cr-kan2-539",
+    "index": 539
+  },
+  {
+    "surface": "引きずり込む",
+    "reading": "hikizurigomu",
+    "code": "cr-kan2-540",
+    "index": 540
+  },
+  {
+    "surface": "芸能人",
+    "reading": "geinounin",
+    "code": "cr-kan2-541",
+    "index": 541
+  },
+  {
+    "surface": "千差万別",
+    "reading": "sensabanbetsu",
+    "code": "cr-kan2-542",
+    "index": 542
+  },
+  {
+    "surface": "間欠泉",
+    "reading": "kanketsusen",
+    "code": "cr-kan2-543",
+    "index": 543
+  },
+  {
+    "surface": "踏み入れる",
+    "reading": "fumiireru",
+    "code": "cr-kan2-544",
+    "index": 544
+  },
+  {
+    "surface": "大義名分",
+    "reading": "taigimeibun",
+    "code": "cr-kan2-545",
+    "index": 545
+  },
+  {
+    "surface": "思い当たる",
+    "reading": "omoiataru",
+    "code": "cr-kan2-546",
+    "index": 546
+  },
+  {
+    "surface": "釈迦如来",
+    "reading": "shakanyorai",
+    "code": "cr-kan2-547",
+    "index": 547
+  },
+  {
+    "surface": "上伊那",
+    "reading": "kamiina",
+    "code": "cr-kan2-548",
+    "index": 548
+  },
+  {
+    "surface": "切り替わっ",
+    "reading": "kirikawa",
+    "code": "cr-kan2-549",
+    "index": 549
+  },
+  {
+    "surface": "振り分ける",
+    "reading": "furiwakeru",
+    "code": "cr-kan2-550",
+    "index": 550
+  },
+  {
+    "surface": "ご愁傷さま",
+    "reading": "goshuushousama",
+    "code": "cr-kan2-551",
+    "index": 551
+  },
+  {
+    "surface": "追い求める",
+    "reading": "oimotomeru",
+    "code": "cr-kan2-552",
+    "index": 552
+  },
+  {
+    "surface": "出来上がっ",
+    "reading": "dekiaga",
+    "code": "cr-kan2-553",
+    "index": 553
+  },
+  {
+    "surface": "奇天烈",
+    "reading": "kiteretsu",
+    "code": "cr-kan2-554",
+    "index": 554
+  },
+  {
+    "surface": "相模大野",
+    "reading": "sagamioono",
+    "code": "cr-kan2-555",
+    "index": 555
+  },
+  {
+    "surface": "武蔵野",
+    "reading": "musashino",
+    "code": "cr-kan2-556",
+    "index": 556
+  },
+  {
+    "surface": "大文字",
+    "reading": "daimoji",
+    "code": "cr-kan2-557",
+    "index": 557
+  },
+  {
+    "surface": "通り抜ける",
+    "reading": "toorinukeru",
+    "code": "cr-kan2-558",
+    "index": 558
+  },
+  {
+    "surface": "早稲田",
+    "reading": "waseda",
+    "code": "cr-kan2-559",
+    "index": 559
+  },
+  {
+    "surface": "美和子",
+    "reading": "miwako",
+    "code": "cr-kan2-560",
+    "index": 560
+  },
+  {
+    "surface": "意気込ん",
+    "reading": "ikikon",
+    "code": "cr-kan2-561",
+    "index": 561
+  },
+  {
+    "surface": "武蔵小金井",
+    "reading": "musashikoganei",
+    "code": "cr-kan2-562",
+    "index": 562
+  },
+  {
+    "surface": "筑波大",
+    "reading": "tsukubadai",
+    "code": "cr-kan2-563",
+    "index": 563
+  },
+  {
+    "surface": "入れ替わっ",
+    "reading": "irekawa",
+    "code": "cr-kan2-564",
+    "index": 564
+  },
+  {
+    "surface": "同窓生",
+    "reading": "dousousei",
+    "code": "cr-kan2-565",
+    "index": 565
+  },
+  {
+    "surface": "一網打尽",
+    "reading": "ichimoudajin",
+    "code": "cr-kan2-566",
+    "index": 566
+  },
+  {
+    "surface": "手っ取り早く",
+    "reading": "tettorihayaku",
+    "code": "cr-kan2-567",
+    "index": 567
+  },
+  {
+    "surface": "立身出世",
+    "reading": "risshinshusse",
+    "code": "cr-kan2-568",
+    "index": 568
+  },
+  {
+    "surface": "不可欠",
+    "reading": "fukaketsu",
+    "code": "cr-kan2-569",
+    "index": 569
+  },
+  {
+    "surface": "倫太郎",
+    "reading": "rintarou",
+    "code": "cr-kan2-570",
+    "index": 570
+  },
+  {
+    "surface": "源五郎",
+    "reading": "gengorou",
+    "code": "cr-kan2-571",
+    "index": 571
+  },
+  {
+    "surface": "辺野古",
+    "reading": "henoko",
+    "code": "cr-kan2-572",
+    "index": 572
+  },
+  {
+    "surface": "双葉社",
+    "reading": "futabasha",
+    "code": "cr-kan2-573",
+    "index": 573
+  },
+  {
+    "surface": "代名詞",
+    "reading": "daimeishi",
+    "code": "cr-kan2-574",
+    "index": 574
+  },
+  {
+    "surface": "宇津木",
+    "reading": "utsuki",
+    "code": "cr-kan2-575",
+    "index": 575
+  },
+  {
+    "surface": "古事記",
+    "reading": "kojiki",
+    "code": "cr-kan2-576",
+    "index": 576
+  },
+  {
+    "surface": "西葛西",
+    "reading": "nishikasai",
+    "code": "cr-kan2-577",
+    "index": 577
+  },
+  {
+    "surface": "信太郎",
+    "reading": "shintarou",
+    "code": "cr-kan2-578",
+    "index": 578
+  },
+  {
+    "surface": "阿久比",
+    "reading": "agui",
+    "code": "cr-kan2-579",
+    "index": 579
+  },
+  {
+    "surface": "伊勢丹",
+    "reading": "isetan",
+    "code": "cr-kan2-580",
+    "index": 580
+  },
+  {
+    "surface": "本拠地",
+    "reading": "honkyochi",
+    "code": "cr-kan2-581",
+    "index": 581
+  },
+  {
+    "surface": "入り交じっ",
+    "reading": "irimaji",
+    "code": "cr-kan2-582",
+    "index": 582
+  },
+  {
+    "surface": "位置付け",
+    "reading": "ichitsuke",
+    "code": "cr-kan2-583",
+    "index": 583
+  },
+  {
+    "surface": "蓋然性",
+    "reading": "gaizensei",
+    "code": "cr-kan2-584",
+    "index": 584
+  },
+  {
+    "surface": "小麦色",
+    "reading": "komugiiro",
+    "code": "cr-kan2-585",
+    "index": 585
+  },
+  {
+    "surface": "待ち焦がれ",
+    "reading": "machikogare",
+    "code": "cr-kan2-586",
+    "index": 586
+  },
+  {
+    "surface": "太宰府",
+    "reading": "dazaifu",
+    "code": "cr-kan2-587",
+    "index": 587
+  },
+  {
+    "surface": "心機一転",
+    "reading": "shinkiitten",
+    "code": "cr-kan2-588",
+    "index": 588
+  },
+  {
+    "surface": "押し上げる",
+    "reading": "oshiageru",
+    "code": "cr-kan2-589",
+    "index": 589
+  },
+  {
+    "surface": "金太郎",
+    "reading": "kintarou",
+    "code": "cr-kan2-590",
+    "index": 590
+  },
+  {
+    "surface": "久御山",
+    "reading": "kumiyama",
+    "code": "cr-kan2-591",
+    "index": 591
+  },
+  {
+    "surface": "美辞麗句",
+    "reading": "bijireiku",
+    "code": "cr-kan2-592",
+    "index": 592
+  },
+  {
+    "surface": "天地人",
+    "reading": "tenchinin",
+    "code": "cr-kan2-593",
+    "index": 593
+  },
+  {
+    "surface": "後始末",
+    "reading": "atoshimatsu",
+    "code": "cr-kan2-594",
+    "index": 594
+  },
+  {
+    "surface": "下閉伊",
+    "reading": "shimohei",
+    "code": "cr-kan2-595",
+    "index": 595
+  },
+  {
+    "surface": "青瓦台",
+    "reading": "seigadai",
+    "code": "cr-kan2-596",
+    "index": 596
+  },
+  {
+    "surface": "引っ掛ける",
+    "reading": "hikkakeru",
+    "code": "cr-kan2-597",
+    "index": 597
+  },
+  {
+    "surface": "物真似",
+    "reading": "monomane",
+    "code": "cr-kan2-598",
+    "index": 598
+  },
+  {
+    "surface": "村八分",
+    "reading": "murahachibu",
+    "code": "cr-kan2-599",
+    "index": 599
+  },
+  {
+    "surface": "観艦式",
+    "reading": "kankanshiki",
+    "code": "cr-kan2-600",
+    "index": 600
+  },
+  {
+    "surface": "留美子",
+    "reading": "rumiko",
+    "code": "cr-kan2-601",
+    "index": 601
+  },
+  {
+    "surface": "東工大",
+    "reading": "toukoudai",
+    "code": "cr-kan2-602",
+    "index": 602
+  },
+  {
+    "surface": "運営上",
+    "reading": "uneijou",
+    "code": "cr-kan2-603",
+    "index": 603
+  },
+  {
+    "surface": "浮き上がっ",
+    "reading": "ukiaga",
+    "code": "cr-kan2-604",
+    "index": 604
+  },
+  {
+    "surface": "宇佐美",
+    "reading": "usami",
+    "code": "cr-kan2-605",
+    "index": 605
+  },
+  {
+    "surface": "金輪際",
+    "reading": "konrinzai",
+    "code": "cr-kan2-606",
+    "index": 606
+  },
+  {
+    "surface": "生み出せる",
+    "reading": "umidaseru",
+    "code": "cr-kan2-607",
+    "index": 607
+  },
+  {
+    "surface": "副産物",
+    "reading": "fukusanbutsu",
+    "code": "cr-kan2-608",
+    "index": 608
+  },
+  {
+    "surface": "気持ちよかっ",
+    "reading": "kimochiyoka",
+    "code": "cr-kan2-609",
+    "index": 609
+  },
+  {
+    "surface": "持ち上げる",
+    "reading": "mochiageru",
+    "code": "cr-kan2-610",
+    "index": 610
+  },
+  {
+    "surface": "北佐久",
+    "reading": "kitasaku",
+    "code": "cr-kan2-611",
+    "index": 611
+  },
+  {
+    "surface": "代わり映え",
+    "reading": "kawaribae",
+    "code": "cr-kan2-612",
+    "index": 612
+  },
+  {
+    "surface": "乗り切れる",
+    "reading": "norikireru",
+    "code": "cr-kan2-613",
+    "index": 613
+  },
+  {
+    "surface": "組み合わさ",
+    "reading": "kumiawasa",
+    "code": "cr-kan2-614",
+    "index": 614
+  },
+  {
+    "surface": "特措法",
+    "reading": "tokusohou",
+    "code": "cr-kan2-615",
+    "index": 615
+  },
+  {
+    "surface": "真理子",
+    "reading": "mariko",
+    "code": "cr-kan2-616",
+    "index": 616
+  },
+  {
+    "surface": "舞い上がっ",
+    "reading": "maiaga",
+    "code": "cr-kan2-617",
+    "index": 617
+  },
+  {
+    "surface": "勘九郎",
+    "reading": "kankurou",
+    "code": "cr-kan2-618",
+    "index": 618
+  },
+  {
+    "surface": "精一杯",
+    "reading": "seiippai",
+    "code": "cr-kan2-619",
+    "index": 619
+  },
+  {
+    "surface": "送り届ける",
+    "reading": "okuritodokeru",
+    "code": "cr-kan2-620",
+    "index": 620
+  },
+  {
+    "surface": "絵里奈",
+    "reading": "erina",
+    "code": "cr-kan2-621",
+    "index": 621
+  },
+  {
+    "surface": "凝り固まっ",
+    "reading": "korikatama",
+    "code": "cr-kan2-622",
+    "index": 622
+  },
+  {
+    "surface": "飛び上がる",
+    "reading": "tobiagaru",
+    "code": "cr-kan2-623",
+    "index": 623
+  },
+  {
+    "surface": "平八郎",
+    "reading": "heihachirou",
+    "code": "cr-kan2-624",
+    "index": 624
+  },
+  {
+    "surface": "枢機卿",
+    "reading": "suukikyou",
+    "code": "cr-kan2-625",
+    "index": 625
+  },
+  {
+    "surface": "受け取れる",
+    "reading": "uketoreru",
+    "code": "cr-kan2-626",
+    "index": 626
+  },
+  {
+    "surface": "明治維新",
+    "reading": "meijiishin",
+    "code": "cr-kan2-627",
+    "index": 627
+  },
+  {
+    "surface": "佐久間",
+    "reading": "sakuma",
+    "code": "cr-kan2-628",
+    "index": 628
+  },
+  {
+    "surface": "徒然草",
+    "reading": "tsurezuregusa",
+    "code": "cr-kan2-629",
+    "index": 629
+  },
+  {
+    "surface": "接続詞",
+    "reading": "setsuzokushi",
+    "code": "cr-kan2-630",
+    "index": 630
+  },
+  {
+    "surface": "今日子",
+    "reading": "kyouko",
+    "code": "cr-kan2-631",
+    "index": 631
+  },
+  {
+    "surface": "待ち合わせ",
+    "reading": "machiawase",
+    "code": "cr-kan2-632",
+    "index": 632
+  },
+  {
+    "surface": "申し立てる",
+    "reading": "moushitateru",
+    "code": "cr-kan2-633",
+    "index": 633
+  },
+  {
+    "surface": "野暮ったい",
+    "reading": "yabottai",
+    "code": "cr-kan2-634",
+    "index": 634
+  },
+  {
+    "surface": "三菱地所",
+    "reading": "mitsubishijisho",
+    "code": "cr-kan2-635",
+    "index": 635
+  },
+  {
+    "surface": "都会人",
+    "reading": "tokainin",
+    "code": "cr-kan2-636",
+    "index": 636
+  },
+  {
+    "surface": "疑問符",
+    "reading": "gimonfu",
+    "code": "cr-kan2-637",
+    "index": 637
+  },
+  {
+    "surface": "中村屋",
+    "reading": "nakamuraya",
+    "code": "cr-kan2-638",
+    "index": 638
+  },
+  {
+    "surface": "繰り広げる",
+    "reading": "kurihirogeru",
+    "code": "cr-kan2-639",
+    "index": 639
+  },
+  {
+    "surface": "頓珍漢",
+    "reading": "tonchinkan",
+    "code": "cr-kan2-640",
+    "index": 640
+  },
+  {
+    "surface": "守銭奴",
+    "reading": "shusenyatsu",
+    "code": "cr-kan2-641",
+    "index": 641
+  },
+  {
+    "surface": "決定づける",
+    "reading": "ketteizukeru",
+    "code": "cr-kan2-642",
+    "index": 642
+  },
+  {
+    "surface": "言い換える",
+    "reading": "iikaeru",
+    "code": "cr-kan2-643",
+    "index": 643
+  },
+  {
+    "surface": "持ち上がっ",
+    "reading": "mochiaga",
+    "code": "cr-kan2-644",
+    "index": 644
+  },
+  {
+    "surface": "お釈迦様",
+    "reading": "oshakasama",
+    "code": "cr-kan2-645",
+    "index": 645
+  },
+  {
+    "surface": "襟裳岬",
+    "reading": "erimomisaki",
+    "code": "cr-kan2-646",
+    "index": 646
+  },
+  {
+    "surface": "焼夷弾",
+    "reading": "shouidan",
+    "code": "cr-kan2-647",
+    "index": 647
+  },
+  {
+    "surface": "安佐南",
+    "reading": "asaminami",
+    "code": "cr-kan2-648",
+    "index": 648
+  },
+  {
+    "surface": "一段落",
+    "reading": "ichidanraku",
+    "code": "cr-kan2-649",
+    "index": 649
+  },
+  {
+    "surface": "我那覇",
+    "reading": "ganaha",
+    "code": "cr-kan2-650",
+    "index": 650
+  },
+  {
+    "surface": "生き甲斐",
+    "reading": "ikigai",
+    "code": "cr-kan2-651",
+    "index": 651
+  },
+  {
+    "surface": "浄土宗",
+    "reading": "joudoshuu",
+    "code": "cr-kan2-652",
+    "index": 652
+  },
+  {
+    "surface": "枢密院",
+    "reading": "suumitsuin",
+    "code": "cr-kan2-653",
+    "index": 653
+  },
+  {
+    "surface": "千里眼",
+    "reading": "senrigan",
+    "code": "cr-kan2-654",
+    "index": 654
+  },
+  {
+    "surface": "仕切り直し",
+    "reading": "shikirinaoshi",
+    "code": "cr-kan2-655",
+    "index": 655
+  },
+  {
+    "surface": "後天的",
+    "reading": "koutenteki",
+    "code": "cr-kan2-656",
+    "index": 656
+  },
+  {
+    "surface": "阿久津",
+    "reading": "akutsu",
+    "code": "cr-kan2-657",
+    "index": 657
+  },
+  {
+    "surface": "破天荒",
+    "reading": "hatenkou",
+    "code": "cr-kan2-658",
+    "index": 658
+  },
+  {
+    "surface": "小道具",
+    "reading": "shoudougu",
+    "code": "cr-kan2-659",
+    "index": 659
+  },
+  {
+    "surface": "一部分",
+    "reading": "ichibubun",
+    "code": "cr-kan2-660",
+    "index": 660
+  },
+  {
+    "surface": "仙石線",
+    "reading": "sengokusen",
+    "code": "cr-kan2-661",
+    "index": 661
+  },
+  {
+    "surface": "一族郎党",
+    "reading": "ichizokuroutou",
+    "code": "cr-kan2-662",
+    "index": 662
+  },
+  {
+    "surface": "無理強い",
+    "reading": "muritsuyoi",
+    "code": "cr-kan2-663",
+    "index": 663
+  },
+  {
+    "surface": "舞い上がる",
+    "reading": "maiagaru",
+    "code": "cr-kan2-664",
+    "index": 664
+  },
+  {
+    "surface": "二人称",
+    "reading": "nininshou",
+    "code": "cr-kan2-665",
+    "index": 665
+  },
+  {
+    "surface": "切羽詰まっ",
+    "reading": "seppatsuma",
+    "code": "cr-kan2-666",
+    "index": 666
+  },
+  {
+    "surface": "大明神",
+    "reading": "daimyoujin",
+    "code": "cr-kan2-667",
+    "index": 667
+  },
+  {
+    "surface": "創価学会",
+    "reading": "soukagakkai",
+    "code": "cr-kan2-668",
+    "index": 668
+  },
+  {
+    "surface": "釣り上げる",
+    "reading": "tsuriageru",
+    "code": "cr-kan2-669",
+    "index": 669
+  },
+  {
+    "surface": "又兵衛",
+    "reading": "matabee",
+    "code": "cr-kan2-670",
+    "index": 670
+  },
+  {
+    "surface": "分け与える",
+    "reading": "wakeataeru",
+    "code": "cr-kan2-671",
+    "index": 671
+  },
+  {
+    "surface": "小布施",
+    "reading": "kofuse",
+    "code": "cr-kan2-672",
+    "index": 672
+  },
+  {
+    "surface": "臆病者",
+    "reading": "okubyousha",
+    "code": "cr-kan2-673",
+    "index": 673
+  },
+  {
+    "surface": "光文社",
+    "reading": "koubunsha",
+    "code": "cr-kan2-674",
+    "index": 674
+  },
+  {
+    "surface": "駿河屋",
+    "reading": "surugaya",
+    "code": "cr-kan2-675",
+    "index": 675
+  },
+  {
+    "surface": "阿佐ヶ谷",
+    "reading": "asagaya",
+    "code": "cr-kan2-676",
+    "index": 676
+  },
+  {
+    "surface": "見合わせる",
+    "reading": "miawaseru",
+    "code": "cr-kan2-677",
+    "index": 677
+  },
+  {
+    "surface": "防弾チョッキ",
+    "reading": "boudanjaque",
+    "code": "cr-kan2-678",
+    "index": 678
+  },
+  {
+    "surface": "居心地",
+    "reading": "igokochi",
+    "code": "cr-kan2-679",
+    "index": 679
+  },
+  {
+    "surface": "擦り付ける",
+    "reading": "kosuritsukeru",
+    "code": "cr-kan2-680",
+    "index": 680
+  },
+  {
+    "surface": "粟田口",
+    "reading": "awatakuchi",
+    "code": "cr-kan2-681",
+    "index": 681
+  },
+  {
+    "surface": "孝太郎",
+    "reading": "koutarou",
+    "code": "cr-kan2-682",
+    "index": 682
+  },
+  {
+    "surface": "全盛期",
+    "reading": "zenseiki",
+    "code": "cr-kan2-683",
+    "index": 683
+  },
+  {
+    "surface": "単刀直入",
+    "reading": "tantouchokunyuu",
+    "code": "cr-kan2-684",
+    "index": 684
+  },
+  {
+    "surface": "乗り越える",
+    "reading": "norikoeru",
+    "code": "cr-kan2-685",
+    "index": 685
+  },
+  {
+    "surface": "気管支",
+    "reading": "kikanshi",
+    "code": "cr-kan2-686",
+    "index": 686
+  },
+  {
+    "surface": "取り逃がし",
+    "reading": "torinigashi",
+    "code": "cr-kan2-687",
+    "index": 687
+  },
+  {
+    "surface": "南佐久",
+    "reading": "minamisaku",
+    "code": "cr-kan2-688",
+    "index": 688
+  },
+  {
+    "surface": "目論見",
+    "reading": "mokuromi",
+    "code": "cr-kan2-689",
+    "index": 689
+  },
+  {
+    "surface": "真骨頂",
+    "reading": "makotchou",
+    "code": "cr-kan2-690",
+    "index": 690
+  },
+  {
+    "surface": "一目瞭然",
+    "reading": "ichimokuryouzen",
+    "code": "cr-kan2-691",
+    "index": 691
+  },
+  {
+    "surface": "意固地",
+    "reading": "ikoji",
+    "code": "cr-kan2-692",
+    "index": 692
+  },
+  {
+    "surface": "可奈子",
+    "reading": "kanako",
+    "code": "cr-kan2-693",
+    "index": 693
+  },
+  {
+    "surface": "各務原",
+    "reading": "kakamigahara",
+    "code": "cr-kan2-694",
+    "index": 694
+  },
+  {
+    "surface": "松竹梅",
+    "reading": "matsutakeume",
+    "code": "cr-kan2-695",
+    "index": 695
+  },
+  {
+    "surface": "打ち合わせ",
+    "reading": "uchiawase",
+    "code": "cr-kan2-696",
+    "index": 696
+  },
+  {
+    "surface": "奇想天外",
+    "reading": "kisoutengai",
+    "code": "cr-kan2-697",
+    "index": 697
+  },
+  {
+    "surface": "佐世保",
+    "reading": "sasebo",
+    "code": "cr-kan2-698",
+    "index": 698
+  },
+  {
+    "surface": "御前崎",
+    "reading": "omaezaki",
+    "code": "cr-kan2-699",
+    "index": 699
+  },
+  {
+    "surface": "大須賀",
+    "reading": "oosuga",
+    "code": "cr-kan2-700",
+    "index": 700
+  },
+  {
+    "surface": "備忘録",
+    "reading": "bibouroku",
+    "code": "cr-kan2-701",
+    "index": 701
+  },
+  {
+    "surface": "泉佐野",
+    "reading": "izumisano",
+    "code": "cr-kan2-702",
+    "index": 702
+  },
+  {
+    "surface": "天安門",
+    "reading": "tenanmon",
+    "code": "cr-kan2-703",
+    "index": 703
+  },
+  {
+    "surface": "太刀打ち",
+    "reading": "tachiuchi",
+    "code": "cr-kan2-704",
+    "index": 704
+  },
+  {
+    "surface": "弥太郎",
+    "reading": "yatarou",
+    "code": "cr-kan2-705",
+    "index": 705
+  },
+  {
+    "surface": "麻理子",
+    "reading": "mariko",
+    "code": "cr-kan2-706",
+    "index": 706
+  },
+  {
+    "surface": "引き上げる",
+    "reading": "hikiageru",
+    "code": "cr-kan2-707",
+    "index": 707
+  },
+  {
+    "surface": "思い浮かべ",
+    "reading": "omoiukabe",
+    "code": "cr-kan2-708",
+    "index": 708
+  },
+  {
+    "surface": "通天閣",
+    "reading": "tsuutenkaku",
+    "code": "cr-kan2-709",
+    "index": 709
+  },
+  {
+    "surface": "不可避",
+    "reading": "fukahi",
+    "code": "cr-kan2-710",
+    "index": 710
+  },
+  {
+    "surface": "祥伝社",
+    "reading": "shoudensha",
+    "code": "cr-kan2-711",
+    "index": 711
+  },
+  {
+    "surface": "受け入れる",
+    "reading": "ukeireru",
+    "code": "cr-kan2-712",
+    "index": 712
+  },
+  {
+    "surface": "役所広司",
+    "reading": "yakushokouji",
+    "code": "cr-kan2-713",
+    "index": 713
+  },
+  {
+    "surface": "日出男",
+    "reading": "hideo",
+    "code": "cr-kan2-714",
+    "index": 714
+  },
+  {
+    "surface": "取り出せる",
+    "reading": "toridaseru",
+    "code": "cr-kan2-715",
+    "index": 715
+  },
+  {
+    "surface": "千早赤阪",
+    "reading": "chihayaakasaka",
+    "code": "cr-kan2-716",
+    "index": 716
+  },
+  {
+    "surface": "一騎打ち",
+    "reading": "ikkiuchi",
+    "code": "cr-kan2-717",
+    "index": 717
+  },
+  {
+    "surface": "伊良部",
+    "reading": "irabu",
+    "code": "cr-kan2-718",
+    "index": 718
+  },
+  {
+    "surface": "一心不乱",
+    "reading": "isshinfuran",
+    "code": "cr-kan2-719",
+    "index": 719
+  },
+  {
+    "surface": "配達員",
+    "reading": "haitatsuin",
+    "code": "cr-kan2-720",
+    "index": 720
+  },
+  {
+    "surface": "原動力",
+    "reading": "gendouryoku",
+    "code": "cr-kan2-721",
+    "index": 721
+  },
+  {
+    "surface": "お受け取り",
+    "reading": "ouketori",
+    "code": "cr-kan2-722",
+    "index": 722
+  },
+  {
+    "surface": "立ち向かい",
+    "reading": "tachimukai",
+    "code": "cr-kan2-723",
+    "index": 723
+  },
+  {
+    "surface": "使い分ける",
+    "reading": "tsukaiwakeru",
+    "code": "cr-kan2-724",
+    "index": 724
+  },
+  {
+    "surface": "鳴り物入り",
+    "reading": "narimonoiri",
+    "code": "cr-kan2-725",
+    "index": 725
+  },
+  {
+    "surface": "吹き飛ばさ",
+    "reading": "fukitobasa",
+    "code": "cr-kan2-726",
+    "index": 726
+  },
+  {
+    "surface": "真由美",
+    "reading": "mayumi",
+    "code": "cr-kan2-727",
+    "index": 727
+  },
+  {
+    "surface": "下世話",
+    "reading": "shitasewa",
+    "code": "cr-kan2-728",
+    "index": 728
+  },
+  {
+    "surface": "興味深",
+    "reading": "kyoumishin",
+    "code": "cr-kan2-729",
+    "index": 729
+  },
+  {
+    "surface": "小久保",
+    "reading": "kokubo",
+    "code": "cr-kan2-730",
+    "index": 730
+  },
+  {
+    "surface": "引き落とさ",
+    "reading": "hikiotosa",
+    "code": "cr-kan2-731",
+    "index": 731
+  },
+  {
+    "surface": "張本人",
+    "reading": "chouhonnin",
+    "code": "cr-kan2-732",
+    "index": 732
+  },
+  {
+    "surface": "上大岡",
+    "reading": "ueoooka",
+    "code": "cr-kan2-733",
+    "index": 733
+  },
+  {
+    "surface": "置き換わる",
+    "reading": "okikawaru",
+    "code": "cr-kan2-734",
+    "index": 734
+  },
+  {
+    "surface": "松任谷",
+    "reading": "matsutouya",
+    "code": "cr-kan2-735",
+    "index": 735
+  },
+  {
+    "surface": "純一郎",
+    "reading": "junichirou",
+    "code": "cr-kan2-736",
+    "index": 736
+  },
+  {
+    "surface": "般若心経",
+    "reading": "prainashingyou",
+    "code": "cr-kan2-737",
+    "index": 737
+  },
+  {
+    "surface": "探し当てる",
+    "reading": "sagashiateru",
+    "code": "cr-kan2-738",
+    "index": 738
+  },
+  {
+    "surface": "秋場所",
+    "reading": "akibasho",
+    "code": "cr-kan2-739",
+    "index": 739
+  },
+  {
+    "surface": "鬼怒川",
+    "reading": "kinukawa",
+    "code": "cr-kan2-740",
+    "index": 740
+  },
+  {
+    "surface": "面倒臭く",
+    "reading": "mendoukusaku",
+    "code": "cr-kan2-741",
+    "index": 741
+  },
+  {
+    "surface": "燃え上がる",
+    "reading": "moeagaru",
+    "code": "cr-kan2-742",
+    "index": 742
+  },
+  {
+    "surface": "光太郎",
+    "reading": "koutarou",
+    "code": "cr-kan2-743",
+    "index": 743
+  },
+  {
+    "surface": "出入国",
+    "reading": "shutsunyuukoku",
+    "code": "cr-kan2-744",
+    "index": 744
+  },
+  {
+    "surface": "主人公",
+    "reading": "shujinkou",
+    "code": "cr-kan2-745",
+    "index": 745
+  },
+  {
+    "surface": "盛り上がろ",
+    "reading": "moriagaro",
+    "code": "cr-kan2-746",
+    "index": 746
+  },
+  {
+    "surface": "掛け布団",
+    "reading": "kakefuton",
+    "code": "cr-kan2-747",
+    "index": 747
+  },
+  {
+    "surface": "立ち向かえ",
+    "reading": "tachimukae",
+    "code": "cr-kan2-748",
+    "index": 748
+  },
+  {
+    "surface": "作り上げる",
+    "reading": "tsukuriageru",
+    "code": "cr-kan2-749",
+    "index": 749
+  },
+  {
+    "surface": "不都合",
+    "reading": "futsugou",
+    "code": "cr-kan2-750",
+    "index": 750
+  },
+  {
+    "surface": "向かい合う",
+    "reading": "mukaiau",
+    "code": "cr-kan2-751",
+    "index": 751
+  },
+  {
+    "surface": "八乙女",
+    "reading": "yaotome",
+    "code": "cr-kan2-752",
+    "index": 752
+  },
+  {
+    "surface": "皮算用",
+    "reading": "kawasanyou",
+    "code": "cr-kan2-753",
+    "index": 753
+  },
+  {
+    "surface": "御朱印",
+    "reading": "goshuin",
+    "code": "cr-kan2-754",
+    "index": 754
+  },
+  {
+    "surface": "崎陽軒",
+    "reading": "kiyouken",
+    "code": "cr-kan2-755",
+    "index": 755
+  },
+  {
+    "surface": "一大事",
+    "reading": "ichidaiji",
+    "code": "cr-kan2-756",
+    "index": 756
+  },
+  {
+    "surface": "白泉社",
+    "reading": "hakusensha",
+    "code": "cr-kan2-757",
+    "index": 757
+  },
+  {
+    "surface": "書き下ろし",
+    "reading": "kakioroshi",
+    "code": "cr-kan2-758",
+    "index": 758
+  },
+  {
+    "surface": "あの手この手",
+    "reading": "anotekonote",
+    "code": "cr-kan2-759",
+    "index": 759
+  },
+  {
+    "surface": "合い言葉",
+    "reading": "aikotoba",
+    "code": "cr-kan2-760",
+    "index": 760
+  },
+  {
+    "surface": "大前提",
+    "reading": "daizentei",
+    "code": "cr-kan2-761",
+    "index": 761
+  },
+  {
+    "surface": "聞き入れる",
+    "reading": "kikiireru",
+    "code": "cr-kan2-762",
+    "index": 762
+  },
+  {
+    "surface": "自己流",
+    "reading": "jikoryuu",
+    "code": "cr-kan2-763",
+    "index": 763
+  },
+  {
+    "surface": "句読点",
+    "reading": "kutouten",
+    "code": "cr-kan2-764",
+    "index": 764
+  },
+  {
+    "surface": "前置詞",
+    "reading": "zenchishi",
+    "code": "cr-kan2-765",
+    "index": 765
+  },
+  {
+    "surface": "倶知安",
+    "reading": "kutchan",
+    "code": "cr-kan2-766",
+    "index": 766
+  },
+  {
+    "surface": "誤魔化す",
+    "reading": "gomakasu",
+    "code": "cr-kan2-767",
+    "index": 767
+  },
+  {
+    "surface": "馬鹿力",
+    "reading": "bakaryoku",
+    "code": "cr-kan2-768",
+    "index": 768
+  },
+  {
+    "surface": "新幹線",
+    "reading": "shinkansen",
+    "code": "cr-kan2-769",
+    "index": 769
+  },
+  {
+    "surface": "思い知らさ",
+    "reading": "omoishirasa",
+    "code": "cr-kan2-770",
+    "index": 770
+  },
+  {
+    "surface": "浩太郎",
+    "reading": "koutarou",
+    "code": "cr-kan2-771",
+    "index": 771
+  },
+  {
+    "surface": "八幡平",
+    "reading": "hachimantai",
+    "code": "cr-kan2-772",
+    "index": 772
+  },
+  {
+    "surface": "八丁堀",
+    "reading": "hatchoubori",
+    "code": "cr-kan2-773",
+    "index": 773
+  },
+  {
+    "surface": "食いしん坊",
+    "reading": "kuishinbo",
+    "code": "cr-kan2-774",
+    "index": 774
+  },
+  {
+    "surface": "渡り合える",
+    "reading": "watariaeru",
+    "code": "cr-kan2-775",
+    "index": 775
+  },
+  {
+    "surface": "持ち込める",
+    "reading": "mochikomeru",
+    "code": "cr-kan2-776",
+    "index": 776
+  },
+  {
+    "surface": "お披露目",
+    "reading": "ohirome",
+    "code": "cr-kan2-777",
+    "index": 777
+  },
+  {
+    "surface": "百花繚乱",
+    "reading": "hyakkaryouran",
+    "code": "cr-kan2-778",
+    "index": 778
+  },
+  {
+    "surface": "苦肉の策",
+    "reading": "kunikunosaku",
+    "code": "cr-kan2-779",
+    "index": 779
+  },
+  {
+    "surface": "弾道弾",
+    "reading": "dandoudan",
+    "code": "cr-kan2-780",
+    "index": 780
+  },
+  {
+    "surface": "不祥事",
+    "reading": "fushouji",
+    "code": "cr-kan2-781",
+    "index": 781
+  },
+  {
+    "surface": "切り分ける",
+    "reading": "kiriwakeru",
+    "code": "cr-kan2-782",
+    "index": 782
+  },
+  {
+    "surface": "喜怒哀楽",
+    "reading": "kidoairaku",
+    "code": "cr-kan2-783",
+    "index": 783
+  },
+  {
+    "surface": "小早川",
+    "reading": "kobayakawa",
+    "code": "cr-kan2-784",
+    "index": 784
+  },
+  {
+    "surface": "自家用",
+    "reading": "jikayou",
+    "code": "cr-kan2-785",
+    "index": 785
+  },
+  {
+    "surface": "大曽根",
+    "reading": "oosone",
+    "code": "cr-kan2-786",
+    "index": 786
+  },
+  {
+    "surface": "美沙子",
+    "reading": "misako",
+    "code": "cr-kan2-787",
+    "index": 787
+  },
+  {
+    "surface": "千葉ロッテ",
+    "reading": "chibalotte",
+    "code": "cr-kan2-788",
+    "index": 788
+  },
+  {
+    "surface": "浄瑠璃",
+    "reading": "joururi",
+    "code": "cr-kan2-789",
+    "index": 789
+  },
+  {
+    "surface": "喜多見",
+    "reading": "kitami",
+    "code": "cr-kan2-790",
+    "index": 790
+  },
+  {
+    "surface": "瑠璃子",
+    "reading": "ruriko",
+    "code": "cr-kan2-791",
+    "index": 791
+  },
+  {
+    "surface": "由紀夫",
+    "reading": "yukio",
+    "code": "cr-kan2-792",
+    "index": 792
+  },
+  {
+    "surface": "吉野家",
+    "reading": "yoshinoie",
+    "code": "cr-kan2-793",
+    "index": 793
+  },
+  {
+    "surface": "概念的",
+    "reading": "gainenteki",
+    "code": "cr-kan2-794",
+    "index": 794
+  },
+  {
+    "surface": "危機一髪",
+    "reading": "kikiippatsu",
+    "code": "cr-kan2-795",
+    "index": 795
+  },
+  {
+    "surface": "急先鋒",
+    "reading": "kyuusenpou",
+    "code": "cr-kan2-796",
+    "index": 796
+  },
+  {
+    "surface": "生活苦",
+    "reading": "seikatsuku",
+    "code": "cr-kan2-797",
+    "index": 797
+  },
+  {
+    "surface": "下北沢",
+    "reading": "shimokitazawa",
+    "code": "cr-kan2-798",
+    "index": 798
+  },
+  {
+    "surface": "引き伸ばし",
+    "reading": "hikinobashi",
+    "code": "cr-kan2-799",
+    "index": 799
+  },
+  {
+    "surface": "気持ちよく",
+    "reading": "kimochiyoku",
+    "code": "cr-kan2-800",
+    "index": 800
+  },
+  {
+    "surface": "片栗粉",
+    "reading": "katakuriko",
+    "code": "cr-kan2-801",
+    "index": 801
+  },
+  {
+    "surface": "自暴自棄",
+    "reading": "jiboujiki",
+    "code": "cr-kan2-802",
+    "index": 802
+  },
+  {
+    "surface": "強打者",
+    "reading": "kyoudasha",
+    "code": "cr-kan2-803",
+    "index": 803
+  },
+  {
+    "surface": "投げ飛ばし",
+    "reading": "nagetobashi",
+    "code": "cr-kan2-804",
+    "index": 804
+  },
+  {
+    "surface": "玉手箱",
+    "reading": "gyokushubako",
+    "code": "cr-kan2-805",
+    "index": 805
+  },
+  {
+    "surface": "浮かび上がっ",
+    "reading": "ukabiaga",
+    "code": "cr-kan2-806",
+    "index": 806
+  },
+  {
+    "surface": "吹き付ける",
+    "reading": "fukitsukeru",
+    "code": "cr-kan2-807",
+    "index": 807
+  },
+  {
+    "surface": "高島屋",
+    "reading": "takashimaya",
+    "code": "cr-kan2-808",
+    "index": 808
+  },
+  {
+    "surface": "一部始終",
+    "reading": "ichibushijuu",
+    "code": "cr-kan2-809",
+    "index": 809
+  },
+  {
+    "surface": "田母神",
+    "reading": "tamokami",
+    "code": "cr-kan2-810",
+    "index": 810
+  },
+  {
+    "surface": "多喜二",
+    "reading": "takiji",
+    "code": "cr-kan2-811",
+    "index": 811
+  },
+  {
+    "surface": "土下座",
+    "reading": "dogeza",
+    "code": "cr-kan2-812",
+    "index": 812
+  },
+  {
+    "surface": "下仁田",
+    "reading": "shimonita",
+    "code": "cr-kan2-813",
+    "index": 813
+  },
+  {
+    "surface": "表示法",
+    "reading": "hyoujihou",
+    "code": "cr-kan2-814",
+    "index": 814
+  },
+  {
+    "surface": "風呂敷",
+    "reading": "furoshiki",
+    "code": "cr-kan2-815",
+    "index": 815
+  },
+  {
+    "surface": "引き下がる",
+    "reading": "hikisagaru",
+    "code": "cr-kan2-816",
+    "index": 816
+  },
+  {
+    "surface": "文庫本",
+    "reading": "bunkohon",
+    "code": "cr-kan2-817",
+    "index": 817
+  },
+  {
+    "surface": "引っ張れる",
+    "reading": "hippareru",
+    "code": "cr-kan2-818",
+    "index": 818
+  },
+  {
+    "surface": "国士舘",
+    "reading": "kokushikan",
+    "code": "cr-kan2-819",
+    "index": 819
+  },
+  {
+    "surface": "一区切り",
+    "reading": "hitokugiri",
+    "code": "cr-kan2-820",
+    "index": 820
+  },
+  {
+    "surface": "大和撫子",
+    "reading": "yamatonadeshiko",
+    "code": "cr-kan2-821",
+    "index": 821
+  },
+  {
+    "surface": "腰巾着",
+    "reading": "koshikinchaku",
+    "code": "cr-kan2-822",
+    "index": 822
+  },
+  {
+    "surface": "新太郎",
+    "reading": "shintarou",
+    "code": "cr-kan2-823",
+    "index": 823
+  },
+  {
+    "surface": "後片付け",
+    "reading": "atokatazuke",
+    "code": "cr-kan2-824",
+    "index": 824
+  },
+  {
+    "surface": "渡嘉敷",
+    "reading": "tokashiki",
+    "code": "cr-kan2-825",
+    "index": 825
+  },
+  {
+    "surface": "亜細亜",
+    "reading": "asia",
+    "code": "cr-kan2-826",
+    "index": 826
+  },
+  {
+    "surface": "同志社",
+    "reading": "doushisha",
+    "code": "cr-kan2-827",
+    "index": 827
+  },
+  {
+    "surface": "無理矢理",
+    "reading": "muriyari",
+    "code": "cr-kan2-828",
+    "index": 828
+  },
+  {
+    "surface": "倶楽部",
+    "reading": "club",
+    "code": "cr-kan2-829",
+    "index": 829
+  },
+  {
+    "surface": "形而上",
+    "reading": "keijijou",
+    "code": "cr-kan2-830",
+    "index": 830
+  },
+  {
+    "surface": "楊貴妃",
+    "reading": "yagihi",
+    "code": "cr-kan2-831",
+    "index": 831
+  },
+  {
+    "surface": "扇風機",
+    "reading": "senpuuki",
+    "code": "cr-kan2-832",
+    "index": 832
+  },
+  {
+    "surface": "風物詩",
+    "reading": "fuubutsushi",
+    "code": "cr-kan2-833",
+    "index": 833
+  },
+  {
+    "surface": "手間取る",
+    "reading": "temadoru",
+    "code": "cr-kan2-834",
+    "index": 834
+  },
+  {
+    "surface": "副次的",
+    "reading": "fukujiteki",
+    "code": "cr-kan2-835",
+    "index": 835
+  },
+  {
+    "surface": "宇奈月",
+    "reading": "unazuki",
+    "code": "cr-kan2-836",
+    "index": 836
+  },
+  {
+    "surface": "無秩序",
+    "reading": "muchitsujo",
+    "code": "cr-kan2-837",
+    "index": 837
+  },
+  {
+    "surface": "取り下げる",
+    "reading": "torisageru",
+    "code": "cr-kan2-838",
+    "index": 838
+  },
+  {
+    "surface": "横須賀",
+    "reading": "yokosuka",
+    "code": "cr-kan2-839",
+    "index": 839
+  },
+  {
+    "surface": "組み合わせ",
+    "reading": "kumiawase",
+    "code": "cr-kan2-840",
+    "index": 840
+  },
+  {
+    "surface": "新日鉄",
+    "reading": "shinnittetsu",
+    "code": "cr-kan2-841",
+    "index": 841
+  },
+  {
+    "surface": "面白味",
+    "reading": "omoshiromi",
+    "code": "cr-kan2-842",
+    "index": 842
+  },
+  {
+    "surface": "伊知郎",
+    "reading": "ichirou",
+    "code": "cr-kan2-843",
+    "index": 843
+  },
+  {
+    "surface": "俊太郎",
+    "reading": "shuntarou",
+    "code": "cr-kan2-844",
+    "index": 844
+  },
+  {
+    "surface": "詰将棋",
+    "reading": "tsumeshougi",
+    "code": "cr-kan2-845",
+    "index": 845
+  },
+  {
+    "surface": "意地悪",
+    "reading": "ijiaku",
+    "code": "cr-kan2-846",
+    "index": 846
+  },
+  {
+    "surface": "撃ち落とし",
+    "reading": "uchiotoshi",
+    "code": "cr-kan2-847",
+    "index": 847
+  },
+  {
+    "surface": "玉三郎",
+    "reading": "tamasaburou",
+    "code": "cr-kan2-848",
+    "index": 848
+  },
+  {
+    "surface": "西梅田",
+    "reading": "nishiumeda",
+    "code": "cr-kan2-849",
+    "index": 849
+  },
+  {
+    "surface": "仲間はずれ",
+    "reading": "nakamahazure",
+    "code": "cr-kan2-850",
+    "index": 850
+  },
+  {
+    "surface": "行き止まり",
+    "reading": "ikidomari",
+    "code": "cr-kan2-851",
+    "index": 851
+  },
+  {
+    "surface": "京阪神",
+    "reading": "keihanshin",
+    "code": "cr-kan2-852",
+    "index": 852
+  },
+  {
+    "surface": "仲間外れ",
+    "reading": "nakamahazure",
+    "code": "cr-kan2-853",
+    "index": 853
+  },
+  {
+    "surface": "比較的",
+    "reading": "hikakuteki",
+    "code": "cr-kan2-854",
+    "index": 854
+  },
+  {
+    "surface": "東臼杵",
+    "reading": "higashiusuki",
+    "code": "cr-kan2-855",
+    "index": 855
+  },
+  {
+    "surface": "先入観",
+    "reading": "sennyuukan",
+    "code": "cr-kan2-856",
+    "index": 856
+  },
+  {
+    "surface": "ご苦労さん",
+    "reading": "gokurousan",
+    "code": "cr-kan2-857",
+    "index": 857
+  },
+  {
+    "surface": "宏池会",
+    "reading": "kouchikai",
+    "code": "cr-kan2-858",
+    "index": 858
+  },
+  {
+    "surface": "秋葉原",
+    "reading": "akihabara",
+    "code": "cr-kan2-859",
+    "index": 859
+  },
+  {
+    "surface": "青葉台",
+    "reading": "aobadai",
+    "code": "cr-kan2-860",
+    "index": 860
+  },
+  {
+    "surface": "ご無沙汰",
+    "reading": "gomusata",
+    "code": "cr-kan2-861",
+    "index": 861
+  },
+  {
+    "surface": "会津坂下",
+    "reading": "aizubange",
+    "code": "cr-kan2-862",
+    "index": 862
+  },
+  {
+    "surface": "素人目",
+    "reading": "shiroutome",
+    "code": "cr-kan2-863",
+    "index": 863
+  },
+  {
+    "surface": "武者小路",
+    "reading": "mushanokouji",
+    "code": "cr-kan2-864",
+    "index": 864
+  },
+  {
+    "surface": "中曽根",
+    "reading": "nakasone",
+    "code": "cr-kan2-865",
+    "index": 865
+  },
+  {
+    "surface": "正攻法",
+    "reading": "seikouhou",
+    "code": "cr-kan2-866",
+    "index": 866
+  },
+  {
+    "surface": "突き落とさ",
+    "reading": "tsukiotosa",
+    "code": "cr-kan2-867",
+    "index": 867
+  },
+  {
+    "surface": "掲示板",
+    "reading": "keijiban",
+    "code": "cr-kan2-868",
+    "index": 868
+  },
+  {
+    "surface": "文武両道",
+    "reading": "bunburyoudou",
+    "code": "cr-kan2-869",
+    "index": 869
+  },
+  {
+    "surface": "半兵衛",
+    "reading": "hanbee",
+    "code": "cr-kan2-870",
+    "index": 870
+  },
+  {
+    "surface": "下手糞",
+    "reading": "hetakuso",
+    "code": "cr-kan2-871",
+    "index": 871
+  },
+  {
+    "surface": "労基署",
+    "reading": "roukisho",
+    "code": "cr-kan2-872",
+    "index": 872
+  },
+  {
+    "surface": "久里浜",
+    "reading": "kurihama",
+    "code": "cr-kan2-873",
+    "index": 873
+  },
+  {
+    "surface": "言い出しっぺ",
+    "reading": "iidashippe",
+    "code": "cr-kan2-874",
+    "index": 874
+  },
+  {
+    "surface": "松太郎",
+    "reading": "matsutarou",
+    "code": "cr-kan2-875",
+    "index": 875
+  },
+  {
+    "surface": "引きずり出さ",
+    "reading": "hikizuridasa",
+    "code": "cr-kan2-876",
+    "index": 876
+  },
+  {
+    "surface": "不可分",
+    "reading": "fukabun",
+    "code": "cr-kan2-877",
+    "index": 877
+  },
+  {
+    "surface": "世捨て人",
+    "reading": "yosutenin",
+    "code": "cr-kan2-878",
+    "index": 878
+  },
+  {
+    "surface": "絵理子",
+    "reading": "eriko",
+    "code": "cr-kan2-879",
+    "index": 879
+  },
+  {
+    "surface": "引っ掛から",
+    "reading": "hikkakara",
+    "code": "cr-kan2-880",
+    "index": 880
+  },
+  {
+    "surface": "今日日",
+    "reading": "kyoubi",
+    "code": "cr-kan2-881",
+    "index": 881
+  },
+  {
+    "surface": "夢心地",
+    "reading": "yumegokochi",
+    "code": "cr-kan2-882",
+    "index": 882
+  },
+  {
+    "surface": "居場所",
+    "reading": "ibasho",
+    "code": "cr-kan2-883",
+    "index": 883
+  },
+  {
+    "surface": "見て取れる",
+    "reading": "mitetoreru",
+    "code": "cr-kan2-884",
+    "index": 884
+  },
+  {
+    "surface": "区役所",
+    "reading": "kuyakusho",
+    "code": "cr-kan2-885",
+    "index": 885
+  },
+  {
+    "surface": "見つけ出す",
+    "reading": "mitsukedasu",
+    "code": "cr-kan2-886",
+    "index": 886
+  },
+  {
+    "surface": "喜多村",
+    "reading": "kitamura",
+    "code": "cr-kan2-887",
+    "index": 887
+  },
+  {
+    "surface": "日奈子",
+    "reading": "hinako",
+    "code": "cr-kan2-888",
+    "index": 888
+  },
+  {
+    "surface": "習志野",
+    "reading": "narashino",
+    "code": "cr-kan2-889",
+    "index": 889
+  },
+  {
+    "surface": "閉じ込める",
+    "reading": "tojikomeru",
+    "code": "cr-kan2-890",
+    "index": 890
+  },
+  {
+    "surface": "真似事",
+    "reading": "manegoto",
+    "code": "cr-kan2-891",
+    "index": 891
+  },
+  {
+    "surface": "撃ち落とす",
+    "reading": "uchiotosu",
+    "code": "cr-kan2-892",
+    "index": 892
+  },
+  {
+    "surface": "押し付ける",
+    "reading": "oshitsukeru",
+    "code": "cr-kan2-893",
+    "index": 893
+  },
+  {
+    "surface": "道案内",
+    "reading": "douannai",
+    "code": "cr-kan2-894",
+    "index": 894
+  },
+  {
+    "surface": "杓子定規",
+    "reading": "shakushijougi",
+    "code": "cr-kan2-895",
+    "index": 895
+  },
+  {
+    "surface": "検非違使",
+    "reading": "kebiishi",
+    "code": "cr-kan2-896",
+    "index": 896
+  },
+  {
+    "surface": "五月蝿い",
+    "reading": "urusai",
+    "code": "cr-kan2-897",
+    "index": 897
+  },
+  {
+    "surface": "大仁田",
+    "reading": "oonita",
+    "code": "cr-kan2-898",
+    "index": 898
+  },
+  {
+    "surface": "受け入れろ",
+    "reading": "ukeirero",
+    "code": "cr-kan2-899",
+    "index": 899
+  },
+  {
+    "surface": "神楽坂",
+    "reading": "kagurazaka",
+    "code": "cr-kan2-900",
+    "index": 900
+  },
+  {
+    "surface": "鉄格子",
+    "reading": "tetsukoushi",
+    "code": "cr-kan2-901",
+    "index": 901
+  },
+  {
+    "surface": "五分五分",
+    "reading": "gofungofun",
+    "code": "cr-kan2-902",
+    "index": 902
+  },
+  {
+    "surface": "乱気流",
+    "reading": "rankiryuu",
+    "code": "cr-kan2-903",
+    "index": 903
+  },
+  {
+    "surface": "阿武隈",
+    "reading": "abukuma",
+    "code": "cr-kan2-904",
+    "index": 904
+  },
+  {
+    "surface": "見つけ出せ",
+    "reading": "mitsukedase",
+    "code": "cr-kan2-905",
+    "index": 905
+  },
+  {
+    "surface": "西多摩",
+    "reading": "nishitama",
+    "code": "cr-kan2-906",
+    "index": 906
+  },
+  {
+    "surface": "頭文字",
+    "reading": "atamamoji",
+    "code": "cr-kan2-907",
+    "index": 907
+  },
+  {
+    "surface": "やっつけ仕事",
+    "reading": "yattsukeshigoto",
+    "code": "cr-kan2-908",
+    "index": 908
+  },
+  {
+    "surface": "天邪鬼",
+    "reading": "amanojaku",
+    "code": "cr-kan2-909",
+    "index": 909
+  },
+  {
+    "surface": "芳文社",
+    "reading": "houbunsha",
+    "code": "cr-kan2-910",
+    "index": 910
+  },
+  {
+    "surface": "講談社",
+    "reading": "koudansha",
+    "code": "cr-kan2-911",
+    "index": 911
+  },
+  {
+    "surface": "重点的",
+    "reading": "juutenteki",
+    "code": "cr-kan2-912",
+    "index": 912
+  },
+  {
+    "surface": "引き下がっ",
+    "reading": "hikisaga",
+    "code": "cr-kan2-913",
+    "index": 913
+  },
+  {
+    "surface": "那珂川",
+    "reading": "nakagawa",
+    "code": "cr-kan2-914",
+    "index": 914
+  },
+  {
+    "surface": "忠臣蔵",
+    "reading": "chuushinzou",
+    "code": "cr-kan2-915",
+    "index": 915
+  },
+  {
+    "surface": "喜多方",
+    "reading": "kitakata",
+    "code": "cr-kan2-916",
+    "index": 916
+  },
+  {
+    "surface": "波乱万丈",
+    "reading": "haranbanjou",
+    "code": "cr-kan2-917",
+    "index": 917
+  },
+  {
+    "surface": "無気力",
+    "reading": "mukiryoku",
+    "code": "cr-kan2-918",
+    "index": 918
+  },
+  {
+    "surface": "新大久保",
+    "reading": "shinookubo",
+    "code": "cr-kan2-919",
+    "index": 919
+  },
+  {
+    "surface": "多少なりとも",
+    "reading": "tashounaritomo",
+    "code": "cr-kan2-920",
+    "index": 920
+  },
+  {
+    "surface": "火縄銃",
+    "reading": "hinawajuu",
+    "code": "cr-kan2-921",
+    "index": 921
+  },
+  {
+    "surface": "上賀茂",
+    "reading": "kamigamo",
+    "code": "cr-kan2-922",
+    "index": 922
+  },
+  {
+    "surface": "問題児",
+    "reading": "mondaiji",
+    "code": "cr-kan2-923",
+    "index": 923
+  },
+  {
+    "surface": "宇都宮",
+    "reading": "utsunomiya",
+    "code": "cr-kan2-924",
+    "index": 924
+  },
+  {
+    "surface": "幸四郎",
+    "reading": "koushirou",
+    "code": "cr-kan2-925",
+    "index": 925
+  },
+  {
+    "surface": "小谷野",
+    "reading": "koyano",
+    "code": "cr-kan2-926",
+    "index": 926
+  },
+  {
+    "surface": "流線型",
+    "reading": "ryuusengata",
+    "code": "cr-kan2-927",
+    "index": 927
+  },
+  {
+    "surface": "真っ最中",
+    "reading": "massaichuu",
+    "code": "cr-kan2-928",
+    "index": 928
+  },
+  {
+    "surface": "朝日奈",
+    "reading": "asahina",
+    "code": "cr-kan2-929",
+    "index": 929
+  },
+  {
+    "surface": "和歌山",
+    "reading": "wakayama",
+    "code": "cr-kan2-930",
+    "index": 930
+  },
+  {
+    "surface": "取り返せる",
+    "reading": "torikaeseru",
+    "code": "cr-kan2-931",
+    "index": 931
+  },
+  {
+    "surface": "誤魔化そ",
+    "reading": "gomakaso",
+    "code": "cr-kan2-932",
+    "index": 932
+  },
+  {
+    "surface": "爪楊枝",
+    "reading": "tsumeyouji",
+    "code": "cr-kan2-933",
+    "index": 933
+  },
+  {
+    "surface": "井戸端",
+    "reading": "idohashi",
+    "code": "cr-kan2-934",
+    "index": 934
+  },
+  {
+    "surface": "一番乗り",
+    "reading": "ichibannori",
+    "code": "cr-kan2-935",
+    "index": 935
+  },
+  {
+    "surface": "天満宮",
+    "reading": "tenmaguu",
+    "code": "cr-kan2-936",
+    "index": 936
+  },
+  {
+    "surface": "封じ込める",
+    "reading": "fuujikomeru",
+    "code": "cr-kan2-937",
+    "index": 937
+  },
+  {
+    "surface": "下剋上",
+    "reading": "gekokujou",
+    "code": "cr-kan2-938",
+    "index": 938
+  },
+  {
+    "surface": "引き起こさ",
+    "reading": "hikiokosa",
+    "code": "cr-kan2-939",
+    "index": 939
+  },
+  {
+    "surface": "横断幕",
+    "reading": "oudanmaku",
+    "code": "cr-kan2-940",
+    "index": 940
+  },
+  {
+    "surface": "出張所",
+    "reading": "shutchousho",
+    "code": "cr-kan2-941",
+    "index": 941
+  },
+  {
+    "surface": "紀伊国屋",
+    "reading": "kinokuniya",
+    "code": "cr-kan2-942",
+    "index": 942
+  },
+  {
+    "surface": "白川郷",
+    "reading": "shirakawakyou",
+    "code": "cr-kan2-943",
+    "index": 943
+  },
+  {
+    "surface": "貴婦人",
+    "reading": "kifujin",
+    "code": "cr-kan2-944",
+    "index": 944
+  },
+  {
+    "surface": "小淵沢",
+    "reading": "kobuchizawa",
+    "code": "cr-kan2-945",
+    "index": 945
+  },
+  {
+    "surface": "早稲田大",
+    "reading": "wasedadai",
+    "code": "cr-kan2-946",
+    "index": 946
+  },
+  {
+    "surface": "上目遣い",
+    "reading": "uwametsukai",
+    "code": "cr-kan2-947",
+    "index": 947
+  },
+  {
+    "surface": "黙示録",
+    "reading": "mokushiroku",
+    "code": "cr-kan2-948",
+    "index": 948
+  },
+  {
+    "surface": "聞き取れる",
+    "reading": "kikitoreru",
+    "code": "cr-kan2-949",
+    "index": 949
+  },
+  {
+    "surface": "入退院",
+    "reading": "nyuutaiin",
+    "code": "cr-kan2-950",
+    "index": 950
+  },
+  {
+    "surface": "大河ドラマ",
+    "reading": "taigadrama",
+    "code": "cr-kan2-951",
+    "index": 951
+  },
+  {
+    "surface": "誠一郎",
+    "reading": "seiichirou",
+    "code": "cr-kan2-952",
+    "index": 952
+  },
+  {
+    "surface": "駆け付ける",
+    "reading": "kaketsukeru",
+    "code": "cr-kan2-953",
+    "index": 953
+  },
+  {
+    "surface": "立ち上がる",
+    "reading": "tachiagaru",
+    "code": "cr-kan2-954",
+    "index": 954
+  },
+  {
+    "surface": "面倒くさく",
+    "reading": "mendoukusaku",
+    "code": "cr-kan2-955",
+    "index": 955
+  },
+  {
+    "surface": "類義語",
+    "reading": "ruigigo",
+    "code": "cr-kan2-956",
+    "index": 956
+  },
+  {
+    "surface": "紆余曲折",
+    "reading": "uyokyokusetsu",
+    "code": "cr-kan2-957",
+    "index": 957
+  },
+  {
+    "surface": "小競り合い",
+    "reading": "koseriai",
+    "code": "cr-kan2-958",
+    "index": 958
+  },
+  {
+    "surface": "加奈子",
+    "reading": "kanako",
+    "code": "cr-kan2-959",
+    "index": 959
+  },
+  {
+    "surface": "小夜子",
+    "reading": "sayoko",
+    "code": "cr-kan2-960",
+    "index": 960
+  },
+  {
+    "surface": "成し遂げる",
+    "reading": "nashitogeru",
+    "code": "cr-kan2-961",
+    "index": 961
+  },
+  {
+    "surface": "飽き飽きし",
+    "reading": "akiakishi",
+    "code": "cr-kan2-962",
+    "index": 962
+  },
+  {
+    "surface": "背中合わせ",
+    "reading": "senakaawase",
+    "code": "cr-kan2-963",
+    "index": 963
+  },
+  {
+    "surface": "菊花賞",
+    "reading": "kikkashou",
+    "code": "cr-kan2-964",
+    "index": 964
+  },
+  {
+    "surface": "売国奴",
+    "reading": "baikokuyatsu",
+    "code": "cr-kan2-965",
+    "index": 965
+  },
+  {
+    "surface": "行進曲",
+    "reading": "koushinkyoku",
+    "code": "cr-kan2-966",
+    "index": 966
+  },
+  {
+    "surface": "紗理奈",
+    "reading": "sarina",
+    "code": "cr-kan2-967",
+    "index": 967
+  },
+  {
+    "surface": "浮かび上がら",
+    "reading": "ukabiagara",
+    "code": "cr-kan2-968",
+    "index": 968
+  },
+  {
+    "surface": "花言葉",
+    "reading": "hanakotoba",
+    "code": "cr-kan2-969",
+    "index": 969
+  },
+  {
+    "surface": "往生際",
+    "reading": "oujousai",
+    "code": "cr-kan2-970",
+    "index": 970
+  },
+  {
+    "surface": "呼び掛ける",
+    "reading": "yobikakeru",
+    "code": "cr-kan2-971",
+    "index": 971
+  },
+  {
+    "surface": "章太郎",
+    "reading": "shoutarou",
+    "code": "cr-kan2-972",
+    "index": 972
+  },
+  {
+    "surface": "男尊女卑",
+    "reading": "dansonjohi",
+    "code": "cr-kan2-973",
+    "index": 973
+  },
+  {
+    "surface": "成層圏",
+    "reading": "seisouken",
+    "code": "cr-kan2-974",
+    "index": 974
+  },
+  {
+    "surface": "奉公人",
+    "reading": "houkounin",
+    "code": "cr-kan2-975",
+    "index": 975
+  },
+  {
+    "surface": "功労賞",
+    "reading": "kouroushou",
+    "code": "cr-kan2-976",
+    "index": 976
+  },
+  {
+    "surface": "天守閣",
+    "reading": "tenshukaku",
+    "code": "cr-kan2-977",
+    "index": 977
+  },
+  {
+    "surface": "引き伸ばさ",
+    "reading": "hikinobasa",
+    "code": "cr-kan2-978",
+    "index": 978
+  },
+  {
+    "surface": "呼び覚ます",
+    "reading": "yobisamasu",
+    "code": "cr-kan2-979",
+    "index": 979
+  },
+  {
+    "surface": "最大手",
+    "reading": "saioote",
+    "code": "cr-kan2-980",
+    "index": 980
+  },
+  {
+    "surface": "呼び出せる",
+    "reading": "yobidaseru",
+    "code": "cr-kan2-981",
+    "index": 981
+  },
+  {
+    "surface": "泉大津",
+    "reading": "izumiootsu",
+    "code": "cr-kan2-982",
+    "index": 982
+  },
+  {
+    "surface": "小論文",
+    "reading": "shouronbun",
+    "code": "cr-kan2-983",
+    "index": 983
+  },
+  {
+    "surface": "感無量",
+    "reading": "kanmuryou",
+    "code": "cr-kan2-984",
+    "index": 984
+  },
+  {
+    "surface": "直接的",
+    "reading": "chokusetsuteki",
+    "code": "cr-kan2-985",
+    "index": 985
+  },
+  {
+    "surface": "大丈夫",
+    "reading": "daijoubu",
+    "code": "cr-kan2-986",
+    "index": 986
+  },
+  {
+    "surface": "作り出せる",
+    "reading": "tsukuridaseru",
+    "code": "cr-kan2-987",
+    "index": 987
+  },
+  {
+    "surface": "伊福部",
+    "reading": "ifukube",
+    "code": "cr-kan2-988",
+    "index": 988
+  },
+  {
+    "surface": "越後屋",
+    "reading": "echigoya",
+    "code": "cr-kan2-989",
+    "index": 989
+  },
+  {
+    "surface": "祐天寺",
+    "reading": "yuutenji",
+    "code": "cr-kan2-990",
+    "index": 990
+  },
+  {
+    "surface": "不思議",
+    "reading": "fushigi",
+    "code": "cr-kan2-991",
+    "index": 991
+  },
+  {
+    "surface": "香里奈",
+    "reading": "karina",
+    "code": "cr-kan2-992",
+    "index": 992
+  },
+  {
+    "surface": "猪名川",
+    "reading": "inagawa",
+    "code": "cr-kan2-993",
+    "index": 993
+  },
+  {
+    "surface": "試金石",
+    "reading": "shikinseki",
+    "code": "cr-kan2-994",
+    "index": 994
+  },
+  {
+    "surface": "跳ね上がる",
+    "reading": "haneagaru",
+    "code": "cr-kan2-995",
+    "index": 995
+  },
+  {
+    "surface": "平等院",
+    "reading": "byoudouin",
+    "code": "cr-kan2-996",
+    "index": 996
+  },
+  {
+    "surface": "美人局",
+    "reading": "tsutsumotase",
+    "code": "cr-kan2-997",
+    "index": 997
+  },
+  {
+    "surface": "宇都宮線",
+    "reading": "utsunomiyasen",
+    "code": "cr-kan2-998",
+    "index": 998
+  },
+  {
+    "surface": "一進一退",
+    "reading": "isshinittai",
+    "code": "cr-kan2-999",
+    "index": 999
+  },
+  {
+    "surface": "大蔵省",
+    "reading": "ookurashou",
+    "code": "cr-kan2-1000",
+    "index": 1000
+  },
+  {
+    "surface": "文房具",
+    "reading": "bunbougu",
+    "code": "cr-kan2-1001",
+    "index": 1001
+  },
+  {
+    "surface": "怪文書",
+    "reading": "kaibunsho",
+    "code": "cr-kan2-1002",
+    "index": 1002
+  },
+  {
+    "surface": "大袈裟",
+    "reading": "oogesa",
+    "code": "cr-kan2-1003",
+    "index": 1003
+  },
+  {
+    "surface": "不動尊",
+    "reading": "fudouson",
+    "code": "cr-kan2-1004",
+    "index": 1004
+  },
+  {
+    "surface": "一騎当千",
+    "reading": "ikkitousen",
+    "code": "cr-kan2-1005",
+    "index": 1005
+  },
+  {
+    "surface": "縫い合わせ",
+    "reading": "nuiawase",
+    "code": "cr-kan2-1006",
+    "index": 1006
+  },
+  {
+    "surface": "不器用",
+    "reading": "fukiyou",
+    "code": "cr-kan2-1007",
+    "index": 1007
+  },
+  {
+    "surface": "正真正銘",
+    "reading": "shoushinshoumei",
+    "code": "cr-kan2-1008",
+    "index": 1008
+  },
+  {
+    "surface": "足柄上",
+    "reading": "ashigarakami",
+    "code": "cr-kan2-1009",
+    "index": 1009
+  },
+  {
+    "surface": "総武本線",
+    "reading": "soubuhonsen",
+    "code": "cr-kan2-1010",
+    "index": 1010
+  },
+  {
+    "surface": "久太郎",
+    "reading": "kyuutarou",
+    "code": "cr-kan2-1011",
+    "index": 1011
+  },
+  {
+    "surface": "予備校",
+    "reading": "yobikou",
+    "code": "cr-kan2-1012",
+    "index": 1012
+  },
+  {
+    "surface": "真由子",
+    "reading": "mayuko",
+    "code": "cr-kan2-1013",
+    "index": 1013
+  },
+  {
+    "surface": "入れ替える",
+    "reading": "irekaeru",
+    "code": "cr-kan2-1014",
+    "index": 1014
+  },
+  {
+    "surface": "慎之介",
+    "reading": "shinnosuke",
+    "code": "cr-kan2-1015",
+    "index": 1015
+  },
+  {
+    "surface": "相手取っ",
+    "reading": "aiteto",
+    "code": "cr-kan2-1016",
+    "index": 1016
+  },
+  {
+    "surface": "第一声",
+    "reading": "daiichisei",
+    "code": "cr-kan2-1017",
+    "index": 1017
+  },
+  {
+    "surface": "大東建託",
+    "reading": "oohigashikentaku",
+    "code": "cr-kan2-1018",
+    "index": 1018
+  },
+  {
+    "surface": "人見知り",
+    "reading": "hitomishiri",
+    "code": "cr-kan2-1019",
+    "index": 1019
+  },
+  {
+    "surface": "一時期",
+    "reading": "ichijiki",
+    "code": "cr-kan2-1020",
+    "index": 1020
+  },
+  {
+    "surface": "百鬼夜行",
+    "reading": "hyakkiyakou",
+    "code": "cr-kan2-1021",
+    "index": 1021
+  },
+  {
+    "surface": "口下手",
+    "reading": "kuchibeta",
+    "code": "cr-kan2-1022",
+    "index": 1022
+  },
+  {
+    "surface": "痴話喧嘩",
+    "reading": "chiwakenka",
+    "code": "cr-kan2-1023",
+    "index": 1023
+  },
+  {
+    "surface": "美奈子",
+    "reading": "minako",
+    "code": "cr-kan2-1024",
+    "index": 1024
+  },
+  {
+    "surface": "広辞苑",
+    "reading": "koujien",
+    "code": "cr-kan2-1025",
+    "index": 1025
+  },
+  {
+    "surface": "岸和田",
+    "reading": "kishiwada",
+    "code": "cr-kan2-1026",
+    "index": 1026
+  },
+  {
+    "surface": "総一朗",
+    "reading": "souichirou",
+    "code": "cr-kan2-1027",
+    "index": 1027
+  },
+  {
+    "surface": "御存知",
+    "reading": "gozonji",
+    "code": "cr-kan2-1028",
+    "index": 1028
+  },
+  {
+    "surface": "津田沼",
+    "reading": "tsudanuma",
+    "code": "cr-kan2-1029",
+    "index": 1029
+  },
+  {
+    "surface": "千秋楽",
+    "reading": "chiakigaku",
+    "code": "cr-kan2-1030",
+    "index": 1030
+  },
+  {
+    "surface": "手っ取り早い",
+    "reading": "tettorihayai",
+    "code": "cr-kan2-1031",
+    "index": 1031
+  },
+  {
+    "surface": "祐一郎",
+    "reading": "yuuichirou",
+    "code": "cr-kan2-1032",
+    "index": 1032
+  },
+  {
+    "surface": "為政者",
+    "reading": "iseisha",
+    "code": "cr-kan2-1033",
+    "index": 1033
+  },
+  {
+    "surface": "一体全体",
+    "reading": "ittaizentai",
+    "code": "cr-kan2-1034",
+    "index": 1034
+  },
+  {
+    "surface": "山口組",
+    "reading": "yamaguchikumi",
+    "code": "cr-kan2-1035",
+    "index": 1035
+  },
+  {
+    "surface": "不手際",
+    "reading": "futegiwa",
+    "code": "cr-kan2-1036",
+    "index": 1036
+  },
+  {
+    "surface": "五稜郭",
+    "reading": "goryoukaku",
+    "code": "cr-kan2-1037",
+    "index": 1037
+  },
+  {
+    "surface": "自堕落",
+    "reading": "jidaraku",
+    "code": "cr-kan2-1038",
+    "index": 1038
+  },
+  {
+    "surface": "馴れ馴れしく",
+    "reading": "narenareshiku",
+    "code": "cr-kan2-1039",
+    "index": 1039
+  },
+  {
+    "surface": "真奈美",
+    "reading": "manami",
+    "code": "cr-kan2-1040",
+    "index": 1040
+  },
+  {
+    "surface": "雄一郎",
+    "reading": "yuuichirou",
+    "code": "cr-kan2-1041",
+    "index": 1041
+  },
+  {
+    "surface": "解き明かす",
+    "reading": "tokiakasu",
+    "code": "cr-kan2-1042",
+    "index": 1042
+  },
+  {
+    "surface": "小笠原",
+    "reading": "ogasawara",
+    "code": "cr-kan2-1043",
+    "index": 1043
+  },
+  {
+    "surface": "幼馴染",
+    "reading": "osananajimi",
+    "code": "cr-kan2-1044",
+    "index": 1044
+  },
+  {
+    "surface": "一対一",
+    "reading": "ichitaiichi",
+    "code": "cr-kan2-1045",
+    "index": 1045
+  },
+  {
+    "surface": "付け替える",
+    "reading": "tsukekaeru",
+    "code": "cr-kan2-1046",
+    "index": 1046
+  },
+  {
+    "surface": "招き入れる",
+    "reading": "manekiireru",
+    "code": "cr-kan2-1047",
+    "index": 1047
+  },
+  {
+    "surface": "口喧嘩",
+    "reading": "kuchikenka",
+    "code": "cr-kan2-1048",
+    "index": 1048
+  },
+  {
+    "surface": "和歌集",
+    "reading": "wakashuu",
+    "code": "cr-kan2-1049",
+    "index": 1049
+  },
+  {
+    "surface": "一子相伝",
+    "reading": "ichishisouden",
+    "code": "cr-kan2-1050",
+    "index": 1050
+  },
+  {
+    "surface": "小数点",
+    "reading": "shousuuten",
+    "code": "cr-kan2-1051",
+    "index": 1051
+  },
+  {
+    "surface": "決定的",
+    "reading": "ketteiteki",
+    "code": "cr-kan2-1052",
+    "index": 1052
+  },
+  {
+    "surface": "長万部",
+    "reading": "oshamanbe",
+    "code": "cr-kan2-1053",
+    "index": 1053
+  },
+  {
+    "surface": "善光寺",
+    "reading": "zenkouji",
+    "code": "cr-kan2-1054",
+    "index": 1054
+  },
+  {
+    "surface": "乃木坂",
+    "reading": "nogizaka",
+    "code": "cr-kan2-1055",
+    "index": 1055
+  },
+  {
+    "surface": "ラサール石井",
+    "reading": "rasaaruishii",
+    "code": "cr-kan2-1056",
+    "index": 1056
+  },
+  {
+    "surface": "遊水地",
+    "reading": "yuusuichi",
+    "code": "cr-kan2-1057",
+    "index": 1057
+  },
+  {
+    "surface": "仕立て屋",
+    "reading": "shitateya",
+    "code": "cr-kan2-1058",
+    "index": 1058
+  },
+  {
+    "surface": "売り飛ばす",
+    "reading": "uritobasu",
+    "code": "cr-kan2-1059",
+    "index": 1059
+  },
+  {
+    "surface": "門外漢",
+    "reading": "mongaikan",
+    "code": "cr-kan2-1060",
+    "index": 1060
+  },
+  {
+    "surface": "抱き合わせ",
+    "reading": "dakiawase",
+    "code": "cr-kan2-1061",
+    "index": 1061
+  },
+  {
+    "surface": "自叙伝",
+    "reading": "jijoden",
+    "code": "cr-kan2-1062",
+    "index": 1062
+  },
+  {
+    "surface": "御利益",
+    "reading": "gorieki",
+    "code": "cr-kan2-1063",
+    "index": 1063
+  },
+  {
+    "surface": "押さえ込む",
+    "reading": "osaekomu",
+    "code": "cr-kan2-1064",
+    "index": 1064
+  },
+  {
+    "surface": "孫悟空",
+    "reading": "songokuu",
+    "code": "cr-kan2-1065",
+    "index": 1065
+  },
+  {
+    "surface": "小細工",
+    "reading": "shousaiku",
+    "code": "cr-kan2-1066",
+    "index": 1066
+  },
+  {
+    "surface": "切り落とし",
+    "reading": "kiriotoshi",
+    "code": "cr-kan2-1067",
+    "index": 1067
+  },
+  {
+    "surface": "救命胴衣",
+    "reading": "kyuumeidoui",
+    "code": "cr-kan2-1068",
+    "index": 1068
+  },
+  {
+    "surface": "川内原",
+    "reading": "kawauchihara",
+    "code": "cr-kan2-1069",
+    "index": 1069
+  },
+  {
+    "surface": "怒鳴りつけ",
+    "reading": "donaritsuke",
+    "code": "cr-kan2-1070",
+    "index": 1070
+  },
+  {
+    "surface": "矢継ぎ早",
+    "reading": "yatsugihaya",
+    "code": "cr-kan2-1071",
+    "index": 1071
+  },
+  {
+    "surface": "大二郎",
+    "reading": "daijirou",
+    "code": "cr-kan2-1072",
+    "index": 1072
+  },
+  {
+    "surface": "軽井沢",
+    "reading": "karuizawa",
+    "code": "cr-kan2-1073",
+    "index": 1073
+  },
+  {
+    "surface": "鉄砲玉",
+    "reading": "teppoutama",
+    "code": "cr-kan2-1074",
+    "index": 1074
+  },
+  {
+    "surface": "差し替える",
+    "reading": "sashikaeru",
+    "code": "cr-kan2-1075",
+    "index": 1075
+  },
+  {
+    "surface": "同義語",
+    "reading": "dougigo",
+    "code": "cr-kan2-1076",
+    "index": 1076
+  },
+  {
+    "surface": "思い浮かべる",
+    "reading": "omoiukaberu",
+    "code": "cr-kan2-1077",
+    "index": 1077
+  },
+  {
+    "surface": "野津田",
+    "reading": "notsuden",
+    "code": "cr-kan2-1078",
+    "index": 1078
+  },
+  {
+    "surface": "倶利伽羅",
+    "reading": "kurikara",
+    "code": "cr-kan2-1079",
+    "index": 1079
+  },
+  {
+    "surface": "目覚ましい",
+    "reading": "mezamashii",
+    "code": "cr-kan2-1080",
+    "index": 1080
+  },
+  {
+    "surface": "東尋坊",
+    "reading": "toujinbou",
+    "code": "cr-kan2-1081",
+    "index": 1081
+  },
+  {
+    "surface": "代議員",
+    "reading": "daigiin",
+    "code": "cr-kan2-1082",
+    "index": 1082
+  },
+  {
+    "surface": "待ち遠しく",
+    "reading": "machidooshiku",
+    "code": "cr-kan2-1083",
+    "index": 1083
+  },
+  {
+    "surface": "変奏曲",
+    "reading": "hensoukyoku",
+    "code": "cr-kan2-1084",
+    "index": 1084
+  },
+  {
+    "surface": "新浦安",
+    "reading": "shinurayasu",
+    "code": "cr-kan2-1085",
+    "index": 1085
+  },
+  {
+    "surface": "乗り入れる",
+    "reading": "noriireru",
+    "code": "cr-kan2-1086",
+    "index": 1086
+  },
+  {
+    "surface": "取捨選択",
+    "reading": "shushasentaku",
+    "code": "cr-kan2-1087",
+    "index": 1087
+  },
+  {
+    "surface": "平手打ち",
+    "reading": "hirateuchi",
+    "code": "cr-kan2-1088",
+    "index": 1088
+  },
+  {
+    "surface": "誤魔化せ",
+    "reading": "gomakase",
+    "code": "cr-kan2-1089",
+    "index": 1089
+  },
+  {
+    "surface": "自由形",
+    "reading": "jiyuugata",
+    "code": "cr-kan2-1090",
+    "index": 1090
+  },
+  {
+    "surface": "摩訶不思議",
+    "reading": "mahafushigi",
+    "code": "cr-kan2-1091",
+    "index": 1091
+  },
+  {
+    "surface": "違和感",
+    "reading": "iwakan",
+    "code": "cr-kan2-1092",
+    "index": 1092
+  },
+  {
+    "surface": "置き換わっ",
+    "reading": "okikawa",
+    "code": "cr-kan2-1093",
+    "index": 1093
+  },
+  {
+    "surface": "腕立て伏せ",
+    "reading": "udetatefuse",
+    "code": "cr-kan2-1094",
+    "index": 1094
+  },
+  {
+    "surface": "多良間",
+    "reading": "tarama",
+    "code": "cr-kan2-1095",
+    "index": 1095
+  },
+  {
+    "surface": "参事官",
+    "reading": "sanjikan",
+    "code": "cr-kan2-1096",
+    "index": 1096
+  },
+  {
+    "surface": "八幡宮",
+    "reading": "yawataguu",
+    "code": "cr-kan2-1097",
+    "index": 1097
+  },
+  {
+    "surface": "気持ち良",
+    "reading": "kimochiryou",
+    "code": "cr-kan2-1098",
+    "index": 1098
+  },
+  {
+    "surface": "堀之内",
+    "reading": "horinouchi",
+    "code": "cr-kan2-1099",
+    "index": 1099
+  }
+]

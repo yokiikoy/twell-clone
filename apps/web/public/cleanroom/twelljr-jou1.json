@@ -1,0 +1,5192 @@
+[
+  {
+    "surface": "たいそ",
+    "reading": "taiso",
+    "code": "cr-jou1-0",
+    "index": 0
+  },
+  {
+    "surface": "とんがっ",
+    "reading": "tonga",
+    "code": "cr-jou1-1",
+    "index": 1
+  },
+  {
+    "surface": "あずさ",
+    "reading": "azusa",
+    "code": "cr-jou1-2",
+    "index": 2
+  },
+  {
+    "surface": "はらみ",
+    "reading": "harami",
+    "code": "cr-jou1-3",
+    "index": 3
+  },
+  {
+    "surface": "そらそ",
+    "reading": "soraso",
+    "code": "cr-jou1-4",
+    "index": 4
+  },
+  {
+    "surface": "とんと",
+    "reading": "tonto",
+    "code": "cr-jou1-5",
+    "index": 5
+  },
+  {
+    "surface": "すさ",
+    "reading": "susa",
+    "code": "cr-jou1-6",
+    "index": 6
+  },
+  {
+    "surface": "しんじ",
+    "reading": "shinji",
+    "code": "cr-jou1-7",
+    "index": 7
+  },
+  {
+    "surface": "せら",
+    "reading": "sera",
+    "code": "cr-jou1-8",
+    "index": 8
+  },
+  {
+    "surface": "はんなり",
+    "reading": "hannari",
+    "code": "cr-jou1-9",
+    "index": 9
+  },
+  {
+    "surface": "たいこ",
+    "reading": "taiko",
+    "code": "cr-jou1-10",
+    "index": 10
+  },
+  {
+    "surface": "さく",
+    "reading": "saku",
+    "code": "cr-jou1-11",
+    "index": 11
+  },
+  {
+    "surface": "うつくし",
+    "reading": "utsukushi",
+    "code": "cr-jou1-12",
+    "index": 12
+  },
+  {
+    "surface": "しそ",
+    "reading": "shiso",
+    "code": "cr-jou1-13",
+    "index": 13
+  },
+  {
+    "surface": "さくら",
+    "reading": "sakura",
+    "code": "cr-jou1-14",
+    "index": 14
+  },
+  {
+    "surface": "なつかし",
+    "reading": "natsukashi",
+    "code": "cr-jou1-15",
+    "index": 15
+  },
+  {
+    "surface": "きどり",
+    "reading": "kidori",
+    "code": "cr-jou1-16",
+    "index": 16
+  },
+  {
+    "surface": "じん",
+    "reading": "jin",
+    "code": "cr-jou1-17",
+    "index": 17
+  },
+  {
+    "surface": "さとり",
+    "reading": "satori",
+    "code": "cr-jou1-18",
+    "index": 18
+  },
+  {
+    "surface": "まんなか",
+    "reading": "mannaka",
+    "code": "cr-jou1-19",
+    "index": 19
+  },
+  {
+    "surface": "さみしく",
+    "reading": "samishiku",
+    "code": "cr-jou1-20",
+    "index": 20
+  },
+  {
+    "surface": "うかがい",
+    "reading": "ukagai",
+    "code": "cr-jou1-21",
+    "index": 21
+  },
+  {
+    "surface": "まわさ",
+    "reading": "mawasa",
+    "code": "cr-jou1-22",
+    "index": 22
+  },
+  {
+    "surface": "くらべ",
+    "reading": "kurabe",
+    "code": "cr-jou1-23",
+    "index": 23
+  },
+  {
+    "surface": "ようじ",
+    "reading": "youji",
+    "code": "cr-jou1-24",
+    "index": 24
+  },
+  {
+    "surface": "れきし",
+    "reading": "rekishi",
+    "code": "cr-jou1-25",
+    "index": 25
+  },
+  {
+    "surface": "ちらつか",
+    "reading": "chiratsuka",
+    "code": "cr-jou1-26",
+    "index": 26
+  },
+  {
+    "surface": "ひらめい",
+    "reading": "hiramei",
+    "code": "cr-jou1-27",
+    "index": 27
+  },
+  {
+    "surface": "まわし",
+    "reading": "mawashi",
+    "code": "cr-jou1-28",
+    "index": 28
+  },
+  {
+    "surface": "さとみ",
+    "reading": "satomi",
+    "code": "cr-jou1-29",
+    "index": 29
+  },
+  {
+    "surface": "たんと",
+    "reading": "tanto",
+    "code": "cr-jou1-30",
+    "index": 30
+  },
+  {
+    "surface": "かぎり",
+    "reading": "kagiri",
+    "code": "cr-jou1-31",
+    "index": 31
+  },
+  {
+    "surface": "かたし",
+    "reading": "katashi",
+    "code": "cr-jou1-32",
+    "index": 32
+  },
+  {
+    "surface": "そそ",
+    "reading": "soso",
+    "code": "cr-jou1-33",
+    "index": 33
+  },
+  {
+    "surface": "だり",
+    "reading": "dari",
+    "code": "cr-jou1-34",
+    "index": 34
+  },
+  {
+    "surface": "うなじ",
+    "reading": "unaji",
+    "code": "cr-jou1-35",
+    "index": 35
+  },
+  {
+    "surface": "もがい",
+    "reading": "mogai",
+    "code": "cr-jou1-36",
+    "index": 36
+  },
+  {
+    "surface": "はさみ",
+    "reading": "hasami",
+    "code": "cr-jou1-37",
+    "index": 37
+  },
+  {
+    "surface": "ねらう",
+    "reading": "nerau",
+    "code": "cr-jou1-38",
+    "index": 38
+  },
+  {
+    "surface": "ずい",
+    "reading": "zui",
+    "code": "cr-jou1-39",
+    "index": 39
+  },
+  {
+    "surface": "まごう",
+    "reading": "magou",
+    "code": "cr-jou1-40",
+    "index": 40
+  },
+  {
+    "surface": "もっさり",
+    "reading": "mossari",
+    "code": "cr-jou1-41",
+    "index": 41
+  },
+  {
+    "surface": "ねだり",
+    "reading": "nedari",
+    "code": "cr-jou1-42",
+    "index": 42
+  },
+  {
+    "surface": "かしこく",
+    "reading": "kashikoku",
+    "code": "cr-jou1-43",
+    "index": 43
+  },
+  {
+    "surface": "とばし",
+    "reading": "tobashi",
+    "code": "cr-jou1-44",
+    "index": 44
+  },
+  {
+    "surface": "さつき",
+    "reading": "satsuki",
+    "code": "cr-jou1-45",
+    "index": 45
+  },
+  {
+    "surface": "ぐさ",
+    "reading": "gusa",
+    "code": "cr-jou1-46",
+    "index": 46
+  },
+  {
+    "surface": "げた",
+    "reading": "geta",
+    "code": "cr-jou1-47",
+    "index": 47
+  },
+  {
+    "surface": "ちょっぴり",
+    "reading": "choppiri",
+    "code": "cr-jou1-48",
+    "index": 48
+  },
+  {
+    "surface": "はいり",
+    "reading": "hairi",
+    "code": "cr-jou1-49",
+    "index": 49
+  },
+  {
+    "surface": "いっきに",
+    "reading": "ikkini",
+    "code": "cr-jou1-50",
+    "index": 50
+  },
+  {
+    "surface": "とたん",
+    "reading": "totan",
+    "code": "cr-jou1-51",
+    "index": 51
+  },
+  {
+    "surface": "けり",
+    "reading": "keri",
+    "code": "cr-jou1-52",
+    "index": 52
+  },
+  {
+    "surface": "ひょっこり",
+    "reading": "hyokkori",
+    "code": "cr-jou1-53",
+    "index": 53
+  },
+  {
+    "surface": "ぐずっ",
+    "reading": "guzu",
+    "code": "cr-jou1-54",
+    "index": 54
+  },
+  {
+    "surface": "ひさし",
+    "reading": "hisashi",
+    "code": "cr-jou1-55",
+    "index": 55
+  },
+  {
+    "surface": "かさばる",
+    "reading": "kasabaru",
+    "code": "cr-jou1-56",
+    "index": 56
+  },
+  {
+    "surface": "かられ",
+    "reading": "karare",
+    "code": "cr-jou1-57",
+    "index": 57
+  },
+  {
+    "surface": "かわり",
+    "reading": "kawari",
+    "code": "cr-jou1-58",
+    "index": 58
+  },
+  {
+    "surface": "まつげ",
+    "reading": "matsuge",
+    "code": "cr-jou1-59",
+    "index": 59
+  },
+  {
+    "surface": "ひろこ",
+    "reading": "hiroko",
+    "code": "cr-jou1-60",
+    "index": 60
+  },
+  {
+    "surface": "ひね",
+    "reading": "hine",
+    "code": "cr-jou1-61",
+    "index": 61
+  },
+  {
+    "surface": "てんと",
+    "reading": "tento",
+    "code": "cr-jou1-62",
+    "index": 62
+  },
+  {
+    "surface": "きらり",
+    "reading": "kirari",
+    "code": "cr-jou1-63",
+    "index": 63
+  },
+  {
+    "surface": "しだき",
+    "reading": "shidaki",
+    "code": "cr-jou1-64",
+    "index": 64
+  },
+  {
+    "surface": "だき",
+    "reading": "daki",
+    "code": "cr-jou1-65",
+    "index": 65
+  },
+  {
+    "surface": "ふもと",
+    "reading": "fumoto",
+    "code": "cr-jou1-66",
+    "index": 66
+  },
+  {
+    "surface": "ふさぐ",
+    "reading": "fusagu",
+    "code": "cr-jou1-67",
+    "index": 67
+  },
+  {
+    "surface": "めざし",
+    "reading": "mezashi",
+    "code": "cr-jou1-68",
+    "index": 68
+  },
+  {
+    "surface": "がけ",
+    "reading": "gake",
+    "code": "cr-jou1-69",
+    "index": 69
+  },
+  {
+    "surface": "ひらく",
+    "reading": "hiraku",
+    "code": "cr-jou1-70",
+    "index": 70
+  },
+  {
+    "surface": "しゃがん",
+    "reading": "shagan",
+    "code": "cr-jou1-71",
+    "index": 71
+  },
+  {
+    "surface": "のっけ",
+    "reading": "nokke",
+    "code": "cr-jou1-72",
+    "index": 72
+  },
+  {
+    "surface": "ねらっ",
+    "reading": "nera",
+    "code": "cr-jou1-73",
+    "index": 73
+  },
+  {
+    "surface": "うるま",
+    "reading": "uruma",
+    "code": "cr-jou1-74",
+    "index": 74
+  },
+  {
+    "surface": "とうき",
+    "reading": "touki",
+    "code": "cr-jou1-75",
+    "index": 75
+  },
+  {
+    "surface": "しだす",
+    "reading": "shidasu",
+    "code": "cr-jou1-76",
+    "index": 76
+  },
+  {
+    "surface": "よぎり",
+    "reading": "yogiri",
+    "code": "cr-jou1-77",
+    "index": 77
+  },
+  {
+    "surface": "うだつ",
+    "reading": "udatsu",
+    "code": "cr-jou1-78",
+    "index": 78
+  },
+  {
+    "surface": "ちらっと",
+    "reading": "chiratto",
+    "code": "cr-jou1-79",
+    "index": 79
+  },
+  {
+    "surface": "なつか",
+    "reading": "natsuka",
+    "code": "cr-jou1-80",
+    "index": 80
+  },
+  {
+    "surface": "めくれ",
+    "reading": "mekure",
+    "code": "cr-jou1-81",
+    "index": 81
+  },
+  {
+    "surface": "そごう",
+    "reading": "sogou",
+    "code": "cr-jou1-82",
+    "index": 82
+  },
+  {
+    "surface": "しゃも",
+    "reading": "shamo",
+    "code": "cr-jou1-83",
+    "index": 83
+  },
+  {
+    "surface": "ひそか",
+    "reading": "hisoka",
+    "code": "cr-jou1-84",
+    "index": 84
+  },
+  {
+    "surface": "はいち",
+    "reading": "haichi",
+    "code": "cr-jou1-85",
+    "index": 85
+  },
+  {
+    "surface": "ほうけ",
+    "reading": "houke",
+    "code": "cr-jou1-86",
+    "index": 86
+  },
+  {
+    "surface": "ぶと",
+    "reading": "buto",
+    "code": "cr-jou1-87",
+    "index": 87
+  },
+  {
+    "surface": "なつき",
+    "reading": "natsuki",
+    "code": "cr-jou1-88",
+    "index": 88
+  },
+  {
+    "surface": "ひきずっ",
+    "reading": "hikizu",
+    "code": "cr-jou1-89",
+    "index": 89
+  },
+  {
+    "surface": "おそまつ",
+    "reading": "osomatsu",
+    "code": "cr-jou1-90",
+    "index": 90
+  },
+  {
+    "surface": "もどき",
+    "reading": "modoki",
+    "code": "cr-jou1-91",
+    "index": 91
+  },
+  {
+    "surface": "でかく",
+    "reading": "dekaku",
+    "code": "cr-jou1-92",
+    "index": 92
+  },
+  {
+    "surface": "にぎり",
+    "reading": "nigiri",
+    "code": "cr-jou1-93",
+    "index": 93
+  },
+  {
+    "surface": "くださ",
+    "reading": "kudasa",
+    "code": "cr-jou1-94",
+    "index": 94
+  },
+  {
+    "surface": "やま",
+    "reading": "yama",
+    "code": "cr-jou1-95",
+    "index": 95
+  },
+  {
+    "surface": "べそ",
+    "reading": "beso",
+    "code": "cr-jou1-96",
+    "index": 96
+  },
+  {
+    "surface": "ねら",
+    "reading": "nera",
+    "code": "cr-jou1-97",
+    "index": 97
+  },
+  {
+    "surface": "ひそ",
+    "reading": "hiso",
+    "code": "cr-jou1-98",
+    "index": 98
+  },
+  {
+    "surface": "ひろば",
+    "reading": "hiroba",
+    "code": "cr-jou1-99",
+    "index": 99
+  },
+  {
+    "surface": "かがり",
+    "reading": "kagari",
+    "code": "cr-jou1-100",
+    "index": 100
+  },
+  {
+    "surface": "いっぺんに",
+    "reading": "ippenni",
+    "code": "cr-jou1-101",
+    "index": 101
+  },
+  {
+    "surface": "へそくり",
+    "reading": "hesokuri",
+    "code": "cr-jou1-102",
+    "index": 102
+  },
+  {
+    "surface": "いかり",
+    "reading": "ikari",
+    "code": "cr-jou1-103",
+    "index": 103
+  },
+  {
+    "surface": "かくし",
+    "reading": "kakushi",
+    "code": "cr-jou1-104",
+    "index": 104
+  },
+  {
+    "surface": "とっさ",
+    "reading": "tossa",
+    "code": "cr-jou1-105",
+    "index": 105
+  },
+  {
+    "surface": "とち",
+    "reading": "tochi",
+    "code": "cr-jou1-106",
+    "index": 106
+  },
+  {
+    "surface": "はしり",
+    "reading": "hashiri",
+    "code": "cr-jou1-107",
+    "index": 107
+  },
+  {
+    "surface": "たんなる",
+    "reading": "tannaru",
+    "code": "cr-jou1-108",
+    "index": 108
+  },
+  {
+    "surface": "まっぴら",
+    "reading": "mappira",
+    "code": "cr-jou1-109",
+    "index": 109
+  },
+  {
+    "surface": "つう",
+    "reading": "tsuu",
+    "code": "cr-jou1-110",
+    "index": 110
+  },
+  {
+    "surface": "すけ",
+    "reading": "suke",
+    "code": "cr-jou1-111",
+    "index": 111
+  },
+  {
+    "surface": "まっさきに",
+    "reading": "massakini",
+    "code": "cr-jou1-112",
+    "index": 112
+  },
+  {
+    "surface": "かんじる",
+    "reading": "kanjiru",
+    "code": "cr-jou1-113",
+    "index": 113
+  },
+  {
+    "surface": "さっそく",
+    "reading": "sassoku",
+    "code": "cr-jou1-114",
+    "index": 114
+  },
+  {
+    "surface": "しんど",
+    "reading": "shindo",
+    "code": "cr-jou1-115",
+    "index": 115
+  },
+  {
+    "surface": "つね",
+    "reading": "tsune",
+    "code": "cr-jou1-116",
+    "index": 116
+  },
+  {
+    "surface": "ばね",
+    "reading": "bane",
+    "code": "cr-jou1-117",
+    "index": 117
+  },
+  {
+    "surface": "たぐい",
+    "reading": "tagui",
+    "code": "cr-jou1-118",
+    "index": 118
+  },
+  {
+    "surface": "しわしわ",
+    "reading": "shiwashiwa",
+    "code": "cr-jou1-119",
+    "index": 119
+  },
+  {
+    "surface": "きちっと",
+    "reading": "kichitto",
+    "code": "cr-jou1-120",
+    "index": 120
+  },
+  {
+    "surface": "もとめ",
+    "reading": "motome",
+    "code": "cr-jou1-121",
+    "index": 121
+  },
+  {
+    "surface": "えんじ",
+    "reading": "enji",
+    "code": "cr-jou1-122",
+    "index": 122
+  },
+  {
+    "surface": "こすら",
+    "reading": "kosura",
+    "code": "cr-jou1-123",
+    "index": 123
+  },
+  {
+    "surface": "しっとり",
+    "reading": "shittori",
+    "code": "cr-jou1-124",
+    "index": 124
+  },
+  {
+    "surface": "はびこっ",
+    "reading": "habiko",
+    "code": "cr-jou1-125",
+    "index": 125
+  },
+  {
+    "surface": "といふ",
+    "reading": "toifu",
+    "code": "cr-jou1-126",
+    "index": 126
+  },
+  {
+    "surface": "そい",
+    "reading": "soi",
+    "code": "cr-jou1-127",
+    "index": 127
+  },
+  {
+    "surface": "こする",
+    "reading": "kosuru",
+    "code": "cr-jou1-128",
+    "index": 128
+  },
+  {
+    "surface": "ひたすら",
+    "reading": "hitasura",
+    "code": "cr-jou1-129",
+    "index": 129
+  },
+  {
+    "surface": "しんどく",
+    "reading": "shindoku",
+    "code": "cr-jou1-130",
+    "index": 130
+  },
+  {
+    "surface": "まぶた",
+    "reading": "mabuta",
+    "code": "cr-jou1-131",
+    "index": 131
+  },
+  {
+    "surface": "ばらばら",
+    "reading": "barabara",
+    "code": "cr-jou1-132",
+    "index": 132
+  },
+  {
+    "surface": "うるさ",
+    "reading": "urusa",
+    "code": "cr-jou1-133",
+    "index": 133
+  },
+  {
+    "surface": "かたは",
+    "reading": "katawa",
+    "code": "cr-jou1-134",
+    "index": 134
+  },
+  {
+    "surface": "しぐさ",
+    "reading": "shigusa",
+    "code": "cr-jou1-135",
+    "index": 135
+  },
+  {
+    "surface": "がさつ",
+    "reading": "gasatsu",
+    "code": "cr-jou1-136",
+    "index": 136
+  },
+  {
+    "surface": "かぐ",
+    "reading": "kagu",
+    "code": "cr-jou1-137",
+    "index": 137
+  },
+  {
+    "surface": "もぐり",
+    "reading": "moguri",
+    "code": "cr-jou1-138",
+    "index": 138
+  },
+  {
+    "surface": "すだち",
+    "reading": "sudachi",
+    "code": "cr-jou1-139",
+    "index": 139
+  },
+  {
+    "surface": "えらぶ",
+    "reading": "erabu",
+    "code": "cr-jou1-140",
+    "index": 140
+  },
+  {
+    "surface": "まくり",
+    "reading": "makuri",
+    "code": "cr-jou1-141",
+    "index": 141
+  },
+  {
+    "surface": "にわたり",
+    "reading": "niwatari",
+    "code": "cr-jou1-142",
+    "index": 142
+  },
+  {
+    "surface": "なじま",
+    "reading": "najima",
+    "code": "cr-jou1-143",
+    "index": 143
+  },
+  {
+    "surface": "まわら",
+    "reading": "mawara",
+    "code": "cr-jou1-144",
+    "index": 144
+  },
+  {
+    "surface": "ゆみこ",
+    "reading": "yumiko",
+    "code": "cr-jou1-145",
+    "index": 145
+  },
+  {
+    "surface": "かしわ",
+    "reading": "kashiwa",
+    "code": "cr-jou1-146",
+    "index": 146
+  },
+  {
+    "surface": "めかし",
+    "reading": "mekashi",
+    "code": "cr-jou1-147",
+    "index": 147
+  },
+  {
+    "surface": "しんみり",
+    "reading": "shinmiri",
+    "code": "cr-jou1-148",
+    "index": 148
+  },
+  {
+    "surface": "かかと",
+    "reading": "kakato",
+    "code": "cr-jou1-149",
+    "index": 149
+  },
+  {
+    "surface": "ぶちこん",
+    "reading": "buchikon",
+    "code": "cr-jou1-150",
+    "index": 150
+  },
+  {
+    "surface": "つべこべ",
+    "reading": "tsubekobe",
+    "code": "cr-jou1-151",
+    "index": 151
+  },
+  {
+    "surface": "せわ",
+    "reading": "sewa",
+    "code": "cr-jou1-152",
+    "index": 152
+  },
+  {
+    "surface": "とまっ",
+    "reading": "toma",
+    "code": "cr-jou1-153",
+    "index": 153
+  },
+  {
+    "surface": "たいじ",
+    "reading": "taiji",
+    "code": "cr-jou1-154",
+    "index": 154
+  },
+  {
+    "surface": "からす",
+    "reading": "karasu",
+    "code": "cr-jou1-155",
+    "index": 155
+  },
+  {
+    "surface": "よろめき",
+    "reading": "yoromeki",
+    "code": "cr-jou1-156",
+    "index": 156
+  },
+  {
+    "surface": "ひらり",
+    "reading": "hirari",
+    "code": "cr-jou1-157",
+    "index": 157
+  },
+  {
+    "surface": "めくら",
+    "reading": "mekura",
+    "code": "cr-jou1-158",
+    "index": 158
+  },
+  {
+    "surface": "かかし",
+    "reading": "kakashi",
+    "code": "cr-jou1-159",
+    "index": 159
+  },
+  {
+    "surface": "ゆうぎ",
+    "reading": "yuugi",
+    "code": "cr-jou1-160",
+    "index": 160
+  },
+  {
+    "surface": "かえりみ",
+    "reading": "kaerimi",
+    "code": "cr-jou1-161",
+    "index": 161
+  },
+  {
+    "surface": "しかれ",
+    "reading": "shikare",
+    "code": "cr-jou1-162",
+    "index": 162
+  },
+  {
+    "surface": "ひろし",
+    "reading": "hiroshi",
+    "code": "cr-jou1-163",
+    "index": 163
+  },
+  {
+    "surface": "てんで",
+    "reading": "tende",
+    "code": "cr-jou1-164",
+    "index": 164
+  },
+  {
+    "surface": "だいぶ",
+    "reading": "daibu",
+    "code": "cr-jou1-165",
+    "index": 165
+  },
+  {
+    "surface": "ちさと",
+    "reading": "chisato",
+    "code": "cr-jou1-166",
+    "index": 166
+  },
+  {
+    "surface": "あけみ",
+    "reading": "akemi",
+    "code": "cr-jou1-167",
+    "index": 167
+  },
+  {
+    "surface": "ぎれ",
+    "reading": "gire",
+    "code": "cr-jou1-168",
+    "index": 168
+  },
+  {
+    "surface": "まわる",
+    "reading": "mawaru",
+    "code": "cr-jou1-169",
+    "index": 169
+  },
+  {
+    "surface": "ひらけ",
+    "reading": "hirake",
+    "code": "cr-jou1-170",
+    "index": 170
+  },
+  {
+    "surface": "せか",
+    "reading": "seka",
+    "code": "cr-jou1-171",
+    "index": 171
+  },
+  {
+    "surface": "とんとん",
+    "reading": "tonton",
+    "code": "cr-jou1-172",
+    "index": 172
+  },
+  {
+    "surface": "かほり",
+    "reading": "kahori",
+    "code": "cr-jou1-173",
+    "index": 173
+  },
+  {
+    "surface": "へた",
+    "reading": "heta",
+    "code": "cr-jou1-174",
+    "index": 174
+  },
+  {
+    "surface": "したたる",
+    "reading": "shitataru",
+    "code": "cr-jou1-175",
+    "index": 175
+  },
+  {
+    "surface": "すべ",
+    "reading": "sube",
+    "code": "cr-jou1-176",
+    "index": 176
+  },
+  {
+    "surface": "しるし",
+    "reading": "shirushi",
+    "code": "cr-jou1-177",
+    "index": 177
+  },
+  {
+    "surface": "かしこ",
+    "reading": "kashiko",
+    "code": "cr-jou1-178",
+    "index": 178
+  },
+  {
+    "surface": "かんし",
+    "reading": "kanshi",
+    "code": "cr-jou1-179",
+    "index": 179
+  },
+  {
+    "surface": "へこみ",
+    "reading": "hekomi",
+    "code": "cr-jou1-180",
+    "index": 180
+  },
+  {
+    "surface": "かまわ",
+    "reading": "kamawa",
+    "code": "cr-jou1-181",
+    "index": 181
+  },
+  {
+    "surface": "ひらひら",
+    "reading": "hirahira",
+    "code": "cr-jou1-182",
+    "index": 182
+  },
+  {
+    "surface": "たけ",
+    "reading": "take",
+    "code": "cr-jou1-183",
+    "index": 183
+  },
+  {
+    "surface": "ひっかけ",
+    "reading": "hikkake",
+    "code": "cr-jou1-184",
+    "index": 184
+  },
+  {
+    "surface": "おつき",
+    "reading": "otsuki",
+    "code": "cr-jou1-185",
+    "index": 185
+  },
+  {
+    "surface": "かたまっ",
+    "reading": "katama",
+    "code": "cr-jou1-186",
+    "index": 186
+  },
+  {
+    "surface": "からくり",
+    "reading": "karakuri",
+    "code": "cr-jou1-187",
+    "index": 187
+  },
+  {
+    "surface": "さすっ",
+    "reading": "sasu",
+    "code": "cr-jou1-188",
+    "index": 188
+  },
+  {
+    "surface": "いざ",
+    "reading": "iza",
+    "code": "cr-jou1-189",
+    "index": 189
+  },
+  {
+    "surface": "ひけ",
+    "reading": "hike",
+    "code": "cr-jou1-190",
+    "index": 190
+  },
+  {
+    "surface": "めぐり",
+    "reading": "meguri",
+    "code": "cr-jou1-191",
+    "index": 191
+  },
+  {
+    "surface": "けっこん",
+    "reading": "kekkon",
+    "code": "cr-jou1-192",
+    "index": 192
+  },
+  {
+    "surface": "とくと",
+    "reading": "tokuto",
+    "code": "cr-jou1-193",
+    "index": 193
+  },
+  {
+    "surface": "たれ",
+    "reading": "tare",
+    "code": "cr-jou1-194",
+    "index": 194
+  },
+  {
+    "surface": "しめじ",
+    "reading": "shimeji",
+    "code": "cr-jou1-195",
+    "index": 195
+  },
+  {
+    "surface": "しかと",
+    "reading": "shikato",
+    "code": "cr-jou1-196",
+    "index": 196
+  },
+  {
+    "surface": "さまし",
+    "reading": "samashi",
+    "code": "cr-jou1-197",
+    "index": 197
+  },
+  {
+    "surface": "ひねっ",
+    "reading": "hine",
+    "code": "cr-jou1-198",
+    "index": 198
+  },
+  {
+    "surface": "こねる",
+    "reading": "koneru",
+    "code": "cr-jou1-199",
+    "index": 199
+  },
+  {
+    "surface": "へる",
+    "reading": "heru",
+    "code": "cr-jou1-200",
+    "index": 200
+  },
+  {
+    "surface": "たけし",
+    "reading": "takeshi",
+    "code": "cr-jou1-201",
+    "index": 201
+  },
+  {
+    "surface": "ふさがっ",
+    "reading": "fusaga",
+    "code": "cr-jou1-202",
+    "index": 202
+  },
+  {
+    "surface": "まっしぐら",
+    "reading": "masshigura",
+    "code": "cr-jou1-203",
+    "index": 203
+  },
+  {
+    "surface": "びゃ",
+    "reading": "bi",
+    "code": "cr-jou1-204",
+    "index": 204
+  },
+  {
+    "surface": "すそ",
+    "reading": "suso",
+    "code": "cr-jou1-205",
+    "index": 205
+  },
+  {
+    "surface": "なおそ",
+    "reading": "naoso",
+    "code": "cr-jou1-206",
+    "index": 206
+  },
+  {
+    "surface": "はたらく",
+    "reading": "hataraku",
+    "code": "cr-jou1-207",
+    "index": 207
+  },
+  {
+    "surface": "ひろ",
+    "reading": "hiro",
+    "code": "cr-jou1-208",
+    "index": 208
+  },
+  {
+    "surface": "たんに",
+    "reading": "tanni",
+    "code": "cr-jou1-209",
+    "index": 209
+  },
+  {
+    "surface": "かっこう",
+    "reading": "kakkou",
+    "code": "cr-jou1-210",
+    "index": 210
+  },
+  {
+    "surface": "しきたり",
+    "reading": "shikitari",
+    "code": "cr-jou1-211",
+    "index": 211
+  },
+  {
+    "surface": "えぐる",
+    "reading": "eguru",
+    "code": "cr-jou1-212",
+    "index": 212
+  },
+  {
+    "surface": "れい",
+    "reading": "rei",
+    "code": "cr-jou1-213",
+    "index": 213
+  },
+  {
+    "surface": "よぎる",
+    "reading": "yogiru",
+    "code": "cr-jou1-214",
+    "index": 214
+  },
+  {
+    "surface": "どろん",
+    "reading": "doron",
+    "code": "cr-jou1-215",
+    "index": 215
+  },
+  {
+    "surface": "りさ",
+    "reading": "risa",
+    "code": "cr-jou1-216",
+    "index": 216
+  },
+  {
+    "surface": "もどし",
+    "reading": "modoshi",
+    "code": "cr-jou1-217",
+    "index": 217
+  },
+  {
+    "surface": "めぐっ",
+    "reading": "megu",
+    "code": "cr-jou1-218",
+    "index": 218
+  },
+  {
+    "surface": "あがり",
+    "reading": "agari",
+    "code": "cr-jou1-219",
+    "index": 219
+  },
+  {
+    "surface": "はじまっ",
+    "reading": "hajima",
+    "code": "cr-jou1-220",
+    "index": 220
+  },
+  {
+    "surface": "がっしり",
+    "reading": "gasshiri",
+    "code": "cr-jou1-221",
+    "index": 221
+  },
+  {
+    "surface": "ねば",
+    "reading": "neba",
+    "code": "cr-jou1-222",
+    "index": 222
+  },
+  {
+    "surface": "こねくり",
+    "reading": "konekuri",
+    "code": "cr-jou1-223",
+    "index": 223
+  },
+  {
+    "surface": "いため",
+    "reading": "itame",
+    "code": "cr-jou1-224",
+    "index": 224
+  },
+  {
+    "surface": "さりげ",
+    "reading": "sarige",
+    "code": "cr-jou1-225",
+    "index": 225
+  },
+  {
+    "surface": "よぎっ",
+    "reading": "yogi",
+    "code": "cr-jou1-226",
+    "index": 226
+  },
+  {
+    "surface": "かえり",
+    "reading": "kaeri",
+    "code": "cr-jou1-227",
+    "index": 227
+  },
+  {
+    "surface": "めがけ",
+    "reading": "megake",
+    "code": "cr-jou1-228",
+    "index": 228
+  },
+  {
+    "surface": "いばら",
+    "reading": "ibara",
+    "code": "cr-jou1-229",
+    "index": 229
+  },
+  {
+    "surface": "ひだり",
+    "reading": "hidari",
+    "code": "cr-jou1-230",
+    "index": 230
+  },
+  {
+    "surface": "てんじ",
+    "reading": "tenji",
+    "code": "cr-jou1-231",
+    "index": 231
+  },
+  {
+    "surface": "ばやし",
+    "reading": "bayashi",
+    "code": "cr-jou1-232",
+    "index": 232
+  },
+  {
+    "surface": "にわとり",
+    "reading": "niwatori",
+    "code": "cr-jou1-233",
+    "index": 233
+  },
+  {
+    "surface": "ひきこもり",
+    "reading": "hikikomori",
+    "code": "cr-jou1-234",
+    "index": 234
+  },
+  {
+    "surface": "からしゃ",
+    "reading": "karasha",
+    "code": "cr-jou1-235",
+    "index": 235
+  },
+  {
+    "surface": "ずく",
+    "reading": "zuku",
+    "code": "cr-jou1-236",
+    "index": 236
+  },
+  {
+    "surface": "たすけ",
+    "reading": "tasuke",
+    "code": "cr-jou1-237",
+    "index": 237
+  },
+  {
+    "surface": "はげ",
+    "reading": "hage",
+    "code": "cr-jou1-238",
+    "index": 238
+  },
+  {
+    "surface": "とん",
+    "reading": "ton",
+    "code": "cr-jou1-239",
+    "index": 239
+  },
+  {
+    "surface": "はたけ",
+    "reading": "hatake",
+    "code": "cr-jou1-240",
+    "index": 240
+  },
+  {
+    "surface": "たてがみ",
+    "reading": "tategami",
+    "code": "cr-jou1-241",
+    "index": 241
+  },
+  {
+    "surface": "ひもじい",
+    "reading": "himojii",
+    "code": "cr-jou1-242",
+    "index": 242
+  },
+  {
+    "surface": "もらっ",
+    "reading": "mora",
+    "code": "cr-jou1-243",
+    "index": 243
+  },
+  {
+    "surface": "あかん",
+    "reading": "akan",
+    "code": "cr-jou1-244",
+    "index": 244
+  },
+  {
+    "surface": "うずく",
+    "reading": "uzuku",
+    "code": "cr-jou1-245",
+    "index": 245
+  },
+  {
+    "surface": "ぷっくり",
+    "reading": "pukkuri",
+    "code": "cr-jou1-246",
+    "index": 246
+  },
+  {
+    "surface": "おろさ",
+    "reading": "orosa",
+    "code": "cr-jou1-247",
+    "index": 247
+  },
+  {
+    "surface": "あぶり",
+    "reading": "aburi",
+    "code": "cr-jou1-248",
+    "index": 248
+  },
+  {
+    "surface": "いわき",
+    "reading": "iwaki",
+    "code": "cr-jou1-249",
+    "index": 249
+  },
+  {
+    "surface": "ゆか",
+    "reading": "yuka",
+    "code": "cr-jou1-250",
+    "index": 250
+  },
+  {
+    "surface": "わるかっ",
+    "reading": "waruka",
+    "code": "cr-jou1-251",
+    "index": 251
+  },
+  {
+    "surface": "いとし",
+    "reading": "itoshi",
+    "code": "cr-jou1-252",
+    "index": 252
+  },
+  {
+    "surface": "めぐる",
+    "reading": "meguru",
+    "code": "cr-jou1-253",
+    "index": 253
+  },
+  {
+    "surface": "ぐんと",
+    "reading": "gunto",
+    "code": "cr-jou1-254",
+    "index": 254
+  },
+  {
+    "surface": "しのい",
+    "reading": "shinoi",
+    "code": "cr-jou1-255",
+    "index": 255
+  },
+  {
+    "surface": "すらり",
+    "reading": "surari",
+    "code": "cr-jou1-256",
+    "index": 256
+  },
+  {
+    "surface": "たて",
+    "reading": "tate",
+    "code": "cr-jou1-257",
+    "index": 257
+  },
+  {
+    "surface": "とおし",
+    "reading": "tooshi",
+    "code": "cr-jou1-258",
+    "index": 258
+  },
+  {
+    "surface": "さいき",
+    "reading": "saiki",
+    "code": "cr-jou1-259",
+    "index": 259
+  },
+  {
+    "surface": "けら",
+    "reading": "kera",
+    "code": "cr-jou1-260",
+    "index": 260
+  },
+  {
+    "surface": "めぐ",
+    "reading": "megu",
+    "code": "cr-jou1-261",
+    "index": 261
+  },
+  {
+    "surface": "てんき",
+    "reading": "tenki",
+    "code": "cr-jou1-262",
+    "index": 262
+  },
+  {
+    "surface": "えいじ",
+    "reading": "eiji",
+    "code": "cr-jou1-263",
+    "index": 263
+  },
+  {
+    "surface": "たかし",
+    "reading": "takashi",
+    "code": "cr-jou1-264",
+    "index": 264
+  },
+  {
+    "surface": "もり",
+    "reading": "mori",
+    "code": "cr-jou1-265",
+    "index": 265
+  },
+  {
+    "surface": "やじ",
+    "reading": "yaji",
+    "code": "cr-jou1-266",
+    "index": 266
+  },
+  {
+    "surface": "くすぐっ",
+    "reading": "kusugu",
+    "code": "cr-jou1-267",
+    "index": 267
+  },
+  {
+    "surface": "しんし",
+    "reading": "shinshi",
+    "code": "cr-jou1-268",
+    "index": 268
+  },
+  {
+    "surface": "はっぴ",
+    "reading": "happi",
+    "code": "cr-jou1-269",
+    "index": 269
+  },
+  {
+    "surface": "あずき",
+    "reading": "azuki",
+    "code": "cr-jou1-270",
+    "index": 270
+  },
+  {
+    "surface": "さとう",
+    "reading": "satou",
+    "code": "cr-jou1-271",
+    "index": 271
+  },
+  {
+    "surface": "ちょんまげ",
+    "reading": "chonmage",
+    "code": "cr-jou1-272",
+    "index": 272
+  },
+  {
+    "surface": "ときめく",
+    "reading": "tokimeku",
+    "code": "cr-jou1-273",
+    "index": 273
+  },
+  {
+    "surface": "とっくに",
+    "reading": "tokkuni",
+    "code": "cr-jou1-274",
+    "index": 274
+  },
+  {
+    "surface": "すべっ",
+    "reading": "sube",
+    "code": "cr-jou1-275",
+    "index": 275
+  },
+  {
+    "surface": "さがそ",
+    "reading": "sagaso",
+    "code": "cr-jou1-276",
+    "index": 276
+  },
+  {
+    "surface": "とら",
+    "reading": "tora",
+    "code": "cr-jou1-277",
+    "index": 277
+  },
+  {
+    "surface": "かくまっ",
+    "reading": "kakuma",
+    "code": "cr-jou1-278",
+    "index": 278
+  },
+  {
+    "surface": "けさ",
+    "reading": "kesa",
+    "code": "cr-jou1-279",
+    "index": 279
+  },
+  {
+    "surface": "ありふれ",
+    "reading": "arifure",
+    "code": "cr-jou1-280",
+    "index": 280
+  },
+  {
+    "surface": "しっくり",
+    "reading": "shikkuri",
+    "code": "cr-jou1-281",
+    "index": 281
+  },
+  {
+    "surface": "げに",
+    "reading": "geni",
+    "code": "cr-jou1-282",
+    "index": 282
+  },
+  {
+    "surface": "さゆり",
+    "reading": "sayuri",
+    "code": "cr-jou1-283",
+    "index": 283
+  },
+  {
+    "surface": "したがい",
+    "reading": "shitagai",
+    "code": "cr-jou1-284",
+    "index": 284
+  },
+  {
+    "surface": "つうじ",
+    "reading": "tsuuji",
+    "code": "cr-jou1-285",
+    "index": 285
+  },
+  {
+    "surface": "めそめそ",
+    "reading": "mesomeso",
+    "code": "cr-jou1-286",
+    "index": 286
+  },
+  {
+    "surface": "れんげ",
+    "reading": "renge",
+    "code": "cr-jou1-287",
+    "index": 287
+  },
+  {
+    "surface": "かのう",
+    "reading": "kanou",
+    "code": "cr-jou1-288",
+    "index": 288
+  },
+  {
+    "surface": "こまち",
+    "reading": "komachi",
+    "code": "cr-jou1-289",
+    "index": 289
+  },
+  {
+    "surface": "ぐま",
+    "reading": "guma",
+    "code": "cr-jou1-290",
+    "index": 290
+  },
+  {
+    "surface": "わたくし",
+    "reading": "watakushi",
+    "code": "cr-jou1-291",
+    "index": 291
+  },
+  {
+    "surface": "ぐんま",
+    "reading": "gunma",
+    "code": "cr-jou1-292",
+    "index": 292
+  },
+  {
+    "surface": "ふるう",
+    "reading": "furuu",
+    "code": "cr-jou1-293",
+    "index": 293
+  },
+  {
+    "surface": "とたんに",
+    "reading": "totanni",
+    "code": "cr-jou1-294",
+    "index": 294
+  },
+  {
+    "surface": "でっかく",
+    "reading": "dekkaku",
+    "code": "cr-jou1-295",
+    "index": 295
+  },
+  {
+    "surface": "そり",
+    "reading": "sori",
+    "code": "cr-jou1-296",
+    "index": 296
+  },
+  {
+    "surface": "つつく",
+    "reading": "tsutsuku",
+    "code": "cr-jou1-297",
+    "index": 297
+  },
+  {
+    "surface": "かかれ",
+    "reading": "kakare",
+    "code": "cr-jou1-298",
+    "index": 298
+  },
+  {
+    "surface": "たかこ",
+    "reading": "takako",
+    "code": "cr-jou1-299",
+    "index": 299
+  },
+  {
+    "surface": "ときめい",
+    "reading": "tokimei",
+    "code": "cr-jou1-300",
+    "index": 300
+  },
+  {
+    "surface": "おきる",
+    "reading": "okiru",
+    "code": "cr-jou1-301",
+    "index": 301
+  },
+  {
+    "surface": "ながれ",
+    "reading": "nagare",
+    "code": "cr-jou1-302",
+    "index": 302
+  },
+  {
+    "surface": "しめし",
+    "reading": "shimeshi",
+    "code": "cr-jou1-303",
+    "index": 303
+  },
+  {
+    "surface": "のばし",
+    "reading": "nobashi",
+    "code": "cr-jou1-304",
+    "index": 304
+  },
+  {
+    "surface": "きゅっと",
+    "reading": "kyutto",
+    "code": "cr-jou1-305",
+    "index": 305
+  },
+  {
+    "surface": "ひろっ",
+    "reading": "hiro",
+    "code": "cr-jou1-306",
+    "index": 306
+  },
+  {
+    "surface": "べく",
+    "reading": "beku",
+    "code": "cr-jou1-307",
+    "index": 307
+  },
+  {
+    "surface": "きらきら",
+    "reading": "kirakira",
+    "code": "cr-jou1-308",
+    "index": 308
+  },
+  {
+    "surface": "せまく",
+    "reading": "semaku",
+    "code": "cr-jou1-309",
+    "index": 309
+  },
+  {
+    "surface": "さげ",
+    "reading": "sage",
+    "code": "cr-jou1-310",
+    "index": 310
+  },
+  {
+    "surface": "かけもち",
+    "reading": "kakemochi",
+    "code": "cr-jou1-311",
+    "index": 311
+  },
+  {
+    "surface": "あぶら",
+    "reading": "abura",
+    "code": "cr-jou1-312",
+    "index": 312
+  },
+  {
+    "surface": "ながし",
+    "reading": "nagashi",
+    "code": "cr-jou1-313",
+    "index": 313
+  },
+  {
+    "surface": "まく",
+    "reading": "maku",
+    "code": "cr-jou1-314",
+    "index": 314
+  },
+  {
+    "surface": "がれ",
+    "reading": "gare",
+    "code": "cr-jou1-315",
+    "index": 315
+  },
+  {
+    "surface": "えり",
+    "reading": "eri",
+    "code": "cr-jou1-316",
+    "index": 316
+  },
+  {
+    "surface": "まきこ",
+    "reading": "makiko",
+    "code": "cr-jou1-317",
+    "index": 317
+  },
+  {
+    "surface": "ざし",
+    "reading": "zashi",
+    "code": "cr-jou1-318",
+    "index": 318
+  },
+  {
+    "surface": "ゆうす",
+    "reading": "yuusu",
+    "code": "cr-jou1-319",
+    "index": 319
+  },
+  {
+    "surface": "ちらりと",
+    "reading": "chirarito",
+    "code": "cr-jou1-320",
+    "index": 320
+  },
+  {
+    "surface": "こなれ",
+    "reading": "konare",
+    "code": "cr-jou1-321",
+    "index": 321
+  },
+  {
+    "surface": "こっぴどく",
+    "reading": "koppidoku",
+    "code": "cr-jou1-322",
+    "index": 322
+  },
+  {
+    "surface": "かかろ",
+    "reading": "kakaro",
+    "code": "cr-jou1-323",
+    "index": 323
+  },
+  {
+    "surface": "なごり",
+    "reading": "nagori",
+    "code": "cr-jou1-324",
+    "index": 324
+  },
+  {
+    "surface": "あそぶ",
+    "reading": "asobu",
+    "code": "cr-jou1-325",
+    "index": 325
+  },
+  {
+    "surface": "もれ",
+    "reading": "more",
+    "code": "cr-jou1-326",
+    "index": 326
+  },
+  {
+    "surface": "くるま",
+    "reading": "kuruma",
+    "code": "cr-jou1-327",
+    "index": 327
+  },
+  {
+    "surface": "すっご",
+    "reading": "suggo",
+    "code": "cr-jou1-328",
+    "index": 328
+  },
+  {
+    "surface": "つつみ",
+    "reading": "tsutsumi",
+    "code": "cr-jou1-329",
+    "index": 329
+  },
+  {
+    "surface": "ちょこ",
+    "reading": "choko",
+    "code": "cr-jou1-330",
+    "index": 330
+  },
+  {
+    "surface": "さみし",
+    "reading": "samishi",
+    "code": "cr-jou1-331",
+    "index": 331
+  },
+  {
+    "surface": "きこえる",
+    "reading": "kikoeru",
+    "code": "cr-jou1-332",
+    "index": 332
+  },
+  {
+    "surface": "なまっ",
+    "reading": "nama",
+    "code": "cr-jou1-333",
+    "index": 333
+  },
+  {
+    "surface": "かかわり",
+    "reading": "kakawari",
+    "code": "cr-jou1-334",
+    "index": 334
+  },
+  {
+    "surface": "ふっとば",
+    "reading": "futtoba",
+    "code": "cr-jou1-335",
+    "index": 335
+  },
+  {
+    "surface": "かくれ",
+    "reading": "kakure",
+    "code": "cr-jou1-336",
+    "index": 336
+  },
+  {
+    "surface": "たまん",
+    "reading": "taman",
+    "code": "cr-jou1-337",
+    "index": 337
+  },
+  {
+    "surface": "めくり",
+    "reading": "mekuri",
+    "code": "cr-jou1-338",
+    "index": 338
+  },
+  {
+    "surface": "いたそ",
+    "reading": "itaso",
+    "code": "cr-jou1-339",
+    "index": 339
+  },
+  {
+    "surface": "じし",
+    "reading": "jishi",
+    "code": "cr-jou1-340",
+    "index": 340
+  },
+  {
+    "surface": "みりん",
+    "reading": "mirin",
+    "code": "cr-jou1-341",
+    "index": 341
+  },
+  {
+    "surface": "かしこい",
+    "reading": "kashikoi",
+    "code": "cr-jou1-342",
+    "index": 342
+  },
+  {
+    "surface": "そそる",
+    "reading": "sosoru",
+    "code": "cr-jou1-343",
+    "index": 343
+  },
+  {
+    "surface": "ぶらぶら",
+    "reading": "burabura",
+    "code": "cr-jou1-344",
+    "index": 344
+  },
+  {
+    "surface": "もら",
+    "reading": "mora",
+    "code": "cr-jou1-345",
+    "index": 345
+  },
+  {
+    "surface": "あがる",
+    "reading": "agaru",
+    "code": "cr-jou1-346",
+    "index": 346
+  },
+  {
+    "surface": "なおし",
+    "reading": "naoshi",
+    "code": "cr-jou1-347",
+    "index": 347
+  },
+  {
+    "surface": "はびこる",
+    "reading": "habikoru",
+    "code": "cr-jou1-348",
+    "index": 348
+  },
+  {
+    "surface": "ひっかから",
+    "reading": "hikkakara",
+    "code": "cr-jou1-349",
+    "index": 349
+  },
+  {
+    "surface": "ひらめ",
+    "reading": "hirame",
+    "code": "cr-jou1-350",
+    "index": 350
+  },
+  {
+    "surface": "さわさ",
+    "reading": "sawasa",
+    "code": "cr-jou1-351",
+    "index": 351
+  },
+  {
+    "surface": "わざと",
+    "reading": "wazato",
+    "code": "cr-jou1-352",
+    "index": 352
+  },
+  {
+    "surface": "わらっ",
+    "reading": "wara",
+    "code": "cr-jou1-353",
+    "index": 353
+  },
+  {
+    "surface": "まちゃ",
+    "reading": "macha",
+    "code": "cr-jou1-354",
+    "index": 354
+  },
+  {
+    "surface": "だす",
+    "reading": "dasu",
+    "code": "cr-jou1-355",
+    "index": 355
+  },
+  {
+    "surface": "ひさ",
+    "reading": "hisa",
+    "code": "cr-jou1-356",
+    "index": 356
+  },
+  {
+    "surface": "とば",
+    "reading": "toba",
+    "code": "cr-jou1-357",
+    "index": 357
+  },
+  {
+    "surface": "たむろ",
+    "reading": "tamuro",
+    "code": "cr-jou1-358",
+    "index": 358
+  },
+  {
+    "surface": "しずく",
+    "reading": "shizuku",
+    "code": "cr-jou1-359",
+    "index": 359
+  },
+  {
+    "surface": "すがり",
+    "reading": "sugari",
+    "code": "cr-jou1-360",
+    "index": 360
+  },
+  {
+    "surface": "すーっ",
+    "reading": "suu",
+    "code": "cr-jou1-361",
+    "index": 361
+  },
+  {
+    "surface": "ひろか",
+    "reading": "hiroka",
+    "code": "cr-jou1-362",
+    "index": 362
+  },
+  {
+    "surface": "ふるわ",
+    "reading": "furuwa",
+    "code": "cr-jou1-363",
+    "index": 363
+  },
+  {
+    "surface": "ねる",
+    "reading": "neru",
+    "code": "cr-jou1-364",
+    "index": 364
+  },
+  {
+    "surface": "なおせ",
+    "reading": "naose",
+    "code": "cr-jou1-365",
+    "index": 365
+  },
+  {
+    "surface": "ぐったり",
+    "reading": "guttari",
+    "code": "cr-jou1-366",
+    "index": 366
+  },
+  {
+    "surface": "もしゃ",
+    "reading": "moshi",
+    "code": "cr-jou1-367",
+    "index": 367
+  },
+  {
+    "surface": "れつ",
+    "reading": "retsu",
+    "code": "cr-jou1-368",
+    "index": 368
+  },
+  {
+    "surface": "そそり",
+    "reading": "sosori",
+    "code": "cr-jou1-369",
+    "index": 369
+  },
+  {
+    "surface": "かけっこ",
+    "reading": "kakekko",
+    "code": "cr-jou1-370",
+    "index": 370
+  },
+  {
+    "surface": "くらま",
+    "reading": "kurama",
+    "code": "cr-jou1-371",
+    "index": 371
+  },
+  {
+    "surface": "えみ",
+    "reading": "emi",
+    "code": "cr-jou1-372",
+    "index": 372
+  },
+  {
+    "surface": "かなし",
+    "reading": "kanashi",
+    "code": "cr-jou1-373",
+    "index": 373
+  },
+  {
+    "surface": "おそ",
+    "reading": "oso",
+    "code": "cr-jou1-374",
+    "index": 374
+  },
+  {
+    "surface": "のろし",
+    "reading": "noroshi",
+    "code": "cr-jou1-375",
+    "index": 375
+  },
+  {
+    "surface": "ひかえ",
+    "reading": "hikae",
+    "code": "cr-jou1-376",
+    "index": 376
+  },
+  {
+    "surface": "しとっ",
+    "reading": "shito",
+    "code": "cr-jou1-377",
+    "index": 377
+  },
+  {
+    "surface": "うつつ",
+    "reading": "utsutsu",
+    "code": "cr-jou1-378",
+    "index": 378
+  },
+  {
+    "surface": "にごり",
+    "reading": "nigori",
+    "code": "cr-jou1-379",
+    "index": 379
+  },
+  {
+    "surface": "おどり",
+    "reading": "odori",
+    "code": "cr-jou1-380",
+    "index": 380
+  },
+  {
+    "surface": "がわり",
+    "reading": "gawari",
+    "code": "cr-jou1-381",
+    "index": 381
+  },
+  {
+    "surface": "かする",
+    "reading": "kasuru",
+    "code": "cr-jou1-382",
+    "index": 382
+  },
+  {
+    "surface": "そそら",
+    "reading": "sosora",
+    "code": "cr-jou1-383",
+    "index": 383
+  },
+  {
+    "surface": "ならし",
+    "reading": "narashi",
+    "code": "cr-jou1-384",
+    "index": 384
+  },
+  {
+    "surface": "ふやけ",
+    "reading": "fuyake",
+    "code": "cr-jou1-385",
+    "index": 385
+  },
+  {
+    "surface": "えぐら",
+    "reading": "egura",
+    "code": "cr-jou1-386",
+    "index": 386
+  },
+  {
+    "surface": "けち",
+    "reading": "kechi",
+    "code": "cr-jou1-387",
+    "index": 387
+  },
+  {
+    "surface": "にがり",
+    "reading": "nigari",
+    "code": "cr-jou1-388",
+    "index": 388
+  },
+  {
+    "surface": "せがま",
+    "reading": "segama",
+    "code": "cr-jou1-389",
+    "index": 389
+  },
+  {
+    "surface": "がま",
+    "reading": "gama",
+    "code": "cr-jou1-390",
+    "index": 390
+  },
+  {
+    "surface": "てんし",
+    "reading": "tenshi",
+    "code": "cr-jou1-391",
+    "index": 391
+  },
+  {
+    "surface": "のっとり",
+    "reading": "nottori",
+    "code": "cr-jou1-392",
+    "index": 392
+  },
+  {
+    "surface": "きらめく",
+    "reading": "kirameku",
+    "code": "cr-jou1-393",
+    "index": 393
+  },
+  {
+    "surface": "くだもの",
+    "reading": "kudamono",
+    "code": "cr-jou1-394",
+    "index": 394
+  },
+  {
+    "surface": "あつし",
+    "reading": "atsushi",
+    "code": "cr-jou1-395",
+    "index": 395
+  },
+  {
+    "surface": "えぐり",
+    "reading": "eguri",
+    "code": "cr-jou1-396",
+    "index": 396
+  },
+  {
+    "surface": "まつり",
+    "reading": "matsuri",
+    "code": "cr-jou1-397",
+    "index": 397
+  },
+  {
+    "surface": "わざ",
+    "reading": "waza",
+    "code": "cr-jou1-398",
+    "index": 398
+  },
+  {
+    "surface": "かえれ",
+    "reading": "kaere",
+    "code": "cr-jou1-399",
+    "index": 399
+  },
+  {
+    "surface": "ぺん",
+    "reading": "pen",
+    "code": "cr-jou1-400",
+    "index": 400
+  },
+  {
+    "surface": "ぐっすり",
+    "reading": "gussuri",
+    "code": "cr-jou1-401",
+    "index": 401
+  },
+  {
+    "surface": "かぐら",
+    "reading": "kagura",
+    "code": "cr-jou1-402",
+    "index": 402
+  },
+  {
+    "surface": "しゃれ",
+    "reading": "share",
+    "code": "cr-jou1-403",
+    "index": 403
+  },
+  {
+    "surface": "ぐし",
+    "reading": "gushi",
+    "code": "cr-jou1-404",
+    "index": 404
+  },
+  {
+    "surface": "じい",
+    "reading": "jii",
+    "code": "cr-jou1-405",
+    "index": 405
+  },
+  {
+    "surface": "とけ",
+    "reading": "toke",
+    "code": "cr-jou1-406",
+    "index": 406
+  },
+  {
+    "surface": "もん",
+    "reading": "mon",
+    "code": "cr-jou1-407",
+    "index": 407
+  },
+  {
+    "surface": "まき",
+    "reading": "maki",
+    "code": "cr-jou1-408",
+    "index": 408
+  },
+  {
+    "surface": "ぱちんこ",
+    "reading": "pachinko",
+    "code": "cr-jou1-409",
+    "index": 409
+  },
+  {
+    "surface": "しとる",
+    "reading": "shitoru",
+    "code": "cr-jou1-410",
+    "index": 410
+  },
+  {
+    "surface": "のし",
+    "reading": "noshi",
+    "code": "cr-jou1-411",
+    "index": 411
+  },
+  {
+    "surface": "くろう",
+    "reading": "kurou",
+    "code": "cr-jou1-412",
+    "index": 412
+  },
+  {
+    "surface": "あたい",
+    "reading": "atai",
+    "code": "cr-jou1-413",
+    "index": 413
+  },
+  {
+    "surface": "ひらか",
+    "reading": "hiraka",
+    "code": "cr-jou1-414",
+    "index": 414
+  },
+  {
+    "surface": "ずばり",
+    "reading": "zubari",
+    "code": "cr-jou1-415",
+    "index": 415
+  },
+  {
+    "surface": "べったり",
+    "reading": "bettari",
+    "code": "cr-jou1-416",
+    "index": 416
+  },
+  {
+    "surface": "ほじり",
+    "reading": "hojiri",
+    "code": "cr-jou1-417",
+    "index": 417
+  },
+  {
+    "surface": "ごたごた",
+    "reading": "gotagota",
+    "code": "cr-jou1-418",
+    "index": 418
+  },
+  {
+    "surface": "べろ",
+    "reading": "bero",
+    "code": "cr-jou1-419",
+    "index": 419
+  },
+  {
+    "surface": "せんせい",
+    "reading": "sensei",
+    "code": "cr-jou1-420",
+    "index": 420
+  },
+  {
+    "surface": "かこつけ",
+    "reading": "kakotsuke",
+    "code": "cr-jou1-421",
+    "index": 421
+  },
+  {
+    "surface": "ねた",
+    "reading": "neta",
+    "code": "cr-jou1-422",
+    "index": 422
+  },
+  {
+    "surface": "げんなり",
+    "reading": "gennari",
+    "code": "cr-jou1-423",
+    "index": 423
+  },
+  {
+    "surface": "かんな",
+    "reading": "kanna",
+    "code": "cr-jou1-424",
+    "index": 424
+  },
+  {
+    "surface": "のけ",
+    "reading": "noke",
+    "code": "cr-jou1-425",
+    "index": 425
+  },
+  {
+    "surface": "かねこ",
+    "reading": "kaneko",
+    "code": "cr-jou1-426",
+    "index": 426
+  },
+  {
+    "surface": "ひねる",
+    "reading": "hineru",
+    "code": "cr-jou1-427",
+    "index": 427
+  },
+  {
+    "surface": "きくらげ",
+    "reading": "kikurage",
+    "code": "cr-jou1-428",
+    "index": 428
+  },
+  {
+    "surface": "ながい",
+    "reading": "nagai",
+    "code": "cr-jou1-429",
+    "index": 429
+  },
+  {
+    "surface": "どもり",
+    "reading": "domori",
+    "code": "cr-jou1-430",
+    "index": 430
+  },
+  {
+    "surface": "たわみ",
+    "reading": "tawami",
+    "code": "cr-jou1-431",
+    "index": 431
+  },
+  {
+    "surface": "どき",
+    "reading": "doki",
+    "code": "cr-jou1-432",
+    "index": 432
+  },
+  {
+    "surface": "につき",
+    "reading": "nitsuki",
+    "code": "cr-jou1-433",
+    "index": 433
+  },
+  {
+    "surface": "なれ",
+    "reading": "nare",
+    "code": "cr-jou1-434",
+    "index": 434
+  },
+  {
+    "surface": "つど",
+    "reading": "tsudo",
+    "code": "cr-jou1-435",
+    "index": 435
+  },
+  {
+    "surface": "もろみ",
+    "reading": "moromi",
+    "code": "cr-jou1-436",
+    "index": 436
+  },
+  {
+    "surface": "はねる",
+    "reading": "haneru",
+    "code": "cr-jou1-437",
+    "index": 437
+  },
+  {
+    "surface": "ちょろ",
+    "reading": "choro",
+    "code": "cr-jou1-438",
+    "index": 438
+  },
+  {
+    "surface": "ざわめき",
+    "reading": "zawameki",
+    "code": "cr-jou1-439",
+    "index": 439
+  },
+  {
+    "surface": "なぐる",
+    "reading": "naguru",
+    "code": "cr-jou1-440",
+    "index": 440
+  },
+  {
+    "surface": "ふわり",
+    "reading": "fuwari",
+    "code": "cr-jou1-441",
+    "index": 441
+  },
+  {
+    "surface": "っきり",
+    "reading": "kkiri",
+    "code": "cr-jou1-442",
+    "index": 442
+  },
+  {
+    "surface": "まさみ",
+    "reading": "masami",
+    "code": "cr-jou1-443",
+    "index": 443
+  },
+  {
+    "surface": "ぐら",
+    "reading": "gura",
+    "code": "cr-jou1-444",
+    "index": 444
+  },
+  {
+    "surface": "あずけ",
+    "reading": "azuke",
+    "code": "cr-jou1-445",
+    "index": 445
+  },
+  {
+    "surface": "かなめ",
+    "reading": "kaname",
+    "code": "cr-jou1-446",
+    "index": 446
+  },
+  {
+    "surface": "ほんで",
+    "reading": "honde",
+    "code": "cr-jou1-447",
+    "index": 447
+  },
+  {
+    "surface": "はなす",
+    "reading": "hanasu",
+    "code": "cr-jou1-448",
+    "index": 448
+  },
+  {
+    "surface": "ちらほら",
+    "reading": "chirahora",
+    "code": "cr-jou1-449",
+    "index": 449
+  },
+  {
+    "surface": "わたっ",
+    "reading": "wata",
+    "code": "cr-jou1-450",
+    "index": 450
+  },
+  {
+    "surface": "しだい",
+    "reading": "shidai",
+    "code": "cr-jou1-451",
+    "index": 451
+  },
+  {
+    "surface": "ばら",
+    "reading": "bara",
+    "code": "cr-jou1-452",
+    "index": 452
+  },
+  {
+    "surface": "しから",
+    "reading": "shikara",
+    "code": "cr-jou1-453",
+    "index": 453
+  },
+  {
+    "surface": "がっちり",
+    "reading": "gatchiri",
+    "code": "cr-jou1-454",
+    "index": 454
+  },
+  {
+    "surface": "まゆこ",
+    "reading": "mayuko",
+    "code": "cr-jou1-455",
+    "index": 455
+  },
+  {
+    "surface": "かこい",
+    "reading": "kakoi",
+    "code": "cr-jou1-456",
+    "index": 456
+  },
+  {
+    "surface": "かし",
+    "reading": "kashi",
+    "code": "cr-jou1-457",
+    "index": 457
+  },
+  {
+    "surface": "あてがっ",
+    "reading": "atega",
+    "code": "cr-jou1-458",
+    "index": 458
+  },
+  {
+    "surface": "とおる",
+    "reading": "tooru",
+    "code": "cr-jou1-459",
+    "index": 459
+  },
+  {
+    "surface": "あつく",
+    "reading": "atsuku",
+    "code": "cr-jou1-460",
+    "index": 460
+  },
+  {
+    "surface": "なせ",
+    "reading": "nase",
+    "code": "cr-jou1-461",
+    "index": 461
+  },
+  {
+    "surface": "ぐう",
+    "reading": "guu",
+    "code": "cr-jou1-462",
+    "index": 462
+  },
+  {
+    "surface": "みろく",
+    "reading": "miroku",
+    "code": "cr-jou1-463",
+    "index": 463
+  },
+  {
+    "surface": "たまねぎ",
+    "reading": "tamanegi",
+    "code": "cr-jou1-464",
+    "index": 464
+  },
+  {
+    "surface": "うまみ",
+    "reading": "umami",
+    "code": "cr-jou1-465",
+    "index": 465
+  },
+  {
+    "surface": "とまら",
+    "reading": "tomara",
+    "code": "cr-jou1-466",
+    "index": 466
+  },
+  {
+    "surface": "くっきり",
+    "reading": "kukkiri",
+    "code": "cr-jou1-467",
+    "index": 467
+  },
+  {
+    "surface": "はしゃぎ",
+    "reading": "hashagi",
+    "code": "cr-jou1-468",
+    "index": 468
+  },
+  {
+    "surface": "すごかっ",
+    "reading": "sugoka",
+    "code": "cr-jou1-469",
+    "index": 469
+  },
+  {
+    "surface": "いする",
+    "reading": "isuru",
+    "code": "cr-jou1-470",
+    "index": 470
+  },
+  {
+    "surface": "わらしべ",
+    "reading": "warashibe",
+    "code": "cr-jou1-471",
+    "index": 471
+  },
+  {
+    "surface": "てっぺん",
+    "reading": "teppen",
+    "code": "cr-jou1-472",
+    "index": 472
+  },
+  {
+    "surface": "しかるに",
+    "reading": "shikaruni",
+    "code": "cr-jou1-473",
+    "index": 473
+  },
+  {
+    "surface": "たいよう",
+    "reading": "taiyou",
+    "code": "cr-jou1-474",
+    "index": 474
+  },
+  {
+    "surface": "ぱっくり",
+    "reading": "pakkuri",
+    "code": "cr-jou1-475",
+    "index": 475
+  },
+  {
+    "surface": "むらむら",
+    "reading": "muramura",
+    "code": "cr-jou1-476",
+    "index": 476
+  },
+  {
+    "surface": "ひっぱる",
+    "reading": "hipparu",
+    "code": "cr-jou1-477",
+    "index": 477
+  },
+  {
+    "surface": "かしく",
+    "reading": "kashiku",
+    "code": "cr-jou1-478",
+    "index": 478
+  },
+  {
+    "surface": "はみだし",
+    "reading": "hamidashi",
+    "code": "cr-jou1-479",
+    "index": 479
+  },
+  {
+    "surface": "うずくまっ",
+    "reading": "uzukuma",
+    "code": "cr-jou1-480",
+    "index": 480
+  },
+  {
+    "surface": "おむつ",
+    "reading": "omutsu",
+    "code": "cr-jou1-481",
+    "index": 481
+  },
+  {
+    "surface": "げろ",
+    "reading": "gero",
+    "code": "cr-jou1-482",
+    "index": 482
+  },
+  {
+    "surface": "たたむ",
+    "reading": "tatamu",
+    "code": "cr-jou1-483",
+    "index": 483
+  },
+  {
+    "surface": "ひらき",
+    "reading": "hiraki",
+    "code": "cr-jou1-484",
+    "index": 484
+  },
+  {
+    "surface": "わらわ",
+    "reading": "warawa",
+    "code": "cr-jou1-485",
+    "index": 485
+  },
+  {
+    "surface": "はかま",
+    "reading": "hakama",
+    "code": "cr-jou1-486",
+    "index": 486
+  },
+  {
+    "surface": "かから",
+    "reading": "kakara",
+    "code": "cr-jou1-487",
+    "index": 487
+  },
+  {
+    "surface": "とどろき",
+    "reading": "todoroki",
+    "code": "cr-jou1-488",
+    "index": 488
+  },
+  {
+    "surface": "さかな",
+    "reading": "sakana",
+    "code": "cr-jou1-489",
+    "index": 489
+  },
+  {
+    "surface": "やせる",
+    "reading": "yaseru",
+    "code": "cr-jou1-490",
+    "index": 490
+  },
+  {
+    "surface": "ずっしり",
+    "reading": "zusshiri",
+    "code": "cr-jou1-491",
+    "index": 491
+  },
+  {
+    "surface": "まげ",
+    "reading": "mage",
+    "code": "cr-jou1-492",
+    "index": 492
+  },
+  {
+    "surface": "のりこえ",
+    "reading": "norikoe",
+    "code": "cr-jou1-493",
+    "index": 493
+  },
+  {
+    "surface": "かまけ",
+    "reading": "kamake",
+    "code": "cr-jou1-494",
+    "index": 494
+  },
+  {
+    "surface": "やまと",
+    "reading": "yamato",
+    "code": "cr-jou1-495",
+    "index": 495
+  },
+  {
+    "surface": "ちぎれ",
+    "reading": "chigire",
+    "code": "cr-jou1-496",
+    "index": 496
+  },
+  {
+    "surface": "もち",
+    "reading": "mochi",
+    "code": "cr-jou1-497",
+    "index": 497
+  },
+  {
+    "surface": "うずまき",
+    "reading": "uzumaki",
+    "code": "cr-jou1-498",
+    "index": 498
+  },
+  {
+    "surface": "なまこ",
+    "reading": "namako",
+    "code": "cr-jou1-499",
+    "index": 499
+  },
+  {
+    "surface": "めがね",
+    "reading": "megane",
+    "code": "cr-jou1-500",
+    "index": 500
+  },
+  {
+    "surface": "かとう",
+    "reading": "katou",
+    "code": "cr-jou1-501",
+    "index": 501
+  },
+  {
+    "surface": "ふっかつ",
+    "reading": "fukkatsu",
+    "code": "cr-jou1-502",
+    "index": 502
+  },
+  {
+    "surface": "わっぱ",
+    "reading": "wappa",
+    "code": "cr-jou1-503",
+    "index": 503
+  },
+  {
+    "surface": "さす",
+    "reading": "sasu",
+    "code": "cr-jou1-504",
+    "index": 504
+  },
+  {
+    "surface": "まっとう",
+    "reading": "mattou",
+    "code": "cr-jou1-505",
+    "index": 505
+  },
+  {
+    "surface": "さや",
+    "reading": "saya",
+    "code": "cr-jou1-506",
+    "index": 506
+  },
+  {
+    "surface": "せいこう",
+    "reading": "seikou",
+    "code": "cr-jou1-507",
+    "index": 507
+  },
+  {
+    "surface": "しのぐ",
+    "reading": "shinogu",
+    "code": "cr-jou1-508",
+    "index": 508
+  },
+  {
+    "surface": "とかく",
+    "reading": "tokaku",
+    "code": "cr-jou1-509",
+    "index": 509
+  },
+  {
+    "surface": "しする",
+    "reading": "shisuru",
+    "code": "cr-jou1-510",
+    "index": 510
+  },
+  {
+    "surface": "おちゃらけ",
+    "reading": "ocharake",
+    "code": "cr-jou1-511",
+    "index": 511
+  },
+  {
+    "surface": "すする",
+    "reading": "susuru",
+    "code": "cr-jou1-512",
+    "index": 512
+  },
+  {
+    "surface": "くもん",
+    "reading": "kumon",
+    "code": "cr-jou1-513",
+    "index": 513
+  },
+  {
+    "surface": "かきたて",
+    "reading": "kakitate",
+    "code": "cr-jou1-514",
+    "index": 514
+  },
+  {
+    "surface": "あがき",
+    "reading": "agaki",
+    "code": "cr-jou1-515",
+    "index": 515
+  },
+  {
+    "surface": "ひこ",
+    "reading": "hiko",
+    "code": "cr-jou1-516",
+    "index": 516
+  },
+  {
+    "surface": "ぴょんと",
+    "reading": "pyonto",
+    "code": "cr-jou1-517",
+    "index": 517
+  },
+  {
+    "surface": "ぼう",
+    "reading": "bou",
+    "code": "cr-jou1-518",
+    "index": 518
+  },
+  {
+    "surface": "わすれ",
+    "reading": "wasure",
+    "code": "cr-jou1-519",
+    "index": 519
+  },
+  {
+    "surface": "ふらり",
+    "reading": "furari",
+    "code": "cr-jou1-520",
+    "index": 520
+  },
+  {
+    "surface": "こえる",
+    "reading": "koeru",
+    "code": "cr-jou1-521",
+    "index": 521
+  },
+  {
+    "surface": "いらっ",
+    "reading": "ira",
+    "code": "cr-jou1-522",
+    "index": 522
+  },
+  {
+    "surface": "ずらさ",
+    "reading": "zurasa",
+    "code": "cr-jou1-523",
+    "index": 523
+  },
+  {
+    "surface": "みかけ",
+    "reading": "mikake",
+    "code": "cr-jou1-524",
+    "index": 524
+  },
+  {
+    "surface": "くっつけ",
+    "reading": "kuttsuke",
+    "code": "cr-jou1-525",
+    "index": 525
+  },
+  {
+    "surface": "くりかえし",
+    "reading": "kurikaeshi",
+    "code": "cr-jou1-526",
+    "index": 526
+  },
+  {
+    "surface": "ふっくら",
+    "reading": "fukkura",
+    "code": "cr-jou1-527",
+    "index": 527
+  },
+  {
+    "surface": "こっそり",
+    "reading": "kossori",
+    "code": "cr-jou1-528",
+    "index": 528
+  },
+  {
+    "surface": "どかし",
+    "reading": "dokashi",
+    "code": "cr-jou1-529",
+    "index": 529
+  },
+  {
+    "surface": "しかけ",
+    "reading": "shikake",
+    "code": "cr-jou1-530",
+    "index": 530
+  },
+  {
+    "surface": "だろ",
+    "reading": "daro",
+    "code": "cr-jou1-531",
+    "index": 531
+  },
+  {
+    "surface": "しらべ",
+    "reading": "shirabe",
+    "code": "cr-jou1-532",
+    "index": 532
+  },
+  {
+    "surface": "あたたか",
+    "reading": "atataka",
+    "code": "cr-jou1-533",
+    "index": 533
+  },
+  {
+    "surface": "もろ",
+    "reading": "moro",
+    "code": "cr-jou1-534",
+    "index": 534
+  },
+  {
+    "surface": "くせ",
+    "reading": "kuse",
+    "code": "cr-jou1-535",
+    "index": 535
+  },
+  {
+    "surface": "とんこつ",
+    "reading": "tonkotsu",
+    "code": "cr-jou1-536",
+    "index": 536
+  },
+  {
+    "surface": "ひろしま",
+    "reading": "hiroshima",
+    "code": "cr-jou1-537",
+    "index": 537
+  },
+  {
+    "surface": "せっかち",
+    "reading": "sekkachi",
+    "code": "cr-jou1-538",
+    "index": 538
+  },
+  {
+    "surface": "かえら",
+    "reading": "kaera",
+    "code": "cr-jou1-539",
+    "index": 539
+  },
+  {
+    "surface": "べから",
+    "reading": "bekara",
+    "code": "cr-jou1-540",
+    "index": 540
+  },
+  {
+    "surface": "しり",
+    "reading": "shiri",
+    "code": "cr-jou1-541",
+    "index": 541
+  },
+  {
+    "surface": "にわたって",
+    "reading": "niwatatte",
+    "code": "cr-jou1-542",
+    "index": 542
+  },
+  {
+    "surface": "いとう",
+    "reading": "itou",
+    "code": "cr-jou1-543",
+    "index": 543
+  },
+  {
+    "surface": "とめよ",
+    "reading": "tomeyo",
+    "code": "cr-jou1-544",
+    "index": 544
+  },
+  {
+    "surface": "おどろき",
+    "reading": "odoroki",
+    "code": "cr-jou1-545",
+    "index": 545
+  },
+  {
+    "surface": "こたえる",
+    "reading": "kotaeru",
+    "code": "cr-jou1-546",
+    "index": 546
+  },
+  {
+    "surface": "らっぱ",
+    "reading": "rappa",
+    "code": "cr-jou1-547",
+    "index": 547
+  },
+  {
+    "surface": "ことさら",
+    "reading": "kotosara",
+    "code": "cr-jou1-548",
+    "index": 548
+  },
+  {
+    "surface": "もずく",
+    "reading": "mozuku",
+    "code": "cr-jou1-549",
+    "index": 549
+  },
+  {
+    "surface": "えびの",
+    "reading": "ebino",
+    "code": "cr-jou1-550",
+    "index": 550
+  },
+  {
+    "surface": "めっちゃ",
+    "reading": "metcha",
+    "code": "cr-jou1-551",
+    "index": 551
+  },
+  {
+    "surface": "はたき",
+    "reading": "hataki",
+    "code": "cr-jou1-552",
+    "index": 552
+  },
+  {
+    "surface": "やら",
+    "reading": "yara",
+    "code": "cr-jou1-553",
+    "index": 553
+  },
+  {
+    "surface": "なを",
+    "reading": "nawo",
+    "code": "cr-jou1-554",
+    "index": 554
+  },
+  {
+    "surface": "しとら",
+    "reading": "shitora",
+    "code": "cr-jou1-555",
+    "index": 555
+  },
+  {
+    "surface": "ぐり",
+    "reading": "guri",
+    "code": "cr-jou1-556",
+    "index": 556
+  },
+  {
+    "surface": "つん",
+    "reading": "tsun",
+    "code": "cr-jou1-557",
+    "index": 557
+  },
+  {
+    "surface": "もくろん",
+    "reading": "mokuron",
+    "code": "cr-jou1-558",
+    "index": 558
+  },
+  {
+    "surface": "ささげ",
+    "reading": "sasage",
+    "code": "cr-jou1-559",
+    "index": 559
+  },
+  {
+    "surface": "えぐっ",
+    "reading": "egu",
+    "code": "cr-jou1-560",
+    "index": 560
+  },
+  {
+    "surface": "しの",
+    "reading": "shino",
+    "code": "cr-jou1-561",
+    "index": 561
+  },
+  {
+    "surface": "のせ",
+    "reading": "nose",
+    "code": "cr-jou1-562",
+    "index": 562
+  },
+  {
+    "surface": "おしゃ",
+    "reading": "osha",
+    "code": "cr-jou1-563",
+    "index": 563
+  },
+  {
+    "surface": "ぱれっと",
+    "reading": "pallet",
+    "code": "cr-jou1-564",
+    "index": 564
+  },
+  {
+    "surface": "ぐるり",
+    "reading": "gururi",
+    "code": "cr-jou1-565",
+    "index": 565
+  },
+  {
+    "surface": "ひっぱり",
+    "reading": "hippari",
+    "code": "cr-jou1-566",
+    "index": 566
+  },
+  {
+    "surface": "かかえ",
+    "reading": "kakae",
+    "code": "cr-jou1-567",
+    "index": 567
+  },
+  {
+    "surface": "ってな",
+    "reading": "ttena",
+    "code": "cr-jou1-568",
+    "index": 568
+  },
+  {
+    "surface": "ひえ",
+    "reading": "hie",
+    "code": "cr-jou1-569",
+    "index": 569
+  },
+  {
+    "surface": "しつこく",
+    "reading": "shitsukoku",
+    "code": "cr-jou1-570",
+    "index": 570
+  },
+  {
+    "surface": "うたい",
+    "reading": "utai",
+    "code": "cr-jou1-571",
+    "index": 571
+  },
+  {
+    "surface": "にじむ",
+    "reading": "nijimu",
+    "code": "cr-jou1-572",
+    "index": 572
+  },
+  {
+    "surface": "まちなか",
+    "reading": "machinaka",
+    "code": "cr-jou1-573",
+    "index": 573
+  },
+  {
+    "surface": "はがす",
+    "reading": "hagasu",
+    "code": "cr-jou1-574",
+    "index": 574
+  },
+  {
+    "surface": "すれ",
+    "reading": "sure",
+    "code": "cr-jou1-575",
+    "index": 575
+  },
+  {
+    "surface": "ぎりぎり",
+    "reading": "girigiri",
+    "code": "cr-jou1-576",
+    "index": 576
+  },
+  {
+    "surface": "やける",
+    "reading": "yakeru",
+    "code": "cr-jou1-577",
+    "index": 577
+  },
+  {
+    "surface": "でかし",
+    "reading": "dekashi",
+    "code": "cr-jou1-578",
+    "index": 578
+  },
+  {
+    "surface": "とべ",
+    "reading": "tobe",
+    "code": "cr-jou1-579",
+    "index": 579
+  },
+  {
+    "surface": "まんぷく",
+    "reading": "manpuku",
+    "code": "cr-jou1-580",
+    "index": 580
+  },
+  {
+    "surface": "なつい",
+    "reading": "natsui",
+    "code": "cr-jou1-581",
+    "index": 581
+  },
+  {
+    "surface": "ぴたっと",
+    "reading": "pitatto",
+    "code": "cr-jou1-582",
+    "index": 582
+  },
+  {
+    "surface": "かりあげ",
+    "reading": "kariage",
+    "code": "cr-jou1-583",
+    "index": 583
+  },
+  {
+    "surface": "ひねくれ",
+    "reading": "hinekure",
+    "code": "cr-jou1-584",
+    "index": 584
+  },
+  {
+    "surface": "ぶよぶよ",
+    "reading": "buyobuyo",
+    "code": "cr-jou1-585",
+    "index": 585
+  },
+  {
+    "surface": "うかがう",
+    "reading": "ukagau",
+    "code": "cr-jou1-586",
+    "index": 586
+  },
+  {
+    "surface": "いたずらに",
+    "reading": "itazurani",
+    "code": "cr-jou1-587",
+    "index": 587
+  },
+  {
+    "surface": "びっしょり",
+    "reading": "bisshori",
+    "code": "cr-jou1-588",
+    "index": 588
+  },
+  {
+    "surface": "きょろきょろ",
+    "reading": "kyorokyoro",
+    "code": "cr-jou1-589",
+    "index": 589
+  },
+  {
+    "surface": "そく",
+    "reading": "soku",
+    "code": "cr-jou1-590",
+    "index": 590
+  },
+  {
+    "surface": "すこぶる",
+    "reading": "sukoburu",
+    "code": "cr-jou1-591",
+    "index": 591
+  },
+  {
+    "surface": "ずん",
+    "reading": "zun",
+    "code": "cr-jou1-592",
+    "index": 592
+  },
+  {
+    "surface": "あつい",
+    "reading": "atsui",
+    "code": "cr-jou1-593",
+    "index": 593
+  },
+  {
+    "surface": "みつば",
+    "reading": "mitsuba",
+    "code": "cr-jou1-594",
+    "index": 594
+  },
+  {
+    "surface": "わさび",
+    "reading": "wasabi",
+    "code": "cr-jou1-595",
+    "index": 595
+  },
+  {
+    "surface": "すめ",
+    "reading": "sume",
+    "code": "cr-jou1-596",
+    "index": 596
+  },
+  {
+    "surface": "しなび",
+    "reading": "shinabi",
+    "code": "cr-jou1-597",
+    "index": 597
+  },
+  {
+    "surface": "あいた",
+    "reading": "aita",
+    "code": "cr-jou1-598",
+    "index": 598
+  },
+  {
+    "surface": "はがれ",
+    "reading": "hagare",
+    "code": "cr-jou1-599",
+    "index": 599
+  },
+  {
+    "surface": "べっぴん",
+    "reading": "beppin",
+    "code": "cr-jou1-600",
+    "index": 600
+  },
+  {
+    "surface": "とんがり",
+    "reading": "tongari",
+    "code": "cr-jou1-601",
+    "index": 601
+  },
+  {
+    "surface": "かいり",
+    "reading": "kairi",
+    "code": "cr-jou1-602",
+    "index": 602
+  },
+  {
+    "surface": "しじま",
+    "reading": "shijima",
+    "code": "cr-jou1-603",
+    "index": 603
+  },
+  {
+    "surface": "ひらつか",
+    "reading": "hiratsuka",
+    "code": "cr-jou1-604",
+    "index": 604
+  },
+  {
+    "surface": "からには",
+    "reading": "karaniwa",
+    "code": "cr-jou1-605",
+    "index": 605
+  },
+  {
+    "surface": "やまや",
+    "reading": "yamaya",
+    "code": "cr-jou1-606",
+    "index": 606
+  },
+  {
+    "surface": "したっ",
+    "reading": "shita",
+    "code": "cr-jou1-607",
+    "index": 607
+  },
+  {
+    "surface": "はかどり",
+    "reading": "hakadori",
+    "code": "cr-jou1-608",
+    "index": 608
+  },
+  {
+    "surface": "しょうじ",
+    "reading": "shouji",
+    "code": "cr-jou1-609",
+    "index": 609
+  },
+  {
+    "surface": "くらまし",
+    "reading": "kuramashi",
+    "code": "cr-jou1-610",
+    "index": 610
+  },
+  {
+    "surface": "きせ",
+    "reading": "kise",
+    "code": "cr-jou1-611",
+    "index": 611
+  },
+  {
+    "surface": "きしん",
+    "reading": "kishin",
+    "code": "cr-jou1-612",
+    "index": 612
+  },
+  {
+    "surface": "かたわら",
+    "reading": "katawara",
+    "code": "cr-jou1-613",
+    "index": 613
+  },
+  {
+    "surface": "めぐみ",
+    "reading": "megumi",
+    "code": "cr-jou1-614",
+    "index": 614
+  },
+  {
+    "surface": "あつかい",
+    "reading": "atsukai",
+    "code": "cr-jou1-615",
+    "index": 615
+  },
+  {
+    "surface": "くださっ",
+    "reading": "kudasa",
+    "code": "cr-jou1-616",
+    "index": 616
+  },
+  {
+    "surface": "てんこもり",
+    "reading": "tenkomori",
+    "code": "cr-jou1-617",
+    "index": 617
+  },
+  {
+    "surface": "まさき",
+    "reading": "masaki",
+    "code": "cr-jou1-618",
+    "index": 618
+  },
+  {
+    "surface": "ろう",
+    "reading": "rou",
+    "code": "cr-jou1-619",
+    "index": 619
+  },
+  {
+    "surface": "ぐす",
+    "reading": "gusu",
+    "code": "cr-jou1-620",
+    "index": 620
+  },
+  {
+    "surface": "ゃべくり",
+    "reading": "bekuri",
+    "code": "cr-jou1-621",
+    "index": 621
+  },
+  {
+    "surface": "しつこい",
+    "reading": "shitsukoi",
+    "code": "cr-jou1-622",
+    "index": 622
+  },
+  {
+    "surface": "あずま",
+    "reading": "azuma",
+    "code": "cr-jou1-623",
+    "index": 623
+  },
+  {
+    "surface": "ょこたん",
+    "reading": "kotan",
+    "code": "cr-jou1-624",
+    "index": 624
+  },
+  {
+    "surface": "わめき",
+    "reading": "wameki",
+    "code": "cr-jou1-625",
+    "index": 625
+  },
+  {
+    "surface": "どんぐり",
+    "reading": "donguri",
+    "code": "cr-jou1-626",
+    "index": 626
+  },
+  {
+    "surface": "かげろう",
+    "reading": "kagerou",
+    "code": "cr-jou1-627",
+    "index": 627
+  },
+  {
+    "surface": "まばら",
+    "reading": "mabara",
+    "code": "cr-jou1-628",
+    "index": 628
+  },
+  {
+    "surface": "くださら",
+    "reading": "kudasara",
+    "code": "cr-jou1-629",
+    "index": 629
+  },
+  {
+    "surface": "しきりに",
+    "reading": "shikirini",
+    "code": "cr-jou1-630",
+    "index": 630
+  },
+  {
+    "surface": "せめぎ",
+    "reading": "semegi",
+    "code": "cr-jou1-631",
+    "index": 631
+  },
+  {
+    "surface": "まどろみ",
+    "reading": "madoromi",
+    "code": "cr-jou1-632",
+    "index": 632
+  },
+  {
+    "surface": "がれき",
+    "reading": "gareki",
+    "code": "cr-jou1-633",
+    "index": 633
+  },
+  {
+    "surface": "ちと",
+    "reading": "chito",
+    "code": "cr-jou1-634",
+    "index": 634
+  },
+  {
+    "surface": "をめぐって",
+    "reading": "womegutte",
+    "code": "cr-jou1-635",
+    "index": 635
+  },
+  {
+    "surface": "ぐみ",
+    "reading": "gumi",
+    "code": "cr-jou1-636",
+    "index": 636
+  },
+  {
+    "surface": "けじめ",
+    "reading": "kejime",
+    "code": "cr-jou1-637",
+    "index": 637
+  },
+  {
+    "surface": "ぶっとばす",
+    "reading": "buttobasu",
+    "code": "cr-jou1-638",
+    "index": 638
+  },
+  {
+    "surface": "したがっ",
+    "reading": "shitaga",
+    "code": "cr-jou1-639",
+    "index": 639
+  },
+  {
+    "surface": "とろ",
+    "reading": "toro",
+    "code": "cr-jou1-640",
+    "index": 640
+  },
+  {
+    "surface": "なさっ",
+    "reading": "nasa",
+    "code": "cr-jou1-641",
+    "index": 641
+  },
+  {
+    "surface": "えぐい",
+    "reading": "egui",
+    "code": "cr-jou1-642",
+    "index": 642
+  },
+  {
+    "surface": "うっとり",
+    "reading": "uttori",
+    "code": "cr-jou1-643",
+    "index": 643
+  },
+  {
+    "surface": "おなじく",
+    "reading": "onajiku",
+    "code": "cr-jou1-644",
+    "index": 644
+  },
+  {
+    "surface": "しく",
+    "reading": "shiku",
+    "code": "cr-jou1-645",
+    "index": 645
+  },
+  {
+    "surface": "でかかっ",
+    "reading": "dekaka",
+    "code": "cr-jou1-646",
+    "index": 646
+  },
+  {
+    "surface": "せよ",
+    "reading": "seyo",
+    "code": "cr-jou1-647",
+    "index": 647
+  },
+  {
+    "surface": "いろは",
+    "reading": "iroha",
+    "code": "cr-jou1-648",
+    "index": 648
+  },
+  {
+    "surface": "がき",
+    "reading": "gaki",
+    "code": "cr-jou1-649",
+    "index": 649
+  },
+  {
+    "surface": "せいこ",
+    "reading": "seiko",
+    "code": "cr-jou1-650",
+    "index": 650
+  },
+  {
+    "surface": "せっ",
+    "reading": "se",
+    "code": "cr-jou1-651",
+    "index": 651
+  },
+  {
+    "surface": "つけこん",
+    "reading": "tsukekon",
+    "code": "cr-jou1-652",
+    "index": 652
+  },
+  {
+    "surface": "あたしゃ",
+    "reading": "atasha",
+    "code": "cr-jou1-653",
+    "index": 653
+  },
+  {
+    "surface": "てらっ",
+    "reading": "tera",
+    "code": "cr-jou1-654",
+    "index": 654
+  },
+  {
+    "surface": "ひよ",
+    "reading": "hiyo",
+    "code": "cr-jou1-655",
+    "index": 655
+  },
+  {
+    "surface": "すえ",
+    "reading": "sue",
+    "code": "cr-jou1-656",
+    "index": 656
+  },
+  {
+    "surface": "ひゃー",
+    "reading": "hyaa",
+    "code": "cr-jou1-657",
+    "index": 657
+  },
+  {
+    "surface": "しけ",
+    "reading": "shike",
+    "code": "cr-jou1-658",
+    "index": 658
+  },
+  {
+    "surface": "さわし",
+    "reading": "sawashi",
+    "code": "cr-jou1-659",
+    "index": 659
+  },
+  {
+    "surface": "すご",
+    "reading": "sugo",
+    "code": "cr-jou1-660",
+    "index": 660
+  },
+  {
+    "surface": "じゅんいち",
+    "reading": "junichi",
+    "code": "cr-jou1-661",
+    "index": 661
+  },
+  {
+    "surface": "ごっちゃ",
+    "reading": "gotcha",
+    "code": "cr-jou1-662",
+    "index": 662
+  },
+  {
+    "surface": "よこしま",
+    "reading": "yokoshima",
+    "code": "cr-jou1-663",
+    "index": 663
+  },
+  {
+    "surface": "ともう",
+    "reading": "tomou",
+    "code": "cr-jou1-664",
+    "index": 664
+  },
+  {
+    "surface": "かた",
+    "reading": "kata",
+    "code": "cr-jou1-665",
+    "index": 665
+  },
+  {
+    "surface": "けなげ",
+    "reading": "kenage",
+    "code": "cr-jou1-666",
+    "index": 666
+  },
+  {
+    "surface": "ひらた",
+    "reading": "hirata",
+    "code": "cr-jou1-667",
+    "index": 667
+  },
+  {
+    "surface": "ちさ",
+    "reading": "chisa",
+    "code": "cr-jou1-668",
+    "index": 668
+  },
+  {
+    "surface": "ふつー",
+    "reading": "futsu",
+    "code": "cr-jou1-669",
+    "index": 669
+  },
+  {
+    "surface": "たろ",
+    "reading": "taro",
+    "code": "cr-jou1-670",
+    "index": 670
+  },
+  {
+    "surface": "へこむ",
+    "reading": "hekomu",
+    "code": "cr-jou1-671",
+    "index": 671
+  },
+  {
+    "surface": "ちぎり",
+    "reading": "chigiri",
+    "code": "cr-jou1-672",
+    "index": 672
+  },
+  {
+    "surface": "くらげ",
+    "reading": "kurage",
+    "code": "cr-jou1-673",
+    "index": 673
+  },
+  {
+    "surface": "あつ",
+    "reading": "atsu",
+    "code": "cr-jou1-674",
+    "index": 674
+  },
+  {
+    "surface": "さまよう",
+    "reading": "samayou",
+    "code": "cr-jou1-675",
+    "index": 675
+  },
+  {
+    "surface": "かれい",
+    "reading": "karei",
+    "code": "cr-jou1-676",
+    "index": 676
+  },
+  {
+    "surface": "ぎさ",
+    "reading": "gisa",
+    "code": "cr-jou1-677",
+    "index": 677
+  },
+  {
+    "surface": "ぐいっと",
+    "reading": "guitto",
+    "code": "cr-jou1-678",
+    "index": 678
+  },
+  {
+    "surface": "ぼうし",
+    "reading": "boushi",
+    "code": "cr-jou1-679",
+    "index": 679
+  },
+  {
+    "surface": "りよ",
+    "reading": "riyo",
+    "code": "cr-jou1-680",
+    "index": 680
+  },
+  {
+    "surface": "らしかっ",
+    "reading": "rashika",
+    "code": "cr-jou1-681",
+    "index": 681
+  },
+  {
+    "surface": "ぐろ",
+    "reading": "guro",
+    "code": "cr-jou1-682",
+    "index": 682
+  },
+  {
+    "surface": "くるみ",
+    "reading": "kurumi",
+    "code": "cr-jou1-683",
+    "index": 683
+  },
+  {
+    "surface": "いちじく",
+    "reading": "ichijiku",
+    "code": "cr-jou1-684",
+    "index": 684
+  },
+  {
+    "surface": "せめ",
+    "reading": "seme",
+    "code": "cr-jou1-685",
+    "index": 685
+  },
+  {
+    "surface": "あずかり",
+    "reading": "azukari",
+    "code": "cr-jou1-686",
+    "index": 686
+  },
+  {
+    "surface": "ろうし",
+    "reading": "roushi",
+    "code": "cr-jou1-687",
+    "index": 687
+  },
+  {
+    "surface": "さほど",
+    "reading": "sahodo",
+    "code": "cr-jou1-688",
+    "index": 688
+  },
+  {
+    "surface": "やつし",
+    "reading": "yatsushi",
+    "code": "cr-jou1-689",
+    "index": 689
+  },
+  {
+    "surface": "いちど",
+    "reading": "ichido",
+    "code": "cr-jou1-690",
+    "index": 690
+  },
+  {
+    "surface": "わかば",
+    "reading": "wakaba",
+    "code": "cr-jou1-691",
+    "index": 691
+  },
+  {
+    "surface": "かっと",
+    "reading": "katto",
+    "code": "cr-jou1-692",
+    "index": 692
+  },
+  {
+    "surface": "ふっと",
+    "reading": "futto",
+    "code": "cr-jou1-693",
+    "index": 693
+  },
+  {
+    "surface": "べっち",
+    "reading": "bechi",
+    "code": "cr-jou1-694",
+    "index": 694
+  },
+  {
+    "surface": "へそ",
+    "reading": "heso",
+    "code": "cr-jou1-695",
+    "index": 695
+  },
+  {
+    "surface": "っけ",
+    "reading": "kke",
+    "code": "cr-jou1-696",
+    "index": 696
+  },
+  {
+    "surface": "みせかけ",
+    "reading": "misekake",
+    "code": "cr-jou1-697",
+    "index": 697
+  },
+  {
+    "surface": "てら",
+    "reading": "tera",
+    "code": "cr-jou1-698",
+    "index": 698
+  },
+  {
+    "surface": "えれ",
+    "reading": "ere",
+    "code": "cr-jou1-699",
+    "index": 699
+  },
+  {
+    "surface": "まねき",
+    "reading": "maneki",
+    "code": "cr-jou1-700",
+    "index": 700
+  },
+  {
+    "surface": "かくして",
+    "reading": "kakushite",
+    "code": "cr-jou1-701",
+    "index": 701
+  },
+  {
+    "surface": "のぼっ",
+    "reading": "nobo",
+    "code": "cr-jou1-702",
+    "index": 702
+  },
+  {
+    "surface": "ことし",
+    "reading": "kotoshi",
+    "code": "cr-jou1-703",
+    "index": 703
+  },
+  {
+    "surface": "おこり",
+    "reading": "okori",
+    "code": "cr-jou1-704",
+    "index": 704
+  },
+  {
+    "surface": "てけ",
+    "reading": "teke",
+    "code": "cr-jou1-705",
+    "index": 705
+  },
+  {
+    "surface": "たしかに",
+    "reading": "tashikani",
+    "code": "cr-jou1-706",
+    "index": 706
+  },
+  {
+    "surface": "ふるえ",
+    "reading": "furue",
+    "code": "cr-jou1-707",
+    "index": 707
+  },
+  {
+    "surface": "ぐっ",
+    "reading": "gu",
+    "code": "cr-jou1-708",
+    "index": 708
+  },
+  {
+    "surface": "すがっ",
+    "reading": "suga",
+    "code": "cr-jou1-709",
+    "index": 709
+  },
+  {
+    "surface": "けなす",
+    "reading": "kenasu",
+    "code": "cr-jou1-710",
+    "index": 710
+  },
+  {
+    "surface": "すわっ",
+    "reading": "suwa",
+    "code": "cr-jou1-711",
+    "index": 711
+  },
+  {
+    "surface": "ひれ",
+    "reading": "hire",
+    "code": "cr-jou1-712",
+    "index": 712
+  },
+  {
+    "surface": "かちかち",
+    "reading": "kachikachi",
+    "code": "cr-jou1-713",
+    "index": 713
+  },
+  {
+    "surface": "くじら",
+    "reading": "kujira",
+    "code": "cr-jou1-714",
+    "index": 714
+  },
+  {
+    "surface": "ぬかし",
+    "reading": "nukashi",
+    "code": "cr-jou1-715",
+    "index": 715
+  },
+  {
+    "surface": "ずんぐり",
+    "reading": "zunguri",
+    "code": "cr-jou1-716",
+    "index": 716
+  },
+  {
+    "surface": "とこ",
+    "reading": "toko",
+    "code": "cr-jou1-717",
+    "index": 717
+  },
+  {
+    "surface": "とっく",
+    "reading": "tokku",
+    "code": "cr-jou1-718",
+    "index": 718
+  },
+  {
+    "surface": "しら",
+    "reading": "shira",
+    "code": "cr-jou1-719",
+    "index": 719
+  },
+  {
+    "surface": "ことわり",
+    "reading": "kotowari",
+    "code": "cr-jou1-720",
+    "index": 720
+  },
+  {
+    "surface": "ずんずん",
+    "reading": "zunzun",
+    "code": "cr-jou1-721",
+    "index": 721
+  },
+  {
+    "surface": "らっきょう",
+    "reading": "rakkyou",
+    "code": "cr-jou1-722",
+    "index": 722
+  },
+  {
+    "surface": "ねむれ",
+    "reading": "nemure",
+    "code": "cr-jou1-723",
+    "index": 723
+  },
+  {
+    "surface": "きけ",
+    "reading": "kike",
+    "code": "cr-jou1-724",
+    "index": 724
+  },
+  {
+    "surface": "くらます",
+    "reading": "kuramasu",
+    "code": "cr-jou1-725",
+    "index": 725
+  },
+  {
+    "surface": "ぐらぐら",
+    "reading": "guragura",
+    "code": "cr-jou1-726",
+    "index": 726
+  },
+  {
+    "surface": "ぼうっと",
+    "reading": "boutto",
+    "code": "cr-jou1-727",
+    "index": 727
+  },
+  {
+    "surface": "せっか",
+    "reading": "sekka",
+    "code": "cr-jou1-728",
+    "index": 728
+  },
+  {
+    "surface": "はらま",
+    "reading": "harama",
+    "code": "cr-jou1-729",
+    "index": 729
+  },
+  {
+    "surface": "すい",
+    "reading": "sui",
+    "code": "cr-jou1-730",
+    "index": 730
+  },
+  {
+    "surface": "あつかっ",
+    "reading": "atsuka",
+    "code": "cr-jou1-731",
+    "index": 731
+  },
+  {
+    "surface": "ひがし",
+    "reading": "higashi",
+    "code": "cr-jou1-732",
+    "index": 732
+  },
+  {
+    "surface": "べつに",
+    "reading": "betsuni",
+    "code": "cr-jou1-733",
+    "index": 733
+  },
+  {
+    "surface": "とりまく",
+    "reading": "torimaku",
+    "code": "cr-jou1-734",
+    "index": 734
+  },
+  {
+    "surface": "ゆるい",
+    "reading": "yurui",
+    "code": "cr-jou1-735",
+    "index": 735
+  },
+  {
+    "surface": "がせ",
+    "reading": "gase",
+    "code": "cr-jou1-736",
+    "index": 736
+  },
+  {
+    "surface": "のめり",
+    "reading": "nomeri",
+    "code": "cr-jou1-737",
+    "index": 737
+  },
+  {
+    "surface": "とぼけ",
+    "reading": "toboke",
+    "code": "cr-jou1-738",
+    "index": 738
+  },
+  {
+    "surface": "こそ",
+    "reading": "koso",
+    "code": "cr-jou1-739",
+    "index": 739
+  },
+  {
+    "surface": "てんぐ",
+    "reading": "tengu",
+    "code": "cr-jou1-740",
+    "index": 740
+  },
+  {
+    "surface": "ほどく",
+    "reading": "hodoku",
+    "code": "cr-jou1-741",
+    "index": 741
+  },
+  {
+    "surface": "だっこ",
+    "reading": "dakko",
+    "code": "cr-jou1-742",
+    "index": 742
+  },
+  {
+    "surface": "やすき",
+    "reading": "yasuki",
+    "code": "cr-jou1-743",
+    "index": 743
+  },
+  {
+    "surface": "あま",
+    "reading": "ama",
+    "code": "cr-jou1-744",
+    "index": 744
+  },
+  {
+    "surface": "ふくし",
+    "reading": "fukushi",
+    "code": "cr-jou1-745",
+    "index": 745
+  },
+  {
+    "surface": "ぬけ",
+    "reading": "nuke",
+    "code": "cr-jou1-746",
+    "index": 746
+  },
+  {
+    "surface": "でろ",
+    "reading": "dero",
+    "code": "cr-jou1-747",
+    "index": 747
+  },
+  {
+    "surface": "ちょく",
+    "reading": "choku",
+    "code": "cr-jou1-748",
+    "index": 748
+  },
+  {
+    "surface": "ぶっつけ",
+    "reading": "buttsuke",
+    "code": "cr-jou1-749",
+    "index": 749
+  },
+  {
+    "surface": "ごろごろ",
+    "reading": "gorogoro",
+    "code": "cr-jou1-750",
+    "index": 750
+  },
+  {
+    "surface": "みやま",
+    "reading": "miyama",
+    "code": "cr-jou1-751",
+    "index": 751
+  },
+  {
+    "surface": "なに",
+    "reading": "nani",
+    "code": "cr-jou1-752",
+    "index": 752
+  },
+  {
+    "surface": "おわり",
+    "reading": "owari",
+    "code": "cr-jou1-753",
+    "index": 753
+  },
+  {
+    "surface": "わたる",
+    "reading": "wataru",
+    "code": "cr-jou1-754",
+    "index": 754
+  },
+  {
+    "surface": "ねむ",
+    "reading": "nemu",
+    "code": "cr-jou1-755",
+    "index": 755
+  },
+  {
+    "surface": "とろけ",
+    "reading": "toroke",
+    "code": "cr-jou1-756",
+    "index": 756
+  },
+  {
+    "surface": "きわめて",
+    "reading": "kiwamete",
+    "code": "cr-jou1-757",
+    "index": 757
+  },
+  {
+    "surface": "つつ",
+    "reading": "tsutsu",
+    "code": "cr-jou1-758",
+    "index": 758
+  },
+  {
+    "surface": "みじん",
+    "reading": "mijin",
+    "code": "cr-jou1-759",
+    "index": 759
+  },
+  {
+    "surface": "づら",
+    "reading": "zura",
+    "code": "cr-jou1-760",
+    "index": 760
+  },
+  {
+    "surface": "わめく",
+    "reading": "wameku",
+    "code": "cr-jou1-761",
+    "index": 761
+  },
+  {
+    "surface": "うめき",
+    "reading": "umeki",
+    "code": "cr-jou1-762",
+    "index": 762
+  },
+  {
+    "surface": "だく",
+    "reading": "daku",
+    "code": "cr-jou1-763",
+    "index": 763
+  },
+  {
+    "surface": "まう",
+    "reading": "mau",
+    "code": "cr-jou1-764",
+    "index": 764
+  },
+  {
+    "surface": "なけれ",
+    "reading": "nakere",
+    "code": "cr-jou1-765",
+    "index": 765
+  },
+  {
+    "surface": "うまれ",
+    "reading": "umare",
+    "code": "cr-jou1-766",
+    "index": 766
+  },
+  {
+    "surface": "こなさ",
+    "reading": "konasa",
+    "code": "cr-jou1-767",
+    "index": 767
+  },
+  {
+    "surface": "まもっ",
+    "reading": "mamo",
+    "code": "cr-jou1-768",
+    "index": 768
+  },
+  {
+    "surface": "かまえ",
+    "reading": "kamae",
+    "code": "cr-jou1-769",
+    "index": 769
+  },
+  {
+    "surface": "めろん",
+    "reading": "melon",
+    "code": "cr-jou1-770",
+    "index": 770
+  },
+  {
+    "surface": "へっぽこ",
+    "reading": "heppoko",
+    "code": "cr-jou1-771",
+    "index": 771
+  },
+  {
+    "surface": "おこる",
+    "reading": "okoru",
+    "code": "cr-jou1-772",
+    "index": 772
+  },
+  {
+    "surface": "だんじり",
+    "reading": "danjiri",
+    "code": "cr-jou1-773",
+    "index": 773
+  },
+  {
+    "surface": "あつき",
+    "reading": "atsuki",
+    "code": "cr-jou1-774",
+    "index": 774
+  },
+  {
+    "surface": "だらけ",
+    "reading": "darake",
+    "code": "cr-jou1-775",
+    "index": 775
+  },
+  {
+    "surface": "どきどき",
+    "reading": "dokidoki",
+    "code": "cr-jou1-776",
+    "index": 776
+  },
+  {
+    "surface": "がら",
+    "reading": "gara",
+    "code": "cr-jou1-777",
+    "index": 777
+  },
+  {
+    "surface": "らち",
+    "reading": "rachi",
+    "code": "cr-jou1-778",
+    "index": 778
+  },
+  {
+    "surface": "いつく",
+    "reading": "itsuku",
+    "code": "cr-jou1-779",
+    "index": 779
+  },
+  {
+    "surface": "おぼえ",
+    "reading": "oboe",
+    "code": "cr-jou1-780",
+    "index": 780
+  },
+  {
+    "surface": "ひくい",
+    "reading": "hikui",
+    "code": "cr-jou1-781",
+    "index": 781
+  },
+  {
+    "surface": "こたつ",
+    "reading": "kotatsu",
+    "code": "cr-jou1-782",
+    "index": 782
+  },
+  {
+    "surface": "うんちく",
+    "reading": "unchiku",
+    "code": "cr-jou1-783",
+    "index": 783
+  },
+  {
+    "surface": "っぽう",
+    "reading": "ppou",
+    "code": "cr-jou1-784",
+    "index": 784
+  },
+  {
+    "surface": "つくれる",
+    "reading": "tsukureru",
+    "code": "cr-jou1-785",
+    "index": 785
+  },
+  {
+    "surface": "っぽく",
+    "reading": "ppoku",
+    "code": "cr-jou1-786",
+    "index": 786
+  },
+  {
+    "surface": "からん",
+    "reading": "karan",
+    "code": "cr-jou1-787",
+    "index": 787
+  },
+  {
+    "surface": "ためし",
+    "reading": "tameshi",
+    "code": "cr-jou1-788",
+    "index": 788
+  },
+  {
+    "surface": "たく",
+    "reading": "taku",
+    "code": "cr-jou1-789",
+    "index": 789
+  },
+  {
+    "surface": "あづさ",
+    "reading": "azusa",
+    "code": "cr-jou1-790",
+    "index": 790
+  },
+  {
+    "surface": "めっきり",
+    "reading": "mekkiri",
+    "code": "cr-jou1-791",
+    "index": 791
+  },
+  {
+    "surface": "ずるい",
+    "reading": "zurui",
+    "code": "cr-jou1-792",
+    "index": 792
+  },
+  {
+    "surface": "ざんす",
+    "reading": "zansu",
+    "code": "cr-jou1-793",
+    "index": 793
+  },
+  {
+    "surface": "とび",
+    "reading": "tobi",
+    "code": "cr-jou1-794",
+    "index": 794
+  },
+  {
+    "surface": "あんじ",
+    "reading": "anji",
+    "code": "cr-jou1-795",
+    "index": 795
+  },
+  {
+    "surface": "まめ",
+    "reading": "mame",
+    "code": "cr-jou1-796",
+    "index": 796
+  },
+  {
+    "surface": "しょっぱく",
+    "reading": "shoppaku",
+    "code": "cr-jou1-797",
+    "index": 797
+  },
+  {
+    "surface": "わたせ",
+    "reading": "watase",
+    "code": "cr-jou1-798",
+    "index": 798
+  },
+  {
+    "surface": "こき",
+    "reading": "koki",
+    "code": "cr-jou1-799",
+    "index": 799
+  },
+  {
+    "surface": "とろり",
+    "reading": "torori",
+    "code": "cr-jou1-800",
+    "index": 800
+  },
+  {
+    "surface": "おとり",
+    "reading": "otori",
+    "code": "cr-jou1-801",
+    "index": 801
+  },
+  {
+    "surface": "まくら",
+    "reading": "makura",
+    "code": "cr-jou1-802",
+    "index": 802
+  },
+  {
+    "surface": "えんぴつ",
+    "reading": "enpitsu",
+    "code": "cr-jou1-803",
+    "index": 803
+  },
+  {
+    "surface": "ちょん",
+    "reading": "chon",
+    "code": "cr-jou1-804",
+    "index": 804
+  },
+  {
+    "surface": "くさそ",
+    "reading": "kusaso",
+    "code": "cr-jou1-805",
+    "index": 805
+  },
+  {
+    "surface": "まぬがれ",
+    "reading": "manugare",
+    "code": "cr-jou1-806",
+    "index": 806
+  },
+  {
+    "surface": "しょうゆ",
+    "reading": "shouyu",
+    "code": "cr-jou1-807",
+    "index": 807
+  },
+  {
+    "surface": "きしむ",
+    "reading": "kishimu",
+    "code": "cr-jou1-808",
+    "index": 808
+  },
+  {
+    "surface": "ごま",
+    "reading": "goma",
+    "code": "cr-jou1-809",
+    "index": 809
+  },
+  {
+    "surface": "さも",
+    "reading": "samo",
+    "code": "cr-jou1-810",
+    "index": 810
+  },
+  {
+    "surface": "ししゃも",
+    "reading": "susam",
+    "code": "cr-jou1-811",
+    "index": 811
+  },
+  {
+    "surface": "いまひとつ",
+    "reading": "imahitotsu",
+    "code": "cr-jou1-812",
+    "index": 812
+  },
+  {
+    "surface": "すもう",
+    "reading": "sumou",
+    "code": "cr-jou1-813",
+    "index": 813
+  },
+  {
+    "surface": "はんだ",
+    "reading": "handa",
+    "code": "cr-jou1-814",
+    "index": 814
+  },
+  {
+    "surface": "とう",
+    "reading": "tou",
+    "code": "cr-jou1-815",
+    "index": 815
+  },
+  {
+    "surface": "くずし",
+    "reading": "kuzushi",
+    "code": "cr-jou1-816",
+    "index": 816
+  },
+  {
+    "surface": "しげ",
+    "reading": "shige",
+    "code": "cr-jou1-817",
+    "index": 817
+  },
+  {
+    "surface": "おこわ",
+    "reading": "okowa",
+    "code": "cr-jou1-818",
+    "index": 818
+  },
+  {
+    "surface": "こぶし",
+    "reading": "kobushi",
+    "code": "cr-jou1-819",
+    "index": 819
+  },
+  {
+    "surface": "ほじ",
+    "reading": "hoji",
+    "code": "cr-jou1-820",
+    "index": 820
+  },
+  {
+    "surface": "かるた",
+    "reading": "carta",
+    "code": "cr-jou1-821",
+    "index": 821
+  },
+  {
+    "surface": "もりもり",
+    "reading": "morimori",
+    "code": "cr-jou1-822",
+    "index": 822
+  },
+  {
+    "surface": "ゆでる",
+    "reading": "yuderu",
+    "code": "cr-jou1-823",
+    "index": 823
+  },
+  {
+    "surface": "きど",
+    "reading": "kido",
+    "code": "cr-jou1-824",
+    "index": 824
+  },
+  {
+    "surface": "かたく",
+    "reading": "kataku",
+    "code": "cr-jou1-825",
+    "index": 825
+  },
+  {
+    "surface": "うだうだ",
+    "reading": "udauda",
+    "code": "cr-jou1-826",
+    "index": 826
+  },
+  {
+    "surface": "すかっ",
+    "reading": "suka",
+    "code": "cr-jou1-827",
+    "index": 827
+  },
+  {
+    "surface": "はかっ",
+    "reading": "haka",
+    "code": "cr-jou1-828",
+    "index": 828
+  },
+  {
+    "surface": "ども",
+    "reading": "domo",
+    "code": "cr-jou1-829",
+    "index": 829
+  },
+  {
+    "surface": "とまどい",
+    "reading": "tomadoi",
+    "code": "cr-jou1-830",
+    "index": 830
+  },
+  {
+    "surface": "ぷりん",
+    "reading": "purine",
+    "code": "cr-jou1-831",
+    "index": 831
+  },
+  {
+    "surface": "かかえる",
+    "reading": "kakaeru",
+    "code": "cr-jou1-832",
+    "index": 832
+  },
+  {
+    "surface": "てんとう",
+    "reading": "tentou",
+    "code": "cr-jou1-833",
+    "index": 833
+  },
+  {
+    "surface": "つかわ",
+    "reading": "tsukawa",
+    "code": "cr-jou1-834",
+    "index": 834
+  },
+  {
+    "surface": "しし",
+    "reading": "shishi",
+    "code": "cr-jou1-835",
+    "index": 835
+  },
+  {
+    "surface": "はたらき",
+    "reading": "hataraki",
+    "code": "cr-jou1-836",
+    "index": 836
+  },
+  {
+    "surface": "はしっ",
+    "reading": "hashi",
+    "code": "cr-jou1-837",
+    "index": 837
+  },
+  {
+    "surface": "ひな",
+    "reading": "hina",
+    "code": "cr-jou1-838",
+    "index": 838
+  },
+  {
+    "surface": "さら",
+    "reading": "sara",
+    "code": "cr-jou1-839",
+    "index": 839
+  },
+  {
+    "surface": "ねっとり",
+    "reading": "nettori",
+    "code": "cr-jou1-840",
+    "index": 840
+  },
+  {
+    "surface": "いっち",
+    "reading": "icchi",
+    "code": "cr-jou1-841",
+    "index": 841
+  },
+  {
+    "surface": "のほほんと",
+    "reading": "nohohonto",
+    "code": "cr-jou1-842",
+    "index": 842
+  },
+  {
+    "surface": "とかげ",
+    "reading": "tokage",
+    "code": "cr-jou1-843",
+    "index": 843
+  },
+  {
+    "surface": "あきと",
+    "reading": "akito",
+    "code": "cr-jou1-844",
+    "index": 844
+  },
+  {
+    "surface": "つめる",
+    "reading": "tsumeru",
+    "code": "cr-jou1-845",
+    "index": 845
+  },
+  {
+    "surface": "いのり",
+    "reading": "inori",
+    "code": "cr-jou1-846",
+    "index": 846
+  },
+  {
+    "surface": "ときわ",
+    "reading": "tokiwa",
+    "code": "cr-jou1-847",
+    "index": 847
+  },
+  {
+    "surface": "いせ",
+    "reading": "ise",
+    "code": "cr-jou1-848",
+    "index": 848
+  },
+  {
+    "surface": "いんす",
+    "reading": "insu",
+    "code": "cr-jou1-849",
+    "index": 849
+  },
+  {
+    "surface": "きりん",
+    "reading": "kirin",
+    "code": "cr-jou1-850",
+    "index": 850
+  },
+  {
+    "surface": "めっき",
+    "reading": "mekki",
+    "code": "cr-jou1-851",
+    "index": 851
+  },
+  {
+    "surface": "そそくさ",
+    "reading": "sosokusa",
+    "code": "cr-jou1-852",
+    "index": 852
+  },
+  {
+    "surface": "くっつか",
+    "reading": "kuttsuka",
+    "code": "cr-jou1-853",
+    "index": 853
+  },
+  {
+    "surface": "なんだか",
+    "reading": "nandaka",
+    "code": "cr-jou1-854",
+    "index": 854
+  },
+  {
+    "surface": "さやか",
+    "reading": "sayaka",
+    "code": "cr-jou1-855",
+    "index": 855
+  },
+  {
+    "surface": "おちゃめ",
+    "reading": "ochame",
+    "code": "cr-jou1-856",
+    "index": 856
+  },
+  {
+    "surface": "きらめき",
+    "reading": "kirameki",
+    "code": "cr-jou1-857",
+    "index": 857
+  },
+  {
+    "surface": "でかい",
+    "reading": "dekai",
+    "code": "cr-jou1-858",
+    "index": 858
+  },
+  {
+    "surface": "かさむ",
+    "reading": "kasamu",
+    "code": "cr-jou1-859",
+    "index": 859
+  },
+  {
+    "surface": "しつけ",
+    "reading": "shitsuke",
+    "code": "cr-jou1-860",
+    "index": 860
+  },
+  {
+    "surface": "いたずら",
+    "reading": "itazura",
+    "code": "cr-jou1-861",
+    "index": 861
+  },
+  {
+    "surface": "されど",
+    "reading": "saredo",
+    "code": "cr-jou1-862",
+    "index": 862
+  },
+  {
+    "surface": "かそ",
+    "reading": "kaso",
+    "code": "cr-jou1-863",
+    "index": 863
+  },
+  {
+    "surface": "のい",
+    "reading": "noi",
+    "code": "cr-jou1-864",
+    "index": 864
+  }
+]

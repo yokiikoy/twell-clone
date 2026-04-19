@@ -86,6 +86,18 @@
 | 動的・ネット | [analysis/06-dynamic-notes.md](analysis/06-dynamic-notes.md) |
 | ローマ字入力（Web 計画） | [emiel](https://github.com/tomoemon/emiel)（MIT）— 下記「横断課題」参照 |
 
+## 進行分担（別ワークツリー）
+
+- **クリーンルーム語表:** 別エージェント・**別 Git ワークツリー**で進行中。成果物は **権利上クリーンな置換ワードセット**（形式は合意次第）。本リポジトリは **当面 `apps/web/public/twelljr-*.json`（VB デコンパイル由来の抽出物）**を試行・検証・ログ照合の参照として維持する。
+- **本リポジトリのフェーズ:** 語表の**中身差し替え**は向こうの成果を待ちつつ、こちらは **フェーズ C 続行 → フェーズ D 前準備 → エンジン/I-O ゴールデン**を進める。取り込み時に **JSON スキーマ互換・データソース切替**だけ先に固めておくと合流が速い。
+
+### このリポジトリで直近すすめる
+
+1. **フェーズ C:** [web-surface-matrix.md](web-surface-matrix.md) の `スタブ` を、公式 05/02 に対する **発見可能性**（ラベル・導線）から優先して底上げする。
+2. **フェーズ D 前準備:** ブラウザ永続化（IndexedDB 等）の **最小スキャフォールド**と、[03-io-contracts.md](analysis/03-io-contracts.md) に沿った **ログ読み取り／エクスポート**のスパイク設計を `docs/spec` または `analysis` に起こす。
+3. **エンジン:** `packages/engine` の **ログ契約・`Module1` 境界**のゴールデン拡張（クリーンルーム語表とは独立）。
+4. **取り込み IF:** クリーンルーム語表が出たら **差し替えるだけ**になるよう、`WordListFile` / `TypingCanvas` の **データソース切替**（環境変数 or 設定 1 本）を小さく足す。
+
 ## フェーズ計画（推奨順）
 
 ### フェーズ A — コアエンジン + 1 モード縮小
@@ -97,6 +109,7 @@
 
 ### フェーズ B — データ拡張とゴールデンテスト（着手済み）
 
+- **クリーンルーム語表は別ワークツリー**（上記「進行分担」）。本リポのフェーズ B は **export 由来 JSON のパイプライン・Web 同梱・照合**までを継続し、置換語表は **取り込み IF** で合流する。
 - `Jou*` → 構造化 JSON（表層文字列、ローマ字キー、内部コード）抽出パイプライン設計・実装（正典: [twelljr-data-pipeline.md](twelljr-data-pipeline.md)）。
 - `Kata*` / `Kan*` / `Koto*` を同型で追加（`npm run extract:bas` / モード別薄ラッパー）。
 - **エンジン側ゴールデン:** 柔軟 `LitStr` パーサは小さな固定フィクスチャで Vitest 固定済み。**語リストの Web 同梱・本家画面との完全一致**は **ライセンス／配布方針のゲート後**（フェーズ B の最小完了からは外す）。
@@ -123,6 +136,8 @@
 
 - `Time*.log` / `Dtld*` / `.twl` 等（[03-io-contracts.md](analysis/03-io-contracts.md)）の **読み取り・エクスポート互換**または **ワンショット移行ツール**。
 - ブラウザ保存は IndexedDB 等 + エクスポートを既定とし、公式ファイルとの差分を文書化。
+- **着手済み（スタブ）:** `gameMode` → `Time*` サフィックス対応（`timeLogSuffixForGameMode`）、`WEB_V1` タブ区切りスタブ行（[`d-phase-prep-local-store.md`](../spec/d-phase-prep-local-store.md)）、履歴画面から JSON / 単一 TXT / **4 ファイル名 ZIP** 書き出し、`WEB_V1` 取り込みプレビュー、[`fixtures/timelog-stub`](../../packages/engine/fixtures/timelog-stub)。
+- **ネイティブ行:** テキスト系は [`08-time-log-native-format-v0.md`](analysis/08-time-log-native-format-v0.md) の `probeTimeLogTextV0`。**`TimeKHJY.log` バイナリ先頭**は [`09-time-khjy-binary-layout-v0.md`](analysis/09-time-khjy-binary-layout-v0.md) + `parseTimeKHJYLogFileV0` + [`fixtures/timelog-native`](../../packages/engine/fixtures/timelog-native)（実ヘッダ 64B）。
 
 ### フェーズ E（任意）— ハードニング
 
@@ -150,4 +165,5 @@
 ---
 
 *更新履歴: 初版 — ウェブ再現方針の文書化（ユーザー依頼）。*  
-*追記: emiel 直接組み込み・400=確定ストローク基準・本家との差（Mozc 系優先／水増し許容）をロードマップに統合。*
+*追記: emiel 直接組み込み・400=確定ストローク基準・本家との差（Mozc 系優先／水増し許容）をロードマップに統合。*  
+*追記: 別ワークツリーでのクリーンルーム語表と本リポの進行分担・直近タスクを明記。*

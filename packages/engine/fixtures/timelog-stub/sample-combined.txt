@@ -1,0 +1,5 @@
+# TWJR_TIMELOG_STUB_V1 — not official VB Time*.log bytes; see docs/spec/d-phase-prep-local-store.md
+# Tab columns: marker, savedAt (ISO-8601), suffix (KHJY|KTKN|KNJ|KTWZ), elapsedSec, module1Label, missCount, id
+# Fixture: two synthetic rows for parser / round-trip tests (anonymized).
+WEB_V1	2026-04-01T10:00:00.000Z	KHJY	45.000	A	1	fixture-kihon-1
+WEB_V1	2026-04-02T11:00:00.000Z	KNJ	90.125	B	0	fixture-kanji-1
