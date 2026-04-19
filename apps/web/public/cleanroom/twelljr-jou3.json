@@ -1,0 +1,2744 @@
+[
+  {
+    "surface": "リザーブ",
+    "reading": "reserve",
+    "code": "cr-jou3-0",
+    "index": 0
+  },
+  {
+    "surface": "コメ",
+    "reading": "kome",
+    "code": "cr-jou3-1",
+    "index": 1
+  },
+  {
+    "surface": "タンゴ",
+    "reading": "tango",
+    "code": "cr-jou3-2",
+    "index": 2
+  },
+  {
+    "surface": "クライヴ",
+    "reading": "kuraivu",
+    "code": "cr-jou3-3",
+    "index": 3
+  },
+  {
+    "surface": "シゴ",
+    "reading": "shigo",
+    "code": "cr-jou3-4",
+    "index": 4
+  },
+  {
+    "surface": "サラウンド",
+    "reading": "surround",
+    "code": "cr-jou3-5",
+    "index": 5
+  },
+  {
+    "surface": "カイト",
+    "reading": "kite",
+    "code": "cr-jou3-6",
+    "index": 6
+  },
+  {
+    "surface": "ポコ",
+    "reading": "poko",
+    "code": "cr-jou3-7",
+    "index": 7
+  },
+  {
+    "surface": "バーチ",
+    "reading": "birch",
+    "code": "cr-jou3-8",
+    "index": 8
+  },
+  {
+    "surface": "タガメ",
+    "reading": "tagame",
+    "code": "cr-jou3-9",
+    "index": 9
+  },
+  {
+    "surface": "ボランチ",
+    "reading": "volante",
+    "code": "cr-jou3-10",
+    "index": 10
+  },
+  {
+    "surface": "セクト",
+    "reading": "sect",
+    "code": "cr-jou3-11",
+    "index": 11
+  },
+  {
+    "surface": "ソウ",
+    "reading": "sou",
+    "code": "cr-jou3-12",
+    "index": 12
+  },
+  {
+    "surface": "カッター",
+    "reading": "cutter",
+    "code": "cr-jou3-13",
+    "index": 13
+  },
+  {
+    "surface": "セーブル",
+    "reading": "sable",
+    "code": "cr-jou3-14",
+    "index": 14
+  },
+  {
+    "surface": "セク",
+    "reading": "sector",
+    "code": "cr-jou3-15",
+    "index": 15
+  },
+  {
+    "surface": "サヨ",
+    "reading": "sayo",
+    "code": "cr-jou3-16",
+    "index": 16
+  },
+  {
+    "surface": "クルー",
+    "reading": "crew",
+    "code": "cr-jou3-17",
+    "index": 17
+  },
+  {
+    "surface": "カゴ",
+    "reading": "kago",
+    "code": "cr-jou3-18",
+    "index": 18
+  },
+  {
+    "surface": "キュート",
+    "reading": "cute",
+    "code": "cr-jou3-19",
+    "index": 19
+  },
+  {
+    "surface": "サマー",
+    "reading": "summer",
+    "code": "cr-jou3-20",
+    "index": 20
+  },
+  {
+    "surface": "カッカ",
+    "reading": "kakka",
+    "code": "cr-jou3-21",
+    "index": 21
+  },
+  {
+    "surface": "ワコム",
+    "reading": "wakomu",
+    "code": "cr-jou3-22",
+    "index": 22
+  },
+  {
+    "surface": "シフト",
+    "reading": "shift",
+    "code": "cr-jou3-23",
+    "index": 23
+  },
+  {
+    "surface": "ガメ",
+    "reading": "game",
+    "code": "cr-jou3-24",
+    "index": 24
+  },
+  {
+    "surface": "サリ",
+    "reading": "sari",
+    "code": "cr-jou3-25",
+    "index": 25
+  },
+  {
+    "surface": "ワリ",
+    "reading": "wari",
+    "code": "cr-jou3-26",
+    "index": 26
+  },
+  {
+    "surface": "パーセク",
+    "reading": "parsec",
+    "code": "cr-jou3-27",
+    "index": 27
+  },
+  {
+    "surface": "スライ",
+    "reading": "sly",
+    "code": "cr-jou3-28",
+    "index": 28
+  },
+  {
+    "surface": "セッ",
+    "reading": "se",
+    "code": "cr-jou3-29",
+    "index": 29
+  },
+  {
+    "surface": "トゲ",
+    "reading": "toge",
+    "code": "cr-jou3-30",
+    "index": 30
+  },
+  {
+    "surface": "リミット",
+    "reading": "limit",
+    "code": "cr-jou3-31",
+    "index": 31
+  },
+  {
+    "surface": "ハゲ",
+    "reading": "hage",
+    "code": "cr-jou3-32",
+    "index": 32
+  },
+  {
+    "surface": "ストラト",
+    "reading": "strato",
+    "code": "cr-jou3-33",
+    "index": 33
+  },
+  {
+    "surface": "クリント",
+    "reading": "kurinto",
+    "code": "cr-jou3-34",
+    "index": 34
+  },
+  {
+    "surface": "ラッコ",
+    "reading": "rakko",
+    "code": "cr-jou3-35",
+    "index": 35
+  },
+  {
+    "surface": "タカ",
+    "reading": "taka",
+    "code": "cr-jou3-36",
+    "index": 36
+  },
+  {
+    "surface": "サイコ",
+    "reading": "psycho",
+    "code": "cr-jou3-37",
+    "index": 37
+  },
+  {
+    "surface": "ハテ",
+    "reading": "hate",
+    "code": "cr-jou3-38",
+    "index": 38
+  },
+  {
+    "surface": "レンゲ",
+    "reading": "renge",
+    "code": "cr-jou3-39",
+    "index": 39
+  },
+  {
+    "surface": "ツレ",
+    "reading": "tsure",
+    "code": "cr-jou3-40",
+    "index": 40
+  },
+  {
+    "surface": "キャスト",
+    "reading": "cast",
+    "code": "cr-jou3-41",
+    "index": 41
+  },
+  {
+    "surface": "カク",
+    "reading": "kaku",
+    "code": "cr-jou3-42",
+    "index": 42
+  },
+  {
+    "surface": "パドル",
+    "reading": "paddle",
+    "code": "cr-jou3-43",
+    "index": 43
+  },
+  {
+    "surface": "タヒ",
+    "reading": "tahi",
+    "code": "cr-jou3-44",
+    "index": 44
+  },
+  {
+    "surface": "スパン",
+    "reading": "span",
+    "code": "cr-jou3-45",
+    "index": 45
+  },
+  {
+    "surface": "クエスト",
+    "reading": "quest",
+    "code": "cr-jou3-46",
+    "index": 46
+  },
+  {
+    "surface": "ベビ",
+    "reading": "baby",
+    "code": "cr-jou3-47",
+    "index": 47
+  },
+  {
+    "surface": "ノビ",
+    "reading": "nobi",
+    "code": "cr-jou3-48",
+    "index": 48
+  },
+  {
+    "surface": "スパート",
+    "reading": "spurt",
+    "code": "cr-jou3-49",
+    "index": 49
+  },
+  {
+    "surface": "サヨク",
+    "reading": "sayoku",
+    "code": "cr-jou3-50",
+    "index": 50
+  },
+  {
+    "surface": "ブス",
+    "reading": "busu",
+    "code": "cr-jou3-51",
+    "index": 51
+  },
+  {
+    "surface": "ビースト",
+    "reading": "biisuto",
+    "code": "cr-jou3-52",
+    "index": 52
+  },
+  {
+    "surface": "ライク",
+    "reading": "like",
+    "code": "cr-jou3-53",
+    "index": 53
+  },
+  {
+    "surface": "ツライ",
+    "reading": "tsurai",
+    "code": "cr-jou3-54",
+    "index": 54
+  },
+  {
+    "surface": "スピ",
+    "reading": "supi",
+    "code": "cr-jou3-55",
+    "index": 55
+  },
+  {
+    "surface": "カンプ",
+    "reading": "kampf",
+    "code": "cr-jou3-56",
+    "index": 56
+  },
+  {
+    "surface": "サラト",
+    "reading": "sarahto",
+    "code": "cr-jou3-57",
+    "index": 57
+  },
+  {
+    "surface": "タント",
+    "reading": "thant",
+    "code": "cr-jou3-58",
+    "index": 58
+  },
+  {
+    "surface": "ヒラメ",
+    "reading": "hirame",
+    "code": "cr-jou3-59",
+    "index": 59
+  },
+  {
+    "surface": "ポーチ",
+    "reading": "porch",
+    "code": "cr-jou3-60",
+    "index": 60
+  },
+  {
+    "surface": "レーク",
+    "reading": "reeku",
+    "code": "cr-jou3-61",
+    "index": 61
+  },
+  {
+    "surface": "カンター",
+    "reading": "kantaa",
+    "code": "cr-jou3-62",
+    "index": 62
+  },
+  {
+    "surface": "ピーチ",
+    "reading": "peach",
+    "code": "cr-jou3-63",
+    "index": 63
+  },
+  {
+    "surface": "シゴト",
+    "reading": "shigoto",
+    "code": "cr-jou3-64",
+    "index": 64
+  },
+  {
+    "surface": "ガチ",
+    "reading": "gachi",
+    "code": "cr-jou3-65",
+    "index": 65
+  },
+  {
+    "surface": "ウエイトレス",
+    "reading": "waitress",
+    "code": "cr-jou3-66",
+    "index": 66
+  },
+  {
+    "surface": "ドリブル",
+    "reading": "dribble",
+    "code": "cr-jou3-67",
+    "index": 67
+  },
+  {
+    "surface": "ルーツ",
+    "reading": "roots",
+    "code": "cr-jou3-68",
+    "index": 68
+  },
+  {
+    "surface": "ギャロップ",
+    "reading": "gallop",
+    "code": "cr-jou3-69",
+    "index": 69
+  },
+  {
+    "surface": "バロック",
+    "reading": "baroque",
+    "code": "cr-jou3-70",
+    "index": 70
+  },
+  {
+    "surface": "カケ",
+    "reading": "kake",
+    "code": "cr-jou3-71",
+    "index": 71
+  },
+  {
+    "surface": "リバー",
+    "reading": "river",
+    "code": "cr-jou3-72",
+    "index": 72
+  },
+  {
+    "surface": "マモル",
+    "reading": "mamoru",
+    "code": "cr-jou3-73",
+    "index": 73
+  },
+  {
+    "surface": "シメ",
+    "reading": "shime",
+    "code": "cr-jou3-74",
+    "index": 74
+  },
+  {
+    "surface": "ガット",
+    "reading": "gatto",
+    "code": "cr-jou3-75",
+    "index": 75
+  },
+  {
+    "surface": "レゴ",
+    "reading": "lego",
+    "code": "cr-jou3-76",
+    "index": 76
+  },
+  {
+    "surface": "ウゴ",
+    "reading": "ugo",
+    "code": "cr-jou3-77",
+    "index": 77
+  },
+  {
+    "surface": "クロー",
+    "reading": "clos",
+    "code": "cr-jou3-78",
+    "index": 78
+  },
+  {
+    "surface": "コア",
+    "reading": "core",
+    "code": "cr-jou3-79",
+    "index": 79
+  },
+  {
+    "surface": "イメ",
+    "reading": "ime",
+    "code": "cr-jou3-80",
+    "index": 80
+  },
+  {
+    "surface": "リシン",
+    "reading": "ricin",
+    "code": "cr-jou3-81",
+    "index": 81
+  },
+  {
+    "surface": "サインツ",
+    "reading": "signtsu",
+    "code": "cr-jou3-82",
+    "index": 82
+  },
+  {
+    "surface": "コスメ",
+    "reading": "cosmetic",
+    "code": "cr-jou3-83",
+    "index": 83
+  },
+  {
+    "surface": "ポカ",
+    "reading": "poka",
+    "code": "cr-jou3-84",
+    "index": 84
+  },
+  {
+    "surface": "カサ",
+    "reading": "casa",
+    "code": "cr-jou3-85",
+    "index": 85
+  },
+  {
+    "surface": "ワルツ",
+    "reading": "waltz",
+    "code": "cr-jou3-86",
+    "index": 86
+  },
+  {
+    "surface": "ポータブル",
+    "reading": "portable",
+    "code": "cr-jou3-87",
+    "index": 87
+  },
+  {
+    "surface": "スール",
+    "reading": "suuru",
+    "code": "cr-jou3-88",
+    "index": 88
+  },
+  {
+    "surface": "コイツ",
+    "reading": "koitsu",
+    "code": "cr-jou3-89",
+    "index": 89
+  },
+  {
+    "surface": "ブース",
+    "reading": "booth",
+    "code": "cr-jou3-90",
+    "index": 90
+  },
+  {
+    "surface": "ウィザード",
+    "reading": "wizard",
+    "code": "cr-jou3-91",
+    "index": 91
+  },
+  {
+    "surface": "スクランブル",
+    "reading": "scramble",
+    "code": "cr-jou3-92",
+    "index": 92
+  },
+  {
+    "surface": "メイト",
+    "reading": "mate",
+    "code": "cr-jou3-93",
+    "index": 93
+  },
+  {
+    "surface": "ツル",
+    "reading": "tsuru",
+    "code": "cr-jou3-94",
+    "index": 94
+  },
+  {
+    "surface": "メカニック",
+    "reading": "mechanic",
+    "code": "cr-jou3-95",
+    "index": 95
+  },
+  {
+    "surface": "グモ",
+    "reading": "gumo",
+    "code": "cr-jou3-96",
+    "index": 96
+  },
+  {
+    "surface": "ブヨ",
+    "reading": "buyo",
+    "code": "cr-jou3-97",
+    "index": 97
+  },
+  {
+    "surface": "カイジ",
+    "reading": "kaiji",
+    "code": "cr-jou3-98",
+    "index": 98
+  },
+  {
+    "surface": "セト",
+    "reading": "seto",
+    "code": "cr-jou3-99",
+    "index": 99
+  },
+  {
+    "surface": "カナル",
+    "reading": "canal",
+    "code": "cr-jou3-100",
+    "index": 100
+  },
+  {
+    "surface": "バッジ",
+    "reading": "badge",
+    "code": "cr-jou3-101",
+    "index": 101
+  },
+  {
+    "surface": "ブレーク",
+    "reading": "break",
+    "code": "cr-jou3-102",
+    "index": 102
+  },
+  {
+    "surface": "ガツガツ",
+    "reading": "gatsugatsu",
+    "code": "cr-jou3-103",
+    "index": 103
+  },
+  {
+    "surface": "カオリ",
+    "reading": "kaori",
+    "code": "cr-jou3-104",
+    "index": 104
+  },
+  {
+    "surface": "カセ",
+    "reading": "kase",
+    "code": "cr-jou3-105",
+    "index": 105
+  },
+  {
+    "surface": "スクワット",
+    "reading": "squat",
+    "code": "cr-jou3-106",
+    "index": 106
+  },
+  {
+    "surface": "ハピ",
+    "reading": "happy",
+    "code": "cr-jou3-107",
+    "index": 107
+  },
+  {
+    "surface": "カンタン",
+    "reading": "kantan",
+    "code": "cr-jou3-108",
+    "index": 108
+  },
+  {
+    "surface": "マイト",
+    "reading": "maito",
+    "code": "cr-jou3-109",
+    "index": 109
+  },
+  {
+    "surface": "ウィーク",
+    "reading": "week",
+    "code": "cr-jou3-110",
+    "index": 110
+  },
+  {
+    "surface": "ヘルシング",
+    "reading": "hellshingu",
+    "code": "cr-jou3-111",
+    "index": 111
+  },
+  {
+    "surface": "アイカツ",
+    "reading": "eyecutlet",
+    "code": "cr-jou3-112",
+    "index": 112
+  },
+  {
+    "surface": "カジ",
+    "reading": "kaji",
+    "code": "cr-jou3-113",
+    "index": 113
+  },
+  {
+    "surface": "ウェポン",
+    "reading": "weapon",
+    "code": "cr-jou3-114",
+    "index": 114
+  },
+  {
+    "surface": "サジェスト",
+    "reading": "suggest",
+    "code": "cr-jou3-115",
+    "index": 115
+  },
+  {
+    "surface": "ペナルティー",
+    "reading": "penalty",
+    "code": "cr-jou3-116",
+    "index": 116
+  },
+  {
+    "surface": "ビビ",
+    "reading": "bibi",
+    "code": "cr-jou3-117",
+    "index": 117
+  },
+  {
+    "surface": "カグラ",
+    "reading": "kagura",
+    "code": "cr-jou3-118",
+    "index": 118
+  },
+  {
+    "surface": "ボルト",
+    "reading": "bolt",
+    "code": "cr-jou3-119",
+    "index": 119
+  },
+  {
+    "surface": "ベイツ",
+    "reading": "bates",
+    "code": "cr-jou3-120",
+    "index": 120
+  },
+  {
+    "surface": "スネーク",
+    "reading": "snake",
+    "code": "cr-jou3-121",
+    "index": 121
+  },
+  {
+    "surface": "シーター",
+    "reading": "seater",
+    "code": "cr-jou3-122",
+    "index": 122
+  },
+  {
+    "surface": "コバエ",
+    "reading": "kobae",
+    "code": "cr-jou3-123",
+    "index": 123
+  },
+  {
+    "surface": "シッター",
+    "reading": "sitter",
+    "code": "cr-jou3-124",
+    "index": 124
+  },
+  {
+    "surface": "ボッチ",
+    "reading": "bocchi",
+    "code": "cr-jou3-125",
+    "index": 125
+  },
+  {
+    "surface": "スライス",
+    "reading": "slice",
+    "code": "cr-jou3-126",
+    "index": 126
+  },
+  {
+    "surface": "アイプチ",
+    "reading": "eyepetit",
+    "code": "cr-jou3-127",
+    "index": 127
+  },
+  {
+    "surface": "ソイツ",
+    "reading": "soitsu",
+    "code": "cr-jou3-128",
+    "index": 128
+  },
+  {
+    "surface": "コマツ",
+    "reading": "komatsu",
+    "code": "cr-jou3-129",
+    "index": 129
+  },
+  {
+    "surface": "サプライ",
+    "reading": "supply",
+    "code": "cr-jou3-130",
+    "index": 130
+  },
+  {
+    "surface": "ゴッチ",
+    "reading": "gotchi",
+    "code": "cr-jou3-131",
+    "index": 131
+  },
+  {
+    "surface": "スイマー",
+    "reading": "swimmer",
+    "code": "cr-jou3-132",
+    "index": 132
+  },
+  {
+    "surface": "コモン",
+    "reading": "common",
+    "code": "cr-jou3-133",
+    "index": 133
+  },
+  {
+    "surface": "ガクト",
+    "reading": "gakuto",
+    "code": "cr-jou3-134",
+    "index": 134
+  },
+  {
+    "surface": "ゴーン",
+    "reading": "goon",
+    "code": "cr-jou3-135",
+    "index": 135
+  },
+  {
+    "surface": "ウィンク",
+    "reading": "wink",
+    "code": "cr-jou3-136",
+    "index": 136
+  },
+  {
+    "surface": "コンビ",
+    "reading": "combination",
+    "code": "cr-jou3-137",
+    "index": 137
+  },
+  {
+    "surface": "ブール",
+    "reading": "boole",
+    "code": "cr-jou3-138",
+    "index": 138
+  },
+  {
+    "surface": "トチ",
+    "reading": "tochi",
+    "code": "cr-jou3-139",
+    "index": 139
+  },
+  {
+    "surface": "ハシ",
+    "reading": "hashi",
+    "code": "cr-jou3-140",
+    "index": 140
+  },
+  {
+    "surface": "ワラビー",
+    "reading": "wallaby",
+    "code": "cr-jou3-141",
+    "index": 141
+  },
+  {
+    "surface": "ゴツ",
+    "reading": "gotsu",
+    "code": "cr-jou3-142",
+    "index": 142
+  },
+  {
+    "surface": "スガ",
+    "reading": "suga",
+    "code": "cr-jou3-143",
+    "index": 143
+  },
+  {
+    "surface": "スルメ",
+    "reading": "surume",
+    "code": "cr-jou3-144",
+    "index": 144
+  },
+  {
+    "surface": "ナツメ",
+    "reading": "natsume",
+    "code": "cr-jou3-145",
+    "index": 145
+  },
+  {
+    "surface": "ハウンド",
+    "reading": "hound",
+    "code": "cr-jou3-146",
+    "index": 146
+  },
+  {
+    "surface": "ブザー",
+    "reading": "buzzer",
+    "code": "cr-jou3-147",
+    "index": 147
+  },
+  {
+    "surface": "ブチ",
+    "reading": "buchi",
+    "code": "cr-jou3-148",
+    "index": 148
+  },
+  {
+    "surface": "ペンダント",
+    "reading": "pendant",
+    "code": "cr-jou3-149",
+    "index": 149
+  },
+  {
+    "surface": "モール",
+    "reading": "mall",
+    "code": "cr-jou3-150",
+    "index": 150
+  },
+  {
+    "surface": "セレクト",
+    "reading": "select",
+    "code": "cr-jou3-151",
+    "index": 151
+  },
+  {
+    "surface": "トク",
+    "reading": "toku",
+    "code": "cr-jou3-152",
+    "index": 152
+  },
+  {
+    "surface": "レジスター",
+    "reading": "register",
+    "code": "cr-jou3-153",
+    "index": 153
+  },
+  {
+    "surface": "オーツ",
+    "reading": "oat",
+    "code": "cr-jou3-154",
+    "index": 154
+  },
+  {
+    "surface": "クリープ",
+    "reading": "creep",
+    "code": "cr-jou3-155",
+    "index": 155
+  },
+  {
+    "surface": "ストロー",
+    "reading": "straw",
+    "code": "cr-jou3-156",
+    "index": 156
+  },
+  {
+    "surface": "クレイグ",
+    "reading": "kureigu",
+    "code": "cr-jou3-157",
+    "index": 157
+  },
+  {
+    "surface": "カチ",
+    "reading": "kachi",
+    "code": "cr-jou3-158",
+    "index": 158
+  },
+  {
+    "surface": "セリ",
+    "reading": "seri",
+    "code": "cr-jou3-159",
+    "index": 159
+  },
+  {
+    "surface": "ヒメ",
+    "reading": "hime",
+    "code": "cr-jou3-160",
+    "index": 160
+  },
+  {
+    "surface": "ラフィット",
+    "reading": "rafitto",
+    "code": "cr-jou3-161",
+    "index": 161
+  },
+  {
+    "surface": "ロイター",
+    "reading": "reuters",
+    "code": "cr-jou3-162",
+    "index": 162
+  },
+  {
+    "surface": "ント",
+    "reading": "nto",
+    "code": "cr-jou3-163",
+    "index": 163
+  },
+  {
+    "surface": "マーチ",
+    "reading": "march",
+    "code": "cr-jou3-164",
+    "index": 164
+  },
+  {
+    "surface": "クウガ",
+    "reading": "kuuga",
+    "code": "cr-jou3-165",
+    "index": 165
+  },
+  {
+    "surface": "シーツ",
+    "reading": "sheet",
+    "code": "cr-jou3-166",
+    "index": 166
+  },
+  {
+    "surface": "ゴート",
+    "reading": "goat",
+    "code": "cr-jou3-167",
+    "index": 167
+  },
+  {
+    "surface": "ガイスト",
+    "reading": "geist",
+    "code": "cr-jou3-168",
+    "index": 168
+  },
+  {
+    "surface": "コラム",
+    "reading": "column",
+    "code": "cr-jou3-169",
+    "index": 169
+  },
+  {
+    "surface": "ガンツ",
+    "reading": "ganz",
+    "code": "cr-jou3-170",
+    "index": 170
+  },
+  {
+    "surface": "アイキャッチ",
+    "reading": "eyecatch",
+    "code": "cr-jou3-171",
+    "index": 171
+  },
+  {
+    "surface": "ワキ",
+    "reading": "waki",
+    "code": "cr-jou3-172",
+    "index": 172
+  },
+  {
+    "surface": "ラスト",
+    "reading": "last",
+    "code": "cr-jou3-173",
+    "index": 173
+  },
+  {
+    "surface": "ゴム",
+    "reading": "gom",
+    "code": "cr-jou3-174",
+    "index": 174
+  },
+  {
+    "surface": "タッグ",
+    "reading": "tag",
+    "code": "cr-jou3-175",
+    "index": 175
+  },
+  {
+    "surface": "ラブ",
+    "reading": "love",
+    "code": "cr-jou3-176",
+    "index": 176
+  },
+  {
+    "surface": "メソッド",
+    "reading": "method",
+    "code": "cr-jou3-177",
+    "index": 177
+  },
+  {
+    "surface": "ポチ",
+    "reading": "pochi",
+    "code": "cr-jou3-178",
+    "index": 178
+  },
+  {
+    "surface": "シク",
+    "reading": "sikh",
+    "code": "cr-jou3-179",
+    "index": 179
+  },
+  {
+    "surface": "ウユニ",
+    "reading": "uyuni",
+    "code": "cr-jou3-180",
+    "index": 180
+  },
+  {
+    "surface": "パース",
+    "reading": "purse",
+    "code": "cr-jou3-181",
+    "index": 181
+  },
+  {
+    "surface": "ストーブ",
+    "reading": "stove",
+    "code": "cr-jou3-182",
+    "index": 182
+  },
+  {
+    "surface": "ビートル",
+    "reading": "beatles",
+    "code": "cr-jou3-183",
+    "index": 183
+  },
+  {
+    "surface": "ルーブル",
+    "reading": "ruuburu",
+    "code": "cr-jou3-184",
+    "index": 184
+  },
+  {
+    "surface": "ススメ",
+    "reading": "susume",
+    "code": "cr-jou3-185",
+    "index": 185
+  },
+  {
+    "surface": "ケチ",
+    "reading": "kechi",
+    "code": "cr-jou3-186",
+    "index": 186
+  },
+  {
+    "surface": "シゲ",
+    "reading": "shige",
+    "code": "cr-jou3-187",
+    "index": 187
+  },
+  {
+    "surface": "エスニック",
+    "reading": "ethnic",
+    "code": "cr-jou3-188",
+    "index": 188
+  },
+  {
+    "surface": "ゴジ",
+    "reading": "gothic",
+    "code": "cr-jou3-189",
+    "index": 189
+  },
+  {
+    "surface": "ショウ",
+    "reading": "show",
+    "code": "cr-jou3-190",
+    "index": 190
+  },
+  {
+    "surface": "グセ",
+    "reading": "guse",
+    "code": "cr-jou3-191",
+    "index": 191
+  },
+  {
+    "surface": "ワレメ",
+    "reading": "wareme",
+    "code": "cr-jou3-192",
+    "index": 192
+  },
+  {
+    "surface": "ユーキャン",
+    "reading": "youcan",
+    "code": "cr-jou3-193",
+    "index": 193
+  },
+  {
+    "surface": "スゴ",
+    "reading": "sugo",
+    "code": "cr-jou3-194",
+    "index": 194
+  },
+  {
+    "surface": "タクト",
+    "reading": "tact",
+    "code": "cr-jou3-195",
+    "index": 195
+  },
+  {
+    "surface": "オーランド",
+    "reading": "oorando",
+    "code": "cr-jou3-196",
+    "index": 196
+  },
+  {
+    "surface": "スポーティー",
+    "reading": "sporty",
+    "code": "cr-jou3-197",
+    "index": 197
+  },
+  {
+    "surface": "ゴト",
+    "reading": "goto",
+    "code": "cr-jou3-198",
+    "index": 198
+  },
+  {
+    "surface": "ポッコリ",
+    "reading": "pokkori",
+    "code": "cr-jou3-199",
+    "index": 199
+  },
+  {
+    "surface": "カンタベリー",
+    "reading": "canterbury",
+    "code": "cr-jou3-200",
+    "index": 200
+  },
+  {
+    "surface": "ヒゲ",
+    "reading": "hige",
+    "code": "cr-jou3-201",
+    "index": 201
+  },
+  {
+    "surface": "モットー",
+    "reading": "motto",
+    "code": "cr-jou3-202",
+    "index": 202
+  },
+  {
+    "surface": "マントル",
+    "reading": "mantle",
+    "code": "cr-jou3-203",
+    "index": 203
+  },
+  {
+    "surface": "チアーズ",
+    "reading": "cheer",
+    "code": "cr-jou3-204",
+    "index": 204
+  },
+  {
+    "surface": "ガモ",
+    "reading": "gamo",
+    "code": "cr-jou3-205",
+    "index": 205
+  },
+  {
+    "surface": "レザー",
+    "reading": "leather",
+    "code": "cr-jou3-206",
+    "index": 206
+  },
+  {
+    "surface": "カクテル",
+    "reading": "cocktail",
+    "code": "cr-jou3-207",
+    "index": 207
+  },
+  {
+    "surface": "ワザ",
+    "reading": "waza",
+    "code": "cr-jou3-208",
+    "index": 208
+  },
+  {
+    "surface": "クランチ",
+    "reading": "crunch",
+    "code": "cr-jou3-209",
+    "index": 209
+  },
+  {
+    "surface": "カイコ",
+    "reading": "kaiko",
+    "code": "cr-jou3-210",
+    "index": 210
+  },
+  {
+    "surface": "イト",
+    "reading": "ito",
+    "code": "cr-jou3-211",
+    "index": 211
+  },
+  {
+    "surface": "サガ",
+    "reading": "saga",
+    "code": "cr-jou3-212",
+    "index": 212
+  },
+  {
+    "surface": "トンボ",
+    "reading": "tonbo",
+    "code": "cr-jou3-213",
+    "index": 213
+  },
+  {
+    "surface": "デューク",
+    "reading": "duke",
+    "code": "cr-jou3-214",
+    "index": 214
+  },
+  {
+    "surface": "ポジ",
+    "reading": "poji",
+    "code": "cr-jou3-215",
+    "index": 215
+  },
+  {
+    "surface": "ポーク",
+    "reading": "pork",
+    "code": "cr-jou3-216",
+    "index": 216
+  },
+  {
+    "surface": "カブス",
+    "reading": "cub",
+    "code": "cr-jou3-217",
+    "index": 217
+  },
+  {
+    "surface": "メメ",
+    "reading": "meme",
+    "code": "cr-jou3-218",
+    "index": 218
+  },
+  {
+    "surface": "カントク",
+    "reading": "kantoku",
+    "code": "cr-jou3-219",
+    "index": 219
+  },
+  {
+    "surface": "コラッ",
+    "reading": "kora",
+    "code": "cr-jou3-220",
+    "index": 220
+  },
+  {
+    "surface": "ウザ",
+    "reading": "uza",
+    "code": "cr-jou3-221",
+    "index": 221
+  },
+  {
+    "surface": "フロド",
+    "reading": "frodo",
+    "code": "cr-jou3-222",
+    "index": 222
+  },
+  {
+    "surface": "タメ",
+    "reading": "tame",
+    "code": "cr-jou3-223",
+    "index": 223
+  },
+  {
+    "surface": "ザーメン",
+    "reading": "samen",
+    "code": "cr-jou3-224",
+    "index": 224
+  },
+  {
+    "surface": "ヘント",
+    "reading": "gent",
+    "code": "cr-jou3-225",
+    "index": 225
+  },
+  {
+    "surface": "タレ",
+    "reading": "tare",
+    "code": "cr-jou3-226",
+    "index": 226
+  },
+  {
+    "surface": "ビッチ",
+    "reading": "bitchi",
+    "code": "cr-jou3-227",
+    "index": 227
+  },
+  {
+    "surface": "ウイング",
+    "reading": "wing",
+    "code": "cr-jou3-228",
+    "index": 228
+  },
+  {
+    "surface": "リスティング",
+    "reading": "risutingu",
+    "code": "cr-jou3-229",
+    "index": 229
+  },
+  {
+    "surface": "リヴ",
+    "reading": "rivu",
+    "code": "cr-jou3-230",
+    "index": 230
+  },
+  {
+    "surface": "マシ",
+    "reading": "mashi",
+    "code": "cr-jou3-231",
+    "index": 231
+  },
+  {
+    "surface": "ボーダー",
+    "reading": "border",
+    "code": "cr-jou3-232",
+    "index": 232
+  },
+  {
+    "surface": "ゴメン",
+    "reading": "gomen",
+    "code": "cr-jou3-233",
+    "index": 233
+  },
+  {
+    "surface": "キャプ",
+    "reading": "kyapu",
+    "code": "cr-jou3-234",
+    "index": 234
+  },
+  {
+    "surface": "ウソップ",
+    "reading": "usoup",
+    "code": "cr-jou3-235",
+    "index": 235
+  },
+  {
+    "surface": "ビート",
+    "reading": "beat",
+    "code": "cr-jou3-236",
+    "index": 236
+  },
+  {
+    "surface": "オツ",
+    "reading": "otsu",
+    "code": "cr-jou3-237",
+    "index": 237
+  },
+  {
+    "surface": "キャップ",
+    "reading": "kyappu",
+    "code": "cr-jou3-238",
+    "index": 238
+  },
+  {
+    "surface": "ホイットニー",
+    "reading": "whitney",
+    "code": "cr-jou3-239",
+    "index": 239
+  },
+  {
+    "surface": "レジ",
+    "reading": "register",
+    "code": "cr-jou3-240",
+    "index": 240
+  },
+  {
+    "surface": "カズ",
+    "reading": "kazu",
+    "code": "cr-jou3-241",
+    "index": 241
+  },
+  {
+    "surface": "コメット",
+    "reading": "comet",
+    "code": "cr-jou3-242",
+    "index": 242
+  },
+  {
+    "surface": "バカンス",
+    "reading": "vacances",
+    "code": "cr-jou3-243",
+    "index": 243
+  },
+  {
+    "surface": "スゴイ",
+    "reading": "sugoi",
+    "code": "cr-jou3-244",
+    "index": 244
+  },
+  {
+    "surface": "サボテン",
+    "reading": "saboten",
+    "code": "cr-jou3-245",
+    "index": 245
+  },
+  {
+    "surface": "イース",
+    "reading": "iisu",
+    "code": "cr-jou3-246",
+    "index": 246
+  },
+  {
+    "surface": "ビクトリー",
+    "reading": "victory",
+    "code": "cr-jou3-247",
+    "index": 247
+  },
+  {
+    "surface": "レター",
+    "reading": "letter",
+    "code": "cr-jou3-248",
+    "index": 248
+  },
+  {
+    "surface": "マウンティング",
+    "reading": "mounting",
+    "code": "cr-jou3-249",
+    "index": 249
+  },
+  {
+    "surface": "バザール",
+    "reading": "bazar",
+    "code": "cr-jou3-250",
+    "index": 250
+  },
+  {
+    "surface": "ルード",
+    "reading": "ludo",
+    "code": "cr-jou3-251",
+    "index": 251
+  },
+  {
+    "surface": "ミッチ",
+    "reading": "mitchi",
+    "code": "cr-jou3-252",
+    "index": 252
+  },
+  {
+    "surface": "メイズ",
+    "reading": "maze",
+    "code": "cr-jou3-253",
+    "index": 253
+  },
+  {
+    "surface": "クマー",
+    "reading": "kuma",
+    "code": "cr-jou3-254",
+    "index": 254
+  },
+  {
+    "surface": "カウンタ",
+    "reading": "counter",
+    "code": "cr-jou3-255",
+    "index": 255
+  },
+  {
+    "surface": "パウチ",
+    "reading": "pouch",
+    "code": "cr-jou3-256",
+    "index": 256
+  },
+  {
+    "surface": "キューピット",
+    "reading": "cuepit",
+    "code": "cr-jou3-257",
+    "index": 257
+  },
+  {
+    "surface": "アンチ",
+    "reading": "anti",
+    "code": "cr-jou3-258",
+    "index": 258
+  },
+  {
+    "surface": "アカギ",
+    "reading": "akagi",
+    "code": "cr-jou3-259",
+    "index": 259
+  },
+  {
+    "surface": "ソチ",
+    "reading": "sovietchi",
+    "code": "cr-jou3-260",
+    "index": 260
+  },
+  {
+    "surface": "ルーゴ",
+    "reading": "ruugo",
+    "code": "cr-jou3-261",
+    "index": 261
+  },
+  {
+    "surface": "タラップ",
+    "reading": "trap",
+    "code": "cr-jou3-262",
+    "index": 262
+  },
+  {
+    "surface": "ルツ",
+    "reading": "ruth",
+    "code": "cr-jou3-263",
+    "index": 263
+  },
+  {
+    "surface": "ハマー",
+    "reading": "hammer",
+    "code": "cr-jou3-264",
+    "index": 264
+  },
+  {
+    "surface": "ガレ",
+    "reading": "galle",
+    "code": "cr-jou3-265",
+    "index": 265
+  },
+  {
+    "surface": "キャラット",
+    "reading": "kyaratto",
+    "code": "cr-jou3-266",
+    "index": 266
+  },
+  {
+    "surface": "フーガ",
+    "reading": "fuga",
+    "code": "cr-jou3-267",
+    "index": 267
+  },
+  {
+    "surface": "ラチ",
+    "reading": "rachi",
+    "code": "cr-jou3-268",
+    "index": 268
+  },
+  {
+    "surface": "ストア",
+    "reading": "store",
+    "code": "cr-jou3-269",
+    "index": 269
+  },
+  {
+    "surface": "プチ",
+    "reading": "petit",
+    "code": "cr-jou3-270",
+    "index": 270
+  },
+  {
+    "surface": "ヘイト",
+    "reading": "hate",
+    "code": "cr-jou3-271",
+    "index": 271
+  },
+  {
+    "surface": "ダンク",
+    "reading": "dunk",
+    "code": "cr-jou3-272",
+    "index": 272
+  },
+  {
+    "surface": "カシ",
+    "reading": "kashi",
+    "code": "cr-jou3-273",
+    "index": 273
+  },
+  {
+    "surface": "リト",
+    "reading": "rito",
+    "code": "cr-jou3-274",
+    "index": 274
+  },
+  {
+    "surface": "ラグ",
+    "reading": "lag",
+    "code": "cr-jou3-275",
+    "index": 275
+  },
+  {
+    "surface": "セオリー",
+    "reading": "theory",
+    "code": "cr-jou3-276",
+    "index": 276
+  },
+  {
+    "surface": "ネイト",
+    "reading": "nate",
+    "code": "cr-jou3-277",
+    "index": 277
+  },
+  {
+    "surface": "カントリー",
+    "reading": "country",
+    "code": "cr-jou3-278",
+    "index": 278
+  },
+  {
+    "surface": "リヨン",
+    "reading": "lyon",
+    "code": "cr-jou3-279",
+    "index": 279
+  },
+  {
+    "surface": "ハマチ",
+    "reading": "hamachi",
+    "code": "cr-jou3-280",
+    "index": 280
+  },
+  {
+    "surface": "プリン",
+    "reading": "pudding",
+    "code": "cr-jou3-281",
+    "index": 281
+  },
+  {
+    "surface": "ライヒ",
+    "reading": "reich",
+    "code": "cr-jou3-282",
+    "index": 282
+  },
+  {
+    "surface": "パーツ",
+    "reading": "parts",
+    "code": "cr-jou3-283",
+    "index": 283
+  },
+  {
+    "surface": "スチール",
+    "reading": "steel",
+    "code": "cr-jou3-284",
+    "index": 284
+  },
+  {
+    "surface": "ツチ",
+    "reading": "tsuchi",
+    "code": "cr-jou3-285",
+    "index": 285
+  },
+  {
+    "surface": "レジュメ",
+    "reading": "resume",
+    "code": "cr-jou3-286",
+    "index": 286
+  },
+  {
+    "surface": "サーチ",
+    "reading": "search",
+    "code": "cr-jou3-287",
+    "index": 287
+  },
+  {
+    "surface": "ラキ",
+    "reading": "raki",
+    "code": "cr-jou3-288",
+    "index": 288
+  },
+  {
+    "surface": "サイガ",
+    "reading": "saiga",
+    "code": "cr-jou3-289",
+    "index": 289
+  },
+  {
+    "surface": "ノコ",
+    "reading": "noko",
+    "code": "cr-jou3-290",
+    "index": 290
+  },
+  {
+    "surface": "ヒノ",
+    "reading": "hino",
+    "code": "cr-jou3-291",
+    "index": 291
+  },
+  {
+    "surface": "イチ",
+    "reading": "ichi",
+    "code": "cr-jou3-292",
+    "index": 292
+  },
+  {
+    "surface": "フェアー",
+    "reading": "feaa",
+    "code": "cr-jou3-293",
+    "index": 293
+  },
+  {
+    "surface": "コレ",
+    "reading": "kore",
+    "code": "cr-jou3-294",
+    "index": 294
+  },
+  {
+    "surface": "バース",
+    "reading": "barth",
+    "code": "cr-jou3-295",
+    "index": 295
+  },
+  {
+    "surface": "ベー",
+    "reading": "bee",
+    "code": "cr-jou3-296",
+    "index": 296
+  },
+  {
+    "surface": "ハグ",
+    "reading": "hug",
+    "code": "cr-jou3-297",
+    "index": 297
+  },
+  {
+    "surface": "トンカツ",
+    "reading": "tonkatsu",
+    "code": "cr-jou3-298",
+    "index": 298
+  },
+  {
+    "surface": "ポンチ",
+    "reading": "punch",
+    "code": "cr-jou3-299",
+    "index": 299
+  },
+  {
+    "surface": "スポーティ",
+    "reading": "sporty",
+    "code": "cr-jou3-300",
+    "index": 300
+  },
+  {
+    "surface": "クリア",
+    "reading": "clear",
+    "code": "cr-jou3-301",
+    "index": 301
+  },
+  {
+    "surface": "バッファロー",
+    "reading": "buffalo",
+    "code": "cr-jou3-302",
+    "index": 302
+  },
+  {
+    "surface": "シガー",
+    "reading": "cigar",
+    "code": "cr-jou3-303",
+    "index": 303
+  },
+  {
+    "surface": "モク",
+    "reading": "moku",
+    "code": "cr-jou3-304",
+    "index": 304
+  },
+  {
+    "surface": "ライカ",
+    "reading": "leica",
+    "code": "cr-jou3-305",
+    "index": 305
+  },
+  {
+    "surface": "ブツ",
+    "reading": "butsu",
+    "code": "cr-jou3-306",
+    "index": 306
+  },
+  {
+    "surface": "ヒッター",
+    "reading": "hitter",
+    "code": "cr-jou3-307",
+    "index": 307
+  },
+  {
+    "surface": "シュワ",
+    "reading": "shuwa",
+    "code": "cr-jou3-308",
+    "index": 308
+  },
+  {
+    "surface": "ツヴァイ",
+    "reading": "vai",
+    "code": "cr-jou3-309",
+    "index": 309
+  },
+  {
+    "surface": "タチ",
+    "reading": "tachi",
+    "code": "cr-jou3-310",
+    "index": 310
+  },
+  {
+    "surface": "ハッピ",
+    "reading": "happy",
+    "code": "cr-jou3-311",
+    "index": 311
+  },
+  {
+    "surface": "パーッ",
+    "reading": "paa",
+    "code": "cr-jou3-312",
+    "index": 312
+  },
+  {
+    "surface": "バイナリー",
+    "reading": "binary",
+    "code": "cr-jou3-313",
+    "index": 313
+  },
+  {
+    "surface": "セカイ",
+    "reading": "sekai",
+    "code": "cr-jou3-314",
+    "index": 314
+  },
+  {
+    "surface": "ボイシ",
+    "reading": "boise",
+    "code": "cr-jou3-315",
+    "index": 315
+  },
+  {
+    "surface": "スプレー",
+    "reading": "spray",
+    "code": "cr-jou3-316",
+    "index": 316
+  },
+  {
+    "surface": "ソウルメイト",
+    "reading": "sourumate",
+    "code": "cr-jou3-317",
+    "index": 317
+  },
+  {
+    "surface": "セーフ",
+    "reading": "safe",
+    "code": "cr-jou3-318",
+    "index": 318
+  },
+  {
+    "surface": "スレタイ",
+    "reading": "threadtie",
+    "code": "cr-jou3-319",
+    "index": 319
+  },
+  {
+    "surface": "ゴクリ",
+    "reading": "gokuri",
+    "code": "cr-jou3-320",
+    "index": 320
+  },
+  {
+    "surface": "ノッチ",
+    "reading": "notch",
+    "code": "cr-jou3-321",
+    "index": 321
+  },
+  {
+    "surface": "キャスター",
+    "reading": "caster",
+    "code": "cr-jou3-322",
+    "index": 322
+  },
+  {
+    "surface": "アッコ",
+    "reading": "akko",
+    "code": "cr-jou3-323",
+    "index": 323
+  },
+  {
+    "surface": "クイズ",
+    "reading": "quiz",
+    "code": "cr-jou3-324",
+    "index": 324
+  },
+  {
+    "surface": "マヨ",
+    "reading": "mayonnaise",
+    "code": "cr-jou3-325",
+    "index": 325
+  },
+  {
+    "surface": "クーペ",
+    "reading": "coupe",
+    "code": "cr-jou3-326",
+    "index": 326
+  },
+  {
+    "surface": "ヨブ",
+    "reading": "job",
+    "code": "cr-jou3-327",
+    "index": 327
+  },
+  {
+    "surface": "ブラインド",
+    "reading": "blind",
+    "code": "cr-jou3-328",
+    "index": 328
+  },
+  {
+    "surface": "フォーゼ",
+    "reading": "fourze",
+    "code": "cr-jou3-329",
+    "index": 329
+  },
+  {
+    "surface": "スウィーツ",
+    "reading": "sweet",
+    "code": "cr-jou3-330",
+    "index": 330
+  },
+  {
+    "surface": "ゲソ",
+    "reading": "geso",
+    "code": "cr-jou3-331",
+    "index": 331
+  },
+  {
+    "surface": "バロー",
+    "reading": "barrow",
+    "code": "cr-jou3-332",
+    "index": 332
+  },
+  {
+    "surface": "ストール",
+    "reading": "stall",
+    "code": "cr-jou3-333",
+    "index": 333
+  },
+  {
+    "surface": "バスト",
+    "reading": "bust",
+    "code": "cr-jou3-334",
+    "index": 334
+  },
+  {
+    "surface": "カイザー",
+    "reading": "geyser",
+    "code": "cr-jou3-335",
+    "index": 335
+  },
+  {
+    "surface": "レスキュー",
+    "reading": "rescue",
+    "code": "cr-jou3-336",
+    "index": 336
+  },
+  {
+    "surface": "モカ",
+    "reading": "mocha",
+    "code": "cr-jou3-337",
+    "index": 337
+  },
+  {
+    "surface": "トレド",
+    "reading": "toredo",
+    "code": "cr-jou3-338",
+    "index": 338
+  },
+  {
+    "surface": "ソウル",
+    "reading": "souru",
+    "code": "cr-jou3-339",
+    "index": 339
+  },
+  {
+    "surface": "クニ",
+    "reading": "kuni",
+    "code": "cr-jou3-340",
+    "index": 340
+  },
+  {
+    "surface": "キュロット",
+    "reading": "culotte",
+    "code": "cr-jou3-341",
+    "index": 341
+  },
+  {
+    "surface": "ソク",
+    "reading": "soku",
+    "code": "cr-jou3-342",
+    "index": 342
+  },
+  {
+    "surface": "デキ",
+    "reading": "deki",
+    "code": "cr-jou3-343",
+    "index": 343
+  },
+  {
+    "surface": "ターボ",
+    "reading": "turbo",
+    "code": "cr-jou3-344",
+    "index": 344
+  },
+  {
+    "surface": "キャスティング",
+    "reading": "casting",
+    "code": "cr-jou3-345",
+    "index": 345
+  },
+  {
+    "surface": "ワル",
+    "reading": "waru",
+    "code": "cr-jou3-346",
+    "index": 346
+  },
+  {
+    "surface": "リツ",
+    "reading": "ritsu",
+    "code": "cr-jou3-347",
+    "index": 347
+  },
+  {
+    "surface": "ルー",
+    "reading": "ruu",
+    "code": "cr-jou3-348",
+    "index": 348
+  },
+  {
+    "surface": "カコ",
+    "reading": "kako",
+    "code": "cr-jou3-349",
+    "index": 349
+  },
+  {
+    "surface": "スピーディ",
+    "reading": "speedy",
+    "code": "cr-jou3-350",
+    "index": 350
+  },
+  {
+    "surface": "ヒソカ",
+    "reading": "hisoka",
+    "code": "cr-jou3-351",
+    "index": 351
+  },
+  {
+    "surface": "ブロード",
+    "reading": "broad",
+    "code": "cr-jou3-352",
+    "index": 352
+  },
+  {
+    "surface": "ダイゴ",
+    "reading": "daigo",
+    "code": "cr-jou3-353",
+    "index": 353
+  },
+  {
+    "surface": "ポチャ",
+    "reading": "pocha",
+    "code": "cr-jou3-354",
+    "index": 354
+  },
+  {
+    "surface": "フォーレ",
+    "reading": "faure",
+    "code": "cr-jou3-355",
+    "index": 355
+  },
+  {
+    "surface": "カタギ",
+    "reading": "katagi",
+    "code": "cr-jou3-356",
+    "index": 356
+  },
+  {
+    "surface": "モッピー",
+    "reading": "moppea",
+    "code": "cr-jou3-357",
+    "index": 357
+  },
+  {
+    "surface": "パンク",
+    "reading": "punk",
+    "code": "cr-jou3-358",
+    "index": 358
+  },
+  {
+    "surface": "ポキ",
+    "reading": "poki",
+    "code": "cr-jou3-359",
+    "index": 359
+  },
+  {
+    "surface": "クエ",
+    "reading": "kue",
+    "code": "cr-jou3-360",
+    "index": 360
+  },
+  {
+    "surface": "サビ",
+    "reading": "sabi",
+    "code": "cr-jou3-361",
+    "index": 361
+  },
+  {
+    "surface": "ビジター",
+    "reading": "visitor",
+    "code": "cr-jou3-362",
+    "index": 362
+  },
+  {
+    "surface": "フォース",
+    "reading": "fourth",
+    "code": "cr-jou3-363",
+    "index": 363
+  },
+  {
+    "surface": "レンガ",
+    "reading": "renga",
+    "code": "cr-jou3-364",
+    "index": 364
+  },
+  {
+    "surface": "チャッピー",
+    "reading": "chappii",
+    "code": "cr-jou3-365",
+    "index": 365
+  },
+  {
+    "surface": "メープル",
+    "reading": "maple",
+    "code": "cr-jou3-366",
+    "index": 366
+  },
+  {
+    "surface": "ルーバー",
+    "reading": "louver",
+    "code": "cr-jou3-367",
+    "index": 367
+  },
+  {
+    "surface": "ジューサー",
+    "reading": "juicer",
+    "code": "cr-jou3-368",
+    "index": 368
+  },
+  {
+    "surface": "メイド",
+    "reading": "made",
+    "code": "cr-jou3-369",
+    "index": 369
+  },
+  {
+    "surface": "カゼ",
+    "reading": "kaze",
+    "code": "cr-jou3-370",
+    "index": 370
+  },
+  {
+    "surface": "ベーグル",
+    "reading": "bagel",
+    "code": "cr-jou3-371",
+    "index": 371
+  },
+  {
+    "surface": "ファール",
+    "reading": "foul",
+    "code": "cr-jou3-372",
+    "index": 372
+  },
+  {
+    "surface": "スクショ",
+    "reading": "schoolingsho",
+    "code": "cr-jou3-373",
+    "index": 373
+  },
+  {
+    "surface": "レジーム",
+    "reading": "regime",
+    "code": "cr-jou3-374",
+    "index": 374
+  },
+  {
+    "surface": "ファンク",
+    "reading": "funk",
+    "code": "cr-jou3-375",
+    "index": 375
+  },
+  {
+    "surface": "トレス",
+    "reading": "tres",
+    "code": "cr-jou3-376",
+    "index": 376
+  },
+  {
+    "surface": "ケープ",
+    "reading": "cape",
+    "code": "cr-jou3-377",
+    "index": 377
+  },
+  {
+    "surface": "ドロップ",
+    "reading": "drop",
+    "code": "cr-jou3-378",
+    "index": 378
+  },
+  {
+    "surface": "イジメ",
+    "reading": "ijime",
+    "code": "cr-jou3-379",
+    "index": 379
+  },
+  {
+    "surface": "ルーペ",
+    "reading": "lupe",
+    "code": "cr-jou3-380",
+    "index": 380
+  },
+  {
+    "surface": "スリット",
+    "reading": "slit",
+    "code": "cr-jou3-381",
+    "index": 381
+  },
+  {
+    "surface": "チビ",
+    "reading": "chibi",
+    "code": "cr-jou3-382",
+    "index": 382
+  },
+  {
+    "surface": "シュウ",
+    "reading": "shuu",
+    "code": "cr-jou3-383",
+    "index": 383
+  },
+  {
+    "surface": "プレイン",
+    "reading": "plain",
+    "code": "cr-jou3-384",
+    "index": 384
+  },
+  {
+    "surface": "スワップ",
+    "reading": "swap",
+    "code": "cr-jou3-385",
+    "index": 385
+  },
+  {
+    "surface": "ゴッコ",
+    "reading": "gokko",
+    "code": "cr-jou3-386",
+    "index": 386
+  },
+  {
+    "surface": "グラウンド",
+    "reading": "ground",
+    "code": "cr-jou3-387",
+    "index": 387
+  },
+  {
+    "surface": "コウジ",
+    "reading": "kouji",
+    "code": "cr-jou3-388",
+    "index": 388
+  },
+  {
+    "surface": "ハエ",
+    "reading": "hae",
+    "code": "cr-jou3-389",
+    "index": 389
+  },
+  {
+    "surface": "ツイスト",
+    "reading": "twist",
+    "code": "cr-jou3-390",
+    "index": 390
+  },
+  {
+    "surface": "チャッキー",
+    "reading": "chakkey",
+    "code": "cr-jou3-391",
+    "index": 391
+  },
+  {
+    "surface": "ウィンド",
+    "reading": "wind",
+    "code": "cr-jou3-392",
+    "index": 392
+  },
+  {
+    "surface": "トビ",
+    "reading": "tobi",
+    "code": "cr-jou3-393",
+    "index": 393
+  },
+  {
+    "surface": "コリ",
+    "reading": "kori",
+    "code": "cr-jou3-394",
+    "index": 394
+  },
+  {
+    "surface": "プッチ",
+    "reading": "putchi",
+    "code": "cr-jou3-395",
+    "index": 395
+  },
+  {
+    "surface": "ガラッ",
+    "reading": "gara",
+    "code": "cr-jou3-396",
+    "index": 396
+  },
+  {
+    "surface": "シテ",
+    "reading": "shite",
+    "code": "cr-jou3-397",
+    "index": 397
+  },
+  {
+    "surface": "ハイツ",
+    "reading": "heights",
+    "code": "cr-jou3-398",
+    "index": 398
+  },
+  {
+    "surface": "ヒモ",
+    "reading": "himo",
+    "code": "cr-jou3-399",
+    "index": 399
+  },
+  {
+    "surface": "バイデン",
+    "reading": "biden",
+    "code": "cr-jou3-400",
+    "index": 400
+  },
+  {
+    "surface": "メディチ",
+    "reading": "medici",
+    "code": "cr-jou3-401",
+    "index": 401
+  },
+  {
+    "surface": "コロ",
+    "reading": "koro",
+    "code": "cr-jou3-402",
+    "index": 402
+  },
+  {
+    "surface": "シズ",
+    "reading": "shizu",
+    "code": "cr-jou3-403",
+    "index": 403
+  },
+  {
+    "surface": "バックル",
+    "reading": "buckle",
+    "code": "cr-jou3-404",
+    "index": 404
+  },
+  {
+    "surface": "ズーム",
+    "reading": "zoom",
+    "code": "cr-jou3-405",
+    "index": 405
+  },
+  {
+    "surface": "ウエイト",
+    "reading": "weight",
+    "code": "cr-jou3-406",
+    "index": 406
+  },
+  {
+    "surface": "ヒストリー",
+    "reading": "history",
+    "code": "cr-jou3-407",
+    "index": 407
+  },
+  {
+    "surface": "フレーク",
+    "reading": "flake",
+    "code": "cr-jou3-408",
+    "index": 408
+  },
+  {
+    "surface": "ガーター",
+    "reading": "garter",
+    "code": "cr-jou3-409",
+    "index": 409
+  },
+  {
+    "surface": "ベジット",
+    "reading": "bejitto",
+    "code": "cr-jou3-410",
+    "index": 410
+  },
+  {
+    "surface": "グラマー",
+    "reading": "grammar",
+    "code": "cr-jou3-411",
+    "index": 411
+  },
+  {
+    "surface": "クロード",
+    "reading": "kuroodo",
+    "code": "cr-jou3-412",
+    "index": 412
+  },
+  {
+    "surface": "アクセント",
+    "reading": "accent",
+    "code": "cr-jou3-413",
+    "index": 413
+  },
+  {
+    "surface": "キューピッド",
+    "reading": "cupid",
+    "code": "cr-jou3-414",
+    "index": 414
+  },
+  {
+    "surface": "スクーター",
+    "reading": "scooter",
+    "code": "cr-jou3-415",
+    "index": 415
+  },
+  {
+    "surface": "フツ",
+    "reading": "futsu",
+    "code": "cr-jou3-416",
+    "index": 416
+  },
+  {
+    "surface": "サケ",
+    "reading": "sake",
+    "code": "cr-jou3-417",
+    "index": 417
+  },
+  {
+    "surface": "チュウ",
+    "reading": "chuu",
+    "code": "cr-jou3-418",
+    "index": 418
+  },
+  {
+    "surface": "ドール",
+    "reading": "dooru",
+    "code": "cr-jou3-419",
+    "index": 419
+  },
+  {
+    "surface": "トドメ",
+    "reading": "todome",
+    "code": "cr-jou3-420",
+    "index": 420
+  },
+  {
+    "surface": "スイング",
+    "reading": "swing",
+    "code": "cr-jou3-421",
+    "index": 421
+  },
+  {
+    "surface": "タク",
+    "reading": "taku",
+    "code": "cr-jou3-422",
+    "index": 422
+  },
+  {
+    "surface": "タコ",
+    "reading": "tako",
+    "code": "cr-jou3-423",
+    "index": 423
+  },
+  {
+    "surface": "ワンコ",
+    "reading": "wanko",
+    "code": "cr-jou3-424",
+    "index": 424
+  },
+  {
+    "surface": "ワット",
+    "reading": "wat",
+    "code": "cr-jou3-425",
+    "index": 425
+  },
+  {
+    "surface": "アングル",
+    "reading": "angle",
+    "code": "cr-jou3-426",
+    "index": 426
+  },
+  {
+    "surface": "リブレ",
+    "reading": "livere",
+    "code": "cr-jou3-427",
+    "index": 427
+  },
+  {
+    "surface": "スラップ",
+    "reading": "slap",
+    "code": "cr-jou3-428",
+    "index": 428
+  },
+  {
+    "surface": "トーチ",
+    "reading": "toochi",
+    "code": "cr-jou3-429",
+    "index": 429
+  },
+  {
+    "surface": "ヘクター",
+    "reading": "hector",
+    "code": "cr-jou3-430",
+    "index": 430
+  },
+  {
+    "surface": "イモト",
+    "reading": "imoto",
+    "code": "cr-jou3-431",
+    "index": 431
+  },
+  {
+    "surface": "バキ",
+    "reading": "baki",
+    "code": "cr-jou3-432",
+    "index": 432
+  },
+  {
+    "surface": "ハッシュ",
+    "reading": "hash",
+    "code": "cr-jou3-433",
+    "index": 433
+  },
+  {
+    "surface": "ジュール",
+    "reading": "joule",
+    "code": "cr-jou3-434",
+    "index": 434
+  },
+  {
+    "surface": "タイツ",
+    "reading": "tights",
+    "code": "cr-jou3-435",
+    "index": 435
+  },
+  {
+    "surface": "ゴロ",
+    "reading": "grounder",
+    "code": "cr-jou3-436",
+    "index": 436
+  },
+  {
+    "surface": "サボ",
+    "reading": "sabo",
+    "code": "cr-jou3-437",
+    "index": 437
+  },
+  {
+    "surface": "ムショ",
+    "reading": "musho",
+    "code": "cr-jou3-438",
+    "index": 438
+  },
+  {
+    "surface": "ラテ",
+    "reading": "latte",
+    "code": "cr-jou3-439",
+    "index": 439
+  },
+  {
+    "surface": "ウラル",
+    "reading": "ural",
+    "code": "cr-jou3-440",
+    "index": 440
+  },
+  {
+    "surface": "イタリー",
+    "reading": "italia",
+    "code": "cr-jou3-441",
+    "index": 441
+  },
+  {
+    "surface": "オーバーラン",
+    "reading": "overrun",
+    "code": "cr-jou3-442",
+    "index": 442
+  },
+  {
+    "surface": "トラブ",
+    "reading": "torabu",
+    "code": "cr-jou3-443",
+    "index": 443
+  },
+  {
+    "surface": "ワニ",
+    "reading": "wani",
+    "code": "cr-jou3-444",
+    "index": 444
+  },
+  {
+    "surface": "クォーツ",
+    "reading": "quartz",
+    "code": "cr-jou3-445",
+    "index": 445
+  },
+  {
+    "surface": "グルグル",
+    "reading": "guruguru",
+    "code": "cr-jou3-446",
+    "index": 446
+  },
+  {
+    "surface": "ディーコン",
+    "reading": "diikon",
+    "code": "cr-jou3-447",
+    "index": 447
+  },
+  {
+    "surface": "カンタ",
+    "reading": "kanta",
+    "code": "cr-jou3-448",
+    "index": 448
+  },
+  {
+    "surface": "ウツ",
+    "reading": "utsu",
+    "code": "cr-jou3-449",
+    "index": 449
+  },
+  {
+    "surface": "フール",
+    "reading": "four",
+    "code": "cr-jou3-450",
+    "index": 450
+  },
+  {
+    "surface": "オタク",
+    "reading": "otaku",
+    "code": "cr-jou3-451",
+    "index": 451
+  },
+  {
+    "surface": "モロー",
+    "reading": "moreau",
+    "code": "cr-jou3-452",
+    "index": 452
+  },
+  {
+    "surface": "キャッチャー",
+    "reading": "catcher",
+    "code": "cr-jou3-453",
+    "index": 453
+  },
+  {
+    "surface": "カバ",
+    "reading": "kaba",
+    "code": "cr-jou3-454",
+    "index": 454
+  },
+  {
+    "surface": "モック",
+    "reading": "mock",
+    "code": "cr-jou3-455",
+    "index": 455
+  },
+  {
+    "surface": "サマーズ",
+    "reading": "summers",
+    "code": "cr-jou3-456",
+    "index": 456
+  }
+]

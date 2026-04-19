@@ -1,0 +1,6602 @@
+[
+  {
+    "surface": "カッター",
+    "reading": "cutter",
+    "code": "cr-kata2-0",
+    "index": 0
+  },
+  {
+    "surface": "カンタベリー",
+    "reading": "canterbury",
+    "code": "cr-kata2-1",
+    "index": 1
+  },
+  {
+    "surface": "リザーブ",
+    "reading": "reserve",
+    "code": "cr-kata2-2",
+    "index": 2
+  },
+  {
+    "surface": "パーセク",
+    "reading": "parsec",
+    "code": "cr-kata2-3",
+    "index": 3
+  },
+  {
+    "surface": "ペンダント",
+    "reading": "pendant",
+    "code": "cr-kata2-4",
+    "index": 4
+  },
+  {
+    "surface": "ギャロップ",
+    "reading": "gallop",
+    "code": "cr-kata2-5",
+    "index": 5
+  },
+  {
+    "surface": "クリント",
+    "reading": "kurinto",
+    "code": "cr-kata2-6",
+    "index": 6
+  },
+  {
+    "surface": "タガメ",
+    "reading": "tagame",
+    "code": "cr-kata2-7",
+    "index": 7
+  },
+  {
+    "surface": "シフト",
+    "reading": "shift",
+    "code": "cr-kata2-8",
+    "index": 8
+  },
+  {
+    "surface": "セクト",
+    "reading": "sect",
+    "code": "cr-kata2-9",
+    "index": 9
+  },
+  {
+    "surface": "サラウンド",
+    "reading": "surround",
+    "code": "cr-kata2-10",
+    "index": 10
+  },
+  {
+    "surface": "サインツ",
+    "reading": "signtsu",
+    "code": "cr-kata2-11",
+    "index": 11
+  },
+  {
+    "surface": "カイジ",
+    "reading": "kaiji",
+    "code": "cr-kata2-12",
+    "index": 12
+  },
+  {
+    "surface": "ウエイトレス",
+    "reading": "waitress",
+    "code": "cr-kata2-13",
+    "index": 13
+  },
+  {
+    "surface": "ポータブル",
+    "reading": "portable",
+    "code": "cr-kata2-14",
+    "index": 14
+  },
+  {
+    "surface": "サジェスト",
+    "reading": "suggest",
+    "code": "cr-kata2-15",
+    "index": 15
+  },
+  {
+    "surface": "コメ",
+    "reading": "kome",
+    "code": "cr-kata2-16",
+    "index": 16
+  },
+  {
+    "surface": "シゴト",
+    "reading": "shigoto",
+    "code": "cr-kata2-17",
+    "index": 17
+  },
+  {
+    "surface": "レンゲ",
+    "reading": "renge",
+    "code": "cr-kata2-18",
+    "index": 18
+  },
+  {
+    "surface": "カナル",
+    "reading": "canal",
+    "code": "cr-kata2-19",
+    "index": 19
+  },
+  {
+    "surface": "ルーブル",
+    "reading": "ruuburu",
+    "code": "cr-kata2-20",
+    "index": 20
+  },
+  {
+    "surface": "マモル",
+    "reading": "mamoru",
+    "code": "cr-kata2-21",
+    "index": 21
+  },
+  {
+    "surface": "ヘルシング",
+    "reading": "hellshingu",
+    "code": "cr-kata2-22",
+    "index": 22
+  },
+  {
+    "surface": "シッター",
+    "reading": "sitter",
+    "code": "cr-kata2-23",
+    "index": 23
+  },
+  {
+    "surface": "レジュメ",
+    "reading": "resume",
+    "code": "cr-kata2-24",
+    "index": 24
+  },
+  {
+    "surface": "ビートル",
+    "reading": "beatles",
+    "code": "cr-kata2-25",
+    "index": 25
+  },
+  {
+    "surface": "トゲ",
+    "reading": "toge",
+    "code": "cr-kata2-26",
+    "index": 26
+  },
+  {
+    "surface": "ルーツ",
+    "reading": "roots",
+    "code": "cr-kata2-27",
+    "index": 27
+  },
+  {
+    "surface": "ストラト",
+    "reading": "strato",
+    "code": "cr-kata2-28",
+    "index": 28
+  },
+  {
+    "surface": "リミット",
+    "reading": "limit",
+    "code": "cr-kata2-29",
+    "index": 29
+  },
+  {
+    "surface": "キャスト",
+    "reading": "cast",
+    "code": "cr-kata2-30",
+    "index": 30
+  },
+  {
+    "surface": "カイト",
+    "reading": "kite",
+    "code": "cr-kata2-31",
+    "index": 31
+  },
+  {
+    "surface": "リスティング",
+    "reading": "risutingu",
+    "code": "cr-kata2-32",
+    "index": 32
+  },
+  {
+    "surface": "プレイン",
+    "reading": "plain",
+    "code": "cr-kata2-33",
+    "index": 33
+  },
+  {
+    "surface": "ノビ",
+    "reading": "nobi",
+    "code": "cr-kata2-34",
+    "index": 34
+  },
+  {
+    "surface": "カジ",
+    "reading": "kaji",
+    "code": "cr-kata2-35",
+    "index": 35
+  },
+  {
+    "surface": "サプライ",
+    "reading": "supply",
+    "code": "cr-kata2-36",
+    "index": 36
+  },
+  {
+    "surface": "キューピット",
+    "reading": "cuepit",
+    "code": "cr-kata2-37",
+    "index": 37
+  },
+  {
+    "surface": "ターボ",
+    "reading": "turbo",
+    "code": "cr-kata2-38",
+    "index": 38
+  },
+  {
+    "surface": "シーベルト",
+    "reading": "sievert",
+    "code": "cr-kata2-39",
+    "index": 39
+  },
+  {
+    "surface": "タンゴ",
+    "reading": "tango",
+    "code": "cr-kata2-40",
+    "index": 40
+  },
+  {
+    "surface": "ビースト",
+    "reading": "biisuto",
+    "code": "cr-kata2-41",
+    "index": 41
+  },
+  {
+    "surface": "カゴ",
+    "reading": "kago",
+    "code": "cr-kata2-42",
+    "index": 42
+  },
+  {
+    "surface": "クエスト",
+    "reading": "quest",
+    "code": "cr-kata2-43",
+    "index": 43
+  },
+  {
+    "surface": "クルー",
+    "reading": "crew",
+    "code": "cr-kata2-44",
+    "index": 44
+  },
+  {
+    "surface": "コメット",
+    "reading": "comet",
+    "code": "cr-kata2-45",
+    "index": 45
+  },
+  {
+    "surface": "カンプ",
+    "reading": "kampf",
+    "code": "cr-kata2-46",
+    "index": 46
+  },
+  {
+    "surface": "サヨク",
+    "reading": "sayoku",
+    "code": "cr-kata2-47",
+    "index": 47
+  },
+  {
+    "surface": "シゴ",
+    "reading": "shigo",
+    "code": "cr-kata2-48",
+    "index": 48
+  },
+  {
+    "surface": "トライデント",
+    "reading": "trident",
+    "code": "cr-kata2-49",
+    "index": 49
+  },
+  {
+    "surface": "トレス",
+    "reading": "tres",
+    "code": "cr-kata2-50",
+    "index": 50
+  },
+  {
+    "surface": "バーチ",
+    "reading": "birch",
+    "code": "cr-kata2-51",
+    "index": 51
+  },
+  {
+    "surface": "メカニック",
+    "reading": "mechanic",
+    "code": "cr-kata2-52",
+    "index": 52
+  },
+  {
+    "surface": "レーク",
+    "reading": "reeku",
+    "code": "cr-kata2-53",
+    "index": 53
+  },
+  {
+    "surface": "カンター",
+    "reading": "kantaa",
+    "code": "cr-kata2-54",
+    "index": 54
+  },
+  {
+    "surface": "ストロー",
+    "reading": "straw",
+    "code": "cr-kata2-55",
+    "index": 55
+  },
+  {
+    "surface": "スクランブル",
+    "reading": "scramble",
+    "code": "cr-kata2-56",
+    "index": 56
+  },
+  {
+    "surface": "マイト",
+    "reading": "maito",
+    "code": "cr-kata2-57",
+    "index": 57
+  },
+  {
+    "surface": "リヨン",
+    "reading": "lyon",
+    "code": "cr-kata2-58",
+    "index": 58
+  },
+  {
+    "surface": "ボルト",
+    "reading": "bolt",
+    "code": "cr-kata2-59",
+    "index": 59
+  },
+  {
+    "surface": "スレタイ",
+    "reading": "threadtie",
+    "code": "cr-kata2-60",
+    "index": 60
+  },
+  {
+    "surface": "ガイスト",
+    "reading": "geist",
+    "code": "cr-kata2-61",
+    "index": 61
+  },
+  {
+    "surface": "ルーバー",
+    "reading": "louver",
+    "code": "cr-kata2-62",
+    "index": 62
+  },
+  {
+    "surface": "ブレーク",
+    "reading": "break",
+    "code": "cr-kata2-63",
+    "index": 63
+  },
+  {
+    "surface": "セト",
+    "reading": "seto",
+    "code": "cr-kata2-64",
+    "index": 64
+  },
+  {
+    "surface": "バチスタ",
+    "reading": "batisuta",
+    "code": "cr-kata2-65",
+    "index": 65
+  },
+  {
+    "surface": "コスメ",
+    "reading": "cosmetic",
+    "code": "cr-kata2-66",
+    "index": 66
+  },
+  {
+    "surface": "カクテル",
+    "reading": "cocktail",
+    "code": "cr-kata2-67",
+    "index": 67
+  },
+  {
+    "surface": "アイキャッチ",
+    "reading": "eyecatch",
+    "code": "cr-kata2-68",
+    "index": 68
+  },
+  {
+    "surface": "レザー",
+    "reading": "leather",
+    "code": "cr-kata2-69",
+    "index": 69
+  },
+  {
+    "surface": "ルード",
+    "reading": "ludo",
+    "code": "cr-kata2-70",
+    "index": 70
+  },
+  {
+    "surface": "ウィザード",
+    "reading": "wizard",
+    "code": "cr-kata2-71",
+    "index": 71
+  },
+  {
+    "surface": "チアーズ",
+    "reading": "cheer",
+    "code": "cr-kata2-72",
+    "index": 72
+  },
+  {
+    "surface": "タヒ",
+    "reading": "tahi",
+    "code": "cr-kata2-73",
+    "index": 73
+  },
+  {
+    "surface": "レター",
+    "reading": "letter",
+    "code": "cr-kata2-74",
+    "index": 74
+  },
+  {
+    "surface": "メイト",
+    "reading": "mate",
+    "code": "cr-kata2-75",
+    "index": 75
+  },
+  {
+    "surface": "ルーゴ",
+    "reading": "ruugo",
+    "code": "cr-kata2-76",
+    "index": 76
+  },
+  {
+    "surface": "クルーニー",
+    "reading": "kuruunii",
+    "code": "cr-kata2-77",
+    "index": 77
+  },
+  {
+    "surface": "デューク",
+    "reading": "duke",
+    "code": "cr-kata2-78",
+    "index": 78
+  },
+  {
+    "surface": "ポコ",
+    "reading": "poko",
+    "code": "cr-kata2-79",
+    "index": 79
+  },
+  {
+    "surface": "ツル",
+    "reading": "tsuru",
+    "code": "cr-kata2-80",
+    "index": 80
+  },
+  {
+    "surface": "ストア",
+    "reading": "store",
+    "code": "cr-kata2-81",
+    "index": 81
+  },
+  {
+    "surface": "タクト",
+    "reading": "tact",
+    "code": "cr-kata2-82",
+    "index": 82
+  },
+  {
+    "surface": "トレド",
+    "reading": "toredo",
+    "code": "cr-kata2-83",
+    "index": 83
+  },
+  {
+    "surface": "バッジ",
+    "reading": "badge",
+    "code": "cr-kata2-84",
+    "index": 84
+  },
+  {
+    "surface": "ストレッチ",
+    "reading": "stretch",
+    "code": "cr-kata2-85",
+    "index": 85
+  },
+  {
+    "surface": "コモン",
+    "reading": "common",
+    "code": "cr-kata2-86",
+    "index": 86
+  },
+  {
+    "surface": "パドル",
+    "reading": "paddle",
+    "code": "cr-kata2-87",
+    "index": 87
+  },
+  {
+    "surface": "マウンティング",
+    "reading": "mounting",
+    "code": "cr-kata2-88",
+    "index": 88
+  },
+  {
+    "surface": "レゴ",
+    "reading": "lego",
+    "code": "cr-kata2-89",
+    "index": 89
+  },
+  {
+    "surface": "キャスティング",
+    "reading": "casting",
+    "code": "cr-kata2-90",
+    "index": 90
+  },
+  {
+    "surface": "コラム",
+    "reading": "column",
+    "code": "cr-kata2-91",
+    "index": 91
+  },
+  {
+    "surface": "ポッコリ",
+    "reading": "pokkori",
+    "code": "cr-kata2-92",
+    "index": 92
+  },
+  {
+    "surface": "ディーコン",
+    "reading": "diikon",
+    "code": "cr-kata2-93",
+    "index": 93
+  },
+  {
+    "surface": "ローダー",
+    "reading": "lauder",
+    "code": "cr-kata2-94",
+    "index": 94
+  },
+  {
+    "surface": "ラスト",
+    "reading": "last",
+    "code": "cr-kata2-95",
+    "index": 95
+  },
+  {
+    "surface": "キュート",
+    "reading": "cute",
+    "code": "cr-kata2-96",
+    "index": 96
+  },
+  {
+    "surface": "レジスター",
+    "reading": "register",
+    "code": "cr-kata2-97",
+    "index": 97
+  },
+  {
+    "surface": "クライヴ",
+    "reading": "kuraivu",
+    "code": "cr-kata2-98",
+    "index": 98
+  },
+  {
+    "surface": "キャプ",
+    "reading": "kyapu",
+    "code": "cr-kata2-99",
+    "index": 99
+  },
+  {
+    "surface": "ボーダー",
+    "reading": "border",
+    "code": "cr-kata2-100",
+    "index": 100
+  },
+  {
+    "surface": "ボランチ",
+    "reading": "volante",
+    "code": "cr-kata2-101",
+    "index": 101
+  },
+  {
+    "surface": "ユーキャン",
+    "reading": "youcan",
+    "code": "cr-kata2-102",
+    "index": 102
+  },
+  {
+    "surface": "ゴーン",
+    "reading": "goon",
+    "code": "cr-kata2-103",
+    "index": 103
+  },
+  {
+    "surface": "カンタン",
+    "reading": "kantan",
+    "code": "cr-kata2-104",
+    "index": 104
+  },
+  {
+    "surface": "チアリーディング",
+    "reading": "cheerleading",
+    "code": "cr-kata2-105",
+    "index": 105
+  },
+  {
+    "surface": "モルト",
+    "reading": "malt",
+    "code": "cr-kata2-106",
+    "index": 106
+  },
+  {
+    "surface": "ペナルティー",
+    "reading": "penalty",
+    "code": "cr-kata2-107",
+    "index": 107
+  },
+  {
+    "surface": "コンビ",
+    "reading": "combination",
+    "code": "cr-kata2-108",
+    "index": 108
+  },
+  {
+    "surface": "ソウルメイト",
+    "reading": "sourumate",
+    "code": "cr-kata2-109",
+    "index": 109
+  },
+  {
+    "surface": "レディーファースト",
+    "reading": "ladyfirst",
+    "code": "cr-kata2-110",
+    "index": 110
+  },
+  {
+    "surface": "ヒラメ",
+    "reading": "hirame",
+    "code": "cr-kata2-111",
+    "index": 111
+  },
+  {
+    "surface": "サボテン",
+    "reading": "saboten",
+    "code": "cr-kata2-112",
+    "index": 112
+  },
+  {
+    "surface": "リプライ",
+    "reading": "risply",
+    "code": "cr-kata2-113",
+    "index": 113
+  },
+  {
+    "surface": "シメ",
+    "reading": "shime",
+    "code": "cr-kata2-114",
+    "index": 114
+  },
+  {
+    "surface": "シーター",
+    "reading": "seater",
+    "code": "cr-kata2-115",
+    "index": 115
+  },
+  {
+    "surface": "タント",
+    "reading": "thant",
+    "code": "cr-kata2-116",
+    "index": 116
+  },
+  {
+    "surface": "ハゲ",
+    "reading": "hage",
+    "code": "cr-kata2-117",
+    "index": 117
+  },
+  {
+    "surface": "スターター",
+    "reading": "starter",
+    "code": "cr-kata2-118",
+    "index": 118
+  },
+  {
+    "surface": "マントル",
+    "reading": "mantle",
+    "code": "cr-kata2-119",
+    "index": 119
+  },
+  {
+    "surface": "ウィンザー",
+    "reading": "windsor",
+    "code": "cr-kata2-120",
+    "index": 120
+  },
+  {
+    "surface": "スパート",
+    "reading": "spurt",
+    "code": "cr-kata2-121",
+    "index": 121
+  },
+  {
+    "surface": "サトル",
+    "reading": "satoru",
+    "code": "cr-kata2-122",
+    "index": 122
+  },
+  {
+    "surface": "ブラインド",
+    "reading": "blind",
+    "code": "cr-kata2-123",
+    "index": 123
+  },
+  {
+    "surface": "メイプル",
+    "reading": "maple",
+    "code": "cr-kata2-124",
+    "index": 124
+  },
+  {
+    "surface": "ビジター",
+    "reading": "visitor",
+    "code": "cr-kata2-125",
+    "index": 125
+  },
+  {
+    "surface": "カルテット",
+    "reading": "quartetto",
+    "code": "cr-kata2-126",
+    "index": 126
+  },
+  {
+    "surface": "クリープ",
+    "reading": "creep",
+    "code": "cr-kata2-127",
+    "index": 127
+  },
+  {
+    "surface": "セレクト",
+    "reading": "select",
+    "code": "cr-kata2-128",
+    "index": 128
+  },
+  {
+    "surface": "キュレーター",
+    "reading": "curator",
+    "code": "cr-kata2-129",
+    "index": 129
+  },
+  {
+    "surface": "ケーシング",
+    "reading": "casing",
+    "code": "cr-kata2-130",
+    "index": 130
+  },
+  {
+    "surface": "カグラ",
+    "reading": "kagura",
+    "code": "cr-kata2-131",
+    "index": 131
+  },
+  {
+    "surface": "コマツ",
+    "reading": "komatsu",
+    "code": "cr-kata2-132",
+    "index": 132
+  },
+  {
+    "surface": "バロック",
+    "reading": "baroque",
+    "code": "cr-kata2-133",
+    "index": 133
+  },
+  {
+    "surface": "ワルツ",
+    "reading": "waltz",
+    "code": "cr-kata2-134",
+    "index": 134
+  },
+  {
+    "surface": "ドッグファイト",
+    "reading": "dogfight",
+    "code": "cr-kata2-135",
+    "index": 135
+  },
+  {
+    "surface": "アカギ",
+    "reading": "akagi",
+    "code": "cr-kata2-136",
+    "index": 136
+  },
+  {
+    "surface": "ハテ",
+    "reading": "hate",
+    "code": "cr-kata2-137",
+    "index": 137
+  },
+  {
+    "surface": "ネイト",
+    "reading": "nate",
+    "code": "cr-kata2-138",
+    "index": 138
+  },
+  {
+    "surface": "カルテ",
+    "reading": "karte",
+    "code": "cr-kata2-139",
+    "index": 139
+  },
+  {
+    "surface": "ミッチ",
+    "reading": "mitchi",
+    "code": "cr-kata2-140",
+    "index": 140
+  },
+  {
+    "surface": "コドモ",
+    "reading": "kodomo",
+    "code": "cr-kata2-141",
+    "index": 141
+  },
+  {
+    "surface": "タカ",
+    "reading": "taka",
+    "code": "cr-kata2-142",
+    "index": 142
+  },
+  {
+    "surface": "ツバル",
+    "reading": "tuvalu",
+    "code": "cr-kata2-143",
+    "index": 143
+  },
+  {
+    "surface": "モク",
+    "reading": "moku",
+    "code": "cr-kata2-144",
+    "index": 144
+  },
+  {
+    "surface": "ベイツ",
+    "reading": "bates",
+    "code": "cr-kata2-145",
+    "index": 145
+  },
+  {
+    "surface": "サマー",
+    "reading": "summer",
+    "code": "cr-kata2-146",
+    "index": 146
+  },
+  {
+    "surface": "トレース",
+    "reading": "trace",
+    "code": "cr-kata2-147",
+    "index": 147
+  },
+  {
+    "surface": "クローネ",
+    "reading": "krone",
+    "code": "cr-kata2-148",
+    "index": 148
+  },
+  {
+    "surface": "リバー",
+    "reading": "river",
+    "code": "cr-kata2-149",
+    "index": 149
+  },
+  {
+    "surface": "ガッツポーズ",
+    "reading": "gutspause",
+    "code": "cr-kata2-150",
+    "index": 150
+  },
+  {
+    "surface": "スイング",
+    "reading": "swing",
+    "code": "cr-kata2-151",
+    "index": 151
+  },
+  {
+    "surface": "メーテル",
+    "reading": "maytel",
+    "code": "cr-kata2-152",
+    "index": 152
+  },
+  {
+    "surface": "ゴールイン",
+    "reading": "goalin",
+    "code": "cr-kata2-153",
+    "index": 153
+  },
+  {
+    "surface": "リシン",
+    "reading": "ricin",
+    "code": "cr-kata2-154",
+    "index": 154
+  },
+  {
+    "surface": "ジュール",
+    "reading": "joule",
+    "code": "cr-kata2-155",
+    "index": 155
+  },
+  {
+    "surface": "リヴ",
+    "reading": "rivu",
+    "code": "cr-kata2-156",
+    "index": 156
+  },
+  {
+    "surface": "ストール",
+    "reading": "stall",
+    "code": "cr-kata2-157",
+    "index": 157
+  },
+  {
+    "surface": "レンガ",
+    "reading": "renga",
+    "code": "cr-kata2-158",
+    "index": 158
+  },
+  {
+    "surface": "プリンツ",
+    "reading": "print",
+    "code": "cr-kata2-159",
+    "index": 159
+  },
+  {
+    "surface": "ゴ",
+    "reading": "go",
+    "code": "cr-kata2-160",
+    "index": 160
+  },
+  {
+    "surface": "キャッチャー",
+    "reading": "catcher",
+    "code": "cr-kata2-161",
+    "index": 161
+  },
+  {
+    "surface": "ハピ",
+    "reading": "happy",
+    "code": "cr-kata2-162",
+    "index": 162
+  },
+  {
+    "surface": "コンフォート",
+    "reading": "comfort",
+    "code": "cr-kata2-163",
+    "index": 163
+  },
+  {
+    "surface": "カラット",
+    "reading": "carat",
+    "code": "cr-kata2-164",
+    "index": 164
+  },
+  {
+    "surface": "スクショ",
+    "reading": "schoolingsho",
+    "code": "cr-kata2-165",
+    "index": 165
+  },
+  {
+    "surface": "タッグ",
+    "reading": "tag",
+    "code": "cr-kata2-166",
+    "index": 166
+  },
+  {
+    "surface": "ソウルイーター",
+    "reading": "sourueater",
+    "code": "cr-kata2-167",
+    "index": 167
+  },
+  {
+    "surface": "トラブ",
+    "reading": "torabu",
+    "code": "cr-kata2-168",
+    "index": 168
+  },
+  {
+    "surface": "シテ",
+    "reading": "shite",
+    "code": "cr-kata2-169",
+    "index": 169
+  },
+  {
+    "surface": "スチール",
+    "reading": "steel",
+    "code": "cr-kata2-170",
+    "index": 170
+  },
+  {
+    "surface": "カサ",
+    "reading": "casa",
+    "code": "cr-kata2-171",
+    "index": 171
+  },
+  {
+    "surface": "シリンダー",
+    "reading": "cylinder",
+    "code": "cr-kata2-172",
+    "index": 172
+  },
+  {
+    "surface": "キュロット",
+    "reading": "culotte",
+    "code": "cr-kata2-173",
+    "index": 173
+  },
+  {
+    "surface": "ブリジット",
+    "reading": "burijitto",
+    "code": "cr-kata2-174",
+    "index": 174
+  },
+  {
+    "surface": "ルーヴル",
+    "reading": "ruuvuru",
+    "code": "cr-kata2-175",
+    "index": 175
+  },
+  {
+    "surface": "コア",
+    "reading": "core",
+    "code": "cr-kata2-176",
+    "index": 176
+  },
+  {
+    "surface": "ウィンター",
+    "reading": "winter",
+    "code": "cr-kata2-177",
+    "index": 177
+  },
+  {
+    "surface": "ドリブル",
+    "reading": "dribble",
+    "code": "cr-kata2-178",
+    "index": 178
+  },
+  {
+    "surface": "スティッチ",
+    "reading": "stitch",
+    "code": "cr-kata2-179",
+    "index": 179
+  },
+  {
+    "surface": "ヒッター",
+    "reading": "hitter",
+    "code": "cr-kata2-180",
+    "index": 180
+  },
+  {
+    "surface": "ゲンカ",
+    "reading": "genka",
+    "code": "cr-kata2-181",
+    "index": 181
+  },
+  {
+    "surface": "レスキュー",
+    "reading": "rescue",
+    "code": "cr-kata2-182",
+    "index": 182
+  },
+  {
+    "surface": "スポーティ",
+    "reading": "sporty",
+    "code": "cr-kata2-183",
+    "index": 183
+  },
+  {
+    "surface": "カルテル",
+    "reading": "kartell",
+    "code": "cr-kata2-184",
+    "index": 184
+  },
+  {
+    "surface": "ギャルゲー",
+    "reading": "gyarugee",
+    "code": "cr-kata2-185",
+    "index": 185
+  },
+  {
+    "surface": "ハピメ",
+    "reading": "hapyme",
+    "code": "cr-kata2-186",
+    "index": 186
+  },
+  {
+    "surface": "レジスタ",
+    "reading": "register",
+    "code": "cr-kata2-187",
+    "index": 187
+  },
+  {
+    "surface": "メイウェザー",
+    "reading": "mayweather",
+    "code": "cr-kata2-188",
+    "index": 188
+  },
+  {
+    "surface": "ベビ",
+    "reading": "baby",
+    "code": "cr-kata2-189",
+    "index": 189
+  },
+  {
+    "surface": "リバイバル",
+    "reading": "revival",
+    "code": "cr-kata2-190",
+    "index": 190
+  },
+  {
+    "surface": "イモト",
+    "reading": "imoto",
+    "code": "cr-kata2-191",
+    "index": 191
+  },
+  {
+    "surface": "ガンツ",
+    "reading": "ganz",
+    "code": "cr-kata2-192",
+    "index": 192
+  },
+  {
+    "surface": "トロル",
+    "reading": "troll",
+    "code": "cr-kata2-193",
+    "index": 193
+  },
+  {
+    "surface": "ブヨ",
+    "reading": "buyo",
+    "code": "cr-kata2-194",
+    "index": 194
+  },
+  {
+    "surface": "ゴジ",
+    "reading": "gothic",
+    "code": "cr-kata2-195",
+    "index": 195
+  },
+  {
+    "surface": "シルエット",
+    "reading": "silhouette",
+    "code": "cr-kata2-196",
+    "index": 196
+  },
+  {
+    "surface": "メープル",
+    "reading": "maple",
+    "code": "cr-kata2-197",
+    "index": 197
+  },
+  {
+    "surface": "シールド",
+    "reading": "shield",
+    "code": "cr-kata2-198",
+    "index": 198
+  },
+  {
+    "surface": "モール",
+    "reading": "mall",
+    "code": "cr-kata2-199",
+    "index": 199
+  },
+  {
+    "surface": "キューピッド",
+    "reading": "cupid",
+    "code": "cr-kata2-200",
+    "index": 200
+  },
+  {
+    "surface": "ターコイズ",
+    "reading": "turquoise",
+    "code": "cr-kata2-201",
+    "index": 201
+  },
+  {
+    "surface": "スティール",
+    "reading": "steel",
+    "code": "cr-kata2-202",
+    "index": 202
+  },
+  {
+    "surface": "パース",
+    "reading": "purse",
+    "code": "cr-kata2-203",
+    "index": 203
+  },
+  {
+    "surface": "サヨ",
+    "reading": "sayo",
+    "code": "cr-kata2-204",
+    "index": 204
+  },
+  {
+    "surface": "ゲッサン",
+    "reading": "gessan",
+    "code": "cr-kata2-205",
+    "index": 205
+  },
+  {
+    "surface": "クッション",
+    "reading": "cushion",
+    "code": "cr-kata2-206",
+    "index": 206
+  },
+  {
+    "surface": "テオドール",
+    "reading": "teodooru",
+    "code": "cr-kata2-207",
+    "index": 207
+  },
+  {
+    "surface": "ブリザード",
+    "reading": "blizzard",
+    "code": "cr-kata2-208",
+    "index": 208
+  },
+  {
+    "surface": "スティング",
+    "reading": "sutingu",
+    "code": "cr-kata2-209",
+    "index": 209
+  },
+  {
+    "surface": "ルー",
+    "reading": "ruu",
+    "code": "cr-kata2-210",
+    "index": 210
+  },
+  {
+    "surface": "コリ",
+    "reading": "kori",
+    "code": "cr-kata2-211",
+    "index": 211
+  },
+  {
+    "surface": "ルツ",
+    "reading": "ruth",
+    "code": "cr-kata2-212",
+    "index": 212
+  },
+  {
+    "surface": "クウガ",
+    "reading": "kuuga",
+    "code": "cr-kata2-213",
+    "index": 213
+  },
+  {
+    "surface": "ゴッチ",
+    "reading": "gotchi",
+    "code": "cr-kata2-214",
+    "index": 214
+  },
+  {
+    "surface": "ガメ",
+    "reading": "game",
+    "code": "cr-kata2-215",
+    "index": 215
+  },
+  {
+    "surface": "ボーイスカウト",
+    "reading": "boyscout",
+    "code": "cr-kata2-216",
+    "index": 216
+  },
+  {
+    "surface": "タイツ",
+    "reading": "tights",
+    "code": "cr-kata2-217",
+    "index": 217
+  },
+  {
+    "surface": "ツレ",
+    "reading": "tsure",
+    "code": "cr-kata2-218",
+    "index": 218
+  },
+  {
+    "surface": "レヴュー",
+    "reading": "review",
+    "code": "cr-kata2-219",
+    "index": 219
+  },
+  {
+    "surface": "バース",
+    "reading": "barth",
+    "code": "cr-kata2-220",
+    "index": 220
+  },
+  {
+    "surface": "シュタゲ",
+    "reading": "shutage",
+    "code": "cr-kata2-221",
+    "index": 221
+  },
+  {
+    "surface": "コンピ",
+    "reading": "konpi",
+    "code": "cr-kata2-222",
+    "index": 222
+  },
+  {
+    "surface": "モカ",
+    "reading": "mocha",
+    "code": "cr-kata2-223",
+    "index": 223
+  },
+  {
+    "surface": "ウィンウィン",
+    "reading": "winwin",
+    "code": "cr-kata2-224",
+    "index": 224
+  },
+  {
+    "surface": "ルーペ",
+    "reading": "lupe",
+    "code": "cr-kata2-225",
+    "index": 225
+  },
+  {
+    "surface": "キャラット",
+    "reading": "kyaratto",
+    "code": "cr-kata2-226",
+    "index": 226
+  },
+  {
+    "surface": "セーブル",
+    "reading": "sable",
+    "code": "cr-kata2-227",
+    "index": 227
+  },
+  {
+    "surface": "ナゲット",
+    "reading": "nugget",
+    "code": "cr-kata2-228",
+    "index": 228
+  },
+  {
+    "surface": "レジ",
+    "reading": "register",
+    "code": "cr-kata2-229",
+    "index": 229
+  },
+  {
+    "surface": "ビクトリー",
+    "reading": "victory",
+    "code": "cr-kata2-230",
+    "index": 230
+  },
+  {
+    "surface": "セク",
+    "reading": "sector",
+    "code": "cr-kata2-231",
+    "index": 231
+  },
+  {
+    "surface": "クーペ",
+    "reading": "coupe",
+    "code": "cr-kata2-232",
+    "index": 232
+  },
+  {
+    "surface": "バイデン",
+    "reading": "biden",
+    "code": "cr-kata2-233",
+    "index": 233
+  },
+  {
+    "surface": "ガット",
+    "reading": "gatto",
+    "code": "cr-kata2-234",
+    "index": 234
+  },
+  {
+    "surface": "セレス",
+    "reading": "seresu",
+    "code": "cr-kata2-235",
+    "index": 235
+  },
+  {
+    "surface": "スペード",
+    "reading": "spade",
+    "code": "cr-kata2-236",
+    "index": 236
+  },
+  {
+    "surface": "カントン",
+    "reading": "kanton",
+    "code": "cr-kata2-237",
+    "index": 237
+  },
+  {
+    "surface": "リーフレット",
+    "reading": "leaflet",
+    "code": "cr-kata2-238",
+    "index": 238
+  },
+  {
+    "surface": "カイザー",
+    "reading": "geyser",
+    "code": "cr-kata2-239",
+    "index": 239
+  },
+  {
+    "surface": "コンシューマー",
+    "reading": "consumer",
+    "code": "cr-kata2-240",
+    "index": 240
+  },
+  {
+    "surface": "シガー",
+    "reading": "cigar",
+    "code": "cr-kata2-241",
+    "index": 241
+  },
+  {
+    "surface": "トライアル",
+    "reading": "trial",
+    "code": "cr-kata2-242",
+    "index": 242
+  },
+  {
+    "surface": "スクワット",
+    "reading": "squat",
+    "code": "cr-kata2-243",
+    "index": 243
+  },
+  {
+    "surface": "サイコ",
+    "reading": "psycho",
+    "code": "cr-kata2-244",
+    "index": 244
+  },
+  {
+    "surface": "メイズ",
+    "reading": "maze",
+    "code": "cr-kata2-245",
+    "index": 245
+  },
+  {
+    "surface": "ハッピ",
+    "reading": "happy",
+    "code": "cr-kata2-246",
+    "index": 246
+  },
+  {
+    "surface": "モロー",
+    "reading": "moreau",
+    "code": "cr-kata2-247",
+    "index": 247
+  },
+  {
+    "surface": "コバエ",
+    "reading": "kobae",
+    "code": "cr-kata2-248",
+    "index": 248
+  },
+  {
+    "surface": "ソウル",
+    "reading": "souru",
+    "code": "cr-kata2-249",
+    "index": 249
+  },
+  {
+    "surface": "メッセンジャー",
+    "reading": "messenger",
+    "code": "cr-kata2-250",
+    "index": 250
+  },
+  {
+    "surface": "ポーチ",
+    "reading": "porch",
+    "code": "cr-kata2-251",
+    "index": 251
+  },
+  {
+    "surface": "ベジ",
+    "reading": "beji",
+    "code": "cr-kata2-252",
+    "index": 252
+  },
+  {
+    "surface": "ノコ",
+    "reading": "noko",
+    "code": "cr-kata2-253",
+    "index": 253
+  },
+  {
+    "surface": "サテライト",
+    "reading": "satellite",
+    "code": "cr-kata2-254",
+    "index": 254
+  },
+  {
+    "surface": "ガツガツ",
+    "reading": "gatsugatsu",
+    "code": "cr-kata2-255",
+    "index": 255
+  },
+  {
+    "surface": "ウェイトレス",
+    "reading": "waitress",
+    "code": "cr-kata2-256",
+    "index": 256
+  },
+  {
+    "surface": "スカイライン",
+    "reading": "skyline",
+    "code": "cr-kata2-257",
+    "index": 257
+  },
+  {
+    "surface": "マスタング",
+    "reading": "mustang",
+    "code": "cr-kata2-258",
+    "index": 258
+  },
+  {
+    "surface": "カブス",
+    "reading": "cub",
+    "code": "cr-kata2-259",
+    "index": 259
+  },
+  {
+    "surface": "ビート",
+    "reading": "beat",
+    "code": "cr-kata2-260",
+    "index": 260
+  },
+  {
+    "surface": "カントク",
+    "reading": "kantoku",
+    "code": "cr-kata2-261",
+    "index": 261
+  },
+  {
+    "surface": "クランプ",
+    "reading": "clamp",
+    "code": "cr-kata2-262",
+    "index": 262
+  },
+  {
+    "surface": "フロド",
+    "reading": "frodo",
+    "code": "cr-kata2-263",
+    "index": 263
+  },
+  {
+    "surface": "グンソク",
+    "reading": "gunsoku",
+    "code": "cr-kata2-264",
+    "index": 264
+  },
+  {
+    "surface": "ショウ",
+    "reading": "show",
+    "code": "cr-kata2-265",
+    "index": 265
+  },
+  {
+    "surface": "コント",
+    "reading": "conte",
+    "code": "cr-kata2-266",
+    "index": 266
+  },
+  {
+    "surface": "コウジ",
+    "reading": "kouji",
+    "code": "cr-kata2-267",
+    "index": 267
+  },
+  {
+    "surface": "デキ",
+    "reading": "deki",
+    "code": "cr-kata2-268",
+    "index": 268
+  },
+  {
+    "surface": "ブーン",
+    "reading": "buun",
+    "code": "cr-kata2-269",
+    "index": 269
+  },
+  {
+    "surface": "コンコルド",
+    "reading": "concorde",
+    "code": "cr-kata2-270",
+    "index": 270
+  },
+  {
+    "surface": "ウイング",
+    "reading": "wing",
+    "code": "cr-kata2-271",
+    "index": 271
+  },
+  {
+    "surface": "タラップ",
+    "reading": "trap",
+    "code": "cr-kata2-272",
+    "index": 272
+  },
+  {
+    "surface": "ケープ",
+    "reading": "cape",
+    "code": "cr-kata2-273",
+    "index": 273
+  },
+  {
+    "surface": "バカンス",
+    "reading": "vacances",
+    "code": "cr-kata2-274",
+    "index": 274
+  },
+  {
+    "surface": "ブール",
+    "reading": "boole",
+    "code": "cr-kata2-275",
+    "index": 275
+  },
+  {
+    "surface": "ファッショ",
+    "reading": "fascio",
+    "code": "cr-kata2-276",
+    "index": 276
+  },
+  {
+    "surface": "ラグーン",
+    "reading": "lagoon",
+    "code": "cr-kata2-277",
+    "index": 277
+  },
+  {
+    "surface": "ボルテージ",
+    "reading": "voltage",
+    "code": "cr-kata2-278",
+    "index": 278
+  },
+  {
+    "surface": "ブロード",
+    "reading": "broad",
+    "code": "cr-kata2-279",
+    "index": 279
+  },
+  {
+    "surface": "カントリー",
+    "reading": "country",
+    "code": "cr-kata2-280",
+    "index": 280
+  },
+  {
+    "surface": "フォース",
+    "reading": "fourth",
+    "code": "cr-kata2-281",
+    "index": 281
+  },
+  {
+    "surface": "スポーティー",
+    "reading": "sporty",
+    "code": "cr-kata2-282",
+    "index": 282
+  },
+  {
+    "surface": "ブレイド",
+    "reading": "blade",
+    "code": "cr-kata2-283",
+    "index": 283
+  },
+  {
+    "surface": "ルーピー",
+    "reading": "ruupii",
+    "code": "cr-kata2-284",
+    "index": 284
+  },
+  {
+    "surface": "プラーク",
+    "reading": "puraaku",
+    "code": "cr-kata2-285",
+    "index": 285
+  },
+  {
+    "surface": "ラフィット",
+    "reading": "rafitto",
+    "code": "cr-kata2-286",
+    "index": 286
+  },
+  {
+    "surface": "ルト",
+    "reading": "ruto",
+    "code": "cr-kata2-287",
+    "index": 287
+  },
+  {
+    "surface": "ブーイング",
+    "reading": "booing",
+    "code": "cr-kata2-288",
+    "index": 288
+  },
+  {
+    "surface": "ブザー",
+    "reading": "buzzer",
+    "code": "cr-kata2-289",
+    "index": 289
+  },
+  {
+    "surface": "タコ",
+    "reading": "tako",
+    "code": "cr-kata2-290",
+    "index": 290
+  },
+  {
+    "surface": "ダイゴ",
+    "reading": "daigo",
+    "code": "cr-kata2-291",
+    "index": 291
+  },
+  {
+    "surface": "フォーゼ",
+    "reading": "fourze",
+    "code": "cr-kata2-292",
+    "index": 292
+  },
+  {
+    "surface": "カテゴライズ",
+    "reading": "categorize",
+    "code": "cr-kata2-293",
+    "index": 293
+  },
+  {
+    "surface": "ブリーダー",
+    "reading": "breeder",
+    "code": "cr-kata2-294",
+    "index": 294
+  },
+  {
+    "surface": "コモド",
+    "reading": "komodo",
+    "code": "cr-kata2-295",
+    "index": 295
+  },
+  {
+    "surface": "ライヒ",
+    "reading": "reich",
+    "code": "cr-kata2-296",
+    "index": 296
+  },
+  {
+    "surface": "シロップ",
+    "reading": "siroop",
+    "code": "cr-kata2-297",
+    "index": 297
+  },
+  {
+    "surface": "ブレイク",
+    "reading": "break",
+    "code": "cr-kata2-298",
+    "index": 298
+  },
+  {
+    "surface": "カセ",
+    "reading": "kase",
+    "code": "cr-kata2-299",
+    "index": 299
+  },
+  {
+    "surface": "トドメ",
+    "reading": "todome",
+    "code": "cr-kata2-300",
+    "index": 300
+  },
+  {
+    "surface": "ラグ",
+    "reading": "lag",
+    "code": "cr-kata2-301",
+    "index": 301
+  },
+  {
+    "surface": "ツライ",
+    "reading": "tsurai",
+    "code": "cr-kata2-302",
+    "index": 302
+  },
+  {
+    "surface": "シカト",
+    "reading": "shikato",
+    "code": "cr-kata2-303",
+    "index": 303
+  },
+  {
+    "surface": "スネーク",
+    "reading": "snake",
+    "code": "cr-kata2-304",
+    "index": 304
+  },
+  {
+    "surface": "プロブレム",
+    "reading": "problem",
+    "code": "cr-kata2-305",
+    "index": 305
+  },
+  {
+    "surface": "モンテ",
+    "reading": "monte",
+    "code": "cr-kata2-306",
+    "index": 306
+  },
+  {
+    "surface": "リテール",
+    "reading": "retail",
+    "code": "cr-kata2-307",
+    "index": 307
+  },
+  {
+    "surface": "スコーン",
+    "reading": "scone",
+    "code": "cr-kata2-308",
+    "index": 308
+  },
+  {
+    "surface": "スペクター",
+    "reading": "spector",
+    "code": "cr-kata2-309",
+    "index": 309
+  },
+  {
+    "surface": "ショウガ",
+    "reading": "shouga",
+    "code": "cr-kata2-310",
+    "index": 310
+  },
+  {
+    "surface": "ナツメ",
+    "reading": "natsume",
+    "code": "cr-kata2-311",
+    "index": 311
+  },
+  {
+    "surface": "ワコム",
+    "reading": "wakomu",
+    "code": "cr-kata2-312",
+    "index": 312
+  },
+  {
+    "surface": "コロ",
+    "reading": "koro",
+    "code": "cr-kata2-313",
+    "index": 313
+  },
+  {
+    "surface": "ブス",
+    "reading": "busu",
+    "code": "cr-kata2-314",
+    "index": 314
+  },
+  {
+    "surface": "ヘント",
+    "reading": "gent",
+    "code": "cr-kata2-315",
+    "index": 315
+  },
+  {
+    "surface": "ジューサー",
+    "reading": "juicer",
+    "code": "cr-kata2-316",
+    "index": 316
+  },
+  {
+    "surface": "リザードン",
+    "reading": "rizadon",
+    "code": "cr-kata2-317",
+    "index": 317
+  },
+  {
+    "surface": "デュエリスト",
+    "reading": "dyuerisuto",
+    "code": "cr-kata2-318",
+    "index": 318
+  },
+  {
+    "surface": "スピリット",
+    "reading": "spirit",
+    "code": "cr-kata2-319",
+    "index": 319
+  },
+  {
+    "surface": "ソウ",
+    "reading": "sou",
+    "code": "cr-kata2-320",
+    "index": 320
+  },
+  {
+    "surface": "ワニ",
+    "reading": "wani",
+    "code": "cr-kata2-321",
+    "index": 321
+  },
+  {
+    "surface": "プレハブ",
+    "reading": "prefab",
+    "code": "cr-kata2-322",
+    "index": 322
+  },
+  {
+    "surface": "リブレ",
+    "reading": "livere",
+    "code": "cr-kata2-323",
+    "index": 323
+  },
+  {
+    "surface": "クニ",
+    "reading": "kuni",
+    "code": "cr-kata2-324",
+    "index": 324
+  },
+  {
+    "surface": "スピ",
+    "reading": "supi",
+    "code": "cr-kata2-325",
+    "index": 325
+  },
+  {
+    "surface": "ポケモン",
+    "reading": "pokemon",
+    "code": "cr-kata2-326",
+    "index": 326
+  },
+  {
+    "surface": "コンポ",
+    "reading": "component",
+    "code": "cr-kata2-327",
+    "index": 327
+  },
+  {
+    "surface": "クルーザー",
+    "reading": "cruiser",
+    "code": "cr-kata2-328",
+    "index": 328
+  },
+  {
+    "surface": "ソイツ",
+    "reading": "soitsu",
+    "code": "cr-kata2-329",
+    "index": 329
+  },
+  {
+    "surface": "リミテッド",
+    "reading": "limited",
+    "code": "cr-kata2-330",
+    "index": 330
+  },
+  {
+    "surface": "メディカル",
+    "reading": "medical",
+    "code": "cr-kata2-331",
+    "index": 331
+  },
+  {
+    "surface": "プロンプト",
+    "reading": "prompt",
+    "code": "cr-kata2-332",
+    "index": 332
+  },
+  {
+    "surface": "セッ",
+    "reading": "se",
+    "code": "cr-kata2-333",
+    "index": 333
+  },
+  {
+    "surface": "ブルマー",
+    "reading": "bloomer",
+    "code": "cr-kata2-334",
+    "index": 334
+  },
+  {
+    "surface": "スピーディ",
+    "reading": "speedy",
+    "code": "cr-kata2-335",
+    "index": 335
+  },
+  {
+    "surface": "カズ",
+    "reading": "kazu",
+    "code": "cr-kata2-336",
+    "index": 336
+  },
+  {
+    "surface": "バフェット",
+    "reading": "bafetto",
+    "code": "cr-kata2-337",
+    "index": 337
+  },
+  {
+    "surface": "スターク",
+    "reading": "stark",
+    "code": "cr-kata2-338",
+    "index": 338
+  },
+  {
+    "surface": "メソッド",
+    "reading": "method",
+    "code": "cr-kata2-339",
+    "index": 339
+  },
+  {
+    "surface": "シーサー",
+    "reading": "shiisaa",
+    "code": "cr-kata2-340",
+    "index": 340
+  },
+  {
+    "surface": "シーサイド",
+    "reading": "seaside",
+    "code": "cr-kata2-341",
+    "index": 341
+  },
+  {
+    "surface": "モールド",
+    "reading": "mold",
+    "code": "cr-kata2-342",
+    "index": 342
+  },
+  {
+    "surface": "ウユニ",
+    "reading": "uyuni",
+    "code": "cr-kata2-343",
+    "index": 343
+  },
+  {
+    "surface": "クレイグ",
+    "reading": "kureigu",
+    "code": "cr-kata2-344",
+    "index": 344
+  },
+  {
+    "surface": "ウィンク",
+    "reading": "wink",
+    "code": "cr-kata2-345",
+    "index": 345
+  },
+  {
+    "surface": "ラプソディ",
+    "reading": "rhapsody",
+    "code": "cr-kata2-346",
+    "index": 346
+  },
+  {
+    "surface": "ウィンド",
+    "reading": "wind",
+    "code": "cr-kata2-347",
+    "index": 347
+  },
+  {
+    "surface": "バラスト",
+    "reading": "ballast",
+    "code": "cr-kata2-348",
+    "index": 348
+  },
+  {
+    "surface": "ノッチ",
+    "reading": "notch",
+    "code": "cr-kata2-349",
+    "index": 349
+  },
+  {
+    "surface": "ミュール",
+    "reading": "mule",
+    "code": "cr-kata2-350",
+    "index": 350
+  },
+  {
+    "surface": "ウェイト",
+    "reading": "weight",
+    "code": "cr-kata2-351",
+    "index": 351
+  },
+  {
+    "surface": "フレキシブル",
+    "reading": "flexible",
+    "code": "cr-kata2-352",
+    "index": 352
+  },
+  {
+    "surface": "ウィンドウ",
+    "reading": "window",
+    "code": "cr-kata2-353",
+    "index": 353
+  },
+  {
+    "surface": "マシ",
+    "reading": "mashi",
+    "code": "cr-kata2-354",
+    "index": 354
+  },
+  {
+    "surface": "クロード",
+    "reading": "kuroodo",
+    "code": "cr-kata2-355",
+    "index": 355
+  },
+  {
+    "surface": "ガチ",
+    "reading": "gachi",
+    "code": "cr-kata2-356",
+    "index": 356
+  },
+  {
+    "surface": "トピ",
+    "reading": "topi",
+    "code": "cr-kata2-357",
+    "index": 357
+  },
+  {
+    "surface": "スペ",
+    "reading": "special",
+    "code": "cr-kata2-358",
+    "index": 358
+  },
+  {
+    "surface": "サバト",
+    "reading": "sabado",
+    "code": "cr-kata2-359",
+    "index": 359
+  },
+  {
+    "surface": "バッファロー",
+    "reading": "buffalo",
+    "code": "cr-kata2-360",
+    "index": 360
+  },
+  {
+    "surface": "フリーザー",
+    "reading": "freezer",
+    "code": "cr-kata2-361",
+    "index": 361
+  },
+  {
+    "surface": "カンナ",
+    "reading": "kanna",
+    "code": "cr-kata2-362",
+    "index": 362
+  },
+  {
+    "surface": "ウェポン",
+    "reading": "weapon",
+    "code": "cr-kata2-363",
+    "index": 363
+  },
+  {
+    "surface": "リスペクト",
+    "reading": "risupekuto",
+    "code": "cr-kata2-364",
+    "index": 364
+  },
+  {
+    "surface": "オーバーラン",
+    "reading": "overrun",
+    "code": "cr-kata2-365",
+    "index": 365
+  },
+  {
+    "surface": "ヒソカ",
+    "reading": "hisoka",
+    "code": "cr-kata2-366",
+    "index": 366
+  },
+  {
+    "surface": "スカル",
+    "reading": "scull",
+    "code": "cr-kata2-367",
+    "index": 367
+  },
+  {
+    "surface": "カンパ",
+    "reading": "kampaniya",
+    "code": "cr-kata2-368",
+    "index": 368
+  },
+  {
+    "surface": "フェチ",
+    "reading": "fetishism",
+    "code": "cr-kata2-369",
+    "index": 369
+  },
+  {
+    "surface": "クローズ",
+    "reading": "close",
+    "code": "cr-kata2-370",
+    "index": 370
+  },
+  {
+    "surface": "カウンタ",
+    "reading": "counter",
+    "code": "cr-kata2-371",
+    "index": 371
+  },
+  {
+    "surface": "プッチ",
+    "reading": "putchi",
+    "code": "cr-kata2-372",
+    "index": 372
+  },
+  {
+    "surface": "パープル",
+    "reading": "purple",
+    "code": "cr-kata2-373",
+    "index": 373
+  },
+  {
+    "surface": "モッピー",
+    "reading": "moppea",
+    "code": "cr-kata2-374",
+    "index": 374
+  },
+  {
+    "surface": "イコン",
+    "reading": "ikon",
+    "code": "cr-kata2-375",
+    "index": 375
+  },
+  {
+    "surface": "ロジカル",
+    "reading": "logical",
+    "code": "cr-kata2-376",
+    "index": 376
+  },
+  {
+    "surface": "コイツ",
+    "reading": "koitsu",
+    "code": "cr-kata2-377",
+    "index": 377
+  },
+  {
+    "surface": "ハッシュ",
+    "reading": "hash",
+    "code": "cr-kata2-378",
+    "index": 378
+  },
+  {
+    "surface": "トチ",
+    "reading": "tochi",
+    "code": "cr-kata2-379",
+    "index": 379
+  },
+  {
+    "surface": "ユーチューブ",
+    "reading": "youtube",
+    "code": "cr-kata2-380",
+    "index": 380
+  },
+  {
+    "surface": "ハートリー",
+    "reading": "haatorii",
+    "code": "cr-kata2-381",
+    "index": 381
+  },
+  {
+    "surface": "ホイットニー",
+    "reading": "whitney",
+    "code": "cr-kata2-382",
+    "index": 382
+  },
+  {
+    "surface": "シゲ",
+    "reading": "shige",
+    "code": "cr-kata2-383",
+    "index": 383
+  },
+  {
+    "surface": "レイヴ",
+    "reading": "rave",
+    "code": "cr-kata2-384",
+    "index": 384
+  },
+  {
+    "surface": "ビター",
+    "reading": "bitter",
+    "code": "cr-kata2-385",
+    "index": 385
+  },
+  {
+    "surface": "ベジット",
+    "reading": "bejitto",
+    "code": "cr-kata2-386",
+    "index": 386
+  },
+  {
+    "surface": "スライ",
+    "reading": "sly",
+    "code": "cr-kata2-387",
+    "index": 387
+  },
+  {
+    "surface": "ベッテル",
+    "reading": "vettel",
+    "code": "cr-kata2-388",
+    "index": 388
+  },
+  {
+    "surface": "マットレス",
+    "reading": "mattress",
+    "code": "cr-kata2-389",
+    "index": 389
+  },
+  {
+    "surface": "モットー",
+    "reading": "motto",
+    "code": "cr-kata2-390",
+    "index": 390
+  },
+  {
+    "surface": "フォスター",
+    "reading": "foster",
+    "code": "cr-kata2-391",
+    "index": 391
+  },
+  {
+    "surface": "シール",
+    "reading": "seal",
+    "code": "cr-kata2-392",
+    "index": 392
+  },
+  {
+    "surface": "メバル",
+    "reading": "mebaru",
+    "code": "cr-kata2-393",
+    "index": 393
+  },
+  {
+    "surface": "デニッシュ",
+    "reading": "danish",
+    "code": "cr-kata2-394",
+    "index": 394
+  },
+  {
+    "surface": "メイド",
+    "reading": "made",
+    "code": "cr-kata2-395",
+    "index": 395
+  },
+  {
+    "surface": "コラコラ",
+    "reading": "korakora",
+    "code": "cr-kata2-396",
+    "index": 396
+  },
+  {
+    "surface": "リーズナブル",
+    "reading": "reasonable",
+    "code": "cr-kata2-397",
+    "index": 397
+  },
+  {
+    "surface": "モテ",
+    "reading": "mote",
+    "code": "cr-kata2-398",
+    "index": 398
+  },
+  {
+    "surface": "ファール",
+    "reading": "foul",
+    "code": "cr-kata2-399",
+    "index": 399
+  },
+  {
+    "surface": "シンジケート",
+    "reading": "syndicate",
+    "code": "cr-kata2-400",
+    "index": 400
+  },
+  {
+    "surface": "ガクト",
+    "reading": "gakuto",
+    "code": "cr-kata2-401",
+    "index": 401
+  },
+  {
+    "surface": "フローチャート",
+    "reading": "flowchart",
+    "code": "cr-kata2-402",
+    "index": 402
+  },
+  {
+    "surface": "ユークリッド",
+    "reading": "euclid",
+    "code": "cr-kata2-403",
+    "index": 403
+  },
+  {
+    "surface": "イートイン",
+    "reading": "eatin",
+    "code": "cr-kata2-404",
+    "index": 404
+  },
+  {
+    "surface": "ハウンド",
+    "reading": "hound",
+    "code": "cr-kata2-405",
+    "index": 405
+  },
+  {
+    "surface": "ヒストリー",
+    "reading": "history",
+    "code": "cr-kata2-406",
+    "index": 406
+  },
+  {
+    "surface": "セシール",
+    "reading": "cecil",
+    "code": "cr-kata2-407",
+    "index": 407
+  },
+  {
+    "surface": "タレ",
+    "reading": "tare",
+    "code": "cr-kata2-408",
+    "index": 408
+  },
+  {
+    "surface": "カッカ",
+    "reading": "kakka",
+    "code": "cr-kata2-409",
+    "index": 409
+  },
+  {
+    "surface": "コルト",
+    "reading": "colt",
+    "code": "cr-kata2-410",
+    "index": 410
+  },
+  {
+    "surface": "スヨン",
+    "reading": "suyon",
+    "code": "cr-kata2-411",
+    "index": 411
+  },
+  {
+    "surface": "カートリッジ",
+    "reading": "cartridge",
+    "code": "cr-kata2-412",
+    "index": 412
+  },
+  {
+    "surface": "カントー",
+    "reading": "kantoo",
+    "code": "cr-kata2-413",
+    "index": 413
+  },
+  {
+    "surface": "ワレメ",
+    "reading": "wareme",
+    "code": "cr-kata2-414",
+    "index": 414
+  },
+  {
+    "surface": "レジーム",
+    "reading": "regime",
+    "code": "cr-kata2-415",
+    "index": 415
+  },
+  {
+    "surface": "マスキング",
+    "reading": "masking",
+    "code": "cr-kata2-416",
+    "index": 416
+  },
+  {
+    "surface": "サラト",
+    "reading": "sarahto",
+    "code": "cr-kata2-417",
+    "index": 417
+  },
+  {
+    "surface": "スガ",
+    "reading": "suga",
+    "code": "cr-kata2-418",
+    "index": 418
+  },
+  {
+    "surface": "ファイズ",
+    "reading": "faizu",
+    "code": "cr-kata2-419",
+    "index": 419
+  },
+  {
+    "surface": "リッジ",
+    "reading": "ridge",
+    "code": "cr-kata2-420",
+    "index": 420
+  },
+  {
+    "surface": "ラプター",
+    "reading": "raptor",
+    "code": "cr-kata2-421",
+    "index": 421
+  },
+  {
+    "surface": "レッカー",
+    "reading": "wrecker",
+    "code": "cr-kata2-422",
+    "index": 422
+  },
+  {
+    "surface": "スパン",
+    "reading": "span",
+    "code": "cr-kata2-423",
+    "index": 423
+  },
+  {
+    "surface": "レジスタンス",
+    "reading": "resistance",
+    "code": "cr-kata2-424",
+    "index": 424
+  },
+  {
+    "surface": "アナキスト",
+    "reading": "anarchist",
+    "code": "cr-kata2-425",
+    "index": 425
+  },
+  {
+    "surface": "ルン",
+    "reading": "run",
+    "code": "cr-kata2-426",
+    "index": 426
+  },
+  {
+    "surface": "カボス",
+    "reading": "kabosu",
+    "code": "cr-kata2-427",
+    "index": 427
+  },
+  {
+    "surface": "タペストリー",
+    "reading": "tapestry",
+    "code": "cr-kata2-428",
+    "index": 428
+  },
+  {
+    "surface": "バイナリー",
+    "reading": "binary",
+    "code": "cr-kata2-429",
+    "index": 429
+  },
+  {
+    "surface": "リメーク",
+    "reading": "remake",
+    "code": "cr-kata2-430",
+    "index": 430
+  },
+  {
+    "surface": "バザール",
+    "reading": "bazar",
+    "code": "cr-kata2-431",
+    "index": 431
+  },
+  {
+    "surface": "フォーレ",
+    "reading": "faure",
+    "code": "cr-kata2-432",
+    "index": 432
+  },
+  {
+    "surface": "デッカード",
+    "reading": "descard",
+    "code": "cr-kata2-433",
+    "index": 433
+  },
+  {
+    "surface": "ポカ",
+    "reading": "poka",
+    "code": "cr-kata2-434",
+    "index": 434
+  },
+  {
+    "surface": "カイコ",
+    "reading": "kaiko",
+    "code": "cr-kata2-435",
+    "index": 435
+  },
+  {
+    "surface": "ライティング",
+    "reading": "writing",
+    "code": "cr-kata2-436",
+    "index": 436
+  },
+  {
+    "surface": "ワゴン",
+    "reading": "wagon",
+    "code": "cr-kata2-437",
+    "index": 437
+  },
+  {
+    "surface": "サンスター",
+    "reading": "sunstar",
+    "code": "cr-kata2-438",
+    "index": 438
+  },
+  {
+    "surface": "ノブ",
+    "reading": "knob",
+    "code": "cr-kata2-439",
+    "index": 439
+  },
+  {
+    "surface": "ロスト",
+    "reading": "lost",
+    "code": "cr-kata2-440",
+    "index": 440
+  },
+  {
+    "surface": "タメ",
+    "reading": "tame",
+    "code": "cr-kata2-441",
+    "index": 441
+  },
+  {
+    "surface": "リモート",
+    "reading": "remote",
+    "code": "cr-kata2-442",
+    "index": 442
+  },
+  {
+    "surface": "ロイター",
+    "reading": "reuters",
+    "code": "cr-kata2-443",
+    "index": 443
+  },
+  {
+    "surface": "クネクネ",
+    "reading": "kunekune",
+    "code": "cr-kata2-444",
+    "index": 444
+  },
+  {
+    "surface": "ション",
+    "reading": "shon",
+    "code": "cr-kata2-445",
+    "index": 445
+  },
+  {
+    "surface": "ウゴ",
+    "reading": "ugo",
+    "code": "cr-kata2-446",
+    "index": 446
+  },
+  {
+    "surface": "スプラッシュ",
+    "reading": "splash",
+    "code": "cr-kata2-447",
+    "index": 447
+  },
+  {
+    "surface": "ワリ",
+    "reading": "wari",
+    "code": "cr-kata2-448",
+    "index": 448
+  },
+  {
+    "surface": "バーゲン",
+    "reading": "bargain",
+    "code": "cr-kata2-449",
+    "index": 449
+  },
+  {
+    "surface": "ハインツ",
+    "reading": "heinz",
+    "code": "cr-kata2-450",
+    "index": 450
+  },
+  {
+    "surface": "ディオール",
+    "reading": "dior",
+    "code": "cr-kata2-451",
+    "index": 451
+  },
+  {
+    "surface": "パイオツ",
+    "reading": "pieotsu",
+    "code": "cr-kata2-452",
+    "index": 452
+  },
+  {
+    "surface": "ツイスト",
+    "reading": "twist",
+    "code": "cr-kata2-453",
+    "index": 453
+  },
+  {
+    "surface": "リハ",
+    "reading": "rehearsal",
+    "code": "cr-kata2-454",
+    "index": 454
+  },
+  {
+    "surface": "サト",
+    "reading": "sato",
+    "code": "cr-kata2-455",
+    "index": 455
+  },
+  {
+    "surface": "ブルネイ",
+    "reading": "brunei",
+    "code": "cr-kata2-456",
+    "index": 456
+  },
+  {
+    "surface": "デュエット",
+    "reading": "duet",
+    "code": "cr-kata2-457",
+    "index": 457
+  },
+  {
+    "surface": "ジントニック",
+    "reading": "gintonic",
+    "code": "cr-kata2-458",
+    "index": 458
+  },
+  {
+    "surface": "カッティング",
+    "reading": "cutting",
+    "code": "cr-kata2-459",
+    "index": 459
+  },
+  {
+    "surface": "イタリー",
+    "reading": "italia",
+    "code": "cr-kata2-460",
+    "index": 460
+  },
+  {
+    "surface": "ヘクター",
+    "reading": "hector",
+    "code": "cr-kata2-461",
+    "index": 461
+  },
+  {
+    "surface": "フォーマット",
+    "reading": "format",
+    "code": "cr-kata2-462",
+    "index": 462
+  },
+  {
+    "surface": "スルメ",
+    "reading": "surume",
+    "code": "cr-kata2-463",
+    "index": 463
+  },
+  {
+    "surface": "サガ",
+    "reading": "saga",
+    "code": "cr-kata2-464",
+    "index": 464
+  },
+  {
+    "surface": "ワンピ",
+    "reading": "onepiece",
+    "code": "cr-kata2-465",
+    "index": 465
+  },
+  {
+    "surface": "セオリー",
+    "reading": "theory",
+    "code": "cr-kata2-466",
+    "index": 466
+  },
+  {
+    "surface": "カケ",
+    "reading": "kake",
+    "code": "cr-kata2-467",
+    "index": 467
+  },
+  {
+    "surface": "バッキンガム",
+    "reading": "bakkingamu",
+    "code": "cr-kata2-468",
+    "index": 468
+  },
+  {
+    "surface": "ダイレクト",
+    "reading": "direct",
+    "code": "cr-kata2-469",
+    "index": 469
+  },
+  {
+    "surface": "レバレッジ",
+    "reading": "leverage",
+    "code": "cr-kata2-470",
+    "index": 470
+  },
+  {
+    "surface": "マツモト",
+    "reading": "matsumoto",
+    "code": "cr-kata2-471",
+    "index": 471
+  },
+  {
+    "surface": "アクセント",
+    "reading": "accent",
+    "code": "cr-kata2-472",
+    "index": 472
+  },
+  {
+    "surface": "ニセ",
+    "reading": "nise",
+    "code": "cr-kata2-473",
+    "index": 473
+  },
+  {
+    "surface": "フェイント",
+    "reading": "feint",
+    "code": "cr-kata2-474",
+    "index": 474
+  },
+  {
+    "surface": "サード",
+    "reading": "third",
+    "code": "cr-kata2-475",
+    "index": 475
+  },
+  {
+    "surface": "ローカル",
+    "reading": "local",
+    "code": "cr-kata2-476",
+    "index": 476
+  },
+  {
+    "surface": "ウェイド",
+    "reading": "wade",
+    "code": "cr-kata2-477",
+    "index": 477
+  },
+  {
+    "surface": "フォーエバー",
+    "reading": "forever",
+    "code": "cr-kata2-478",
+    "index": 478
+  },
+  {
+    "surface": "ザーメン",
+    "reading": "samen",
+    "code": "cr-kata2-479",
+    "index": 479
+  },
+  {
+    "surface": "グリンピース",
+    "reading": "greenpiece",
+    "code": "cr-kata2-480",
+    "index": 480
+  },
+  {
+    "surface": "コロニアル",
+    "reading": "colonial",
+    "code": "cr-kata2-481",
+    "index": 481
+  },
+  {
+    "surface": "ウロコ",
+    "reading": "uroko",
+    "code": "cr-kata2-482",
+    "index": 482
+  },
+  {
+    "surface": "サルトル",
+    "reading": "sartre",
+    "code": "cr-kata2-483",
+    "index": 483
+  },
+  {
+    "surface": "マネジャー",
+    "reading": "manager",
+    "code": "cr-kata2-484",
+    "index": 484
+  },
+  {
+    "surface": "グモ",
+    "reading": "gumo",
+    "code": "cr-kata2-485",
+    "index": 485
+  },
+  {
+    "surface": "ノミ",
+    "reading": "nomi",
+    "code": "cr-kata2-486",
+    "index": 486
+  },
+  {
+    "surface": "ハッチ",
+    "reading": "hatch",
+    "code": "cr-kata2-487",
+    "index": 487
+  },
+  {
+    "surface": "リデル",
+    "reading": "liddell",
+    "code": "cr-kata2-488",
+    "index": 488
+  },
+  {
+    "surface": "カイル",
+    "reading": "kyle",
+    "code": "cr-kata2-489",
+    "index": 489
+  },
+  {
+    "surface": "ストーブ",
+    "reading": "stove",
+    "code": "cr-kata2-490",
+    "index": 490
+  },
+  {
+    "surface": "ノリノリ",
+    "reading": "norinori",
+    "code": "cr-kata2-491",
+    "index": 491
+  },
+  {
+    "surface": "ウィッチャー",
+    "reading": "itchaa",
+    "code": "cr-kata2-492",
+    "index": 492
+  },
+  {
+    "surface": "コロッ",
+    "reading": "koro",
+    "code": "cr-kata2-493",
+    "index": 493
+  },
+  {
+    "surface": "ポジ",
+    "reading": "poji",
+    "code": "cr-kata2-494",
+    "index": 494
+  },
+  {
+    "surface": "ガマン",
+    "reading": "gaman",
+    "code": "cr-kata2-495",
+    "index": 495
+  },
+  {
+    "surface": "ルーラー",
+    "reading": "ruler",
+    "code": "cr-kata2-496",
+    "index": 496
+  },
+  {
+    "surface": "ヨブ",
+    "reading": "job",
+    "code": "cr-kata2-497",
+    "index": 497
+  },
+  {
+    "surface": "パレス",
+    "reading": "palace",
+    "code": "cr-kata2-498",
+    "index": 498
+  },
+  {
+    "surface": "ブツ",
+    "reading": "butsu",
+    "code": "cr-kata2-499",
+    "index": 499
+  },
+  {
+    "surface": "トンボ",
+    "reading": "tonbo",
+    "code": "cr-kata2-500",
+    "index": 500
+  },
+  {
+    "surface": "ダート",
+    "reading": "daato",
+    "code": "cr-kata2-501",
+    "index": 501
+  },
+  {
+    "surface": "ピーコ",
+    "reading": "piiko",
+    "code": "cr-kata2-502",
+    "index": 502
+  },
+  {
+    "surface": "サイガ",
+    "reading": "saiga",
+    "code": "cr-kata2-503",
+    "index": 503
+  },
+  {
+    "surface": "ブローカー",
+    "reading": "broker",
+    "code": "cr-kata2-504",
+    "index": 504
+  },
+  {
+    "surface": "アントワープ",
+    "reading": "antwerp",
+    "code": "cr-kata2-505",
+    "index": 505
+  },
+  {
+    "surface": "セイル",
+    "reading": "sail",
+    "code": "cr-kata2-506",
+    "index": 506
+  },
+  {
+    "surface": "ラッコ",
+    "reading": "rakko",
+    "code": "cr-kata2-507",
+    "index": 507
+  },
+  {
+    "surface": "ブース",
+    "reading": "booth",
+    "code": "cr-kata2-508",
+    "index": 508
+  },
+  {
+    "surface": "ジュゴン",
+    "reading": "jugon",
+    "code": "cr-kata2-509",
+    "index": 509
+  },
+  {
+    "surface": "ユーチューバー",
+    "reading": "youtuba",
+    "code": "cr-kata2-510",
+    "index": 510
+  },
+  {
+    "surface": "アンチ",
+    "reading": "anti",
+    "code": "cr-kata2-511",
+    "index": 511
+  },
+  {
+    "surface": "ワル",
+    "reading": "waru",
+    "code": "cr-kata2-512",
+    "index": 512
+  },
+  {
+    "surface": "モスキート",
+    "reading": "mosukiito",
+    "code": "cr-kata2-513",
+    "index": 513
+  },
+  {
+    "surface": "ロウソク",
+    "reading": "rousoku",
+    "code": "cr-kata2-514",
+    "index": 514
+  },
+  {
+    "surface": "コンプティーク",
+    "reading": "konputiiku",
+    "code": "cr-kata2-515",
+    "index": 515
+  },
+  {
+    "surface": "ブルブル",
+    "reading": "buruburu",
+    "code": "cr-kata2-516",
+    "index": 516
+  },
+  {
+    "surface": "カル",
+    "reading": "karu",
+    "code": "cr-kata2-517",
+    "index": 517
+  },
+  {
+    "surface": "グラウンド",
+    "reading": "ground",
+    "code": "cr-kata2-518",
+    "index": 518
+  },
+  {
+    "surface": "モーティマー",
+    "reading": "mootimaa",
+    "code": "cr-kata2-519",
+    "index": 519
+  },
+  {
+    "surface": "スイマー",
+    "reading": "swimmer",
+    "code": "cr-kata2-520",
+    "index": 520
+  },
+  {
+    "surface": "ガゼル",
+    "reading": "gazelle",
+    "code": "cr-kata2-521",
+    "index": 521
+  },
+  {
+    "surface": "コパ",
+    "reading": "copa",
+    "code": "cr-kata2-522",
+    "index": 522
+  },
+  {
+    "surface": "カッコ",
+    "reading": "kakko",
+    "code": "cr-kata2-523",
+    "index": 523
+  },
+  {
+    "surface": "ツカ",
+    "reading": "tsuka",
+    "code": "cr-kata2-524",
+    "index": 524
+  },
+  {
+    "surface": "カンタ",
+    "reading": "kanta",
+    "code": "cr-kata2-525",
+    "index": 525
+  },
+  {
+    "surface": "アイカツ",
+    "reading": "eyecutlet",
+    "code": "cr-kata2-526",
+    "index": 526
+  },
+  {
+    "surface": "リト",
+    "reading": "rito",
+    "code": "cr-kata2-527",
+    "index": 527
+  },
+  {
+    "surface": "グラマー",
+    "reading": "grammar",
+    "code": "cr-kata2-528",
+    "index": 528
+  },
+  {
+    "surface": "レバー",
+    "reading": "lever",
+    "code": "cr-kata2-529",
+    "index": 529
+  },
+  {
+    "surface": "ラジ",
+    "reading": "raji",
+    "code": "cr-kata2-530",
+    "index": 530
+  },
+  {
+    "surface": "カベ",
+    "reading": "kabe",
+    "code": "cr-kata2-531",
+    "index": 531
+  },
+  {
+    "surface": "セクター",
+    "reading": "sector",
+    "code": "cr-kata2-532",
+    "index": 532
+  },
+  {
+    "surface": "カストロ",
+    "reading": "castro",
+    "code": "cr-kata2-533",
+    "index": 533
+  },
+  {
+    "surface": "クレーター",
+    "reading": "crater",
+    "code": "cr-kata2-534",
+    "index": 534
+  },
+  {
+    "surface": "ルネ",
+    "reading": "rune",
+    "code": "cr-kata2-535",
+    "index": 535
+  },
+  {
+    "surface": "フレーク",
+    "reading": "flake",
+    "code": "cr-kata2-536",
+    "index": 536
+  },
+  {
+    "surface": "デカ",
+    "reading": "deka",
+    "code": "cr-kata2-537",
+    "index": 537
+  },
+  {
+    "surface": "キャスター",
+    "reading": "caster",
+    "code": "cr-kata2-538",
+    "index": 538
+  },
+  {
+    "surface": "エスニック",
+    "reading": "ethnic",
+    "code": "cr-kata2-539",
+    "index": 539
+  },
+  {
+    "surface": "ソチ",
+    "reading": "sovietchi",
+    "code": "cr-kata2-540",
+    "index": 540
+  },
+  {
+    "surface": "カンペ",
+    "reading": "kanpe",
+    "code": "cr-kata2-541",
+    "index": 541
+  },
+  {
+    "surface": "ガモ",
+    "reading": "gamo",
+    "code": "cr-kata2-542",
+    "index": 542
+  },
+  {
+    "surface": "カートゥーン",
+    "reading": "cartoon",
+    "code": "cr-kata2-543",
+    "index": 543
+  },
+  {
+    "surface": "ツッコミ",
+    "reading": "tsukkomi",
+    "code": "cr-kata2-544",
+    "index": 544
+  },
+  {
+    "surface": "チーン",
+    "reading": "chiin",
+    "code": "cr-kata2-545",
+    "index": 545
+  },
+  {
+    "surface": "ボーカリスト",
+    "reading": "vocalist",
+    "code": "cr-kata2-546",
+    "index": 546
+  },
+  {
+    "surface": "ススメ",
+    "reading": "susume",
+    "code": "cr-kata2-547",
+    "index": 547
+  },
+  {
+    "surface": "ラスター",
+    "reading": "luster",
+    "code": "cr-kata2-548",
+    "index": 548
+  },
+  {
+    "surface": "ウェルカム",
+    "reading": "welcome",
+    "code": "cr-kata2-549",
+    "index": 549
+  },
+  {
+    "surface": "スパンコール",
+    "reading": "spangle",
+    "code": "cr-kata2-550",
+    "index": 550
+  },
+  {
+    "surface": "ペール",
+    "reading": "peeru",
+    "code": "cr-kata2-551",
+    "index": 551
+  },
+  {
+    "surface": "プディング",
+    "reading": "pudding",
+    "code": "cr-kata2-552",
+    "index": 552
+  },
+  {
+    "surface": "フィアンセ",
+    "reading": "fiance",
+    "code": "cr-kata2-553",
+    "index": 553
+  },
+  {
+    "surface": "ウェッジ",
+    "reading": "wedge",
+    "code": "cr-kata2-554",
+    "index": 554
+  },
+  {
+    "surface": "ヒノ",
+    "reading": "hino",
+    "code": "cr-kata2-555",
+    "index": 555
+  },
+  {
+    "surface": "コレ",
+    "reading": "kore",
+    "code": "cr-kata2-556",
+    "index": 556
+  },
+  {
+    "surface": "シーツ",
+    "reading": "sheet",
+    "code": "cr-kata2-557",
+    "index": 557
+  },
+  {
+    "surface": "ハマチ",
+    "reading": "hamachi",
+    "code": "cr-kata2-558",
+    "index": 558
+  },
+  {
+    "surface": "パーッ",
+    "reading": "paa",
+    "code": "cr-kata2-559",
+    "index": 559
+  },
+  {
+    "surface": "ゴルファー",
+    "reading": "golfer",
+    "code": "cr-kata2-560",
+    "index": 560
+  },
+  {
+    "surface": "カタギ",
+    "reading": "katagi",
+    "code": "cr-kata2-561",
+    "index": 561
+  },
+  {
+    "surface": "ツヴァイ",
+    "reading": "vai",
+    "code": "cr-kata2-562",
+    "index": 562
+  },
+  {
+    "surface": "ディティール",
+    "reading": "detail",
+    "code": "cr-kata2-563",
+    "index": 563
+  },
+  {
+    "surface": "メジャー",
+    "reading": "major",
+    "code": "cr-kata2-564",
+    "index": 564
+  },
+  {
+    "surface": "スナップ",
+    "reading": "snap",
+    "code": "cr-kata2-565",
+    "index": 565
+  },
+  {
+    "surface": "ミスコン",
+    "reading": "misukon",
+    "code": "cr-kata2-566",
+    "index": 566
+  },
+  {
+    "surface": "メタボ",
+    "reading": "metabolic",
+    "code": "cr-kata2-567",
+    "index": 567
+  },
+  {
+    "surface": "ガセ",
+    "reading": "gase",
+    "code": "cr-kata2-568",
+    "index": 568
+  },
+  {
+    "surface": "サリ",
+    "reading": "sari",
+    "code": "cr-kata2-569",
+    "index": 569
+  },
+  {
+    "surface": "チェイサー",
+    "reading": "chaser",
+    "code": "cr-kata2-570",
+    "index": 570
+  },
+  {
+    "surface": "ギャロ",
+    "reading": "gyaro",
+    "code": "cr-kata2-571",
+    "index": 571
+  },
+  {
+    "surface": "マヨ",
+    "reading": "mayonnaise",
+    "code": "cr-kata2-572",
+    "index": 572
+  },
+  {
+    "surface": "クローザー",
+    "reading": "closer",
+    "code": "cr-kata2-573",
+    "index": 573
+  },
+  {
+    "surface": "ウィーク",
+    "reading": "week",
+    "code": "cr-kata2-574",
+    "index": 574
+  },
+  {
+    "surface": "ゴネ",
+    "reading": "gone",
+    "code": "cr-kata2-575",
+    "index": 575
+  },
+  {
+    "surface": "ライク",
+    "reading": "like",
+    "code": "cr-kata2-576",
+    "index": 576
+  },
+  {
+    "surface": "メディチ",
+    "reading": "medici",
+    "code": "cr-kata2-577",
+    "index": 577
+  },
+  {
+    "surface": "シュウ",
+    "reading": "shuu",
+    "code": "cr-kata2-578",
+    "index": 578
+  },
+  {
+    "surface": "リーバイス",
+    "reading": "levis",
+    "code": "cr-kata2-579",
+    "index": 579
+  },
+  {
+    "surface": "ポーク",
+    "reading": "pork",
+    "code": "cr-kata2-580",
+    "index": 580
+  },
+  {
+    "surface": "ゼッタイ",
+    "reading": "zettai",
+    "code": "cr-kata2-581",
+    "index": 581
+  },
+  {
+    "surface": "バスト",
+    "reading": "bust",
+    "code": "cr-kata2-582",
+    "index": 582
+  },
+  {
+    "surface": "プルーン",
+    "reading": "prune",
+    "code": "cr-kata2-583",
+    "index": 583
+  },
+  {
+    "surface": "イメ",
+    "reading": "ime",
+    "code": "cr-kata2-584",
+    "index": 584
+  },
+  {
+    "surface": "リクエスト",
+    "reading": "request",
+    "code": "cr-kata2-585",
+    "index": 585
+  },
+  {
+    "surface": "デニス",
+    "reading": "denisu",
+    "code": "cr-kata2-586",
+    "index": 586
+  },
+  {
+    "surface": "アングル",
+    "reading": "angle",
+    "code": "cr-kata2-587",
+    "index": 587
+  },
+  {
+    "surface": "ホンネ",
+    "reading": "honne",
+    "code": "cr-kata2-588",
+    "index": 588
+  },
+  {
+    "surface": "ウィンダム",
+    "reading": "indamu",
+    "code": "cr-kata2-589",
+    "index": 589
+  },
+  {
+    "surface": "チュートリアル",
+    "reading": "tutorial",
+    "code": "cr-kata2-590",
+    "index": 590
+  },
+  {
+    "surface": "ファンク",
+    "reading": "funk",
+    "code": "cr-kata2-591",
+    "index": 591
+  },
+  {
+    "surface": "カスター",
+    "reading": "custer",
+    "code": "cr-kata2-592",
+    "index": 592
+  },
+  {
+    "surface": "フルアーマー",
+    "reading": "fullarmor",
+    "code": "cr-kata2-593",
+    "index": 593
+  },
+  {
+    "surface": "ダンパ",
+    "reading": "damper",
+    "code": "cr-kata2-594",
+    "index": 594
+  },
+  {
+    "surface": "シリング",
+    "reading": "schilling",
+    "code": "cr-kata2-595",
+    "index": 595
+  },
+  {
+    "surface": "スクーター",
+    "reading": "scooter",
+    "code": "cr-kata2-596",
+    "index": 596
+  },
+  {
+    "surface": "ルービン",
+    "reading": "ruubin",
+    "code": "cr-kata2-597",
+    "index": 597
+  },
+  {
+    "surface": "クレイマー",
+    "reading": "kureimaa",
+    "code": "cr-kata2-598",
+    "index": 598
+  },
+  {
+    "surface": "フルスイング",
+    "reading": "fullswing",
+    "code": "cr-kata2-599",
+    "index": 599
+  },
+  {
+    "surface": "シダックス",
+    "reading": "shidax",
+    "code": "cr-kata2-600",
+    "index": 600
+  },
+  {
+    "surface": "マグル",
+    "reading": "maguru",
+    "code": "cr-kata2-601",
+    "index": 601
+  },
+  {
+    "surface": "テーゼ",
+    "reading": "these",
+    "code": "cr-kata2-602",
+    "index": 602
+  },
+  {
+    "surface": "サイフ",
+    "reading": "saifu",
+    "code": "cr-kata2-603",
+    "index": 603
+  },
+  {
+    "surface": "ガーター",
+    "reading": "garter",
+    "code": "cr-kata2-604",
+    "index": 604
+  },
+  {
+    "surface": "アカメ",
+    "reading": "akame",
+    "code": "cr-kata2-605",
+    "index": 605
+  },
+  {
+    "surface": "プリースト",
+    "reading": "puriisuto",
+    "code": "cr-kata2-606",
+    "index": 606
+  },
+  {
+    "surface": "バイナリ",
+    "reading": "binary",
+    "code": "cr-kata2-607",
+    "index": 607
+  },
+  {
+    "surface": "ゲオルグ",
+    "reading": "georg",
+    "code": "cr-kata2-608",
+    "index": 608
+  },
+  {
+    "surface": "ナリ",
+    "reading": "nari",
+    "code": "cr-kata2-609",
+    "index": 609
+  },
+  {
+    "surface": "ウインター",
+    "reading": "winter",
+    "code": "cr-kata2-610",
+    "index": 610
+  },
+  {
+    "surface": "カスタマイズ",
+    "reading": "customize",
+    "code": "cr-kata2-611",
+    "index": 611
+  },
+  {
+    "surface": "ヴァーチャル",
+    "reading": "virtual",
+    "code": "cr-kata2-612",
+    "index": 612
+  },
+  {
+    "surface": "シュガー",
+    "reading": "sugar",
+    "code": "cr-kata2-613",
+    "index": 613
+  },
+  {
+    "surface": "トライアングル",
+    "reading": "triangle",
+    "code": "cr-kata2-614",
+    "index": 614
+  },
+  {
+    "surface": "キャップ",
+    "reading": "kyappu",
+    "code": "cr-kata2-615",
+    "index": 615
+  },
+  {
+    "surface": "カンスト",
+    "reading": "kansuto",
+    "code": "cr-kata2-616",
+    "index": 616
+  },
+  {
+    "surface": "ファウスト",
+    "reading": "faust",
+    "code": "cr-kata2-617",
+    "index": 617
+  },
+  {
+    "surface": "ワラビー",
+    "reading": "wallaby",
+    "code": "cr-kata2-618",
+    "index": 618
+  },
+  {
+    "surface": "ディレイ",
+    "reading": "delay",
+    "code": "cr-kata2-619",
+    "index": 619
+  },
+  {
+    "surface": "ガストン",
+    "reading": "gasuton",
+    "code": "cr-kata2-620",
+    "index": 620
+  },
+  {
+    "surface": "ノミネート",
+    "reading": "nominate",
+    "code": "cr-kata2-621",
+    "index": 621
+  },
+  {
+    "surface": "サバイバル",
+    "reading": "survival",
+    "code": "cr-kata2-622",
+    "index": 622
+  },
+  {
+    "surface": "ソーセージ",
+    "reading": "sausage",
+    "code": "cr-kata2-623",
+    "index": 623
+  },
+  {
+    "surface": "ルパン",
+    "reading": "lupin",
+    "code": "cr-kata2-624",
+    "index": 624
+  },
+  {
+    "surface": "トロール",
+    "reading": "trawl",
+    "code": "cr-kata2-625",
+    "index": 625
+  },
+  {
+    "surface": "ネール",
+    "reading": "nail",
+    "code": "cr-kata2-626",
+    "index": 626
+  },
+  {
+    "surface": "ヴァンプ",
+    "reading": "vamp",
+    "code": "cr-kata2-627",
+    "index": 627
+  },
+  {
+    "surface": "カスタマー",
+    "reading": "customer",
+    "code": "cr-kata2-628",
+    "index": 628
+  },
+  {
+    "surface": "チート",
+    "reading": "cheat",
+    "code": "cr-kata2-629",
+    "index": 629
+  },
+  {
+    "surface": "コンボイ",
+    "reading": "convoy",
+    "code": "cr-kata2-630",
+    "index": 630
+  },
+  {
+    "surface": "クーデター",
+    "reading": "coupdetat",
+    "code": "cr-kata2-631",
+    "index": 631
+  },
+  {
+    "surface": "ドルフィン",
+    "reading": "dolphin",
+    "code": "cr-kata2-632",
+    "index": 632
+  },
+  {
+    "surface": "ナーガ",
+    "reading": "naga",
+    "code": "cr-kata2-633",
+    "index": 633
+  },
+  {
+    "surface": "カセット",
+    "reading": "cassette",
+    "code": "cr-kata2-634",
+    "index": 634
+  },
+  {
+    "surface": "スール",
+    "reading": "suuru",
+    "code": "cr-kata2-635",
+    "index": 635
+  },
+  {
+    "surface": "ザクロ",
+    "reading": "zakuro",
+    "code": "cr-kata2-636",
+    "index": 636
+  },
+  {
+    "surface": "ワセリン",
+    "reading": "vaseline",
+    "code": "cr-kata2-637",
+    "index": 637
+  },
+  {
+    "surface": "ウェッブ",
+    "reading": "web",
+    "code": "cr-kata2-638",
+    "index": 638
+  },
+  {
+    "surface": "レフト",
+    "reading": "left",
+    "code": "cr-kata2-639",
+    "index": 639
+  },
+  {
+    "surface": "ワザ",
+    "reading": "waza",
+    "code": "cr-kata2-640",
+    "index": 640
+  },
+  {
+    "surface": "クローム",
+    "reading": "chrome",
+    "code": "cr-kata2-641",
+    "index": 641
+  },
+  {
+    "surface": "モジュール",
+    "reading": "module",
+    "code": "cr-kata2-642",
+    "index": 642
+  },
+  {
+    "surface": "プリン",
+    "reading": "pudding",
+    "code": "cr-kata2-643",
+    "index": 643
+  },
+  {
+    "surface": "イジメ",
+    "reading": "ijime",
+    "code": "cr-kata2-644",
+    "index": 644
+  },
+  {
+    "surface": "スネ",
+    "reading": "sune",
+    "code": "cr-kata2-645",
+    "index": 645
+  },
+  {
+    "surface": "トーン",
+    "reading": "tone",
+    "code": "cr-kata2-646",
+    "index": 646
+  },
+  {
+    "surface": "トール",
+    "reading": "tall",
+    "code": "cr-kata2-647",
+    "index": 647
+  },
+  {
+    "surface": "コーデック",
+    "reading": "codec",
+    "code": "cr-kata2-648",
+    "index": 648
+  },
+  {
+    "surface": "コンプトン",
+    "reading": "compton",
+    "code": "cr-kata2-649",
+    "index": 649
+  },
+  {
+    "surface": "ツインテ",
+    "reading": "twintea",
+    "code": "cr-kata2-650",
+    "index": 650
+  },
+  {
+    "surface": "ビヨンド",
+    "reading": "beyond",
+    "code": "cr-kata2-651",
+    "index": 651
+  },
+  {
+    "surface": "バーカ",
+    "reading": "baaka",
+    "code": "cr-kata2-652",
+    "index": 652
+  },
+  {
+    "surface": "カイドウ",
+    "reading": "kaidou",
+    "code": "cr-kata2-653",
+    "index": 653
+  },
+  {
+    "surface": "スクイズ",
+    "reading": "squeeze",
+    "code": "cr-kata2-654",
+    "index": 654
+  },
+  {
+    "surface": "コリアンダー",
+    "reading": "coriander",
+    "code": "cr-kata2-655",
+    "index": 655
+  },
+  {
+    "surface": "ベーグル",
+    "reading": "bagel",
+    "code": "cr-kata2-656",
+    "index": 656
+  },
+  {
+    "surface": "レジャー",
+    "reading": "leisure",
+    "code": "cr-kata2-657",
+    "index": 657
+  },
+  {
+    "surface": "スプレー",
+    "reading": "spray",
+    "code": "cr-kata2-658",
+    "index": 658
+  },
+  {
+    "surface": "ト",
+    "reading": "to",
+    "code": "cr-kata2-659",
+    "index": 659
+  },
+  {
+    "surface": "パンプス",
+    "reading": "pumps",
+    "code": "cr-kata2-660",
+    "index": 660
+  },
+  {
+    "surface": "ボリューム",
+    "reading": "volume",
+    "code": "cr-kata2-661",
+    "index": 661
+  },
+  {
+    "surface": "オールマイティ",
+    "reading": "almighty",
+    "code": "cr-kata2-662",
+    "index": 662
+  },
+  {
+    "surface": "ロッテ",
+    "reading": "lotte",
+    "code": "cr-kata2-663",
+    "index": 663
+  },
+  {
+    "surface": "プラグ",
+    "reading": "plug",
+    "code": "cr-kata2-664",
+    "index": 664
+  },
+  {
+    "surface": "シーザー",
+    "reading": "caesar",
+    "code": "cr-kata2-665",
+    "index": 665
+  },
+  {
+    "surface": "オタク",
+    "reading": "otaku",
+    "code": "cr-kata2-666",
+    "index": 666
+  },
+  {
+    "surface": "ウトロ",
+    "reading": "utoro",
+    "code": "cr-kata2-667",
+    "index": 667
+  },
+  {
+    "surface": "パッカー",
+    "reading": "pakkaa",
+    "code": "cr-kata2-668",
+    "index": 668
+  },
+  {
+    "surface": "ダンク",
+    "reading": "dunk",
+    "code": "cr-kata2-669",
+    "index": 669
+  },
+  {
+    "surface": "バインダー",
+    "reading": "binder",
+    "code": "cr-kata2-670",
+    "index": 670
+  },
+  {
+    "surface": "ボガード",
+    "reading": "bogart",
+    "code": "cr-kata2-671",
+    "index": 671
+  },
+  {
+    "surface": "ゴルゴ",
+    "reading": "gorugo",
+    "code": "cr-kata2-672",
+    "index": 672
+  },
+  {
+    "surface": "ナレーション",
+    "reading": "narration",
+    "code": "cr-kata2-673",
+    "index": 673
+  },
+  {
+    "surface": "ビンゴ",
+    "reading": "bingo",
+    "code": "cr-kata2-674",
+    "index": 674
+  },
+  {
+    "surface": "ラウール",
+    "reading": "raul",
+    "code": "cr-kata2-675",
+    "index": 675
+  },
+  {
+    "surface": "クラッカー",
+    "reading": "cracker",
+    "code": "cr-kata2-676",
+    "index": 676
+  },
+  {
+    "surface": "ウィロー",
+    "reading": "willow",
+    "code": "cr-kata2-677",
+    "index": 677
+  },
+  {
+    "surface": "サジ",
+    "reading": "saji",
+    "code": "cr-kata2-678",
+    "index": 678
+  },
+  {
+    "surface": "トゥース",
+    "reading": "tooth",
+    "code": "cr-kata2-679",
+    "index": 679
+  },
+  {
+    "surface": "モーレツ",
+    "reading": "mooretsu",
+    "code": "cr-kata2-680",
+    "index": 680
+  },
+  {
+    "surface": "ヒミツ",
+    "reading": "himitsu",
+    "code": "cr-kata2-681",
+    "index": 681
+  },
+  {
+    "surface": "レジデンス",
+    "reading": "residence",
+    "code": "cr-kata2-682",
+    "index": 682
+  },
+  {
+    "surface": "サンコー",
+    "reading": "sankoo",
+    "code": "cr-kata2-683",
+    "index": 683
+  },
+  {
+    "surface": "テレ",
+    "reading": "tere",
+    "code": "cr-kata2-684",
+    "index": 684
+  },
+  {
+    "surface": "ロッジ",
+    "reading": "lodge",
+    "code": "cr-kata2-685",
+    "index": 685
+  },
+  {
+    "surface": "フロント",
+    "reading": "front",
+    "code": "cr-kata2-686",
+    "index": 686
+  },
+  {
+    "surface": "マスト",
+    "reading": "mast",
+    "code": "cr-kata2-687",
+    "index": 687
+  },
+  {
+    "surface": "ハタ",
+    "reading": "hata",
+    "code": "cr-kata2-688",
+    "index": 688
+  },
+  {
+    "surface": "ゴト",
+    "reading": "goto",
+    "code": "cr-kata2-689",
+    "index": 689
+  },
+  {
+    "surface": "ヒゲ",
+    "reading": "hige",
+    "code": "cr-kata2-690",
+    "index": 690
+  },
+  {
+    "surface": "カク",
+    "reading": "kaku",
+    "code": "cr-kata2-691",
+    "index": 691
+  },
+  {
+    "surface": "オーランド",
+    "reading": "oorando",
+    "code": "cr-kata2-692",
+    "index": 692
+  },
+  {
+    "surface": "ムーブメント",
+    "reading": "movement",
+    "code": "cr-kata2-693",
+    "index": 693
+  },
+  {
+    "surface": "ミュート",
+    "reading": "mute",
+    "code": "cr-kata2-694",
+    "index": 694
+  },
+  {
+    "surface": "バッタリ",
+    "reading": "battari",
+    "code": "cr-kata2-695",
+    "index": 695
+  },
+  {
+    "surface": "サマーズ",
+    "reading": "summers",
+    "code": "cr-kata2-696",
+    "index": 696
+  },
+  {
+    "surface": "イノセント",
+    "reading": "innocent",
+    "code": "cr-kata2-697",
+    "index": 697
+  },
+  {
+    "surface": "ウットリ",
+    "reading": "uttori",
+    "code": "cr-kata2-698",
+    "index": 698
+  },
+  {
+    "surface": "ワキ",
+    "reading": "waki",
+    "code": "cr-kata2-699",
+    "index": 699
+  },
+  {
+    "surface": "チロ",
+    "reading": "chiro",
+    "code": "cr-kata2-700",
+    "index": 700
+  },
+  {
+    "surface": "グラバー",
+    "reading": "glover",
+    "code": "cr-kata2-701",
+    "index": 701
+  },
+  {
+    "surface": "ゴクリ",
+    "reading": "gokuri",
+    "code": "cr-kata2-702",
+    "index": 702
+  },
+  {
+    "surface": "マテリアル",
+    "reading": "material",
+    "code": "cr-kata2-703",
+    "index": 703
+  },
+  {
+    "surface": "ルーニー",
+    "reading": "loony",
+    "code": "cr-kata2-704",
+    "index": 704
+  },
+  {
+    "surface": "デジカメ",
+    "reading": "dejikame",
+    "code": "cr-kata2-705",
+    "index": 705
+  },
+  {
+    "surface": "パウチ",
+    "reading": "pouch",
+    "code": "cr-kata2-706",
+    "index": 706
+  },
+  {
+    "surface": "サーチ",
+    "reading": "search",
+    "code": "cr-kata2-707",
+    "index": 707
+  },
+  {
+    "surface": "マウンド",
+    "reading": "mound",
+    "code": "cr-kata2-708",
+    "index": 708
+  },
+  {
+    "surface": "ディオーネ",
+    "reading": "dioone",
+    "code": "cr-kata2-709",
+    "index": 709
+  },
+  {
+    "surface": "ブローチ",
+    "reading": "brooch",
+    "code": "cr-kata2-710",
+    "index": 710
+  },
+  {
+    "surface": "セリ",
+    "reading": "seri",
+    "code": "cr-kata2-711",
+    "index": 711
+  },
+  {
+    "surface": "フューチャー",
+    "reading": "future",
+    "code": "cr-kata2-712",
+    "index": 712
+  },
+  {
+    "surface": "アフレック",
+    "reading": "affleck",
+    "code": "cr-kata2-713",
+    "index": 713
+  },
+  {
+    "surface": "コンコース",
+    "reading": "concourse",
+    "code": "cr-kata2-714",
+    "index": 714
+  },
+  {
+    "surface": "ブランケット",
+    "reading": "blanket",
+    "code": "cr-kata2-715",
+    "index": 715
+  },
+  {
+    "surface": "カレイド",
+    "reading": "kaleido",
+    "code": "cr-kata2-716",
+    "index": 716
+  },
+  {
+    "surface": "ロデオ",
+    "reading": "rodeo",
+    "code": "cr-kata2-717",
+    "index": 717
+  },
+  {
+    "surface": "ツッコ",
+    "reading": "tsukko",
+    "code": "cr-kata2-718",
+    "index": 718
+  },
+  {
+    "surface": "バナー",
+    "reading": "banner",
+    "code": "cr-kata2-719",
+    "index": 719
+  },
+  {
+    "surface": "トランス",
+    "reading": "trans",
+    "code": "cr-kata2-720",
+    "index": 720
+  },
+  {
+    "surface": "スリット",
+    "reading": "slit",
+    "code": "cr-kata2-721",
+    "index": 721
+  },
+  {
+    "surface": "セカンド",
+    "reading": "sekando",
+    "code": "cr-kata2-722",
+    "index": 722
+  },
+  {
+    "surface": "ラパス",
+    "reading": "lapaz",
+    "code": "cr-kata2-723",
+    "index": 723
+  },
+  {
+    "surface": "ウォーロック",
+    "reading": "warlock",
+    "code": "cr-kata2-724",
+    "index": 724
+  },
+  {
+    "surface": "コネ",
+    "reading": "connection",
+    "code": "cr-kata2-725",
+    "index": 725
+  },
+  {
+    "surface": "ブレイザー",
+    "reading": "bureizaa",
+    "code": "cr-kata2-726",
+    "index": 726
+  },
+  {
+    "surface": "コンソメ",
+    "reading": "consomme",
+    "code": "cr-kata2-727",
+    "index": 727
+  },
+  {
+    "surface": "カミカゼ",
+    "reading": "kamikaze",
+    "code": "cr-kata2-728",
+    "index": 728
+  },
+  {
+    "surface": "シズ",
+    "reading": "shizu",
+    "code": "cr-kata2-729",
+    "index": 729
+  },
+  {
+    "surface": "フォワード",
+    "reading": "forward",
+    "code": "cr-kata2-730",
+    "index": 730
+  },
+  {
+    "surface": "コンス",
+    "reading": "cornstarch",
+    "code": "cr-kata2-731",
+    "index": 731
+  },
+  {
+    "surface": "スイフト",
+    "reading": "swift",
+    "code": "cr-kata2-732",
+    "index": 732
+  },
+  {
+    "surface": "コーネル",
+    "reading": "cornell",
+    "code": "cr-kata2-733",
+    "index": 733
+  },
+  {
+    "surface": "パグ",
+    "reading": "pug",
+    "code": "cr-kata2-734",
+    "index": 734
+  },
+  {
+    "surface": "ジュンク",
+    "reading": "junku",
+    "code": "cr-kata2-735",
+    "index": 735
+  },
+  {
+    "surface": "リフト",
+    "reading": "lift",
+    "code": "cr-kata2-736",
+    "index": 736
+  },
+  {
+    "surface": "トビ",
+    "reading": "tobi",
+    "code": "cr-kata2-737",
+    "index": 737
+  },
+  {
+    "surface": "ヴォイス",
+    "reading": "voice",
+    "code": "cr-kata2-738",
+    "index": 738
+  },
+  {
+    "surface": "トラスト",
+    "reading": "trust",
+    "code": "cr-kata2-739",
+    "index": 739
+  },
+  {
+    "surface": "シク",
+    "reading": "sikh",
+    "code": "cr-kata2-740",
+    "index": 740
+  },
+  {
+    "surface": "ドリフェス",
+    "reading": "dorifestival",
+    "code": "cr-kata2-741",
+    "index": 741
+  },
+  {
+    "surface": "ランス",
+    "reading": "reims",
+    "code": "cr-kata2-742",
+    "index": 742
+  },
+  {
+    "surface": "ブル",
+    "reading": "bull",
+    "code": "cr-kata2-743",
+    "index": 743
+  },
+  {
+    "surface": "コッコ",
+    "reading": "kokko",
+    "code": "cr-kata2-744",
+    "index": 744
+  },
+  {
+    "surface": "フユ",
+    "reading": "fuyu",
+    "code": "cr-kata2-745",
+    "index": 745
+  },
+  {
+    "surface": "ピヨ",
+    "reading": "piyo",
+    "code": "cr-kata2-746",
+    "index": 746
+  },
+  {
+    "surface": "マドリード",
+    "reading": "madrid",
+    "code": "cr-kata2-747",
+    "index": 747
+  },
+  {
+    "surface": "サンガ",
+    "reading": "sanga",
+    "code": "cr-kata2-748",
+    "index": 748
+  },
+  {
+    "surface": "ピーチ",
+    "reading": "peach",
+    "code": "cr-kata2-749",
+    "index": 749
+  },
+  {
+    "surface": "シリアル",
+    "reading": "serial",
+    "code": "cr-kata2-750",
+    "index": 750
+  },
+  {
+    "surface": "クオカード",
+    "reading": "kuocard",
+    "code": "cr-kata2-751",
+    "index": 751
+  },
+  {
+    "surface": "カジュアル",
+    "reading": "casual",
+    "code": "cr-kata2-752",
+    "index": 752
+  },
+  {
+    "surface": "メデューサ",
+    "reading": "medusa",
+    "code": "cr-kata2-753",
+    "index": 753
+  },
+  {
+    "surface": "バインディング",
+    "reading": "binding",
+    "code": "cr-kata2-754",
+    "index": 754
+  },
+  {
+    "surface": "メタラー",
+    "reading": "metaraa",
+    "code": "cr-kata2-755",
+    "index": 755
+  },
+  {
+    "surface": "タゲ",
+    "reading": "taguet",
+    "code": "cr-kata2-756",
+    "index": 756
+  },
+  {
+    "surface": "スライス",
+    "reading": "slice",
+    "code": "cr-kata2-757",
+    "index": 757
+  },
+  {
+    "surface": "ガトリング",
+    "reading": "gatling",
+    "code": "cr-kata2-758",
+    "index": 758
+  },
+  {
+    "surface": "マンガン",
+    "reading": "mangan",
+    "code": "cr-kata2-759",
+    "index": 759
+  },
+  {
+    "surface": "ランボ",
+    "reading": "ranbo",
+    "code": "cr-kata2-760",
+    "index": 760
+  },
+  {
+    "surface": "ラブ",
+    "reading": "love",
+    "code": "cr-kata2-761",
+    "index": 761
+  },
+  {
+    "surface": "ヒアリング",
+    "reading": "hearing",
+    "code": "cr-kata2-762",
+    "index": 762
+  },
+  {
+    "surface": "リクルート",
+    "reading": "recruit",
+    "code": "cr-kata2-763",
+    "index": 763
+  },
+  {
+    "surface": "ブラゲ",
+    "reading": "burage",
+    "code": "cr-kata2-764",
+    "index": 764
+  },
+  {
+    "surface": "ディオン",
+    "reading": "dion",
+    "code": "cr-kata2-765",
+    "index": 765
+  },
+  {
+    "surface": "カゼ",
+    "reading": "kaze",
+    "code": "cr-kata2-766",
+    "index": 766
+  },
+  {
+    "surface": "タリン",
+    "reading": "tallinn",
+    "code": "cr-kata2-767",
+    "index": 767
+  },
+  {
+    "surface": "チビ",
+    "reading": "chibi",
+    "code": "cr-kata2-768",
+    "index": 768
+  },
+  {
+    "surface": "モルダー",
+    "reading": "molder",
+    "code": "cr-kata2-769",
+    "index": 769
+  },
+  {
+    "surface": "マンネリ",
+    "reading": "mannerism",
+    "code": "cr-kata2-770",
+    "index": 770
+  },
+  {
+    "surface": "ウィングス",
+    "reading": "wingsu",
+    "code": "cr-kata2-771",
+    "index": 771
+  },
+  {
+    "surface": "マンモス",
+    "reading": "mammoth",
+    "code": "cr-kata2-772",
+    "index": 772
+  },
+  {
+    "surface": "ハーデス",
+    "reading": "hades",
+    "code": "cr-kata2-773",
+    "index": 773
+  },
+  {
+    "surface": "ラッパ",
+    "reading": "rappa",
+    "code": "cr-kata2-774",
+    "index": 774
+  },
+  {
+    "surface": "レフェリー",
+    "reading": "referee",
+    "code": "cr-kata2-775",
+    "index": 775
+  },
+  {
+    "surface": "ルーチン",
+    "reading": "routine",
+    "code": "cr-kata2-776",
+    "index": 776
+  },
+  {
+    "surface": "ノイズ",
+    "reading": "noise",
+    "code": "cr-kata2-777",
+    "index": 777
+  },
+  {
+    "surface": "マツタケ",
+    "reading": "matsutake",
+    "code": "cr-kata2-778",
+    "index": 778
+  },
+  {
+    "surface": "カウル",
+    "reading": "cowl",
+    "code": "cr-kata2-779",
+    "index": 779
+  },
+  {
+    "surface": "テスター",
+    "reading": "tester",
+    "code": "cr-kata2-780",
+    "index": 780
+  },
+  {
+    "surface": "グール",
+    "reading": "ghoul",
+    "code": "cr-kata2-781",
+    "index": 781
+  },
+  {
+    "surface": "ブレーブス",
+    "reading": "brave",
+    "code": "cr-kata2-782",
+    "index": 782
+  },
+  {
+    "surface": "ゲソ",
+    "reading": "geso",
+    "code": "cr-kata2-783",
+    "index": 783
+  },
+  {
+    "surface": "コワ",
+    "reading": "kowa",
+    "code": "cr-kata2-784",
+    "index": 784
+  },
+  {
+    "surface": "セレブ",
+    "reading": "serebu",
+    "code": "cr-kata2-785",
+    "index": 785
+  },
+  {
+    "surface": "タリーズ",
+    "reading": "tariizu",
+    "code": "cr-kata2-786",
+    "index": 786
+  },
+  {
+    "surface": "リボーン",
+    "reading": "reborn",
+    "code": "cr-kata2-787",
+    "index": 787
+  },
+  {
+    "surface": "ビショ",
+    "reading": "bishi",
+    "code": "cr-kata2-788",
+    "index": 788
+  },
+  {
+    "surface": "リツ",
+    "reading": "ritsu",
+    "code": "cr-kata2-789",
+    "index": 789
+  },
+  {
+    "surface": "イニシャル",
+    "reading": "initial",
+    "code": "cr-kata2-790",
+    "index": 790
+  },
+  {
+    "surface": "キャンギャル",
+    "reading": "campaigngirl",
+    "code": "cr-kata2-791",
+    "index": 791
+  },
+  {
+    "surface": "リバース",
+    "reading": "reverse",
+    "code": "cr-kata2-792",
+    "index": 792
+  },
+  {
+    "surface": "ラブレター",
+    "reading": "loveletter",
+    "code": "cr-kata2-793",
+    "index": 793
+  },
+  {
+    "surface": "ビフィズス",
+    "reading": "bifidus",
+    "code": "cr-kata2-794",
+    "index": 794
+  },
+  {
+    "surface": "ワースト",
+    "reading": "worst",
+    "code": "cr-kata2-795",
+    "index": 795
+  },
+  {
+    "surface": "テンキー",
+    "reading": "tenkey",
+    "code": "cr-kata2-796",
+    "index": 796
+  },
+  {
+    "surface": "サーヴァント",
+    "reading": "saavanto",
+    "code": "cr-kata2-797",
+    "index": 797
+  },
+  {
+    "surface": "アパッチ",
+    "reading": "apache",
+    "code": "cr-kata2-798",
+    "index": 798
+  },
+  {
+    "surface": "コラ",
+    "reading": "kora",
+    "code": "cr-kata2-799",
+    "index": 799
+  },
+  {
+    "surface": "トンカツ",
+    "reading": "tonkatsu",
+    "code": "cr-kata2-800",
+    "index": 800
+  },
+  {
+    "surface": "セリン",
+    "reading": "serine",
+    "code": "cr-kata2-801",
+    "index": 801
+  },
+  {
+    "surface": "イズム",
+    "reading": "ism",
+    "code": "cr-kata2-802",
+    "index": 802
+  },
+  {
+    "surface": "ケジメ",
+    "reading": "kejime",
+    "code": "cr-kata2-803",
+    "index": 803
+  },
+  {
+    "surface": "イッテ",
+    "reading": "itte",
+    "code": "cr-kata2-804",
+    "index": 804
+  },
+  {
+    "surface": "ハマー",
+    "reading": "hammer",
+    "code": "cr-kata2-805",
+    "index": 805
+  },
+  {
+    "surface": "モナーク",
+    "reading": "monarch",
+    "code": "cr-kata2-806",
+    "index": 806
+  },
+  {
+    "surface": "クロー",
+    "reading": "clos",
+    "code": "cr-kata2-807",
+    "index": 807
+  },
+  {
+    "surface": "シニカル",
+    "reading": "cynical",
+    "code": "cr-kata2-808",
+    "index": 808
+  },
+  {
+    "surface": "ノルド",
+    "reading": "norse",
+    "code": "cr-kata2-809",
+    "index": 809
+  },
+  {
+    "surface": "ピーカン",
+    "reading": "pecan",
+    "code": "cr-kata2-810",
+    "index": 810
+  },
+  {
+    "surface": "ハーディング",
+    "reading": "haadingu",
+    "code": "cr-kata2-811",
+    "index": 811
+  },
+  {
+    "surface": "ロココ",
+    "reading": "rococo",
+    "code": "cr-kata2-812",
+    "index": 812
+  },
+  {
+    "surface": "サボ",
+    "reading": "sabo",
+    "code": "cr-kata2-813",
+    "index": 813
+  },
+  {
+    "surface": "ヒメ",
+    "reading": "hime",
+    "code": "cr-kata2-814",
+    "index": 814
+  },
+  {
+    "surface": "コロラド",
+    "reading": "colorado",
+    "code": "cr-kata2-815",
+    "index": 815
+  },
+  {
+    "surface": "ライカ",
+    "reading": "leica",
+    "code": "cr-kata2-816",
+    "index": 816
+  },
+  {
+    "surface": "ソ",
+    "reading": "soviet",
+    "code": "cr-kata2-817",
+    "index": 817
+  },
+  {
+    "surface": "ボッチ",
+    "reading": "bocchi",
+    "code": "cr-kata2-818",
+    "index": 818
+  },
+  {
+    "surface": "ダンプカー",
+    "reading": "dumpcar",
+    "code": "cr-kata2-819",
+    "index": 819
+  },
+  {
+    "surface": "フェアー",
+    "reading": "feaa",
+    "code": "cr-kata2-820",
+    "index": 820
+  },
+  {
+    "surface": "ルパート",
+    "reading": "rupert",
+    "code": "cr-kata2-821",
+    "index": 821
+  },
+  {
+    "surface": "コンチェルト",
+    "reading": "concerto",
+    "code": "cr-kata2-822",
+    "index": 822
+  },
+  {
+    "surface": "サブリミナル",
+    "reading": "subliminal",
+    "code": "cr-kata2-823",
+    "index": 823
+  },
+  {
+    "surface": "ボーン",
+    "reading": "boon",
+    "code": "cr-kata2-824",
+    "index": 824
+  },
+  {
+    "surface": "グセ",
+    "reading": "guse",
+    "code": "cr-kata2-825",
+    "index": 825
+  },
+  {
+    "surface": "ブランディング",
+    "reading": "burandingu",
+    "code": "cr-kata2-826",
+    "index": 826
+  },
+  {
+    "surface": "オーバーレイ",
+    "reading": "overlay",
+    "code": "cr-kata2-827",
+    "index": 827
+  },
+  {
+    "surface": "アゲ",
+    "reading": "age",
+    "code": "cr-kata2-828",
+    "index": 828
+  },
+  {
+    "surface": "トング",
+    "reading": "tongs",
+    "code": "cr-kata2-829",
+    "index": 829
+  },
+  {
+    "surface": "ゴツ",
+    "reading": "gotsu",
+    "code": "cr-kata2-830",
+    "index": 830
+  },
+  {
+    "surface": "シノブ",
+    "reading": "shiknob",
+    "code": "cr-kata2-831",
+    "index": 831
+  },
+  {
+    "surface": "ウォーク",
+    "reading": "walk",
+    "code": "cr-kata2-832",
+    "index": 832
+  },
+  {
+    "surface": "グミ",
+    "reading": "gummi",
+    "code": "cr-kata2-833",
+    "index": 833
+  },
+  {
+    "surface": "スペクタクル",
+    "reading": "spectacle",
+    "code": "cr-kata2-834",
+    "index": 834
+  },
+  {
+    "surface": "ウィン",
+    "reading": "win",
+    "code": "cr-kata2-835",
+    "index": 835
+  },
+  {
+    "surface": "ブレイカー",
+    "reading": "breaker",
+    "code": "cr-kata2-836",
+    "index": 836
+  },
+  {
+    "surface": "アセット",
+    "reading": "asset",
+    "code": "cr-kata2-837",
+    "index": 837
+  },
+  {
+    "surface": "ゴメン",
+    "reading": "gomen",
+    "code": "cr-kata2-838",
+    "index": 838
+  },
+  {
+    "surface": "ニシ",
+    "reading": "nishi",
+    "code": "cr-kata2-839",
+    "index": 839
+  },
+  {
+    "surface": "シュール",
+    "reading": "surrealisme",
+    "code": "cr-kata2-840",
+    "index": 840
+  },
+  {
+    "surface": "クルーズ",
+    "reading": "cruise",
+    "code": "cr-kata2-841",
+    "index": 841
+  },
+  {
+    "surface": "バックル",
+    "reading": "buckle",
+    "code": "cr-kata2-842",
+    "index": 842
+  },
+  {
+    "surface": "ザール",
+    "reading": "zaal",
+    "code": "cr-kata2-843",
+    "index": 843
+  },
+  {
+    "surface": "カーク",
+    "reading": "kaaku",
+    "code": "cr-kata2-844",
+    "index": 844
+  },
+  {
+    "surface": "ハーヴェイ",
+    "reading": "harvey",
+    "code": "cr-kata2-845",
+    "index": 845
+  },
+  {
+    "surface": "ブレイン",
+    "reading": "brain",
+    "code": "cr-kata2-846",
+    "index": 846
+  },
+  {
+    "surface": "ゴッコ",
+    "reading": "gokko",
+    "code": "cr-kata2-847",
+    "index": 847
+  },
+  {
+    "surface": "デク",
+    "reading": "deku",
+    "code": "cr-kata2-848",
+    "index": 848
+  },
+  {
+    "surface": "タウリン",
+    "reading": "taurine",
+    "code": "cr-kata2-849",
+    "index": 849
+  },
+  {
+    "surface": "スイマセン",
+    "reading": "suimasen",
+    "code": "cr-kata2-850",
+    "index": 850
+  },
+  {
+    "surface": "ソリッド",
+    "reading": "solid",
+    "code": "cr-kata2-851",
+    "index": 851
+  },
+  {
+    "surface": "ペコ",
+    "reading": "peko",
+    "code": "cr-kata2-852",
+    "index": 852
+  },
+  {
+    "surface": "チロル",
+    "reading": "tyrol",
+    "code": "cr-kata2-853",
+    "index": 853
+  },
+  {
+    "surface": "ココ",
+    "reading": "koko",
+    "code": "cr-kata2-854",
+    "index": 854
+  },
+  {
+    "surface": "ブレイクスルー",
+    "reading": "breakthrough",
+    "code": "cr-kata2-855",
+    "index": 855
+  },
+  {
+    "surface": "ガッチリ",
+    "reading": "gatchiri",
+    "code": "cr-kata2-856",
+    "index": 856
+  },
+  {
+    "surface": "ユーイング",
+    "reading": "ewing",
+    "code": "cr-kata2-857",
+    "index": 857
+  },
+  {
+    "surface": "モドキ",
+    "reading": "modoki",
+    "code": "cr-kata2-858",
+    "index": 858
+  },
+  {
+    "surface": "スウィーツ",
+    "reading": "sweet",
+    "code": "cr-kata2-859",
+    "index": 859
+  },
+  {
+    "surface": "サウザー",
+    "reading": "sauzaa",
+    "code": "cr-kata2-860",
+    "index": 860
+  },
+  {
+    "surface": "メート",
+    "reading": "mate",
+    "code": "cr-kata2-861",
+    "index": 861
+  },
+  {
+    "surface": "スプライト",
+    "reading": "supuraito",
+    "code": "cr-kata2-862",
+    "index": 862
+  },
+  {
+    "surface": "フネ",
+    "reading": "fune",
+    "code": "cr-kata2-863",
+    "index": 863
+  },
+  {
+    "surface": "メタノール",
+    "reading": "methanol",
+    "code": "cr-kata2-864",
+    "index": 864
+  },
+  {
+    "surface": "スナック",
+    "reading": "snack",
+    "code": "cr-kata2-865",
+    "index": 865
+  },
+  {
+    "surface": "カジノ",
+    "reading": "casino",
+    "code": "cr-kata2-866",
+    "index": 866
+  },
+  {
+    "surface": "ロガー",
+    "reading": "rogaa",
+    "code": "cr-kata2-867",
+    "index": 867
+  },
+  {
+    "surface": "ング",
+    "reading": "ngu",
+    "code": "cr-kata2-868",
+    "index": 868
+  },
+  {
+    "surface": "サージ",
+    "reading": "serge",
+    "code": "cr-kata2-869",
+    "index": 869
+  },
+  {
+    "surface": "ノスタルジック",
+    "reading": "nostalgic",
+    "code": "cr-kata2-870",
+    "index": 870
+  },
+  {
+    "surface": "マインツ",
+    "reading": "mainz",
+    "code": "cr-kata2-871",
+    "index": 871
+  },
+  {
+    "surface": "ショパン",
+    "reading": "chopin",
+    "code": "cr-kata2-872",
+    "index": 872
+  },
+  {
+    "surface": "マジパン",
+    "reading": "marzipan",
+    "code": "cr-kata2-873",
+    "index": 873
+  },
+  {
+    "surface": "デッカ",
+    "reading": "decca",
+    "code": "cr-kata2-874",
+    "index": 874
+  },
+  {
+    "surface": "マツエク",
+    "reading": "matsueku",
+    "code": "cr-kata2-875",
+    "index": 875
+  },
+  {
+    "surface": "コレット",
+    "reading": "collette",
+    "code": "cr-kata2-876",
+    "index": 876
+  },
+  {
+    "surface": "ビルダー",
+    "reading": "builder",
+    "code": "cr-kata2-877",
+    "index": 877
+  },
+  {
+    "surface": "コヨーテ",
+    "reading": "coyote",
+    "code": "cr-kata2-878",
+    "index": 878
+  },
+  {
+    "surface": "ロジスティクス",
+    "reading": "logistic",
+    "code": "cr-kata2-879",
+    "index": 879
+  },
+  {
+    "surface": "パーツ",
+    "reading": "parts",
+    "code": "cr-kata2-880",
+    "index": 880
+  },
+  {
+    "surface": "カオリ",
+    "reading": "kaori",
+    "code": "cr-kata2-881",
+    "index": 881
+  },
+  {
+    "surface": "ブルックス",
+    "reading": "brooks",
+    "code": "cr-kata2-882",
+    "index": 882
+  },
+  {
+    "surface": "スペル",
+    "reading": "spell",
+    "code": "cr-kata2-883",
+    "index": 883
+  },
+  {
+    "surface": "ホスティング",
+    "reading": "hosting",
+    "code": "cr-kata2-884",
+    "index": 884
+  },
+  {
+    "surface": "トーゴ",
+    "reading": "togo",
+    "code": "cr-kata2-885",
+    "index": 885
+  },
+  {
+    "surface": "ナイン",
+    "reading": "nine",
+    "code": "cr-kata2-886",
+    "index": 886
+  },
+  {
+    "surface": "エキスパート",
+    "reading": "expert",
+    "code": "cr-kata2-887",
+    "index": 887
+  },
+  {
+    "surface": "リビジョン",
+    "reading": "revision",
+    "code": "cr-kata2-888",
+    "index": 888
+  },
+  {
+    "surface": "テルル",
+    "reading": "tellur",
+    "code": "cr-kata2-889",
+    "index": 889
+  },
+  {
+    "surface": "ウィルコム",
+    "reading": "willcom",
+    "code": "cr-kata2-890",
+    "index": 890
+  },
+  {
+    "surface": "デンプン",
+    "reading": "denpun",
+    "code": "cr-kata2-891",
+    "index": 891
+  },
+  {
+    "surface": "スルー",
+    "reading": "through",
+    "code": "cr-kata2-892",
+    "index": 892
+  },
+  {
+    "surface": "バーチャル",
+    "reading": "virtual",
+    "code": "cr-kata2-893",
+    "index": 893
+  },
+  {
+    "surface": "スキット",
+    "reading": "skit",
+    "code": "cr-kata2-894",
+    "index": 894
+  },
+  {
+    "surface": "ブロー",
+    "reading": "blow",
+    "code": "cr-kata2-895",
+    "index": 895
+  },
+  {
+    "surface": "レイバー",
+    "reading": "reibaa",
+    "code": "cr-kata2-896",
+    "index": 896
+  },
+  {
+    "surface": "ルーキー",
+    "reading": "rookie",
+    "code": "cr-kata2-897",
+    "index": 897
+  },
+  {
+    "surface": "バイブレーター",
+    "reading": "vibrator",
+    "code": "cr-kata2-898",
+    "index": 898
+  },
+  {
+    "surface": "ポキ",
+    "reading": "poki",
+    "code": "cr-kata2-899",
+    "index": 899
+  },
+  {
+    "surface": "シンメトリー",
+    "reading": "symmetry",
+    "code": "cr-kata2-900",
+    "index": 900
+  },
+  {
+    "surface": "クスノキ",
+    "reading": "kusunoki",
+    "code": "cr-kata2-901",
+    "index": 901
+  },
+  {
+    "surface": "ランダー",
+    "reading": "lander",
+    "code": "cr-kata2-902",
+    "index": 902
+  },
+  {
+    "surface": "ゴート",
+    "reading": "goat",
+    "code": "cr-kata2-903",
+    "index": 903
+  },
+  {
+    "surface": "ラテ",
+    "reading": "latte",
+    "code": "cr-kata2-904",
+    "index": 904
+  },
+  {
+    "surface": "コブシ",
+    "reading": "kobushi",
+    "code": "cr-kata2-905",
+    "index": 905
+  },
+  {
+    "surface": "ツグミ",
+    "reading": "tsugumi",
+    "code": "cr-kata2-906",
+    "index": 906
+  },
+  {
+    "surface": "コースター",
+    "reading": "coaster",
+    "code": "cr-kata2-907",
+    "index": 907
+  },
+  {
+    "surface": "ウインドウ",
+    "reading": "window",
+    "code": "cr-kata2-908",
+    "index": 908
+  },
+  {
+    "surface": "テノール",
+    "reading": "tenor",
+    "code": "cr-kata2-909",
+    "index": 909
+  },
+  {
+    "surface": "レミ",
+    "reading": "remi",
+    "code": "cr-kata2-910",
+    "index": 910
+  },
+  {
+    "surface": "ストーリ",
+    "reading": "sutoori",
+    "code": "cr-kata2-911",
+    "index": 911
+  },
+  {
+    "surface": "コレクト",
+    "reading": "correct",
+    "code": "cr-kata2-912",
+    "index": 912
+  },
+  {
+    "surface": "フーガ",
+    "reading": "fuga",
+    "code": "cr-kata2-913",
+    "index": 913
+  },
+  {
+    "surface": "ノベルティ",
+    "reading": "novelty",
+    "code": "cr-kata2-914",
+    "index": 914
+  },
+  {
+    "surface": "オブザーバー",
+    "reading": "observer",
+    "code": "cr-kata2-915",
+    "index": 915
+  },
+  {
+    "surface": "ケチ",
+    "reading": "kechi",
+    "code": "cr-kata2-916",
+    "index": 916
+  },
+  {
+    "surface": "クリンゴン",
+    "reading": "cleangon",
+    "code": "cr-kata2-917",
+    "index": 917
+  },
+  {
+    "surface": "シュウマイ",
+    "reading": "shuumai",
+    "code": "cr-kata2-918",
+    "index": 918
+  },
+  {
+    "surface": "ウラル",
+    "reading": "ural",
+    "code": "cr-kata2-919",
+    "index": 919
+  },
+  {
+    "surface": "ウソップ",
+    "reading": "usoup",
+    "code": "cr-kata2-920",
+    "index": 920
+  },
+  {
+    "surface": "ルーサー",
+    "reading": "ruusaa",
+    "code": "cr-kata2-921",
+    "index": 921
+  },
+  {
+    "surface": "デブリ",
+    "reading": "debris",
+    "code": "cr-kata2-922",
+    "index": 922
+  },
+  {
+    "surface": "ユーゴ",
+    "reading": "yugoslavia",
+    "code": "cr-kata2-923",
+    "index": 923
+  },
+  {
+    "surface": "ビデ",
+    "reading": "bidet",
+    "code": "cr-kata2-924",
+    "index": 924
+  },
+  {
+    "surface": "ベルトルト",
+    "reading": "berutoruto",
+    "code": "cr-kata2-925",
+    "index": 925
+  },
+  {
+    "surface": "アイシング",
+    "reading": "icing",
+    "code": "cr-kata2-926",
+    "index": 926
+  },
+  {
+    "surface": "ステンレス",
+    "reading": "stainless",
+    "code": "cr-kata2-927",
+    "index": 927
+  },
+  {
+    "surface": "ダスト",
+    "reading": "dust",
+    "code": "cr-kata2-928",
+    "index": 928
+  },
+  {
+    "surface": "ブルマ",
+    "reading": "bloomer",
+    "code": "cr-kata2-929",
+    "index": 929
+  },
+  {
+    "surface": "マッスル",
+    "reading": "massuru",
+    "code": "cr-kata2-930",
+    "index": 930
+  },
+  {
+    "surface": "ツインズ",
+    "reading": "twin",
+    "code": "cr-kata2-931",
+    "index": 931
+  },
+  {
+    "surface": "ライター",
+    "reading": "writer",
+    "code": "cr-kata2-932",
+    "index": 932
+  },
+  {
+    "surface": "ロコ",
+    "reading": "roko",
+    "code": "cr-kata2-933",
+    "index": 933
+  },
+  {
+    "surface": "クリア",
+    "reading": "clear",
+    "code": "cr-kata2-934",
+    "index": 934
+  },
+  {
+    "surface": "メガレンジャー",
+    "reading": "megaranger",
+    "code": "cr-kata2-935",
+    "index": 935
+  },
+  {
+    "surface": "カスタネット",
+    "reading": "castanet",
+    "code": "cr-kata2-936",
+    "index": 936
+  },
+  {
+    "surface": "チャッキー",
+    "reading": "chakkey",
+    "code": "cr-kata2-937",
+    "index": 937
+  },
+  {
+    "surface": "コノリー",
+    "reading": "konorii",
+    "code": "cr-kata2-938",
+    "index": 938
+  },
+  {
+    "surface": "シークエンス",
+    "reading": "sequence",
+    "code": "cr-kata2-939",
+    "index": 939
+  },
+  {
+    "surface": "ユーティリティー",
+    "reading": "utility",
+    "code": "cr-kata2-940",
+    "index": 940
+  },
+  {
+    "surface": "ゾンビ",
+    "reading": "zombie",
+    "code": "cr-kata2-941",
+    "index": 941
+  },
+  {
+    "surface": "ウィザーズ",
+    "reading": "wizard",
+    "code": "cr-kata2-942",
+    "index": 942
+  },
+  {
+    "surface": "エンスト",
+    "reading": "enginestop",
+    "code": "cr-kata2-943",
+    "index": 943
+  },
+  {
+    "surface": "マリオット",
+    "reading": "marriott",
+    "code": "cr-kata2-944",
+    "index": 944
+  },
+  {
+    "surface": "ダイジェスト",
+    "reading": "digest",
+    "code": "cr-kata2-945",
+    "index": 945
+  },
+  {
+    "surface": "レジストリ",
+    "reading": "registry",
+    "code": "cr-kata2-946",
+    "index": 946
+  },
+  {
+    "surface": "ジョイスティック",
+    "reading": "joystick",
+    "code": "cr-kata2-947",
+    "index": 947
+  },
+  {
+    "surface": "トク",
+    "reading": "toku",
+    "code": "cr-kata2-948",
+    "index": 948
+  },
+  {
+    "surface": "クション",
+    "reading": "kushon",
+    "code": "cr-kata2-949",
+    "index": 949
+  },
+  {
+    "surface": "ペダル",
+    "reading": "pedal",
+    "code": "cr-kata2-950",
+    "index": 950
+  },
+  {
+    "surface": "エンドレスエイト",
+    "reading": "endlesseight",
+    "code": "cr-kata2-951",
+    "index": 951
+  },
+  {
+    "surface": "セキ",
+    "reading": "seki",
+    "code": "cr-kata2-952",
+    "index": 952
+  },
+  {
+    "surface": "ポケベル",
+    "reading": "pokeberu",
+    "code": "cr-kata2-953",
+    "index": 953
+  },
+  {
+    "surface": "ダスター",
+    "reading": "duster",
+    "code": "cr-kata2-954",
+    "index": 954
+  },
+  {
+    "surface": "メイベル",
+    "reading": "meiberu",
+    "code": "cr-kata2-955",
+    "index": 955
+  },
+  {
+    "surface": "エステート",
+    "reading": "estate",
+    "code": "cr-kata2-956",
+    "index": 956
+  },
+  {
+    "surface": "バラン",
+    "reading": "baran",
+    "code": "cr-kata2-957",
+    "index": 957
+  },
+  {
+    "surface": "ストラテジー",
+    "reading": "strategy",
+    "code": "cr-kata2-958",
+    "index": 958
+  },
+  {
+    "surface": "サンデー",
+    "reading": "sunday",
+    "code": "cr-kata2-959",
+    "index": 959
+  },
+  {
+    "surface": "メヒコ",
+    "reading": "mexico",
+    "code": "cr-kata2-960",
+    "index": 960
+  },
+  {
+    "surface": "タンデム",
+    "reading": "tandem",
+    "code": "cr-kata2-961",
+    "index": 961
+  },
+  {
+    "surface": "マニュエル",
+    "reading": "manyueru",
+    "code": "cr-kata2-962",
+    "index": 962
+  },
+  {
+    "surface": "ユージ",
+    "reading": "yuuji",
+    "code": "cr-kata2-963",
+    "index": 963
+  },
+  {
+    "surface": "スゴイ",
+    "reading": "sugoi",
+    "code": "cr-kata2-964",
+    "index": 964
+  },
+  {
+    "surface": "カナメ",
+    "reading": "kaname",
+    "code": "cr-kata2-965",
+    "index": 965
+  },
+  {
+    "surface": "アンコウ",
+    "reading": "ankou",
+    "code": "cr-kata2-966",
+    "index": 966
+  },
+  {
+    "surface": "スロウ",
+    "reading": "surou",
+    "code": "cr-kata2-967",
+    "index": 967
+  },
+  {
+    "surface": "ビッチ",
+    "reading": "bitchi",
+    "code": "cr-kata2-968",
+    "index": 968
+  },
+  {
+    "surface": "モンス",
+    "reading": "monsu",
+    "code": "cr-kata2-969",
+    "index": 969
+  },
+  {
+    "surface": "クローク",
+    "reading": "cloak",
+    "code": "cr-kata2-970",
+    "index": 970
+  },
+  {
+    "surface": "ガラリ",
+    "reading": "garari",
+    "code": "cr-kata2-971",
+    "index": 971
+  },
+  {
+    "surface": "クォリティ",
+    "reading": "quality",
+    "code": "cr-kata2-972",
+    "index": 972
+  },
+  {
+    "surface": "ドロップ",
+    "reading": "drop",
+    "code": "cr-kata2-973",
+    "index": 973
+  },
+  {
+    "surface": "パセリ",
+    "reading": "parsley",
+    "code": "cr-kata2-974",
+    "index": 974
+  },
+  {
+    "surface": "サイプレス",
+    "reading": "cypress",
+    "code": "cr-kata2-975",
+    "index": 975
+  },
+  {
+    "surface": "リターン",
+    "reading": "return",
+    "code": "cr-kata2-976",
+    "index": 976
+  },
+  {
+    "surface": "フリーター",
+    "reading": "furiitaa",
+    "code": "cr-kata2-977",
+    "index": 977
+  },
+  {
+    "surface": "フォークリフト",
+    "reading": "forklift",
+    "code": "cr-kata2-978",
+    "index": 978
+  },
+  {
+    "surface": "ビクター",
+    "reading": "victor",
+    "code": "cr-kata2-979",
+    "index": 979
+  },
+  {
+    "surface": "クローズド",
+    "reading": "closed",
+    "code": "cr-kata2-980",
+    "index": 980
+  },
+  {
+    "surface": "ビビ",
+    "reading": "bibi",
+    "code": "cr-kata2-981",
+    "index": 981
+  },
+  {
+    "surface": "ジャンボリー",
+    "reading": "jamboree",
+    "code": "cr-kata2-982",
+    "index": 982
+  },
+  {
+    "surface": "ブレンド",
+    "reading": "blend",
+    "code": "cr-kata2-983",
+    "index": 983
+  },
+  {
+    "surface": "テオ",
+    "reading": "theo",
+    "code": "cr-kata2-984",
+    "index": 984
+  },
+  {
+    "surface": "グロック",
+    "reading": "glock",
+    "code": "cr-kata2-985",
+    "index": 985
+  },
+  {
+    "surface": "ント",
+    "reading": "nto",
+    "code": "cr-kata2-986",
+    "index": 986
+  },
+  {
+    "surface": "フォント",
+    "reading": "font",
+    "code": "cr-kata2-987",
+    "index": 987
+  },
+  {
+    "surface": "ズラ",
+    "reading": "zura",
+    "code": "cr-kata2-988",
+    "index": 988
+  },
+  {
+    "surface": "ゲーテ",
+    "reading": "goethe",
+    "code": "cr-kata2-989",
+    "index": 989
+  },
+  {
+    "surface": "ニール",
+    "reading": "neill",
+    "code": "cr-kata2-990",
+    "index": 990
+  },
+  {
+    "surface": "ゲンキ",
+    "reading": "genki",
+    "code": "cr-kata2-991",
+    "index": 991
+  },
+  {
+    "surface": "フレッシュ",
+    "reading": "fresh",
+    "code": "cr-kata2-992",
+    "index": 992
+  },
+  {
+    "surface": "バスローブ",
+    "reading": "bathrobe",
+    "code": "cr-kata2-993",
+    "index": 993
+  },
+  {
+    "surface": "ハグ",
+    "reading": "hug",
+    "code": "cr-kata2-994",
+    "index": 994
+  },
+  {
+    "surface": "ファイト",
+    "reading": "fight",
+    "code": "cr-kata2-995",
+    "index": 995
+  },
+  {
+    "surface": "セーフ",
+    "reading": "safe",
+    "code": "cr-kata2-996",
+    "index": 996
+  },
+  {
+    "surface": "ツイキャス",
+    "reading": "tsuikyasu",
+    "code": "cr-kata2-997",
+    "index": 997
+  },
+  {
+    "surface": "タケル",
+    "reading": "takeru",
+    "code": "cr-kata2-998",
+    "index": 998
+  },
+  {
+    "surface": "トーチ",
+    "reading": "toochi",
+    "code": "cr-kata2-999",
+    "index": 999
+  },
+  {
+    "surface": "センズリ",
+    "reading": "senzuri",
+    "code": "cr-kata2-1000",
+    "index": 1000
+  },
+  {
+    "surface": "ズーム",
+    "reading": "zoom",
+    "code": "cr-kata2-1001",
+    "index": 1001
+  },
+  {
+    "surface": "リゾット",
+    "reading": "risotto",
+    "code": "cr-kata2-1002",
+    "index": 1002
+  },
+  {
+    "surface": "ニュルニュル",
+    "reading": "nuellnuell",
+    "code": "cr-kata2-1003",
+    "index": 1003
+  },
+  {
+    "surface": "ウィンカー",
+    "reading": "wincar",
+    "code": "cr-kata2-1004",
+    "index": 1004
+  },
+  {
+    "surface": "カルディ",
+    "reading": "karudi",
+    "code": "cr-kata2-1005",
+    "index": 1005
+  },
+  {
+    "surface": "コノ",
+    "reading": "kono",
+    "code": "cr-kata2-1006",
+    "index": 1006
+  },
+  {
+    "surface": "マール",
+    "reading": "maaru",
+    "code": "cr-kata2-1007",
+    "index": 1007
+  },
+  {
+    "surface": "エッチ",
+    "reading": "h",
+    "code": "cr-kata2-1008",
+    "index": 1008
+  },
+  {
+    "surface": "ムショ",
+    "reading": "musho",
+    "code": "cr-kata2-1009",
+    "index": 1009
+  },
+  {
+    "surface": "ラビット",
+    "reading": "rabbit",
+    "code": "cr-kata2-1010",
+    "index": 1010
+  },
+  {
+    "surface": "レイダー",
+    "reading": "raider",
+    "code": "cr-kata2-1011",
+    "index": 1011
+  },
+  {
+    "surface": "レーシック",
+    "reading": "reeshikku",
+    "code": "cr-kata2-1012",
+    "index": 1012
+  },
+  {
+    "surface": "プリケツ",
+    "reading": "puriketsu",
+    "code": "cr-kata2-1013",
+    "index": 1013
+  },
+  {
+    "surface": "ベー",
+    "reading": "bee",
+    "code": "cr-kata2-1014",
+    "index": 1014
+  },
+  {
+    "surface": "ツケ",
+    "reading": "tsuke",
+    "code": "cr-kata2-1015",
+    "index": 1015
+  },
+  {
+    "surface": "トランジット",
+    "reading": "transit",
+    "code": "cr-kata2-1016",
+    "index": 1016
+  },
+  {
+    "surface": "リンツ",
+    "reading": "lindt",
+    "code": "cr-kata2-1017",
+    "index": 1017
+  },
+  {
+    "surface": "プリティ",
+    "reading": "pretty",
+    "code": "cr-kata2-1018",
+    "index": 1018
+  },
+  {
+    "surface": "コーセー",
+    "reading": "koosee",
+    "code": "cr-kata2-1019",
+    "index": 1019
+  },
+  {
+    "surface": "メギド",
+    "reading": "megido",
+    "code": "cr-kata2-1020",
+    "index": 1020
+  },
+  {
+    "surface": "フロアー",
+    "reading": "floor",
+    "code": "cr-kata2-1021",
+    "index": 1021
+  },
+  {
+    "surface": "マツコ",
+    "reading": "matsuko",
+    "code": "cr-kata2-1022",
+    "index": 1022
+  },
+  {
+    "surface": "セラフ",
+    "reading": "serough",
+    "code": "cr-kata2-1023",
+    "index": 1023
+  },
+  {
+    "surface": "ラント",
+    "reading": "rand",
+    "code": "cr-kata2-1024",
+    "index": 1024
+  },
+  {
+    "surface": "ストラクチャー",
+    "reading": "structure",
+    "code": "cr-kata2-1025",
+    "index": 1025
+  },
+  {
+    "surface": "マクロ",
+    "reading": "macro",
+    "code": "cr-kata2-1026",
+    "index": 1026
+  },
+  {
+    "surface": "ビヨンセ",
+    "reading": "beyonce",
+    "code": "cr-kata2-1027",
+    "index": 1027
+  },
+  {
+    "surface": "ボガート",
+    "reading": "bogart",
+    "code": "cr-kata2-1028",
+    "index": 1028
+  },
+  {
+    "surface": "ケガ",
+    "reading": "kega",
+    "code": "cr-kata2-1029",
+    "index": 1029
+  },
+  {
+    "surface": "ガッチガチ",
+    "reading": "gatchigachi",
+    "code": "cr-kata2-1030",
+    "index": 1030
+  },
+  {
+    "surface": "ミュゼ",
+    "reading": "myuze",
+    "code": "cr-kata2-1031",
+    "index": 1031
+  },
+  {
+    "surface": "バイブレーション",
+    "reading": "vibration",
+    "code": "cr-kata2-1032",
+    "index": 1032
+  },
+  {
+    "surface": "バレット",
+    "reading": "barret",
+    "code": "cr-kata2-1033",
+    "index": 1033
+  },
+  {
+    "surface": "ユーティリティ",
+    "reading": "utility",
+    "code": "cr-kata2-1034",
+    "index": 1034
+  },
+  {
+    "surface": "スリッポン",
+    "reading": "surippon",
+    "code": "cr-kata2-1035",
+    "index": 1035
+  },
+  {
+    "surface": "カチン",
+    "reading": "kachin",
+    "code": "cr-kata2-1036",
+    "index": 1036
+  },
+  {
+    "surface": "クレージー",
+    "reading": "crazy",
+    "code": "cr-kata2-1037",
+    "index": 1037
+  },
+  {
+    "surface": "ファイ",
+    "reading": "phi",
+    "code": "cr-kata2-1038",
+    "index": 1038
+  },
+  {
+    "surface": "キカイダー",
+    "reading": "kikaidaa",
+    "code": "cr-kata2-1039",
+    "index": 1039
+  },
+  {
+    "surface": "スッゲー",
+    "reading": "suggame",
+    "code": "cr-kata2-1040",
+    "index": 1040
+  },
+  {
+    "surface": "ヴァイス",
+    "reading": "vice",
+    "code": "cr-kata2-1041",
+    "index": 1041
+  },
+  {
+    "surface": "ツルツル",
+    "reading": "tsurutsuru",
+    "code": "cr-kata2-1042",
+    "index": 1042
+  },
+  {
+    "surface": "シフ",
+    "reading": "shifu",
+    "code": "cr-kata2-1043",
+    "index": 1043
+  },
+  {
+    "surface": "リロード",
+    "reading": "riroodo",
+    "code": "cr-kata2-1044",
+    "index": 1044
+  },
+  {
+    "surface": "サイコロ",
+    "reading": "saikoro",
+    "code": "cr-kata2-1045",
+    "index": 1045
+  },
+  {
+    "surface": "イコライザー",
+    "reading": "equalizer",
+    "code": "cr-kata2-1046",
+    "index": 1046
+  },
+  {
+    "surface": "メチル",
+    "reading": "methyl",
+    "code": "cr-kata2-1047",
+    "index": 1047
+  },
+  {
+    "surface": "ルータ",
+    "reading": "router",
+    "code": "cr-kata2-1048",
+    "index": 1048
+  },
+  {
+    "surface": "スタンプ",
+    "reading": "stamp",
+    "code": "cr-kata2-1049",
+    "index": 1049
+  },
+  {
+    "surface": "チャッピー",
+    "reading": "chappii",
+    "code": "cr-kata2-1050",
+    "index": 1050
+  },
+  {
+    "surface": "ゲリ",
+    "reading": "geli",
+    "code": "cr-kata2-1051",
+    "index": 1051
+  },
+  {
+    "surface": "コッソリ",
+    "reading": "kossori",
+    "code": "cr-kata2-1052",
+    "index": 1052
+  },
+  {
+    "surface": "セロ",
+    "reading": "cello",
+    "code": "cr-kata2-1053",
+    "index": 1053
+  },
+  {
+    "surface": "ユズ",
+    "reading": "yuzu",
+    "code": "cr-kata2-1054",
+    "index": 1054
+  },
+  {
+    "surface": "スロット",
+    "reading": "slot",
+    "code": "cr-kata2-1055",
+    "index": 1055
+  },
+  {
+    "surface": "ゲイツ",
+    "reading": "geitsu",
+    "code": "cr-kata2-1056",
+    "index": 1056
+  },
+  {
+    "surface": "マサル",
+    "reading": "masaru",
+    "code": "cr-kata2-1057",
+    "index": 1057
+  },
+  {
+    "surface": "セカイ",
+    "reading": "sekai",
+    "code": "cr-kata2-1058",
+    "index": 1058
+  },
+  {
+    "surface": "クリプト",
+    "reading": "kuriputo",
+    "code": "cr-kata2-1059",
+    "index": 1059
+  },
+  {
+    "surface": "レンツ",
+    "reading": "lenz",
+    "code": "cr-kata2-1060",
+    "index": 1060
+  },
+  {
+    "surface": "ガガ",
+    "reading": "gaga",
+    "code": "cr-kata2-1061",
+    "index": 1061
+  },
+  {
+    "surface": "ハイブリット",
+    "reading": "hybrid",
+    "code": "cr-kata2-1062",
+    "index": 1062
+  },
+  {
+    "surface": "ズボラ",
+    "reading": "zubora",
+    "code": "cr-kata2-1063",
+    "index": 1063
+  },
+  {
+    "surface": "カサゴ",
+    "reading": "kasago",
+    "code": "cr-kata2-1064",
+    "index": 1064
+  },
+  {
+    "surface": "タチ",
+    "reading": "tachi",
+    "code": "cr-kata2-1065",
+    "index": 1065
+  },
+  {
+    "surface": "ハデス",
+    "reading": "hades",
+    "code": "cr-kata2-1066",
+    "index": 1066
+  },
+  {
+    "surface": "ブースター",
+    "reading": "booster",
+    "code": "cr-kata2-1067",
+    "index": 1067
+  },
+  {
+    "surface": "ムシキング",
+    "reading": "mushiking",
+    "code": "cr-kata2-1068",
+    "index": 1068
+  },
+  {
+    "surface": "パニク",
+    "reading": "panic",
+    "code": "cr-kata2-1069",
+    "index": 1069
+  },
+  {
+    "surface": "アフター",
+    "reading": "after",
+    "code": "cr-kata2-1070",
+    "index": 1070
+  },
+  {
+    "surface": "アナザー",
+    "reading": "another",
+    "code": "cr-kata2-1071",
+    "index": 1071
+  },
+  {
+    "surface": "コンバット",
+    "reading": "combat",
+    "code": "cr-kata2-1072",
+    "index": 1072
+  },
+  {
+    "surface": "タイトー",
+    "reading": "taitoo",
+    "code": "cr-kata2-1073",
+    "index": 1073
+  },
+  {
+    "surface": "ショベル",
+    "reading": "shovel",
+    "code": "cr-kata2-1074",
+    "index": 1074
+  },
+  {
+    "surface": "イース",
+    "reading": "iisu",
+    "code": "cr-kata2-1075",
+    "index": 1075
+  },
+  {
+    "surface": "スリル",
+    "reading": "thrill",
+    "code": "cr-kata2-1076",
+    "index": 1076
+  },
+  {
+    "surface": "ラクーン",
+    "reading": "raccoon",
+    "code": "cr-kata2-1077",
+    "index": 1077
+  },
+  {
+    "surface": "カタツムリ",
+    "reading": "katatsumuri",
+    "code": "cr-kata2-1078",
+    "index": 1078
+  },
+  {
+    "surface": "チャプター",
+    "reading": "chapter",
+    "code": "cr-kata2-1079",
+    "index": 1079
+  },
+  {
+    "surface": "ディエゴ",
+    "reading": "diego",
+    "code": "cr-kata2-1080",
+    "index": 1080
+  },
+  {
+    "surface": "モータ",
+    "reading": "motor",
+    "code": "cr-kata2-1081",
+    "index": 1081
+  },
+  {
+    "surface": "スチャダラパー",
+    "reading": "suchadarapaa",
+    "code": "cr-kata2-1082",
+    "index": 1082
+  },
+  {
+    "surface": "コロニー",
+    "reading": "colony",
+    "code": "cr-kata2-1083",
+    "index": 1083
+  },
+  {
+    "surface": "コルセット",
+    "reading": "corset",
+    "code": "cr-kata2-1084",
+    "index": 1084
+  },
+  {
+    "surface": "ソシャゲ",
+    "reading": "soshage",
+    "code": "cr-kata2-1085",
+    "index": 1085
+  },
+  {
+    "surface": "ハイツ",
+    "reading": "heights",
+    "code": "cr-kata2-1086",
+    "index": 1086
+  },
+  {
+    "surface": "ラディカル",
+    "reading": "radical",
+    "code": "cr-kata2-1087",
+    "index": 1087
+  },
+  {
+    "surface": "ブチ",
+    "reading": "buchi",
+    "code": "cr-kata2-1088",
+    "index": 1088
+  },
+  {
+    "surface": "スピカ",
+    "reading": "spica",
+    "code": "cr-kata2-1089",
+    "index": 1089
+  },
+  {
+    "surface": "スワン",
+    "reading": "swan",
+    "code": "cr-kata2-1090",
+    "index": 1090
+  },
+  {
+    "surface": "カコ",
+    "reading": "kako",
+    "code": "cr-kata2-1091",
+    "index": 1091
+  },
+  {
+    "surface": "ステイ",
+    "reading": "stay",
+    "code": "cr-kata2-1092",
+    "index": 1092
+  },
+  {
+    "surface": "スパー",
+    "reading": "spur",
+    "code": "cr-kata2-1093",
+    "index": 1093
+  },
+  {
+    "surface": "タケ",
+    "reading": "take",
+    "code": "cr-kata2-1094",
+    "index": 1094
+  },
+  {
+    "surface": "リスポーン",
+    "reading": "risupawn",
+    "code": "cr-kata2-1095",
+    "index": 1095
+  },
+  {
+    "surface": "ピカ",
+    "reading": "pika",
+    "code": "cr-kata2-1096",
+    "index": 1096
+  },
+  {
+    "surface": "セリエ",
+    "reading": "serie",
+    "code": "cr-kata2-1097",
+    "index": 1097
+  },
+  {
+    "surface": "ツイン",
+    "reading": "twin",
+    "code": "cr-kata2-1098",
+    "index": 1098
+  },
+  {
+    "surface": "ガチンコ",
+    "reading": "gachinko",
+    "code": "cr-kata2-1099",
+    "index": 1099
+  }
+]

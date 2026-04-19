@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "tatoeba-jpn-sentences",
+      "description": "Tatoeba Japanese sentence export; build-corpus-from-tatoeba extracts Sudachi morphemes plus whole-sentence surfaces (length <= 64) as typing candidates.",
+      "url": "https://downloads.tatoeba.org/exports/per_language/jpn/jpn_sentences.tsv.bz2",
+      "license_spdx": "CC-BY-2.0",
+      "license_url": "https://tatoeba.org/en/downloads",
+      "retrieved_at": "2026-04-18",
+      "notes": "Fetched with cleanroom_pipeline fetch-open-corpora; provenance in packages/cleanroom-pipeline/.cache/open_corpora/SOURCE_PROVENANCE.json at build time. wordfreq is not used for lane-B master."
+    },
+    {
+      "id": "jmdict-eng-xml",
+      "description": "JMdict English-gloss XML (EDRDG); downloaded for reference / future integration; not yet merged into master TSV.",
+      "url": "http://ftp.edrdg.org/pub/Nihongo/JMdict_e.gz",
+      "license_spdx": "LicenseRef-EDRDG",
+      "license_url": "https://www.edrdg.org/edrdg/licence.html",
+      "retrieved_at": "2026-04-18",
+      "notes": "Same fetch-open-corpora step as Tatoeba; see SOURCE_PROVENANCE.json."
+    },
+    {
+      "id": "unidic-lite",
+      "description": "UniDic lite dictionary bundle used by Cutlet/fugashi for surface→romaji.",
+      "url": "https://github.com/polm/unidic-lite",
+      "license_spdx": "BSD-3-Clause",
+      "license_url": "https://github.com/polm/unidic-lite/blob/master/LICENSE",
+      "retrieved_at": "2026-04-18"
+    },
+    {
+      "id": "cutlet-romaji",
+      "description": "Surface→romaji (BAS-ish ASCII) for pipeline reading column.",
+      "url": "https://github.com/polm/cutlet",
+      "license_spdx": "MIT",
+      "license_url": "https://github.com/polm/cutlet/blob/master/LICENSE",
+      "retrieved_at": "2026-04-18"
+    },
+    {
+      "id": "sudachidict-core",
+      "description": "SudachiPy core dictionary for normalized_form in ingest.",
+      "url": "https://github.com/WorksApplications/SudachiDict",
+      "license_spdx": "Apache-2.0",
+      "license_url": "https://github.com/WorksApplications/SudachiDict/blob/develop/LICENSE",
+      "retrieved_at": "2026-04-18"
+    },
+    {
+      "id": "sentence-transformers-paraphrase-multilingual-minilm",
+      "description": "Multilingual sentence embeddings for semantic similarity vs Lane-A-derived centroid (local only).",
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "license_spdx": "Apache-2.0",
+      "license_url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "retrieved_at": "2026-04-18"
+    }
+  ],
+  "build": {
+    "tool": "fetch-open-corpora + cleanroom_pipeline build-corpus-from-tatoeba + ingest + filter-deck + join-strokes + profile-semantic / score-semantic + export",
+    "notes": "Deck script gates + stroke filter; ranking uses semantic_similarity. Lane A JSON is used only locally for embedding centroid and target lengths (surfaces are not copied into output). Long Tatoeba lines yield koto-shaped surfaces when they pass deck_filters."
+  }
+}

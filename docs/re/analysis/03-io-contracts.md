@@ -38,10 +38,14 @@ Strings embedded in the VB Decompiler export (mostly under [`twjrdecomp/*.frm`](
 
 | Contract ID | Read/Write | Format | Evidence file:line | Verified |
 |-------------|------------|--------|---------------------|----------|
-| TIME-KHJY | append? | `.log` text | frmReference / frmWebrkg | no |
+| TIME-KHJY | append? | `.log` **binary record** (LE `uint16` len + ASCII + `float32`×9 + `int32` + …) — [09-time-khjy-binary-layout-v0.md](09-time-khjy-binary-layout-v0.md) | frmReference / frmWebrkg + user head capture | partial |
 
 Fill **Verified** in Phase 6 using runtime traces.
 
 ## Alignment with installed data folder
 
 Cross-check paths against the real install tree (`DetailLog\*.txt`, `ReadMe.txt`, etc.) listed in [binary-inventory](../binary-inventory.md).
+
+**Web prep (local store spike):** [`docs/spec/d-phase-prep-local-store.md`](../../spec/d-phase-prep-local-store.md) — IndexedDB trial summaries, per-`Time*.log` stub ZIP export, `WEB_V1` import preview, native `Time*.log` binary import into `imported_native_v1`, unified timeline UI, and [`fixtures/timelog-stub`](../../packages/engine/fixtures/timelog-stub) for parser tests (not verified native log bytes). **第2波候補の実装順メモ:** [`d-phase-wave2-artifact-matrix.md`](../../spec/d-phase-wave2-artifact-matrix.md)。
+
+**Native `Time*.log` capture plan (V0):** [`08-time-log-native-format-v0.md`](08-time-log-native-format-v0.md) — capture checklist + text heuristics; **binary layout head:** [`09-time-khjy-binary-layout-v0.md`](09-time-khjy-binary-layout-v0.md), parser `timeKHJYLogBinaryV0.ts`, fixture [`timekhjy-head-64.bin`](../../packages/engine/fixtures/timelog-native/timekhjy-head-64.bin).

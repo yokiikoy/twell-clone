@@ -27,6 +27,7 @@ import {
   type KeyboardLayout,
 } from "emiel";
 import { activateCompat } from "../lib/emielActivateCompat";
+import { appendTrialSessionRecord } from "../lib/localStore";
 /** 語末「ん」→語間 Space: 400 打鍵・`nn`/`xn` 整合はラッパー側コメント参照 */
 import { inputWithNnBeforeSpaceIfNeeded } from "../lib/emielNsSpaceAssist";
 import {
@@ -386,6 +387,19 @@ export function TypingCanvas() {
   const runPhaseRef = useRef<RunPhase>("loading");
   const lapAnchorMsRef = useRef(0);
   const lapStartedRef = useRef(false);
+  const trialContextRef = useRef<{
+    pickerView: DeckPickerView;
+    mergedTab: MergedContentTab;
+    deck: DeckId;
+    caption: string;
+    gameMode: GameMode;
+  }>({
+    pickerView: "merged",
+    mergedTab: "kihon",
+    deck: "jou1",
+    caption: "",
+    gameMode: "kihon",
+  });
 
   const [deck, setDeck] = useState<DeckId>("jou1");
   const [pickerView, setPickerView] = useState<DeckPickerView>("merged");
@@ -676,7 +690,10 @@ export function TypingCanvas() {
     // クロージャのオブジェクトを握り続し `markWallClockStart` が無いままになるのを防ぐ）
     strokeEngRef.current = createStrokeTrialEngine(STROKE_TRIAL_RESET);
     try {
-      autoRef.current = build(mozcRomanRuleForKeyboard(layout), emielTargetLine);
+      autoRef.current = build(
+        mozcRomanRuleForKeyboard(layout),
+        emielTargetLine.normalize("NFC")
+      );
       setErr(null);
       if (runPhaseRef.current === "playing") {
         strokeEngRef.current.markWallClockStart(performance.now());
@@ -723,9 +740,27 @@ export function TypingCanvas() {
         }
       }
 
-      if (after >= TRIAL_STROKES) {
+      if (after >= TRIAL_STROKES && runPhaseRef.current === "playing") {
         runPhaseRef.current = "finished";
         setRunPhase("finished");
+        const se = strokeEngRef.current;
+        const au = autoRef.current;
+        if (se && au) {
+          const rs = se.getRenderState(now);
+          const ctx = trialContextRef.current;
+          void appendTrialSessionRecord({
+            deckKind: ctx.pickerView === "merged" ? "merged" : "single",
+            mergedTab: ctx.pickerView === "merged" ? ctx.mergedTab : undefined,
+            singleDeckId: ctx.pickerView === "single" ? ctx.deck : undefined,
+            gameMode: ctx.gameMode,
+            deckCaption: ctx.caption,
+            trialStrokeTarget: rs.trialStrokeCount,
+            confirmedStrokes: rs.confirmedStrokeCount,
+            elapsedMs: rs.elapsedMs,
+            resultLevelId: rs.resultLevelId,
+            missCount: au.getFailedInputCount(),
+          });
+        }
       }
 
       if (
@@ -776,6 +811,14 @@ export function TypingCanvas() {
 
   const displayMeta =
     pickerView === "merged" ? MERGED_SPECS[mergedTab] : DECKS[deck];
+
+  trialContextRef.current = {
+    pickerView,
+    mergedTab,
+    deck,
+    caption: displayMeta.caption,
+    gameMode: displayMeta.mode,
+  };
 
   return (
     <section className="space-y-3 rounded-lg border border-zinc-200 bg-white p-4 shadow-sm">

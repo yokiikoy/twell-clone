@@ -291,6 +291,17 @@ export function PracticeSettingsStubHub({
         <TrialHintParagraph surfaceHint={surfaceHint} trialStrokeCount={trialStrokeCount} />
       </div>
       <div className="border-t border-zinc-200 px-3 py-2.5">
+        <p className="m-0 mb-1.5 text-[11px] text-zinc-600">
+          試行の{" "}
+          <Link
+            href="/records/history"
+            className="font-medium text-amber-900 underline decoration-amber-600/60 hover:text-amber-800"
+          >
+            ローカル履歴・JSON / Time ログスタブ書き出し
+          </Link>
+          {" — "}
+          <span className="text-zinc-500">IndexedDB、フェーズ D 互換準備</span>
+        </p>
         <p className="m-0 mb-2 text-[11px] font-medium text-zinc-600">本家メニュー相当（設定スタブ）</p>
         <ul className="m-0 grid list-none grid-cols-1 gap-1.5 sm:grid-cols-2">
           {NAV_SETTINGS_META.map(({ href, label, vbForm }) => (

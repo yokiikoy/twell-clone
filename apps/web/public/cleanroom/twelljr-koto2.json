@@ -1,0 +1,266 @@
+[
+  {
+    "surface": "おかあさんといっしょ",
+    "reading": "okaasantoissho",
+    "code": "cr-koto2-0",
+    "index": 0
+  },
+  {
+    "surface": "スタンディングオベーション",
+    "reading": "standingovation",
+    "code": "cr-koto2-1",
+    "index": 1
+  },
+  {
+    "surface": "バック・トゥ・ザ・フューチャー",
+    "reading": "backtuthefuture",
+    "code": "cr-koto2-2",
+    "index": 2
+  },
+  {
+    "surface": "ガンダムビルドファイターズ",
+    "reading": "gandamubuildfighter",
+    "code": "cr-koto2-3",
+    "index": 3
+  },
+  {
+    "surface": "ガーディアンズ・オブ・ギャラクシー",
+    "reading": "gaadianzuofgalaxy",
+    "code": "cr-koto2-4",
+    "index": 4
+  },
+  {
+    "surface": "ファンタスティック・ビースト",
+    "reading": "fantasticbiisuto",
+    "code": "cr-koto2-5",
+    "index": 5
+  },
+  {
+    "surface": "ロード・オブ・ザ・リング",
+    "reading": "roadofthering",
+    "code": "cr-koto2-6",
+    "index": 6
+  },
+  {
+    "surface": "インフィニット・ストラトス",
+    "reading": "infinitestratosu",
+    "code": "cr-koto2-7",
+    "index": 7
+  },
+  {
+    "surface": "リトルウィッチアカデミア",
+    "reading": "littlewitchacademia",
+    "code": "cr-koto2-8",
+    "index": 8
+  },
+  {
+    "surface": "クリスティアーノ・ロナウド",
+    "reading": "christieaanoronaldo",
+    "code": "cr-koto2-9",
+    "index": 9
+  },
+  {
+    "surface": "カベルネ・ソーヴィニヨン",
+    "reading": "cabernetsooviniyon",
+    "code": "cr-koto2-10",
+    "index": 10
+  },
+  {
+    "surface": "グッドスマイルカンパニー",
+    "reading": "goodsmilecompany",
+    "code": "cr-koto2-11",
+    "index": 11
+  },
+  {
+    "surface": "オリックス・バファローズ",
+    "reading": "orixbuffalo",
+    "code": "cr-koto2-12",
+    "index": 12
+  },
+  {
+    "surface": "シンガー・ソングライター",
+    "reading": "singersongwriter",
+    "code": "cr-koto2-13",
+    "index": 13
+  },
+  {
+    "surface": "ストライク・ザ・ブラッド",
+    "reading": "striketheburaddo",
+    "code": "cr-koto2-14",
+    "index": 14
+  },
+  {
+    "surface": "パイレーツ・オブ・カリビアン",
+    "reading": "paireetsuofcaribbean",
+    "code": "cr-koto2-15",
+    "index": 15
+  },
+  {
+    "surface": "スーパーマリオブラザーズ",
+    "reading": "supermariobrother",
+    "code": "cr-koto2-16",
+    "index": 16
+  },
+  {
+    "surface": "ドラゴンクエストモンスターズ",
+    "reading": "dragonquestmonster",
+    "code": "cr-koto2-17",
+    "index": 17
+  },
+  {
+    "surface": "グランブルーファンタジー",
+    "reading": "grandbluefantasy",
+    "code": "cr-koto2-18",
+    "index": 18
+  },
+  {
+    "surface": "バンダイナムコエンターテインメント",
+    "reading": "bandainamukoentertainment",
+    "code": "cr-koto2-19",
+    "index": 19
+  },
+  {
+    "surface": "トワイライトエクスプレス",
+    "reading": "twilightexpress",
+    "code": "cr-koto2-20",
+    "index": 20
+  },
+  {
+    "surface": "フレームアームズ・ガール",
+    "reading": "framearmgirl",
+    "code": "cr-koto2-21",
+    "index": 21
+  },
+  {
+    "surface": "アイドルマスターシンデレラガールズ",
+    "reading": "aidorumasutaashindereragaaruzu",
+    "code": "cr-koto2-22",
+    "index": 22
+  },
+  {
+    "surface": "アンジェリーナ・ジョリー",
+    "reading": "anjeriinajorii",
+    "code": "cr-koto2-23",
+    "index": 23
+  },
+  {
+    "surface": "ヒューレット・パッカード",
+    "reading": "hyuurettopakkaado",
+    "code": "cr-koto2-24",
+    "index": 24
+  },
+  {
+    "surface": "スクールアイドルフェスティバル",
+    "reading": "schoolidolfestival",
+    "code": "cr-koto2-25",
+    "index": 25
+  },
+  {
+    "surface": "フリースタイルダンジョン",
+    "reading": "freestyledanjon",
+    "code": "cr-koto2-26",
+    "index": 26
+  },
+  {
+    "surface": "ケンタッキーフライドチキン",
+    "reading": "kentuckyfriedchicken",
+    "code": "cr-koto2-27",
+    "index": 27
+  },
+  {
+    "surface": "ヤングジャンプコミックス",
+    "reading": "youngjumpcomic",
+    "code": "cr-koto2-28",
+    "index": 28
+  },
+  {
+    "surface": "ウィンストン・チャーチル",
+    "reading": "winstonchurchill",
+    "code": "cr-koto2-29",
+    "index": 29
+  },
+  {
+    "surface": "ナショナルジオグラフィック",
+    "reading": "nationaljiogurafikku",
+    "code": "cr-koto2-30",
+    "index": 30
+  },
+  {
+    "surface": "ボスニア・ヘルツェゴビナ",
+    "reading": "bosnaihercegovina",
+    "code": "cr-koto2-31",
+    "index": 31
+  },
+  {
+    "surface": "ヘッドマウントディスプレイ",
+    "reading": "headmountdisplay",
+    "code": "cr-koto2-32",
+    "index": 32
+  },
+  {
+    "surface": "メイクアップアーティスト",
+    "reading": "makeupartist",
+    "code": "cr-koto2-33",
+    "index": 33
+  },
+  {
+    "surface": "ファンタシースターオンライン",
+    "reading": "fantashiisutaaonrain",
+    "code": "cr-koto2-34",
+    "index": 34
+  },
+  {
+    "surface": "ウォール・ストリート・ジャーナル",
+    "reading": "wallstreetjournal",
+    "code": "cr-koto2-35",
+    "index": 35
+  },
+  {
+    "surface": "エイブラハム・リンカーン",
+    "reading": "abrahamlincoln",
+    "code": "cr-koto2-36",
+    "index": 36
+  },
+  {
+    "surface": "ベンジャミン・フランクリン",
+    "reading": "benjaminfranklin",
+    "code": "cr-koto2-37",
+    "index": 37
+  },
+  {
+    "surface": "東京スカパラダイスオーケストラ",
+    "reading": "tokyoskaparadiseorchestra",
+    "code": "cr-koto2-38",
+    "index": 38
+  },
+  {
+    "surface": "ダイレクトマーケティング",
+    "reading": "directmarketing",
+    "code": "cr-koto2-39",
+    "index": 39
+  },
+  {
+    "surface": "プロジェクションマッピング",
+    "reading": "projectionmapping",
+    "code": "cr-koto2-40",
+    "index": 40
+  },
+  {
+    "surface": "マサチューセッツ工科大学",
+    "reading": "massachusettskoukadaigaku",
+    "code": "cr-koto2-41",
+    "index": 41
+  },
+  {
+    "surface": "リチウムイオンバッテリー",
+    "reading": "lithiumionbattery",
+    "code": "cr-koto2-42",
+    "index": 42
+  },
+  {
+    "surface": "オペレーティングシステム",
+    "reading": "operatingsystem",
+    "code": "cr-koto2-43",
+    "index": 43
+  }
+]
